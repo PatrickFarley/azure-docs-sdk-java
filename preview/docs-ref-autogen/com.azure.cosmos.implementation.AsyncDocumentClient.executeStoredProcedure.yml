@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.executeStoredProcedure(String storedProcedureLink, RequestOptions options, List<Object> procedureParams)"
   name: "executeStoredProcedure(String storedProcedureLink, RequestOptions options, List<Object> procedureParams)"
   nameWithType: "AsyncDocumentClient.executeStoredProcedure(String storedProcedureLink, RequestOptions options, List<Object> procedureParams)"
-  summary: "Executes a stored procedure\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the stored procedure response.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Executes a stored procedure\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the stored procedure response. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the stored procedure link."
     name: "storedProcedureLink"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.executeStoredProcedure(String storedProcedureLink, List<Object> procedureParams)"
   name: "executeStoredProcedure(String storedProcedureLink, List<Object> procedureParams)"
   nameWithType: "AsyncDocumentClient.executeStoredProcedure(String storedProcedureLink, List<Object> procedureParams)"
-  summary: "Executes a stored procedure\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the stored procedure response.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Executes a stored procedure\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the stored procedure response. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the stored procedure link."
     name: "storedProcedureLink"

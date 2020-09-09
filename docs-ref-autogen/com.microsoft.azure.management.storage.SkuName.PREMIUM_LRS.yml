@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.SkuName.PREMIUM_LRS"
   name: "PREMIUM_LRS"
   nameWithType: "SkuName.PREMIUM_LRS"
-  summary: "Static value Premium_LRS for SkuName."
+  summary: "Static value Premium\\_LRS for SkuName."
   syntax: "public static final SkuName PREMIUM_LRS"
 type: "field"
 metadata: {}

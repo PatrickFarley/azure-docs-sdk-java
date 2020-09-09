@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ChangeFeedOptions.setStartDateTime(Instant startDateTime)"
   name: "setStartDateTime(Instant startDateTime)"
   nameWithType: "ChangeFeedOptions.setStartDateTime(Instant startDateTime)"
-  summary: "Sets the instant time (exclusive) to start looking for changes after. If\n this is specified, startFromBeginning is ignored."
+  summary: "Sets the instant time (exclusive) to start looking for changes after. If this is specified, startFromBeginning is ignored."
   parameters:
   - description: "a instant time to start looking for changes after."
     name: "startDateTime"

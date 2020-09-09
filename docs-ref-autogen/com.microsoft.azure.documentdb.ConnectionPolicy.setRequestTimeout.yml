@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ConnectionPolicy.setRequestTimeout(int requestTimeout)"
   name: "setRequestTimeout(int requestTimeout)"
   nameWithType: "ConnectionPolicy.setRequestTimeout(int requestTimeout)"
-  summary: "Sets the request timeout (time to wait for response from network peer) in\n seconds."
+  summary: "Sets the request timeout (time to wait for response from network peer) in seconds."
   parameters:
   - description: "the request timeout in seconds."
     name: "requestTimeout"

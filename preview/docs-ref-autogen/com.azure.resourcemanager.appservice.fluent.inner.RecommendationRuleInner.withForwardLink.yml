@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RecommendationRuleInner.withForwardLink(String forwardLink)"
   name: "withForwardLink(String forwardLink)"
   nameWithType: "RecommendationRuleInner.withForwardLink(String forwardLink)"
-  summary: "Set the forwardLink property: Forward link to an external document associated with the rule. Applicable to\n dynamic rule only."
+  summary: "Set the forwardLink property: Forward link to an external document associated with the rule. Applicable to dynamic rule only."
   parameters:
   - description: "the forwardLink value to set."
     name: "forwardLink"

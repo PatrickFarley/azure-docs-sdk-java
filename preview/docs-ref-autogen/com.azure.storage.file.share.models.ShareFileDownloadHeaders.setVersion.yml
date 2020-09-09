@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.setVersion(String version)"
   name: "setVersion(String version)"
   nameWithType: "ShareFileDownloadHeaders.setVersion(String version)"
-  summary: "Set the version property: Indicates the version of the File service used\n to execute the request."
+  summary: "Set the version property: Indicates the version of the File service used to execute the request."
   parameters:
   - description: "the version value to set."
     name: "version"

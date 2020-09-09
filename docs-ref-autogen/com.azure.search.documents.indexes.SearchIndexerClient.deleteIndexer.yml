@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.deleteIndexer(String indexerName)"
   name: "deleteIndexer(String indexerName)"
   nameWithType: "SearchIndexerClient.deleteIndexer(String indexerName)"
-  summary: "Deletes an Azure Cognitive Search indexer.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete search indexer named \"searchIndexer\". </p>\n\n <pre>\n searchIndexerClient.deleteIndexer&#40;&quot;searchIndexer&quot;&#41;;\n </pre>"
+  summary: "Deletes an Azure Cognitive Search indexer.\n\n**Code Sample**\n\nDelete search indexer named \"searchIndexer\".\n\n```java\nsearchIndexerClient.deleteIndexer(\"searchIndexer\");\n```"
   parameters:
   - description: "the name of the indexer to delete"
     name: "indexerName"

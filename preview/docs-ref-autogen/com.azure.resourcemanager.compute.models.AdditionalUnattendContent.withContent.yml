@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.AdditionalUnattendContent.withContent(String content)"
   name: "withContent(String content)"
   nameWithType: "AdditionalUnattendContent.withContent(String content)"
-  summary: "Set the content property: Specifies the XML formatted content that is added to the unattend.xml file for the\n specified path and component. The XML must be less than 4KB and must include the root element for the setting or\n feature that is being inserted."
+  summary: "Set the content property: Specifies the XML formatted content that is added to the unattend.xml file for the specified path and component. The XML must be less than 4KB and must include the root element for the setting or feature that is being inserted."
   parameters:
   - description: "the content value to set."
     name: "content"

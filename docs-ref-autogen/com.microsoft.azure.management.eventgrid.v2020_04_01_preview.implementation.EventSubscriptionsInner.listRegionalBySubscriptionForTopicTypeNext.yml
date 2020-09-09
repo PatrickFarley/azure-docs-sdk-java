@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listRegionalBySubscriptionForTopicTypeNext(String nextPageLink)"
   name: "listRegionalBySubscriptionForTopicTypeNext(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listRegionalBySubscriptionForTopicTypeNext(String nextPageLink)"
-  summary: "List all regional event subscriptions under an Azure subscription for a topic type.\n List all event subscriptions from the given location under a specific Azure subscription and topic type."
+  summary: "List all regional event subscriptions under an Azure subscription for a topic type. List all event subscriptions from the given location under a specific Azure subscription and topic type."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.specialized.ShareLeaseClient.acquireLeaseWithResponse(Duration timeout, Context context)"
   name: "acquireLeaseWithResponse(Duration timeout, Context context)"
   nameWithType: "ShareLeaseClient.acquireLeaseWithResponse(Duration timeout, Context context)"
-  summary: "Acquires a lease for write and delete operations. All leases are infinite.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n System.out.printf&#40;&quot;Lease ID is %s%n&quot;, client\n     .acquireLeaseWithResponse&#40;timeout, new Context&#40;key, value&#41;&#41;\n     .getValue&#40;&#41;&#41;;\n </pre>"
+  summary: "Acquires a lease for write and delete operations. All leases are infinite.\n\n**Code Samples**\n\n```java\nSystem.out.printf(\"Lease ID is %s%n\", client\n     .acquireLeaseWithResponse(timeout, new Context(key, value))\n     .getValue());\n```"
   parameters:
   - description: "An optional timeout value beyond which a <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> will be raised."
     name: "timeout"

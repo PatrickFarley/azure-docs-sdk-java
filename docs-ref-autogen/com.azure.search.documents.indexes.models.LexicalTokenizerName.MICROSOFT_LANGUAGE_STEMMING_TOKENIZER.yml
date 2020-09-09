@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LexicalTokenizerName.MICROSOFT_LANGUAGE_STEMMING_TOKENIZER"
   name: "MICROSOFT_LANGUAGE_STEMMING_TOKENIZER"
   nameWithType: "LexicalTokenizerName.MICROSOFT_LANGUAGE_STEMMING_TOKENIZER"
-  summary: "Static value microsoft_language_stemming_tokenizer for LexicalTokenizerName."
+  summary: "Static value microsoft\\_language\\_stemming\\_tokenizer for LexicalTokenizerName."
   syntax: "public static final LexicalTokenizerName MICROSOFT_LANGUAGE_STEMMING_TOKENIZER"
 type: "field"
 metadata: {}

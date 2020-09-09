@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobServiceProperties.setDeleteRetentionPolicy(BlobRetentionPolicy deleteRetentionPolicy)"
   name: "setDeleteRetentionPolicy(BlobRetentionPolicy deleteRetentionPolicy)"
   nameWithType: "BlobServiceProperties.setDeleteRetentionPolicy(BlobRetentionPolicy deleteRetentionPolicy)"
-  summary: "Set the deleteRetentionPolicy property: The deleteRetentionPolicy\n property."
+  summary: "Set the deleteRetentionPolicy property: The deleteRetentionPolicy property."
   parameters:
   - description: "the deleteRetentionPolicy value to set."
     name: "deleteRetentionPolicy"

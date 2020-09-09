@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ScoringProfile.getFunctions()"
   name: "getFunctions()"
   nameWithType: "ScoringProfile.getFunctions()"
-  summary: "Get the functions property: The collection of functions that influence\n the scoring of documents."
+  summary: "Get the functions property: The collection of functions that influence the scoring of documents."
   syntax: "public List<ScoringFunction> getFunctions()"
   returns:
     description: "the functions value."

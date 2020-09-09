@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.dag.TaskGroup.addDependencyTaskGroup(TaskGroup dependencyTaskGroup)"
   name: "addDependencyTaskGroup(TaskGroup dependencyTaskGroup)"
   nameWithType: "TaskGroup.addDependencyTaskGroup(TaskGroup dependencyTaskGroup)"
-  summary: "Mark root of this task task group depends on the given task group's root.\n This ensure this task group's root get picked for execution only after the completion\n of all tasks in the given group."
+  summary: "Mark root of this task task group depends on the given task group's root. This ensure this task group's root get picked for execution only after the completion of all tasks in the given group."
   parameters:
   - description: "the task group that this task group depends on"
     name: "dependencyTaskGroup"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClientBuilder.setAnonymousAccess()"
   name: "setAnonymousAccess()"
   nameWithType: "DataLakeFileSystemClientBuilder.setAnonymousAccess()"
-  summary: "Clears the credential used to authorize the request.\n\n <p>This is for file systems that are publicly accessible.</p>"
+  summary: "Clears the credential used to authorize the request.\n\nThis is for file systems that are publicly accessible."
   syntax: "public DataLakeFileSystemClientBuilder setAnonymousAccess()"
   returns:
     description: "the updated DataLakeFileSystemClientBuilder"

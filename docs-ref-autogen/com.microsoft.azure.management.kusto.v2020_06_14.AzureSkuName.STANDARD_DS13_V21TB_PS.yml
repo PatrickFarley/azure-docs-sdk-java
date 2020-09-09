@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.kusto.v2020_06_14.AzureSkuName.STANDARD_DS13_V21TB_PS"
   name: "STANDARD_DS13_V21TB_PS"
   nameWithType: "AzureSkuName.STANDARD_DS13_V21TB_PS"
-  summary: "Static value Standard_DS13_v2+1TB_PS for AzureSkuName."
+  summary: "Static value Standard\\_DS13\\_v2+1TB\\_PS for AzureSkuName."
   syntax: "public static final AzureSkuName STANDARD_DS13_V21TB_PS"
 type: "field"
 metadata: {}

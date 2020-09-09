@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlert.windowSize()"
   name: "windowSize()"
   nameWithType: "MetricAlert.windowSize()"
-  summary: "Get the Duration of time (in ISO 8601 duration format) that is used to monitor alert activity based on the\n threshold."
+  summary: "Get the Duration of time (in ISO 8601 duration format) that is used to monitor alert activity based on the threshold."
   syntax: "public abstract Duration windowSize()"
   returns:
     description: "the windowSize value"

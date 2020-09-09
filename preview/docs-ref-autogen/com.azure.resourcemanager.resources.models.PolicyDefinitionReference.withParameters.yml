@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.models.PolicyDefinitionReference.withParameters(Map<String,ParameterValuesValue> parameters)"
   name: "withParameters(Map<String,ParameterValuesValue> parameters)"
   nameWithType: "PolicyDefinitionReference.withParameters(Map<String,ParameterValuesValue> parameters)"
-  summary: "Set the parameters property: The parameter values for the referenced policy rule. The keys are the parameter\n names."
+  summary: "Set the parameters property: The parameter values for the referenced policy rule. The keys are the parameter names."
   parameters:
   - description: "the parameters value to set."
     name: "parameters"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FormLine.FormLine(String text, FieldBoundingBox boundingBox, Integer pageNumber, List<FormWord> words)"
   name: "FormLine(String text, FieldBoundingBox boundingBox, Integer pageNumber, List<FormWord> words)"
   nameWithType: "FormLine.FormLine(String text, FieldBoundingBox boundingBox, Integer pageNumber, List<FormWord> words)"
-  summary: "Creates raw OCR item.\n When includeFieldElements is set to true, a list of recognized text lines."
+  summary: "Creates raw OCR item. When includeFieldElements is set to true, a list of recognized text lines."
   parameters:
   - description: "The text content of recognized field."
     name: "text"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.AppServiceEnvironmentsClient.listMultiRolePoolInstanceMetricDefinitions(String resourceGroupName, String name, String instance)"
   name: "listMultiRolePoolInstanceMetricDefinitions(String resourceGroupName, String name, String instance)"
   nameWithType: "AppServiceEnvironmentsClient.listMultiRolePoolInstanceMetricDefinitions(String resourceGroupName, String name, String instance)"
-  summary: "Description for Get metric definitions for a specific instance of a multi-role pool of an App Service\n Environment."
+  summary: "Description for Get metric definitions for a specific instance of a multi-role pool of an App Service Environment."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.AppServiceEnvironmentsClient.listMultiRolePoolInstanceMetricDefinitions(String resourceGroupName, String name, String instance, Context context)"
   name: "listMultiRolePoolInstanceMetricDefinitions(String resourceGroupName, String name, String instance, Context context)"
   nameWithType: "AppServiceEnvironmentsClient.listMultiRolePoolInstanceMetricDefinitions(String resourceGroupName, String name, String instance, Context context)"
-  summary: "Description for Get metric definitions for a specific instance of a multi-role pool of an App Service\n Environment."
+  summary: "Description for Get metric definitions for a specific instance of a multi-role pool of an App Service Environment."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

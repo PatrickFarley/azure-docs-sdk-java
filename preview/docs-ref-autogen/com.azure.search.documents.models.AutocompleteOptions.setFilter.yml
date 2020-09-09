@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.AutocompleteOptions.setFilter(String filter)"
   name: "setFilter(String filter)"
   nameWithType: "AutocompleteOptions.setFilter(String filter)"
-  summary: "Set the filter property: An OData expression that filters the documents\n used to produce completed terms for the Autocomplete result."
+  summary: "Set the filter property: An OData expression that filters the documents used to produce completed terms for the Autocomplete result."
   parameters:
   - description: "the filter value to set."
     name: "filter"

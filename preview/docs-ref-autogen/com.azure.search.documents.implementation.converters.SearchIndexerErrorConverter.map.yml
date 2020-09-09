@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SearchIndexerErrorConverter.map(SearchIndexerError obj)"
   name: "map(SearchIndexerError obj)"
   nameWithType: "SearchIndexerErrorConverter.map(SearchIndexerError obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerError\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerError</xref> to\n <xref uid=\"SearchIndexerError\" data-throw-if-not-resolved=\"false\">SearchIndexerError</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerError\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerError</xref> to <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerError\" data-throw-if-not-resolved=\"false\">SearchIndexerError</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerError?alt=com.azure.search.documents.indexes.implementation.models.SearchIndexerError&text=SearchIndexerError\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SearchIndexerErrorConverter.map(SearchIndexerError obj)"
   name: "map(SearchIndexerError obj)"
   nameWithType: "SearchIndexerErrorConverter.map(SearchIndexerError obj)"
-  summary: "Maps from <xref uid=\"SearchIndexerError\" data-throw-if-not-resolved=\"false\">SearchIndexerError</xref> to\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerError\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerError</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerError\" data-throw-if-not-resolved=\"false\">SearchIndexerError</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerError\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerError</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.SearchIndexerError?alt=com.azure.search.documents.indexes.models.SearchIndexerError&text=SearchIndexerError\" data-throw-if-not-resolved=\"False\" />"

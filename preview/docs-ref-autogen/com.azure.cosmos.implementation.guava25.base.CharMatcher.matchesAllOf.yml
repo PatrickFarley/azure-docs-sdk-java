@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.matchesAllOf(CharSequence sequence)"
   name: "matchesAllOf(CharSequence sequence)"
   nameWithType: "CharMatcher.matchesAllOf(CharSequence sequence)"
-  summary: "Returns <code>true</code> if a character sequence contains only matching BMP characters.\n\n <p>The default implementation iterates over the sequence, invoking <xref uid=\"#matches\" data-throw-if-not-resolved=\"false\">#matches</xref> for each\n character, until this returns <code>false</code> or the end is reached."
+  summary: "Returns `true` if a character sequence contains only matching BMP characters.\n\nThe default implementation iterates over the sequence, invoking <xref uid=\"com.azure.cosmos.implementation.guava25.base.CharMatcher.matches*\" data-throw-if-not-resolved=\"false\">#matches</xref> for each character, until this returns `false` or the end is reached."
   parameters:
   - description: "the character sequence to examine, possibly empty"
     name: "sequence"

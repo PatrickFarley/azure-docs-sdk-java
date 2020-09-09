@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.policy.ProviderRegistrationPolicy.ProviderRegistrationPolicy(TokenCredential credential, AzureProfile profile)"
   name: "ProviderRegistrationPolicy(TokenCredential credential, AzureProfile profile)"
   nameWithType: "ProviderRegistrationPolicy.ProviderRegistrationPolicy(TokenCredential credential, AzureProfile profile)"
-  summary: "Initialize a provider registration policy with a credential that's authorized\n to register the provider."
+  summary: "Initialize a provider registration policy with a credential that's authorized to register the provider."
   parameters:
   - description: "the credential for provider registration"
     name: "credential"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryTask.UpdateStages.TriggerTypes.updateBaseImageTrigger(String baseImageTriggerName, BaseImageTriggerType baseImageTriggerType)"
   name: "updateBaseImageTrigger(String baseImageTriggerName, BaseImageTriggerType baseImageTriggerType)"
   nameWithType: "RegistryTask.UpdateStages.TriggerTypes.updateBaseImageTrigger(String baseImageTriggerName, BaseImageTriggerType baseImageTriggerType)"
-  summary: "The function that defines a base image trigger with the two parameters required for base image trigger\n update."
+  summary: "The function that defines a base image trigger with the two parameters required for base image trigger update."
   parameters:
   - description: "the name of the base image trigger."
     name: "baseImageTriggerName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryTask.UpdateStages.TriggerTypes.updateBaseImageTrigger(String baseImageTriggerName, BaseImageTriggerType baseImageTriggerType, TriggerStatus triggerStatus)"
   name: "updateBaseImageTrigger(String baseImageTriggerName, BaseImageTriggerType baseImageTriggerType, TriggerStatus triggerStatus)"
   nameWithType: "RegistryTask.UpdateStages.TriggerTypes.updateBaseImageTrigger(String baseImageTriggerName, BaseImageTriggerType baseImageTriggerType, TriggerStatus triggerStatus)"
-  summary: "The function that defines a base image trigger with all possible parameters for base image trigger\n update."
+  summary: "The function that defines a base image trigger with all possible parameters for base image trigger update."
   parameters:
   - description: "the name of the base image trigger."
     name: "baseImageTriggerName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset.Builder<E>.addAll(Iterable<? extends E> elements)"
   name: "addAll(Iterable<? extends E> elements)"
   nameWithType: "ImmutableMultiset.Builder<E>.addAll(Iterable<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableMultiset</code>."
+  summary: "Adds each element of `elements` to the `ImmutableMultiset`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.addAll(java.lang.Iterable<? extends E>)"
   parameters:
   - description: "the <code>Iterable</code> to add to the <code>ImmutableMultiset</code>"
@@ -22,7 +22,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset.Builder<E>.addAll(Iterator<? extends E> elements)"
   name: "addAll(Iterator<? extends E> elements)"
   nameWithType: "ImmutableMultiset.Builder<E>.addAll(Iterator<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableMultiset</code>."
+  summary: "Adds each element of `elements` to the `ImmutableMultiset`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.addAll(java.util.Iterator<? extends E>)"
   parameters:
   - description: "the elements to add to the <code>ImmutableMultiset</code>"

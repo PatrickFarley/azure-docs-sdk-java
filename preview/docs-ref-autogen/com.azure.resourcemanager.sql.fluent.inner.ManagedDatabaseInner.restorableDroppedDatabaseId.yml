@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedDatabaseInner.restorableDroppedDatabaseId()"
   name: "restorableDroppedDatabaseId()"
   nameWithType: "ManagedDatabaseInner.restorableDroppedDatabaseId()"
-  summary: "Get the restorableDroppedDatabaseId property: The restorable dropped database resource id to restore when\n creating this database."
+  summary: "Get the restorableDroppedDatabaseId property: The restorable dropped database resource id to restore when creating this database."
   syntax: "public String restorableDroppedDatabaseId()"
   returns:
     description: "the restorableDroppedDatabaseId value."

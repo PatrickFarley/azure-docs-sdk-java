@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.Utility.urlDecode(String stringToDecode)"
   name: "urlDecode(String stringToDecode)"
   nameWithType: "Utility.urlDecode(String stringToDecode)"
-  summary: "Performs a safe decoding of the passed string, taking care to preserve each <code>+</code> character rather than\n replacing it with a space character."
+  summary: "Performs a safe decoding of the passed string, taking care to preserve each `+` character rather than replacing it with a space character."
   parameters:
   - description: "String value to decode"
     name: "stringToDecode"

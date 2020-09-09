@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.RangeMap<K,V>.put(Range<K> range, V value)"
   name: "put(Range<K> range, V value)"
   nameWithType: "RangeMap<K,V>.put(Range<K> range, V value)"
-  summary: "Maps a range to a specified value (optional operation).\n\n <p>Specifically, after a call to <code>put(range, value)</code>, if <xref uid=\"Range#contains(Comparable)\" data-throw-if-not-resolved=\"false\">range.contains(k)</xref>, then <xref uid=\"#get(Comparable)\" data-throw-if-not-resolved=\"false\">get(k)</xref> will return\n <code>value</code>.\n\n <p>If <code>range</code> <xref uid=\"Range#isEmpty()\" data-throw-if-not-resolved=\"false\">is empty</xref>, then this is a no-op."
+  summary: "Maps a range to a specified value (optional operation).\n\nSpecifically, after a call to `put(range, value)`, if <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Range.contains*\" data-throw-if-not-resolved=\"false\">range.contains(k)</xref>, then <xref uid=\"com.azure.cosmos.implementation.guava25.collect.RangeMap.get*\" data-throw-if-not-resolved=\"false\">get(k)</xref> will return `value`.\n\nIf `range` <xref uid=\"com.azure.cosmos.implementation.routing.Range.isEmpty()\" data-throw-if-not-resolved=\"false\">is empty</xref>, then this is a no-op."
   parameters:
   - name: "range"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Range?alt=com.azure.cosmos.implementation.guava25.collect.Range&text=Range\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />&gt;"

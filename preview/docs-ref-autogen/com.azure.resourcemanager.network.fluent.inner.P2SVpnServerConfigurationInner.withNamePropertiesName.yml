@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnServerConfigurationInner.withNamePropertiesName(String namePropertiesName)"
   name: "withNamePropertiesName(String namePropertiesName)"
   nameWithType: "P2SVpnServerConfigurationInner.withNamePropertiesName(String namePropertiesName)"
-  summary: "Set the namePropertiesName property: The name of the P2SVpnServerConfiguration that is unique within a VirtualWan\n in a resource group. This name can be used to access the resource along with Paren VirtualWan resource name."
+  summary: "Set the namePropertiesName property: The name of the P2SVpnServerConfiguration that is unique within a VirtualWan in a resource group. This name can be used to access the resource along with Paren VirtualWan resource name."
   parameters:
   - description: "the namePropertiesName value to set."
     name: "namePropertiesName"

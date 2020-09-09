@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.getTask(String jobId, String taskId)"
   name: "getTask(String jobId, String taskId)"
   nameWithType: "TaskOperations.getTask(String jobId, String taskId)"
-  summary: "Gets the specified <xref uid=\"CloudTask\" data-throw-if-not-resolved=\"false\">CloudTask</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudTask\" data-throw-if-not-resolved=\"false\">CloudTask</xref>."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"
@@ -29,7 +29,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.getTask(String jobId, String taskId, DetailLevel detailLevel)"
   name: "getTask(String jobId, String taskId, DetailLevel detailLevel)"
   nameWithType: "TaskOperations.getTask(String jobId, String taskId, DetailLevel detailLevel)"
-  summary: "Gets the specified <xref uid=\"CloudTask\" data-throw-if-not-resolved=\"false\">CloudTask</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudTask\" data-throw-if-not-resolved=\"false\">CloudTask</xref>."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"
@@ -53,7 +53,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.getTask(String jobId, String taskId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "getTask(String jobId, String taskId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "TaskOperations.getTask(String jobId, String taskId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Gets the specified <xref uid=\"CloudTask\" data-throw-if-not-resolved=\"false\">CloudTask</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudTask\" data-throw-if-not-resolved=\"false\">CloudTask</xref>."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"

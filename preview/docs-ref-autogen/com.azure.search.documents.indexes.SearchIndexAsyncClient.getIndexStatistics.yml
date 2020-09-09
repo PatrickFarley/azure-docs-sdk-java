@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.getIndexStatistics(String indexName)"
   name: "getIndexStatistics(String indexName)"
   nameWithType: "SearchIndexAsyncClient.getIndexStatistics(String indexName)"
-  summary: "Returns statistics for the given index, including a document count and storage usage.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search index \"searchIndex\" statistics. </p>\n\n <pre>\n searchIndexAsyncClient.getIndexStatistics&#40;&quot;searchIndex&quot;&#41;\n     .subscribe&#40;statistics -&gt;\n         System.out.printf&#40;&quot;There are %d documents and storage size of %d available in 'searchIndex'.%n&quot;,\n         statistics.getDocumentCount&#40;&#41;, statistics.getStorageSize&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Returns statistics for the given index, including a document count and storage usage.\n\n**Code Sample**\n\nGet search index \"searchIndex\" statistics.\n\n```java\nsearchIndexAsyncClient.getIndexStatistics(\"searchIndex\")\n     .subscribe(statistics ->\n         System.out.printf(\"There are %d documents and storage size of %d available in 'searchIndex'.%n\",\n         statistics.getDocumentCount(), statistics.getStorageSize()));\n```"
   parameters:
   - description: "the name of the index for which to retrieve statistics"
     name: "indexName"

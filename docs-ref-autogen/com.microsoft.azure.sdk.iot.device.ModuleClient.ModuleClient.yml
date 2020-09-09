@@ -55,7 +55,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.ModuleClient.ModuleClient(String connectionString, IotHubClientProtocol protocol, String publicKeyCertificate, boolean isCertificatePath, String privateKey, boolean isPrivateKeyPath)"
   name: "ModuleClient(String connectionString, IotHubClientProtocol protocol, String publicKeyCertificate, boolean isCertificatePath, String privateKey, boolean isPrivateKeyPath)"
   nameWithType: "ModuleClient.ModuleClient(String connectionString, IotHubClientProtocol protocol, String publicKeyCertificate, boolean isCertificatePath, String privateKey, boolean isPrivateKeyPath)"
-  summary: "Create a module client instance that uses x509 authentication.\n\n <p>Note! Communication from a module to another EdgeHub using x509 authentication is not currently supported and\n the service will always return \"UNAUTHORIZED\"</p>\n\n <p>Communication from a module directly to the IotHub does support x509 authentication, though.</p>"
+  summary: "Create a module client instance that uses x509 authentication.\n\nNote! Communication from a module to another EdgeHub using x509 authentication is not currently supported and the service will always return \"UNAUTHORIZED\"\n\nCommunication from a module directly to the IotHub does support x509 authentication, though."
   parameters:
   - description: "The connection string for the edge module to connect to. Must be in format\n                         HostName=xxxx;deviceId=xxxx;SharedAccessKey=\n                         xxxx;moduleId=xxxx;\n\n                         or\n\n                         HostName=xxxx;DeviceId=xxxx;SharedAccessKey=\n                         xxxx;moduleId=xxxx;HostNameGateway=xxxx"
     name: "connectionString"

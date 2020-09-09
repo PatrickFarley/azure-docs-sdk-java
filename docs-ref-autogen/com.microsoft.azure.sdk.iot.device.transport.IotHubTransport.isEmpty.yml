@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.IotHubTransport.isEmpty()"
   name: "isEmpty()"
   nameWithType: "IotHubTransport.isEmpty()"
-  summary: "Returns <code>true</code> if the transport has no more messages to handle,\n and <code>false</code> otherwise."
+  summary: "Returns `true` if the transport has no more messages to handle, and `false` otherwise."
   syntax: "public boolean isEmpty()"
   returns:
     description: "<code>true</code> if the transport has no more messages to handle,\n and <code>false</code> otherwise."

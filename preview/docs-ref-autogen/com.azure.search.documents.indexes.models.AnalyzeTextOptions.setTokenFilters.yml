@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.AnalyzeTextOptions.setTokenFilters(TokenFilterName[] tokenFilters)"
   name: "setTokenFilters(TokenFilterName[] tokenFilters)"
   nameWithType: "AnalyzeTextOptions.setTokenFilters(TokenFilterName[] tokenFilters)"
-  summary: "Set the tokenFilters property: An optional list of token filters to use\n when breaking the given text. This parameter can only be set when using\n the tokenizer parameter."
+  summary: "Set the tokenFilters property: An optional list of token filters to use when breaking the given text. This parameter can only be set when using the tokenizer parameter."
   parameters:
   - description: "the tokenFilters value to set."
     name: "tokenFilters"

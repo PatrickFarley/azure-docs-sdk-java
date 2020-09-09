@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.VirtualNetworkRule.withVirtualNetworkResourceId(String virtualNetworkResourceId)"
   name: "withVirtualNetworkResourceId(String virtualNetworkResourceId)"
   nameWithType: "VirtualNetworkRule.withVirtualNetworkResourceId(String virtualNetworkResourceId)"
-  summary: "Set resource ID of a subnet, for example: /subscriptions/{subscriptionId}/resourceGroups/{groupName}/providers/Microsoft.Network/virtualNetworks/{vnetName}/subnets/{subnetName}."
+  summary: "Set resource ID of a subnet, for example: /subscriptions/\\{subscriptionId\\}/resourceGroups/\\{groupName\\}/providers/Microsoft.Network/virtualNetworks/\\{vnetName\\}/subnets/\\{subnetName\\}."
   parameters:
   - description: "the virtualNetworkResourceId value to set"
     name: "virtualNetworkResourceId"

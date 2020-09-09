@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobClientBuilder.buildClient()"
   name: "buildClient()"
   nameWithType: "BlobClientBuilder.buildClient()"
-  summary: "Creates a <xref uid=\"BlobClient\" data-throw-if-not-resolved=\"false\">BlobClient</xref> based on options set in the builder. BlobClients are used to perform generic blob\n methods such as <xref uid=\"BlobClient#download(OutputStream)\" data-throw-if-not-resolved=\"false\">download</xref> and <xref uid=\"BlobClient#getProperties()\" data-throw-if-not-resolved=\"false\">get\n properties</xref>, use this when the blob type is unknown.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n BlobClient client = new BlobClientBuilder&#40;&#41;\n     .connectionString&#40;connectionString&#41;\n     .buildClient&#40;&#41;;\n </pre>"
+  summary: "Creates a <xref uid=\"com.azure.storage.blob.BlobClient\" data-throw-if-not-resolved=\"false\">BlobClient</xref> based on options set in the builder. BlobClients are used to perform generic blob methods such as <xref uid=\"com.azure.storage.blob.BlobClient.download*\" data-throw-if-not-resolved=\"false\">download</xref> and <xref uid=\"BlobClient#getProperties()\" data-throw-if-not-resolved=\"false\">get\n properties</xref>, use this when the blob type is unknown.\n\n**Code Samples**\n\n```java\nBlobClient client = new BlobClientBuilder()\n     .connectionString(connectionString)\n     .buildClient();\n```"
   syntax: "public BlobClient buildClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.blob.BlobClient\" data-throw-if-not-resolved=\"false\">BlobClient</xref> created from the configurations in this builder."

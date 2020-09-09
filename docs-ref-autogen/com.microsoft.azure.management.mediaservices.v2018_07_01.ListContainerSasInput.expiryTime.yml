@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.ListContainerSasInput.expiryTime()"
   name: "expiryTime()"
   nameWithType: "ListContainerSasInput.expiryTime()"
-  summary: "Get the SAS URL expiration time.  This must be less than 24 hours from the current time."
+  summary: "Get the SAS URL expiration time. This must be less than 24 hours from the current time."
   syntax: "public DateTime expiryTime()"
   returns:
     description: "the expiryTime value"

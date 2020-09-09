@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.StaticWebsite.setErrorDocument404Path(String errorDocument404Path)"
   name: "setErrorDocument404Path(String errorDocument404Path)"
   nameWithType: "StaticWebsite.setErrorDocument404Path(String errorDocument404Path)"
-  summary: "Set the errorDocument404Path property: The absolute path of the custom\n 404 page."
+  summary: "Set the errorDocument404Path property: The absolute path of the custom 404 page."
   parameters:
   - description: "the errorDocument404Path value to set."
     name: "errorDocument404Path"

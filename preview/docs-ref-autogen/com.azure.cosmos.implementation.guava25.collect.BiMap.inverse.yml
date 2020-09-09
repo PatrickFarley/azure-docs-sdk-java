@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.BiMap<K,V>.inverse()"
   name: "inverse()"
   nameWithType: "BiMap<K,V>.inverse()"
-  summary: "Returns the inverse view of this bimap, which maps each of this bimap's values to its\n associated key. The two bimaps are backed by the same data; any changes to one will appear in\n the other.\n\n <p><b>Note:</b>There is no guaranteed correspondence between the iteration order of a bimap and\n that of its inverse."
+  summary: "Returns the inverse view of this bimap, which maps each of this bimap's values to its associated key. The two bimaps are backed by the same data; any changes to one will appear in the other.\n\n**Note:**There is no guaranteed correspondence between the iteration order of a bimap and that of its inverse."
   syntax: "public abstract BiMap<V,K> inverse()"
   returns:
     description: "the inverse view of this bimap"

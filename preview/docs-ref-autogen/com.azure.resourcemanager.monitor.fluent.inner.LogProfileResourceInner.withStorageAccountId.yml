@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.LogProfileResourceInner.withStorageAccountId(String storageAccountId)"
   name: "withStorageAccountId(String storageAccountId)"
   nameWithType: "LogProfileResourceInner.withStorageAccountId(String storageAccountId)"
-  summary: "Set the storageAccountId property: the resource id of the storage account to which you would like to send the\n Activity Log."
+  summary: "Set the storageAccountId property: the resource id of the storage account to which you would like to send the Activity Log."
   parameters:
   - description: "the storageAccountId value to set."
     name: "storageAccountId"

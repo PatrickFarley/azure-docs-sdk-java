@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseSecurityAlertPolicyInner.withDisabledAlerts(String disabledAlerts)"
   name: "withDisabledAlerts(String disabledAlerts)"
   nameWithType: "DatabaseSecurityAlertPolicyInner.withDisabledAlerts(String disabledAlerts)"
-  summary: "Set the disabledAlerts property: Specifies the semicolon-separated list of alerts that are disabled, or empty\n string to disable no alerts. Possible values: Sql_Injection; Sql_Injection_Vulnerability; Access_Anomaly;\n Data_Exfiltration; Unsafe_Action."
+  summary: "Set the disabledAlerts property: Specifies the semicolon-separated list of alerts that are disabled, or empty string to disable no alerts. Possible values: Sql\\_Injection; Sql\\_Injection\\_Vulnerability; Access\\_Anomaly; Data\\_Exfiltration; Unsafe\\_Action."
   parameters:
   - description: "the disabledAlerts value to set."
     name: "disabledAlerts"

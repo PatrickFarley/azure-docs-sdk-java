@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RuleCondition.dataSource()"
   name: "dataSource()"
   nameWithType: "RuleCondition.dataSource()"
-  summary: "Get the dataSource property: the resource from which the rule collects its data. For this type dataSource will\n always be of type RuleMetricDataSource."
+  summary: "Get the dataSource property: the resource from which the rule collects its data. For this type dataSource will always be of type RuleMetricDataSource."
   syntax: "public RuleDataSource dataSource()"
   returns:
     description: "the dataSource value."

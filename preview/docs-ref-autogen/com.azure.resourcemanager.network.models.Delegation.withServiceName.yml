@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.Delegation.withServiceName(String serviceName)"
   name: "withServiceName(String serviceName)"
   nameWithType: "Delegation.withServiceName(String serviceName)"
-  summary: "Set the serviceName property: The name of the service to whom the subnet should be delegated (e.g.\n Microsoft.Sql/servers)."
+  summary: "Set the serviceName property: The name of the service to whom the subnet should be delegated (e.g. Microsoft.Sql/servers)."
   parameters:
   - description: "the serviceName value to set."
     name: "serviceName"

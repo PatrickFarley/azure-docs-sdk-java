@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.DeploymentsClient.cancelAtTenantScopeAsync(String deploymentName)"
   name: "cancelAtTenantScopeAsync(String deploymentName)"
   nameWithType: "DeploymentsClient.cancelAtTenantScopeAsync(String deploymentName)"
-  summary: "You can cancel a deployment only if the provisioningState is Accepted or Running. After the deployment is\n canceled, the provisioningState is set to Canceled. Canceling a template deployment stops the currently running\n template deployment and leaves the resources partially deployed."
+  summary: "You can cancel a deployment only if the provisioningState is Accepted or Running. After the deployment is canceled, the provisioningState is set to Canceled. Canceling a template deployment stops the currently running template deployment and leaves the resources partially deployed."
   parameters:
   - description: "The name of the deployment."
     name: "deploymentName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.DeploymentsClient.cancelAtTenantScopeAsync(String deploymentName, Context context)"
   name: "cancelAtTenantScopeAsync(String deploymentName, Context context)"
   nameWithType: "DeploymentsClient.cancelAtTenantScopeAsync(String deploymentName, Context context)"
-  summary: "You can cancel a deployment only if the provisioningState is Accepted or Running. After the deployment is\n canceled, the provisioningState is set to Canceled. Canceling a template deployment stops the currently running\n template deployment and leaves the resources partially deployed."
+  summary: "You can cancel a deployment only if the provisioningState is Accepted or Running. After the deployment is canceled, the provisioningState is set to Canceled. Canceling a template deployment stops the currently running template deployment and leaves the resources partially deployed."
   parameters:
   - description: "The name of the deployment."
     name: "deploymentName"

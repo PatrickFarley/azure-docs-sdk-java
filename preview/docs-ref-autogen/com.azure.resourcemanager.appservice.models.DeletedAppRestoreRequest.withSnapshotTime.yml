@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.DeletedAppRestoreRequest.withSnapshotTime(String snapshotTime)"
   name: "withSnapshotTime(String snapshotTime)"
   nameWithType: "DeletedAppRestoreRequest.withSnapshotTime(String snapshotTime)"
-  summary: "Set the snapshotTime property: Point in time to restore the deleted app from, formatted as a DateTime string. If\n unspecified, default value is the time that the app was deleted."
+  summary: "Set the snapshotTime property: Point in time to restore the deleted app from, formatted as a DateTime string. If unspecified, default value is the time that the app was deleted."
   parameters:
   - description: "the snapshotTime value to set."
     name: "snapshotTime"

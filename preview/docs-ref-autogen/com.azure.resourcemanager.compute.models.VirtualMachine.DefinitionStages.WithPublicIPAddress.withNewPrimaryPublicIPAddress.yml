@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithPublicIPAddress.withNewPrimaryPublicIPAddress(String leafDnsLabel)"
   name: "withNewPrimaryPublicIPAddress(String leafDnsLabel)"
   nameWithType: "VirtualMachine.DefinitionStages.WithPublicIPAddress.withNewPrimaryPublicIPAddress(String leafDnsLabel)"
-  summary: "Creates a new public IP address in the same region and resource group as the resource, with the specified\n DNS label and associates it with the VM's primary network interface.\n\n <p>The internal name for the public IP address will be derived from the DNS label."
+  summary: "Creates a new public IP address in the same region and resource group as the resource, with the specified DNS label and associates it with the VM's primary network interface.\n\nThe internal name for the public IP address will be derived from the DNS label."
   parameters:
   - description: "a leaf domain label"
     name: "leafDnsLabel"

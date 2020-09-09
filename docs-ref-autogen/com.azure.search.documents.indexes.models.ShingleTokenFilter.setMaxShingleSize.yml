@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ShingleTokenFilter.setMaxShingleSize(Integer maxShingleSize)"
   name: "setMaxShingleSize(Integer maxShingleSize)"
   nameWithType: "ShingleTokenFilter.setMaxShingleSize(Integer maxShingleSize)"
-  summary: "Set the maxShingleSize property: The maximum shingle size. Default and\n minimum value is 2."
+  summary: "Set the maxShingleSize property: The maximum shingle size. Default and minimum value is 2."
   parameters:
   - description: "the maxShingleSize value to set."
     name: "maxShingleSize"

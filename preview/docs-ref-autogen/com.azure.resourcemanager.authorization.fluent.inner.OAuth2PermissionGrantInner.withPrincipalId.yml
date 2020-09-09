@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.OAuth2PermissionGrantInner.withPrincipalId(String principalId)"
   name: "withPrincipalId(String principalId)"
   nameWithType: "OAuth2PermissionGrantInner.withPrincipalId(String principalId)"
-  summary: "Set the principalId property: When consent type is Principal, this property specifies the id of the user that\n granted consent and applies only for that user."
+  summary: "Set the principalId property: When consent type is Principal, this property specifies the id of the user that granted consent and applies only for that user."
   parameters:
   - description: "the principalId value to set."
     name: "principalId"

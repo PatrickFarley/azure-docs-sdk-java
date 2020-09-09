@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.MagnitudeScoringParameters.isShouldBoostBeyondRangeByConstant()"
   name: "isShouldBoostBeyondRangeByConstant()"
   nameWithType: "MagnitudeScoringParameters.isShouldBoostBeyondRangeByConstant()"
-  summary: "Get the shouldBoostBeyondRangeByConstant property: A value indicating whether to apply a constant boost for field\n values beyond the range end value; default is false."
+  summary: "Get the shouldBoostBeyondRangeByConstant property: A value indicating whether to apply a constant boost for field values beyond the range end value; default is false."
   syntax: "public Boolean isShouldBoostBeyondRangeByConstant()"
   returns:
     description: "the shouldBoostBeyondRangeByConstant value."

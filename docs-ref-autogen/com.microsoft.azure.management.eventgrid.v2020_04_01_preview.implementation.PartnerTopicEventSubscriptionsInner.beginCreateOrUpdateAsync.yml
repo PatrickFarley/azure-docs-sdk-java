@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicEventSubscriptionsInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, EventSubscriptionInner eventSubscriptionInfo)"
   name: "beginCreateOrUpdateAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, EventSubscriptionInner eventSubscriptionInfo)"
   nameWithType: "PartnerTopicEventSubscriptionsInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, EventSubscriptionInner eventSubscriptionInfo)"
-  summary: "Create or update an event subscription of a partner topic.\n Asynchronously creates or updates an event subscription of a partner topic with the specified parameters. Existing event subscriptions will be updated with this API."
+  summary: "Create or update an event subscription of a partner topic. Asynchronously creates or updates an event subscription of a partner topic with the specified parameters. Existing event subscriptions will be updated with this API."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicEventSubscriptionsInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, EventSubscriptionInner eventSubscriptionInfo, ServiceCallback<EventSubscriptionInner> serviceCallback)"
   name: "beginCreateOrUpdateAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, EventSubscriptionInner eventSubscriptionInfo, ServiceCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "PartnerTopicEventSubscriptionsInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, EventSubscriptionInner eventSubscriptionInfo, ServiceCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "Create or update an event subscription of a partner topic.\n Asynchronously creates or updates an event subscription of a partner topic with the specified parameters. Existing event subscriptions will be updated with this API."
+  summary: "Create or update an event subscription of a partner topic. Asynchronously creates or updates an event subscription of a partner topic with the specified parameters. Existing event subscriptions will be updated with this API."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

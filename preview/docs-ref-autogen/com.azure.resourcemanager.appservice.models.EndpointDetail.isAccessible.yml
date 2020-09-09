@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.EndpointDetail.isAccessible()"
   name: "isAccessible()"
   nameWithType: "EndpointDetail.isAccessible()"
-  summary: "Get the isAccessible property: Whether it is possible to create a TCP connection from the App Service Environment\n to this IpAddress at this Port."
+  summary: "Get the isAccessible property: Whether it is possible to create a TCP connection from the App Service Environment to this IpAddress at this Port."
   syntax: "public Boolean isAccessible()"
   returns:
     description: "the isAccessible value."

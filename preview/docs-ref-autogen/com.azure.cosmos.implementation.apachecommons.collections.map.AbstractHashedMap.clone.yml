@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.clone()"
   name: "clone()"
   nameWithType: "AbstractHashedMap<K,V>.clone()"
-  summary: "Clones the map without cloning the keys or values.\n <p>\n To implement <code>clone()</code>, a subclass must implement the\n <code>Cloneable</code> interface and make this method public."
+  summary: "Clones the map without cloning the keys or values.\n\nTo implement `clone()`, a subclass must implement the `Cloneable` interface and make this method public."
   overridden: "java.util.AbstractMap.clone()"
   syntax: "protected AbstractHashedMap<K,V> clone()"
   returns:

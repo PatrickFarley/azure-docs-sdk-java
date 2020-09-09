@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.fluent.inner.ZoneInner.numberOfRecordSets()"
   name: "numberOfRecordSets()"
   nameWithType: "ZoneInner.numberOfRecordSets()"
-  summary: "Get the numberOfRecordSets property: The current number of record sets in this DNS zone. This is a read-only\n property and any attempt to set this value will be ignored."
+  summary: "Get the numberOfRecordSets property: The current number of record sets in this DNS zone. This is a read-only property and any attempt to set this value will be ignored."
   syntax: "public Long numberOfRecordSets()"
   returns:
     description: "the numberOfRecordSets value."

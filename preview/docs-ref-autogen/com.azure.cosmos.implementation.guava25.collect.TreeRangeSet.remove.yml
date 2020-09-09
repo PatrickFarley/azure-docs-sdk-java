@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.TreeRangeSet<C>.remove(Range<C> rangeToRemove)"
   name: "remove(Range<C> rangeToRemove)"
   nameWithType: "TreeRangeSet<C>.remove(Range<C> rangeToRemove)"
-  summary: "Removes the specified range from this <code>RangeSet</code> (optional operation). After this\n operation, if <code>range.contains(c)</code>, <code>this.contains(c)</code> will return <code>false</code>.\n\n <p>If <code>range</code> is empty, this is a no-op."
+  summary: "Removes the specified range from this `RangeSet` (optional operation). After this operation, if `range.contains(c)`, `this.contains(c)` will return `false`.\n\nIf `range` is empty, this is a no-op."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractRangeSet.remove(com.azure.cosmos.implementation.guava25.collect.Range<C>)"
   parameters:
   - name: "rangeToRemove"

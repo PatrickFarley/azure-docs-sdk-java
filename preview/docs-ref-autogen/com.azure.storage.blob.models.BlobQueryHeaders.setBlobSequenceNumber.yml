@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobQueryHeaders.setBlobSequenceNumber(Long blobSequenceNumber)"
   name: "setBlobSequenceNumber(Long blobSequenceNumber)"
   nameWithType: "BlobQueryHeaders.setBlobSequenceNumber(Long blobSequenceNumber)"
-  summary: "Set the blobSequenceNumber property: The current sequence number for a\n page blob. This header is not returned for block blobs or append blobs."
+  summary: "Set the blobSequenceNumber property: The current sequence number for a page blob. This header is not returned for block blobs or append blobs."
   parameters:
   - description: "the blobSequenceNumber value to set."
     name: "blobSequenceNumber"

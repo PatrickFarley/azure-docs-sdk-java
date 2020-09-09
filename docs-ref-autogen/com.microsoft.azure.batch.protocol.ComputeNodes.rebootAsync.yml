@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.rebootAsync(String poolId, String nodeId)"
   name: "rebootAsync(String poolId, String nodeId)"
   nameWithType: "ComputeNodes.rebootAsync(String poolId, String nodeId)"
-  summary: "Restarts the specified Compute Node.\n You can restart a Compute Node only if it is in an idle or running state."
+  summary: "Restarts the specified Compute Node. You can restart a Compute Node only if it is in an idle or running state."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.rebootAsync(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, ComputeNodeRebootOptions computeNodeRebootOptions)"
   name: "rebootAsync(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, ComputeNodeRebootOptions computeNodeRebootOptions)"
   nameWithType: "ComputeNodes.rebootAsync(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, ComputeNodeRebootOptions computeNodeRebootOptions)"
-  summary: "Restarts the specified Compute Node.\n You can restart a Compute Node only if it is in an idle or running state."
+  summary: "Restarts the specified Compute Node. You can restart a Compute Node only if it is in an idle or running state."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -46,7 +46,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.rebootAsync(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, ComputeNodeRebootOptions computeNodeRebootOptions, ServiceCallback<Void> serviceCallback)"
   name: "rebootAsync(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, ComputeNodeRebootOptions computeNodeRebootOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.rebootAsync(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, ComputeNodeRebootOptions computeNodeRebootOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Restarts the specified Compute Node.\n You can restart a Compute Node only if it is in an idle or running state."
+  summary: "Restarts the specified Compute Node. You can restart a Compute Node only if it is in an idle or running state."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -71,7 +71,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.rebootAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   name: "rebootAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.rebootAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
-  summary: "Restarts the specified Compute Node.\n You can restart a Compute Node only if it is in an idle or running state."
+  summary: "Restarts the specified Compute Node. You can restart a Compute Node only if it is in an idle or running state."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"

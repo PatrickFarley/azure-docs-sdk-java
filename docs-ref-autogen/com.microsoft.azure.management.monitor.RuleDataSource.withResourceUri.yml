@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.RuleDataSource.withResourceUri(String resourceUri)"
   name: "withResourceUri(String resourceUri)"
   nameWithType: "RuleDataSource.withResourceUri(String resourceUri)"
-  summary: "Set the resource identifier of the resource the rule monitors. **NOTE**: this property cannot be updated for an existing rule."
+  summary: "Set the resource identifier of the resource the rule monitors. \\*\\*NOTE\\*\\*: this property cannot be updated for an existing rule."
   parameters:
   - description: "the resourceUri value to set"
     name: "resourceUri"

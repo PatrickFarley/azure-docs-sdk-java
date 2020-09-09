@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetInner.withSinglePlacementGroup(Boolean singlePlacementGroup)"
   name: "withSinglePlacementGroup(Boolean singlePlacementGroup)"
   nameWithType: "VirtualMachineScaleSetInner.withSinglePlacementGroup(Boolean singlePlacementGroup)"
-  summary: "Set the singlePlacementGroup property: When true this limits the scale set to a single placement group, of max\n size 100 virtual machines."
+  summary: "Set the singlePlacementGroup property: When true this limits the scale set to a single placement group, of max size 100 virtual machines."
   parameters:
   - description: "the singlePlacementGroup value to set."
     name: "singlePlacementGroup"

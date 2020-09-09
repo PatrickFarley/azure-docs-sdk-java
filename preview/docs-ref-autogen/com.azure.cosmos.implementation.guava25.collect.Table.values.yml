@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table<R,C,V>.values()"
   name: "values()"
   nameWithType: "Table<R,C,V>.values()"
-  summary: "Returns a collection of all values, which may contain duplicates. Changes to the returned\n collection will update the underlying table, and vice versa."
+  summary: "Returns a collection of all values, which may contain duplicates. Changes to the returned collection will update the underlying table, and vice versa."
   syntax: "public abstract Collection<V> values()"
   returns:
     description: "collection of values"

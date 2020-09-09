@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.twin.TwinState.createFromReportedPropertyJson(String json)"
   name: "createFromReportedPropertyJson(String json)"
   nameWithType: "TwinState.createFromReportedPropertyJson(String json)"
-  summary: "Factory\n\n <p> Create a new instance of the TwinState parsing the provided string as a JSON with only reported properties information."
+  summary: "Factory\n\nCreate a new instance of the TwinState parsing the provided string as a JSON with only reported properties information."
   parameters:
   - description: "the <code>String</code> with the JSON received from the service. It cannot be <code>null</code> or empty."
     name: "json"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.RenewCertificateOrderRequest.withIsPrivateKeyExternal(Boolean isPrivateKeyExternal)"
   name: "withIsPrivateKeyExternal(Boolean isPrivateKeyExternal)"
   nameWithType: "RenewCertificateOrderRequest.withIsPrivateKeyExternal(Boolean isPrivateKeyExternal)"
-  summary: "Set the isPrivateKeyExternal property: Should we change the ASC type (from managed private key to external\n private key and vice versa)."
+  summary: "Set the isPrivateKeyExternal property: Should we change the ASC type (from managed private key to external private key and vice versa)."
   parameters:
   - description: "the isPrivateKeyExternal value to set."
     name: "isPrivateKeyExternal"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlServerSecurityAlertPolicyOperations.getBySqlServer(SqlServer sqlServer)"
   name: "getBySqlServer(SqlServer sqlServer)"
   nameWithType: "SqlServerSecurityAlertPolicyOperations.getBySqlServer(SqlServer sqlServer)"
-  summary: "Gets the information about a SQL Server Security Alert Policy resource from Azure SQL server, identifying it by\n its parent SQL Server."
+  summary: "Gets the information about a SQL Server Security Alert Policy resource from Azure SQL server, identifying it by its parent SQL Server."
   parameters:
   - description: "the SQL server parent resource"
     name: "sqlServer"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlServerSecurityAlertPolicyOperations.getBySqlServer(String resourceGroupName, String sqlServerName)"
   name: "getBySqlServer(String resourceGroupName, String sqlServerName)"
   nameWithType: "SqlServerSecurityAlertPolicyOperations.getBySqlServer(String resourceGroupName, String sqlServerName)"
-  summary: "Gets the information about a SQL Server Security Alert Policy resource from Azure SQL server, identifying it by\n its resource group."
+  summary: "Gets the information about a SQL Server Security Alert Policy resource from Azure SQL server, identifying it by its resource group."
   parameters:
   - description: "the name of resource group"
     name: "resourceGroupName"

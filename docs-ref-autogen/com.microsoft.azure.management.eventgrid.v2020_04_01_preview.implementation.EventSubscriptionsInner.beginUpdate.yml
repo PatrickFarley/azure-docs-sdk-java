@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.beginUpdate(String scope, String eventSubscriptionName, EventSubscriptionUpdateParameters eventSubscriptionUpdateParameters)"
   name: "beginUpdate(String scope, String eventSubscriptionName, EventSubscriptionUpdateParameters eventSubscriptionUpdateParameters)"
   nameWithType: "EventSubscriptionsInner.beginUpdate(String scope, String eventSubscriptionName, EventSubscriptionUpdateParameters eventSubscriptionUpdateParameters)"
-  summary: "Update an event subscription.\n Asynchronously updates an existing event subscription."
+  summary: "Update an event subscription. Asynchronously updates an existing event subscription."
   parameters:
   - description: "The scope of existing event subscription. The scope can be a subscription, or a resource group, or a top level resource belonging to a resource provider namespace, or an EventGrid topic. For example, use '/subscriptions/{subscriptionId}/' for a subscription, '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}' for a resource group, and '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{resourceProviderNamespace}/{resourceType}/{resourceName}' for a resource, and '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.EventGrid/topics/{topicName}' for an EventGrid topic."
     name: "scope"

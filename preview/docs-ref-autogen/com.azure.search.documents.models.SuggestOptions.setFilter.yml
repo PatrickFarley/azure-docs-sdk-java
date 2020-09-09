@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SuggestOptions.setFilter(String filter)"
   name: "setFilter(String filter)"
   nameWithType: "SuggestOptions.setFilter(String filter)"
-  summary: "Set the filter property: An OData expression that filters the documents\n considered for suggestions."
+  summary: "Set the filter property: An OData expression that filters the documents considered for suggestions."
   parameters:
   - description: "the filter value to set."
     name: "filter"

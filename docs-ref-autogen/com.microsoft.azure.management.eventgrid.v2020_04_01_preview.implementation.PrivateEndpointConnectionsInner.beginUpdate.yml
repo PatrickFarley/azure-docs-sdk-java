@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateEndpointConnectionsInner.beginUpdate(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName, PrivateEndpointConnectionInner privateEndpointConnection)"
   name: "beginUpdate(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName, PrivateEndpointConnectionInner privateEndpointConnection)"
   nameWithType: "PrivateEndpointConnectionsInner.beginUpdate(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName, PrivateEndpointConnectionInner privateEndpointConnection)"
-  summary: "Update a specific private endpoint connection.\n Update a specific private endpoint connection under a topic or domain."
+  summary: "Update a specific private endpoint connection. Update a specific private endpoint connection under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

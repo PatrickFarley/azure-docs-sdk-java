@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.beginDeleteAsync(String scope, String eventSubscriptionName)"
   name: "beginDeleteAsync(String scope, String eventSubscriptionName)"
   nameWithType: "EventSubscriptionsInner.beginDeleteAsync(String scope, String eventSubscriptionName)"
-  summary: "Delete an event subscription.\n Delete an existing event subscription."
+  summary: "Delete an event subscription. Delete an existing event subscription."
   parameters:
   - description: "The scope of the event subscription. The scope can be a subscription, or a resource group, or a top level resource belonging to a resource provider namespace, or an EventGrid topic. For example, use '/subscriptions/{subscriptionId}/' for a subscription, '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}' for a resource group, and '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{resourceProviderNamespace}/{resourceType}/{resourceName}' for a resource, and '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.EventGrid/topics/{topicName}' for an EventGrid topic."
     name: "scope"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.beginDeleteAsync(String scope, String eventSubscriptionName, ServiceCallback<Void> serviceCallback)"
   name: "beginDeleteAsync(String scope, String eventSubscriptionName, ServiceCallback<Void> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.beginDeleteAsync(String scope, String eventSubscriptionName, ServiceCallback<Void> serviceCallback)"
-  summary: "Delete an event subscription.\n Delete an existing event subscription."
+  summary: "Delete an event subscription. Delete an existing event subscription."
   parameters:
   - description: "The scope of the event subscription. The scope can be a subscription, or a resource group, or a top level resource belonging to a resource provider namespace, or an EventGrid topic. For example, use '/subscriptions/{subscriptionId}/' for a subscription, '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}' for a resource group, and '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{resourceProviderNamespace}/{resourceType}/{resourceName}' for a resource, and '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.EventGrid/topics/{topicName}' for an EventGrid topic."
     name: "scope"

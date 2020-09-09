@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineReimageParameters.withTempDisk(Boolean tempDisk)"
   name: "withTempDisk(Boolean tempDisk)"
   nameWithType: "VirtualMachineReimageParameters.withTempDisk(Boolean tempDisk)"
-  summary: "Set the tempDisk property: Specifies whether to reimage temp disk. Default value: false. Note: This temp disk\n reimage parameter is only supported for VM/VMSS with Ephemeral OS disk."
+  summary: "Set the tempDisk property: Specifies whether to reimage temp disk. Default value: false. Note: This temp disk reimage parameter is only supported for VM/VMSS with Ephemeral OS disk."
   parameters:
   - description: "the tempDisk value to set."
     name: "tempDisk"

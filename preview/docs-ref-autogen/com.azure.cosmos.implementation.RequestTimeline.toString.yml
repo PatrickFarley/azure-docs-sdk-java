@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.toString()"
   name: "toString()"
   nameWithType: "RequestTimeline.toString()"
-  summary: "Returns a textual representation of this <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref>.\n <p>\n The textual representation returned is a string of the form <code>RequestTimeline(</code><i> &lt;event-array&gt;</i>\n <code>)</code>."
+  summary: "Returns a textual representation of this <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref>.\n\nThe textual representation returned is a string of the form `RequestTimeline(` *<event-array>* `)`."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:

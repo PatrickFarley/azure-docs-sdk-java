@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ImmutabilityPolicyProperties.withImmutabilityPeriodSinceCreationInDays(Integer immutabilityPeriodSinceCreationInDays)"
   name: "withImmutabilityPeriodSinceCreationInDays(Integer immutabilityPeriodSinceCreationInDays)"
   nameWithType: "ImmutabilityPolicyProperties.withImmutabilityPeriodSinceCreationInDays(Integer immutabilityPeriodSinceCreationInDays)"
-  summary: "Set the immutabilityPeriodSinceCreationInDays property: The immutability period for the blobs in the container\n since the policy creation, in days."
+  summary: "Set the immutabilityPeriodSinceCreationInDays property: The immutability period for the blobs in the container since the policy creation, in days."
   parameters:
   - description: "the immutabilityPeriodSinceCreationInDays value to set."
     name: "immutabilityPeriodSinceCreationInDays"

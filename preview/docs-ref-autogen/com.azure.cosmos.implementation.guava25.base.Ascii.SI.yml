@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.SI"
   name: "SI"
   nameWithType: "Ascii.SI"
-  summary: "Shift In: A control character indicating that the code combinations which follow shall be\n interpreted according to the standard code table."
+  summary: "Shift In: A control character indicating that the code combinations which follow shall be interpreted according to the standard code table."
   syntax: "public static final byte SI"
 type: "field"
 metadata: {}

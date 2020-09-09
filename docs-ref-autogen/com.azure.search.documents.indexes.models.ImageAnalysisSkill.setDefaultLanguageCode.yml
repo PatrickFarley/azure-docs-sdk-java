@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ImageAnalysisSkill.setDefaultLanguageCode(ImageAnalysisSkillLanguage defaultLanguageCode)"
   name: "setDefaultLanguageCode(ImageAnalysisSkillLanguage defaultLanguageCode)"
   nameWithType: "ImageAnalysisSkill.setDefaultLanguageCode(ImageAnalysisSkillLanguage defaultLanguageCode)"
-  summary: "Set the defaultLanguageCode property: A value indicating which language\n code to use. Default is en. Possible values include: 'en', 'es', 'ja',\n 'pt', 'zh'."
+  summary: "Set the defaultLanguageCode property: A value indicating which language code to use. Default is en. Possible values include: 'en', 'es', 'ja', 'pt', 'zh'."
   parameters:
   - description: "the defaultLanguageCode value to set."
     name: "defaultLanguageCode"

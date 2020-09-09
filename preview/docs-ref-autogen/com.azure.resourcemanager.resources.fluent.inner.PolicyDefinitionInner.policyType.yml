@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.PolicyDefinitionInner.policyType()"
   name: "policyType()"
   nameWithType: "PolicyDefinitionInner.policyType()"
-  summary: "Get the policyType property: The type of policy definition. Possible values are NotSpecified, BuiltIn, Custom,\n and Static."
+  summary: "Get the policyType property: The type of policy definition. Possible values are NotSpecified, BuiltIn, Custom, and Static."
   syntax: "public PolicyType policyType()"
   returns:
     description: "the policyType value."

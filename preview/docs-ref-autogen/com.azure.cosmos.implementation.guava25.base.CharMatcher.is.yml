@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.is(char match)"
   name: "is(char match)"
   nameWithType: "CharMatcher.is(char match)"
-  summary: "Returns a <code>char</code> matcher that matches only one specified BMP character."
+  summary: "Returns a `char` matcher that matches only one specified BMP character."
   parameters:
   - name: "match"
     type: "<xref href=\"char?alt=char&text=char\" data-throw-if-not-resolved=\"False\" />"

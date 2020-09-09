@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentBatchStatistics.getValidDocumentCount()"
   name: "getValidDocumentCount()"
   nameWithType: "TextDocumentBatchStatistics.getValidDocumentCount()"
-  summary: "Get the validDocumentCount property: Number of valid documents.\n This excludes empty, over-size limit or non-supported languages documents."
+  summary: "Get the validDocumentCount property: Number of valid documents. This excludes empty, over-size limit or non-supported languages documents."
   syntax: "public int getValidDocumentCount()"
   returns:
     description: "The <code>validDocumentCount</code> value."

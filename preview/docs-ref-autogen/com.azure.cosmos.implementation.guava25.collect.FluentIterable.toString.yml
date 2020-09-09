@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.toString()"
   name: "toString()"
   nameWithType: "FluentIterable<E>.toString()"
-  summary: "Returns a string representation of this fluent iterable, with the format <code>[e1, e2, ...,\n en]</code>.\n\n <p><b><code>Stream</code> equivalent:</b> <code>stream.collect(Collectors.joining(\", \", \"[\", \"]\"))</code>\n or (less efficiently) <code>stream.collect(Collectors.toList()).toString()</code>."
+  summary: "Returns a string representation of this fluent iterable, with the format `[e1, e2, ..., en]`.\n\n**`Stream` equivalent:** `stream.collect(Collectors.joining(\", \", \"[\", \"]\"))` or (less efficiently) `stream.collect(Collectors.toList()).toString()`."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:

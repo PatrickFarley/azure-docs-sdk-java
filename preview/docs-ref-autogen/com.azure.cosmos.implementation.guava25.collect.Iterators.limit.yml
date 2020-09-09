@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>limit(Iterator<T> iterator, int limitSize)"
   name: "<T>limit(Iterator<T> iterator, int limitSize)"
   nameWithType: "Iterators.<T>limit(Iterator<T> iterator, int limitSize)"
-  summary: "Returns a view containing the first <code>limitSize</code> elements of <code>iterator</code>. If <code>\n iterator</code> contains fewer than <code>limitSize</code> elements, the returned view contains all of its\n elements. The returned iterator supports <code>remove()</code> if <code>iterator</code> does."
+  summary: "Returns a view containing the first `limitSize` elements of `iterator`. If `iterator` contains fewer than `limitSize` elements, the returned view contains all of its elements. The returned iterator supports `remove()` if `iterator` does."
   parameters:
   - description: "the iterator to limit"
     name: "iterator"

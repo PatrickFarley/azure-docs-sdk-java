@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ResourceCounterConverter.map(ResourceCounter obj)"
   name: "map(ResourceCounter obj)"
   nameWithType: "ResourceCounterConverter.map(ResourceCounter obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.ResourceCounter\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ResourceCounter</xref> to <xref uid=\"ResourceCounter\" data-throw-if-not-resolved=\"false\">ResourceCounter</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.ResourceCounter\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ResourceCounter</xref> to <xref uid=\"com.azure.search.documents.indexes.models.ResourceCounter\" data-throw-if-not-resolved=\"false\">ResourceCounter</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.ResourceCounter?alt=com.azure.search.documents.indexes.implementation.models.ResourceCounter&text=ResourceCounter\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ResourceCounterConverter.map(ResourceCounter obj)"
   name: "map(ResourceCounter obj)"
   nameWithType: "ResourceCounterConverter.map(ResourceCounter obj)"
-  summary: "Maps from <xref uid=\"ResourceCounter\" data-throw-if-not-resolved=\"false\">ResourceCounter</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.ResourceCounter\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ResourceCounter</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.ResourceCounter\" data-throw-if-not-resolved=\"false\">ResourceCounter</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.ResourceCounter\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ResourceCounter</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.ResourceCounter?alt=com.azure.search.documents.indexes.models.ResourceCounter&text=ResourceCounter\" data-throw-if-not-resolved=\"False\" />"

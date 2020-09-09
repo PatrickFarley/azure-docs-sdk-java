@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayRequestRoutingRule.UpdateDefinitionStages.WithBackendAddress<ParentT>.toBackendFqdn(String fqdn)"
   name: "toBackendFqdn(String fqdn)"
   nameWithType: "ApplicationGatewayRequestRoutingRule.UpdateDefinitionStages.WithBackendAddress<ParentT>.toBackendFqdn(String fqdn)"
-  summary: "Adds an FQDN (fully qualified domain name) to the backend associated with this rule.\n <p>\n If no backend has been associated with this rule yet, a new one will be created with an auto-generated name.\n <p>\n This call can be used in a sequence to add multiple FQDNs."
+  summary: "Adds an FQDN (fully qualified domain name) to the backend associated with this rule.\n\nIf no backend has been associated with this rule yet, a new one will be created with an auto-generated name.\n\nThis call can be used in a sequence to add multiple FQDNs."
   parameters:
   - description: "a fully qualified domain name"
     name: "fqdn"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchField.setFilterable(Boolean filterable)"
   name: "setFilterable(Boolean filterable)"
   nameWithType: "SearchField.setFilterable(Boolean filterable)"
-  summary: "Set the filterable property: A value indicating whether to enable the\n field to be referenced in $filter queries. filterable differs from\n searchable in how strings are handled. Fields of type Edm.String or\n Collection(Edm.String) that are filterable do not undergo word-breaking,\n so comparisons are for exact matches only. For example, if you set such\n a field f to \"sunny day\", $filter=f eq 'sunny' will find no matches, but\n $filter=f eq 'sunny day' will. This property must be null for complex\n fields. Default is true for simple fields and null for complex fields."
+  summary: "Set the filterable property: A value indicating whether to enable the field to be referenced in $filter queries. filterable differs from searchable in how strings are handled. Fields of type Edm.String or Collection(Edm.String) that are filterable do not undergo word-breaking, so comparisons are for exact matches only. For example, if you set such a field f to \"sunny day\", $filter=f eq 'sunny' will find no matches, but $filter=f eq 'sunny day' will. This property must be null for complex fields. Default is true for simple fields and null for complex fields."
   parameters:
   - description: "the filterable value to set."
     name: "filterable"

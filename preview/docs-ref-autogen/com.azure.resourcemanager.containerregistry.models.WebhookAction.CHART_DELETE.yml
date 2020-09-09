@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.WebhookAction.CHART_DELETE"
   name: "CHART_DELETE"
   nameWithType: "WebhookAction.CHART_DELETE"
-  summary: "Static value chart_delete for WebhookAction."
+  summary: "Static value chart\\_delete for WebhookAction."
   syntax: "public static final WebhookAction CHART_DELETE"
 type: "field"
 metadata: {}

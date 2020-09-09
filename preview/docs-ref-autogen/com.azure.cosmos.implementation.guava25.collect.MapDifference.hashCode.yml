@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MapDifference<K,V>.hashCode()"
   name: "hashCode()"
   nameWithType: "MapDifference<K,V>.hashCode()"
-  summary: "Returns the hash code for this instance. This is defined as the hash code of\n\n <pre><code>\n Arrays.asList(entriesOnlyOnLeft(), entriesOnlyOnRight(),\n     entriesInCommon(), entriesDiffering())\n </code></pre>"
+  summary: "Returns the hash code for this instance. This is defined as the hash code of\n\n```java\nArrays.asList(entriesOnlyOnLeft(), entriesOnlyOnRight(),\n     entriesInCommon(), entriesDiffering())\n```"
   overridden: "java.lang.Object.hashCode()"
   syntax: "public abstract int hashCode()"
   returns:

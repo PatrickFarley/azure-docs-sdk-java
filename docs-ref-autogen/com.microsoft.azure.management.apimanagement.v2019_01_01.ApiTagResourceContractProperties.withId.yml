@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiTagResourceContractProperties.withId(String id)"
   name: "withId(String id)"
   nameWithType: "ApiTagResourceContractProperties.withId(String id)"
-  summary: "Set aPI identifier in the form /apis/{apiId}."
+  summary: "Set aPI identifier in the form /apis/\\{apiId\\}."
   parameters:
   - description: "the id value to set"
     name: "id"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.HttpPipeline.getHttpClient()"
   name: "getHttpClient()"
   nameWithType: "HttpPipeline.getHttpClient()"
-  summary: "Get the <xref uid=\"HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> associated with the pipeline."
+  summary: "Get the <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> associated with the pipeline."
   syntax: "public HttpClient getHttpClient()"
   returns:
     description: "the <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> associated with the pipeline"

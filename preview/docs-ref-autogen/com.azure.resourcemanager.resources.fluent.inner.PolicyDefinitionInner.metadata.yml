@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.PolicyDefinitionInner.metadata()"
   name: "metadata()"
   nameWithType: "PolicyDefinitionInner.metadata()"
-  summary: "Get the metadata property: The policy definition metadata. Metadata is an open ended object and is typically a\n collection of key value pairs."
+  summary: "Get the metadata property: The policy definition metadata. Metadata is an open ended object and is typically a collection of key value pairs."
   syntax: "public Object metadata()"
   returns:
     description: "the metadata value."

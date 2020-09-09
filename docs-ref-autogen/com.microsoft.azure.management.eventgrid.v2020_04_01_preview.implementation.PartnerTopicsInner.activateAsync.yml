@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.activateAsync(String resourceGroupName, String partnerTopicName)"
   name: "activateAsync(String resourceGroupName, String partnerTopicName)"
   nameWithType: "PartnerTopicsInner.activateAsync(String resourceGroupName, String partnerTopicName)"
-  summary: "Activate a partner topic.\n Activate a newly created partner topic."
+  summary: "Activate a partner topic. Activate a newly created partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.activateAsync(String resourceGroupName, String partnerTopicName, ServiceCallback<PartnerTopicInner> serviceCallback)"
   name: "activateAsync(String resourceGroupName, String partnerTopicName, ServiceCallback<PartnerTopicInner> serviceCallback)"
   nameWithType: "PartnerTopicsInner.activateAsync(String resourceGroupName, String partnerTopicName, ServiceCallback<PartnerTopicInner> serviceCallback)"
-  summary: "Activate a partner topic.\n Activate a newly created partner topic."
+  summary: "Activate a partner topic. Activate a newly created partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SnowballTokenFilterLanguageConverter.map(SnowballTokenFilterLanguage obj)"
   name: "map(SnowballTokenFilterLanguage obj)"
   nameWithType: "SnowballTokenFilterLanguageConverter.map(SnowballTokenFilterLanguage obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage</xref> to enum\n <xref uid=\"SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">SnowballTokenFilterLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">SnowballTokenFilterLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage?alt=com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage&text=SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SnowballTokenFilterLanguageConverter.map(SnowballTokenFilterLanguage obj)"
   name: "map(SnowballTokenFilterLanguage obj)"
   nameWithType: "SnowballTokenFilterLanguageConverter.map(SnowballTokenFilterLanguage obj)"
-  summary: "Maps from enum <xref uid=\"SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">SnowballTokenFilterLanguage</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">SnowballTokenFilterLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SnowballTokenFilterLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.SnowballTokenFilterLanguage?alt=com.azure.search.documents.indexes.models.SnowballTokenFilterLanguage&text=SnowballTokenFilterLanguage\" data-throw-if-not-resolved=\"False\" />"

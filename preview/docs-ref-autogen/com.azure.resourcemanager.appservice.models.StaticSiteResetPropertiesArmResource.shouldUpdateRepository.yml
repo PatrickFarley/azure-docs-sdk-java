@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StaticSiteResetPropertiesArmResource.shouldUpdateRepository()"
   name: "shouldUpdateRepository()"
   nameWithType: "StaticSiteResetPropertiesArmResource.shouldUpdateRepository()"
-  summary: "Get the shouldUpdateRepository property: Determines whether the repository should be updated with the new\n properties."
+  summary: "Get the shouldUpdateRepository property: Determines whether the repository should be updated with the new properties."
   syntax: "public Boolean shouldUpdateRepository()"
   returns:
     description: "the shouldUpdateRepository value."

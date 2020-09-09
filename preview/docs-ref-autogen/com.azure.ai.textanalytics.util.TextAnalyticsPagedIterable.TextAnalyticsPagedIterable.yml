@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.util.TextAnalyticsPagedIterable<T>.TextAnalyticsPagedIterable(TextAnalyticsPagedFlux<T> textAnalyticsPagedFlux)"
   name: "TextAnalyticsPagedIterable(TextAnalyticsPagedFlux<T> textAnalyticsPagedFlux)"
   nameWithType: "TextAnalyticsPagedIterable<T>.TextAnalyticsPagedIterable(TextAnalyticsPagedFlux<T> textAnalyticsPagedFlux)"
-  summary: "Creates instance given <xref uid=\"TextAnalyticsPagedFlux\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedFlux</xref>."
+  summary: "Creates instance given <xref uid=\"com.azure.ai.textanalytics.util.TextAnalyticsPagedFlux\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedFlux</xref>."
   parameters:
   - description: "It used as iterable."
     name: "textAnalyticsPagedFlux"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerLimits.getMaxDocumentExtractionSize()"
   name: "getMaxDocumentExtractionSize()"
   nameWithType: "SearchIndexerLimits.getMaxDocumentExtractionSize()"
-  summary: "Get the maxDocumentExtractionSize property: The maximum size of a\n document, in bytes, which will be considered valid for indexing."
+  summary: "Get the maxDocumentExtractionSize property: The maximum size of a document, in bytes, which will be considered valid for indexing."
   syntax: "public Long getMaxDocumentExtractionSize()"
   returns:
     description: "the maxDocumentExtractionSize value."

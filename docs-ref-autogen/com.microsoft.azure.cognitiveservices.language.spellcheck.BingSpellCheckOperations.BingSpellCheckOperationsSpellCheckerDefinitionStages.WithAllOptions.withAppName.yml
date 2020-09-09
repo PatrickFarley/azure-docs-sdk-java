@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.language.spellcheck.BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withAppName(String appName)"
   name: "withAppName(String appName)"
   nameWithType: "BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withAppName(String appName)"
-  summary: "The unique name of your app. The name must be known by Bing. Do not include this parameter unless you have\n   previously contacted Bing to get a unique app name. To get a unique name, contact your Bing Business\n   Development manager."
+  summary: "The unique name of your app. The name must be known by Bing. Do not include this parameter unless you have previously contacted Bing to get a unique app name. To get a unique name, contact your Bing Business Development manager."
   parameters:
   - name: "appName"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties)"
   name: "createDatabase(CosmosDatabaseProperties databaseProperties)"
   nameWithType: "CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties)"
-  summary: "Creates a database.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the\n created database.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created database. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "<xref uid=\"com.azure.cosmos.models.CosmosDatabaseProperties\" data-throw-if-not-resolved=\"false\">CosmosDatabaseProperties</xref>."
     name: "databaseProperties"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties, CosmosDatabaseRequestOptions options)"
   name: "createDatabase(CosmosDatabaseProperties databaseProperties, CosmosDatabaseRequestOptions options)"
   nameWithType: "CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties, CosmosDatabaseRequestOptions options)"
-  summary: "Creates a database.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the\n created database.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created database. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "<xref uid=\"com.azure.cosmos.models.CosmosDatabaseProperties\" data-throw-if-not-resolved=\"false\">CosmosDatabaseProperties</xref>."
     name: "databaseProperties"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties, ThroughputProperties throughputProperties)"
   name: "createDatabase(CosmosDatabaseProperties databaseProperties, ThroughputProperties throughputProperties)"
   nameWithType: "CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties, ThroughputProperties throughputProperties)"
-  summary: "Creates a database.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the\n created database.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created database. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "<xref uid=\"com.azure.cosmos.models.CosmosDatabaseProperties\" data-throw-if-not-resolved=\"false\">CosmosDatabaseProperties</xref>."
     name: "databaseProperties"
@@ -53,7 +53,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties, ThroughputProperties throughputProperties, CosmosDatabaseRequestOptions options)"
   name: "createDatabase(CosmosDatabaseProperties databaseProperties, ThroughputProperties throughputProperties, CosmosDatabaseRequestOptions options)"
   nameWithType: "CosmosAsyncClient.createDatabase(CosmosDatabaseProperties databaseProperties, ThroughputProperties throughputProperties, CosmosDatabaseRequestOptions options)"
-  summary: "Creates a database.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the\n created database.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created database. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "<xref uid=\"com.azure.cosmos.models.CosmosDatabaseProperties\" data-throw-if-not-resolved=\"false\">CosmosDatabaseProperties</xref>."
     name: "databaseProperties"
@@ -72,7 +72,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.createDatabase(String id)"
   name: "createDatabase(String id)"
   nameWithType: "CosmosAsyncClient.createDatabase(String id)"
-  summary: "Creates a database.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the\n created database.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created database. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "id of the database."
     name: "id"

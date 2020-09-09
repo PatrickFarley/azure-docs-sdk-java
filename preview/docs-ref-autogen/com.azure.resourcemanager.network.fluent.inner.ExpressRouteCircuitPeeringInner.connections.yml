@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRouteCircuitPeeringInner.connections()"
   name: "connections()"
   nameWithType: "ExpressRouteCircuitPeeringInner.connections()"
-  summary: "Get the connections property: The list of circuit connections associated with Azure Private Peering for this\n circuit."
+  summary: "Get the connections property: The list of circuit connections associated with Azure Private Peering for this circuit."
   syntax: "public List<ExpressRouteCircuitConnectionInner> connections()"
   returns:
     description: "the connections value."

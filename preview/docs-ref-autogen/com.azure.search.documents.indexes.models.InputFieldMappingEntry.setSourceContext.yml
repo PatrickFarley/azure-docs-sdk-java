@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.InputFieldMappingEntry.setSourceContext(String sourceContext)"
   name: "setSourceContext(String sourceContext)"
   nameWithType: "InputFieldMappingEntry.setSourceContext(String sourceContext)"
-  summary: "Set the sourceContext property: The source context used for selecting\n recursive inputs."
+  summary: "Set the sourceContext property: The source context used for selecting recursive inputs."
   parameters:
   - description: "the sourceContext value to set."
     name: "sourceContext"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentInput.TextDocumentInput(String id, String text)"
   name: "TextDocumentInput(String id, String text)"
   nameWithType: "TextDocumentInput.TextDocumentInput(String id, String text)"
-  summary: "Creates a <code>TextDocumentInput</code> model that describes the documents."
+  summary: "Creates a `TextDocumentInput` model that describes the documents."
   parameters:
   - description: "A unique, non-empty document identifier."
     name: "id"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentInput.TextDocumentInput(String id, String text, String language)"
   name: "TextDocumentInput(String id, String text, String language)"
   nameWithType: "TextDocumentInput.TextDocumentInput(String id, String text, String language)"
-  summary: "Creates a <xref uid=\"TextDocumentInput\" data-throw-if-not-resolved=\"false\">TextDocumentInput</xref> model that describes the documents."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.TextDocumentInput\" data-throw-if-not-resolved=\"false\">TextDocumentInput</xref> model that describes the documents."
   parameters:
   - description: "A unique, non-empty document identifier."
     name: "id"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.DirectConnectionConfig.getIdleEndpointTimeout()"
   name: "getIdleEndpointTimeout()"
   nameWithType: "DirectConnectionConfig.getIdleEndpointTimeout()"
-  summary: "Gets the idle endpoint timeout\n\n Default value is 1 hour.\n\n If there are no requests to a specific endpoint for idle endpoint timeout duration,\n direct client closes all connections to that endpoint to save resources and I/O cost."
+  summary: "Gets the idle endpoint timeout Default value is 1 hour. If there are no requests to a specific endpoint for idle endpoint timeout duration, direct client closes all connections to that endpoint to save resources and I/O cost."
   syntax: "public Duration getIdleEndpointTimeout()"
   returns:
     description: "the idle endpoint timeout"

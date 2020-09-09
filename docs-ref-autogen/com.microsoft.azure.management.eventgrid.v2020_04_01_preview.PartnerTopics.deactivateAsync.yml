@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.PartnerTopics.deactivateAsync(String resourceGroupName, String partnerTopicName)"
   name: "deactivateAsync(String resourceGroupName, String partnerTopicName)"
   nameWithType: "PartnerTopics.deactivateAsync(String resourceGroupName, String partnerTopicName)"
-  summary: "Deactivate a partner topic.\n Deactivate specific partner topic."
+  summary: "Deactivate a partner topic. Deactivate specific partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

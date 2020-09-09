@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_A8"
   name: "STANDARD_A8"
   nameWithType: "ComputeSkuName.STANDARD_A8"
-  summary: "Static value Standard_A8 for ComputeSkuName."
+  summary: "Static value Standard\\_A8 for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_A8"
 type: "field"
 metadata: {}

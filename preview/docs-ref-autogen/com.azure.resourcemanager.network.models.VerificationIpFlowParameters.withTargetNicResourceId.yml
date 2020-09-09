@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VerificationIpFlowParameters.withTargetNicResourceId(String targetNicResourceId)"
   name: "withTargetNicResourceId(String targetNicResourceId)"
   nameWithType: "VerificationIpFlowParameters.withTargetNicResourceId(String targetNicResourceId)"
-  summary: "Set the targetNicResourceId property: The NIC ID. (If VM has multiple NICs and IP forwarding is enabled on any of\n them, then this parameter must be specified. Otherwise optional)."
+  summary: "Set the targetNicResourceId property: The NIC ID. (If VM has multiple NICs and IP forwarding is enabled on any of them, then this parameter must be specified. Otherwise optional)."
   parameters:
   - description: "the targetNicResourceId value to set."
     name: "targetNicResourceId"

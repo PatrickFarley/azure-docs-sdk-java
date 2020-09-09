@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.EntityRecognitionSkillLanguageConverter.map(EntityRecognitionSkillLanguage obj)"
   name: "map(EntityRecognitionSkillLanguage obj)"
   nameWithType: "EntityRecognitionSkillLanguageConverter.map(EntityRecognitionSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage</xref> to enum\n <xref uid=\"EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">EntityRecognitionSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">EntityRecognitionSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage?alt=com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage&text=EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.EntityRecognitionSkillLanguageConverter.map(EntityRecognitionSkillLanguage obj)"
   name: "map(EntityRecognitionSkillLanguage obj)"
   nameWithType: "EntityRecognitionSkillLanguageConverter.map(EntityRecognitionSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">EntityRecognitionSkillLanguage</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">EntityRecognitionSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityRecognitionSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.EntityRecognitionSkillLanguage?alt=com.azure.search.documents.indexes.models.EntityRecognitionSkillLanguage&text=EntityRecognitionSkillLanguage\" data-throw-if-not-resolved=\"False\" />"

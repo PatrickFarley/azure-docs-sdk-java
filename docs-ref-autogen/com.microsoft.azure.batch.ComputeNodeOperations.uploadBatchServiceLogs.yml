@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.uploadBatchServiceLogs(String poolId, String nodeId, String containerUrl, DateTime startTime)"
   name: "uploadBatchServiceLogs(String poolId, String nodeId, String containerUrl, DateTime startTime)"
   nameWithType: "ComputeNodeOperations.uploadBatchServiceLogs(String poolId, String nodeId, String containerUrl, DateTime startTime)"
-  summary: "Upload Azure Batch service log files from the specified compute node to Azure Blob Storage.\n This is for gathering Azure Batch service log files in an automated fashion from nodes if you are experiencing an error and wish to escalate to Azure support. The Azure Batch service log files should be shared with Azure support to aid in debugging issues with the Batch service."
+  summary: "Upload Azure Batch service log files from the specified compute node to Azure Blob Storage. This is for gathering Azure Batch service log files in an automated fashion from nodes if you are experiencing an error and wish to escalate to Azure support. The Azure Batch service log files should be shared with Azure support to aid in debugging issues with the Batch service."
   parameters:
   - description: "The ID of the pool that contains the compute node."
     name: "poolId"
@@ -35,7 +35,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.uploadBatchServiceLogs(String poolId, String nodeId, String containerUrl, DateTime startTime, DateTime endTime, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "uploadBatchServiceLogs(String poolId, String nodeId, String containerUrl, DateTime startTime, DateTime endTime, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "ComputeNodeOperations.uploadBatchServiceLogs(String poolId, String nodeId, String containerUrl, DateTime startTime, DateTime endTime, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Upload Azure Batch service log files from the specified compute node to Azure Blob Storage.\n This is for gathering Azure Batch service log files in an automated fashion from nodes if you are experiencing an error and wish to escalate to Azure support. The Azure Batch service log files should be shared with Azure support to aid in debugging issues with the Batch service."
+  summary: "Upload Azure Batch service log files from the specified compute node to Azure Blob Storage. This is for gathering Azure Batch service log files in an automated fashion from nodes if you are experiencing an error and wish to escalate to Azure support. The Azure Batch service log files should be shared with Azure support to aid in debugging issues with the Batch service."
   parameters:
   - description: "The ID of the pool that contains the compute node."
     name: "poolId"

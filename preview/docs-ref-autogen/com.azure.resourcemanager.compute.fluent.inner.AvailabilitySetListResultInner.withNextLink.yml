@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.AvailabilitySetListResultInner.withNextLink(String nextLink)"
   name: "withNextLink(String nextLink)"
   nameWithType: "AvailabilitySetListResultInner.withNextLink(String nextLink)"
-  summary: "Set the nextLink property: The URI to fetch the next page of AvailabilitySets. Call ListNext() with this URI to\n fetch the next page of AvailabilitySets."
+  summary: "Set the nextLink property: The URI to fetch the next page of AvailabilitySets. Call ListNext() with this URI to fetch the next page of AvailabilitySets."
   parameters:
   - description: "the nextLink value to set."
     name: "nextLink"

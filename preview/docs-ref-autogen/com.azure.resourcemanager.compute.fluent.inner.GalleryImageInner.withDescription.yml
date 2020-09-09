@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.GalleryImageInner.withDescription(String description)"
   name: "withDescription(String description)"
   nameWithType: "GalleryImageInner.withDescription(String description)"
-  summary: "Set the description property: The description of this gallery Image Definition resource. This property is\n updatable."
+  summary: "Set the description property: The description of this gallery Image Definition resource. This property is updatable."
   parameters:
   - description: "the description value to set."
     name: "description"

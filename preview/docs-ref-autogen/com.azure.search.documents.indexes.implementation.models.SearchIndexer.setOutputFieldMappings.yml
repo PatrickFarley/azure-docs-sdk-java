@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexer.setOutputFieldMappings(List<FieldMapping> outputFieldMappings)"
   name: "setOutputFieldMappings(List<FieldMapping> outputFieldMappings)"
   nameWithType: "SearchIndexer.setOutputFieldMappings(List<FieldMapping> outputFieldMappings)"
-  summary: "Set the outputFieldMappings property: Output field mappings are applied after enrichment and immediately before\n indexing."
+  summary: "Set the outputFieldMappings property: Output field mappings are applied after enrichment and immediately before indexing."
   parameters:
   - description: "the outputFieldMappings value to set."
     name: "outputFieldMappings"

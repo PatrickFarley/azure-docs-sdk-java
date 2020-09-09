@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WebApiSkill.getDegreeOfParallelism()"
   name: "getDegreeOfParallelism()"
   nameWithType: "WebApiSkill.getDegreeOfParallelism()"
-  summary: "Get the degreeOfParallelism property: If set, the number of parallel\n calls that can be made to the Web API."
+  summary: "Get the degreeOfParallelism property: If set, the number of parallel calls that can be made to the Web API."
   syntax: "public Integer getDegreeOfParallelism()"
   returns:
     description: "the degreeOfParallelism value."

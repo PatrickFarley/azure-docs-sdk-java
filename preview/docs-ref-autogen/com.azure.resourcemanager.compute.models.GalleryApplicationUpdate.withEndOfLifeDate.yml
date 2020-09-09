@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryApplicationUpdate.withEndOfLifeDate(OffsetDateTime endOfLifeDate)"
   name: "withEndOfLifeDate(OffsetDateTime endOfLifeDate)"
   nameWithType: "GalleryApplicationUpdate.withEndOfLifeDate(OffsetDateTime endOfLifeDate)"
-  summary: "Set the endOfLifeDate property: The end of life date of the gallery Application Definition. This property can be\n used for decommissioning purposes. This property is updatable."
+  summary: "Set the endOfLifeDate property: The end of life date of the gallery Application Definition. This property can be used for decommissioning purposes. This property is updatable."
   parameters:
   - description: "the endOfLifeDate value to set."
     name: "endOfLifeDate"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageOSDisk.withStorageAccountType(StorageAccountTypes storageAccountType)"
   name: "withStorageAccountType(StorageAccountTypes storageAccountType)"
   nameWithType: "ImageOSDisk.withStorageAccountType(StorageAccountTypes storageAccountType)"
-  summary: "Set the storageAccountType property: Specifies the storage account type for the managed disk. UltraSSD_LRS cannot\n be used with OS Disk."
+  summary: "Set the storageAccountType property: Specifies the storage account type for the managed disk. UltraSSD\\_LRS cannot be used with OS Disk."
   parameters:
   - description: "the storageAccountType value to set."
     name: "storageAccountType"

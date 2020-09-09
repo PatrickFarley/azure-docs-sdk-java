@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.serializer.jsonwrapper.jacksonwrapper.JacksonPlugin.newInstance()"
   name: "newInstance()"
   nameWithType: "JacksonPlugin.newInstance()"
-  summary: "Returns a new instance of the <xref uid=\"JsonApi\" data-throw-if-not-resolved=\"false\">JsonApi</xref> implementation."
+  summary: "Returns a new instance of the <xref uid=\"? extends com.azure.core.implementation.serializer.jsonwrapper.api.JsonApi\" data-throw-if-not-resolved=\"false\">JsonApi</xref> implementation."
   syntax: "public JsonApi newInstance()"
   returns:
     type: "<xref href=\"com.azure.core.implementation.serializer.jsonwrapper.api.JsonApi?alt=com.azure.core.implementation.serializer.jsonwrapper.api.JsonApi&text=JsonApi\" data-throw-if-not-resolved=\"False\" />"

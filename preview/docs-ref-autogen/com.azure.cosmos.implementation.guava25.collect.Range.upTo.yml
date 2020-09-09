@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.<C>upTo(C endpoint, BoundType boundType)"
   name: "<C>upTo(C endpoint, BoundType boundType)"
   nameWithType: "Range<C>.<C>upTo(C endpoint, BoundType boundType)"
-  summary: "Returns a range with no lower bound up to the given endpoint, which may be either inclusive\n (closed) or exclusive (open)."
+  summary: "Returns a range with no lower bound up to the given endpoint, which may be either inclusive (closed) or exclusive (open)."
   parameters:
   - name: "endpoint"
     type: "<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />"

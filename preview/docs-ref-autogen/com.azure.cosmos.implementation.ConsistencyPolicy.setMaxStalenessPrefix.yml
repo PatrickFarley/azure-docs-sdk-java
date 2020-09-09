@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ConsistencyPolicy.setMaxStalenessPrefix(int maxStalenessPrefix)"
   name: "setMaxStalenessPrefix(int maxStalenessPrefix)"
   nameWithType: "ConsistencyPolicy.setMaxStalenessPrefix(int maxStalenessPrefix)"
-  summary: "Sets the bounded staleness consistency, the maximum allowed staleness in terms difference in sequence numbers\n (aka version)."
+  summary: "Sets the bounded staleness consistency, the maximum allowed staleness in terms difference in sequence numbers (aka version)."
   parameters:
   - description: "the max staleness prefix."
     name: "maxStalenessPrefix"

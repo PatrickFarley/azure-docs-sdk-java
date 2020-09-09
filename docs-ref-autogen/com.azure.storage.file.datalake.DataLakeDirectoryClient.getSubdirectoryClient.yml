@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeDirectoryClient.getSubdirectoryClient(String subdirectoryName)"
   name: "getSubdirectoryClient(String subdirectoryName)"
   nameWithType: "DataLakeDirectoryClient.getSubdirectoryClient(String subdirectoryName)"
-  summary: "Initializes a new DataLakeDirectoryClient object by concatenating directoryName to the end of\n DataLakeDirectoryClient's URL. The new DataLakeDirectoryClient uses the same request policy pipeline as the\n DataLakeDirectoryClient."
+  summary: "Initializes a new DataLakeDirectoryClient object by concatenating directoryName to the end of DataLakeDirectoryClient's URL. The new DataLakeDirectoryClient uses the same request policy pipeline as the DataLakeDirectoryClient."
   parameters:
   - description: "A <code>String</code> representing the name of the sub-directory.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n DataLakeDirectoryClient dataLakeDirectoryClient = client.getSubdirectoryClient&#40;directoryName&#41;;\n </pre>"
     name: "subdirectoryName"

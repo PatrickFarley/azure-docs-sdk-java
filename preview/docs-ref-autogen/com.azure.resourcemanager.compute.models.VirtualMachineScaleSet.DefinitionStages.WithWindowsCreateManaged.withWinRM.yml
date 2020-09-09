@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithWindowsCreateManaged.withWinRM(WinRMListener listener)"
   name: "withWinRM(WinRMListener listener)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithWindowsCreateManaged.withWinRM(WinRMListener listener)"
-  summary: "Specifies the WinRM listener.\n\n <p>Each call to this method adds the given listener to the list of VM's WinRM listeners."
+  summary: "Specifies the WinRM listener.\n\nEach call to this method adds the given listener to the list of VM's WinRM listeners."
   parameters:
   - description: "a WinRM listener"
     name: "listener"

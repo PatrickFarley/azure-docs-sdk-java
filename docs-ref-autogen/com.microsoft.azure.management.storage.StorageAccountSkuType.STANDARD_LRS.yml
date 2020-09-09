@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccountSkuType.STANDARD_LRS"
   name: "STANDARD_LRS"
   nameWithType: "StorageAccountSkuType.STANDARD_LRS"
-  summary: "Static value STANDARD_LRS for StorageAccountSkuType."
+  summary: "Static value STANDARD\\_LRS for StorageAccountSkuType."
   syntax: "public static final StorageAccountSkuType STANDARD_LRS"
 type: "field"
 metadata: {}

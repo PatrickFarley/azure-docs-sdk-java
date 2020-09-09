@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.listByResourceGroupSinglePageAsync(String resourceGroupName)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName)"
   nameWithType: "StorageAccountsClient.listByResourceGroupSinglePageAsync(String resourceGroupName)"
-  summary: "Lists all the storage accounts available under the given resource group. Note that storage keys are not returned;\n use the ListKeys operation for this."
+  summary: "Lists all the storage accounts available under the given resource group. Note that storage keys are not returned; use the ListKeys operation for this."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
   nameWithType: "StorageAccountsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
-  summary: "Lists all the storage accounts available under the given resource group. Note that storage keys are not returned;\n use the ListKeys operation for this."
+  summary: "Lists all the storage accounts available under the given resource group. Note that storage keys are not returned; use the ListKeys operation for this."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

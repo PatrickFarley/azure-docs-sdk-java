@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.OSDisk.caching()"
   name: "caching()"
   nameWithType: "OSDisk.caching()"
-  summary: "Get the caching property: Specifies the caching requirements. &lt;br&gt;&lt;br&gt; Possible values are:\n &lt;br&gt;&lt;br&gt; **None** &lt;br&gt;&lt;br&gt; **ReadOnly** &lt;br&gt;&lt;br&gt; **ReadWrite**\n &lt;br&gt;&lt;br&gt; Default: **None for Standard storage. ReadOnly for Premium storage**."
+  summary: "Get the caching property: Specifies the caching requirements. <br><br> Possible values are: <br><br> \\*\\*None\\*\\* <br><br> \\*\\*ReadOnly\\*\\* <br><br> \\*\\*ReadWrite\\*\\* <br><br> Default: \\*\\*None for Standard storage. ReadOnly for Premium storage\\*\\*."
   syntax: "public CachingTypes caching()"
   returns:
     description: "the caching value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SuggestOptions.setSelect(String[] select)"
   name: "setSelect(String[] select)"
   nameWithType: "SuggestOptions.setSelect(String[] select)"
-  summary: "Set the select property: The list of fields to retrieve. If unspecified,\n only the key field will be included in the results."
+  summary: "Set the select property: The list of fields to retrieve. If unspecified, only the key field will be included in the results."
   parameters:
   - description: "the select value to set."
     name: "select"

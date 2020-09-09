@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ChangeFeedOptions.getPartitionKey()"
   name: "getPartitionKey()"
   nameWithType: "ChangeFeedOptions.getPartitionKey()"
-  summary: "Gets the partition key used to identify the current request's target\n partition."
+  summary: "Gets the partition key used to identify the current request's target partition."
   syntax: "public PartitionKey getPartitionKey()"
   returns:
     description: "the partition key."

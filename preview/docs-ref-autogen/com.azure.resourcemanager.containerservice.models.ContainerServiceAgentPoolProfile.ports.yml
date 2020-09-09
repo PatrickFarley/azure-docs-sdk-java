@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceAgentPoolProfile.ports()"
   name: "ports()"
   nameWithType: "ContainerServiceAgentPoolProfile.ports()"
-  summary: "Get the ports property: Ports number array used to expose on this agent pool. The default opened ports are\n different based on your choice of orchestrator."
+  summary: "Get the ports property: Ports number array used to expose on this agent pool. The default opened ports are different based on your choice of orchestrator."
   syntax: "public List<Integer> ports()"
   returns:
     description: "the ports value."

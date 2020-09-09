@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TokenFilterName.HINDI_NORMALIZATION"
   name: "HINDI_NORMALIZATION"
   nameWithType: "TokenFilterName.HINDI_NORMALIZATION"
-  summary: "Static value hindi_normalization for TokenFilterName."
+  summary: "Static value hindi\\_normalization for TokenFilterName."
   syntax: "public static final TokenFilterName HINDI_NORMALIZATION"
 type: "field"
 metadata: {}

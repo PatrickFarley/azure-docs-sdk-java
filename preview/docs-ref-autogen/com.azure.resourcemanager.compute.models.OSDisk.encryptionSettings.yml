@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.OSDisk.encryptionSettings()"
   name: "encryptionSettings()"
   nameWithType: "OSDisk.encryptionSettings()"
-  summary: "Get the encryptionSettings property: Specifies the encryption settings for the OS Disk. &lt;br&gt;&lt;br&gt;\n Minimum api-version: 2015-06-15."
+  summary: "Get the encryptionSettings property: Specifies the encryption settings for the OS Disk. <br><br> Minimum api-version: 2015-06-15."
   syntax: "public DiskEncryptionSettings encryptionSettings()"
   returns:
     description: "the encryptionSettings value."

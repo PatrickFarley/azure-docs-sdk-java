@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.FeedOptions.getEmitVerboseTracesInQuery()"
   name: "getEmitVerboseTracesInQuery()"
   nameWithType: "FeedOptions.getEmitVerboseTracesInQuery()"
-  summary: "Gets the option to allow queries to emit out verbose traces for\n investigation."
+  summary: "Gets the option to allow queries to emit out verbose traces for investigation."
   syntax: "public Boolean getEmitVerboseTracesInQuery()"
   returns:
     description: "the emit verbose traces in query."

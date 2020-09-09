@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.models.CreateRsaKeyOptions.CreateRsaKeyOptions(String name)"
   name: "CreateRsaKeyOptions(String name)"
   nameWithType: "CreateRsaKeyOptions.CreateRsaKeyOptions(String name)"
-  summary: "Creates a RsaKeyCreateOptions with <code>name</code> as name of the Rsa key."
+  summary: "Creates a RsaKeyCreateOptions with `name` as name of the Rsa key."
   parameters:
   - description: "The name of the key."
     name: "name"

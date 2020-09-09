@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.DetectedLanguage.getConfidenceScore()"
   name: "getConfidenceScore()"
   nameWithType: "DetectedLanguage.getConfidenceScore()"
-  summary: "Get the confidenceScore property: A confidence score between 0 and 1.\n Scores close to 1 indicate 100% certainty that the identified language\n is true."
+  summary: "Get the confidenceScore property: A confidence score between 0 and 1. Scores close to 1 indicate 100% certainty that the identified language is true."
   syntax: "public double getConfidenceScore()"
   returns:
     description: "the confidenceScore value."

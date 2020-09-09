@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayUrlPathMapInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ApplicationGatewayUrlPathMapInner.provisioningState()"
-  summary: "Get the provisioningState property: Provisioning state of the backend http settings resource. Possible values\n are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: Provisioning state of the backend http settings resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

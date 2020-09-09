@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.getAccessTier()"
   name: "getAccessTier()"
   nameWithType: "BlobItemProperties.getAccessTier()"
-  summary: "Get the accessTier property: Possible values include: 'P4', 'P6', 'P10',\n 'P15', 'P20', 'P30', 'P40', 'P50', 'P60', 'P70', 'P80', 'Hot', 'Cool',\n 'Archive'."
+  summary: "Get the accessTier property: Possible values include: 'P4', 'P6', 'P10', 'P15', 'P20', 'P30', 'P40', 'P50', 'P60', 'P70', 'P80', 'Hot', 'Cool', 'Archive'."
   syntax: "public AccessTier getAccessTier()"
   returns:
     description: "the accessTier value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.DeviceClient.open()"
   name: "open()"
   nameWithType: "DeviceClient.open()"
-  summary: "Starts asynchronously sending and receiving messages from an IoT Hub. If\n the client is already open, the function shall do nothing."
+  summary: "Starts asynchronously sending and receiving messages from an IoT Hub. If the client is already open, the function shall do nothing."
   overridden: "com.microsoft.azure.sdk.iot.device.InternalClient.open()"
   syntax: "public void open()"
   exceptions:

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageReference.withOffer(String offer)"
   name: "withOffer(String offer)"
   nameWithType: "ImageReference.withOffer(String offer)"
-  summary: "Set the offer property: Specifies the offer of the platform image or marketplace image used to create the virtual\n machine."
+  summary: "Set the offer property: Specifies the offer of the platform image or marketplace image used to create the virtual machine."
   parameters:
   - description: "the offer value to set."
     name: "offer"

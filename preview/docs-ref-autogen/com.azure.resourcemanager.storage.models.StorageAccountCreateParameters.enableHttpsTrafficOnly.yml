@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountCreateParameters.enableHttpsTrafficOnly()"
   name: "enableHttpsTrafficOnly()"
   nameWithType: "StorageAccountCreateParameters.enableHttpsTrafficOnly()"
-  summary: "Get the enableHttpsTrafficOnly property: Allows https traffic only to storage service if sets to true. The\n default value is true since API version 2019-04-01."
+  summary: "Get the enableHttpsTrafficOnly property: Allows https traffic only to storage service if sets to true. The default value is true since API version 2019-04-01."
   syntax: "public Boolean enableHttpsTrafficOnly()"
   returns:
     description: "the enableHttpsTrafficOnly value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getCacheControl()"
   name: "getCacheControl()"
   nameWithType: "ShareFileDownloadHeaders.getCacheControl()"
-  summary: "Get the cacheControl property: Returned if it was previously specified\n for the file."
+  summary: "Get the cacheControl property: Returned if it was previously specified for the file."
   syntax: "public String getCacheControl()"
   returns:
     description: "the cacheControl value."

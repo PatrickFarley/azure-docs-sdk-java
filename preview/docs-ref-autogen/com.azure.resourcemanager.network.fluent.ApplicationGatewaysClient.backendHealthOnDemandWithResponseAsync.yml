@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ApplicationGatewaysClient.backendHealthOnDemandWithResponseAsync(String resourceGroupName, String applicationGatewayName, ApplicationGatewayOnDemandProbe probeRequest, String expand)"
   name: "backendHealthOnDemandWithResponseAsync(String resourceGroupName, String applicationGatewayName, ApplicationGatewayOnDemandProbe probeRequest, String expand)"
   nameWithType: "ApplicationGatewaysClient.backendHealthOnDemandWithResponseAsync(String resourceGroupName, String applicationGatewayName, ApplicationGatewayOnDemandProbe probeRequest, String expand)"
-  summary: "Gets the backend health for given combination of backend pool and http setting of the specified application\n gateway in a resource group."
+  summary: "Gets the backend health for given combination of backend pool and http setting of the specified application gateway in a resource group."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ApplicationGatewaysClient.backendHealthOnDemandWithResponseAsync(String resourceGroupName, String applicationGatewayName, ApplicationGatewayOnDemandProbe probeRequest, String expand, Context context)"
   name: "backendHealthOnDemandWithResponseAsync(String resourceGroupName, String applicationGatewayName, ApplicationGatewayOnDemandProbe probeRequest, String expand, Context context)"
   nameWithType: "ApplicationGatewaysClient.backendHealthOnDemandWithResponseAsync(String resourceGroupName, String applicationGatewayName, ApplicationGatewayOnDemandProbe probeRequest, String expand, Context context)"
-  summary: "Gets the backend health for given combination of backend pool and http setting of the specified application\n gateway in a resource group."
+  summary: "Gets the backend health for given combination of backend pool and http setting of the specified application gateway in a resource group."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

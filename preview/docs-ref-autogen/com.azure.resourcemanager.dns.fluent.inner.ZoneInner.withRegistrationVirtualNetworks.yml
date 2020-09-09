@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.fluent.inner.ZoneInner.withRegistrationVirtualNetworks(List<SubResource> registrationVirtualNetworks)"
   name: "withRegistrationVirtualNetworks(List<SubResource> registrationVirtualNetworks)"
   nameWithType: "ZoneInner.withRegistrationVirtualNetworks(List<SubResource> registrationVirtualNetworks)"
-  summary: "Set the registrationVirtualNetworks property: A list of references to virtual networks that register hostnames in\n this DNS zone. This is a only when ZoneType is Private."
+  summary: "Set the registrationVirtualNetworks property: A list of references to virtual networks that register hostnames in this DNS zone. This is a only when ZoneType is Private."
   parameters:
   - description: "the registrationVirtualNetworks value to set."
     name: "registrationVirtualNetworks"

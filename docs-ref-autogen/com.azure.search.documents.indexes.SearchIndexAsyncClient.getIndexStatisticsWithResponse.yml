@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.getIndexStatisticsWithResponse(String indexName)"
   name: "getIndexStatisticsWithResponse(String indexName)"
   nameWithType: "SearchIndexAsyncClient.getIndexStatisticsWithResponse(String indexName)"
-  summary: "Returns statistics for the given index, including a document count and storage usage.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search index \"searchIndex\" statistics. </p>\n\n <pre>\n searchIndexAsyncClient.getIndexStatisticsWithResponse&#40;&quot;searchIndex&quot;&#41;\n     .subscribe&#40;statistics -&gt; System.out.printf&#40;&quot;The status code of the response is %s.%n&quot;\n             + &quot;There are %d documents and storage size of %d available in 'searchIndex'.%n&quot;,\n         statistics.getStatusCode&#40;&#41;, statistics.getValue&#40;&#41;.getDocumentCount&#40;&#41;,\n         statistics.getValue&#40;&#41;.getStorageSize&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Returns statistics for the given index, including a document count and storage usage.\n\n**Code Sample**\n\nGet search index \"searchIndex\" statistics.\n\n```java\nsearchIndexAsyncClient.getIndexStatisticsWithResponse(\"searchIndex\")\n     .subscribe(statistics -> System.out.printf(\"The status code of the response is %s.%n\"\n             + \"There are %d documents and storage size of %d available in 'searchIndex'.%n\",\n         statistics.getStatusCode(), statistics.getValue().getDocumentCount(),\n         statistics.getValue().getStorageSize()));\n```"
   parameters:
   - description: "the name of the index for which to retrieve statistics"
     name: "indexName"

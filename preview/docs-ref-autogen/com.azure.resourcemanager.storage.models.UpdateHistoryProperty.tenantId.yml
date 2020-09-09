@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.UpdateHistoryProperty.tenantId()"
   name: "tenantId()"
   nameWithType: "UpdateHistoryProperty.tenantId()"
-  summary: "Get the tenantId property: Returns the Tenant ID that issued the token for the user who updated the\n ImmutabilityPolicy."
+  summary: "Get the tenantId property: Returns the Tenant ID that issued the token for the user who updated the ImmutabilityPolicy."
   syntax: "public String tenantId()"
   returns:
     description: "the tenantId value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listByResourceGroupNextAsync(String nextPageLink)"
   name: "listByResourceGroupNextAsync(String nextPageLink)"
   nameWithType: "DomainsInner.listByResourceGroupNextAsync(String nextPageLink)"
-  summary: "List domains under a resource group.\n List all the domains under a resource group."
+  summary: "List domains under a resource group. List all the domains under a resource group."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listByResourceGroupNextAsync(String nextPageLink, ServiceFuture<List<DomainInner>> serviceFuture, ListOperationCallback<DomainInner> serviceCallback)"
   name: "listByResourceGroupNextAsync(String nextPageLink, ServiceFuture<List<DomainInner>> serviceFuture, ListOperationCallback<DomainInner> serviceCallback)"
   nameWithType: "DomainsInner.listByResourceGroupNextAsync(String nextPageLink, ServiceFuture<List<DomainInner>> serviceFuture, ListOperationCallback<DomainInner> serviceCallback)"
-  summary: "List domains under a resource group.\n List all the domains under a resource group."
+  summary: "List domains under a resource group. List all the domains under a resource group."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

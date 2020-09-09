@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.CheckGroupMembershipResultInner.withValue(Boolean value)"
   name: "withValue(Boolean value)"
   nameWithType: "CheckGroupMembershipResultInner.withValue(Boolean value)"
-  summary: "Set the value property: True if the specified user, group, contact, or service principal has either direct or\n transitive membership in the specified group; otherwise, false."
+  summary: "Set the value property: True if the specified user, group, contact, or service principal has either direct or transitive membership in the specified group; otherwise, false."
   parameters:
   - description: "the value value to set."
     name: "value"

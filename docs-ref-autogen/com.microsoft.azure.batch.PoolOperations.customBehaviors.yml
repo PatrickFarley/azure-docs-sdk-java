@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.customBehaviors()"
   name: "customBehaviors()"
   nameWithType: "PoolOperations.customBehaviors()"
-  summary: "Gets a collection of behaviors that modify or customize requests to the Batch\n service."
+  summary: "Gets a collection of behaviors that modify or customize requests to the Batch service."
   syntax: "public Collection<BatchClientBehavior> customBehaviors()"
   returns:
     description: "A collection of <xref uid=\"com.microsoft.azure.batch.BatchClientBehavior\" data-throw-if-not-resolved=\"false\">BatchClientBehavior</xref> instances."

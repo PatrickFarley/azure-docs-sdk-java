@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SplitSkill.getTextSplitMode()"
   name: "getTextSplitMode()"
   nameWithType: "SplitSkill.getTextSplitMode()"
-  summary: "Get the textSplitMode property: A value indicating which split mode to\n perform. Possible values include: 'Pages', 'Sentences'."
+  summary: "Get the textSplitMode property: A value indicating which split mode to perform. Possible values include: 'Pages', 'Sentences'."
   syntax: "public TextSplitMode getTextSplitMode()"
   returns:
     description: "the textSplitMode value."

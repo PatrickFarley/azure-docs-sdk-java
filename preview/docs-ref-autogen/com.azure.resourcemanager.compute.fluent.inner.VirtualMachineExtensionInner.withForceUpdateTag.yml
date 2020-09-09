@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineExtensionInner.withForceUpdateTag(String forceUpdateTag)"
   name: "withForceUpdateTag(String forceUpdateTag)"
   nameWithType: "VirtualMachineExtensionInner.withForceUpdateTag(String forceUpdateTag)"
-  summary: "Set the forceUpdateTag property: How the extension handler should be forced to update even if the extension\n configuration has not changed."
+  summary: "Set the forceUpdateTag property: How the extension handler should be forced to update even if the extension configuration has not changed."
   parameters:
   - description: "the forceUpdateTag value to set."
     name: "forceUpdateTag"

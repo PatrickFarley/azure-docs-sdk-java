@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusSenderClient.scheduleMessage(ServiceBusMessage message, Instant scheduledEnqueueTime)"
   name: "scheduleMessage(ServiceBusMessage message, Instant scheduledEnqueueTime)"
   nameWithType: "ServiceBusSenderClient.scheduleMessage(ServiceBusMessage message, Instant scheduledEnqueueTime)"
-  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is\n enqueued and made available to receivers only at the scheduled enqueue time."
+  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is enqueued and made available to receivers only at the scheduled enqueue time."
   parameters:
   - description: "Message to be sent to the Service Bus Queue or Topic."
     name: "message"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusSenderClient.scheduleMessage(ServiceBusMessage message, Instant scheduledEnqueueTime, ServiceBusTransactionContext transactionContext)"
   name: "scheduleMessage(ServiceBusMessage message, Instant scheduledEnqueueTime, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusSenderClient.scheduleMessage(ServiceBusMessage message, Instant scheduledEnqueueTime, ServiceBusTransactionContext transactionContext)"
-  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is\n enqueued and made available to receivers only at the scheduled enqueue time."
+  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is enqueued and made available to receivers only at the scheduled enqueue time."
   parameters:
   - description: "Message to be sent to the Service Bus Queue or Topic."
     name: "message"

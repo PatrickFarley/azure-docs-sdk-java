@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.WinRMListener.withProtocol(ProtocolTypes protocol)"
   name: "withProtocol(ProtocolTypes protocol)"
   nameWithType: "WinRMListener.withProtocol(ProtocolTypes protocol)"
-  summary: "Set the protocol property: Specifies the protocol of listener. &lt;br&gt;&lt;br&gt; Possible values are:\n &lt;br&gt;**http** &lt;br&gt;&lt;br&gt; **https**."
+  summary: "Set the protocol property: Specifies the protocol of listener. <br><br> Possible values are: <br>\\*\\*http\\*\\* <br><br> \\*\\*https\\*\\*."
   parameters:
   - description: "the protocol value to set."
     name: "protocol"

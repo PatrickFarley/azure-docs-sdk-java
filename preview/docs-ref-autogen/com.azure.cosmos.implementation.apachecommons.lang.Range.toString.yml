@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.toString()"
   name: "toString()"
   nameWithType: "Range<T>.toString()"
-  summary: "<p>Gets the range as a <code>String</code>.</p>\n\n <p>The format of the String is '[<i>min</i>..<i>max</i>]'.</p>"
+  summary: "Gets the range as a `String`.\n\nThe format of the String is '\\[*min*..*max*\\]'."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.toString(String format)"
   name: "toString(String format)"
   nameWithType: "Range<T>.toString(String format)"
-  summary: "<p>Formats the receiver using the given format.</p>\n\n <p>This uses <xref uid=\"java.util.Formattable\" data-throw-if-not-resolved=\"false\">java.util.Formattable</xref> to perform the formatting. Three variables may\n be used to embed the minimum, maximum and comparator.\n Use <code>%1$s</code> for the minimum element, <code>%2$s</code> for the maximum element\n and <code>%3$s</code> for the comparator.\n The default format used by <code>toString()</code> is <code>[%1$s..%2$s]</code>.</p>"
+  summary: "Formats the receiver using the given format.\n\nThis uses <xref uid=\"\" data-throw-if-not-resolved=\"false\">java.util.Formattable</xref> to perform the formatting. Three variables may be used to embed the minimum, maximum and comparator. Use `%1$s` for the minimum element, `%2$s` for the maximum element and `%3$s` for the comparator. The default format used by `toString()` is `[%1$s..%2$s]`."
   parameters:
   - description: "the format string, optionally containing <code>%1$s</code>, <code>%2$s</code> and  <code>%3$s</code>, not null"
     name: "format"

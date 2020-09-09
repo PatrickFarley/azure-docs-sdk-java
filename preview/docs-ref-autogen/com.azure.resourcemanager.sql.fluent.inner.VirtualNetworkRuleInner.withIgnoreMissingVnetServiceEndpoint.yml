@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.VirtualNetworkRuleInner.withIgnoreMissingVnetServiceEndpoint(Boolean ignoreMissingVnetServiceEndpoint)"
   name: "withIgnoreMissingVnetServiceEndpoint(Boolean ignoreMissingVnetServiceEndpoint)"
   nameWithType: "VirtualNetworkRuleInner.withIgnoreMissingVnetServiceEndpoint(Boolean ignoreMissingVnetServiceEndpoint)"
-  summary: "Set the ignoreMissingVnetServiceEndpoint property: Create firewall rule before the virtual network has vnet\n service endpoint enabled."
+  summary: "Set the ignoreMissingVnetServiceEndpoint property: Create firewall rule before the virtual network has vnet service endpoint enabled."
   parameters:
   - description: "the ignoreMissingVnetServiceEndpoint value to set."
     name: "ignoreMissingVnetServiceEndpoint"

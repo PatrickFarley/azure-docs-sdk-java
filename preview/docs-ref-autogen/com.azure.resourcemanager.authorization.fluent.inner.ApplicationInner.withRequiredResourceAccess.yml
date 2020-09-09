@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.withRequiredResourceAccess(List<RequiredResourceAccess> requiredResourceAccess)"
   name: "withRequiredResourceAccess(List<RequiredResourceAccess> requiredResourceAccess)"
   nameWithType: "ApplicationInner.withRequiredResourceAccess(List<RequiredResourceAccess> requiredResourceAccess)"
-  summary: "Set the requiredResourceAccess property: Specifies resources that this application requires access to and the set\n of OAuth permission scopes and application roles that it needs under each of those resources. This\n pre-configuration of required resource access drives the consent experience."
+  summary: "Set the requiredResourceAccess property: Specifies resources that this application requires access to and the set of OAuth permission scopes and application roles that it needs under each of those resources. This pre-configuration of required resource access drives the consent experience."
   parameters:
   - description: "the requiredResourceAccess value to set."
     name: "requiredResourceAccess"

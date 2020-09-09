@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkPeering.DefinitionStages.WithGatewayUse.withGatewayUseByRemoteNetworkAllowed()"
   name: "withGatewayUseByRemoteNetworkAllowed()"
   nameWithType: "NetworkPeering.DefinitionStages.WithGatewayUse.withGatewayUseByRemoteNetworkAllowed()"
-  summary: "Allows the remote network to use this network's gateway (a.k.a. gateway transit), but does not start the\n use of the gateway by the remote network.\n\n <p>If this network is currently configured to use the remote network's gateway, that use will be\n automatically disabled, as these two settings cannot be used together."
+  summary: "Allows the remote network to use this network's gateway (a.k.a. gateway transit), but does not start the use of the gateway by the remote network.\n\nIf this network is currently configured to use the remote network's gateway, that use will be automatically disabled, as these two settings cannot be used together."
   syntax: "public abstract NetworkPeering.DefinitionStages.WithCreate withGatewayUseByRemoteNetworkAllowed()"
   returns:
     description: "the next stage of the definition"

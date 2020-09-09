@@ -41,7 +41,7 @@ methods:
   fullName: "com.azure.storage.common.sas.SasProtocol.parse(String str)"
   name: "parse(String str)"
   nameWithType: "SasProtocol.parse(String str)"
-  summary: "Parses a <code>String</code> into a <code>SASProtocl</code> value if possible."
+  summary: "Parses a `String` into a `SASProtocl` value if possible."
   parameters:
   - description: "The value to try to parse."
     name: "str"

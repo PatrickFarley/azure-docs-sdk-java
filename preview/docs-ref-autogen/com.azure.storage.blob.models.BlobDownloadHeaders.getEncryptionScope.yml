@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getEncryptionScope()"
   name: "getEncryptionScope()"
   nameWithType: "BlobDownloadHeaders.getEncryptionScope()"
-  summary: "Get the encryptionScope property: Returns the name of the encryption\n scope used to encrypt the blob contents and application metadata.  Note\n that the absence of this header implies use of the default account\n encryption scope."
+  summary: "Get the encryptionScope property: Returns the name of the encryption scope used to encrypt the blob contents and application metadata. Note that the absence of this header implies use of the default account encryption scope."
   syntax: "public String getEncryptionScope()"
   returns:
     description: "the encryptionScope value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedDatabaseUpdate.failoverGroupId()"
   name: "failoverGroupId()"
   nameWithType: "ManagedDatabaseUpdate.failoverGroupId()"
-  summary: "Get the failoverGroupId property: Instance Failover Group resource identifier that this managed database belongs\n to."
+  summary: "Get the failoverGroupId property: Instance Failover Group resource identifier that this managed database belongs to."
   syntax: "public String failoverGroupId()"
   returns:
     description: "the failoverGroupId value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.UserUpdateParameters.withUserPrincipalName(String userPrincipalName)"
   name: "withUserPrincipalName(String userPrincipalName)"
   nameWithType: "UserUpdateParameters.withUserPrincipalName(String userPrincipalName)"
-  summary: "Set the userPrincipalName property: The user principal name (someuser@contoso.com). It must contain one of the\n verified domains for the tenant."
+  summary: "Set the userPrincipalName property: The user principal name (someuser@contoso.com). It must contain one of the verified domains for the tenant."
   parameters:
   - description: "the userPrincipalName value to set."
     name: "userPrincipalName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.RenewCertificateOrderRequest.isPrivateKeyExternal()"
   name: "isPrivateKeyExternal()"
   nameWithType: "RenewCertificateOrderRequest.isPrivateKeyExternal()"
-  summary: "Get the isPrivateKeyExternal property: Should we change the ASC type (from managed private key to external\n private key and vice versa)."
+  summary: "Get the isPrivateKeyExternal property: Should we change the ASC type (from managed private key to external private key and vice versa)."
   syntax: "public Boolean isPrivateKeyExternal()"
   returns:
     description: "the isPrivateKeyExternal value."

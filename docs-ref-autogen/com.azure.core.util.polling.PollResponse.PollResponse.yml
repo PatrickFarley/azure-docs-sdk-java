@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.polling.PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value)"
   name: "PollResponse(LongRunningOperationStatus status, T value)"
   nameWithType: "PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value)"
-  summary: "Creates a new <xref uid=\"PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status and value.\n\n <p><strong>Code Sample Creating PollResponse Object</strong></p>\n <pre>\n &#47;&#47; Lets say we want to crete poll response with status as IN_PROGRESS\n \n PollResponse&lt;String&gt; inProgressPollResponse\n     = new PollResponse&lt;&gt;&#40;LongRunningOperationStatus.IN_PROGRESS, &quot;my custom response&quot;&#41;;\n \n </pre>"
+  summary: "Creates a new <xref uid=\"com.azure.core.util.polling.PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status and value.\n\n**Code Sample Creating PollResponse Object**\n\n```java\n// Lets say we want to crete poll response with status as IN_PROGRESS\n \n PollResponse<String> inProgressPollResponse\n     = new PollResponse<>(LongRunningOperationStatus.IN_PROGRESS, \"my custom response\");\n```"
   parameters:
   - description: "Mandatory operation status as defined in <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref>."
     name: "status"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.core.util.polling.PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value, Duration retryAfter)"
   name: "PollResponse(LongRunningOperationStatus status, T value, Duration retryAfter)"
   nameWithType: "PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value, Duration retryAfter)"
-  summary: "Creates a new <xref uid=\"PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status, value, retryAfter and properties.\n\n <p><strong>Code Sample Creating PollResponse Object</strong></p>\n <pre>\n \n &#47;&#47; Lets say we want to crete poll response with status as IN_PROGRESS\n PollResponse&lt;String&gt; inProgressPollResponse\n     = new PollResponse&lt;&gt;&#40;LongRunningOperationStatus.IN_PROGRESS, &quot;mycustom response&quot;,\n     Duration.ofMillis&#40;2000&#41;&#41;;\n </pre>"
+  summary: "Creates a new <xref uid=\"com.azure.core.util.polling.PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status, value, retryAfter and properties.\n\n**Code Sample Creating PollResponse Object**\n\n```java\n// Lets say we want to crete poll response with status as IN_PROGRESS\n PollResponse<String> inProgressPollResponse\n     = new PollResponse<>(LongRunningOperationStatus.IN_PROGRESS, \"mycustom response\",\n     Duration.ofMillis(2000));\n```"
   parameters:
   - description: "Mandatory operation status as defined in <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref>."
     name: "status"

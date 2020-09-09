@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchField.isHidden()"
   name: "isHidden()"
   nameWithType: "SearchField.isHidden()"
-  summary: "Get the hidden property: A value indicating whether the field will be\n returned in a search result. This property must be false for key fields,\n and must be null for complex fields. You can hide a field from search\n results if you want to use it only as a filter, for sorting, or for\n scoring. This property can also be changed on existing fields and\n enabling it does not cause an increase in index storage requirements."
+  summary: "Get the hidden property: A value indicating whether the field will be returned in a search result. This property must be false for key fields, and must be null for complex fields. You can hide a field from search results if you want to use it only as a filter, for sorting, or for scoring. This property can also be changed on existing fields and enabling it does not cause an increase in index storage requirements."
   syntax: "public Boolean isHidden()"
   returns:
     description: "the hidden value."

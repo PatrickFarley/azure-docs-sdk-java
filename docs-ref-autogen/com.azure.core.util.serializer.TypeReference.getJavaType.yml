@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.serializer.TypeReference<T>.getJavaType()"
   name: "getJavaType()"
   nameWithType: "TypeReference<T>.getJavaType()"
-  summary: "Returns the <xref uid=\"Type\" data-throw-if-not-resolved=\"false\">Type</xref> representing <code>T</code>."
+  summary: "Returns the <xref uid=\"java.lang.reflect.Type\" data-throw-if-not-resolved=\"false\">Type</xref> representing `T`."
   syntax: "public Type getJavaType()"
   returns:
     description: "The <xref uid=\"java.lang.reflect.Type\" data-throw-if-not-resolved=\"false\">Type</xref> representing <code>T</code>."

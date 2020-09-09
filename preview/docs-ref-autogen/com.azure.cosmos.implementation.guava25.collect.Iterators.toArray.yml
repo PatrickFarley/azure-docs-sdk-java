@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>toArray(Iterator<? extends T> iterator, Class<T> type)"
   name: "<T>toArray(Iterator<? extends T> iterator, Class<T> type)"
   nameWithType: "Iterators.<T>toArray(Iterator<? extends T> iterator, Class<T> type)"
-  summary: "Copies an iterator's elements into an array. The iterator will be left exhausted: its <code>\n hasNext()</code> method will return <code>false</code>."
+  summary: "Copies an iterator's elements into an array. The iterator will be left exhausted: its `hasNext()` method will return `false`."
   parameters:
   - description: "the iterator to copy"
     name: "iterator"

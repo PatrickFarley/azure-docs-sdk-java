@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiManagementServiceSkus.listAvailableServiceSkusAsync(String resourceGroupName, String serviceName)"
   name: "listAvailableServiceSkusAsync(String resourceGroupName, String serviceName)"
   nameWithType: "ApiManagementServiceSkus.listAvailableServiceSkusAsync(String resourceGroupName, String serviceName)"
-  summary: "Gets available SKUs for API Management service.\n Gets all available SKU for a given API Management service."
+  summary: "Gets available SKUs for API Management service. Gets all available SKU for a given API Management service."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

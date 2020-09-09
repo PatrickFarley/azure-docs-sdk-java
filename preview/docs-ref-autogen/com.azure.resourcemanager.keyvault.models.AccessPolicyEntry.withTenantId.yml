@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.AccessPolicyEntry.withTenantId(UUID tenantId)"
   name: "withTenantId(UUID tenantId)"
   nameWithType: "AccessPolicyEntry.withTenantId(UUID tenantId)"
-  summary: "Set the tenantId property: The Azure Active Directory tenant ID that should be used for authenticating requests\n to the key vault."
+  summary: "Set the tenantId property: The Azure Active Directory tenant ID that should be used for authenticating requests to the key vault."
   parameters:
   - description: "the tenantId value to set."
     name: "tenantId"

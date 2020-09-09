@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.ArrayUtils.contains(Object[] array, Object objectToFind)"
   name: "contains(Object[] array, Object objectToFind)"
   nameWithType: "ArrayUtils.contains(Object[] array, Object objectToFind)"
-  summary: "<p>Checks if the object is in the given array.\n\n <p>The method returns <code>false</code> if a <code>null</code> array is passed in."
+  summary: "Checks if the object is in the given array.\n\nThe method returns `false` if a `null` array is passed in."
   parameters:
   - description: "the array to search through"
     name: "array"

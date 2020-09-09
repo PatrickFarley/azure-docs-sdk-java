@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.ActionGroupResourceInner.armRoleReceivers()"
   name: "armRoleReceivers()"
   nameWithType: "ActionGroupResourceInner.armRoleReceivers()"
-  summary: "Get the armRoleReceivers property: The list of ARM role receivers that are part of this action group. Roles are\n Azure RBAC roles and only built-in roles are supported."
+  summary: "Get the armRoleReceivers property: The list of ARM role receivers that are part of this action group. Roles are Azure RBAC roles and only built-in roles are supported."
   syntax: "public List<ArmRoleReceiver> armRoleReceivers()"
   returns:
     description: "the armRoleReceivers value."

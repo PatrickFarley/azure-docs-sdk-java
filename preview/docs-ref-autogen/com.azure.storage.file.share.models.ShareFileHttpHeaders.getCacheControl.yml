@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileHttpHeaders.getCacheControl()"
   name: "getCacheControl()"
   nameWithType: "ShareFileHttpHeaders.getCacheControl()"
-  summary: "Get the cacheControl property: Sets the file's cache control. The File\n service stores this value but does not use or modify it."
+  summary: "Get the cacheControl property: Sets the file's cache control. The File service stores this value but does not use or modify it."
   syntax: "public String getCacheControl()"
   returns:
     description: "the cacheControl value."

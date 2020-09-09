@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.deadLetter(String lockToken)"
   name: "deadLetter(String lockToken)"
   nameWithType: "ServiceBusReceiverAsyncClient.deadLetter(String lockToken)"
-  summary: "Moves a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter sub-queue."
+  summary: "Moves a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter sub-queue."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions)"
   name: "deadLetter(String lockToken, DeadLetterOptions deadLetterOptions)"
   nameWithType: "ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions)"
-  summary: "Moves a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error\n description, and/or modified properties."
+  summary: "Moves a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error description, and/or modified properties."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, ServiceBusTransactionContext transactionContext)"
   name: "deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, ServiceBusTransactionContext transactionContext)"
-  summary: "Moves a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error\n description, and/or modified properties."
+  summary: "Moves a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error description, and/or modified properties."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -56,7 +56,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, String sessionId)"
   name: "deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, String sessionId)"
   nameWithType: "ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, String sessionId)"
-  summary: "Moves a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error\n description, and/or modified properties."
+  summary: "Moves a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error description, and/or modified properties."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -75,7 +75,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, String sessionId, ServiceBusTransactionContext transactionContext)"
   name: "deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, String sessionId, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverAsyncClient.deadLetter(String lockToken, DeadLetterOptions deadLetterOptions, String sessionId, ServiceBusTransactionContext transactionContext)"
-  summary: "Moves a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error\n description, and/or modified properties."
+  summary: "Moves a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter subqueue with deadletter reason, error description, and/or modified properties."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -97,7 +97,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.deadLetter(String lockToken, String sessionId)"
   name: "deadLetter(String lockToken, String sessionId)"
   nameWithType: "ServiceBusReceiverAsyncClient.deadLetter(String lockToken, String sessionId)"
-  summary: "Moves a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter sub-queue."
+  summary: "Moves a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter sub-queue."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -113,7 +113,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.deadLetter(String lockToken, String sessionId, ServiceBusTransactionContext transactionContext)"
   name: "deadLetter(String lockToken, String sessionId, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverAsyncClient.deadLetter(String lockToken, String sessionId, ServiceBusTransactionContext transactionContext)"
-  summary: "Moves a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter sub-queue."
+  summary: "Moves a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> to the deadletter sub-queue."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"

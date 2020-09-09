@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.KeyValueElement.setElements(List<String> elements)"
   name: "setElements(List<String> elements)"
   nameWithType: "KeyValueElement.setElements(List<String> elements)"
-  summary: "Set the elements property: When includeTextDetails is set to true, a list of references to the text elements\n constituting this key or value."
+  summary: "Set the elements property: When includeTextDetails is set to true, a list of references to the text elements constituting this key or value."
   parameters:
   - description: "the elements value to set."
     name: "elements"

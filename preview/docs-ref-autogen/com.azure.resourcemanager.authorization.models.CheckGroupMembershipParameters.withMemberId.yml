@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.CheckGroupMembershipParameters.withMemberId(String memberId)"
   name: "withMemberId(String memberId)"
   nameWithType: "CheckGroupMembershipParameters.withMemberId(String memberId)"
-  summary: "Set the memberId property: The object ID of the contact, group, user, or service principal to check for\n membership in the specified group."
+  summary: "Set the memberId property: The object ID of the contact, group, user, or service principal to check for membership in the specified group."
   parameters:
   - description: "the memberId value to set."
     name: "memberId"

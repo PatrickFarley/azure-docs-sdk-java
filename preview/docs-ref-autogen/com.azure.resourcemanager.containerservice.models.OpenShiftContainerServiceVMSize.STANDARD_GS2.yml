@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.OpenShiftContainerServiceVMSize.STANDARD_GS2"
   name: "STANDARD_GS2"
   nameWithType: "OpenShiftContainerServiceVMSize.STANDARD_GS2"
-  summary: "Static value Standard_GS2 for OpenShiftContainerServiceVMSize."
+  summary: "Static value Standard\\_GS2 for OpenShiftContainerServiceVMSize."
   syntax: "public static final OpenShiftContainerServiceVMSize STANDARD_GS2"
 type: "field"
 metadata: {}

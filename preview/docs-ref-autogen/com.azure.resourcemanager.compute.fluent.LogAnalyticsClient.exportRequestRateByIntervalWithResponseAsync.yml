@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.LogAnalyticsClient.exportRequestRateByIntervalWithResponseAsync(String location, RequestRateByIntervalInput parameters)"
   name: "exportRequestRateByIntervalWithResponseAsync(String location, RequestRateByIntervalInput parameters)"
   nameWithType: "LogAnalyticsClient.exportRequestRateByIntervalWithResponseAsync(String location, RequestRateByIntervalInput parameters)"
-  summary: "Export logs that show Api requests made by this subscription in the given time window to show throttling\n activities."
+  summary: "Export logs that show Api requests made by this subscription in the given time window to show throttling activities."
   parameters:
   - description: "The location upon which virtual-machine-sizes is queried."
     name: "location"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.LogAnalyticsClient.exportRequestRateByIntervalWithResponseAsync(String location, RequestRateByIntervalInput parameters, Context context)"
   name: "exportRequestRateByIntervalWithResponseAsync(String location, RequestRateByIntervalInput parameters, Context context)"
   nameWithType: "LogAnalyticsClient.exportRequestRateByIntervalWithResponseAsync(String location, RequestRateByIntervalInput parameters, Context context)"
-  summary: "Export logs that show Api requests made by this subscription in the given time window to show throttling\n activities."
+  summary: "Export logs that show Api requests made by this subscription in the given time window to show throttling activities."
   parameters:
   - description: "The location upon which virtual-machine-sizes is queried."
     name: "location"

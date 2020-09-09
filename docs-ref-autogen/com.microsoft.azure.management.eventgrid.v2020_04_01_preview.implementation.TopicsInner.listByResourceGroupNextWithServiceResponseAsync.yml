@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listByResourceGroupNextWithServiceResponseAsync(String nextPageLink)"
   name: "listByResourceGroupNextWithServiceResponseAsync(String nextPageLink)"
   nameWithType: "TopicsInner.listByResourceGroupNextWithServiceResponseAsync(String nextPageLink)"
-  summary: "List topics under a resource group.\n List all the topics under a resource group."
+  summary: "List topics under a resource group. List all the topics under a resource group."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

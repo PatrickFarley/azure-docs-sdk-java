@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncPermission.delete(CosmosPermissionRequestOptions options)"
   name: "delete(CosmosPermissionRequestOptions options)"
   nameWithType: "CosmosAsyncPermission.delete(CosmosPermissionRequestOptions options)"
-  summary: "Deletes a permission.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response for the deleted permission.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Deletes a permission.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response for the deleted permission. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the request options."
     name: "options"

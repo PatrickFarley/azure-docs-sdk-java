@@ -14,7 +14,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.implementation.models.ShardCursor.ShardCursor(String currentChunkPath, long blockOffset, long eventIndex)"
   name: "ShardCursor(String currentChunkPath, long blockOffset, long eventIndex)"
   nameWithType: "ShardCursor.ShardCursor(String currentChunkPath, long blockOffset, long eventIndex)"
-  summary: "Constructor for use by to*Cursor methods."
+  summary: "Constructor for use by to\\*Cursor methods."
   parameters:
   - name: "currentChunkPath"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

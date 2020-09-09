@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageStorageProfile.withZoneResilient(Boolean zoneResilient)"
   name: "withZoneResilient(Boolean zoneResilient)"
   nameWithType: "ImageStorageProfile.withZoneResilient(Boolean zoneResilient)"
-  summary: "Set the zoneResilient property: Specifies whether an image is zone resilient or not. Default is false. Zone\n resilient images can be created only in regions that provide Zone Redundant Storage (ZRS)."
+  summary: "Set the zoneResilient property: Specifies whether an image is zone resilient or not. Default is false. Zone resilient images can be created only in regions that provide Zone Redundant Storage (ZRS)."
   parameters:
   - description: "the zoneResilient value to set."
     name: "zoneResilient"

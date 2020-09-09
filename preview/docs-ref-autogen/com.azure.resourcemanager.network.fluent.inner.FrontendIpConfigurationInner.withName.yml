@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.FrontendIpConfigurationInner.withName(String name)"
   name: "withName(String name)"
   nameWithType: "FrontendIpConfigurationInner.withName(String name)"
-  summary: "Set the name property: The name of the resource that is unique within the set of frontend IP configurations used\n by the load balancer. This name can be used to access the resource."
+  summary: "Set the name property: The name of the resource that is unique within the set of frontend IP configurations used by the load balancer. This name can be used to access the resource."
   parameters:
   - description: "the name value to set."
     name: "name"

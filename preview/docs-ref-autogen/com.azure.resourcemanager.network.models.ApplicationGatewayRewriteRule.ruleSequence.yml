@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayRewriteRule.ruleSequence()"
   name: "ruleSequence()"
   nameWithType: "ApplicationGatewayRewriteRule.ruleSequence()"
-  summary: "Get the ruleSequence property: Rule Sequence of the rewrite rule that determines the order of execution of a\n particular rule in a RewriteRuleSet."
+  summary: "Get the ruleSequence property: Rule Sequence of the rewrite rule that determines the order of execution of a particular rule in a RewriteRuleSet."
   syntax: "public Integer ruleSequence()"
   returns:
     description: "the ruleSequence value."

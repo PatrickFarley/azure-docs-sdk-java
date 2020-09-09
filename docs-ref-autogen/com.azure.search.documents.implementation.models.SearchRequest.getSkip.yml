@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.getSkip()"
   name: "getSkip()"
   nameWithType: "SearchRequest.getSkip()"
-  summary: "Get the skip property: The number of search results to skip. This value cannot be greater than 100,000. If you\n need to scan documents in sequence, but cannot use skip due to this limitation, consider using orderby on a\n totally-ordered key and filter with a range query instead."
+  summary: "Get the skip property: The number of search results to skip. This value cannot be greater than 100,000. If you need to scan documents in sequence, but cannot use skip due to this limitation, consider using orderby on a totally-ordered key and filter with a range query instead."
   syntax: "public Integer getSkip()"
   returns:
     description: "the skip value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PatchRouteFilterRule.communities()"
   name: "communities()"
   nameWithType: "PatchRouteFilterRule.communities()"
-  summary: "Get the communities property: The collection for bgp community values to filter on. e.g.\n ['12076:5010','12076:5020']."
+  summary: "Get the communities property: The collection for bgp community values to filter on. e.g. \\['12076:5010','12076:5020'\\]."
   syntax: "public List<String> communities()"
   returns:
     description: "the communities value."

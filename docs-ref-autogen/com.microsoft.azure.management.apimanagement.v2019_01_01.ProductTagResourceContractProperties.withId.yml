@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ProductTagResourceContractProperties.withId(String id)"
   name: "withId(String id)"
   nameWithType: "ProductTagResourceContractProperties.withId(String id)"
-  summary: "Set identifier of the product in the form of /products/{productId}."
+  summary: "Set identifier of the product in the form of /products/\\{productId\\}."
   parameters:
   - description: "the id value to set"
     name: "id"

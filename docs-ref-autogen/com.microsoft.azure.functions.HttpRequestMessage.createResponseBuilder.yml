@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.functions.HttpRequestMessage<T>.createResponseBuilder(HttpStatus status)"
   name: "createResponseBuilder(HttpStatus status)"
   nameWithType: "HttpRequestMessage<T>.createResponseBuilder(HttpStatus status)"
-  summary: "Returns a <xref uid=\"HttpResponseMessage.Builder\" data-throw-if-not-resolved=\"false\">HttpResponseMessage.Builder</xref> instance to build a HttpResponseMessage with\n standard HTTP status code and no response body."
+  summary: "Returns a <xref uid=\"com.microsoft.azure.functions.HttpResponseMessage.Builder\" data-throw-if-not-resolved=\"false\">HttpResponseMessage.Builder</xref> instance to build a HttpResponseMessage with standard HTTP status code and no response body."
   parameters:
   - description: "The HTTP status code to return to the caller of the function."
     name: "status"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.functions.HttpRequestMessage<T>.createResponseBuilder(HttpStatusType status)"
   name: "createResponseBuilder(HttpStatusType status)"
   nameWithType: "HttpRequestMessage<T>.createResponseBuilder(HttpStatusType status)"
-  summary: "Returns a <xref uid=\"HttpResponseMessage.Builder\" data-throw-if-not-resolved=\"false\">HttpResponseMessage.Builder</xref> instance to build a HttpResponseMessage with\n custome HTTP status code and no response body."
+  summary: "Returns a <xref uid=\"com.microsoft.azure.functions.HttpResponseMessage.Builder\" data-throw-if-not-resolved=\"false\">HttpResponseMessage.Builder</xref> instance to build a HttpResponseMessage with custome HTTP status code and no response body."
   parameters:
   - description: "The HTTP status code to return to the caller of the function."
     name: "status"

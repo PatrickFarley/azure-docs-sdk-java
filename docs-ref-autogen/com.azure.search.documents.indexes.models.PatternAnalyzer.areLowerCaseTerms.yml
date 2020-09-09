@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PatternAnalyzer.areLowerCaseTerms()"
   name: "areLowerCaseTerms()"
   nameWithType: "PatternAnalyzer.areLowerCaseTerms()"
-  summary: "Get the lowerCaseTerms property: A value indicating whether terms should\n be lower-cased. Default is true."
+  summary: "Get the lowerCaseTerms property: A value indicating whether terms should be lower-cased. Default is true."
   syntax: "public Boolean areLowerCaseTerms()"
   returns:
     description: "the lowerCaseTerms value."

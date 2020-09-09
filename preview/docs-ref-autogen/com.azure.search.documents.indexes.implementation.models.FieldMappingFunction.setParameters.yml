@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.FieldMappingFunction.setParameters(Map<String,Object> parameters)"
   name: "setParameters(Map<String,Object> parameters)"
   nameWithType: "FieldMappingFunction.setParameters(Map<String,Object> parameters)"
-  summary: "Set the parameters property: A dictionary of parameter name/value pairs to pass to the function. Each value must\n be of a primitive type."
+  summary: "Set the parameters property: A dictionary of parameter name/value pairs to pass to the function. Each value must be of a primitive type."
   parameters:
   - description: "the parameters value to set."
     name: "parameters"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.AsciiFoldingTokenFilter.setPreserveOriginal(Boolean preserveOriginal)"
   name: "setPreserveOriginal(Boolean preserveOriginal)"
   nameWithType: "AsciiFoldingTokenFilter.setPreserveOriginal(Boolean preserveOriginal)"
-  summary: "Set the preserveOriginal property: A value indicating whether the\n original token will be kept. Default is false."
+  summary: "Set the preserveOriginal property: A value indicating whether the original token will be kept. Default is false."
   parameters:
   - description: "the preserveOriginal value to set."
     name: "preserveOriginal"

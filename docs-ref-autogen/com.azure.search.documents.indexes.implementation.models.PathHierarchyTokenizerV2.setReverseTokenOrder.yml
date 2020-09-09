@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.PathHierarchyTokenizerV2.setReverseTokenOrder(Boolean reverseTokenOrder)"
   name: "setReverseTokenOrder(Boolean reverseTokenOrder)"
   nameWithType: "PathHierarchyTokenizerV2.setReverseTokenOrder(Boolean reverseTokenOrder)"
-  summary: "Set the reverseTokenOrder property: A value indicating whether to generate tokens in reverse order. Default is\n false."
+  summary: "Set the reverseTokenOrder property: A value indicating whether to generate tokens in reverse order. Default is false."
   parameters:
   - description: "the reverseTokenOrder value to set."
     name: "reverseTokenOrder"

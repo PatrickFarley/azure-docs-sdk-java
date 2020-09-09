@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.ValidateRequest.withHostingEnvironment(String hostingEnvironment)"
   name: "withHostingEnvironment(String hostingEnvironment)"
   nameWithType: "ValidateRequest.withHostingEnvironment(String hostingEnvironment)"
-  summary: "Set the hostingEnvironment property: Name of App Service Environment where app or App Service plan should be\n created."
+  summary: "Set the hostingEnvironment property: Name of App Service Environment where app or App Service plan should be created."
   parameters:
   - description: "the hostingEnvironment value to set."
     name: "hostingEnvironment"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClient.createQueue(CreateQueueOptions queueOptions)"
   name: "createQueue(CreateQueueOptions queueOptions)"
   nameWithType: "ServiceBusManagementClient.createQueue(CreateQueueOptions queueOptions)"
-  summary: "Creates a queue with the <xref uid=\"CreateQueueOptions\" data-throw-if-not-resolved=\"false\">CreateQueueOptions</xref>."
+  summary: "Creates a queue with the <xref uid=\"com.azure.messaging.servicebus.models.CreateQueueOptions\" data-throw-if-not-resolved=\"false\">CreateQueueOptions</xref>."
   parameters:
   - description: "Information about the queue to create."
     name: "queueOptions"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.PolicyAssignmentInner.enforcementMode()"
   name: "enforcementMode()"
   nameWithType: "PolicyAssignmentInner.enforcementMode()"
-  summary: "Get the enforcementMode property: The policy assignment enforcement mode. Possible values are Default and\n DoNotEnforce."
+  summary: "Get the enforcementMode property: The policy assignment enforcement mode. Possible values are Default and DoNotEnforce."
   syntax: "public EnforcementMode enforcementMode()"
   returns:
     description: "the enforcementMode value."

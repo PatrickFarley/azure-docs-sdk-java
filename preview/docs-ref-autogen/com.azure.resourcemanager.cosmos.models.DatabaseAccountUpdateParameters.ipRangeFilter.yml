@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.DatabaseAccountUpdateParameters.ipRangeFilter()"
   name: "ipRangeFilter()"
   nameWithType: "DatabaseAccountUpdateParameters.ipRangeFilter()"
-  summary: "Get the ipRangeFilter property: Cosmos DB Firewall Support: This value specifies the set of IP addresses or IP\n address ranges in CIDR form to be included as the allowed list of client IPs for a given database account. IP\n addresses/ranges must be comma separated and must not contain any spaces."
+  summary: "Get the ipRangeFilter property: Cosmos DB Firewall Support: This value specifies the set of IP addresses or IP address ranges in CIDR form to be included as the allowed list of client IPs for a given database account. IP addresses/ranges must be comma separated and must not contain any spaces."
   syntax: "public String ipRangeFilter()"
   returns:
     description: "the ipRangeFilter value."

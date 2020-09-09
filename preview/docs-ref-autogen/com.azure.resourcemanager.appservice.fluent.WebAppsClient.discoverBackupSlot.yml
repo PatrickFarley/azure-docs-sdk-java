@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.discoverBackupSlot(String resourceGroupName, String name, String slot, RestoreRequestInner request)"
   name: "discoverBackupSlot(String resourceGroupName, String name, String slot, RestoreRequestInner request)"
   nameWithType: "WebAppsClient.discoverBackupSlot(String resourceGroupName, String name, String slot, RestoreRequestInner request)"
-  summary: "Description for Discovers an existing app backup that can be restored from a blob in Azure storage. Use this to\n get information about the databases stored in a backup."
+  summary: "Description for Discovers an existing app backup that can be restored from a blob in Azure storage. Use this to get information about the databases stored in a backup."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.discoverBackupSlot(String resourceGroupName, String name, String slot, RestoreRequestInner request, Context context)"
   name: "discoverBackupSlot(String resourceGroupName, String name, String slot, RestoreRequestInner request, Context context)"
   nameWithType: "WebAppsClient.discoverBackupSlot(String resourceGroupName, String name, String slot, RestoreRequestInner request, Context context)"
-  summary: "Description for Discovers an existing app backup that can be restored from a blob in Azure storage. Use this to\n get information about the databases stored in a backup."
+  summary: "Description for Discovers an existing app backup that can be restored from a blob in Azure storage. Use this to get information about the databases stored in a backup."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

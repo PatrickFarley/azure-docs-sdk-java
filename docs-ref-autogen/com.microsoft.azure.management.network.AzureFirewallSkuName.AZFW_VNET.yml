@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.AzureFirewallSkuName.AZFW_VNET"
   name: "AZFW_VNET"
   nameWithType: "AzureFirewallSkuName.AZFW_VNET"
-  summary: "Static value AZFW_VNet for AzureFirewallSkuName."
+  summary: "Static value AZFW\\_VNet for AzureFirewallSkuName."
   syntax: "public static final AzureFirewallSkuName AZFW_VNET"
 type: "field"
 metadata: {}

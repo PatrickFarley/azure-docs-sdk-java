@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler)"
   name: "registerSessionHandler(ISessionHandler handler)"
   nameWithType: "IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler)"
-  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages.\n ISessionHandler methods are executed on java.util.concurrent.commonPool()"
+  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages. ISessionHandler methods are executed on java.util.concurrent.commonPool()"
   parameters:
   - description: "The <xref uid=\"com.microsoft.azure.servicebus.ISessionHandler\" data-throw-if-not-resolved=\"false\">ISessionHandler</xref> instance"
     name: "handler"
@@ -23,7 +23,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler, SessionHandlerOptions handlerOptions)"
   name: "registerSessionHandler(ISessionHandler handler, SessionHandlerOptions handlerOptions)"
   nameWithType: "IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler, SessionHandlerOptions handlerOptions)"
-  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages.\n ISessionHandler methods are executed on java.util.concurrent.commonPool()"
+  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages. ISessionHandler methods are executed on java.util.concurrent.commonPool()"
   parameters:
   - description: "The <xref uid=\"com.microsoft.azure.servicebus.ISessionHandler\" data-throw-if-not-resolved=\"false\">ISessionHandler</xref> instance"
     name: "handler"
@@ -41,7 +41,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler, SessionHandlerOptions handlerOptions, ExecutorService executorService)"
   name: "registerSessionHandler(ISessionHandler handler, SessionHandlerOptions handlerOptions, ExecutorService executorService)"
   nameWithType: "IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler, SessionHandlerOptions handlerOptions, ExecutorService executorService)"
-  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages.\n ISessionHandler methods are executed on the passed executor service."
+  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages. ISessionHandler methods are executed on the passed executor service."
   parameters:
   - description: "The <xref uid=\"com.microsoft.azure.servicebus.ISessionHandler\" data-throw-if-not-resolved=\"false\">ISessionHandler</xref> instance"
     name: "handler"
@@ -62,7 +62,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler, ExecutorService executorService)"
   name: "registerSessionHandler(ISessionHandler handler, ExecutorService executorService)"
   nameWithType: "IMessageAndSessionPump.registerSessionHandler(ISessionHandler handler, ExecutorService executorService)"
-  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages.\n ISessionHandler methods are executed on the passed executor service."
+  summary: "Receive session messages continuously from the queue. Registers a message handler and begins a new thread to receive session-messages. ISessionHandler methods are executed on the passed executor service."
   parameters:
   - description: "The <xref uid=\"com.microsoft.azure.servicebus.ISessionHandler\" data-throw-if-not-resolved=\"false\">ISessionHandler</xref> instance"
     name: "handler"

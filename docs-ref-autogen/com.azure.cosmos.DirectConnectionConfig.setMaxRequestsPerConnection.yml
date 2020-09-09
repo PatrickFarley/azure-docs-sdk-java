@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.DirectConnectionConfig.setMaxRequestsPerConnection(int maxRequestsPerConnection)"
   name: "setMaxRequestsPerConnection(int maxRequestsPerConnection)"
   nameWithType: "DirectConnectionConfig.setMaxRequestsPerConnection(int maxRequestsPerConnection)"
-  summary: "Sets the max requests per connection\n This represents the number of requests that will be queued\n on a single connection for a specific endpoint\n\n Default value is 10"
+  summary: "Sets the max requests per connection This represents the number of requests that will be queued on a single connection for a specific endpoint Default value is 10"
   parameters:
   - description: "the max requests per endpoint"
     name: "maxRequestsPerConnection"

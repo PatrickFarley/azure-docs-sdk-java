@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RunInner.sourceRegistryAuth()"
   name: "sourceRegistryAuth()"
   nameWithType: "RunInner.sourceRegistryAuth()"
-  summary: "Get the sourceRegistryAuth property: The scope of the credentials that were used to login to the source registry\n during this run."
+  summary: "Get the sourceRegistryAuth property: The scope of the credentials that were used to login to the source registry during this run."
   syntax: "public String sourceRegistryAuth()"
   returns:
     description: "the sourceRegistryAuth value."

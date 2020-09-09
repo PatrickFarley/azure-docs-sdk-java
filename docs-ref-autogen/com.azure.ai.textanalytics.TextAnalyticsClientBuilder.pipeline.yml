@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.TextAnalyticsClientBuilder.pipeline(HttpPipeline httpPipeline)"
   name: "pipeline(HttpPipeline httpPipeline)"
   nameWithType: "TextAnalyticsClientBuilder.pipeline(HttpPipeline httpPipeline)"
-  summary: "Sets the HTTP pipeline to use for the service client.\n <p>\n If <code>pipeline</code> is set, all other settings are ignored, aside from <xref uid=\"TextAnalyticsClientBuilder#endpoint(String)\" data-throw-if-not-resolved=\"false\">endpoint</xref> to build <xref uid=\"TextAnalyticsAsyncClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsAsyncClient</xref> or <xref uid=\"TextAnalyticsClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsClient</xref>."
+  summary: "Sets the HTTP pipeline to use for the service client.\n\nIf `pipeline` is set, all other settings are ignored, aside from <xref uid=\"com.azure.ai.textanalytics.TextAnalyticsClientBuilder.endpoint(java.lang.String)\" data-throw-if-not-resolved=\"false\">endpoint</xref> to build <xref uid=\"com.azure.ai.textanalytics.TextAnalyticsAsyncClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsAsyncClient</xref> or <xref uid=\"com.azure.ai.textanalytics.TextAnalyticsClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsClient</xref>."
   parameters:
   - description: "The HTTP pipeline to use for sending service requests and receiving responses."
     name: "httpPipeline"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ImageAnalysisSkill.getDetails()"
   name: "getDetails()"
   nameWithType: "ImageAnalysisSkill.getDetails()"
-  summary: "Get the details property: A string indicating which domain-specific\n details to return."
+  summary: "Get the details property: A string indicating which domain-specific details to return."
   syntax: "public List<ImageDetail> getDetails()"
   returns:
     description: "the details value."

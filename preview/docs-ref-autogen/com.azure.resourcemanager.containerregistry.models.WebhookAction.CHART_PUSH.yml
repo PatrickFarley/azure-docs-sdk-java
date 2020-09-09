@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.WebhookAction.CHART_PUSH"
   name: "CHART_PUSH"
   nameWithType: "WebhookAction.CHART_PUSH"
-  summary: "Static value chart_push for WebhookAction."
+  summary: "Static value chart\\_push for WebhookAction."
   syntax: "public static final WebhookAction CHART_PUSH"
 type: "field"
 metadata: {}

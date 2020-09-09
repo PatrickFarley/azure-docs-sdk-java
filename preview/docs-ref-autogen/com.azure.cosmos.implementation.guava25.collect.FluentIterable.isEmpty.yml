@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.isEmpty()"
   name: "isEmpty()"
   nameWithType: "FluentIterable<E>.isEmpty()"
-  summary: "Determines whether this fluent iterable is empty.\n\n <p><b><code>Stream</code> equivalent:</b> <code>!stream.findAny().isPresent()</code>."
+  summary: "Determines whether this fluent iterable is empty.\n\n**`Stream` equivalent:** `!stream.findAny().isPresent()`."
   syntax: "public final boolean isEmpty()"
   returns:
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

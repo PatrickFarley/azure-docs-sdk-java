@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.resetIndexer(String indexerName)"
   name: "resetIndexer(String indexerName)"
   nameWithType: "SearchIndexerClient.resetIndexer(String indexerName)"
-  summary: "Resets the change tracking state associated with an indexer.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Reset search indexer named \"searchIndexer\".  </p>\n\n <pre>\n searchIndexerClient.resetIndexer&#40;&quot;searchIndexer&quot;&#41;;\n </pre>"
+  summary: "Resets the change tracking state associated with an indexer.\n\n**Code Sample**\n\nReset search indexer named \"searchIndexer\".\n\n```java\nsearchIndexerClient.resetIndexer(\"searchIndexer\");\n```"
   parameters:
   - description: "the name of the indexer to reset"
     name: "indexerName"

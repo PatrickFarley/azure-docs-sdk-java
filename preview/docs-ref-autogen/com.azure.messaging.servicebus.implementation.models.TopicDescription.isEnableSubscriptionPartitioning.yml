@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.TopicDescription.isEnableSubscriptionPartitioning()"
   name: "isEnableSubscriptionPartitioning()"
   nameWithType: "TopicDescription.isEnableSubscriptionPartitioning()"
-  summary: "Get the enableSubscriptionPartitioning property: A value that indicates whether the topic's subscription is to be\n partitioned."
+  summary: "Get the enableSubscriptionPartitioning property: A value that indicates whether the topic's subscription is to be partitioned."
   syntax: "public Boolean isEnableSubscriptionPartitioning()"
   returns:
     description: "the enableSubscriptionPartitioning value."

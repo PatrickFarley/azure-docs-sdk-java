@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.Utility.toFluxByteBuffer(InputStream inputStream)"
   name: "toFluxByteBuffer(InputStream inputStream)"
   nameWithType: "Utility.toFluxByteBuffer(InputStream inputStream)"
-  summary: "Creates a Flux of ByteBuffer, with each ByteBuffer wrapping bytes read from the given\n InputStream."
+  summary: "Creates a Flux of ByteBuffer, with each ByteBuffer wrapping bytes read from the given InputStream."
   parameters:
   - description: "InputStream to back the Flux"
     name: "inputStream"

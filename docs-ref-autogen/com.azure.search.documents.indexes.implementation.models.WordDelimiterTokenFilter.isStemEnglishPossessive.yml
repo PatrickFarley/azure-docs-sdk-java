@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.WordDelimiterTokenFilter.isStemEnglishPossessive()"
   name: "isStemEnglishPossessive()"
   nameWithType: "WordDelimiterTokenFilter.isStemEnglishPossessive()"
-  summary: "Get the stemEnglishPossessive property: A value indicating whether to remove trailing \"'s\" for each subword.\n Default is true."
+  summary: "Get the stemEnglishPossessive property: A value indicating whether to remove trailing \"'s\" for each subword. Default is true."
   syntax: "public Boolean isStemEnglishPossessive()"
   returns:
     description: "the stemEnglishPossessive value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.withAllowPassthroughUsers(Boolean allowPassthroughUsers)"
   name: "withAllowPassthroughUsers(Boolean allowPassthroughUsers)"
   nameWithType: "ApplicationInner.withAllowPassthroughUsers(Boolean allowPassthroughUsers)"
-  summary: "Set the allowPassthroughUsers property: Indicates that the application supports pass through users who have no\n presence in the resource tenant."
+  summary: "Set the allowPassthroughUsers property: Indicates that the application supports pass through users who have no presence in the resource tenant."
   parameters:
   - description: "the allowPassthroughUsers value to set."
     name: "allowPassthroughUsers"

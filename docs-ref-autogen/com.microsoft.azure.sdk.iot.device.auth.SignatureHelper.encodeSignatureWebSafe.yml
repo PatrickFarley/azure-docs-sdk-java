@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.auth.SignatureHelper.encodeSignatureWebSafe(String sig)"
   name: "encodeSignatureWebSafe(String sig)"
   nameWithType: "SignatureHelper.encodeSignatureWebSafe(String sig)"
-  summary: "Safely escapes characters in the signature so that they can be\n transmitted over the internet. Replaces unsafe characters with a '%'\n followed by two hexadecimal digits (i.e. %2d)."
+  summary: "Safely escapes characters in the signature so that they can be transmitted over the internet. Replaces unsafe characters with a '%' followed by two hexadecimal digits (i.e. %2d)."
   parameters:
   - description: "the HMAC-SHA256 encrypted, Base64-encoded, UTF-8 encoded\n signature."
     name: "sig"

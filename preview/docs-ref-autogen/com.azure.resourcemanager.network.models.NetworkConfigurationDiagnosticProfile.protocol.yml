@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkConfigurationDiagnosticProfile.protocol()"
   name: "protocol()"
   nameWithType: "NetworkConfigurationDiagnosticProfile.protocol()"
-  summary: "Get the protocol property: Protocol to be verified on. Accepted values are '*', TCP, UDP."
+  summary: "Get the protocol property: Protocol to be verified on. Accepted values are '\\*', TCP, UDP."
   syntax: "public String protocol()"
   returns:
     description: "the protocol value."

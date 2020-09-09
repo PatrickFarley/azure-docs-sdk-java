@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.Utils.isDatabaseLink(String link)"
   name: "isDatabaseLink(String link)"
   nameWithType: "Utils.isDatabaseLink(String link)"
-  summary: "Checks whether the specified link is a Database Self Link or a Database\n ID based link"
+  summary: "Checks whether the specified link is a Database Self Link or a Database ID based link"
   parameters:
   - description: "the link to analyze."
     name: "link"

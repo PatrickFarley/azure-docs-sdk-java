@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.appSettingsOverrides()"
   name: "appSettingsOverrides()"
   nameWithType: "CloningInfo.appSettingsOverrides()"
-  summary: "Get the appSettingsOverrides property: Application setting overrides for cloned app. If specified, these settings\n override the settings cloned from source app. Otherwise, application settings from source app are retained."
+  summary: "Get the appSettingsOverrides property: Application setting overrides for cloned app. If specified, these settings override the settings cloned from source app. Otherwise, application settings from source app are retained."
   syntax: "public Map<String,String> appSettingsOverrides()"
   returns:
     description: "the appSettingsOverrides value."

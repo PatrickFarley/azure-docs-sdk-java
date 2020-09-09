@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.PolicySetDefinitionInner.withMetadata(Object metadata)"
   name: "withMetadata(Object metadata)"
   nameWithType: "PolicySetDefinitionInner.withMetadata(Object metadata)"
-  summary: "Set the metadata property: The policy set definition metadata. Metadata is an open ended object and is typically\n a collection of key value pairs."
+  summary: "Set the metadata property: The policy set definition metadata. Metadata is an open ended object and is typically a collection of key value pairs."
   parameters:
   - description: "the metadata value to set."
     name: "metadata"

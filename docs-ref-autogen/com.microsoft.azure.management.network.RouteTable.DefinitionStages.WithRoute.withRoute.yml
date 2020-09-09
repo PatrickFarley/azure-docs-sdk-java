@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.RouteTable.DefinitionStages.WithRoute.withRoute(String destinationAddressPrefix, RouteNextHopType nextHop)"
   name: "withRoute(String destinationAddressPrefix, RouteNextHopType nextHop)"
   nameWithType: "RouteTable.DefinitionStages.WithRoute.withRoute(String destinationAddressPrefix, RouteNextHopType nextHop)"
-  summary: "Creates a non-virtual appliance route.\n <p>\n The name is generated automatically."
+  summary: "Creates a non-virtual appliance route.\n\nThe name is generated automatically."
   parameters:
   - description: "the destination address prefix, expressed in the CIDR notation, for the route to apply to"
     name: "destinationAddressPrefix"

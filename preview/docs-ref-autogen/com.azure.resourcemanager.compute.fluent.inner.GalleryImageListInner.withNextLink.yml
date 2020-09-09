@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.GalleryImageListInner.withNextLink(String nextLink)"
   name: "withNextLink(String nextLink)"
   nameWithType: "GalleryImageListInner.withNextLink(String nextLink)"
-  summary: "Set the nextLink property: The uri to fetch the next page of Image Definitions in the Shared Image Gallery. Call\n ListNext() with this to fetch the next page of gallery Image Definitions."
+  summary: "Set the nextLink property: The uri to fetch the next page of Image Definitions in the Shared Image Gallery. Call ListNext() with this to fetch the next page of gallery Image Definitions."
   parameters:
   - description: "the nextLink value to set."
     name: "nextLink"

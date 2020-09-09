@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.UserDelegationKey.setSignedObjectId(String signedObjectId)"
   name: "setSignedObjectId(String signedObjectId)"
   nameWithType: "UserDelegationKey.setSignedObjectId(String signedObjectId)"
-  summary: "Set the signedObjectId property: The Azure Active Directory object ID in\n GUID format."
+  summary: "Set the signedObjectId property: The Azure Active Directory object ID in GUID format."
   parameters:
   - description: "the signedObjectId value to set."
     name: "signedObjectId"

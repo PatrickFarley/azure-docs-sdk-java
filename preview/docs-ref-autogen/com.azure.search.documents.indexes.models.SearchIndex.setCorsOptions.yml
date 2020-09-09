@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndex.setCorsOptions(CorsOptions corsOptions)"
   name: "setCorsOptions(CorsOptions corsOptions)"
   nameWithType: "SearchIndex.setCorsOptions(CorsOptions corsOptions)"
-  summary: "Set the corsOptions property: Options to control Cross-Origin Resource\n Sharing (CORS) for the index."
+  summary: "Set the corsOptions property: Options to control Cross-Origin Resource Sharing (CORS) for the index."
   parameters:
   - description: "the corsOptions value to set."
     name: "corsOptions"

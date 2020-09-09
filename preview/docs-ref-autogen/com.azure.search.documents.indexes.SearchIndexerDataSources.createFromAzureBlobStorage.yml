@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerDataSources.createFromAzureBlobStorage(String dataSourceName, String storageConnectionString, String containerName)"
   name: "createFromAzureBlobStorage(String dataSourceName, String storageConnectionString, String containerName)"
   nameWithType: "SearchIndexerDataSources.createFromAzureBlobStorage(String dataSourceName, String storageConnectionString, String containerName)"
-  summary: "Creates a new <xref uid=\"SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure Blob container."
+  summary: "Creates a new <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure Blob container."
   parameters:
   - description: "The name of the data source."
     name: "dataSourceName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerDataSources.createFromAzureBlobStorage(String dataSourceName, String storageConnectionString, String containerName, String pathPrefix, String description, DataDeletionDetectionPolicy deletionDetectionPolicy)"
   name: "createFromAzureBlobStorage(String dataSourceName, String storageConnectionString, String containerName, String pathPrefix, String description, DataDeletionDetectionPolicy deletionDetectionPolicy)"
   nameWithType: "SearchIndexerDataSources.createFromAzureBlobStorage(String dataSourceName, String storageConnectionString, String containerName, String pathPrefix, String description, DataDeletionDetectionPolicy deletionDetectionPolicy)"
-  summary: "Creates a new <xref uid=\"SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure Blob container."
+  summary: "Creates a new <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure Blob container."
   parameters:
   - description: "The name of the data source."
     name: "dataSourceName"

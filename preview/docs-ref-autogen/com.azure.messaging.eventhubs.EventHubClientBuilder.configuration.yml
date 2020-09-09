@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventHubClientBuilder.configuration(Configuration configuration)"
   name: "configuration(Configuration configuration)"
   nameWithType: "EventHubClientBuilder.configuration(Configuration configuration)"
-  summary: "Sets the configuration store that is used during construction of the service client.\n\n If not specified, the default configuration store is used to configure the <xref uid=\"EventHubAsyncClient\" data-throw-if-not-resolved=\"false\">EventHubAsyncClient</xref>. Use\n <xref uid=\"Configuration#NONE\" data-throw-if-not-resolved=\"false\">Configuration#NONE</xref> to bypass using configuration settings during construction."
+  summary: "Sets the configuration store that is used during construction of the service client. If not specified, the default configuration store is used to configure the <xref uid=\"\" data-throw-if-not-resolved=\"false\">EventHubAsyncClient</xref>. Use <xref uid=\"com.azure.core.util.Configuration.NONE\" data-throw-if-not-resolved=\"false\">Configuration#NONE</xref> to bypass using configuration settings during construction."
   parameters:
   - description: "The configuration store used to configure the <xref uid=\"\" data-throw-if-not-resolved=\"false\">EventHubAsyncClient</xref>."
     name: "configuration"

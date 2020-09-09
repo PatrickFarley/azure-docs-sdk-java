@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.SyncMemberInner.syncMemberAzureDatabaseResourceId()"
   name: "syncMemberAzureDatabaseResourceId()"
   nameWithType: "SyncMemberInner.syncMemberAzureDatabaseResourceId()"
-  summary: "Get the syncMemberAzureDatabaseResourceId property: ARM resource id of the sync member logical database, for sync\n members in Azure."
+  summary: "Get the syncMemberAzureDatabaseResourceId property: ARM resource id of the sync member logical database, for sync members in Azure."
   syntax: "public String syncMemberAzureDatabaseResourceId()"
   returns:
     description: "the syncMemberAzureDatabaseResourceId value."

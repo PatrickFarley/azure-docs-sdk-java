@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.databaseSizeBasedRecommendationServiceLevelObjectiveId()"
   name: "databaseSizeBasedRecommendationServiceLevelObjectiveId()"
   nameWithType: "ServiceTierAdvisorInner.databaseSizeBasedRecommendationServiceLevelObjectiveId()"
-  summary: "Get the databaseSizeBasedRecommendationServiceLevelObjectiveId property: Gets or sets\n databaseSizeBasedRecommendationServiceLevelObjectiveId for service tier advisor."
+  summary: "Get the databaseSizeBasedRecommendationServiceLevelObjectiveId property: Gets or sets databaseSizeBasedRecommendationServiceLevelObjectiveId for service tier advisor."
   syntax: "public UUID databaseSizeBasedRecommendationServiceLevelObjectiveId()"
   returns:
     description: "the databaseSizeBasedRecommendationServiceLevelObjectiveId value."

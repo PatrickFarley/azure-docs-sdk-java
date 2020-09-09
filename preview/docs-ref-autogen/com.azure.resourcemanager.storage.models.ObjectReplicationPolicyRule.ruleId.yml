@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ObjectReplicationPolicyRule.ruleId()"
   name: "ruleId()"
   nameWithType: "ObjectReplicationPolicyRule.ruleId()"
-  summary: "Get the ruleId property: Rule Id is auto-generated for each new rule on destination account. It is required for\n put policy on source account."
+  summary: "Get the ruleId property: Rule Id is auto-generated for each new rule on destination account. It is required for put policy on source account."
   syntax: "public String ruleId()"
   returns:
     description: "the ruleId value."

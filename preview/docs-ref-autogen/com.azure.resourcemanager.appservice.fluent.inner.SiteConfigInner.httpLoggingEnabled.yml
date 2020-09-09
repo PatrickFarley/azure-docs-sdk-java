@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigInner.httpLoggingEnabled()"
   name: "httpLoggingEnabled()"
   nameWithType: "SiteConfigInner.httpLoggingEnabled()"
-  summary: "Get the httpLoggingEnabled property: &lt;code&gt;true&lt;/code&gt; if HTTP logging is enabled; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the httpLoggingEnabled property: <code>true</code> if HTTP logging is enabled; otherwise, <code>false</code>."
   syntax: "public Boolean httpLoggingEnabled()"
   returns:
     description: "the httpLoggingEnabled value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.setBlobContentMD5(byte[] blobContentMD5)"
   name: "setBlobContentMD5(byte[] blobContentMD5)"
   nameWithType: "BlobDownloadHeaders.setBlobContentMD5(byte[] blobContentMD5)"
-  summary: "Set the blobContentMD5 property: If the blob has a MD5 hash, and if\n request contains range header (Range or x-ms-range), this response\n header is returned with the value of the whole blob's MD5 value. This\n value may or may not be equal to the value returned in Content-MD5\n header, with the latter calculated from the requested range."
+  summary: "Set the blobContentMD5 property: If the blob has a MD5 hash, and if request contains range header (Range or x-ms-range), this response header is returned with the value of the whole blob's MD5 value. This value may or may not be equal to the value returned in Content-MD5 header, with the latter calculated from the requested range."
   parameters:
   - description: "the blobContentMD5 value to set."
     name: "blobContentMD5"

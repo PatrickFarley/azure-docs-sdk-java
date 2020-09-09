@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigResourceInner.alwaysOn()"
   name: "alwaysOn()"
   nameWithType: "SiteConfigResourceInner.alwaysOn()"
-  summary: "Get the alwaysOn property: &lt;code&gt;true&lt;/code&gt; if Always On is enabled; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the alwaysOn property: <code>true</code> if Always On is enabled; otherwise, <code>false</code>."
   syntax: "public Boolean alwaysOn()"
   returns:
     description: "the alwaysOn value."

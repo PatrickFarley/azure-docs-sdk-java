@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.create(long maxSize)"
   name: "create(long maxSize)"
   nameWithType: "ShareFileClient.create(long maxSize)"
-  summary: "Creates a file in the storage account and returns a response of <xref uid=\"ShareFileInfo\" data-throw-if-not-resolved=\"false\">ShareFileInfo</xref> to interact with it.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the file with length of 1024 bytes, some headers and metadata.</p>\n\n <pre>\n ShareFileInfo response = fileClient.create&#40;1024&#41;;\n System.out.println&#40;&quot;Complete creating the file.&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-file\">Azure Docs</a>.</p>"
+  summary: "Creates a file in the storage account and returns a response of <xref uid=\"com.azure.storage.file.share.models.ShareFileInfo\" data-throw-if-not-resolved=\"false\">ShareFileInfo</xref> to interact with it.\n\n**Code Samples**\n\nCreate the file with length of 1024 bytes, some headers and metadata.\n\n```java\nShareFileInfo response = fileClient.create(1024);\n System.out.println(\"Complete creating the file.\");\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-file"
   parameters:
   - description: "The maximum size in bytes for the file."
     name: "maxSize"

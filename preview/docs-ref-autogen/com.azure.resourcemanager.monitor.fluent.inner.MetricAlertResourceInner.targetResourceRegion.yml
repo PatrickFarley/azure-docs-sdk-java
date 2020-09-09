@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.MetricAlertResourceInner.targetResourceRegion()"
   name: "targetResourceRegion()"
   nameWithType: "MetricAlertResourceInner.targetResourceRegion()"
-  summary: "Get the targetResourceRegion property: the region of the target resource(s) on which the alert is\n created/updated. Mandatory for MultipleResourceMultipleMetricCriteria."
+  summary: "Get the targetResourceRegion property: the region of the target resource(s) on which the alert is created/updated. Mandatory for MultipleResourceMultipleMetricCriteria."
   syntax: "public String targetResourceRegion()"
   returns:
     description: "the targetResourceRegion value."

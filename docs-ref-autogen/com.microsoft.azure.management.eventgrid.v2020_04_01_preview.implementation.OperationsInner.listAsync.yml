@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.OperationsInner.listAsync()"
   name: "listAsync()"
   nameWithType: "OperationsInner.listAsync()"
-  summary: "List available operations.\n List the available operations supported by the Microsoft.EventGrid resource provider."
+  summary: "List available operations. List the available operations supported by the Microsoft.EventGrid resource provider."
   syntax: "public Observable<List<OperationInner>> listAsync()"
   returns:
     description: "the observable to the List&lt;OperationInner&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.OperationsInner.listAsync(ServiceCallback<List<OperationInner>> serviceCallback)"
   name: "listAsync(ServiceCallback<List<OperationInner>> serviceCallback)"
   nameWithType: "OperationsInner.listAsync(ServiceCallback<List<OperationInner>> serviceCallback)"
-  summary: "List available operations.\n List the available operations supported by the Microsoft.EventGrid resource provider."
+  summary: "List available operations. List the available operations supported by the Microsoft.EventGrid resource provider."
   parameters:
   - description: "the async ServiceCallback to handle successful and failed responses."
     name: "serviceCallback"

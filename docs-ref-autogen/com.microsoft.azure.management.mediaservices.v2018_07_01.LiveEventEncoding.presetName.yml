@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEventEncoding.presetName()"
   name: "presetName()"
   nameWithType: "LiveEventEncoding.presetName()"
-  summary: "Get the encoding preset name.  This value is specified at creation time and cannot be updated."
+  summary: "Get the encoding preset name. This value is specified at creation time and cannot be updated."
   syntax: "public String presetName()"
   returns:
     description: "the presetName value"

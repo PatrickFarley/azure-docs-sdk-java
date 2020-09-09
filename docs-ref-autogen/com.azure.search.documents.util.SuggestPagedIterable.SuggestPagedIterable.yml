@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.util.SuggestPagedIterable.SuggestPagedIterable(SuggestPagedFlux pagedFluxBase)"
   name: "SuggestPagedIterable(SuggestPagedFlux pagedFluxBase)"
   nameWithType: "SuggestPagedIterable.SuggestPagedIterable(SuggestPagedFlux pagedFluxBase)"
-  summary: "Creates instance given <xref uid=\"SuggestPagedIterable\" data-throw-if-not-resolved=\"false\">SuggestPagedIterable</xref>."
+  summary: "Creates instance given <xref uid=\"com.azure.search.documents.util.SuggestPagedIterable\" data-throw-if-not-resolved=\"false\">SuggestPagedIterable</xref>."
   parameters:
   - description: "The <xref uid=\"com.azure.search.documents.util.SuggestPagedIterable\" data-throw-if-not-resolved=\"false\">SuggestPagedIterable</xref> that will be consumed as an iterable."
     name: "pagedFluxBase"

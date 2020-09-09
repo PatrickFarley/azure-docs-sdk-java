@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.abandon(String lockToken)"
   name: "abandon(String lockToken)"
   nameWithType: "ServiceBusReceiverAsyncClient.abandon(String lockToken)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token. This will make the message available\n again for processing. Abandoning a message will increase the delivery count on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.abandon(String lockToken, String sessionId)"
   name: "abandon(String lockToken, String sessionId)"
   nameWithType: "ServiceBusReceiverAsyncClient.abandon(String lockToken, String sessionId)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token. This will make the message available\n again for processing. Abandoning a message will increase the delivery count on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify)"
   nameWithType: "ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -53,7 +53,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify, ServiceBusTransactionContext transactionContext)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify, ServiceBusTransactionContext transactionContext)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message.\n <p><strong>Complete a message with a transaction</strong></p>\n <pre>\n \n &#47;&#47; messageContext: This is instance `ServiceBusReceivedMessageContext` which you have received previously.\n &#47;&#47; propertiesToModify : This is Map of any properties to modify while abandoning the message.\n &#47;&#47; transactionContext: This is the transaction which you have created previously.\n \n &#47;&#47; Keep a reference to `subscription`. When the program is finished receiving messages, call\n &#47;&#47; subscription.dispose&#40;&#41;. This will dispose it cleanly.\n Disposable subscriber = receiver.abandon&#40;messageContext.getMessage&#40;&#41;.getLockToken&#40;&#41;, propertiesToModify,\n     transactionContext&#41;.subscribe&#40;&#41;;\n \n &#47;&#47; When all the messages are processed and settled, you should commit&#47;rollback this transaction.\n </pre>"
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message.\n\n**Complete a message with a transaction**\n\n```java\n// messageContext: This is instance `ServiceBusReceivedMessageContext` which you have received previously.\n // propertiesToModify : This is Map of any properties to modify while abandoning the message.\n // transactionContext: This is the transaction which you have created previously.\n \n // Keep a reference to `subscription`. When the program is finished receiving messages, call\n // subscription.dispose(). This will dispose it cleanly.\n Disposable subscriber = receiver.abandon(messageContext.getMessage().getLockToken(), propertiesToModify,\n     transactionContext).subscribe();\n \n // When all the messages are processed and settled, you should commit/rollback this transaction.\n```"
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -72,7 +72,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId)"
   nameWithType: "ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -91,7 +91,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId, ServiceBusTransactionContext transactionContext)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverAsyncClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId, ServiceBusTransactionContext transactionContext)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"

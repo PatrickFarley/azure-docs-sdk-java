@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.SkuName.STANDARD_RAGZRS"
   name: "STANDARD_RAGZRS"
   nameWithType: "SkuName.STANDARD_RAGZRS"
-  summary: "Static value Standard_RAGZRS for SkuName."
+  summary: "Static value Standard\\_RAGZRS for SkuName."
   syntax: "public static final SkuName STANDARD_RAGZRS"
 type: "field"
 metadata: {}

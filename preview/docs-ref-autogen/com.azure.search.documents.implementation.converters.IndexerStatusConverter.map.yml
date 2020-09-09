@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.IndexerStatusConverter.map(IndexerStatus obj)"
   name: "map(IndexerStatus obj)"
   nameWithType: "IndexerStatusConverter.map(IndexerStatus obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.IndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.IndexerStatus</xref> to enum\n <xref uid=\"IndexerStatus\" data-throw-if-not-resolved=\"false\">IndexerStatus</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.IndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.IndexerStatus</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.IndexerStatus\" data-throw-if-not-resolved=\"false\">IndexerStatus</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.IndexerStatus?alt=com.azure.search.documents.indexes.implementation.models.IndexerStatus&text=IndexerStatus\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.IndexerStatusConverter.map(IndexerStatus obj)"
   name: "map(IndexerStatus obj)"
   nameWithType: "IndexerStatusConverter.map(IndexerStatus obj)"
-  summary: "Maps from enum <xref uid=\"IndexerStatus\" data-throw-if-not-resolved=\"false\">IndexerStatus</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.IndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.IndexerStatus</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.IndexerStatus\" data-throw-if-not-resolved=\"false\">IndexerStatus</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.IndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.IndexerStatus</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.IndexerStatus?alt=com.azure.search.documents.indexes.models.IndexerStatus&text=IndexerStatus\" data-throw-if-not-resolved=\"False\" />"

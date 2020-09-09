@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRoutePortsLocationsClient.listSinglePageAsync()"
   name: "listSinglePageAsync()"
   nameWithType: "ExpressRoutePortsLocationsClient.listSinglePageAsync()"
-  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location.\n Available bandwidths can only be obtained when retrieving a specific peering location."
+  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location. Available bandwidths can only be obtained when retrieving a specific peering location."
   syntax: "public Mono<PagedResponse<ExpressRoutePortsLocationInner>> listSinglePageAsync()"
   returns:
     description: "response for ListExpressRoutePortsLocations API service call."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRoutePortsLocationsClient.listSinglePageAsync(Context context)"
   name: "listSinglePageAsync(Context context)"
   nameWithType: "ExpressRoutePortsLocationsClient.listSinglePageAsync(Context context)"
-  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location.\n Available bandwidths can only be obtained when retrieving a specific peering location."
+  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location. Available bandwidths can only be obtained when retrieving a specific peering location."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

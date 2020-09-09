@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.KubernetesCluster.DefinitionStages.NetworkProfileDefinitionStages.WithDockerBridgeCidr<ParentT>.withDockerBridgeCidr(String dockerBridgeCidr)"
   name: "withDockerBridgeCidr(String dockerBridgeCidr)"
   nameWithType: "KubernetesCluster.DefinitionStages.NetworkProfileDefinitionStages.WithDockerBridgeCidr<ParentT>.withDockerBridgeCidr(String dockerBridgeCidr)"
-  summary: "Specifies a CIDR notation IP range assigned to the Docker bridge network; it must not overlap with\n   any subnet IP ranges or the Kubernetes service address range."
+  summary: "Specifies a CIDR notation IP range assigned to the Docker bridge network; it must not overlap with any subnet IP ranges or the Kubernetes service address range."
   parameters:
   - description: "the CIDR notation IP range assigned to the Docker bridge network; it must not\n                         overlap with any subnet IP ranges or the Kubernetes service address range"
     name: "dockerBridgeCidr"

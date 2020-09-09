@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.databaseSizeBasedRecommendationServiceLevelObjective()"
   name: "databaseSizeBasedRecommendationServiceLevelObjective()"
   nameWithType: "ServiceTierAdvisorInner.databaseSizeBasedRecommendationServiceLevelObjective()"
-  summary: "Get the databaseSizeBasedRecommendationServiceLevelObjective property: Gets or sets\n databaseSizeBasedRecommendationServiceLevelObjective for service tier advisor."
+  summary: "Get the databaseSizeBasedRecommendationServiceLevelObjective property: Gets or sets databaseSizeBasedRecommendationServiceLevelObjective for service tier advisor."
   syntax: "public String databaseSizeBasedRecommendationServiceLevelObjective()"
   returns:
     description: "the databaseSizeBasedRecommendationServiceLevelObjective value."

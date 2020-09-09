@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.VirtualApplication.withPreloadEnabled(Boolean preloadEnabled)"
   name: "withPreloadEnabled(Boolean preloadEnabled)"
   nameWithType: "VirtualApplication.withPreloadEnabled(Boolean preloadEnabled)"
-  summary: "Set the preloadEnabled property: &lt;code&gt;true&lt;/code&gt; if preloading is enabled; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the preloadEnabled property: <code>true</code> if preloading is enabled; otherwise, <code>false</code>."
   parameters:
   - description: "the preloadEnabled value to set."
     name: "preloadEnabled"

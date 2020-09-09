@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PathHierarchyTokenizer.setNumberOfTokensToSkip(Integer numberOfTokensToSkip)"
   name: "setNumberOfTokensToSkip(Integer numberOfTokensToSkip)"
   nameWithType: "PathHierarchyTokenizer.setNumberOfTokensToSkip(Integer numberOfTokensToSkip)"
-  summary: "Set the numberOfTokensToSkip property: The number of initial tokens to\n skip. Default is 0."
+  summary: "Set the numberOfTokensToSkip property: The number of initial tokens to skip. Default is 0."
   parameters:
   - description: "the numberOfTokensToSkip value to set."
     name: "numberOfTokensToSkip"

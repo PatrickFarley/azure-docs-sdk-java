@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.SubscriptionUpdateParameters.withOwnerId(String ownerId)"
   name: "withOwnerId(String ownerId)"
   nameWithType: "SubscriptionUpdateParameters.withOwnerId(String ownerId)"
-  summary: "Set user identifier path: /users/{userId}."
+  summary: "Set user identifier path: /users/\\{userId\\}."
   parameters:
   - description: "the ownerId value to set"
     name: "ownerId"

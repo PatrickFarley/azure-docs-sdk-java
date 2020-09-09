@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.tracing.Tracer.setSpanName(String spanName, Context context)"
   name: "setSpanName(String spanName, Context context)"
   nameWithType: "Tracer.setSpanName(String spanName, Context context)"
-  summary: "Sets the name for spans that are created.\n\n <p><strong>Code samples</strong></p>\n\n <p>Retrieve the span name of the returned span</p>\n <pre>\n &#47;&#47; Sets the span name of the returned span on the context object, with key PARENT_SPAN_KEY\n String openTelemetrySpanKey = &quot;openTelemetry-span&quot;;\n Context context = tracer.setSpanName&#40;&quot;test-span-method&quot;, Context.NONE&#41;;\n System.out.printf&#40;&quot;Span name: %s%n&quot;, context.getData&#40;PARENT_SPAN_KEY&#41;.get&#40;&#41;.toString&#40;&#41;&#41;;\n </pre>"
+  summary: "Sets the name for spans that are created.\n\n**Code samples**\n\nRetrieve the span name of the returned span\n\n```java\n// Sets the span name of the returned span on the context object, with key PARENT_SPAN_KEY\n String openTelemetrySpanKey = \"openTelemetry-span\";\n Context context = tracer.setSpanName(\"test-span-method\", Context.NONE);\n System.out.printf(\"Span name: %s%n\", context.getData(PARENT_SPAN_KEY).get().toString());\n```"
   parameters:
   - description: "Name to give the next span."
     name: "spanName"

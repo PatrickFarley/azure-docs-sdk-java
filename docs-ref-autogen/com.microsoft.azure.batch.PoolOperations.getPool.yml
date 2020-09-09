@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.getPool(String poolId)"
   name: "getPool(String poolId)"
   nameWithType: "PoolOperations.getPool(String poolId)"
-  summary: "Gets the specified <xref uid=\"CloudPool\" data-throw-if-not-resolved=\"false\">CloudPool</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudPool\" data-throw-if-not-resolved=\"false\">CloudPool</xref>."
   parameters:
   - description: "The ID of the pool to get."
     name: "poolId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.getPool(String poolId, DetailLevel detailLevel)"
   name: "getPool(String poolId, DetailLevel detailLevel)"
   nameWithType: "PoolOperations.getPool(String poolId, DetailLevel detailLevel)"
-  summary: "Gets the specified <xref uid=\"CloudPool\" data-throw-if-not-resolved=\"false\">CloudPool</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudPool\" data-throw-if-not-resolved=\"false\">CloudPool</xref>."
   parameters:
   - description: "The ID of the pool to get."
     name: "poolId"
@@ -47,7 +47,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.getPool(String poolId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "getPool(String poolId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "PoolOperations.getPool(String poolId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Gets the specified <xref uid=\"CloudPool\" data-throw-if-not-resolved=\"false\">CloudPool</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudPool\" data-throw-if-not-resolved=\"false\">CloudPool</xref>."
   parameters:
   - description: "The ID of the pool to get."
     name: "poolId"

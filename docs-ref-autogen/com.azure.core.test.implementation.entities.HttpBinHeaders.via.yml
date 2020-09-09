@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.implementation.entities.HttpBinHeaders.via()"
   name: "via()"
   nameWithType: "HttpBinHeaders.via()"
-  summary: "Gets any proxy information.\n https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Via"
+  summary: "Gets any proxy information. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Via"
   syntax: "public String via()"
   returns:
     description: "Gets any proxy information."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.core.test.implementation.entities.HttpBinHeaders.via(String via)"
   name: "via(String via)"
   nameWithType: "HttpBinHeaders.via(String via)"
-  summary: "Sets any proxy information.\n https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Via"
+  summary: "Sets any proxy information. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Via"
   parameters:
   - description: "Proxy information associated with this response."
     name: "via"

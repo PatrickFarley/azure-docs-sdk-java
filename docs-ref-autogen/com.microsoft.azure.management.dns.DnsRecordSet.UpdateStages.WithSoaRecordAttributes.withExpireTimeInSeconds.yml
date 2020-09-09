@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.dns.DnsRecordSet.UpdateStages.WithSoaRecordAttributes.withExpireTimeInSeconds(long expireTimeInSeconds)"
   name: "withExpireTimeInSeconds(long expireTimeInSeconds)"
   nameWithType: "DnsRecordSet.UpdateStages.WithSoaRecordAttributes.withExpireTimeInSeconds(long expireTimeInSeconds)"
-  summary: "Specifies the time in seconds that a secondary name server will treat its cached zone file as valid\n when the primary name server cannot be contacted."
+  summary: "Specifies the time in seconds that a secondary name server will treat its cached zone file as valid when the primary name server cannot be contacted."
   parameters:
   - description: "the expire time in seconds"
     name: "expireTimeInSeconds"

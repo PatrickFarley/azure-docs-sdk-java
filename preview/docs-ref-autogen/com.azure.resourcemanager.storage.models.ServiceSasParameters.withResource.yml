@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ServiceSasParameters.withResource(SignedResource resource)"
   name: "withResource(SignedResource resource)"
   nameWithType: "ServiceSasParameters.withResource(SignedResource resource)"
-  summary: "Set the resource property: The signed services accessible with the service SAS. Possible values include: Blob\n (b), Container (c), File (f), Share (s)."
+  summary: "Set the resource property: The signed services accessible with the service SAS. Possible values include: Blob (b), Container (c), File (f), Share (s)."
   parameters:
   - description: "the resource value to set."
     name: "resource"

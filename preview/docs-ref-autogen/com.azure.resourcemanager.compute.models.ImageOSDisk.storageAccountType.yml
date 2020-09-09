@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageOSDisk.storageAccountType()"
   name: "storageAccountType()"
   nameWithType: "ImageOSDisk.storageAccountType()"
-  summary: "Get the storageAccountType property: Specifies the storage account type for the managed disk. UltraSSD_LRS cannot\n be used with OS Disk."
+  summary: "Get the storageAccountType property: Specifies the storage account type for the managed disk. UltraSSD\\_LRS cannot be used with OS Disk."
   syntax: "public StorageAccountTypes storageAccountType()"
   returns:
     description: "the storageAccountType value."

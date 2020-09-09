@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection.setType(SearchIndexerDataSourceType type)"
   name: "setType(SearchIndexerDataSourceType type)"
   nameWithType: "SearchIndexerDataSourceConnection.setType(SearchIndexerDataSourceType type)"
-  summary: "Set the type property: The type of the datasource. Possible values\n include: 'AzureSql', 'CosmosDb', 'AzureBlob', 'AzureTable', 'MySql'."
+  summary: "Set the type property: The type of the datasource. Possible values include: 'AzureSql', 'CosmosDb', 'AzureBlob', 'AzureTable', 'MySql'."
   parameters:
   - description: "the type value to set."
     name: "type"

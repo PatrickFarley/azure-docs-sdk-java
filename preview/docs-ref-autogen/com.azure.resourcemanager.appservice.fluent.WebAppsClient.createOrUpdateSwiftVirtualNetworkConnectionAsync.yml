@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.createOrUpdateSwiftVirtualNetworkConnectionAsync(String resourceGroupName, String name, SwiftVirtualNetworkInner connectionEnvelope)"
   name: "createOrUpdateSwiftVirtualNetworkConnectionAsync(String resourceGroupName, String name, SwiftVirtualNetworkInner connectionEnvelope)"
   nameWithType: "WebAppsClient.createOrUpdateSwiftVirtualNetworkConnectionAsync(String resourceGroupName, String name, SwiftVirtualNetworkInner connectionEnvelope)"
-  summary: "Description for Integrates this Web App with a Virtual Network. This requires that 1) \"swiftSupported\" is true\n when doing a GET against this resource, and 2) that the target Subnet has already been delegated, and is not in\n use by another App Service Plan other than the one this App is in."
+  summary: "Description for Integrates this Web App with a Virtual Network. This requires that 1) \"swiftSupported\" is true when doing a GET against this resource, and 2) that the target Subnet has already been delegated, and is not in use by another App Service Plan other than the one this App is in."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.createOrUpdateSwiftVirtualNetworkConnectionAsync(String resourceGroupName, String name, SwiftVirtualNetworkInner connectionEnvelope, Context context)"
   name: "createOrUpdateSwiftVirtualNetworkConnectionAsync(String resourceGroupName, String name, SwiftVirtualNetworkInner connectionEnvelope, Context context)"
   nameWithType: "WebAppsClient.createOrUpdateSwiftVirtualNetworkConnectionAsync(String resourceGroupName, String name, SwiftVirtualNetworkInner connectionEnvelope, Context context)"
-  summary: "Description for Integrates this Web App with a Virtual Network. This requires that 1) \"swiftSupported\" is true\n when doing a GET against this resource, and 2) that the target Subnet has already been delegated, and is not in\n use by another App Service Plan other than the one this App is in."
+  summary: "Description for Integrates this Web App with a Virtual Network. This requires that 1) \"swiftSupported\" is true when doing a GET against this resource, and 2) that the target Subnet has already been delegated, and is not in use by another App Service Plan other than the one this App is in."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayProbeInner.pickHostnameFromBackendHttpSettings()"
   name: "pickHostnameFromBackendHttpSettings()"
   nameWithType: "ApplicationGatewayProbeInner.pickHostnameFromBackendHttpSettings()"
-  summary: "Get the pickHostnameFromBackendHttpSettings property: Whether the host header should be picked from the backend\n http settings. Default value is false."
+  summary: "Get the pickHostnameFromBackendHttpSettings property: Whether the host header should be picked from the backend http settings. Default value is false."
   syntax: "public Boolean pickHostnameFromBackendHttpSettings()"
   returns:
     description: "the pickHostnameFromBackendHttpSettings value."

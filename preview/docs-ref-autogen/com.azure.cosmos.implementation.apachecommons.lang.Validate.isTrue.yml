@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Validate.isTrue(boolean expression, String message, Object[] values)"
   name: "isTrue(boolean expression, String message, Object[] values)"
   nameWithType: "Validate.isTrue(boolean expression, String message, Object[] values)"
-  summary: "<p>Validate that the argument condition is <code>true</code>; otherwise\n throwing an exception with the specified message."
+  summary: "Validate that the argument condition is `true`; otherwise throwing an exception with the specified message."
   parameters:
   - description: "the boolean expression to check"
     name: "expression"

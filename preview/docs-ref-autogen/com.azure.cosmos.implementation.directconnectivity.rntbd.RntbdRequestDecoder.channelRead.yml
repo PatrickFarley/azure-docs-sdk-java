@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestDecoder.channelRead(ChannelHandlerContext context, Object message)"
   name: "channelRead(ChannelHandlerContext context, Object message)"
   nameWithType: "RntbdRequestDecoder.channelRead(ChannelHandlerContext context, Object message)"
-  summary: "Prepare for decoding an @{link RntbdRequest} or fire a channel readTree event to pass the input message along."
+  summary: "Prepare for decoding an @\\{link RntbdRequest\\} or fire a channel readTree event to pass the input message along."
   overridden: "io.netty.handler.codec.ByteToMessageDecoder.channelRead(io.netty.channel.ChannelHandlerContext,java.lang.Object)"
   parameters:
   - description: "the <xref uid=\"io.netty.channel.ChannelHandlerContext\" data-throw-if-not-resolved=\"false\">ChannelHandlerContext</xref> which this <xref uid=\"io.netty.handler.codec.ByteToMessageDecoder\" data-throw-if-not-resolved=\"false\">ByteToMessageDecoder</xref> belongs to"

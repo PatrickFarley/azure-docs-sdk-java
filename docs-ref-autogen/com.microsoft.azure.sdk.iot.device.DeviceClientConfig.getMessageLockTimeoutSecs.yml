@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.DeviceClientConfig.getMessageLockTimeoutSecs()"
   name: "getMessageLockTimeoutSecs()"
   nameWithType: "DeviceClientConfig.getMessageLockTimeoutSecs()"
-  summary: "Getter for the timeout, in seconds, for the lock that the client has on a\n received message."
+  summary: "Getter for the timeout, in seconds, for the lock that the client has on a received message."
   syntax: "public int getMessageLockTimeoutSecs()"
   returns:
     description: "the timeout, in seconds, for a received message lock."

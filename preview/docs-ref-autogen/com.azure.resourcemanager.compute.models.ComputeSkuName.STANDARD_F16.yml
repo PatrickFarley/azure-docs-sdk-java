@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_F16"
   name: "STANDARD_F16"
   nameWithType: "ComputeSkuName.STANDARD_F16"
-  summary: "Static value Standard_F16 for ComputeSkuName."
+  summary: "Static value Standard\\_F16 for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_F16"
 type: "field"
 metadata: {}

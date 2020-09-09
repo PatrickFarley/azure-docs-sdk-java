@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.AutoscaleProfileInner.recurrence()"
   name: "recurrence()"
   nameWithType: "AutoscaleProfileInner.recurrence()"
-  summary: "Get the recurrence property: the repeating times at which this profile begins. This element is not used if the\n FixedDate element is used."
+  summary: "Get the recurrence property: the repeating times at which this profile begins. This element is not used if the FixedDate element is used."
   syntax: "public Recurrence recurrence()"
   returns:
     description: "the recurrence value."

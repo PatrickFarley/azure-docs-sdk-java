@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.PrivateLinkServiceConnectionState.withStatus(PrivateEndpointServiceConnectionStatus status)"
   name: "withStatus(PrivateEndpointServiceConnectionStatus status)"
   nameWithType: "PrivateLinkServiceConnectionState.withStatus(PrivateEndpointServiceConnectionStatus status)"
-  summary: "Set the status property: Indicates whether the connection has been Approved/Rejected/Removed by the owner of the\n service."
+  summary: "Set the status property: Indicates whether the connection has been Approved/Rejected/Removed by the owner of the service."
   parameters:
   - description: "the status value to set."
     name: "status"

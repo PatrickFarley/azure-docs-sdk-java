@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.appconfiguration.models.ConfigurationSetting.isReadOnly()"
   name: "isReadOnly()"
   nameWithType: "ConfigurationSetting.isReadOnly()"
-  summary: "Gets whether or not the configuration setting is read-only. If it is, then no modifications can be\n made to this setting.\n\n This is a <b>readonly</b> property. It is populated from responses from the Azure App Configuration service."
+  summary: "Gets whether or not the configuration setting is read-only. If it is, then no modifications can be made to this setting. This is a **readonly** property. It is populated from responses from the Azure App Configuration service."
   syntax: "public boolean isReadOnly()"
   returns:
     description: "true if read-only; false otherwise."

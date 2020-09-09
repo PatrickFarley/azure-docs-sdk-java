@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.http.MockHttpResponse.addHeader(String name, String value)"
   name: "addHeader(String name, String value)"
   nameWithType: "MockHttpResponse.addHeader(String name, String value)"
-  summary: "Adds the header <code>name</code> and <code>value</code> to the existing set of HTTP headers."
+  summary: "Adds the header `name` and `value` to the existing set of HTTP headers."
   parameters:
   - description: "The header to add"
     name: "name"

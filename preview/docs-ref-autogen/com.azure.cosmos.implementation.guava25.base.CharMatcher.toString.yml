@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.toString()"
   name: "toString()"
   nameWithType: "CharMatcher.toString()"
-  summary: "Returns a string representation of this <code>CharMatcher</code>, such as <code>\n CharMatcher.or(WHITESPACE, JAVA_DIGIT)</code>."
+  summary: "Returns a string representation of this `CharMatcher`, such as `CharMatcher.or(WHITESPACE, JAVA_DIGIT)`."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:

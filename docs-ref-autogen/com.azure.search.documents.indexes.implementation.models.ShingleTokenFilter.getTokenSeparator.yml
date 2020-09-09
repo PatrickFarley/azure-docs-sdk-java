@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ShingleTokenFilter.getTokenSeparator()"
   name: "getTokenSeparator()"
   nameWithType: "ShingleTokenFilter.getTokenSeparator()"
-  summary: "Get the tokenSeparator property: The string to use when joining adjacent tokens to form a shingle. Default is a\n single space (\" \")."
+  summary: "Get the tokenSeparator property: The string to use when joining adjacent tokens to form a shingle. Default is a single space (\" \")."
   syntax: "public String getTokenSeparator()"
   returns:
     description: "the tokenSeparator value."

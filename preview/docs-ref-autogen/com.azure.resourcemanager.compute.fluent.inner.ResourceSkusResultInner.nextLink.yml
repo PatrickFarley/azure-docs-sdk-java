@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.ResourceSkusResultInner.nextLink()"
   name: "nextLink()"
   nameWithType: "ResourceSkusResultInner.nextLink()"
-  summary: "Get the nextLink property: The URI to fetch the next page of Resource Skus. Call ListNext() with this URI to\n fetch the next page of Resource Skus."
+  summary: "Get the nextLink property: The URI to fetch the next page of Resource Skus. Call ListNext() with this URI to fetch the next page of Resource Skus."
   syntax: "public String nextLink()"
   returns:
     description: "the nextLink value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RestoreRequestInner.withDatabases(List<DatabaseBackupSetting> databases)"
   name: "withDatabases(List<DatabaseBackupSetting> databases)"
   nameWithType: "RestoreRequestInner.withDatabases(List<DatabaseBackupSetting> databases)"
-  summary: "Set the databases property: Collection of databases which should be restored. This list has to match the list of\n databases included in the backup."
+  summary: "Set the databases property: Collection of databases which should be restored. This list has to match the list of databases included in the backup."
   parameters:
   - description: "the databases value to set."
     name: "databases"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TokenFilterName.WORD_DELIMITER"
   name: "WORD_DELIMITER"
   nameWithType: "TokenFilterName.WORD_DELIMITER"
-  summary: "Static value word_delimiter for TokenFilterName."
+  summary: "Static value word\\_delimiter for TokenFilterName."
   syntax: "public static final TokenFilterName WORD_DELIMITER"
 type: "field"
 metadata: {}

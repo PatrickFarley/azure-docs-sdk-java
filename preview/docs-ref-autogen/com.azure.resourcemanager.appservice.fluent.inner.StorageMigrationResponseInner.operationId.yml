@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StorageMigrationResponseInner.operationId()"
   name: "operationId()"
   nameWithType: "StorageMigrationResponseInner.operationId()"
-  summary: "Get the operationId property: When server starts the migration process, it will return an operation ID\n identifying that particular migration operation."
+  summary: "Get the operationId property: When server starts the migration process, it will return an operation ID identifying that particular migration operation."
   syntax: "public String operationId()"
   returns:
     description: "the operationId value."

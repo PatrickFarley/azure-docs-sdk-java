@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMap.Builder<K,V>.orderEntriesByValue(Comparator<? super V> valueComparator)"
   name: "orderEntriesByValue(Comparator<? super V> valueComparator)"
   nameWithType: "ImmutableMap.Builder<K,V>.orderEntriesByValue(Comparator<? super V> valueComparator)"
-  summary: "Configures this <code>Builder</code> to order entries by value according to the specified\n comparator.\n\n <p>The sort order is stable, that is, if two entries have values that compare as equivalent,\n the entry that was inserted first will be first in the built map's iteration order."
+  summary: "Configures this `Builder` to order entries by value according to the specified comparator.\n\nThe sort order is stable, that is, if two entries have values that compare as equivalent, the entry that was inserted first will be first in the built map's iteration order."
   parameters:
   - name: "valueComparator"
     type: "<xref href=\"java.util.Comparator?alt=java.util.Comparator&text=Comparator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super V?alt=? super V&text=? super V\" data-throw-if-not-resolved=\"False\" />&gt;"

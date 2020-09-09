@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkInterface.DefinitionStages.WithPrimaryNetwork.withNewPrimaryNetwork(Creatable<Network> creatable)"
   name: "withNewPrimaryNetwork(Creatable<Network> creatable)"
   nameWithType: "NetworkInterface.DefinitionStages.WithPrimaryNetwork.withNewPrimaryNetwork(Creatable<Network> creatable)"
-  summary: "Create a new virtual network to associate with the network interface's primary IP configuration,\n based on the provided definition."
+  summary: "Create a new virtual network to associate with the network interface's primary IP configuration, based on the provided definition."
   parameters:
   - description: "a creatable definition for a new virtual network"
     name: "creatable"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkInterface.DefinitionStages.WithPrimaryNetwork.withNewPrimaryNetwork(String addressSpace)"
   name: "withNewPrimaryNetwork(String addressSpace)"
   nameWithType: "NetworkInterface.DefinitionStages.WithPrimaryNetwork.withNewPrimaryNetwork(String addressSpace)"
-  summary: "Creates a new virtual network to associate with the network interface's primary IP configuration.\n <p>\n The virtual network will be created in the same resource group and region as of network interface,\n it will be created with the specified address space and a default subnet covering the entirety of\n the network IP address space."
+  summary: "Creates a new virtual network to associate with the network interface's primary IP configuration.\n\nThe virtual network will be created in the same resource group and region as of network interface, it will be created with the specified address space and a default subnet covering the entirety of the network IP address space."
   parameters:
   - description: "the address space for the virtual network"
     name: "addressSpace"
@@ -34,7 +34,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkInterface.DefinitionStages.WithPrimaryNetwork.withNewPrimaryNetwork(String name, String addressSpace)"
   name: "withNewPrimaryNetwork(String name, String addressSpace)"
   nameWithType: "NetworkInterface.DefinitionStages.WithPrimaryNetwork.withNewPrimaryNetwork(String name, String addressSpace)"
-  summary: "Creates a new virtual network to associate with the network interface's primary IP configuration.\n <p>\n The virtual network will be created in the same resource group and region as of network interface,\n it will be created with the specified address space and a default subnet covering the entirety of\n the network IP address space."
+  summary: "Creates a new virtual network to associate with the network interface's primary IP configuration.\n\nThe virtual network will be created in the same resource group and region as of network interface, it will be created with the specified address space and a default subnet covering the entirety of the network IP address space."
   parameters:
   - description: "the name of the new virtual network"
     name: "name"

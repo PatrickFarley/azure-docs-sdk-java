@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.getRemainingRetentionDays()"
   name: "getRemainingRetentionDays()"
   nameWithType: "BlobItemProperties.getRemainingRetentionDays()"
-  summary: "Get the remainingRetentionDays property: The remainingRetentionDays\n property."
+  summary: "Get the remainingRetentionDays property: The remainingRetentionDays property."
   syntax: "public Integer getRemainingRetentionDays()"
   returns:
     description: "the remainingRetentionDays value."

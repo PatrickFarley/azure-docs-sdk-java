@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.NodeSetup.mountVolumes()"
   name: "mountVolumes()"
   nameWithType: "NodeSetup.mountVolumes()"
-  summary: "Get mount volumes to be available to setup task and all jobs executing on the cluster. The volumes will be mounted at location specified by $AZ_BATCHAI_MOUNT_ROOT environment variable."
+  summary: "Get mount volumes to be available to setup task and all jobs executing on the cluster. The volumes will be mounted at location specified by $AZ\\_BATCHAI\\_MOUNT\\_ROOT environment variable."
   syntax: "public MountVolumes mountVolumes()"
   returns:
     description: "the mountVolumes value"

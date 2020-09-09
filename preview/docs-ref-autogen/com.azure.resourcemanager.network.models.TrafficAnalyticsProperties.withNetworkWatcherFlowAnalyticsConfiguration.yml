@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.TrafficAnalyticsProperties.withNetworkWatcherFlowAnalyticsConfiguration(TrafficAnalyticsConfigurationProperties networkWatcherFlowAnalyticsConfiguration)"
   name: "withNetworkWatcherFlowAnalyticsConfiguration(TrafficAnalyticsConfigurationProperties networkWatcherFlowAnalyticsConfiguration)"
   nameWithType: "TrafficAnalyticsProperties.withNetworkWatcherFlowAnalyticsConfiguration(TrafficAnalyticsConfigurationProperties networkWatcherFlowAnalyticsConfiguration)"
-  summary: "Set the networkWatcherFlowAnalyticsConfiguration property: Parameters that define the configuration of traffic\n analytics."
+  summary: "Set the networkWatcherFlowAnalyticsConfiguration property: Parameters that define the configuration of traffic analytics."
   parameters:
   - description: "the networkWatcherFlowAnalyticsConfiguration value to set."
     name: "networkWatcherFlowAnalyticsConfiguration"

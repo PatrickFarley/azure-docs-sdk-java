@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.AzureFirewallSku.withName(AzureFirewallSkuName name)"
   name: "withName(AzureFirewallSkuName name)"
   nameWithType: "AzureFirewallSku.withName(AzureFirewallSkuName name)"
-  summary: "Set name of an Azure Firewall SKU. Possible values include: 'AZFW_VNet', 'AZFW_Hub'."
+  summary: "Set name of an Azure Firewall SKU. Possible values include: 'AZFW\\_VNet', 'AZFW\\_Hub'."
   parameters:
   - description: "the name value to set"
     name: "name"

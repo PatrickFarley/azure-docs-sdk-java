@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkPeeringInner.withAllowVirtualNetworkAccess(Boolean allowVirtualNetworkAccess)"
   name: "withAllowVirtualNetworkAccess(Boolean allowVirtualNetworkAccess)"
   nameWithType: "VirtualNetworkPeeringInner.withAllowVirtualNetworkAccess(Boolean allowVirtualNetworkAccess)"
-  summary: "Set the allowVirtualNetworkAccess property: Whether the VMs in the local virtual network space would be able to\n access the VMs in remote virtual network space."
+  summary: "Set the allowVirtualNetworkAccess property: Whether the VMs in the local virtual network space would be able to access the VMs in remote virtual network space."
   parameters:
   - description: "the allowVirtualNetworkAccess value to set."
     name: "allowVirtualNetworkAccess"

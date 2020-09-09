@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ServiceEndpointPolicyInner.withServiceEndpointPolicyDefinitions(List<ServiceEndpointPolicyDefinitionInner> serviceEndpointPolicyDefinitions)"
   name: "withServiceEndpointPolicyDefinitions(List<ServiceEndpointPolicyDefinitionInner> serviceEndpointPolicyDefinitions)"
   nameWithType: "ServiceEndpointPolicyInner.withServiceEndpointPolicyDefinitions(List<ServiceEndpointPolicyDefinitionInner> serviceEndpointPolicyDefinitions)"
-  summary: "Set the serviceEndpointPolicyDefinitions property: A collection of service endpoint policy definitions of the\n service endpoint policy."
+  summary: "Set the serviceEndpointPolicyDefinitions property: A collection of service endpoint policy definitions of the service endpoint policy."
   parameters:
   - description: "the serviceEndpointPolicyDefinitions value to set."
     name: "serviceEndpointPolicyDefinitions"

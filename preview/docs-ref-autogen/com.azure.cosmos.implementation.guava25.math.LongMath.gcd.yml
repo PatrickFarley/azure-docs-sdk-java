@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.LongMath.gcd(long a, long b)"
   name: "gcd(long a, long b)"
   nameWithType: "LongMath.gcd(long a, long b)"
-  summary: "Returns the greatest common divisor of <code>a, b</code>. Returns <code>0</code> if <code>a == 0 && b ==\n 0</code>."
+  summary: "Returns the greatest common divisor of `a, b`. Returns `0` if `a == 0 && b == 0`."
   parameters:
   - name: "a"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

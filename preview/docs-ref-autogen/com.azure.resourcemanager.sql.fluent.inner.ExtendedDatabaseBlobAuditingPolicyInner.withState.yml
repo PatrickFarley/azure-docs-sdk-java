@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ExtendedDatabaseBlobAuditingPolicyInner.withState(BlobAuditingPolicyState state)"
   name: "withState(BlobAuditingPolicyState state)"
   nameWithType: "ExtendedDatabaseBlobAuditingPolicyInner.withState(BlobAuditingPolicyState state)"
-  summary: "Set the state property: Specifies the state of the policy. If state is Enabled, storageEndpoint or\n isAzureMonitorTargetEnabled are required."
+  summary: "Set the state property: Specifies the state of the policy. If state is Enabled, storageEndpoint or isAzureMonitorTargetEnabled are required."
   parameters:
   - description: "the state value to set."
     name: "state"

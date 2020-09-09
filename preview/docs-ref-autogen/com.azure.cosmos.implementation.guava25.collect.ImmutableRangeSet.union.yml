@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableRangeSet<C>.union(RangeSet<C> other)"
   name: "union(RangeSet<C> other)"
   nameWithType: "ImmutableRangeSet<C>.union(RangeSet<C> other)"
-  summary: "Returns a new range set consisting of the union of this range set and <code>other</code>.\n\n <p>This is essentially the same as <code>TreeRangeSet.create(this).addAll(other)</code> except it\n returns an <code>ImmutableRangeSet</code>."
+  summary: "Returns a new range set consisting of the union of this range set and `other`.\n\nThis is essentially the same as `TreeRangeSet.create(this).addAll(other)` except it returns an `ImmutableRangeSet`."
   parameters:
   - name: "other"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.RangeSet?alt=com.azure.cosmos.implementation.guava25.collect.RangeSet&text=RangeSet\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;"

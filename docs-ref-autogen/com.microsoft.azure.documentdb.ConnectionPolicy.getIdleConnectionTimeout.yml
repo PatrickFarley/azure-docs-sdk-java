@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ConnectionPolicy.getIdleConnectionTimeout()"
   name: "getIdleConnectionTimeout()"
   nameWithType: "ConnectionPolicy.getIdleConnectionTimeout()"
-  summary: "Gets the value of the timeout for an idle connection, the default is 60\n seconds."
+  summary: "Gets the value of the timeout for an idle connection, the default is 60 seconds."
   syntax: "public int getIdleConnectionTimeout()"
   returns:
     description: "Idle connection timeout."

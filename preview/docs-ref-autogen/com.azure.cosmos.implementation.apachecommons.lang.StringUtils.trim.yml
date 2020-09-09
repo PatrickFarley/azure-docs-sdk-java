@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.trim(String str)"
   name: "trim(String str)"
   nameWithType: "StringUtils.trim(String str)"
-  summary: "<p>Removes control characters (char &lt;= 32) from both\n ends of this String, handling <code>null</code> by returning\n <code>null</code>.</p>"
+  summary: "Removes control characters (char <= 32) from both ends of this String, handling `null` by returning `null`."
   parameters:
   - description: "the String to be trimmed, may be null"
     name: "str"

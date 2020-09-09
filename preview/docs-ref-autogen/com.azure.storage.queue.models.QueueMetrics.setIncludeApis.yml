@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueMetrics.setIncludeApis(Boolean includeApis)"
   name: "setIncludeApis(Boolean includeApis)"
   nameWithType: "QueueMetrics.setIncludeApis(Boolean includeApis)"
-  summary: "Set the includeApis property: Indicates whether metrics should generate\n summary statistics for called API operations."
+  summary: "Set the includeApis property: Indicates whether metrics should generate summary statistics for called API operations."
   parameters:
   - description: "the includeApis value to set."
     name: "includeApis"

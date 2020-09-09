@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.RolePermissions.toOctal()"
   name: "toOctal()"
   nameWithType: "RolePermissions.toOctal()"
-  summary: "Converts the <code>RolePermissions</code> instance into its octal representation."
+  summary: "Converts the `RolePermissions` instance into its octal representation."
   syntax: "public String toOctal()"
   returns:
     description: "The <code>String</code> representation of the permissions."

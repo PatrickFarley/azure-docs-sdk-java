@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.KeyClient.purgeDeletedKeyWithResponse(String name, Context context)"
   name: "purgeDeletedKeyWithResponse(String name, Context context)"
   nameWithType: "KeyClient.purgeDeletedKeyWithResponse(String name, Context context)"
-  summary: "Permanently deletes the specified key without the possibility of recovery. The Purge Deleted Key operation is\n applicable for soft-delete enabled vaults. This operation requires the <code>keys/purge</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Purges the deleted key from the key vault enabled for soft-delete. Prints out the status code from the server\n response.</p>\n //Assuming key is deleted on a soft-delete enabled key vault.\n <pre>\n Response&lt;Void&gt; purgedResponse = keyClient.purgeDeletedKeyWithResponse&#40;&quot;deletedKeyName&quot;,\n     new Context&#40;key2, value2&#41;&#41;;\n System.out.printf&#40;&quot;Purge Status Code: %d %n&quot;, purgedResponse.getStatusCode&#40;&#41;&#41;;\n </pre>"
+  summary: "Permanently deletes the specified key without the possibility of recovery. The Purge Deleted Key operation is applicable for soft-delete enabled vaults. This operation requires the `keys/purge` permission.\n\n**Code Samples**\n\nPurges the deleted key from the key vault enabled for soft-delete. Prints out the status code from the server response.\n\n//Assuming key is deleted on a soft-delete enabled key vault.\n\n```java\nResponse<Void> purgedResponse = keyClient.purgeDeletedKeyWithResponse(\"deletedKeyName\",\n     new Context(key2, value2));\n System.out.printf(\"Purge Status Code: %d %n\", purgedResponse.getStatusCode());\n```"
   parameters:
   - description: "The name of the deleted key."
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.update(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationUpdateParameters partnerRegistrationUpdateParameters)"
   name: "update(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationUpdateParameters partnerRegistrationUpdateParameters)"
   nameWithType: "PartnerRegistrationsInner.update(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationUpdateParameters partnerRegistrationUpdateParameters)"
-  summary: "Update a partner registration.\n Updates a partner registration with the specified parameters."
+  summary: "Update a partner registration. Updates a partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.GalleryImageInner.description()"
   name: "description()"
   nameWithType: "GalleryImageInner.description()"
-  summary: "Get the description property: The description of this gallery Image Definition resource. This property is\n updatable."
+  summary: "Get the description property: The description of this gallery Image Definition resource. This property is updatable."
   syntax: "public String description()"
   returns:
     description: "the description value."

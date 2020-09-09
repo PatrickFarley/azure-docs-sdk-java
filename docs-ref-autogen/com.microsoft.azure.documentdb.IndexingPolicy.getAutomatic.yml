@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.IndexingPolicy.getAutomatic()"
   name: "getAutomatic()"
   nameWithType: "IndexingPolicy.getAutomatic()"
-  summary: "Gets whether automatic indexing is enabled for a collection.\n <p>\n In automatic indexing, documents can be explicitly excluded from indexing using RequestOptions. In manual\n indexing, documents can be explicitly included."
+  summary: "Gets whether automatic indexing is enabled for a collection.\n\nIn automatic indexing, documents can be explicitly excluded from indexing using RequestOptions. In manual indexing, documents can be explicitly included."
   syntax: "public Boolean getAutomatic()"
   returns:
     description: "the automatic"

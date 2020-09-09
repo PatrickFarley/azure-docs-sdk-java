@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.RetryOptions.RetryOptions()"
   name: "RetryOptions()"
   nameWithType: "RetryOptions.RetryOptions()"
-  summary: "Creates a new instance of the RetryOptions class and initializes all\n properties to default values."
+  summary: "Creates a new instance of the RetryOptions class and initializes all properties to default values."
   syntax: "public RetryOptions()"
 type: "constructor"
 metadata: {}

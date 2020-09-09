@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccounts.failoverAsync(String resourceGroupName, String accountName)"
   name: "failoverAsync(String resourceGroupName, String accountName)"
   nameWithType: "StorageAccounts.failoverAsync(String resourceGroupName, String accountName)"
-  summary: "Sets a failover request asynchronously that can be triggered for a storage account in case of availability\n issues."
+  summary: "Sets a failover request asynchronously that can be triggered for a storage account in case of availability issues."
   parameters:
   - description: "the resource group name of the storage account"
     name: "resourceGroupName"

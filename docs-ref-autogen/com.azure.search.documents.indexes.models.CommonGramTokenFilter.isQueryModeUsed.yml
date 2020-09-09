@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.CommonGramTokenFilter.isQueryModeUsed()"
   name: "isQueryModeUsed()"
   nameWithType: "CommonGramTokenFilter.isQueryModeUsed()"
-  summary: "Get the useQueryMode property: A value that indicates whether the token\n filter is in query mode. When in query mode, the token filter generates\n bigrams and then removes common words and single terms followed by a\n common word. Default is false."
+  summary: "Get the useQueryMode property: A value that indicates whether the token filter is in query mode. When in query mode, the token filter generates bigrams and then removes common words and single terms followed by a common word. Default is false."
   syntax: "public Boolean isQueryModeUsed()"
   returns:
     description: "the useQueryMode value."

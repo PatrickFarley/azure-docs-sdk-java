@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cosmosdb.DatabaseAccountUpdateParameters.enableCassandraConnector()"
   name: "enableCassandraConnector()"
   nameWithType: "DatabaseAccountUpdateParameters.enableCassandraConnector()"
-  summary: "Get enables the cassandra connector on the Cosmos DB C* account."
+  summary: "Get enables the cassandra connector on the Cosmos DB C\\* account."
   syntax: "public Boolean enableCassandraConnector()"
   returns:
     description: "the enableCassandraConnector value"

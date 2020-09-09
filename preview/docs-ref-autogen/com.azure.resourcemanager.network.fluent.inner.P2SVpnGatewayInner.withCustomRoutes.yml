@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnGatewayInner.withCustomRoutes(AddressSpace customRoutes)"
   name: "withCustomRoutes(AddressSpace customRoutes)"
   nameWithType: "P2SVpnGatewayInner.withCustomRoutes(AddressSpace customRoutes)"
-  summary: "Set the customRoutes property: The reference of the address space resource which represents the custom routes\n specified by the customer for P2SVpnGateway and P2S VpnClient."
+  summary: "Set the customRoutes property: The reference of the address space resource which represents the custom routes specified by the customer for P2SVpnGateway and P2S VpnClient."
   parameters:
   - description: "the customRoutes value to set."
     name: "customRoutes"

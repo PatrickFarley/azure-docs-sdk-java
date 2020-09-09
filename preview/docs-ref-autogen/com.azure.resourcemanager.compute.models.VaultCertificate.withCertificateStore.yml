@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VaultCertificate.withCertificateStore(String certificateStore)"
   name: "withCertificateStore(String certificateStore)"
   nameWithType: "VaultCertificate.withCertificateStore(String certificateStore)"
-  summary: "Set the certificateStore property: For Windows VMs, specifies the certificate store on the Virtual Machine to\n which the certificate should be added. The specified certificate store is implicitly in the LocalMachine account.\n &lt;br&gt;&lt;br&gt;For Linux VMs, the certificate file is placed under the /var/lib/waagent directory, with the\n file name &amp;lt;UppercaseThumbprint&amp;gt;.crt for the X509 certificate file and\n &amp;lt;UppercaseThumbprint&amp;gt;.prv for private key. Both of these files are .pem formatted."
+  summary: "Set the certificateStore property: For Windows VMs, specifies the certificate store on the Virtual Machine to which the certificate should be added. The specified certificate store is implicitly in the LocalMachine account. <br><br>For Linux VMs, the certificate file is placed under the /var/lib/waagent directory, with the file name <UppercaseThumbprint>.crt for the X509 certificate file and <UppercaseThumbprint>.prv for private key. Both of these files are .pem formatted."
   parameters:
   - description: "the certificateStore value to set."
     name: "certificateStore"

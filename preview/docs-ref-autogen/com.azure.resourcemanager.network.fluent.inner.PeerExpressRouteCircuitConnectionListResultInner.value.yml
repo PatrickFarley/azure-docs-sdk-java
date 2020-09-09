@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PeerExpressRouteCircuitConnectionListResultInner.value()"
   name: "value()"
   nameWithType: "PeerExpressRouteCircuitConnectionListResultInner.value()"
-  summary: "Get the value property: The global reach peer circuit connection associated with Private Peering in an\n ExpressRoute Circuit."
+  summary: "Get the value property: The global reach peer circuit connection associated with Private Peering in an ExpressRoute Circuit."
   syntax: "public List<PeerExpressRouteCircuitConnectionInner> value()"
   returns:
     description: "the value value."

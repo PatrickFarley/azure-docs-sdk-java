@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.UserDelegationKey.setSignedService(String signedService)"
   name: "setSignedService(String signedService)"
   nameWithType: "UserDelegationKey.setSignedService(String signedService)"
-  summary: "Set the signedService property: Abbreviation of the Azure Storage\n service that accepts the key."
+  summary: "Set the signedService property: Abbreviation of the Azure Storage service that accepts the key."
   parameters:
   - description: "the signedService value to set."
     name: "signedService"

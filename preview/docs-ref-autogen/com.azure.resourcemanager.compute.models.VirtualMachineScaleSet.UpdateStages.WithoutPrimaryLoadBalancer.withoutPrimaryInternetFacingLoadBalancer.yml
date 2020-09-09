@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.UpdateStages.WithoutPrimaryLoadBalancer.withoutPrimaryInternetFacingLoadBalancer()"
   name: "withoutPrimaryInternetFacingLoadBalancer()"
   nameWithType: "VirtualMachineScaleSet.UpdateStages.WithoutPrimaryLoadBalancer.withoutPrimaryInternetFacingLoadBalancer()"
-  summary: "Removes the association between the Internet-facing load balancer and the primary network interface\n configuration.\n\n <p>This removes the association between primary network interface configuration and all the backends and\n inbound NAT pools in the load balancer."
+  summary: "Removes the association between the Internet-facing load balancer and the primary network interface configuration.\n\nThis removes the association between primary network interface configuration and all the backends and inbound NAT pools in the load balancer."
   syntax: "public abstract VirtualMachineScaleSet.UpdateStages.WithApply withoutPrimaryInternetFacingLoadBalancer()"
   returns:
     description: "the next stage of the update"

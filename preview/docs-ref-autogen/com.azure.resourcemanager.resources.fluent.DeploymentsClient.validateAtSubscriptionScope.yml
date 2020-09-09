@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.DeploymentsClient.validateAtSubscriptionScope(String deploymentName, DeploymentInner parameters)"
   name: "validateAtSubscriptionScope(String deploymentName, DeploymentInner parameters)"
   nameWithType: "DeploymentsClient.validateAtSubscriptionScope(String deploymentName, DeploymentInner parameters)"
-  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource\n Manager.."
+  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource Manager.."
   parameters:
   - description: "The name of the deployment."
     name: "deploymentName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.DeploymentsClient.validateAtSubscriptionScope(String deploymentName, DeploymentInner parameters, Context context)"
   name: "validateAtSubscriptionScope(String deploymentName, DeploymentInner parameters, Context context)"
   nameWithType: "DeploymentsClient.validateAtSubscriptionScope(String deploymentName, DeploymentInner parameters, Context context)"
-  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource\n Manager.."
+  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource Manager.."
   parameters:
   - description: "The name of the deployment."
     name: "deploymentName"

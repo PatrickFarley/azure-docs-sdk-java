@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.updateDeviceManager(String deviceId, TwinStatus status, String statusReason)"
   name: "updateDeviceManager(String deviceId, TwinStatus status, String statusReason)"
   nameWithType: "TwinParser.updateDeviceManager(String deviceId, TwinStatus status, String statusReason)"
-  summary: "Update the device manager information in the collection, and return a string with a json that contains a\n the new device manager description, including new and old values."
+  summary: "Update the device manager information in the collection, and return a string with a json that contains a the new device manager description, including new and old values."
   parameters:
   - description: "- Device name"
     name: "deviceId"

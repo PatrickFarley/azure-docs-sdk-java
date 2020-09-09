@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.bulkexecutor.DocumentBulkExecutor.Builder.withMaxMiniBatchSize(int size)"
   name: "withMaxMiniBatchSize(int size)"
   nameWithType: "DocumentBulkExecutor.Builder.withMaxMiniBatchSize(int size)"
-  summary: "Use the given size to configure max mini-batch size (specific to bulk import API).\n\n If not specified will use the default value of 220200 bytes."
+  summary: "Use the given size to configure max mini-batch size (specific to bulk import API). If not specified will use the default value of 220200 bytes."
   parameters:
   - description: "specifies the size of a mini-batch used in bulk import API."
     name: "size"

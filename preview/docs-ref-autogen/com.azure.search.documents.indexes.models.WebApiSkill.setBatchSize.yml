@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WebApiSkill.setBatchSize(Integer batchSize)"
   name: "setBatchSize(Integer batchSize)"
   nameWithType: "WebApiSkill.setBatchSize(Integer batchSize)"
-  summary: "Set the batchSize property: The desired batch size which indicates\n number of documents."
+  summary: "Set the batchSize property: The desired batch size which indicates number of documents."
   parameters:
   - description: "the batchSize value to set."
     name: "batchSize"

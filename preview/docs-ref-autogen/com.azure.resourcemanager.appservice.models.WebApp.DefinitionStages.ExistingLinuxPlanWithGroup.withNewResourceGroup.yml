@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebApp.DefinitionStages.ExistingLinuxPlanWithGroup.withNewResourceGroup()"
   name: "withNewResourceGroup()"
   nameWithType: "WebApp.DefinitionStages.ExistingLinuxPlanWithGroup.withNewResourceGroup()"
-  summary: "Creates a new resource group to put the resource in.\n\n <p>The group will be created in the same location as the resource. The group's name is automatically\n derived from the resource's name."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource. The group's name is automatically derived from the resource's name."
   syntax: "public abstract WebApp.DefinitionStages.WithDockerContainerImage withNewResourceGroup()"
   returns:
     description: "the next stage of the definition"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebApp.DefinitionStages.ExistingLinuxPlanWithGroup.withNewResourceGroup(String name)"
   name: "withNewResourceGroup(String name)"
   nameWithType: "WebApp.DefinitionStages.ExistingLinuxPlanWithGroup.withNewResourceGroup(String name)"
-  summary: "Creates a new resource group to put the resource in.\n\n <p>The group will be created in the same location as the resource."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource."
   parameters:
   - description: "the name of the new group"
     name: "name"

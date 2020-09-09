@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.SubscriptionCreateParameters.withScope(String scope)"
   name: "withScope(String scope)"
   nameWithType: "SubscriptionCreateParameters.withScope(String scope)"
-  summary: "Set scope like /products/{productId} or /apis or /apis/{apiId}."
+  summary: "Set scope like /products/\\{productId\\} or /apis or /apis/\\{apiId\\}."
   parameters:
   - description: "the scope value to set"
     name: "scope"

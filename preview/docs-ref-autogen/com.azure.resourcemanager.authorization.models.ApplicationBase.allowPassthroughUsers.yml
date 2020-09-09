@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ApplicationBase.allowPassthroughUsers()"
   name: "allowPassthroughUsers()"
   nameWithType: "ApplicationBase.allowPassthroughUsers()"
-  summary: "Get the allowPassthroughUsers property: Indicates that the application supports pass through users who have no\n presence in the resource tenant."
+  summary: "Get the allowPassthroughUsers property: Indicates that the application supports pass through users who have no presence in the resource tenant."
   syntax: "public Boolean allowPassthroughUsers()"
   returns:
     description: "the allowPassthroughUsers value."

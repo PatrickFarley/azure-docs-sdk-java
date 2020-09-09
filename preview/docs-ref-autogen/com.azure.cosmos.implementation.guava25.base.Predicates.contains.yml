@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicates.contains(Pattern pattern)"
   name: "contains(Pattern pattern)"
   nameWithType: "Predicates.contains(Pattern pattern)"
-  summary: "Returns a predicate that evaluates to <code>true</code> if the <code>CharSequence</code> being tested\n contains any match for the given regular expression pattern. The test used is equivalent to\n <code>pattern.matcher(arg).find()</code>"
+  summary: "Returns a predicate that evaluates to `true` if the `CharSequence` being tested contains any match for the given regular expression pattern. The test used is equivalent to `pattern.matcher(arg).find()`"
   parameters:
   - name: "pattern"
     type: "<xref href=\"java.util.regex.Pattern?alt=java.util.regex.Pattern&text=Pattern\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementAsyncClient.createSubscription(CreateSubscriptionOptions subscription)"
   name: "createSubscription(CreateSubscriptionOptions subscription)"
   nameWithType: "ServiceBusManagementAsyncClient.createSubscription(CreateSubscriptionOptions subscription)"
-  summary: "Creates a subscription with the <xref uid=\"SubscriptionProperties\" data-throw-if-not-resolved=\"false\">SubscriptionProperties</xref>."
+  summary: "Creates a subscription with the <xref uid=\"com.azure.messaging.servicebus.models.SubscriptionProperties\" data-throw-if-not-resolved=\"false\">SubscriptionProperties</xref>."
   parameters:
   - description: "Information about the subscription to create."
     name: "subscription"

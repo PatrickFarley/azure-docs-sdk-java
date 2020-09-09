@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiTagResourceContractProperties.id()"
   name: "id()"
   nameWithType: "ApiTagResourceContractProperties.id()"
-  summary: "Get aPI identifier in the form /apis/{apiId}."
+  summary: "Get aPI identifier in the form /apis/\\{apiId\\}."
   syntax: "public String id()"
   returns:
     description: "the id value"

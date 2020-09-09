@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.listTasks(String jobId)"
   name: "listTasks(String jobId)"
   nameWithType: "TaskOperations.listTasks(String jobId)"
-  summary: "Lists the <xref uid=\"CloudTask\" data-throw-if-not-resolved=\"false\">tasks</xref> of the specified job."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudTask\" data-throw-if-not-resolved=\"false\">tasks</xref> of the specified job."
   parameters:
   - description: "The ID of the job."
     name: "jobId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.listTasks(String jobId, DetailLevel detailLevel)"
   name: "listTasks(String jobId, DetailLevel detailLevel)"
   nameWithType: "TaskOperations.listTasks(String jobId, DetailLevel detailLevel)"
-  summary: "Lists the <xref uid=\"CloudTask\" data-throw-if-not-resolved=\"false\">tasks</xref> of the specified job."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudTask\" data-throw-if-not-resolved=\"false\">tasks</xref> of the specified job."
   parameters:
   - description: "The ID of the job."
     name: "jobId"
@@ -47,7 +47,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.listTasks(String jobId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listTasks(String jobId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "TaskOperations.listTasks(String jobId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"CloudTask\" data-throw-if-not-resolved=\"false\">tasks</xref> of the specified job."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudTask\" data-throw-if-not-resolved=\"false\">tasks</xref> of the specified job."
   parameters:
   - description: "The ID of the job."
     name: "jobId"

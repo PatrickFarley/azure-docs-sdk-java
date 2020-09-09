@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.AccessPolicyEntry.tenantId()"
   name: "tenantId()"
   nameWithType: "AccessPolicyEntry.tenantId()"
-  summary: "Get the tenantId property: The Azure Active Directory tenant ID that should be used for authenticating requests\n to the key vault."
+  summary: "Get the tenantId property: The Azure Active Directory tenant ID that should be used for authenticating requests to the key vault."
   syntax: "public UUID tenantId()"
   returns:
     description: "the tenantId value."

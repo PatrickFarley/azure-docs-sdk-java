@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.analyzeImageByDomain()"
   name: "analyzeImageByDomain()"
   nameWithType: "ComputerVision.analyzeImageByDomain()"
-  summary: "This operation recognizes content within an image by applying a domain-specific model. The list of\n   domain-specific models that are supported by the Computer Vision API can be retrieved using the /models GET\n   request. Currently, the API provides following domain-specific models: celebrities, landmarks.\n   Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL.\n   A successful response will be returned in JSON.\n   If the request failed, the response will contain an error code and a message to help understand what went\n   wrong."
+  summary: "This operation recognizes content within an image by applying a domain-specific model. The list of domain-specific models that are supported by the Computer Vision API can be retrieved using the /models GET request. Currently, the API provides following domain-specific models: celebrities, landmarks. Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL. A successful response will be returned in JSON. If the request failed, the response will contain an error code and a message to help understand what went wrong."
   syntax: "public abstract ComputerVision.ComputerVisionAnalyzeImageByDomainDefinitionStages.WithModel analyzeImageByDomain()"
   returns:
     description: "the first stage of the analyzeImageByDomain call"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.analyzeImageByDomain(String model, String url, AnalyzeImageByDomainOptionalParameter analyzeImageByDomainOptionalParameter)"
   name: "analyzeImageByDomain(String model, String url, AnalyzeImageByDomainOptionalParameter analyzeImageByDomainOptionalParameter)"
   nameWithType: "ComputerVision.analyzeImageByDomain(String model, String url, AnalyzeImageByDomainOptionalParameter analyzeImageByDomainOptionalParameter)"
-  summary: "This operation recognizes content within an image by applying a domain-specific model. The list of\n   domain-specific models that are supported by the Computer Vision API can be retrieved using the /models GET\n   request. Currently, the API provides following domain-specific models: celebrities, landmarks.\n   Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL.\n   A successful response will be returned in JSON.\n   If the request failed, the response will contain an error code and a message to help understand what went\n   wrong."
+  summary: "This operation recognizes content within an image by applying a domain-specific model. The list of domain-specific models that are supported by the Computer Vision API can be retrieved using the /models GET request. Currently, the API provides following domain-specific models: celebrities, landmarks. Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL. A successful response will be returned in JSON. If the request failed, the response will contain an error code and a message to help understand what went wrong."
   parameters:
   - description: "The domain-specific content to recognize."
     name: "model"

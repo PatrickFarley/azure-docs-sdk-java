@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryArtifactVersionSource.id()"
   name: "id()"
   nameWithType: "GalleryArtifactVersionSource.id()"
-  summary: "Get the id property: The id of the gallery artifact version source. Can specify a disk uri, snapshot uri, or user\n image."
+  summary: "Get the id property: The id of the gallery artifact version source. Can specify a disk uri, snapshot uri, or user image."
   syntax: "public String id()"
   returns:
     description: "the id value."

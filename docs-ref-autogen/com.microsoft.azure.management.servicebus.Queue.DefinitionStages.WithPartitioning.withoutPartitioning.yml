@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.Queue.DefinitionStages.WithPartitioning.withoutPartitioning()"
   name: "withoutPartitioning()"
   nameWithType: "Queue.DefinitionStages.WithPartitioning.withoutPartitioning()"
-  summary: "Specifies that the default partitioning should be disabled on this queue.\n Note: if the parent Service Bus is Premium SKU then partition cannot be\n disabled"
+  summary: "Specifies that the default partitioning should be disabled on this queue. Note: if the parent Service Bus is Premium SKU then partition cannot be disabled"
   syntax: "public abstract Queue.DefinitionStages.WithCreate withoutPartitioning()"
   returns:
     description: "the next stage of queue definition"

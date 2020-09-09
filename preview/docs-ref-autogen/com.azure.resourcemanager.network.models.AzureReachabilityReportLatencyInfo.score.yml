@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.AzureReachabilityReportLatencyInfo.score()"
   name: "score()"
   nameWithType: "AzureReachabilityReportLatencyInfo.score()"
-  summary: "Get the score property: The relative latency score between 1 and 100, higher values indicating a faster\n connection."
+  summary: "Get the score property: The relative latency score between 1 and 100, higher values indicating a faster connection."
   syntax: "public Integer score()"
   returns:
     description: "the score value."

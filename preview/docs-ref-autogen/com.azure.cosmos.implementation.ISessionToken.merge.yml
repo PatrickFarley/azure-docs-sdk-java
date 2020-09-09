@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ISessionToken.merge(ISessionToken other)"
   name: "merge(ISessionToken other)"
   nameWithType: "ISessionToken.merge(ISessionToken other)"
-  summary: "Returns a new instance of session token obtained by merging this session token with\n the given session token <code>other</code>.\n\n Merge is commutative operation, so a.Merge(b).Equals(b.Merge(a))"
+  summary: "Returns a new instance of session token obtained by merging this session token with the given session token `other`. Merge is commutative operation, so a.Merge(b).Equals(b.Merge(a))"
   parameters:
   - description: "Other session token to merge"
     name: "other"

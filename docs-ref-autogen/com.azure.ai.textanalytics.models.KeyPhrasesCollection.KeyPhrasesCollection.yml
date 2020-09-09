@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.KeyPhrasesCollection.KeyPhrasesCollection(IterableStream<String> keyPhrases, IterableStream<TextAnalyticsWarning> warnings)"
   name: "KeyPhrasesCollection(IterableStream<String> keyPhrases, IterableStream<TextAnalyticsWarning> warnings)"
   nameWithType: "KeyPhrasesCollection.KeyPhrasesCollection(IterableStream<String> keyPhrases, IterableStream<TextAnalyticsWarning> warnings)"
-  summary: "Creates a <xref uid=\"KeyPhrasesCollection\" data-throw-if-not-resolved=\"false\">KeyPhrasesCollection</xref> model that describes a key phrases collection including warnings."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.KeyPhrasesCollection\" data-throw-if-not-resolved=\"false\">KeyPhrasesCollection</xref> model that describes a key phrases collection including warnings."
   parameters:
   - description: "An <xref uid=\"com.azure.core.util.IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> of key phrases."
     name: "keyPhrases"

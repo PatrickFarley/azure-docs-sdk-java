@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table<R,C,V>.put(R rowKey, C columnKey, V value)"
   name: "put(R rowKey, C columnKey, V value)"
   nameWithType: "Table<R,C,V>.put(R rowKey, C columnKey, V value)"
-  summary: "Associates the specified value with the specified keys. If the table already contained a\n mapping for those keys, the old value is replaced with the specified value."
+  summary: "Associates the specified value with the specified keys. If the table already contained a mapping for those keys, the old value is replaced with the specified value."
   parameters:
   - description: "row key that the value should be associated with"
     name: "rowKey"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StorageMigrationOptions.withBlockWriteAccessToSite(Boolean blockWriteAccessToSite)"
   name: "withBlockWriteAccessToSite(Boolean blockWriteAccessToSite)"
   nameWithType: "StorageMigrationOptions.withBlockWriteAccessToSite(Boolean blockWriteAccessToSite)"
-  summary: "Set the blockWriteAccessToSite property: &lt;code&gt;true&lt;/code&gt; if the app should be read only during copy\n operation; otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the blockWriteAccessToSite property: <code>true</code> if the app should be read only during copy operation; otherwise, <code>false</code>."
   parameters:
   - description: "the blockWriteAccessToSite value to set."
     name: "blockWriteAccessToSite"

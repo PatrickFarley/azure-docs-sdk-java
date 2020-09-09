@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ConnectionPolicy.getMaxRetryOnThrottledAttempts()"
   name: "getMaxRetryOnThrottledAttempts()"
   nameWithType: "ConnectionPolicy.getMaxRetryOnThrottledAttempts()"
-  summary: "Gets the maximum number of retries in the case where the request fails\n due to a throttle error.\n <p>\n This property is deprecated. Please use\n connectionPolicy.getRetryOptions().getMaxRetryAttemptsOnThrottledRequests() for equivalent\n functionality."
+  summary: "Gets the maximum number of retries in the case where the request fails due to a throttle error.\n\nThis property is deprecated. Please use connectionPolicy.getRetryOptions().getMaxRetryAttemptsOnThrottledRequests() for equivalent functionality."
   syntax: "public Integer getMaxRetryOnThrottledAttempts()"
   returns:
     description: "maximum number of retry attempts."

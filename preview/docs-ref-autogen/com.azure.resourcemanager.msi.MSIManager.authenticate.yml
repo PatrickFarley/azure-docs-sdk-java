@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.msi.MSIManager.authenticate(TokenCredential credential, AzureProfile profile)"
   name: "authenticate(TokenCredential credential, AzureProfile profile)"
   nameWithType: "MSIManager.authenticate(TokenCredential credential, AzureProfile profile)"
-  summary: "Creates an instance of MSIManager that exposes Managed Service Identity (MSI)\n resource management API entry points."
+  summary: "Creates an instance of MSIManager that exposes Managed Service Identity (MSI) resource management API entry points."
   parameters:
   - description: "the credential to use"
     name: "credential"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.msi.MSIManager.authenticate(HttpPipeline httpPipeline, AzureProfile profile)"
   name: "authenticate(HttpPipeline httpPipeline, AzureProfile profile)"
   nameWithType: "MSIManager.authenticate(HttpPipeline httpPipeline, AzureProfile profile)"
-  summary: "Creates an instance of MSIManager that exposes Managed Service Identity (MSI)\n resource management API entry points."
+  summary: "Creates an instance of MSIManager that exposes Managed Service Identity (MSI) resource management API entry points."
   parameters:
   - description: "the HttpPipeline to be used for API calls."
     name: "httpPipeline"
@@ -40,7 +40,7 @@ members:
   fullName: "com.azure.resourcemanager.msi.MSIManager.authenticate(HttpPipeline httpPipeline, AzureProfile profile, SdkContext sdkContext)"
   name: "authenticate(HttpPipeline httpPipeline, AzureProfile profile, SdkContext sdkContext)"
   nameWithType: "MSIManager.authenticate(HttpPipeline httpPipeline, AzureProfile profile, SdkContext sdkContext)"
-  summary: "Creates an instance of MSIManager that exposes Managed Service Identity (MSI)\n resource management API entry points."
+  summary: "Creates an instance of MSIManager that exposes Managed Service Identity (MSI) resource management API entry points."
   parameters:
   - description: "the HttpPipeline to be used for API calls."
     name: "httpPipeline"

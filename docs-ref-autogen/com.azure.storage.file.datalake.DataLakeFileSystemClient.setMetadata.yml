@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClient.setMetadata(Map<String,String> metadata)"
   name: "setMetadata(Map<String,String> metadata)"
   nameWithType: "DataLakeFileSystemClient.setMetadata(Map<String,String> metadata)"
-  summary: "Sets the file system's metadata. For more information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/set-container-metadata\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Map&lt;String, String&gt; metadata = Collections.singletonMap&#40;&quot;metadata&quot;, &quot;value&quot;&#41;;\n try &#123;\n     client.setMetadata&#40;metadata&#41;;\n     System.out.printf&#40;&quot;Set metadata completed with status %n&quot;&#41;;\n &#125; catch &#40;UnsupportedOperationException error&#41; &#123;\n     System.out.printf&#40;&quot;Fail while setting metadata %n&quot;&#41;;\n &#125;\n </pre>"
+  summary: "Sets the file system's metadata. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nMap<String, String> metadata = Collections.singletonMap(\"metadata\", \"value\");\n try {\n     client.setMetadata(metadata);\n     System.out.printf(\"Set metadata completed with status %n\");\n } catch (UnsupportedOperationException error) {\n     System.out.printf(\"Fail while setting metadata %n\");\n }\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/set-container-metadata"
   parameters:
   - description: "Metadata to associate with the file system."
     name: "metadata"

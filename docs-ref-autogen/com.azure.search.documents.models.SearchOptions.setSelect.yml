@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchOptions.setSelect(String[] select)"
   name: "setSelect(String[] select)"
   nameWithType: "SearchOptions.setSelect(String[] select)"
-  summary: "Set the select property: The list of fields to retrieve. If unspecified,\n all fields marked as retrievable in the schema are included."
+  summary: "Set the select property: The list of fields to retrieve. If unspecified, all fields marked as retrievable in the schema are included."
   parameters:
   - description: "the select value to set."
     name: "select"

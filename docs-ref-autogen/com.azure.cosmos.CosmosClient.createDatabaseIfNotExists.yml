@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosClient.createDatabaseIfNotExists(String id, ThroughputProperties throughputProperties)"
   name: "createDatabaseIfNotExists(String id, ThroughputProperties throughputProperties)"
   nameWithType: "CosmosClient.createDatabaseIfNotExists(String id, ThroughputProperties throughputProperties)"
-  summary: "Create a Cosmos database if it does not already exist on the service.\n <p>\n The throughputProperties will only be used if the specified database\n does not exist and therefor a new database will be created with throughputProperties."
+  summary: "Create a Cosmos database if it does not already exist on the service.\n\nThe throughputProperties will only be used if the specified database does not exist and therefor a new database will be created with throughputProperties."
   parameters:
   - description: "the id of the database."
     name: "id"

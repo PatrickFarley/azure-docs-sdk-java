@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.VideoOverlay.opacity()"
   name: "opacity()"
   nameWithType: "VideoOverlay.opacity()"
-  summary: "Get the opacity of the overlay. This is a value in the range [0 - 1.0]. Default is 1.0 which mean the overlay is opaque."
+  summary: "Get the opacity of the overlay. This is a value in the range \\[0 - 1.0\\]. Default is 1.0 which mean the overlay is opaque."
   syntax: "public Double opacity()"
   returns:
     description: "the opacity value"

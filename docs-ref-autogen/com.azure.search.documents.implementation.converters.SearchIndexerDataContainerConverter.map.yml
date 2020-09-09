@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SearchIndexerDataContainerConverter.map(SearchIndexerDataContainer obj)"
   name: "map(SearchIndexerDataContainer obj)"
   nameWithType: "SearchIndexerDataContainerConverter.map(SearchIndexerDataContainer obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer</xref> to\n <xref uid=\"SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">SearchIndexerDataContainer</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer</xref> to <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">SearchIndexerDataContainer</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer?alt=com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer&text=SearchIndexerDataContainer\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SearchIndexerDataContainerConverter.map(SearchIndexerDataContainer obj)"
   name: "map(SearchIndexerDataContainer obj)"
   nameWithType: "SearchIndexerDataContainerConverter.map(SearchIndexerDataContainer obj)"
-  summary: "Maps from <xref uid=\"SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">SearchIndexerDataContainer</xref> to\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">SearchIndexerDataContainer</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.SearchIndexerDataContainer?alt=com.azure.search.documents.indexes.models.SearchIndexerDataContainer&text=SearchIndexerDataContainer\" data-throw-if-not-resolved=\"False\" />"

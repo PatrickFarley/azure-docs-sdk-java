@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceNextWithServiceResponseAsync(String nextPageLink)"
   name: "listByResourceNextWithServiceResponseAsync(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listByResourceNextWithServiceResponseAsync(String nextPageLink)"
-  summary: "List all event subscriptions for a specific topic.\n List all event subscriptions that have been created for a specific topic."
+  summary: "List all event subscriptions for a specific topic. List all event subscriptions that have been created for a specific topic."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.StreamingEndpoints.listAsync(String resourceGroupName, String accountName)"
   name: "listAsync(String resourceGroupName, String accountName)"
   nameWithType: "StreamingEndpoints.listAsync(String resourceGroupName, String accountName)"
-  summary: "List StreamingEndpoints.\n Lists the StreamingEndpoints in the account."
+  summary: "List StreamingEndpoints. Lists the StreamingEndpoints in the account."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.getIndex(String indexName)"
   name: "getIndex(String indexName)"
   nameWithType: "SearchIndexAsyncClient.getIndex(String indexName)"
-  summary: "Retrieves an index definition from the Azure Cognitive Search.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search index with name \"searchIndex\". </p>\n\n <pre>\n searchIndexAsyncClient.getIndex&#40;&quot;searchIndex&quot;&#41;\n     .subscribe&#40;indexFromService -&gt;\n         System.out.printf&#40;&quot;The index name is %s. The etag of index is %s.%n&quot;, indexFromService.getName&#40;&#41;,\n             indexFromService.getETag&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Retrieves an index definition from the Azure Cognitive Search.\n\n**Code Sample**\n\nGet search index with name \"searchIndex\".\n\n```java\nsearchIndexAsyncClient.getIndex(\"searchIndex\")\n     .subscribe(indexFromService ->\n         System.out.printf(\"The index name is %s. The etag of index is %s.%n\", indexFromService.getName(),\n             indexFromService.getETag()));\n```"
   parameters:
   - description: "The name of the index to retrieve"
     name: "indexName"

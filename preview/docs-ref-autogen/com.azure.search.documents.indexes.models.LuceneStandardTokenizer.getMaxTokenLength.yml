@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LuceneStandardTokenizer.getMaxTokenLength()"
   name: "getMaxTokenLength()"
   nameWithType: "LuceneStandardTokenizer.getMaxTokenLength()"
-  summary: "Get the maxTokenLength property: The maximum token length. Default is\n 255. Tokens longer than the maximum length are split."
+  summary: "Get the maxTokenLength property: The maximum token length. Default is 255. Tokens longer than the maximum length are split."
   syntax: "public Integer getMaxTokenLength()"
   returns:
     description: "the maxTokenLength value."

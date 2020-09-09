@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.listSynonymMaps()"
   name: "listSynonymMaps()"
   nameWithType: "SearchIndexAsyncClient.listSynonymMaps()"
-  summary: "Lists all synonym maps available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all synonym maps. </p>\n\n <pre>\n searchIndexAsyncClient.listSynonymMaps&#40;&#41;\n     .subscribe&#40;synonymMap -&gt; System.out.printf&#40;&quot;The synonymMap name is %s. The etag of synonymMap is %s.%n&quot;,\n         synonymMap.getName&#40;&#41;, synonymMap.getETag&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Lists all synonym maps available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all synonym maps.\n\n```java\nsearchIndexAsyncClient.listSynonymMaps()\n     .subscribe(synonymMap -> System.out.printf(\"The synonymMap name is %s. The etag of synonymMap is %s.%n\",\n         synonymMap.getName(), synonymMap.getETag()));\n```"
   syntax: "public PagedFlux<SynonymMap> listSynonymMaps()"
   returns:
     description: "a reactive response emitting the list of synonym maps."

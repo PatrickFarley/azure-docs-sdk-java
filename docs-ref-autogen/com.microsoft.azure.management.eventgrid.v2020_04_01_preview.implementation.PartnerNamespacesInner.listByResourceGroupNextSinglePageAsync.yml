@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listByResourceGroupNextSinglePageAsync(String nextPageLink)"
   name: "listByResourceGroupNextSinglePageAsync(String nextPageLink)"
   nameWithType: "PartnerNamespacesInner.listByResourceGroupNextSinglePageAsync(String nextPageLink)"
-  summary: "List partner namespaces under a resource group.\n List all the partner namespaces under a resource group.\n\n    ServiceResponse<PageImpl<PartnerNamespaceInner>> * @param nextPageLink The NextLink from the previous successful call to List operation."
+  summary: "List partner namespaces under a resource group. List all the partner namespaces under a resource group. ServiceResponse> \\* @param nextPageLink The NextLink from the previous successful call to List operation."
   parameters:
   - name: "nextPageLink"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

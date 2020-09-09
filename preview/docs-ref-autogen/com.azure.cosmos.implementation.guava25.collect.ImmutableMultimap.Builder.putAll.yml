@@ -34,7 +34,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap.Builder<K,V>.putAll(Multimap<? extends K,? extends V> multimap)"
   name: "putAll(Multimap<? extends K,? extends V> multimap)"
   nameWithType: "ImmutableMultimap.Builder<K,V>.putAll(Multimap<? extends K,? extends V> multimap)"
-  summary: "Stores another multimap's entries in the built multimap. The generated multimap's key and\n value orderings correspond to the iteration ordering of the <code>multimap.asMap()</code> view,\n with new keys and values following any existing keys and values."
+  summary: "Stores another multimap's entries in the built multimap. The generated multimap's key and value orderings correspond to the iteration ordering of the `multimap.asMap()` view, with new keys and values following any existing keys and values."
   parameters:
   - name: "multimap"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Multimap?alt=com.azure.cosmos.implementation.guava25.collect.Multimap&text=Multimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends K?alt=? extends K&text=? extends K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;"

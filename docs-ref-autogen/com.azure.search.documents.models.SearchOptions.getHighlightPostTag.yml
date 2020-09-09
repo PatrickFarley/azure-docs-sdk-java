@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchOptions.getHighlightPostTag()"
   name: "getHighlightPostTag()"
   nameWithType: "SearchOptions.getHighlightPostTag()"
-  summary: "Get the highlightPostTag property: A string tag that is appended to hit\n highlights. Must be set with highlightPreTag. Default is\n &amp;lt;/em&amp;gt;."
+  summary: "Get the highlightPostTag property: A string tag that is appended to hit highlights. Must be set with highlightPreTag. Default is </em>."
   syntax: "public String getHighlightPostTag()"
   returns:
     description: "the highlightPostTag value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.valueOf(byte[] addr)"
   name: "valueOf(byte[] addr)"
   nameWithType: "EthernetAddress.valueOf(byte[] addr)"
-  summary: "Constructs a new EthernetAddress given the byte array that contains\n binary representation of the address.\n\n Note that calling this method returns the same result as would\n using the matching constructor."
+  summary: "Constructs a new EthernetAddress given the byte array that contains binary representation of the address. Note that calling this method returns the same result as would using the matching constructor."
   parameters:
   - description: "Binary representation of the ethernet address"
     name: "addr"
@@ -23,7 +23,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.valueOf(int[] addr)"
   name: "valueOf(int[] addr)"
   nameWithType: "EthernetAddress.valueOf(int[] addr)"
-  summary: "Constructs a new EthernetAddress given the byte array that contains\n binary representation of the address.\n\n Note that calling this method returns the same result as would\n using the matching constructor."
+  summary: "Constructs a new EthernetAddress given the byte array that contains binary representation of the address. Note that calling this method returns the same result as would using the matching constructor."
   parameters:
   - description: "Binary representation of the ethernet address"
     name: "addr"
@@ -38,7 +38,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.valueOf(String addrStr)"
   name: "valueOf(String addrStr)"
   nameWithType: "EthernetAddress.valueOf(String addrStr)"
-  summary: "Constructs a new EthernetAddress given a string representation of\n the ethernet address.\n\n Note that calling this method returns the same result as would\n using the matching constructor."
+  summary: "Constructs a new EthernetAddress given a string representation of the ethernet address. Note that calling this method returns the same result as would using the matching constructor."
   parameters:
   - description: "String representation of the ethernet address"
     name: "addrStr"
@@ -53,7 +53,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.valueOf(long addr)"
   name: "valueOf(long addr)"
   nameWithType: "EthernetAddress.valueOf(long addr)"
-  summary: "Constructs a new EthernetAddress given the long int value (64-bit)\n representation of the ethernet address (of which 48 LSB contain\n the definition)\n\n Note that calling this method returns the same result as would\n using the matching constructor."
+  summary: "Constructs a new EthernetAddress given the long int value (64-bit) representation of the ethernet address (of which 48 LSB contain the definition) Note that calling this method returns the same result as would using the matching constructor."
   parameters:
   - description: "Long int representation of the ethernet address"
     name: "addr"

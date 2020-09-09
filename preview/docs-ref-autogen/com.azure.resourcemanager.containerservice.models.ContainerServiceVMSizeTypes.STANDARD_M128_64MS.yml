@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceVMSizeTypes.STANDARD_M128_64MS"
   name: "STANDARD_M128_64MS"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_M128_64MS"
-  summary: "Static value Standard_M128-64ms for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_M128-64ms for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_M128_64MS"
 type: "field"
 metadata: {}

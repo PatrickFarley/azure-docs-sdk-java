@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.AzureFirewallIpConfiguration.privateIpAddress()"
   name: "privateIpAddress()"
   nameWithType: "AzureFirewallIpConfiguration.privateIpAddress()"
-  summary: "Get the privateIpAddress property: The Firewall Internal Load Balancer IP to be used as the next hop in User\n Defined Routes."
+  summary: "Get the privateIpAddress property: The Firewall Internal Load Balancer IP to be used as the next hop in User Defined Routes."
   syntax: "public String privateIpAddress()"
   returns:
     description: "the privateIpAddress value."

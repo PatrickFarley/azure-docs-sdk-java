@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.LinuxConfiguration.provisionVMAgent()"
   name: "provisionVMAgent()"
   nameWithType: "LinuxConfiguration.provisionVMAgent()"
-  summary: "Get the provisionVMAgent property: Indicates whether virtual machine agent should be provisioned on the virtual\n machine. &lt;br&gt;&lt;br&gt; When this property is not specified in the request body, default behavior is to set\n it to true. This will ensure that VM Agent is installed on the VM so that extensions can be added to the VM\n later."
+  summary: "Get the provisionVMAgent property: Indicates whether virtual machine agent should be provisioned on the virtual machine. <br><br> When this property is not specified in the request body, default behavior is to set it to true. This will ensure that VM Agent is installed on the VM so that extensions can be added to the VM later."
   syntax: "public Boolean provisionVMAgent()"
   returns:
     description: "the provisionVMAgent value."

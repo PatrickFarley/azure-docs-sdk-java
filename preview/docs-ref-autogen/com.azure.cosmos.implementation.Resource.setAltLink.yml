@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.Resource.setAltLink(String altLink)"
   name: "setAltLink(String altLink)"
   nameWithType: "Resource.setAltLink(String altLink)"
-  summary: "Sets the alt-link associated with the resource from the Azure Cosmos DB\n service."
+  summary: "Sets the alt-link associated with the resource from the Azure Cosmos DB service."
   parameters:
   - name: "altLink"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

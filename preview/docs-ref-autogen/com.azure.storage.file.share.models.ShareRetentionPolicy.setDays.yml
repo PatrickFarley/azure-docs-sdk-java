@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareRetentionPolicy.setDays(Integer days)"
   name: "setDays(Integer days)"
   nameWithType: "ShareRetentionPolicy.setDays(Integer days)"
-  summary: "Set the days property: Indicates the number of days that metrics data\n should be retained. All data older than this value will be deleted.\n Metrics data is deleted on a best-effort basis after the retention\n period expires."
+  summary: "Set the days property: Indicates the number of days that metrics data should be retained. All data older than this value will be deleted. Metrics data is deleted on a best-effort basis after the retention period expires."
   parameters:
   - description: "the days value to set."
     name: "days"

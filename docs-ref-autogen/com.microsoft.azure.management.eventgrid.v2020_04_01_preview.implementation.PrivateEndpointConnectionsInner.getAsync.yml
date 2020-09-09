@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateEndpointConnectionsInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName)"
   name: "getAsync(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName)"
   nameWithType: "PrivateEndpointConnectionsInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName)"
-  summary: "Get a specific private endpoint connection.\n Get a specific private endpoint connection under a topic or domain."
+  summary: "Get a specific private endpoint connection. Get a specific private endpoint connection under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateEndpointConnectionsInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName, ServiceCallback<PrivateEndpointConnectionInner> serviceCallback)"
   name: "getAsync(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName, ServiceCallback<PrivateEndpointConnectionInner> serviceCallback)"
   nameWithType: "PrivateEndpointConnectionsInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateEndpointConnectionName, ServiceCallback<PrivateEndpointConnectionInner> serviceCallback)"
-  summary: "Get a specific private endpoint connection.\n Get a specific private endpoint connection under a topic or domain."
+  summary: "Get a specific private endpoint connection. Get a specific private endpoint connection under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

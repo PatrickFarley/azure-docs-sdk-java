@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlServer.removeAccessFromAzureServices()"
   name: "removeAccessFromAzureServices()"
   nameWithType: "SqlServer.removeAccessFromAzureServices()"
-  summary: "Sets the Azure services default access to this server to false.\n\n <p>The firewall rule named \"AllowAllWindowsAzureIps\" will be removed from the SQL server."
+  summary: "Sets the Azure services default access to this server to false.\n\nThe firewall rule named \"AllowAllWindowsAzureIps\" will be removed from the SQL server."
   syntax: "public abstract void removeAccessFromAzureServices()"
 type: "method"
 metadata: {}

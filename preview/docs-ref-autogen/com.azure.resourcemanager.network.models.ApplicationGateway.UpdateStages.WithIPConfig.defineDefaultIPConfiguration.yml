@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.UpdateStages.WithIPConfig.defineDefaultIPConfiguration()"
   name: "defineDefaultIPConfiguration()"
   nameWithType: "ApplicationGateway.UpdateStages.WithIPConfig.defineDefaultIPConfiguration()"
-  summary: "Begins the definition of the default IP configuration.\n\n <p>If a default IP configuration already exists, it will be this is equivalent to <code>\n updateDefaultIPConfiguration()</code>."
+  summary: "Begins the definition of the default IP configuration.\n\nIf a default IP configuration already exists, it will be this is equivalent to `updateDefaultIPConfiguration()`."
   syntax: "public abstract ApplicationGatewayIpConfiguration.UpdateDefinitionStages.Blank<ApplicationGateway.Update> defineDefaultIPConfiguration()"
   returns:
     description: "the first stage of an IP configuration update"

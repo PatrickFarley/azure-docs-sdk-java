@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RetryUtils.<T>toRetryWithAlternateFunc(Function<Quadruple<Boolean,Boolean,Duration,Integer>,Mono<T>> callbackMethod, IRetryPolicy retryPolicy, Function<Quadruple<Boolean,Boolean,Duration,Integer>,Mono<T>> inBackoffAlternateCallbackMethod, Duration minBackoffForInBackoffCallback, RxDocumentServiceRequest rxDocumentServiceRequest)"
   name: "<T>toRetryWithAlternateFunc(Function<Quadruple<Boolean,Boolean,Duration,Integer>,Mono<T>> callbackMethod, IRetryPolicy retryPolicy, Function<Quadruple<Boolean,Boolean,Duration,Integer>,Mono<T>> inBackoffAlternateCallbackMethod, Duration minBackoffForInBackoffCallback, RxDocumentServiceRequest rxDocumentServiceRequest)"
   nameWithType: "RetryUtils.<T>toRetryWithAlternateFunc(Function<Quadruple<Boolean,Boolean,Duration,Integer>,Mono<T>> callbackMethod, IRetryPolicy retryPolicy, Function<Quadruple<Boolean,Boolean,Duration,Integer>,Mono<T>> inBackoffAlternateCallbackMethod, Duration minBackoffForInBackoffCallback, RxDocumentServiceRequest rxDocumentServiceRequest)"
-  summary: "This method will be called after getting error on callbackMethod , and then keep trying between\n callbackMethod and inBackoffAlternateCallbackMethod until success or as stated in\n retry policy."
+  summary: "This method will be called after getting error on callbackMethod , and then keep trying between callbackMethod and inBackoffAlternateCallbackMethod until success or as stated in retry policy."
   parameters:
   - description: "The callbackMethod"
     name: "callbackMethod"

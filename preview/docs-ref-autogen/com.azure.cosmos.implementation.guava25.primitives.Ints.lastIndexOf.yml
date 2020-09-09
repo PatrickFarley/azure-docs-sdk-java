@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.lastIndexOf(int[] array, int target)"
   name: "lastIndexOf(int[] array, int target)"
   nameWithType: "Ints.lastIndexOf(int[] array, int target)"
-  summary: "Returns the index of the last appearance of the value <code>target</code> in <code>array</code>."
+  summary: "Returns the index of the last appearance of the value `target` in `array`."
   parameters:
   - description: "an array of <code>int</code> values, possibly empty"
     name: "array"

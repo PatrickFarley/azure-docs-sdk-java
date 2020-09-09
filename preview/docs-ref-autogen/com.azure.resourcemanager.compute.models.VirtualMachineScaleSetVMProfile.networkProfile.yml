@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetVMProfile.networkProfile()"
   name: "networkProfile()"
   nameWithType: "VirtualMachineScaleSetVMProfile.networkProfile()"
-  summary: "Get the networkProfile property: Specifies properties of the network interfaces of the virtual machines in the\n scale set."
+  summary: "Get the networkProfile property: Specifies properties of the network interfaces of the virtual machines in the scale set."
   syntax: "public VirtualMachineScaleSetNetworkProfile networkProfile()"
   returns:
     description: "the networkProfile value."

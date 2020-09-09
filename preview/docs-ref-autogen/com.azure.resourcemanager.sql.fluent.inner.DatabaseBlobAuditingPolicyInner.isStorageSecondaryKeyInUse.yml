@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseBlobAuditingPolicyInner.isStorageSecondaryKeyInUse()"
   name: "isStorageSecondaryKeyInUse()"
   nameWithType: "DatabaseBlobAuditingPolicyInner.isStorageSecondaryKeyInUse()"
-  summary: "Get the isStorageSecondaryKeyInUse property: Specifies whether storageAccountAccessKey value is the storage's\n secondary key."
+  summary: "Get the isStorageSecondaryKeyInUse property: Specifies whether storageAccountAccessKey value is the storage's secondary key."
   syntax: "public Boolean isStorageSecondaryKeyInUse()"
   returns:
     description: "the isStorageSecondaryKeyInUse value."

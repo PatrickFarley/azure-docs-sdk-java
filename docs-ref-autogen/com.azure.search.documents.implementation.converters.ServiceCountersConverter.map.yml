@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ServiceCountersConverter.map(ServiceCounters obj)"
   name: "map(ServiceCounters obj)"
   nameWithType: "ServiceCountersConverter.map(ServiceCounters obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceCounters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceCounters</xref> to <xref uid=\"SearchServiceCounters\" data-throw-if-not-resolved=\"false\">SearchServiceCounters</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceCounters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceCounters</xref> to <xref uid=\"com.azure.search.documents.indexes.models.SearchServiceCounters\" data-throw-if-not-resolved=\"false\">SearchServiceCounters</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.ServiceCounters?alt=com.azure.search.documents.indexes.implementation.models.ServiceCounters&text=ServiceCounters\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ServiceCountersConverter.map(SearchServiceCounters obj)"
   name: "map(SearchServiceCounters obj)"
   nameWithType: "ServiceCountersConverter.map(SearchServiceCounters obj)"
-  summary: "Maps from <xref uid=\"SearchServiceCounters\" data-throw-if-not-resolved=\"false\">SearchServiceCounters</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceCounters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceCounters</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.SearchServiceCounters\" data-throw-if-not-resolved=\"false\">SearchServiceCounters</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceCounters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceCounters</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.SearchServiceCounters?alt=com.azure.search.documents.indexes.models.SearchServiceCounters&text=SearchServiceCounters\" data-throw-if-not-resolved=\"False\" />"

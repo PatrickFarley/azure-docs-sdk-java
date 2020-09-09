@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.getFileOutputStream()"
   name: "getFileOutputStream()"
   nameWithType: "ShareFileClient.getFileOutputStream()"
-  summary: "Creates and opens an output stream to write data to the file. If the file already exists on the service, it will\n be overwritten."
+  summary: "Creates and opens an output stream to write data to the file. If the file already exists on the service, it will be overwritten."
   syntax: "public final StorageFileOutputStream getFileOutputStream()"
   returns:
     description: "A <xref uid=\"com.azure.storage.file.share.StorageFileOutputStream\" data-throw-if-not-resolved=\"false\">StorageFileOutputStream</xref> object used to write data to the file."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.getFileOutputStream(long offset)"
   name: "getFileOutputStream(long offset)"
   nameWithType: "ShareFileClient.getFileOutputStream(long offset)"
-  summary: "Creates and opens an output stream to write data to the file. If the file already exists on the service, it will\n be overwritten."
+  summary: "Creates and opens an output stream to write data to the file. If the file already exists on the service, it will be overwritten."
   parameters:
   - description: "Starting point of the upload range, if <code>null</code> it will start from the beginning."
     name: "offset"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.hdinsight.v2018_06_01_preview.DiskEncryptionProperties.encryptionAlgorithm()"
   name: "encryptionAlgorithm()"
   nameWithType: "DiskEncryptionProperties.encryptionAlgorithm()"
-  summary: "Get algorithm identifier for encryption, default RSA-OAEP. Possible values include: 'RSA-OAEP', 'RSA-OAEP-256', 'RSA1_5'."
+  summary: "Get algorithm identifier for encryption, default RSA-OAEP. Possible values include: 'RSA-OAEP', 'RSA-OAEP-256', 'RSA1\\_5'."
   syntax: "public JsonWebKeyEncryptionAlgorithm encryptionAlgorithm()"
   returns:
     description: "the encryptionAlgorithm value"

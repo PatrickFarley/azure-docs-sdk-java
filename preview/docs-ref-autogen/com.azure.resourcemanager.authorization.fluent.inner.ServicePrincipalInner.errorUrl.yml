@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ServicePrincipalInner.errorUrl()"
   name: "errorUrl()"
   nameWithType: "ServicePrincipalInner.errorUrl()"
-  summary: "Get the errorUrl property: A URL provided by the author of the associated application to report errors when using\n the application."
+  summary: "Get the errorUrl property: A URL provided by the author of the associated application to report errors when using the application."
   syntax: "public String errorUrl()"
   returns:
     description: "the errorUrl value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClientBuilder.serviceVersion(ServiceBusServiceVersion serviceVersion)"
   name: "serviceVersion(ServiceBusServiceVersion serviceVersion)"
   nameWithType: "ServiceBusManagementClientBuilder.serviceVersion(ServiceBusServiceVersion serviceVersion)"
-  summary: "Sets the <xref uid=\"ServiceBusServiceVersion\" data-throw-if-not-resolved=\"false\">ServiceBusServiceVersion</xref> that is used. By default <xref uid=\"ServiceBusServiceVersion#getLatest()\" data-throw-if-not-resolved=\"false\">ServiceBusServiceVersion#getLatest()</xref>\n is used when none is specified."
+  summary: "Sets the <xref uid=\"com.azure.messaging.servicebus.ServiceBusServiceVersion\" data-throw-if-not-resolved=\"false\">ServiceBusServiceVersion</xref> that is used. By default <xref uid=\"com.azure.messaging.servicebus.ServiceBusServiceVersion.getLatest()\" data-throw-if-not-resolved=\"false\">ServiceBusServiceVersion#getLatest()</xref> is used when none is specified."
   parameters:
   - description: "Service version to use."
     name: "serviceVersion"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.StaticWebsite.setDefaultIndexDocumentPath(String defaultIndexDocumentPath)"
   name: "setDefaultIndexDocumentPath(String defaultIndexDocumentPath)"
   nameWithType: "StaticWebsite.setDefaultIndexDocumentPath(String defaultIndexDocumentPath)"
-  summary: "Set the defaultIndexDocumentPath property: Absolute path of the default\n index page."
+  summary: "Set the defaultIndexDocumentPath property: Absolute path of the default index page."
   parameters:
   - description: "the defaultIndexDocumentPath value to\n set."
     name: "defaultIndexDocumentPath"

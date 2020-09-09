@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.TreeRangeSet<C>.intersects(Range<C> range)"
   name: "intersects(Range<C> range)"
   nameWithType: "TreeRangeSet<C>.intersects(Range<C> range)"
-  summary: "Returns <code>true</code> if there exists a non-empty range enclosed by both a member range in this\n range set and the specified range. This is equivalent to calling <code>\n subRangeSet(otherRange)</code> and testing whether the resulting range set is non-empty."
+  summary: "Returns `true` if there exists a non-empty range enclosed by both a member range in this range set and the specified range. This is equivalent to calling `subRangeSet(otherRange)` and testing whether the resulting range set is non-empty."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractRangeSet.intersects(com.azure.cosmos.implementation.guava25.collect.Range<C>)"
   parameters:
   - name: "range"

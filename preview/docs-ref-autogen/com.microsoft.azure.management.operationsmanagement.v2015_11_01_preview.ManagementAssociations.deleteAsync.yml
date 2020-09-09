@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.operationsmanagement.v2015_11_01_preview.ManagementAssociations.deleteAsync(String resourceGroupName, String managementAssociationName)"
   name: "deleteAsync(String resourceGroupName, String managementAssociationName)"
   nameWithType: "ManagementAssociations.deleteAsync(String resourceGroupName, String managementAssociationName)"
-  summary: "Deletes the ManagementAssociation.\n Deletes the ManagementAssociation in the subscription."
+  summary: "Deletes the ManagementAssociation. Deletes the ManagementAssociation in the subscription."
   parameters:
   - description: "The name of the resource group to get. The name is case insensitive."
     name: "resourceGroupName"

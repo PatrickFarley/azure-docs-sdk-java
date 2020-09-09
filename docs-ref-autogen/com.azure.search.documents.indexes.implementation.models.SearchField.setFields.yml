@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchField.setFields(List<SearchField> fields)"
   name: "setFields(List<SearchField> fields)"
   nameWithType: "SearchField.setFields(List<SearchField> fields)"
-  summary: "Set the fields property: A list of sub-fields if this is a field of type Edm.ComplexType or\n Collection(Edm.ComplexType). Must be null or empty for simple fields."
+  summary: "Set the fields property: A list of sub-fields if this is a field of type Edm.ComplexType or Collection(Edm.ComplexType). Must be null or empty for simple fields."
   parameters:
   - description: "the fields value to set."
     name: "fields"

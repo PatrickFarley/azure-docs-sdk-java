@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.disasterPlanBasedRecommendationServiceLevelObjectiveId()"
   name: "disasterPlanBasedRecommendationServiceLevelObjectiveId()"
   nameWithType: "ServiceTierAdvisorInner.disasterPlanBasedRecommendationServiceLevelObjectiveId()"
-  summary: "Get the disasterPlanBasedRecommendationServiceLevelObjectiveId property: Gets or sets\n disasterPlanBasedRecommendationServiceLevelObjectiveId for service tier advisor."
+  summary: "Get the disasterPlanBasedRecommendationServiceLevelObjectiveId property: Gets or sets disasterPlanBasedRecommendationServiceLevelObjectiveId for service tier advisor."
   syntax: "public UUID disasterPlanBasedRecommendationServiceLevelObjectiveId()"
   returns:
     description: "the disasterPlanBasedRecommendationServiceLevelObjectiveId value."

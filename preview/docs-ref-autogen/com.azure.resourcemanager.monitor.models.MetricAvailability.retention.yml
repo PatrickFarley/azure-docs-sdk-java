@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAvailability.retention()"
   name: "retention()"
   nameWithType: "MetricAvailability.retention()"
-  summary: "Get the retention property: the retention period for the metric at the specified timegrain. Expressed as a\n duration 'PT1M', 'P1D', etc."
+  summary: "Get the retention property: the retention period for the metric at the specified timegrain. Expressed as a duration 'PT1M', 'P1D', etc."
   syntax: "public Duration retention()"
   returns:
     description: "the retention value."

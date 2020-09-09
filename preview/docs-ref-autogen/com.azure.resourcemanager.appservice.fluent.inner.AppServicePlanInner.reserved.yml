@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServicePlanInner.reserved()"
   name: "reserved()"
   nameWithType: "AppServicePlanInner.reserved()"
-  summary: "Get the reserved property: If Linux app service plan &lt;code&gt;true&lt;/code&gt;,\n &lt;code&gt;false&lt;/code&gt; otherwise."
+  summary: "Get the reserved property: If Linux app service plan <code>true</code>, <code>false</code> otherwise."
   syntax: "public Boolean reserved()"
   returns:
     description: "the reserved value."

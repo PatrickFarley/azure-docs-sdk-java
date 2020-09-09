@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.DefinitionStages.WithDiagnosticLogging<FluentT>.withContainerLoggingEnabled()"
   name: "withContainerLoggingEnabled()"
   nameWithType: "WebAppBase.DefinitionStages.WithDiagnosticLogging<FluentT>.withContainerLoggingEnabled()"
-  summary: "Specifies the configuration for container logging for Linux web apps. Logs will be stored on the file\n system for up to 35 MB."
+  summary: "Specifies the configuration for container logging for Linux web apps. Logs will be stored on the file system for up to 35 MB."
   syntax: "public abstract WebAppBase.DefinitionStages.WithCreate<FluentT> withContainerLoggingEnabled()"
   returns:
     description: "the next stage of the web app definition"

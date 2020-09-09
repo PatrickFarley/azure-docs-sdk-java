@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.CustomAnalyzer.getTokenizer()"
   name: "getTokenizer()"
   nameWithType: "CustomAnalyzer.getTokenizer()"
-  summary: "Get the tokenizer property: The name of the tokenizer to use to divide\n continuous text into a sequence of tokens, such as breaking a sentence\n into words. Possible values include: 'Classic', 'EdgeNGram', 'Keyword',\n 'Letter', 'Lowercase', 'MicrosoftLanguageTokenizer',\n 'MicrosoftLanguageStemmingTokenizer', 'NGram', 'PathHierarchy',\n 'Pattern', 'Standard', 'UaxUrlEmail', 'Whitespace'."
+  summary: "Get the tokenizer property: The name of the tokenizer to use to divide continuous text into a sequence of tokens, such as breaking a sentence into words. Possible values include: 'Classic', 'EdgeNGram', 'Keyword', 'Letter', 'Lowercase', 'MicrosoftLanguageTokenizer', 'MicrosoftLanguageStemmingTokenizer', 'NGram', 'PathHierarchy', 'Pattern', 'Standard', 'UaxUrlEmail', 'Whitespace'."
   syntax: "public LexicalTokenizerName getTokenizer()"
   returns:
     description: "the tokenizer value."

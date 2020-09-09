@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.ServiceBusSubscription.DefinitionStages.WithMessageLockDuration.withMessageLockDurationInSeconds(int durationInSeconds)"
   name: "withMessageLockDurationInSeconds(int durationInSeconds)"
   nameWithType: "ServiceBusSubscription.DefinitionStages.WithMessageLockDuration.withMessageLockDurationInSeconds(int durationInSeconds)"
-  summary: "Specifies the amount of time that the message is locked for other receivers.\n Note: unless it is explicitly overridden the default lock duration is 60 seconds,\n the maximum allowed value is 300 seconds."
+  summary: "Specifies the amount of time that the message is locked for other receivers. Note: unless it is explicitly overridden the default lock duration is 60 seconds, the maximum allowed value is 300 seconds."
   parameters:
   - description: "duration of a lock in seconds"
     name: "durationInSeconds"

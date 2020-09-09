@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.toString()"
   name: "toString()"
   nameWithType: "Range<C>.toString()"
-  summary: "Returns a string representation of this range, such as <code>\"[3..5)\"</code> (other examples are\n listed in the class documentation)."
+  summary: "Returns a string representation of this range, such as `\"[3..5)\"` (other examples are listed in the class documentation)."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:

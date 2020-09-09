@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Primitives.<T>unwrap(Class<T> type)"
   name: "<T>unwrap(Class<T> type)"
   nameWithType: "Primitives.<T>unwrap(Class<T> type)"
-  summary: "Returns the corresponding primitive type of <code>type</code> if it is a wrapper type; otherwise\n returns <code>type</code> itself. Idempotent.\n\n <pre>\n     unwrap(Integer.class) == int.class\n     unwrap(int.class) == int.class\n     unwrap(String.class) == String.class\n </pre>"
+  summary: "Returns the corresponding primitive type of `type` if it is a wrapper type; otherwise returns `type` itself. Idempotent.\n\n```java\nunwrap(Integer.class) == int.class\n     unwrap(int.class) == int.class\n     unwrap(String.class) == String.class\n```"
   parameters:
   - name: "type"
     type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

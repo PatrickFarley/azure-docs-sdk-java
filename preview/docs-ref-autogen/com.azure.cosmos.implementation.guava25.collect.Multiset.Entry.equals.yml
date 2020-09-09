@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset.Entry<E>.equals(Object o)"
   name: "equals(Object o)"
   nameWithType: "Multiset.Entry<E>.equals(Object o)"
-  summary: "\n\n <p>Returns <code>true</code> if the given object is also a multiset entry and the two entries\n represent the same element and count. That is, two entries <code>a</code> and <code>b</code> are equal\n if:\n\n <pre><code>\n Objects.equal(a.getElement(), b.getElement())\n     && a.getCount() == b.getCount()\n </code></pre>"
+  summary: "Returns `true` if the given object is also a multiset entry and the two entries represent the same element and count. That is, two entries `a` and `b` are equal if:\n\n```java\nObjects.equal(a.getElement(), b.getElement())\n     && a.getCount() == b.getCount()\n```"
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - name: "o"

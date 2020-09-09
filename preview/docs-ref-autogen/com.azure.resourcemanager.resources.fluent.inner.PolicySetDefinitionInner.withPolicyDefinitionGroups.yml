@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.PolicySetDefinitionInner.withPolicyDefinitionGroups(List<PolicyDefinitionGroup> policyDefinitionGroups)"
   name: "withPolicyDefinitionGroups(List<PolicyDefinitionGroup> policyDefinitionGroups)"
   nameWithType: "PolicySetDefinitionInner.withPolicyDefinitionGroups(List<PolicyDefinitionGroup> policyDefinitionGroups)"
-  summary: "Set the policyDefinitionGroups property: The metadata describing groups of policy definition references within\n the policy set definition."
+  summary: "Set the policyDefinitionGroups property: The metadata describing groups of policy definition references within the policy set definition."
   parameters:
   - description: "the policyDefinitionGroups value to set."
     name: "policyDefinitionGroups"

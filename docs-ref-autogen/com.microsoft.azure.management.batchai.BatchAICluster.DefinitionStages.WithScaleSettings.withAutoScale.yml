@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.BatchAICluster.DefinitionStages.WithScaleSettings.withAutoScale(int minimumNodeCount, int maximumNodeCount)"
   name: "withAutoScale(int minimumNodeCount, int maximumNodeCount)"
   nameWithType: "BatchAICluster.DefinitionStages.WithScaleSettings.withAutoScale(int minimumNodeCount, int maximumNodeCount)"
-  summary: "If autoScale settings are specified, the system automatically scales the cluster up and down (within\n the supplied limits) based on the pending jobs on the cluster."
+  summary: "If autoScale settings are specified, the system automatically scales the cluster up and down (within the supplied limits) based on the pending jobs on the cluster."
   parameters:
   - description: "the minimum number of compute nodes the cluster can have"
     name: "minimumNodeCount"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.BatchAICluster.DefinitionStages.WithScaleSettings.withAutoScale(int minimumNodeCount, int maximumNodeCount, int initialNodeCount)"
   name: "withAutoScale(int minimumNodeCount, int maximumNodeCount, int initialNodeCount)"
   nameWithType: "BatchAICluster.DefinitionStages.WithScaleSettings.withAutoScale(int minimumNodeCount, int maximumNodeCount, int initialNodeCount)"
-  summary: "If autoScale settings are specified, the system automatically scales the cluster up and down (within\n the supplied limits) based on the pending jobs on the cluster."
+  summary: "If autoScale settings are specified, the system automatically scales the cluster up and down (within the supplied limits) based on the pending jobs on the cluster."
   parameters:
   - description: "the minimum number of compute nodes the cluster can have"
     name: "minimumNodeCount"

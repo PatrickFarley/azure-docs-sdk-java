@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.Schedule.timeWindowInMinutes()"
   name: "timeWindowInMinutes()"
   nameWithType: "Schedule.timeWindowInMinutes()"
-  summary: "Get the timeWindowInMinutes property: Time window for which data needs to be fetched for query (should be greater\n than or equal to frequencyInMinutes)."
+  summary: "Get the timeWindowInMinutes property: Time window for which data needs to be fetched for query (should be greater than or equal to frequencyInMinutes)."
   syntax: "public int timeWindowInMinutes()"
   returns:
     description: "the timeWindowInMinutes value."

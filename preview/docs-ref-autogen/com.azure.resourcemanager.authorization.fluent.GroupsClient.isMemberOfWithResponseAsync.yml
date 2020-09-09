@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.GroupsClient.isMemberOfWithResponseAsync(CheckGroupMembershipParameters parameters)"
   name: "isMemberOfWithResponseAsync(CheckGroupMembershipParameters parameters)"
   nameWithType: "GroupsClient.isMemberOfWithResponseAsync(CheckGroupMembershipParameters parameters)"
-  summary: "Checks whether the specified user, group, contact, or service principal is a direct or transitive member of the\n specified group."
+  summary: "Checks whether the specified user, group, contact, or service principal is a direct or transitive member of the specified group."
   parameters:
   - description: "Request parameters for IsMemberOf API call."
     name: "parameters"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.GroupsClient.isMemberOfWithResponseAsync(CheckGroupMembershipParameters parameters, Context context)"
   name: "isMemberOfWithResponseAsync(CheckGroupMembershipParameters parameters, Context context)"
   nameWithType: "GroupsClient.isMemberOfWithResponseAsync(CheckGroupMembershipParameters parameters, Context context)"
-  summary: "Checks whether the specified user, group, contact, or service principal is a direct or transitive member of the\n specified group."
+  summary: "Checks whether the specified user, group, contact, or service principal is a direct or transitive member of the specified group."
   parameters:
   - description: "Request parameters for IsMemberOf API call."
     name: "parameters"

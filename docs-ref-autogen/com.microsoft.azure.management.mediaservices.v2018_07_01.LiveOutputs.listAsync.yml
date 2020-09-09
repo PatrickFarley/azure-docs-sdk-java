@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveOutputs.listAsync(String resourceGroupName, String accountName, String liveEventName)"
   name: "listAsync(String resourceGroupName, String accountName, String liveEventName)"
   nameWithType: "LiveOutputs.listAsync(String resourceGroupName, String accountName, String liveEventName)"
-  summary: "List Live Outputs.\n Lists the Live Outputs in the Live Event."
+  summary: "List Live Outputs. Lists the Live Outputs in the Live Event."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

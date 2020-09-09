@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.netty.NettyAsyncHttpClientBuilder.build()"
   name: "build()"
   nameWithType: "NettyAsyncHttpClientBuilder.build()"
-  summary: "Creates a new Netty-backed <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">com.azure.core.http.HttpClient</xref> instance on every call, using the configuration\n set in the builder at the time of the build method call."
+  summary: "Creates a new Netty-backed <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">com.azure.core.http.HttpClient</xref> instance on every call, using the configuration set in the builder at the time of the build method call."
   syntax: "public HttpClient build()"
   returns:
     description: "A new Netty-backed <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">com.azure.core.http.HttpClient</xref> instance."

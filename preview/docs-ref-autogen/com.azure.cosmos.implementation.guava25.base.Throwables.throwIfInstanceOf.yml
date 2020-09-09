@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Throwables.<X>throwIfInstanceOf(Throwable throwable, Class<X> declaredType)"
   name: "<X>throwIfInstanceOf(Throwable throwable, Class<X> declaredType)"
   nameWithType: "Throwables.<X>throwIfInstanceOf(Throwable throwable, Class<X> declaredType)"
-  summary: "Throws <code>throwable</code> if it is an instance of <code>declaredType</code>. Example usage:\n\n <pre>\n for (Foo foo : foos) {\n   try {\n     foo.bar();\n   } catch (BarException | RuntimeException | Error t) {\n     failure = t;\n   }\n }\n if (failure != null) {\n   throwIfInstanceOf(failure, BarException.class);\n   throwIfUnchecked(failure);\n   throw new AssertionError(failure);\n }\n </pre>"
+  summary: "Throws `throwable` if it is an instance of `declaredType`. Example usage:\n\n```java\nfor (Foo foo : foos) {\n   try {\n     foo.bar();\n   } catch (BarException | RuntimeException | Error t) {\n     failure = t;\n   }\n }\n if (failure != null) {\n   throwIfInstanceOf(failure, BarException.class);\n   throwIfUnchecked(failure);\n   throw new AssertionError(failure);\n }\n```"
   parameters:
   - name: "throwable"
     type: "<xref href=\"java.lang.Throwable?alt=java.lang.Throwable&text=Throwable\" data-throw-if-not-resolved=\"False\" />"

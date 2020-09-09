@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobMetrics.setEnabled(boolean enabled)"
   name: "setEnabled(boolean enabled)"
   nameWithType: "BlobMetrics.setEnabled(boolean enabled)"
-  summary: "Set the enabled property: Indicates whether metrics are enabled for the\n Blob service."
+  summary: "Set the enabled property: Indicates whether metrics are enabled for the Blob service."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

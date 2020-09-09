@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.patchPool(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata)"
   name: "patchPool(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata)"
   nameWithType: "PoolOperations.patchPool(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata)"
-  summary: "Updates the specified pool. This method only replaces the properties\n specified with non-null values."
+  summary: "Updates the specified pool. This method only replaces the properties specified with non-null values."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"
@@ -35,7 +35,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.patchPool(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "patchPool(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "PoolOperations.patchPool(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Updates the specified pool. This method only replaces the properties\n specified with non-null values."
+  summary: "Updates the specified pool. This method only replaces the properties specified with non-null values."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"

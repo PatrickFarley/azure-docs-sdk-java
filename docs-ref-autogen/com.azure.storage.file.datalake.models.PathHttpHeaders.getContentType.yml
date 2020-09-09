@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathHttpHeaders.getContentType()"
   name: "getContentType()"
   nameWithType: "PathHttpHeaders.getContentType()"
-  summary: "Get the contentType property: Optional. Sets the blob's content type. If\n specified, this property is stored with the blob and returned with a\n read request."
+  summary: "Get the contentType property: Optional. Sets the blob's content type. If specified, this property is stored with the blob and returned with a read request."
   syntax: "public String getContentType()"
   returns:
     description: "the contentType value."

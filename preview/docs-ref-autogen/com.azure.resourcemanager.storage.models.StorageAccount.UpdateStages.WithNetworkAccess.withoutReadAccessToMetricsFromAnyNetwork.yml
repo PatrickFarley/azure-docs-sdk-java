@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccount.UpdateStages.WithNetworkAccess.withoutReadAccessToMetricsFromAnyNetwork()"
   name: "withoutReadAccessToMetricsFromAnyNetwork()"
   nameWithType: "StorageAccount.UpdateStages.WithNetworkAccess.withoutReadAccessToMetricsFromAnyNetwork()"
-  summary: "Specifies that previously added read access exception to the storage metrics from any network should be\n removed."
+  summary: "Specifies that previously added read access exception to the storage metrics from any network should be removed."
   syntax: "public abstract StorageAccount.Update withoutReadAccessToMetricsFromAnyNetwork()"
   returns:
     description: "the next stage of storage account update"

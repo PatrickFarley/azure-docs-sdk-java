@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.models.CreateBatchOptions.setPartitionKey(String partitionKey)"
   name: "setPartitionKey(String partitionKey)"
   nameWithType: "CreateBatchOptions.setPartitionKey(String partitionKey)"
-  summary: "Sets a hashing key to be provided for the batch of events. Events with the same <code>partitionKey</code> are hashed\n and sent to the same partition."
+  summary: "Sets a hashing key to be provided for the batch of events. Events with the same `partitionKey` are hashed and sent to the same partition."
   parameters:
   - description: "The partition hashing key to associate with the event or batch of events."
     name: "partitionKey"

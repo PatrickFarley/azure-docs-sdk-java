@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.MetricDefinitionInner.primaryAggregationType()"
   name: "primaryAggregationType()"
   nameWithType: "MetricDefinitionInner.primaryAggregationType()"
-  summary: "Get the primaryAggregationType property: the primary aggregation type value defining how to use the values for\n display."
+  summary: "Get the primaryAggregationType property: the primary aggregation type value defining how to use the values for display."
   syntax: "public AggregationType primaryAggregationType()"
   returns:
     description: "the primaryAggregationType value."

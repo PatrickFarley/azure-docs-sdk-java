@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileAsyncClient.deleteWithResponse()"
   name: "deleteWithResponse()"
   nameWithType: "ShareFileAsyncClient.deleteWithResponse()"
-  summary: "Deletes the file associate with the client.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the file</p>\n\n <pre>\n shareFileAsyncClient.deleteWithResponse&#40;&#41;.subscribe&#40;\n     response -&gt; System.out.println&#40;&quot;Complete deleting the file with status code:&quot; + response.getStatusCode&#40;&#41;&#41;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2\">Azure Docs</a>.</p>"
+  summary: "Deletes the file associate with the client.\n\n**Code Samples**\n\nDelete the file\n\n```java\nshareFileAsyncClient.deleteWithResponse().subscribe(\n     response -> System.out.println(\"Complete deleting the file with status code:\" + response.getStatusCode()),\n     error -> System.err.print(error.toString())\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2"
   syntax: "public Mono<Response<Void>> deleteWithResponse()"
   returns:
     description: "A response that only contains headers and response status code"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileAsyncClient.deleteWithResponse(ShareRequestConditions requestConditions)"
   name: "deleteWithResponse(ShareRequestConditions requestConditions)"
   nameWithType: "ShareFileAsyncClient.deleteWithResponse(ShareRequestConditions requestConditions)"
-  summary: "Deletes the file associate with the client.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the file</p>\n\n <pre>\n ShareRequestConditions requestConditions = new ShareRequestConditions&#40;&#41;.setLeaseId&#40;leaseId&#41;;\n shareFileAsyncClient.deleteWithResponse&#40;requestConditions&#41;.subscribe&#40;\n     response -&gt; System.out.println&#40;&quot;Complete deleting the file with status code:&quot; + response.getStatusCode&#40;&#41;&#41;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2\">Azure Docs</a>.</p>"
+  summary: "Deletes the file associate with the client.\n\n**Code Samples**\n\nDelete the file\n\n```java\nShareRequestConditions requestConditions = new ShareRequestConditions().setLeaseId(leaseId);\n shareFileAsyncClient.deleteWithResponse(requestConditions).subscribe(\n     response -> System.out.println(\"Complete deleting the file with status code:\" + response.getStatusCode()),\n     error -> System.err.print(error.toString())\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2"
   parameters:
   - description: "<xref uid=\"com.azure.storage.file.share.models.ShareRequestConditions\" data-throw-if-not-resolved=\"false\">ShareRequestConditions</xref>"
     name: "requestConditions"

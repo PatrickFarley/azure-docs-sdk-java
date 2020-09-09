@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventSubscriptionFilter.withIsSubjectCaseSensitive(Boolean isSubjectCaseSensitive)"
   name: "withIsSubjectCaseSensitive(Boolean isSubjectCaseSensitive)"
   nameWithType: "EventSubscriptionFilter.withIsSubjectCaseSensitive(Boolean isSubjectCaseSensitive)"
-  summary: "Set specifies if the SubjectBeginsWith and SubjectEndsWith properties of the filter\n     should be compared in a case sensitive manner."
+  summary: "Set specifies if the SubjectBeginsWith and SubjectEndsWith properties of the filter should be compared in a case sensitive manner."
   parameters:
   - description: "the isSubjectCaseSensitive value to set"
     name: "isSubjectCaseSensitive"

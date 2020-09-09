@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.KeyClientBuilder.addPolicy(HttpPipelinePolicy policy)"
   name: "addPolicy(HttpPipelinePolicy policy)"
   nameWithType: "KeyClientBuilder.addPolicy(HttpPipelinePolicy policy)"
-  summary: "Adds a policy to the set of existing policies that are executed after <xref uid=\"KeyAsyncClient\" data-throw-if-not-resolved=\"false\">KeyAsyncClient</xref> and <xref uid=\"KeyClient\" data-throw-if-not-resolved=\"false\">KeyClient</xref> required policies."
+  summary: "Adds a policy to the set of existing policies that are executed after <xref uid=\"com.azure.security.keyvault.keys.KeyAsyncClient\" data-throw-if-not-resolved=\"false\">KeyAsyncClient</xref> and <xref uid=\"com.azure.security.keyvault.keys.KeyClient\" data-throw-if-not-resolved=\"false\">KeyClient</xref> required policies."
   parameters:
   - description: "The <xref uid=\"com.azure.core.http.policy.HttpPipelinePolicy\" data-throw-if-not-resolved=\"false\">policy</xref> to be added."
     name: "policy"

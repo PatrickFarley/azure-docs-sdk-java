@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleCapacity.withMaximum(String maximum)"
   name: "withMaximum(String maximum)"
   nameWithType: "ScaleCapacity.withMaximum(String maximum)"
-  summary: "Set the maximum property: the maximum number of instances for the resource. The actual maximum number of\n instances is limited by the cores that are available in the subscription."
+  summary: "Set the maximum property: the maximum number of instances for the resource. The actual maximum number of instances is limited by the cores that are available in the subscription."
   parameters:
   - description: "the maximum value to set."
     name: "maximum"

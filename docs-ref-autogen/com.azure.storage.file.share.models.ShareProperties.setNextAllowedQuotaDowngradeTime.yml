@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareProperties.setNextAllowedQuotaDowngradeTime(OffsetDateTime nextAllowedQuotaDowngradeTime)"
   name: "setNextAllowedQuotaDowngradeTime(OffsetDateTime nextAllowedQuotaDowngradeTime)"
   nameWithType: "ShareProperties.setNextAllowedQuotaDowngradeTime(OffsetDateTime nextAllowedQuotaDowngradeTime)"
-  summary: "Set the nextAllowedQuotaDowngradeTime property: The\n nextAllowedQuotaDowngradeTime property."
+  summary: "Set the nextAllowedQuotaDowngradeTime property: The nextAllowedQuotaDowngradeTime property."
   parameters:
   - description: "the nextAllowedQuotaDowngradeTime\n value to set."
     name: "nextAllowedQuotaDowngradeTime"

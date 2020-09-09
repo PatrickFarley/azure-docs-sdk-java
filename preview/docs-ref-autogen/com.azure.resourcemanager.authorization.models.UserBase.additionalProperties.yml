@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.UserBase.additionalProperties()"
   name: "additionalProperties()"
   nameWithType: "UserBase.additionalProperties()"
-  summary: "Get the additionalProperties property: Dictionary of &lt;any&gt;."
+  summary: "Get the additionalProperties property: Dictionary of <any>."
   syntax: "public Map<String,Object> additionalProperties()"
   returns:
     description: "the additionalProperties value."

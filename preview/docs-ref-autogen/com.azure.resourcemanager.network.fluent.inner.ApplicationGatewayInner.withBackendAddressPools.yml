@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayInner.withBackendAddressPools(List<ApplicationGatewayBackendAddressPool> backendAddressPools)"
   name: "withBackendAddressPools(List<ApplicationGatewayBackendAddressPool> backendAddressPools)"
   nameWithType: "ApplicationGatewayInner.withBackendAddressPools(List<ApplicationGatewayBackendAddressPool> backendAddressPools)"
-  summary: "Set the backendAddressPools property: Backend address pool of the application gateway resource. For default\n limits, see [Application Gateway\n limits](https://docs.microsoft.com/azure/azure-subscription-service-limits#application-gateway-limits)."
+  summary: "Set the backendAddressPools property: Backend address pool of the application gateway resource. For default limits, see \\[Application Gateway limits\\](https://docs.microsoft.com/azure/azure-subscription-service-limits\\#application-gateway-limits)."
   parameters:
   - description: "the backendAddressPools value to set."
     name: "backendAddressPools"

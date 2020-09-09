@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.<T>between(T fromInclusive, T toInclusive)"
   name: "<T>between(T fromInclusive, T toInclusive)"
   nameWithType: "Range<T>.<T>between(T fromInclusive, T toInclusive)"
-  summary: "<p>Obtains a range with the specified minimum and maximum values (both inclusive).</p>\n\n <p>The range uses the natural ordering of the elements to determine where\n values lie in the range.</p>\n\n <p>The arguments may be passed in the order (min,max) or (max,min).\n The getMinimum and getMaximum methods will return the correct values.</p>"
+  summary: "Obtains a range with the specified minimum and maximum values (both inclusive).\n\nThe range uses the natural ordering of the elements to determine where values lie in the range.\n\nThe arguments may be passed in the order (min,max) or (max,min). The getMinimum and getMaximum methods will return the correct values."
   parameters:
   - description: "the first value that defines the edge of the range, inclusive"
     name: "fromInclusive"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.<T>between(T fromInclusive, T toInclusive, Comparator<T> comparator)"
   name: "<T>between(T fromInclusive, T toInclusive, Comparator<T> comparator)"
   nameWithType: "Range<T>.<T>between(T fromInclusive, T toInclusive, Comparator<T> comparator)"
-  summary: "<p>Obtains a range with the specified minimum and maximum values (both inclusive).</p>\n\n <p>The range uses the specified <code>Comparator</code> to determine where\n values lie in the range.</p>\n\n <p>The arguments may be passed in the order (min,max) or (max,min).\n The getMinimum and getMaximum methods will return the correct values.</p>"
+  summary: "Obtains a range with the specified minimum and maximum values (both inclusive).\n\nThe range uses the specified `Comparator` to determine where values lie in the range.\n\nThe arguments may be passed in the order (min,max) or (max,min). The getMinimum and getMaximum methods will return the correct values."
   parameters:
   - description: "the first value that defines the edge of the range, inclusive"
     name: "fromInclusive"

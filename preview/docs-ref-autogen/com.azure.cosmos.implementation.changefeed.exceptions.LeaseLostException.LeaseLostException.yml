@@ -8,13 +8,13 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseLostException.LeaseLostException()"
   name: "LeaseLostException()"
   nameWithType: "LeaseLostException.LeaseLostException()"
-  summary: "Initializes a new instance of the @link LeaseLostException} class."
+  summary: "Initializes a new instance of the @link LeaseLostException\\} class."
   syntax: "public LeaseLostException()"
 - uid: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseLostException.LeaseLostException(com.azure.cosmos.implementation.changefeed.Lease)"
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseLostException.LeaseLostException(Lease lease)"
   name: "LeaseLostException(Lease lease)"
   nameWithType: "LeaseLostException.LeaseLostException(Lease lease)"
-  summary: "Initializes a new instance of the @link LeaseLostException} class using the specified lease."
+  summary: "Initializes a new instance of the @link LeaseLostException\\} class using the specified lease."
   parameters:
   - description: "an instance of a lost lease."
     name: "lease"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseLostException.LeaseLostException(Lease lease, Exception innerException, boolean isGone)"
   name: "LeaseLostException(Lease lease, Exception innerException, boolean isGone)"
   nameWithType: "LeaseLostException.LeaseLostException(Lease lease, Exception innerException, boolean isGone)"
-  summary: "Initializes a new instance of the @link LeaseLostException} class using the specified lease, inner exception,\n   and a flag indicating whether lease is gone.."
+  summary: "Initializes a new instance of the @link LeaseLostException\\} class using the specified lease, inner exception, and a flag indicating whether lease is gone.."
   parameters:
   - description: "an instance of a lost lease."
     name: "lease"
@@ -40,7 +40,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseLostException.LeaseLostException(String message)"
   name: "LeaseLostException(String message)"
   nameWithType: "LeaseLostException.LeaseLostException(String message)"
-  summary: "Initializes a new instance of the @link LeaseLostException} class using error message."
+  summary: "Initializes a new instance of the @link LeaseLostException\\} class using error message."
   parameters:
   - description: "the exception error message."
     name: "message"
@@ -50,7 +50,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseLostException.LeaseLostException(String message, Exception innerException)"
   name: "LeaseLostException(String message, Exception innerException)"
   nameWithType: "LeaseLostException.LeaseLostException(String message, Exception innerException)"
-  summary: "Initializes a new instance of the @link LeaseLostException} class using error message and inner exception."
+  summary: "Initializes a new instance of the @link LeaseLostException\\} class using error message and inner exception."
   parameters:
   - description: "the exception error message."
     name: "message"

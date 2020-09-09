@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batch.DataDisk.caching()"
   name: "caching()"
   nameWithType: "DataDisk.caching()"
-  summary: "Get values are:\n      none - The caching mode for the disk is not enabled.\n      readOnly - The caching mode for the disk is read only.\n      readWrite - The caching mode for the disk is read and write.\n      The default value for caching is none. For information about the caching options see: https://blogs.msdn.microsoft.com/windowsazurestorage/2012/06/27/exploring-windows-azure-drives-disks-and-images/. Possible values include: 'None', 'ReadOnly', 'ReadWrite'."
+  summary: "Get values are: none - The caching mode for the disk is not enabled. readOnly - The caching mode for the disk is read only. readWrite - The caching mode for the disk is read and write. The default value for caching is none. For information about the caching options see: https://blogs.msdn.microsoft.com/windowsazurestorage/2012/06/27/exploring-windows-azure-drives-disks-and-images/. Possible values include: 'None', 'ReadOnly', 'ReadWrite'."
   syntax: "public CachingType caching()"
   returns:
     description: "the caching value"

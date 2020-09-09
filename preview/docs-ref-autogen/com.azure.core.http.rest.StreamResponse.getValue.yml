@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.rest.StreamResponse.getValue()"
   name: "getValue()"
   nameWithType: "StreamResponse.getValue()"
-  summary: "The content of the HTTP response as a stream of <xref uid=\"ByteBuffer\" data-throw-if-not-resolved=\"false\">byte buffers</xref>."
+  summary: "The content of the HTTP response as a stream of <xref uid=\"java.nio.ByteBuffer\" data-throw-if-not-resolved=\"false\">byte buffers</xref>."
   overridden: "com.azure.core.http.rest.SimpleResponse.getValue()"
   syntax: "public Flux<ByteBuffer> getValue()"
   returns:

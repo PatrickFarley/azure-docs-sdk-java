@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnGatewayInner.vpnClientAddressPool()"
   name: "vpnClientAddressPool()"
   nameWithType: "P2SVpnGatewayInner.vpnClientAddressPool()"
-  summary: "Get the vpnClientAddressPool property: The reference of the address space resource which represents Address space\n for P2S VpnClient."
+  summary: "Get the vpnClientAddressPool property: The reference of the address space resource which represents Address space for P2S VpnClient."
   syntax: "public AddressSpace vpnClientAddressPool()"
   returns:
     description: "the vpnClientAddressPool value."

@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.BlobChangefeedPagedFlux.byPage(String continuationToken)"
   name: "byPage(String continuationToken)"
   nameWithType: "BlobChangefeedPagedFlux.byPage(String continuationToken)"
-  summary: "Unsupported. To resume with the continuation token, call <xref uid=\"BlobChangefeedAsyncClient#getEvents(String)\" data-throw-if-not-resolved=\"false\">BlobChangefeedAsyncClient#getEvents(String)</xref> or\n <xref uid=\"BlobChangefeedClient#getEvents(String)\" data-throw-if-not-resolved=\"false\">BlobChangefeedClient#getEvents(String)</xref>."
+  summary: "Unsupported. To resume with the continuation token, call <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedAsyncClient.getEvents(java.lang.String)\" data-throw-if-not-resolved=\"false\">BlobChangefeedAsyncClient#getEvents(String)</xref> or <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedClient.getEvents(java.lang.String)\" data-throw-if-not-resolved=\"false\">BlobChangefeedClient#getEvents(String)</xref>."
   overridden: "com.azure.core.util.paging.ContinuablePagedFlux.byPage(C)"
   parameters:
   - description: "Unsupported."
@@ -41,7 +41,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.BlobChangefeedPagedFlux.byPage(String continuationToken, int preferredPageSize)"
   name: "byPage(String continuationToken, int preferredPageSize)"
   nameWithType: "BlobChangefeedPagedFlux.byPage(String continuationToken, int preferredPageSize)"
-  summary: "Gets a <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> of <xref uid=\"ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> beginning at the page identified by the Changefeed\n requesting each page to contain the number of elements equal to the preferred page size.\n <p>\n The service may or may not honor the preferred page size therefore the client <em>MUST</em> be prepared to handle\n pages with different page sizes."
+  summary: "Gets a <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> of <xref uid=\"com.azure.core.util.paging.ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> beginning at the page identified by the Changefeed requesting each page to contain the number of elements equal to the preferred page size.\n\nThe service may or may not honor the preferred page size therefore the client *MUST* be prepared to handle pages with different page sizes."
   overridden: "com.azure.core.util.paging.ContinuablePagedFlux.byPage(C,int)"
   parameters:
   - description: "Unsupported. To resume with the continuation token, call\n <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedAsyncClient.getEvents(java.lang.String)\" data-throw-if-not-resolved=\"false\">BlobChangefeedAsyncClient#getEvents(String)</xref> or <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedClient.getEvents(java.lang.String)\" data-throw-if-not-resolved=\"false\">BlobChangefeedClient#getEvents(String)</xref>."

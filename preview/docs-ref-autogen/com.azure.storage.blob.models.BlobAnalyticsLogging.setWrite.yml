@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobAnalyticsLogging.setWrite(boolean write)"
   name: "setWrite(boolean write)"
   nameWithType: "BlobAnalyticsLogging.setWrite(boolean write)"
-  summary: "Set the write property: Indicates whether all write requests should be\n logged."
+  summary: "Set the write property: Indicates whether all write requests should be logged."
   parameters:
   - description: "the write value to set."
     name: "write"

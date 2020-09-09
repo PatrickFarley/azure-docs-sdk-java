@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StampCapacityInner.availableCapacity()"
   name: "availableCapacity()"
   nameWithType: "StampCapacityInner.availableCapacity()"
-  summary: "Get the availableCapacity property: Available capacity (# of machines, bytes of storage etc...)."
+  summary: "Get the availableCapacity property: Available capacity (\\# of machines, bytes of storage etc...)."
   syntax: "public Long availableCapacity()"
   returns:
     description: "the availableCapacity value."

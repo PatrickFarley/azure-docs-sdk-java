@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.OperationsInner.list()"
   name: "list()"
   nameWithType: "OperationsInner.list()"
-  summary: "List available operations.\n List the available operations supported by the Microsoft.EventGrid resource provider."
+  summary: "List available operations. List the available operations supported by the Microsoft.EventGrid resource provider."
   syntax: "public List<OperationInner> list()"
   returns:
     description: "the List&lt;OperationInner&gt; object if successful."

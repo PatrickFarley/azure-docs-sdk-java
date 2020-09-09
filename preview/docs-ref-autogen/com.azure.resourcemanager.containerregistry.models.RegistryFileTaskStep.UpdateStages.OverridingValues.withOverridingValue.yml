@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryFileTaskStep.UpdateStages.OverridingValues.withOverridingValue(String name, OverridingValue overridingValue)"
   name: "withOverridingValue(String name, OverridingValue overridingValue)"
   nameWithType: "RegistryFileTaskStep.UpdateStages.OverridingValues.withOverridingValue(String name, OverridingValue overridingValue)"
-  summary: "The function that specifies a single value that will override the corresponding value specified under the\n function withValuesPath()."
+  summary: "The function that specifies a single value that will override the corresponding value specified under the function withValuesPath()."
   parameters:
   - description: "the name of the value to be overridden."
     name: "name"

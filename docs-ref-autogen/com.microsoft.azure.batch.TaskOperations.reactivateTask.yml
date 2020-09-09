@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.reactivateTask(String jobId, String taskId)"
   name: "reactivateTask(String jobId, String taskId)"
   nameWithType: "TaskOperations.reactivateTask(String jobId, String taskId)"
-  summary: "Reactivates a task, allowing it to run again even if its retry count has been\n exhausted."
+  summary: "Reactivates a task, allowing it to run again even if its retry count has been exhausted."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.reactivateTask(String jobId, String taskId, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "reactivateTask(String jobId, String taskId, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "TaskOperations.reactivateTask(String jobId, String taskId, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Reactivates a task, allowing it to run again even if its retry count has been\n exhausted."
+  summary: "Reactivates a task, allowing it to run again even if its retry count has been exhausted."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"

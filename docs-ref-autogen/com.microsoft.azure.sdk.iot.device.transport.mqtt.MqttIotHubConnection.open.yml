@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.mqtt.MqttIotHubConnection.open(Queue<DeviceClientConfig> deviceClientConfigs, ScheduledExecutorService scheduledExecutorService)"
   name: "open(Queue<DeviceClientConfig> deviceClientConfigs, ScheduledExecutorService scheduledExecutorService)"
   nameWithType: "MqttIotHubConnection.open(Queue<DeviceClientConfig> deviceClientConfigs, ScheduledExecutorService scheduledExecutorService)"
-  summary: "Establishes a connection for the device and IoT Hub given in the client\n configuration. If the connection is already open, the function shall do\n nothing."
+  summary: "Establishes a connection for the device and IoT Hub given in the client configuration. If the connection is already open, the function shall do nothing."
   parameters:
   - name: "deviceClientConfigs"
     type: "<xref href=\"java.util.Queue?alt=java.util.Queue&text=Queue\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.microsoft.azure.sdk.iot.device.DeviceClientConfig?alt=com.microsoft.azure.sdk.iot.device.DeviceClientConfig&text=DeviceClientConfig\" data-throw-if-not-resolved=\"False\" />&gt;"

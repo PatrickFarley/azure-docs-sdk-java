@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Pools.listUsageMetrics()"
   name: "listUsageMetrics()"
   nameWithType: "Pools.listUsageMetrics()"
-  summary: "Lists the usage metrics, aggregated by Pool across individual time intervals, for the specified Account.\n If you do not specify a $filter clause including a poolId, the response includes all Pools that existed in the Account in the time range of the returned aggregation intervals. If you do not specify a $filter clause including a startTime or endTime these filters default to the start and end times of the last aggregation interval currently available; that is, only the last aggregation interval is returned."
+  summary: "Lists the usage metrics, aggregated by Pool across individual time intervals, for the specified Account. If you do not specify a $filter clause including a poolId, the response includes all Pools that existed in the Account in the time range of the returned aggregation intervals. If you do not specify a $filter clause including a startTime or endTime these filters default to the start and end times of the last aggregation interval currently available; that is, only the last aggregation interval is returned."
   syntax: "public abstract PagedList<PoolUsageMetrics> listUsageMetrics()"
   returns:
     description: "the PagedList&lt;PoolUsageMetrics&gt; object if successful."
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Pools.listUsageMetrics(PoolListUsageMetricsOptions poolListUsageMetricsOptions)"
   name: "listUsageMetrics(PoolListUsageMetricsOptions poolListUsageMetricsOptions)"
   nameWithType: "Pools.listUsageMetrics(PoolListUsageMetricsOptions poolListUsageMetricsOptions)"
-  summary: "Lists the usage metrics, aggregated by Pool across individual time intervals, for the specified Account.\n If you do not specify a $filter clause including a poolId, the response includes all Pools that existed in the Account in the time range of the returned aggregation intervals. If you do not specify a $filter clause including a startTime or endTime these filters default to the start and end times of the last aggregation interval currently available; that is, only the last aggregation interval is returned."
+  summary: "Lists the usage metrics, aggregated by Pool across individual time intervals, for the specified Account. If you do not specify a $filter clause including a poolId, the response includes all Pools that existed in the Account in the time range of the returned aggregation intervals. If you do not specify a $filter clause including a startTime or endTime these filters default to the start and end times of the last aggregation interval currently available; that is, only the last aggregation interval is returned."
   parameters:
   - description: "Additional parameters for the operation"
     name: "poolListUsageMetricsOptions"

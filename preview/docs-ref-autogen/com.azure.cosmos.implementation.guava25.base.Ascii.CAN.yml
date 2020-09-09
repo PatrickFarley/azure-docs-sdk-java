@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.CAN"
   name: "CAN"
   nameWithType: "Ascii.CAN"
-  summary: "Cancel: A control character used to indicate that the data with which it is sent is in error or\n is to be disregarded."
+  summary: "Cancel: A control character used to indicate that the data with which it is sent is in error or is to be disregarded."
   syntax: "public static final byte CAN"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.dns.DnsRecordSet.UpdateStages.WithETagCheck.withETagCheck()"
   name: "withETagCheck()"
   nameWithType: "DnsRecordSet.UpdateStages.WithETagCheck.withETagCheck()"
-  summary: "Specifies that If-Match header needs to set to the current eTag value associated\n with the record set."
+  summary: "Specifies that If-Match header needs to set to the current eTag value associated with the record set."
   syntax: "public abstract DnsRecordSet.Update withETagCheck()"
   returns:
     description: "the next stage of the update"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.setContentEncoding(String contentEncoding)"
   name: "setContentEncoding(String contentEncoding)"
   nameWithType: "ShareFileDownloadHeaders.setContentEncoding(String contentEncoding)"
-  summary: "Set the contentEncoding property: Returns the value that was specified\n for the Content-Encoding request header."
+  summary: "Set the contentEncoding property: Returns the value that was specified for the Content-Encoding request header."
   parameters:
   - description: "the contentEncoding value to set."
     name: "contentEncoding"

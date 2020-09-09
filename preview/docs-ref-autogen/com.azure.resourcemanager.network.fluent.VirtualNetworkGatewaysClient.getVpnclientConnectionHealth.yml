@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.getVpnclientConnectionHealth(String resourceGroupName, String virtualNetworkGatewayName)"
   name: "getVpnclientConnectionHealth(String resourceGroupName, String virtualNetworkGatewayName)"
   nameWithType: "VirtualNetworkGatewaysClient.getVpnclientConnectionHealth(String resourceGroupName, String virtualNetworkGatewayName)"
-  summary: "Get VPN client connection health detail per P2S client connection of the virtual network gateway in the specified\n resource group."
+  summary: "Get VPN client connection health detail per P2S client connection of the virtual network gateway in the specified resource group."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.getVpnclientConnectionHealth(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   name: "getVpnclientConnectionHealth(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   nameWithType: "VirtualNetworkGatewaysClient.getVpnclientConnectionHealth(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
-  summary: "Get VPN client connection health detail per P2S client connection of the virtual network gateway in the specified\n resource group."
+  summary: "Get VPN client connection health detail per P2S client connection of the virtual network gateway in the specified resource group."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

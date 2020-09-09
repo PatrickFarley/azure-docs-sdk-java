@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestManager.deregister(ChannelHandlerContext context, ChannelPromise promise)"
   name: "deregister(ChannelHandlerContext context, ChannelPromise promise)"
   nameWithType: "RntbdRequestManager.deregister(ChannelHandlerContext context, ChannelPromise promise)"
-  summary: "Called once a deregister operation is made from the current registered <xref uid=\"EventLoop\" data-throw-if-not-resolved=\"false\">EventLoop</xref>."
+  summary: "Called once a deregister operation is made from the current registered <xref uid=\"\" data-throw-if-not-resolved=\"false\">EventLoop</xref>."
   parameters:
   - description: "the <xref uid=\"io.netty.channel.ChannelHandlerContext\" data-throw-if-not-resolved=\"false\">ChannelHandlerContext</xref> for which the deregister operation is made"
     name: "context"

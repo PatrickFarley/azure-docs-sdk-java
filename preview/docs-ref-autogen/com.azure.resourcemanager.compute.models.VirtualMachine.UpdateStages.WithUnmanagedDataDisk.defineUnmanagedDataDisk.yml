@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.UpdateStages.WithUnmanagedDataDisk.defineUnmanagedDataDisk(String name)"
   name: "defineUnmanagedDataDisk(String name)"
   nameWithType: "VirtualMachine.UpdateStages.WithUnmanagedDataDisk.defineUnmanagedDataDisk(String name)"
-  summary: "Begins the definition of a blank unmanaged data disk to be attached to the virtual machine along with its\n configuration."
+  summary: "Begins the definition of a blank unmanaged data disk to be attached to the virtual machine along with its configuration."
   parameters:
   - description: "the name for the data disk"
     name: "name"

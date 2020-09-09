@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.QueueDescription.setAutoDeleteOnIdle(Duration autoDeleteOnIdle)"
   name: "setAutoDeleteOnIdle(Duration autoDeleteOnIdle)"
   nameWithType: "QueueDescription.setAutoDeleteOnIdle(Duration autoDeleteOnIdle)"
-  summary: "Set the autoDeleteOnIdle property: ISO 8601 timeSpan idle interval after which the queue is automatically\n deleted. The minimum duration is 5 minutes."
+  summary: "Set the autoDeleteOnIdle property: ISO 8601 timeSpan idle interval after which the queue is automatically deleted. The minimum duration is 5 minutes."
   parameters:
   - description: "the autoDeleteOnIdle value to set."
     name: "autoDeleteOnIdle"

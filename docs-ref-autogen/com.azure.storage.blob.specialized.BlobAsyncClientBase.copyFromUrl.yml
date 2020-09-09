@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.copyFromUrl(String copySource)"
   name: "copyFromUrl(String copySource)"
   nameWithType: "BlobAsyncClientBase.copyFromUrl(String copySource)"
-  summary: "Copies the data at the source URL to a blob and waits for the copy to complete before returning a response.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.copyFromUrl&#40;url&#41;.subscribe&#40;response -&gt; System.out.printf&#40;&quot;Copy identifier: %s%n&quot;, response&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/copy-blob-from-url\">Azure Docs</a></p>"
+  summary: "Copies the data at the source URL to a blob and waits for the copy to complete before returning a response.\n\n**Code Samples**\n\n```java\nclient.copyFromUrl(url).subscribe(response -> System.out.printf(\"Copy identifier: %s%n\", response));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/copy-blob-from-url"
   parameters:
   - description: "The source URL to copy from."
     name: "copySource"

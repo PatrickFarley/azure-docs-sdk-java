@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.IterableStream<T>.<T>of(Iterable<T> iterable)"
   name: "<T>of(Iterable<T> iterable)"
   nameWithType: "IterableStream<T>.<T>of(Iterable<T> iterable)"
-  summary: "Creates an <xref uid=\"IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> from an <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>.\n <p>\n An empty <xref uid=\"IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> will be returned if the input iterable is <code>null</code>."
+  summary: "Creates an <xref uid=\"com.azure.core.util.IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> from an <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>.\n\nAn empty <xref uid=\"com.azure.core.util.IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> will be returned if the input iterable is `null`."
   parameters:
   - description: "Collection of items to iterate over."
     name: "iterable"

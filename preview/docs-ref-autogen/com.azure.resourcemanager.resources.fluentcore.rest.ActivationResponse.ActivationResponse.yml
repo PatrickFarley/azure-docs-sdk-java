@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.rest.ActivationResponse<T>.ActivationResponse(HttpRequest request, int statusCode, HttpHeaders headers, T value, LongRunningOperationStatus status, Duration retryAfter)"
   name: "ActivationResponse(HttpRequest request, int statusCode, HttpHeaders headers, T value, LongRunningOperationStatus status, Duration retryAfter)"
   nameWithType: "ActivationResponse<T>.ActivationResponse(HttpRequest request, int statusCode, HttpHeaders headers, T value, LongRunningOperationStatus status, Duration retryAfter)"
-  summary: "Creates a <xref uid=\"ActivationResponse\" data-throw-if-not-resolved=\"false\">ActivationResponse</xref>."
+  summary: "Creates a <xref uid=\"com.azure.resourcemanager.resources.fluentcore.rest.ActivationResponse\" data-throw-if-not-resolved=\"false\">ActivationResponse</xref>."
   parameters:
   - description: "The request which resulted in this response."
     name: "request"

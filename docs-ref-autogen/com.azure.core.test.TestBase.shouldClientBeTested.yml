@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.TestBase.shouldClientBeTested(HttpClient client)"
   name: "shouldClientBeTested(HttpClient client)"
   nameWithType: "TestBase.shouldClientBeTested(HttpClient client)"
-  summary: "Returns whether the given http clients match the rules of test framework.\n\n <ul>\n <li>Using Netty http client as default if no environment variable is set.</li>\n <li>If it's set to ALL, all HttpClients in the classpath will be tested.</li>\n <li>Otherwise, the name of the HttpClient class should match env variable.</li>\n </ul>\n\n Environment values currently supported are: \"ALL\", \"netty\", \"okhttp\" which is case insensitive.\n Use comma to separate http clients want to test.\n e.g. <code>set AZURE_TEST_HTTP_CLIENTS = NettyAsyncHttpClient, OkHttpAsyncHttpClient</code>"
+  summary: "Returns whether the given http clients match the rules of test framework.\n\n *  Using Netty http client as default if no environment variable is set.\n *  If it's set to ALL, all HttpClients in the classpath will be tested.\n *  Otherwise, the name of the HttpClient class should match env variable.\n\nEnvironment values currently supported are: \"ALL\", \"netty\", \"okhttp\" which is case insensitive. Use comma to separate http clients want to test. e.g. `set AZURE_TEST_HTTP_CLIENTS = NettyAsyncHttpClient, OkHttpAsyncHttpClient`"
   parameters:
   - description: "Http client needs to check"
     name: "client"

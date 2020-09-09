@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LexicalTokenizerName.MICROSOFT_LANGUAGE_TOKENIZER"
   name: "MICROSOFT_LANGUAGE_TOKENIZER"
   nameWithType: "LexicalTokenizerName.MICROSOFT_LANGUAGE_TOKENIZER"
-  summary: "Static value microsoft_language_tokenizer for LexicalTokenizerName."
+  summary: "Static value microsoft\\_language\\_tokenizer for LexicalTokenizerName."
   syntax: "public static final LexicalTokenizerName MICROSOFT_LANGUAGE_TOKENIZER"
 type: "field"
 metadata: {}

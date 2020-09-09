@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterfaceDnsSettings.appliedDnsServers()"
   name: "appliedDnsServers()"
   nameWithType: "NetworkInterfaceDnsSettings.appliedDnsServers()"
-  summary: "Get the appliedDnsServers property: If the VM that uses this NIC is part of an Availability Set, then this list\n will have the union of all DNS servers from all NICs that are part of the Availability Set. This property is what\n is configured on each of those VMs."
+  summary: "Get the appliedDnsServers property: If the VM that uses this NIC is part of an Availability Set, then this list will have the union of all DNS servers from all NICs that are part of the Availability Set. This property is what is configured on each of those VMs."
   syntax: "public List<String> appliedDnsServers()"
   returns:
     description: "the appliedDnsServers value."

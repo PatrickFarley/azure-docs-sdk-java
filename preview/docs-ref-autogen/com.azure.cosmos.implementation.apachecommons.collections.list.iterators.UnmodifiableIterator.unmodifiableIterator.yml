@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.list.iterators.UnmodifiableIterator<E>.<E>unmodifiableIterator(Iterator<? extends E> iterator)"
   name: "<E>unmodifiableIterator(Iterator<? extends E> iterator)"
   nameWithType: "UnmodifiableIterator<E>.<E>unmodifiableIterator(Iterator<? extends E> iterator)"
-  summary: "Decorates the specified iterator such that it cannot be modified.\n <p>\n If the iterator is already unmodifiable it is returned directly."
+  summary: "Decorates the specified iterator such that it cannot be modified.\n\nIf the iterator is already unmodifiable it is returned directly."
   parameters:
   - description: "the iterator to decorate"
     name: "iterator"

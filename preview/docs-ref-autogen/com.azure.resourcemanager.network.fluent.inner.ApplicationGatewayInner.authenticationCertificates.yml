@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayInner.authenticationCertificates()"
   name: "authenticationCertificates()"
   nameWithType: "ApplicationGatewayInner.authenticationCertificates()"
-  summary: "Get the authenticationCertificates property: Authentication certificates of the application gateway resource. For\n default limits, see [Application Gateway\n limits](https://docs.microsoft.com/azure/azure-subscription-service-limits#application-gateway-limits)."
+  summary: "Get the authenticationCertificates property: Authentication certificates of the application gateway resource. For default limits, see \\[Application Gateway limits\\](https://docs.microsoft.com/azure/azure-subscription-service-limits\\#application-gateway-limits)."
   syntax: "public List<ApplicationGatewayAuthenticationCertificateInner> authenticationCertificates()"
   returns:
     description: "the authenticationCertificates value."

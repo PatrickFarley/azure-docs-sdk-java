@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricDynamicAlertCondition.UpdateDefinitionStages.WithConditionAttach<ParentT>.withIgnoreDataBefore(OffsetDateTime date)"
   name: "withIgnoreDataBefore(OffsetDateTime date)"
   nameWithType: "MetricDynamicAlertCondition.UpdateDefinitionStages.WithConditionAttach<ParentT>.withIgnoreDataBefore(OffsetDateTime date)"
-  summary: "Sets the date from which to start learning the metric historical data and calculate the dynamic\n thresholds."
+  summary: "Sets the date from which to start learning the metric historical data and calculate the dynamic thresholds."
   parameters:
   - description: "the date from which to start learning the metric historical data and calculate the dynamic\n     thresholds."
     name: "date"

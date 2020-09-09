@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithNetwork.withNewPrimaryNetwork(Creatable<Network> creatable)"
   name: "withNewPrimaryNetwork(Creatable<Network> creatable)"
   nameWithType: "VirtualMachine.DefinitionStages.WithNetwork.withNewPrimaryNetwork(Creatable<Network> creatable)"
-  summary: "Creates a new virtual network to associate with the virtual machine's primary network interface, based on\n the provided definition."
+  summary: "Creates a new virtual network to associate with the virtual machine's primary network interface, based on the provided definition."
   parameters:
   - description: "a creatable definition for a new virtual network"
     name: "creatable"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithNetwork.withNewPrimaryNetwork(String addressSpace)"
   name: "withNewPrimaryNetwork(String addressSpace)"
   nameWithType: "VirtualMachine.DefinitionStages.WithNetwork.withNewPrimaryNetwork(String addressSpace)"
-  summary: "Creates a new virtual network to associate with the virtual machine's primary network interface.\n\n <p>The virtual network will be created in the same resource group and region as of virtual machine, it\n will be created with the specified address space and a default subnet covering the entirety of the\n network IP address space."
+  summary: "Creates a new virtual network to associate with the virtual machine's primary network interface.\n\nThe virtual network will be created in the same resource group and region as of virtual machine, it will be created with the specified address space and a default subnet covering the entirety of the network IP address space."
   parameters:
   - description: "the address space for the virtual network"
     name: "addressSpace"

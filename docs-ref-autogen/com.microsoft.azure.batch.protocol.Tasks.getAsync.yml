@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.getAsync(String jobId, String taskId)"
   name: "getAsync(String jobId, String taskId)"
   nameWithType: "Tasks.getAsync(String jobId, String taskId)"
-  summary: "Gets information about the specified Task.\n For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
+  summary: "Gets information about the specified Task. For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
   parameters:
   - description: "The ID of the Job that contains the Task."
     name: "jobId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.getAsync(String jobId, String taskId, TaskGetOptions taskGetOptions)"
   name: "getAsync(String jobId, String taskId, TaskGetOptions taskGetOptions)"
   nameWithType: "Tasks.getAsync(String jobId, String taskId, TaskGetOptions taskGetOptions)"
-  summary: "Gets information about the specified Task.\n For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
+  summary: "Gets information about the specified Task. For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
   parameters:
   - description: "The ID of the Job that contains the Task."
     name: "jobId"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.getAsync(String jobId, String taskId, TaskGetOptions taskGetOptions, ServiceCallback<CloudTask> serviceCallback)"
   name: "getAsync(String jobId, String taskId, TaskGetOptions taskGetOptions, ServiceCallback<CloudTask> serviceCallback)"
   nameWithType: "Tasks.getAsync(String jobId, String taskId, TaskGetOptions taskGetOptions, ServiceCallback<CloudTask> serviceCallback)"
-  summary: "Gets information about the specified Task.\n For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
+  summary: "Gets information about the specified Task. For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
   parameters:
   - description: "The ID of the Job that contains the Task."
     name: "jobId"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.getAsync(String jobId, String taskId, ServiceCallback<CloudTask> serviceCallback)"
   name: "getAsync(String jobId, String taskId, ServiceCallback<CloudTask> serviceCallback)"
   nameWithType: "Tasks.getAsync(String jobId, String taskId, ServiceCallback<CloudTask> serviceCallback)"
-  summary: "Gets information about the specified Task.\n For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
+  summary: "Gets information about the specified Task. For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
   parameters:
   - description: "The ID of the Job that contains the Task."
     name: "jobId"

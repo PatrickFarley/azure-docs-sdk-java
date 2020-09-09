@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.IndexingResult.isSucceeded()"
   name: "isSucceeded()"
   nameWithType: "IndexingResult.isSucceeded()"
-  summary: "Get the succeeded property: A value indicating whether the indexing\n operation succeeded for the document identified by the key."
+  summary: "Get the succeeded property: A value indicating whether the indexing operation succeeded for the document identified by the key."
   syntax: "public boolean isSucceeded()"
   returns:
     description: "the succeeded value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.EffectiveNetworkSecurityRule.withDestinationPortRanges(List<String> destinationPortRanges)"
   name: "withDestinationPortRanges(List<String> destinationPortRanges)"
   nameWithType: "EffectiveNetworkSecurityRule.withDestinationPortRanges(List<String> destinationPortRanges)"
-  summary: "Set the destinationPortRanges property: The destination port ranges. Expected values include a single integer\n between 0 and 65535, a range using '-' as separator (e.g. 100-400), or an asterisk (*)."
+  summary: "Set the destinationPortRanges property: The destination port ranges. Expected values include a single integer between 0 and 65535, a range using '-' as separator (e.g. 100-400), or an asterisk (\\*)."
   parameters:
   - description: "the destinationPortRanges value to set."
     name: "destinationPortRanges"

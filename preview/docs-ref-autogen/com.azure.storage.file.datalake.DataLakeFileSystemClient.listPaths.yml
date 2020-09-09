@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClient.listPaths()"
   name: "listPaths()"
   nameWithType: "DataLakeFileSystemClient.listPaths()"
-  summary: "Returns a lazy loaded list of files/directories in this account. The returned <xref uid=\"PagedIterable\" data-throw-if-not-resolved=\"false\">PagedIterable</xref> can be\n consumed while new items are automatically retrieved as needed. For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/filesystem/list#filesystem\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.listPaths&#40;&#41;.forEach&#40;path -&gt; System.out.printf&#40;&quot;Name: %s%n&quot;, path.getName&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Returns a lazy loaded list of files/directories in this account. The returned <xref uid=\"com.azure.core.http.rest.PagedIterable\" data-throw-if-not-resolved=\"false\">PagedIterable</xref> can be consumed while new items are automatically retrieved as needed. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.listPaths().forEach(path -> System.out.printf(\"Name: %s%n\", path.getName()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/filesystem/list#filesystem"
   syntax: "public PagedIterable<PathItem> listPaths()"
   returns:
     description: "The list of files/directories."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClient.listPaths(ListPathsOptions options, Duration timeout)"
   name: "listPaths(ListPathsOptions options, Duration timeout)"
   nameWithType: "DataLakeFileSystemClient.listPaths(ListPathsOptions options, Duration timeout)"
-  summary: "Returns a lazy loaded list of files/directories in this account. The returned <xref uid=\"PagedIterable\" data-throw-if-not-resolved=\"false\">PagedIterable</xref> can be\n consumed while new items are automatically retrieved as needed. For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/filesystem/list#filesystem\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n ListPathsOptions options = new ListPathsOptions&#40;&#41;\n     .setPath&#40;&quot;pathPrefixToMatch&quot;&#41;\n     .setMaxResults&#40;10&#41;;\n \n client.listPaths&#40;options, timeout&#41;.forEach&#40;path -&gt; System.out.printf&#40;&quot;Name: %s%n&quot;, path.getName&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Returns a lazy loaded list of files/directories in this account. The returned <xref uid=\"com.azure.core.http.rest.PagedIterable\" data-throw-if-not-resolved=\"false\">PagedIterable</xref> can be consumed while new items are automatically retrieved as needed. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nListPathsOptions options = new ListPathsOptions()\n     .setPath(\"pathPrefixToMatch\")\n     .setMaxResults(10);\n \n client.listPaths(options, timeout).forEach(path -> System.out.printf(\"Name: %s%n\", path.getName()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/filesystem/list#filesystem"
   parameters:
   - description: "A <xref uid=\"com.azure.storage.file.datalake.models.ListPathsOptions\" data-throw-if-not-resolved=\"false\">ListPathsOptions</xref> which specifies what data should be returned by the service."
     name: "options"

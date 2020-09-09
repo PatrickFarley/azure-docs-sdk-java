@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueCorsRule.getMaxAgeInSeconds()"
   name: "getMaxAgeInSeconds()"
   nameWithType: "QueueCorsRule.getMaxAgeInSeconds()"
-  summary: "Get the maxAgeInSeconds property: The maximum amount time that a browser\n should cache the preflight OPTIONS request."
+  summary: "Get the maxAgeInSeconds property: The maximum amount time that a browser should cache the preflight OPTIONS request."
   syntax: "public int getMaxAgeInSeconds()"
   returns:
     description: "the maxAgeInSeconds value."

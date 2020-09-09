@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap.HashMapIterator<K,V>.next()"
   name: "next()"
   nameWithType: "AbstractHashedMap.HashMapIterator<K,V>.next()"
-  summary: "Gets the next <em>key</em> from the <code>Map</code>."
+  summary: "Gets the next *key* from the `Map`."
   syntax: "public K next()"
   returns:
     type: "<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />"

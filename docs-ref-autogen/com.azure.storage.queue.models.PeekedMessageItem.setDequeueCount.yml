@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.PeekedMessageItem.setDequeueCount(long dequeueCount)"
   name: "setDequeueCount(long dequeueCount)"
   nameWithType: "PeekedMessageItem.setDequeueCount(long dequeueCount)"
-  summary: "Set the dequeueCount property: The number of times the message has been\n dequeued."
+  summary: "Set the dequeueCount property: The number of times the message has been dequeued."
   parameters:
   - description: "the dequeueCount value to set."
     name: "dequeueCount"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PrivateEndpointInner.withPrivateLinkServiceConnections(List<PrivateLinkServiceConnection> privateLinkServiceConnections)"
   name: "withPrivateLinkServiceConnections(List<PrivateLinkServiceConnection> privateLinkServiceConnections)"
   nameWithType: "PrivateEndpointInner.withPrivateLinkServiceConnections(List<PrivateLinkServiceConnection> privateLinkServiceConnections)"
-  summary: "Set the privateLinkServiceConnections property: A grouping of information about the connection to the remote\n resource."
+  summary: "Set the privateLinkServiceConnections property: A grouping of information about the connection to the remote resource."
   parameters:
   - description: "the privateLinkServiceConnections value to set."
     name: "privateLinkServiceConnections"

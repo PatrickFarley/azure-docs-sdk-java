@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.primitives.ConnectionStringBuilder.getOperationTimeout()"
   name: "getOperationTimeout()"
   nameWithType: "ConnectionStringBuilder.getOperationTimeout()"
-  summary: "Gets the duration after which a pending operation like Send or RECEIVE will time out. If a timeout is not specified, it defaults to <xref uid=\"#DefaultOperationTimeout\" data-throw-if-not-resolved=\"false\">#DefaultOperationTimeout</xref>\n This value will be used by all operations which uses this <xref uid=\"ConnectionStringBuilder\" data-throw-if-not-resolved=\"false\">ConnectionStringBuilder</xref>, unless explicitly over-ridden."
+  summary: "Gets the duration after which a pending operation like Send or RECEIVE will time out. If a timeout is not specified, it defaults to <xref uid=\"com.microsoft.azure.servicebus.primitives.ConnectionStringBuilder.DefaultOperationTimeout\" data-throw-if-not-resolved=\"false\">#DefaultOperationTimeout</xref> This value will be used by all operations which uses this <xref uid=\"com.microsoft.azure.servicebus.primitives.ConnectionStringBuilder\" data-throw-if-not-resolved=\"false\">ConnectionStringBuilder</xref>, unless explicitly over-ridden."
   syntax: "public Duration getOperationTimeout()"
   returns:
     description: "operationTimeout"

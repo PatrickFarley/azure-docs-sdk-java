@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.util.SearchPagedFlux.getCoverage()"
   name: "getCoverage()"
   nameWithType: "SearchPagedFlux.getCoverage()"
-  summary: "The percentage of the index covered in the search request.\n <p>\n If <code>minimumCoverage</code> wasn't supplied in the request this will be <code>null</code>."
+  summary: "The percentage of the index covered in the search request.\n\nIf `minimumCoverage` wasn't supplied in the request this will be `null`."
   syntax: "public Mono<Double> getCoverage()"
   returns:
     description: "The percentage of the index covered in the search request if <code>minimumCoverage</code> was set in the\n request, otherwise <code>null</code>."

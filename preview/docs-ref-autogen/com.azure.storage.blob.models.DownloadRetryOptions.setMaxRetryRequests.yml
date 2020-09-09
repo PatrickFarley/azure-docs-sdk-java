@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.DownloadRetryOptions.setMaxRetryRequests(int maxRetryRequests)"
   name: "setMaxRetryRequests(int maxRetryRequests)"
   nameWithType: "DownloadRetryOptions.setMaxRetryRequests(int maxRetryRequests)"
-  summary: "Specifies the maximum number of additional HTTP Get requests that will be made while reading the data from a\n response body."
+  summary: "Specifies the maximum number of additional HTTP Get requests that will be made while reading the data from a response body."
   parameters:
   - description: "The number of retries to attempt before the request finally fails"
     name: "maxRetryRequests"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.kusto.v2020_06_14.AzureSkuName.DEV_NO_SLA_STANDARD_D11_V2"
   name: "DEV_NO_SLA_STANDARD_D11_V2"
   nameWithType: "AzureSkuName.DEV_NO_SLA_STANDARD_D11_V2"
-  summary: "Static value Dev(No SLA)_Standard_D11_v2 for AzureSkuName."
+  summary: "Static value Dev(No SLA)\\_Standard\\_D11\\_v2 for AzureSkuName."
   syntax: "public static final AzureSkuName DEV_NO_SLA_STANDARD_D11_V2"
 type: "field"
 metadata: {}

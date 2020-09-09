@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigInner.withRemoteDebuggingEnabled(Boolean remoteDebuggingEnabled)"
   name: "withRemoteDebuggingEnabled(Boolean remoteDebuggingEnabled)"
   nameWithType: "SiteConfigInner.withRemoteDebuggingEnabled(Boolean remoteDebuggingEnabled)"
-  summary: "Set the remoteDebuggingEnabled property: &lt;code&gt;true&lt;/code&gt; if remote debugging is enabled; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the remoteDebuggingEnabled property: <code>true</code> if remote debugging is enabled; otherwise, <code>false</code>."
   parameters:
   - description: "the remoteDebuggingEnabled value to set."
     name: "remoteDebuggingEnabled"

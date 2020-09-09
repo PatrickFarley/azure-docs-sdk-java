@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.ClientFactory.acceptSessionFromConnectionString(String amqpConnectionString, String sessionId)"
   name: "acceptSessionFromConnectionString(String amqpConnectionString, String sessionId)"
   nameWithType: "ClientFactory.acceptSessionFromConnectionString(String amqpConnectionString, String sessionId)"
-  summary: "Accept a <xref uid=\"IMessageSession\" data-throw-if-not-resolved=\"false\">IMessageSession</xref> in default <xref uid=\"ReceiveMode#PEEKLOCK\" data-throw-if-not-resolved=\"false\">ReceiveMode#PEEKLOCK</xref> mode from service bus connection string with specified session id. Session Id can be null, if null, service will return the first available session."
+  summary: "Accept a <xref uid=\"com.microsoft.azure.servicebus.IMessageSession\" data-throw-if-not-resolved=\"false\">IMessageSession</xref> in default <xref uid=\"com.microsoft.azure.servicebus.ReceiveMode.PEEKLOCK\" data-throw-if-not-resolved=\"false\">ReceiveMode#PEEKLOCK</xref> mode from service bus connection string with specified session id. Session Id can be null, if null, service will return the first available session."
   parameters:
   - description: "connection string"
     name: "amqpConnectionString"
@@ -29,7 +29,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.ClientFactory.acceptSessionFromConnectionString(String amqpConnectionString, String sessionId, ReceiveMode receiveMode)"
   name: "acceptSessionFromConnectionString(String amqpConnectionString, String sessionId, ReceiveMode receiveMode)"
   nameWithType: "ClientFactory.acceptSessionFromConnectionString(String amqpConnectionString, String sessionId, ReceiveMode receiveMode)"
-  summary: "Accept a <xref uid=\"IMessageSession\" data-throw-if-not-resolved=\"false\">IMessageSession</xref> from service bus connection string with specified session id. Session Id can be null, if null, service will return the first available session."
+  summary: "Accept a <xref uid=\"com.microsoft.azure.servicebus.IMessageSession\" data-throw-if-not-resolved=\"false\">IMessageSession</xref> from service bus connection string with specified session id. Session Id can be null, if null, service will return the first available session."
   parameters:
   - description: "connection string"
     name: "amqpConnectionString"

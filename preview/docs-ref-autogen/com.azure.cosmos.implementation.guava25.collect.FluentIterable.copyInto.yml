@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.<C>copyInto(C collection)"
   name: "<C>copyInto(C collection)"
   nameWithType: "FluentIterable<E>.<C>copyInto(C collection)"
-  summary: "Copies all the elements from this fluent iterable to <code>collection</code>. This is equivalent to\n calling <code>Iterables.addAll(collection, this)</code>.\n\n <p><b><code>Stream</code> equivalent:</b> <code>stream.forEachOrdered(collection::add)</code> or <code>\n stream.forEach(collection::add)</code>."
+  summary: "Copies all the elements from this fluent iterable to `collection`. This is equivalent to calling `Iterables.addAll(collection, this)`.\n\n**`Stream` equivalent:** `stream.forEachOrdered(collection::add)` or `stream.forEach(collection::add)`."
   parameters:
   - description: "the collection to copy elements to"
     name: "collection"

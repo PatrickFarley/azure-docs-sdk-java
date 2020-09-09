@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.connectionString(String connectionString)"
   name: "connectionString(String connectionString)"
   nameWithType: "EventProcessorClientBuilder.connectionString(String connectionString)"
-  summary: "Sets the credential information given a connection string to the Event Hub instance.\n\n <p>\n If the connection string is copied from the Event Hubs namespace, it will likely not contain the name to the\n desired Event Hub, which is needed. In this case, the name can be added manually by adding \n \"EntityPath=EVENT_HUB_NAME\" to the end of the connection string. For example, \"EntityPath=telemetry-hub\".\n </p>\n\n <p>\n If you have defined a shared access policy directly on the Event Hub itself, then copying the connection string\n from that Event Hub will result in a connection string that contains the name.\n </p>"
+  summary: "Sets the credential information given a connection string to the Event Hub instance.\n\nIf the connection string is copied from the Event Hubs namespace, it will likely not contain the name to the desired Event Hub, which is needed. In this case, the name can be added manually by adding \"EntityPath=EVENT\\_HUB\\_NAME\" to the end of the connection string. For example, \"EntityPath=telemetry-hub\".\n\nIf you have defined a shared access policy directly on the Event Hub itself, then copying the connection string from that Event Hub will result in a connection string that contains the name."
   parameters:
   - description: "The connection string to use for connecting to the Event Hub instance. It is expected\n that the Event Hub name and the shared access key properties are contained in this connection string."
     name: "connectionString"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.connectionString(String connectionString, String eventHubName)"
   name: "connectionString(String connectionString, String eventHubName)"
   nameWithType: "EventProcessorClientBuilder.connectionString(String connectionString, String eventHubName)"
-  summary: "Sets the credential information given a connection string to the Event Hubs namespace and name to a specific\n Event Hub instance."
+  summary: "Sets the credential information given a connection string to the Event Hubs namespace and name to a specific Event Hub instance."
   parameters:
   - description: "The connection string to use for connecting to the Event Hubs namespace; it is expected\n that the shared access key properties are contained in this connection string, but not the Event Hub name."
     name: "connectionString"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.ProxyOptions.ProxyOptions(ProxyAuthenticationType authentication, Proxy proxyAddress, String username, String password)"
   name: "ProxyOptions(ProxyAuthenticationType authentication, Proxy proxyAddress, String username, String password)"
   nameWithType: "ProxyOptions.ProxyOptions(ProxyAuthenticationType authentication, Proxy proxyAddress, String username, String password)"
-  summary: "Creates a proxy configuration that uses the <code>proxyAddress</code> and authenticates with provided\n <code>username</code>, <code>password</code> and <code>authentication</code>."
+  summary: "Creates a proxy configuration that uses the `proxyAddress` and authenticates with provided `username`, `password` and `authentication`."
   parameters:
   - description: "Authentication method to preemptively use with proxy."
     name: "authentication"

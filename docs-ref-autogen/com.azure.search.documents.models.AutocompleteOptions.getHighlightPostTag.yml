@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.AutocompleteOptions.getHighlightPostTag()"
   name: "getHighlightPostTag()"
   nameWithType: "AutocompleteOptions.getHighlightPostTag()"
-  summary: "Get the highlightPostTag property: A string tag that is appended to hit\n highlights. Must be set with highlightPreTag. If omitted, hit\n highlighting is disabled."
+  summary: "Get the highlightPostTag property: A string tag that is appended to hit highlights. Must be set with highlightPreTag. If omitted, hit highlighting is disabled."
   syntax: "public String getHighlightPostTag()"
   returns:
     description: "the highlightPostTag value."

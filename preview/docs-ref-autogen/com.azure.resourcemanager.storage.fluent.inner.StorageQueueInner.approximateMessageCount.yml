@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageQueueInner.approximateMessageCount()"
   name: "approximateMessageCount()"
   nameWithType: "StorageQueueInner.approximateMessageCount()"
-  summary: "Get the approximateMessageCount property: Integer indicating an approximate number of messages in the queue. This\n number is not lower than the actual number of messages in the queue, but could be higher."
+  summary: "Get the approximateMessageCount property: Integer indicating an approximate number of messages in the queue. This number is not lower than the actual number of messages in the queue, but could be higher."
   syntax: "public Integer approximateMessageCount()"
   returns:
     description: "the approximateMessageCount value."

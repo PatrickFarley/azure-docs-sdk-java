@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.bulkexecutor.DocumentBulkExecutor.Builder.from(DocumentClient client, String databaseName, String collectionName, PartitionKeyDefinition partitionKeyDef, int offerThroughput)"
   name: "from(DocumentClient client, String databaseName, String collectionName, PartitionKeyDefinition partitionKeyDef, int offerThroughput)"
   nameWithType: "DocumentBulkExecutor.Builder.from(DocumentClient client, String databaseName, String collectionName, PartitionKeyDefinition partitionKeyDef, int offerThroughput)"
-  summary: "Use the instance of <xref uid=\"DocumentClient\" data-throw-if-not-resolved=\"false\">DocumentClient</xref> to perform bulk operations in target <xref uid=\"DocumentCollection\" data-throw-if-not-resolved=\"false\">DocumentCollection</xref> instance at specified allocated throughput."
+  summary: "Use the instance of <xref uid=\"com.microsoft.azure.documentdb.DocumentClient\" data-throw-if-not-resolved=\"false\">DocumentClient</xref> to perform bulk operations in target <xref uid=\"\" data-throw-if-not-resolved=\"false\">DocumentCollection</xref> instance at specified allocated throughput."
   parameters:
   - description: "an instance of <xref uid=\"com.microsoft.azure.documentdb.DocumentClient\" data-throw-if-not-resolved=\"false\">DocumentClient</xref>"
     name: "client"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.PrivateLinkServiceConnectionState.withActionRequired(String actionRequired)"
   name: "withActionRequired(String actionRequired)"
   nameWithType: "PrivateLinkServiceConnectionState.withActionRequired(String actionRequired)"
-  summary: "Set the actionRequired property: A message indicating if changes on the service provider require any updates on\n the consumer."
+  summary: "Set the actionRequired property: A message indicating if changes on the service provider require any updates on the consumer."
   parameters:
   - description: "the actionRequired value to set."
     name: "actionRequired"

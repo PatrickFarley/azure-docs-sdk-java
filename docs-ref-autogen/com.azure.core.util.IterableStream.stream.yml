@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.IterableStream<T>.stream()"
   name: "stream()"
   nameWithType: "IterableStream<T>.stream()"
-  summary: "Utility function to provide <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of value <code>T</code>."
+  summary: "Utility function to provide <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of value `T`."
   syntax: "public Stream<T> stream()"
   returns:
     description: "<xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of value <code>T</code>."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.ResponseInner.withTimespan(String timespan)"
   name: "withTimespan(String timespan)"
   nameWithType: "ResponseInner.withTimespan(String timespan)"
-  summary: "Set the timespan property: The timespan for which the data was retrieved. Its value consists of two datetimes\n concatenated, separated by '/'. This may be adjusted in the future and returned back from what was originally\n requested."
+  summary: "Set the timespan property: The timespan for which the data was retrieved. Its value consists of two datetimes concatenated, separated by '/'. This may be adjusted in the future and returned back from what was originally requested."
   parameters:
   - description: "the timespan value to set."
     name: "timespan"

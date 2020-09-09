@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.DistanceScoringFunction.getParameters()"
   name: "getParameters()"
   nameWithType: "DistanceScoringFunction.getParameters()"
-  summary: "Get the parameters property: Parameter values for the distance scoring\n function."
+  summary: "Get the parameters property: Parameter values for the distance scoring function."
   syntax: "public DistanceScoringParameters getParameters()"
   returns:
     description: "the parameters value."

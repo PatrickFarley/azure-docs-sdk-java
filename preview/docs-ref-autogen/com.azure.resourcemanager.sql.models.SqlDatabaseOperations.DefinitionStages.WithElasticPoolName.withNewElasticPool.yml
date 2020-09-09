@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlDatabaseOperations.DefinitionStages.WithElasticPoolName.withNewElasticPool(Creatable<SqlElasticPool> sqlElasticPool)"
   name: "withNewElasticPool(Creatable<SqlElasticPool> sqlElasticPool)"
   nameWithType: "SqlDatabaseOperations.DefinitionStages.WithElasticPoolName.withNewElasticPool(Creatable<SqlElasticPool> sqlElasticPool)"
-  summary: "Sets the new elastic pool for the SQLDatabase, this will create a new elastic pool while creating\n database."
+  summary: "Sets the new elastic pool for the SQLDatabase, this will create a new elastic pool while creating database."
   parameters:
   - description: "creatable definition for new elastic pool to be created for the SQL Database"
     name: "sqlElasticPool"

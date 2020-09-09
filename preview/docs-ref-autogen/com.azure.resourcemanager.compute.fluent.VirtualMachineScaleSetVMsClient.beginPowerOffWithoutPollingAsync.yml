@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId)"
   name: "beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId)"
   nameWithType: "VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId)"
-  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting\n charged for the resources. Instead, use deallocate to release resources and avoid charges."
+  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting charged for the resources. Instead, use deallocate to release resources and avoid charges."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown)"
   name: "beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown)"
   nameWithType: "VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown)"
-  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting\n charged for the resources. Instead, use deallocate to release resources and avoid charges."
+  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting charged for the resources. Instead, use deallocate to release resources and avoid charges."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -49,7 +49,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown, Context context)"
   name: "beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown, Context context)"
   nameWithType: "VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown, Context context)"
-  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting\n charged for the resources. Instead, use deallocate to release resources and avoid charges."
+  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting charged for the resources. Instead, use deallocate to release resources and avoid charges."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

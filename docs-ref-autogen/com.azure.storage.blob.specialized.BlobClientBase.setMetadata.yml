@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.setMetadata(Map<String,String> metadata)"
   name: "setMetadata(Map<String,String> metadata)"
   nameWithType: "BlobClientBase.setMetadata(Map<String,String> metadata)"
-  summary: "Changes a blob's metadata. The specified metadata in this method will replace existing metadata. If old values\n must be preserved, they must be downloaded and included in the call to this method.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.setMetadata&#40;Collections.singletonMap&#40;&quot;metadata&quot;, &quot;value&quot;&#41;&#41;;\n System.out.println&#40;&quot;Set metadata completed&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/set-blob-metadata\">Azure Docs</a></p>"
+  summary: "Changes a blob's metadata. The specified metadata in this method will replace existing metadata. If old values must be preserved, they must be downloaded and included in the call to this method.\n\n**Code Samples**\n\n```java\nclient.setMetadata(Collections.singletonMap(\"metadata\", \"value\"));\n System.out.println(\"Set metadata completed\");\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/set-blob-metadata"
   parameters:
   - description: "Metadata to associate with the blob."
     name: "metadata"

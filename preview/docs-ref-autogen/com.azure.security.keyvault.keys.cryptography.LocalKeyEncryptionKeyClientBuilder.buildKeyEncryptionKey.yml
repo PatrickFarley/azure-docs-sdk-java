@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.LocalKeyEncryptionKeyClientBuilder.buildKeyEncryptionKey(JsonWebKey key)"
   name: "buildKeyEncryptionKey(JsonWebKey key)"
   nameWithType: "LocalKeyEncryptionKeyClientBuilder.buildKeyEncryptionKey(JsonWebKey key)"
-  summary: "Creates a <xref uid=\"LocalKeyEncryptionKeyClient\" data-throw-if-not-resolved=\"false\">LocalKeyEncryptionKeyClient</xref> based on options set in the builder.\n Every time <code>buildKeyEncryptionKey(String)</code> is called, a new instance of <xref uid=\"KeyEncryptionKey\" data-throw-if-not-resolved=\"false\">KeyEncryptionKey</xref>\n is created.\n\n <p>The <code>key</code> is required to build the <xref uid=\"LocalKeyEncryptionKeyClient\" data-throw-if-not-resolved=\"false\">client</xref>.</p>"
+  summary: "Creates a <xref uid=\"com.azure.security.keyvault.keys.cryptography.LocalKeyEncryptionKeyClient\" data-throw-if-not-resolved=\"false\">LocalKeyEncryptionKeyClient</xref> based on options set in the builder. Every time `buildKeyEncryptionKey(String)` is called, a new instance of <xref uid=\"com.azure.core.cryptography.KeyEncryptionKey\" data-throw-if-not-resolved=\"false\">KeyEncryptionKey</xref> is created.\n\nThe `key` is required to build the <xref uid=\"com.azure.security.keyvault.keys.cryptography.LocalKeyEncryptionKeyClient\" data-throw-if-not-resolved=\"false\">client</xref>."
   parameters:
   - description: "the key to be used for crypto operations."
     name: "key"

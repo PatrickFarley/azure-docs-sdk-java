@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.openInputStream()"
   name: "openInputStream()"
   nameWithType: "ShareFileClient.openInputStream()"
-  summary: "Opens a file input stream to download the file.\n <p>"
+  summary: "Opens a file input stream to download the file."
   syntax: "public final StorageFileInputStream openInputStream()"
   returns:
     description: "An <code>InputStream</code> object that represents the stream to use for reading from the file."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.openInputStream(ShareFileRange range)"
   name: "openInputStream(ShareFileRange range)"
   nameWithType: "ShareFileClient.openInputStream(ShareFileRange range)"
-  summary: "Opens a file input stream to download the specified range of the file.\n <p>"
+  summary: "Opens a file input stream to download the specified range of the file."
   parameters:
   - description: "<xref uid=\"com.azure.storage.file.share.models.ShareFileRange\" data-throw-if-not-resolved=\"false\">ShareFileRange</xref>"
     name: "range"

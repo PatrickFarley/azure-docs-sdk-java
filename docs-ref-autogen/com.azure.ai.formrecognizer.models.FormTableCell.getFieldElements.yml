@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FormTableCell.getFieldElements()"
   name: "getFieldElements()"
   nameWithType: "FormTableCell.getFieldElements()"
-  summary: "When includeFieldElements is set to true, gets the list of references to the elements\n constituting this table cell."
+  summary: "When includeFieldElements is set to true, gets the list of references to the elements constituting this table cell."
   syntax: "public List<FormElement> getFieldElements()"
   returns:
     description: "the unmodifiable list of list of references to the text elements constituting this table cell."

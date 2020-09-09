@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Throwables.getRootCause(Throwable throwable)"
   name: "getRootCause(Throwable throwable)"
   nameWithType: "Throwables.getRootCause(Throwable throwable)"
-  summary: "Returns the innermost cause of <code>throwable</code>. The first throwable in a chain provides\n context from when the error or exception was initially detected. Example usage:\n\n <pre>\n assertEquals(\"Unable to assign a customer id\", Throwables.getRootCause(e).getMessage());\n </pre>"
+  summary: "Returns the innermost cause of `throwable`. The first throwable in a chain provides context from when the error or exception was initially detected. Example usage:\n\n```java\nassertEquals(\"Unable to assign a customer id\", Throwables.getRootCause(e).getMessage());\n```"
   parameters:
   - name: "throwable"
     type: "<xref href=\"java.lang.Throwable?alt=java.lang.Throwable&text=Throwable\" data-throw-if-not-resolved=\"False\" />"

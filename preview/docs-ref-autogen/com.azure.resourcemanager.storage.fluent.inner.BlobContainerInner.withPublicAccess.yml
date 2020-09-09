@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.BlobContainerInner.withPublicAccess(PublicAccess publicAccess)"
   name: "withPublicAccess(PublicAccess publicAccess)"
   nameWithType: "BlobContainerInner.withPublicAccess(PublicAccess publicAccess)"
-  summary: "Set the publicAccess property: Specifies whether data in the container may be accessed publicly and the level of\n access."
+  summary: "Set the publicAccess property: Specifies whether data in the container may be accessed publicly and the level of access."
   parameters:
   - description: "the publicAccess value to set."
     name: "publicAccess"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.CollectionUtils.<T>emptyIfNull(Collection<T> collection)"
   name: "<T>emptyIfNull(Collection<T> collection)"
   nameWithType: "CollectionUtils.<T>emptyIfNull(Collection<T> collection)"
-  summary: "Returns an immutable empty collection if the argument is <code>null</code>,\n or the argument itself otherwise."
+  summary: "Returns an immutable empty collection if the argument is `null`, or the argument itself otherwise."
   parameters:
   - description: "the collection, possibly <code>null</code>"
     name: "collection"

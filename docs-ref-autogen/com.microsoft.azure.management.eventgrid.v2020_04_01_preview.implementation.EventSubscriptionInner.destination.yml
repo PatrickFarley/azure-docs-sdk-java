@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionInner.destination()"
   name: "destination()"
   nameWithType: "EventSubscriptionInner.destination()"
-  summary: "Get information about the destination where events have to be delivered for the event subscription.\n     Uses Azure Event Grid's identity to acquire the authentication tokens being used during delivery / dead-lettering."
+  summary: "Get information about the destination where events have to be delivered for the event subscription. Uses Azure Event Grid's identity to acquire the authentication tokens being used during delivery / dead-lettering."
   syntax: "public EventSubscriptionDestination destination()"
   returns:
     description: "the destination value"

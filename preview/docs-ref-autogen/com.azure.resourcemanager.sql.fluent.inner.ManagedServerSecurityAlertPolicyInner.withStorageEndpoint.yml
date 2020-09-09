@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedServerSecurityAlertPolicyInner.withStorageEndpoint(String storageEndpoint)"
   name: "withStorageEndpoint(String storageEndpoint)"
   nameWithType: "ManagedServerSecurityAlertPolicyInner.withStorageEndpoint(String storageEndpoint)"
-  summary: "Set the storageEndpoint property: Specifies the blob storage endpoint (e.g.\n https://MyAccount.blob.core.windows.net). This blob storage will hold all Threat Detection audit logs."
+  summary: "Set the storageEndpoint property: Specifies the blob storage endpoint (e.g. https://MyAccount.blob.core.windows.net). This blob storage will hold all Threat Detection audit logs."
   parameters:
   - description: "the storageEndpoint value to set."
     name: "storageEndpoint"

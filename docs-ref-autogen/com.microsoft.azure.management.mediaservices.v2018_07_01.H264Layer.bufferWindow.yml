@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.H264Layer.bufferWindow()"
   name: "bufferWindow()"
   nameWithType: "H264Layer.bufferWindow()"
-  summary: "Get the VBV buffer window length. The value should be in ISO 8601 format. The value should be in the range [0.1-100] seconds. The default is 5 seconds (for example, PT5S)."
+  summary: "Get the VBV buffer window length. The value should be in ISO 8601 format. The value should be in the range \\[0.1-100\\] seconds. The default is 5 seconds (for example, PT5S)."
   syntax: "public Period bufferWindow()"
   returns:
     description: "the bufferWindow value"

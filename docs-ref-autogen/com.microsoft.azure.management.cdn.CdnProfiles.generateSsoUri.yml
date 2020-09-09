@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cdn.CdnProfiles.generateSsoUri(String resourceGroupName, String profileName)"
   name: "generateSsoUri(String resourceGroupName, String profileName)"
   nameWithType: "CdnProfiles.generateSsoUri(String resourceGroupName, String profileName)"
-  summary: "Generates a dynamic SSO URI used to sign in to the CDN supplemental portal.\n Supplemental portal is used to configure advanced feature capabilities that are not\n yet available in the Azure portal, such as core reports in a standard profile;\n rules engine, advanced HTTP reports, and real-time stats and alerts in a premium profile.\n The SSO URI changes approximately every 10 minutes."
+  summary: "Generates a dynamic SSO URI used to sign in to the CDN supplemental portal. Supplemental portal is used to configure advanced feature capabilities that are not yet available in the Azure portal, such as core reports in a standard profile; rules engine, advanced HTTP reports, and real-time stats and alerts in a premium profile. The SSO URI changes approximately every 10 minutes."
   parameters:
   - description: "name of the resource group within the Azure subscription."
     name: "resourceGroupName"

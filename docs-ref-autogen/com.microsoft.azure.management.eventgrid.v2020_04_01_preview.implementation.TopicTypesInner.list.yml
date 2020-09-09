@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.list()"
   name: "list()"
   nameWithType: "TopicTypesInner.list()"
-  summary: "List topic types.\n List all registered topic types."
+  summary: "List topic types. List all registered topic types."
   syntax: "public List<TopicTypeInfoInner> list()"
   returns:
     description: "the List&lt;TopicTypeInfoInner&gt; object if successful."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccountUpdateParameters.withSku(SkuInner sku)"
   name: "withSku(SkuInner sku)"
   nameWithType: "StorageAccountUpdateParameters.withSku(SkuInner sku)"
-  summary: "Set gets or sets the SKU name. Note that the SKU name cannot be updated to Standard_ZRS, Premium_LRS or Premium_ZRS, nor can accounts of those SKU names be updated to any other value."
+  summary: "Set gets or sets the SKU name. Note that the SKU name cannot be updated to Standard\\_ZRS, Premium\\_LRS or Premium\\_ZRS, nor can accounts of those SKU names be updated to any other value."
   parameters:
   - description: "the sku value to set"
     name: "sku"

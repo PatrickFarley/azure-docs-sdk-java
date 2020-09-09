@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigInner.requestTracingEnabled()"
   name: "requestTracingEnabled()"
   nameWithType: "SiteConfigInner.requestTracingEnabled()"
-  summary: "Get the requestTracingEnabled property: &lt;code&gt;true&lt;/code&gt; if request tracing is enabled; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the requestTracingEnabled property: <code>true</code> if request tracing is enabled; otherwise, <code>false</code>."
   syntax: "public Boolean requestTracingEnabled()"
   returns:
     description: "the requestTracingEnabled value."

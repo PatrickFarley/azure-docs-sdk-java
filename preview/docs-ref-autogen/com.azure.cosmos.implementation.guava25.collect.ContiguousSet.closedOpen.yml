@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ContiguousSet<C>.closedOpen(int lower, int upper)"
   name: "closedOpen(int lower, int upper)"
   nameWithType: "ContiguousSet<C>.closedOpen(int lower, int upper)"
-  summary: "Returns a contiguous set containing all <code>int</code> values from <code>lower</code> (inclusive) to\n <code>upper</code> (exclusive). If the endpoints are equal, an empty set is returned. (These are the\n same values contained in <code>Range.closedOpen(lower, upper)</code>.)"
+  summary: "Returns a contiguous set containing all `int` values from `lower` (inclusive) to `upper` (exclusive). If the endpoints are equal, an empty set is returned. (These are the same values contained in `Range.closedOpen(lower, upper)`.)"
   parameters:
   - name: "lower"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ContiguousSet<C>.closedOpen(long lower, long upper)"
   name: "closedOpen(long lower, long upper)"
   nameWithType: "ContiguousSet<C>.closedOpen(long lower, long upper)"
-  summary: "Returns a contiguous set containing all <code>long</code> values from <code>lower</code> (inclusive) to\n <code>upper</code> (exclusive). If the endpoints are equal, an empty set is returned. (These are the\n same values contained in <code>Range.closedOpen(lower, upper)</code>.)"
+  summary: "Returns a contiguous set containing all `long` values from `lower` (inclusive) to `upper` (exclusive). If the endpoints are equal, an empty set is returned. (These are the same values contained in `Range.closedOpen(lower, upper)`.)"
   parameters:
   - name: "lower"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

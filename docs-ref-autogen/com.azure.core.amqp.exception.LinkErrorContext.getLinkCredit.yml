@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.exception.LinkErrorContext.getLinkCredit()"
   name: "getLinkCredit()"
   nameWithType: "LinkErrorContext.getLinkCredit()"
-  summary: "Gets the number of credits on the link when the error occurred. Can be <code>null</code> if the link is not opened."
+  summary: "Gets the number of credits on the link when the error occurred. Can be `null` if the link is not opened."
   syntax: "public Integer getLinkCredit()"
   returns:
     description: "The number of credits on the link when the error occurred."

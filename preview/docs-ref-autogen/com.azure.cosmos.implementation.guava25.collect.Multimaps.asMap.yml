@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multimaps.<K,V>asMap(ListMultimap<K,V> multimap)"
   name: "<K,V>asMap(ListMultimap<K,V> multimap)"
   nameWithType: "Multimaps.<K,V>asMap(ListMultimap<K,V> multimap)"
-  summary: "Returns <xref uid=\"ListMultimap#asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>, with its type corrected from <code>Map<K,\n Collection<V>></code> to <code>Map<K, List<V>></code>."
+  summary: "Returns <xref uid=\"com.azure.cosmos.implementation.guava25.collect.ListMultimap.asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>, with its type corrected from `Map>` to `Map>`."
   parameters:
   - name: "multimap"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.ListMultimap?alt=com.azure.cosmos.implementation.guava25.collect.ListMultimap&text=ListMultimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multimaps.<K,V>asMap(Multimap<K,V> multimap)"
   name: "<K,V>asMap(Multimap<K,V> multimap)"
   nameWithType: "Multimaps.<K,V>asMap(Multimap<K,V> multimap)"
-  summary: "Returns <xref uid=\"Multimap#asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>. This is provided for parity with the other\n more strongly-typed <code>asMap()</code> implementations."
+  summary: "Returns <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Multimap.asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>. This is provided for parity with the other more strongly-typed `asMap()` implementations."
   parameters:
   - name: "multimap"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Multimap?alt=com.azure.cosmos.implementation.guava25.collect.Multimap&text=Multimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multimaps.<K,V>asMap(SetMultimap<K,V> multimap)"
   name: "<K,V>asMap(SetMultimap<K,V> multimap)"
   nameWithType: "Multimaps.<K,V>asMap(SetMultimap<K,V> multimap)"
-  summary: "Returns <xref uid=\"SetMultimap#asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>, with its type corrected from <code>Map<K,\n Collection<V>></code> to <code>Map<K, Set<V>></code>."
+  summary: "Returns <xref uid=\"com.azure.cosmos.implementation.guava25.collect.SetMultimap.asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>, with its type corrected from `Map>` to `Map>`."
   parameters:
   - name: "multimap"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.SetMultimap?alt=com.azure.cosmos.implementation.guava25.collect.SetMultimap&text=SetMultimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -41,7 +41,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multimaps.<K,V>asMap(SortedSetMultimap<K,V> multimap)"
   name: "<K,V>asMap(SortedSetMultimap<K,V> multimap)"
   nameWithType: "Multimaps.<K,V>asMap(SortedSetMultimap<K,V> multimap)"
-  summary: "Returns <xref uid=\"SortedSetMultimap#asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>, with its type corrected from <code>\n Map<K, Collection<V>></code> to <code>Map<K, SortedSet<V>></code>."
+  summary: "Returns <xref uid=\"com.azure.cosmos.implementation.guava25.collect.SortedSetMultimap.asMap\" data-throw-if-not-resolved=\"false\">multimap.asMap()</xref>, with its type corrected from `Map>` to `Map>`."
   parameters:
   - name: "multimap"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.SortedSetMultimap?alt=com.azure.cosmos.implementation.guava25.collect.SortedSetMultimap&text=SortedSetMultimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"

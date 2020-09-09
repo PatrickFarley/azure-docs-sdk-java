@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table<R,C,V>.containsRow(Object rowKey)"
   name: "containsRow(Object rowKey)"
   nameWithType: "Table<R,C,V>.containsRow(Object rowKey)"
-  summary: "Returns <code>true</code> if the table contains a mapping with the specified row key."
+  summary: "Returns `true` if the table contains a mapping with the specified row key."
   parameters:
   - description: "key of row to search for"
     name: "rowKey"

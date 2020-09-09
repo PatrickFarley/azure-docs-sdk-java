@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.getAsync(String topicTypeName)"
   name: "getAsync(String topicTypeName)"
   nameWithType: "TopicTypesInner.getAsync(String topicTypeName)"
-  summary: "Get a topic type.\n Get information about a topic type."
+  summary: "Get a topic type. Get information about a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.getAsync(String topicTypeName, ServiceCallback<TopicTypeInfoInner> serviceCallback)"
   name: "getAsync(String topicTypeName, ServiceCallback<TopicTypeInfoInner> serviceCallback)"
   nameWithType: "TopicTypesInner.getAsync(String topicTypeName, ServiceCallback<TopicTypeInfoInner> serviceCallback)"
-  summary: "Get a topic type.\n Get information about a topic type."
+  summary: "Get a topic type. Get information about a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"

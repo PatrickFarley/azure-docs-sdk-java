@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.NetworkRuleSet.bypass()"
   name: "bypass()"
   nameWithType: "NetworkRuleSet.bypass()"
-  summary: "Get the bypass property: Tells what traffic can bypass network rules. This can be 'AzureServices' or 'None'. If\n not specified the default is 'AzureServices'."
+  summary: "Get the bypass property: Tells what traffic can bypass network rules. This can be 'AzureServices' or 'None'. If not specified the default is 'AzureServices'."
   syntax: "public NetworkRuleBypassOptions bypass()"
   returns:
     description: "the bypass value."

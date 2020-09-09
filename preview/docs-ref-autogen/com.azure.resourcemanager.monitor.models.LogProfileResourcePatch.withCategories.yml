@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.LogProfileResourcePatch.withCategories(List<String> categories)"
   name: "withCategories(List<String> categories)"
   nameWithType: "LogProfileResourcePatch.withCategories(List<String> categories)"
-  summary: "Set the categories property: the categories of the logs. These categories are created as is convenient to the\n user. Some values are: 'Write', 'Delete', and/or 'Action.'."
+  summary: "Set the categories property: the categories of the logs. These categories are created as is convenient to the user. Some values are: 'Write', 'Delete', and/or 'Action.'."
   parameters:
   - description: "the categories value to set."
     name: "categories"

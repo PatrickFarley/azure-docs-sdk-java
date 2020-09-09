@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.ResourceNameAvailabilityInner.withNameAvailable(Boolean nameAvailable)"
   name: "withNameAvailable(Boolean nameAvailable)"
   nameWithType: "ResourceNameAvailabilityInner.withNameAvailable(Boolean nameAvailable)"
-  summary: "Set the nameAvailable property: &lt;code&gt;true&lt;/code&gt; indicates name is valid and available.\n &lt;code&gt;false&lt;/code&gt; indicates the name is invalid, unavailable, or both."
+  summary: "Set the nameAvailable property: <code>true</code> indicates name is valid and available. <code>false</code> indicates the name is invalid, unavailable, or both."
   parameters:
   - description: "the nameAvailable value to set."
     name: "nameAvailable"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ManagedClusterAgentPoolProfileProperties.withOsDiskSizeGB(Integer osDiskSizeGB)"
   name: "withOsDiskSizeGB(Integer osDiskSizeGB)"
   nameWithType: "ManagedClusterAgentPoolProfileProperties.withOsDiskSizeGB(Integer osDiskSizeGB)"
-  summary: "Set the osDiskSizeGB property: OS Disk Size in GB to be used to specify the disk size for every machine in this\n master/agent pool. If you specify 0, it will apply the default osDisk size according to the vmSize specified."
+  summary: "Set the osDiskSizeGB property: OS Disk Size in GB to be used to specify the disk size for every machine in this master/agent pool. If you specify 0, it will apply the default osDisk size according to the vmSize specified."
   parameters:
   - description: "the osDiskSizeGB value to set."
     name: "osDiskSizeGB"

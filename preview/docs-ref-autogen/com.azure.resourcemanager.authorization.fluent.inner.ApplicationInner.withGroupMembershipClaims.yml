@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.withGroupMembershipClaims(GroupMembershipClaimTypes groupMembershipClaims)"
   name: "withGroupMembershipClaims(GroupMembershipClaimTypes groupMembershipClaims)"
   nameWithType: "ApplicationInner.withGroupMembershipClaims(GroupMembershipClaimTypes groupMembershipClaims)"
-  summary: "Set the groupMembershipClaims property: Configures the groups claim issued in a user or OAuth 2.0 access token\n that the app expects."
+  summary: "Set the groupMembershipClaims property: Configures the groups claim issued in a user or OAuth 2.0 access token that the app expects."
   parameters:
   - description: "the groupMembershipClaims value to set."
     name: "groupMembershipClaims"

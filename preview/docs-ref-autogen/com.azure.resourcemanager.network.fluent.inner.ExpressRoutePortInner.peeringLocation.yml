@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRoutePortInner.peeringLocation()"
   name: "peeringLocation()"
   nameWithType: "ExpressRoutePortInner.peeringLocation()"
-  summary: "Get the peeringLocation property: The name of the peering location that the ExpressRoutePort is mapped to\n physically."
+  summary: "Get the peeringLocation property: The name of the peering location that the ExpressRoutePort is mapped to physically."
   syntax: "public String peeringLocation()"
   returns:
     description: "the peeringLocation value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.IterableStream<T>.iterator()"
   name: "iterator()"
   nameWithType: "IterableStream<T>.iterator()"
-  summary: "Utility function to provide <xref uid=\"Iterator\" data-throw-if-not-resolved=\"false\">Iterator</xref> of value <code>T</code>.\n It will provide same collection of <code>T</code> values if called multiple times."
+  summary: "Utility function to provide <xref uid=\"java.util.Iterator\" data-throw-if-not-resolved=\"false\">Iterator</xref> of value `T`. It will provide same collection of `T` values if called multiple times."
   syntax: "public Iterator<T> iterator()"
   returns:
     description: "<xref uid=\"java.util.Iterator\" data-throw-if-not-resolved=\"false\">Iterator</xref> of value <code>T</code>."

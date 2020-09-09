@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress._rnd"
   name: "_rnd"
   nameWithType: "EthernetAddress._rnd"
-  summary: "We may need a random number generator, for creating dummy ethernet\n address if no real interface is found."
+  summary: "We may need a random number generator, for creating dummy ethernet address if no real interface is found."
   syntax: "protected static Random _rnd"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.complete(UUID lockToken)"
   name: "complete(UUID lockToken)"
   nameWithType: "IMessageReceiver.complete(UUID lockToken)"
-  summary: "Completes a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
+  summary: "Completes a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -23,7 +23,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.complete(UUID lockToken, TransactionContext transaction)"
   name: "complete(UUID lockToken, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.complete(UUID lockToken, TransactionContext transaction)"
-  summary: "Completes a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
+  summary: "Completes a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"

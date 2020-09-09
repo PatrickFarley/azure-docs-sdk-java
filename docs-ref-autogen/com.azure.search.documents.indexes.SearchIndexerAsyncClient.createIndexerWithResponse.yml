@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.createIndexerWithResponse(SearchIndexer indexer)"
   name: "createIndexerWithResponse(SearchIndexer indexer)"
   nameWithType: "SearchIndexerAsyncClient.createIndexerWithResponse(SearchIndexer indexer)"
-  summary: "Creates a new Azure Cognitive Search indexer.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Create search indexer named \"searchIndexer\". </p>\n\n <pre>\n SearchIndexer searchIndexer = new SearchIndexer&#40;&quot;searchIndexer&quot;, &quot;dataSource&quot;,\n     &quot;searchIndex&quot;&#41;;\n searchIndexerAsyncClient.createIndexerWithResponse&#40;searchIndexer&#41;\n     .subscribe&#40;indexerFromServiceResponse -&gt;\n         System.out.printf&#40;&quot;The status code of the response is %s. The indexer name is %s.%n&quot;,\n             indexerFromServiceResponse.getStatusCode&#40;&#41;, indexerFromServiceResponse.getValue&#40;&#41;.getName&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a new Azure Cognitive Search indexer.\n\n**Code Sample**\n\nCreate search indexer named \"searchIndexer\".\n\n```java\nSearchIndexer searchIndexer = new SearchIndexer(\"searchIndexer\", \"dataSource\",\n     \"searchIndex\");\n searchIndexerAsyncClient.createIndexerWithResponse(searchIndexer)\n     .subscribe(indexerFromServiceResponse ->\n         System.out.printf(\"The status code of the response is %s. The indexer name is %s.%n\",\n             indexerFromServiceResponse.getStatusCode(), indexerFromServiceResponse.getValue().getName()));\n```"
   parameters:
   - description: "definition of the indexer to create"
     name: "indexer"

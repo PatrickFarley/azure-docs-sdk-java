@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ArrayListMultimap<K,V>.trimToSize()"
   name: "trimToSize()"
   nameWithType: "ArrayListMultimap<K,V>.trimToSize()"
-  summary: "Reduces the memory used by this <code>ArrayListMultimap</code>, if feasible."
+  summary: "Reduces the memory used by this `ArrayListMultimap`, if feasible."
   syntax: "public void trimToSize()"
 type: "method"
 metadata: {}

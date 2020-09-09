@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NextHopParameters.withTargetResourceId(String targetResourceId)"
   name: "withTargetResourceId(String targetResourceId)"
   nameWithType: "NextHopParameters.withTargetResourceId(String targetResourceId)"
-  summary: "Set the targetResourceId property: The resource identifier of the target resource against which the action is to\n be performed."
+  summary: "Set the targetResourceId property: The resource identifier of the target resource against which the action is to be performed."
   parameters:
   - description: "the targetResourceId value to set."
     name: "targetResourceId"

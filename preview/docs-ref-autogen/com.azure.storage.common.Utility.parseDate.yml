@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.Utility.parseDate(String dateString)"
   name: "parseDate(String dateString)"
   nameWithType: "Utility.parseDate(String dateString)"
-  summary: "Given a String representing a date in a form of the ISO8601 pattern, generates a Date representing it with up to\n millisecond precision."
+  summary: "Given a String representing a date in a form of the ISO8601 pattern, generates a Date representing it with up to millisecond precision."
   parameters:
   - description: "the <code>String</code> to be interpreted as a <code>Date</code>"
     name: "dateString"

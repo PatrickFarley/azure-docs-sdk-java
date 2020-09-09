@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.appconfiguration.ConfigurationAsyncClient.getConfigurationSetting(String key, String label)"
   name: "getConfigurationSetting(String key, String label)"
   nameWithType: "ConfigurationAsyncClient.getConfigurationSetting(String key, String label)"
-  summary: "Attempts to get a ConfigurationSetting that matches the <code>key</code>, and the optional <code>label</code> combination.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Retrieve the setting with the key \"prodDBConnection\".</p>\n\n <pre>\n client.getConfigurationSetting&#40;&quot;prodDBConnection&quot;, null&#41;\n     .subscriberContext&#40;Context.of&#40;key1, value1, key2, value2&#41;&#41;\n     .subscribe&#40;response -&gt; System.out.printf&#40;&quot;Key: %s, Label: %s, Value: %s&quot;,\n         response.getKey&#40;&#41;, response.getLabel&#40;&#41;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Attempts to get a ConfigurationSetting that matches the `key`, and the optional `label` combination.\n\n**Code Samples**\n\nRetrieve the setting with the key \"prodDBConnection\".\n\n```java\nclient.getConfigurationSetting(\"prodDBConnection\", null)\n     .subscriberContext(Context.of(key1, value1, key2, value2))\n     .subscribe(response -> System.out.printf(\"Key: %s, Label: %s, Value: %s\",\n         response.getKey(), response.getLabel(), response.getValue()));\n```"
   parameters:
   - description: "The key of the setting to retrieve."
     name: "key"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.data.appconfiguration.ConfigurationAsyncClient.getConfigurationSetting(String key, String label, OffsetDateTime acceptDateTime)"
   name: "getConfigurationSetting(String key, String label, OffsetDateTime acceptDateTime)"
   nameWithType: "ConfigurationAsyncClient.getConfigurationSetting(String key, String label, OffsetDateTime acceptDateTime)"
-  summary: "Attempts to get a ConfigurationSetting that matches the <code>key</code>, the optional <code>label</code>, and the optional\n <code>acceptDateTime</code> combination.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Retrieve the setting with the key \"prodDBConnection\" and a time that one minute before now at UTC-Zone</p>\n\n <pre>\n client.getConfigurationSetting&#40;\n     &quot;prodDBConnection&quot;, null, OffsetDateTime.now&#40;ZoneOffset.UTC&#41;.minusMinutes&#40;1&#41;&#41;\n     .subscriberContext&#40;Context.of&#40;key1, value1, key2, value2&#41;&#41;\n     .subscribe&#40;response -&gt; System.out.printf&#40;&quot;Key: %s, Label: %s, Value: %s&quot;,\n         response.getKey&#40;&#41;, response.getLabel&#40;&#41;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Attempts to get a ConfigurationSetting that matches the `key`, the optional `label`, and the optional `acceptDateTime` combination.\n\n**Code Samples**\n\nRetrieve the setting with the key \"prodDBConnection\" and a time that one minute before now at UTC-Zone\n\n```java\nclient.getConfigurationSetting(\n     \"prodDBConnection\", null, OffsetDateTime.now(ZoneOffset.UTC).minusMinutes(1))\n     .subscriberContext(Context.of(key1, value1, key2, value2))\n     .subscribe(response -> System.out.printf(\"Key: %s, Label: %s, Value: %s\",\n         response.getKey(), response.getLabel(), response.getValue()));\n```"
   parameters:
   - description: "The key of the setting to retrieve."
     name: "key"

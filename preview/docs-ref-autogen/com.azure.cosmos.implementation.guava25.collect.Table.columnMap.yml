@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table<R,C,V>.columnMap()"
   name: "columnMap()"
   nameWithType: "Table<R,C,V>.columnMap()"
-  summary: "Returns a view that associates each column key with the corresponding map from row keys to\n values. Changes to the returned map will update this table. The returned map does not support\n <code>put()</code> or <code>putAll()</code>, or <code>setValue()</code> on its entries.\n\n <p>In contrast, the maps returned by <code>columnMap().get()</code> have the same behavior as those\n returned by <xref uid=\"#column\" data-throw-if-not-resolved=\"false\">#column</xref>. Those maps may support <code>setValue()</code>, <code>put()</code>, and\n <code>putAll()</code>."
+  summary: "Returns a view that associates each column key with the corresponding map from row keys to values. Changes to the returned map will update this table. The returned map does not support `put()` or `putAll()`, or `setValue()` on its entries.\n\nIn contrast, the maps returned by `columnMap().get()` have the same behavior as those returned by <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Table.column\" data-throw-if-not-resolved=\"false\">#column</xref>. Those maps may support `setValue()`, `put()`, and `putAll()`."
   syntax: "public abstract Map<C,Map<R,V>> columnMap()"
   returns:
     description: "a map view from each column key to a secondary map from row keys to values"

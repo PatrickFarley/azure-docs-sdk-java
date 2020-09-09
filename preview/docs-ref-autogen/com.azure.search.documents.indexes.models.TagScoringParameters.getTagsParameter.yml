@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TagScoringParameters.getTagsParameter()"
   name: "getTagsParameter()"
   nameWithType: "TagScoringParameters.getTagsParameter()"
-  summary: "Get the tagsParameter property: The name of the parameter passed in\n search queries to specify the list of tags to compare against the target\n field."
+  summary: "Get the tagsParameter property: The name of the parameter passed in search queries to specify the list of tags to compare against the target field."
   syntax: "public String getTagsParameter()"
   returns:
     description: "the tagsParameter value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.MetricAlertResourcePatch.severity()"
   name: "severity()"
   nameWithType: "MetricAlertResourcePatch.severity()"
-  summary: "Get alert severity {0, 1, 2, 3, 4}."
+  summary: "Get alert severity \\{0, 1, 2, 3, 4\\}."
   syntax: "public int severity()"
   returns:
     description: "the severity value"

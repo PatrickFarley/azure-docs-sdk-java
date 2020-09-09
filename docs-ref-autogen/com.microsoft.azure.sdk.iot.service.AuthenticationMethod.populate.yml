@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.AuthenticationMethod.populate(IotHubConnectionString iotHubConnectionStringBuilder)"
   name: "populate(IotHubConnectionString iotHubConnectionStringBuilder)"
   nameWithType: "AuthenticationMethod.populate(IotHubConnectionString iotHubConnectionStringBuilder)"
-  summary: "Abstract helper function to populate <code>IotHubConnectionString</code> class with\n proper authentication properties"
+  summary: "Abstract helper function to populate `IotHubConnectionString` class with proper authentication properties"
   parameters:
   - description: "The <xref uid=\"com.microsoft.azure.sdk.iot.service.IotHubConnectionString\" data-throw-if-not-resolved=\"false\">IotHubConnectionString</xref> that is\n                                       to be populated with the authentication\n                                       properties."
     name: "iotHubConnectionStringBuilder"

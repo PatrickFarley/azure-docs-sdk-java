@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccount.UpdateStages.WithNetworkAccess.withoutReadAccessToLoggingFromAnyNetwork()"
   name: "withoutReadAccessToLoggingFromAnyNetwork()"
   nameWithType: "StorageAccount.UpdateStages.WithNetworkAccess.withoutReadAccessToLoggingFromAnyNetwork()"
-  summary: "Specifies that previously added read access exception to the storage logging from any network\n should be removed."
+  summary: "Specifies that previously added read access exception to the storage logging from any network should be removed."
   syntax: "public abstract StorageAccount.Update withoutReadAccessToLoggingFromAnyNetwork()"
   returns:
     description: "the next stage of storage account update"

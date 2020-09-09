@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetIpConfiguration.withPrimary(Boolean primary)"
   name: "withPrimary(Boolean primary)"
   nameWithType: "VirtualMachineScaleSetIpConfiguration.withPrimary(Boolean primary)"
-  summary: "Set the primary property: Specifies the primary network interface in case the virtual machine has more than 1\n network interface."
+  summary: "Set the primary property: Specifies the primary network interface in case the virtual machine has more than 1 network interface."
   parameters:
   - description: "the primary value to set."
     name: "primary"

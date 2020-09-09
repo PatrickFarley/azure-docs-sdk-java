@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.EntityCategory.fromString(String name)"
   name: "fromString(String name)"
   nameWithType: "EntityCategory.fromString(String name)"
-  summary: "Creates or finds a <xref uid=\"EntityCategory\" data-throw-if-not-resolved=\"false\">EntityCategory</xref> from its string representation."
+  summary: "Creates or finds a <xref uid=\"com.azure.ai.textanalytics.models.EntityCategory\" data-throw-if-not-resolved=\"false\">EntityCategory</xref> from its string representation."
   parameters:
   - description: "The string name to look for."
     name: "name"

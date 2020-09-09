@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Longs.contains(long[] array, long target)"
   name: "contains(long[] array, long target)"
   nameWithType: "Longs.contains(long[] array, long target)"
-  summary: "Returns <code>true</code> if <code>target</code> is present as an element anywhere in <code>array</code>."
+  summary: "Returns `true` if `target` is present as an element anywhere in `array`."
   parameters:
   - description: "an array of <code>long</code> values, possibly empty"
     name: "array"

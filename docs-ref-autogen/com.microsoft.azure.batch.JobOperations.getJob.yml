@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.getJob(String jobId)"
   name: "getJob(String jobId)"
   nameWithType: "JobOperations.getJob(String jobId)"
-  summary: "Gets the specified <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">CloudJob</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">CloudJob</xref>."
   parameters:
   - description: "The ID of the job to get."
     name: "jobId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.getJob(String jobId, DetailLevel detailLevel)"
   name: "getJob(String jobId, DetailLevel detailLevel)"
   nameWithType: "JobOperations.getJob(String jobId, DetailLevel detailLevel)"
-  summary: "Gets the specified <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">CloudJob</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">CloudJob</xref>."
   parameters:
   - description: "The ID of the job to get."
     name: "jobId"
@@ -47,7 +47,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.getJob(String jobId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "getJob(String jobId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobOperations.getJob(String jobId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Gets the specified <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">CloudJob</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">CloudJob</xref>."
   parameters:
   - description: "The ID of the job to get."
     name: "jobId"

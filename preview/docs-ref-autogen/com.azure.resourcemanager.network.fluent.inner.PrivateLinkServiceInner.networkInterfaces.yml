@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PrivateLinkServiceInner.networkInterfaces()"
   name: "networkInterfaces()"
   nameWithType: "PrivateLinkServiceInner.networkInterfaces()"
-  summary: "Get the networkInterfaces property: Gets an array of references to the network interfaces created for this\n private link service."
+  summary: "Get the networkInterfaces property: Gets an array of references to the network interfaces created for this private link service."
   syntax: "public List<NetworkInterfaceInner> networkInterfaces()"
   returns:
     description: "the networkInterfaces value."

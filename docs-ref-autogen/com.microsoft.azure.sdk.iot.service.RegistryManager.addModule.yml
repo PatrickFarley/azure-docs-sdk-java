@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.RegistryManager.addModule(Module module)"
   name: "addModule(Module module)"
   nameWithType: "RegistryManager.addModule(Module module)"
-  summary: "Add module using the given Module object\n Return with the response module object from IotHub"
+  summary: "Add module using the given Module object Return with the response module object from IotHub"
   parameters:
   - description: "The module object to add"
     name: "module"

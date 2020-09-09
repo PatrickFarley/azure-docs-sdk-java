@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.getFullyQualifiedNamespace()"
   name: "getFullyQualifiedNamespace()"
   nameWithType: "ServiceBusReceiverClient.getFullyQualifiedNamespace()"
-  summary: "Gets the fully qualified Service Bus namespace that the connection is associated with. This is likely similar to\n <code>{yournamespace}.servicebus.windows.net</code>."
+  summary: "Gets the fully qualified Service Bus namespace that the connection is associated with. This is likely similar to `{yournamespace}.servicebus.windows.net`."
   syntax: "public String getFullyQualifiedNamespace()"
   returns:
     description: "The fully qualified Service Bus namespace that the connection is associated with."

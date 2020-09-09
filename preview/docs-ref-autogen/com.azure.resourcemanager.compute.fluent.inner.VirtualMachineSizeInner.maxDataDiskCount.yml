@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineSizeInner.maxDataDiskCount()"
   name: "maxDataDiskCount()"
   nameWithType: "VirtualMachineSizeInner.maxDataDiskCount()"
-  summary: "Get the maxDataDiskCount property: The maximum number of data disks that can be attached to the virtual machine\n size."
+  summary: "Get the maxDataDiskCount property: The maximum number of data disks that can be attached to the virtual machine size."
   syntax: "public Integer maxDataDiskCount()"
   returns:
     description: "the maxDataDiskCount value."

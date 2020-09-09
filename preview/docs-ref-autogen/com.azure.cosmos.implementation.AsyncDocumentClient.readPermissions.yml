@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.readPermissions(String permissionLink, CosmosQueryRequestOptions options)"
   name: "readPermissions(String permissionLink, CosmosQueryRequestOptions options)"
   nameWithType: "AsyncDocumentClient.readPermissions(String permissionLink, CosmosQueryRequestOptions options)"
-  summary: "Reads all permissions.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the read permissions.\n In case of failure the <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
+  summary: "Reads all permissions.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the read permissions. In case of failure the <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
   parameters:
   - description: "the permission link."
     name: "permissionLink"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.toArray(Class<E> type)"
   name: "toArray(Class<E> type)"
   nameWithType: "FluentIterable<E>.toArray(Class<E> type)"
-  summary: "Returns an array containing all of the elements from this fluent iterable in iteration order.\n\n <p><b><code>Stream</code> equivalent:</b> if an object array is acceptable, use <code>\n stream.toArray()</code>; if <code>type</code> is a class literal such as <code>MyType.class</code>, use <code>\n stream.toArray(MyType[]::new)</code>. Otherwise use <code>stream.toArray( len -> (E[])\n Array.newInstance(type, len))</code>."
+  summary: "Returns an array containing all of the elements from this fluent iterable in iteration order.\n\n**`Stream` equivalent:** if an object array is acceptable, use `stream.toArray()`; if `type` is a class literal such as `MyType.class`, use `stream.toArray(MyType[]::new)`. Otherwise use `stream.toArray( len -> (E[]) Array.newInstance(type, len))`."
   parameters:
   - description: "the type of the elements"
     name: "type"

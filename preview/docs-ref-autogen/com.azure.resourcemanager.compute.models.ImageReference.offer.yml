@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageReference.offer()"
   name: "offer()"
   nameWithType: "ImageReference.offer()"
-  summary: "Get the offer property: Specifies the offer of the platform image or marketplace image used to create the virtual\n machine."
+  summary: "Get the offer property: Specifies the offer of the platform image or marketplace image used to create the virtual machine."
   syntax: "public String offer()"
   returns:
     description: "the offer value."

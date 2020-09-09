@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.on(char separator)"
   name: "on(char separator)"
   nameWithType: "Splitter.on(char separator)"
-  summary: "Returns a splitter that uses the given single-character separator. For example, <code>\n Splitter.on(',').split(\"foo,,bar\")</code> returns an iterable containing <code>[\"foo\", \"\", \"bar\"]</code>."
+  summary: "Returns a splitter that uses the given single-character separator. For example, `Splitter.on(',').split(\"foo,,bar\")` returns an iterable containing `[\"foo\", \"\", \"bar\"]`."
   parameters:
   - description: "the character to recognize as a separator"
     name: "separator"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.on(CharMatcher separatorMatcher)"
   name: "on(CharMatcher separatorMatcher)"
   nameWithType: "Splitter.on(CharMatcher separatorMatcher)"
-  summary: "Returns a splitter that considers any single character matched by the given <code>CharMatcher</code>\n to be a separator. For example, <code>\n Splitter.on(CharMatcher.anyOf(\";,\")).split(\"foo,;bar,quux\")</code> returns an iterable containing\n <code>[\"foo\", \"\", \"bar\", \"quux\"]</code>."
+  summary: "Returns a splitter that considers any single character matched by the given `CharMatcher` to be a separator. For example, `Splitter.on(CharMatcher.anyOf(\";,\")).split(\"foo,;bar,quux\")` returns an iterable containing `[\"foo\", \"\", \"bar\", \"quux\"]`."
   parameters:
   - description: "a <xref uid=\"com.azure.cosmos.implementation.guava25.base.CharMatcher\" data-throw-if-not-resolved=\"false\">CharMatcher</xref> that determines whether a character is a\n     separator"
     name: "separatorMatcher"
@@ -34,7 +34,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.on(String separator)"
   name: "on(String separator)"
   nameWithType: "Splitter.on(String separator)"
-  summary: "Returns a splitter that uses the given fixed string as a separator. For example, <code>\n Splitter.on(\", \").split(\"foo, bar,baz\")</code> returns an iterable containing <code>[\"foo\",\n \"bar,baz\"]</code>."
+  summary: "Returns a splitter that uses the given fixed string as a separator. For example, `Splitter.on(\", \").split(\"foo, bar,baz\")` returns an iterable containing `[\"foo\", \"bar,baz\"]`."
   parameters:
   - description: "the literal, nonempty string to recognize as a separator"
     name: "separator"
@@ -47,7 +47,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.on(Pattern separatorPattern)"
   name: "on(Pattern separatorPattern)"
   nameWithType: "Splitter.on(Pattern separatorPattern)"
-  summary: "Returns a splitter that considers any subsequence matching <code>pattern</code> to be a separator.\n For example, <code>Splitter.on(Pattern.compile(\"\\r?\\n\")).split(entireFile)</code> splits a string\n into lines whether it uses DOS-style or UNIX-style line terminators."
+  summary: "Returns a splitter that considers any subsequence matching `pattern` to be a separator. For example, `Splitter.on(Pattern.compile(\"\\r?\\n\")).split(entireFile)` splits a string into lines whether it uses DOS-style or UNIX-style line terminators."
   parameters:
   - description: "the pattern that determines whether a subsequence is a separator. This\n     pattern may not match the empty string."
     name: "separatorPattern"

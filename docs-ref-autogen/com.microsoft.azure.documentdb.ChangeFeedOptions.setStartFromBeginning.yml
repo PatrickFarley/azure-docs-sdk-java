@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ChangeFeedOptions.setStartFromBeginning(boolean startFromBeginning)"
   name: "setStartFromBeginning(boolean startFromBeginning)"
   nameWithType: "ChangeFeedOptions.setStartFromBeginning(boolean startFromBeginning)"
-  summary: "Set whether change feed should start from beginning (true) or from current (false).\n By default it's start from current (false)."
+  summary: "Set whether change feed should start from beginning (true) or from current (false). By default it's start from current (false)."
   parameters:
   - description: "a boolean value indicating change feed should start from beginning or not"
     name: "startFromBeginning"

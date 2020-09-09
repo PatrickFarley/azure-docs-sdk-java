@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.setETag(String eTag)"
   name: "setETag(String eTag)"
   nameWithType: "ShareFileDownloadHeaders.setETag(String eTag)"
-  summary: "Set the eTag property: The ETag contains a value that you can use to\n perform operations conditionally, in quotes."
+  summary: "Set the eTag property: The ETag contains a value that you can use to perform operations conditionally, in quotes."
   parameters:
   - description: "the eTag value to set."
     name: "eTag"

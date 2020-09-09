@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.http.HttpHeaders.set(String name, String value)"
   name: "set(String name, String value)"
   nameWithType: "HttpHeaders.set(String name, String value)"
-  summary: "Set a header.\n\n if header with same name already exists then the value will be overwritten.\n if value is null and header with provided name already exists then it will be removed."
+  summary: "Set a header. if header with same name already exists then the value will be overwritten. if value is null and header with provided name already exists then it will be removed."
   parameters:
   - description: "the name"
     name: "name"

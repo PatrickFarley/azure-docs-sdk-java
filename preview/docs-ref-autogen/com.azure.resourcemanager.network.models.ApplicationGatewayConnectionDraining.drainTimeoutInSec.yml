@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayConnectionDraining.drainTimeoutInSec()"
   name: "drainTimeoutInSec()"
   nameWithType: "ApplicationGatewayConnectionDraining.drainTimeoutInSec()"
-  summary: "Get the drainTimeoutInSec property: The number of seconds connection draining is active. Acceptable values are\n from 1 second to 3600 seconds."
+  summary: "Get the drainTimeoutInSec property: The number of seconds connection draining is active. Acceptable values are from 1 second to 3600 seconds."
   syntax: "public int drainTimeoutInSec()"
   returns:
     description: "the drainTimeoutInSec value."

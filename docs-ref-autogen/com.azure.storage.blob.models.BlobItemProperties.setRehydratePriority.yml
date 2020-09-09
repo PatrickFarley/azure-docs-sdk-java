@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.setRehydratePriority(RehydratePriority rehydratePriority)"
   name: "setRehydratePriority(RehydratePriority rehydratePriority)"
   nameWithType: "BlobItemProperties.setRehydratePriority(RehydratePriority rehydratePriority)"
-  summary: "Set the rehydratePriority property: Possible values include: 'High',\n 'Standard'."
+  summary: "Set the rehydratePriority property: Possible values include: 'High', 'Standard'."
   parameters:
   - description: "the rehydratePriority value to set."
     name: "rehydratePriority"

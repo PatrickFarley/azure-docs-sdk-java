@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.escape.Escapers.Builder.setUnsafeReplacement(String unsafeReplacement)"
   name: "setUnsafeReplacement(String unsafeReplacement)"
   nameWithType: "Escapers.Builder.setUnsafeReplacement(String unsafeReplacement)"
-  summary: "Sets the replacement string for any characters outside the 'safe' range that have no explicit\n replacement. If <code>unsafeReplacement</code> is <code>null</code> then no replacement will occur, if\n it is <code>\"\"</code> then the unsafe characters are removed from the output."
+  summary: "Sets the replacement string for any characters outside the 'safe' range that have no explicit replacement. If `unsafeReplacement` is `null` then no replacement will occur, if it is `\"\"` then the unsafe characters are removed from the output."
   parameters:
   - description: "the string to replace unsafe characters"
     name: "unsafeReplacement"

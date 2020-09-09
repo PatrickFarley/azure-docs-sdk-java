@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.AuthorizationServerUpdateContract.withAuthorizationEndpoint(String authorizationEndpoint)"
   name: "withAuthorizationEndpoint(String authorizationEndpoint)"
   nameWithType: "AuthorizationServerUpdateContract.withAuthorizationEndpoint(String authorizationEndpoint)"
-  summary: "Set oAuth authorization endpoint. See http://tools.ietf.org/html/rfc6749#section-3.2."
+  summary: "Set oAuth authorization endpoint. See http://tools.ietf.org/html/rfc6749\\#section-3.2."
   parameters:
   - description: "the authorizationEndpoint value to set"
     name: "authorizationEndpoint"

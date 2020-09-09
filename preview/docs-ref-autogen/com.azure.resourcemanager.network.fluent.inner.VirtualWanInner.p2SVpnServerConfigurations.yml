@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualWanInner.p2SVpnServerConfigurations()"
   name: "p2SVpnServerConfigurations()"
   nameWithType: "VirtualWanInner.p2SVpnServerConfigurations()"
-  summary: "Get the p2SVpnServerConfigurations property: List of all P2SVpnServerConfigurations associated with the virtual\n wan."
+  summary: "Get the p2SVpnServerConfigurations property: List of all P2SVpnServerConfigurations associated with the virtual wan."
   syntax: "public List<P2SVpnServerConfigurationInner> p2SVpnServerConfigurations()"
   returns:
     description: "the p2SVpnServerConfigurations value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SoftDeleteColumnDeletionDetectionPolicy.setSoftDeleteColumnName(String softDeleteColumnName)"
   name: "setSoftDeleteColumnName(String softDeleteColumnName)"
   nameWithType: "SoftDeleteColumnDeletionDetectionPolicy.setSoftDeleteColumnName(String softDeleteColumnName)"
-  summary: "Set the softDeleteColumnName property: The name of the column to use for\n soft-deletion detection."
+  summary: "Set the softDeleteColumnName property: The name of the column to use for soft-deletion detection."
   parameters:
   - description: "the softDeleteColumnName value to set."
     name: "softDeleteColumnName"

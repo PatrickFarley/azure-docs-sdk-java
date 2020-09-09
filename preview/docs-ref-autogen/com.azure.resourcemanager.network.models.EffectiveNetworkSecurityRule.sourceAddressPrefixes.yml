@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.EffectiveNetworkSecurityRule.sourceAddressPrefixes()"
   name: "sourceAddressPrefixes()"
   nameWithType: "EffectiveNetworkSecurityRule.sourceAddressPrefixes()"
-  summary: "Get the sourceAddressPrefixes property: The source address prefixes. Expected values include CIDR IP ranges,\n Default Tags (VirtualNetwork, AzureLoadBalancer, Internet), System Tags, and the asterisk (*)."
+  summary: "Get the sourceAddressPrefixes property: The source address prefixes. Expected values include CIDR IP ranges, Default Tags (VirtualNetwork, AzureLoadBalancer, Internet), System Tags, and the asterisk (\\*)."
   syntax: "public List<String> sourceAddressPrefixes()"
   returns:
     description: "the sourceAddressPrefixes value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.disasterPlanBasedRecommendationServiceLevelObjective()"
   name: "disasterPlanBasedRecommendationServiceLevelObjective()"
   nameWithType: "ServiceTierAdvisorInner.disasterPlanBasedRecommendationServiceLevelObjective()"
-  summary: "Get the disasterPlanBasedRecommendationServiceLevelObjective property: Gets or sets\n disasterPlanBasedRecommendationServiceLevelObjective for service tier advisor."
+  summary: "Get the disasterPlanBasedRecommendationServiceLevelObjective property: Gets or sets disasterPlanBasedRecommendationServiceLevelObjective for service tier advisor."
   syntax: "public String disasterPlanBasedRecommendationServiceLevelObjective()"
   returns:
     description: "the disasterPlanBasedRecommendationServiceLevelObjective value."

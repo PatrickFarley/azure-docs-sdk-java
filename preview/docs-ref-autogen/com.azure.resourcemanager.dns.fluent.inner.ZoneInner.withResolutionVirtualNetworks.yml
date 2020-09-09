@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.fluent.inner.ZoneInner.withResolutionVirtualNetworks(List<SubResource> resolutionVirtualNetworks)"
   name: "withResolutionVirtualNetworks(List<SubResource> resolutionVirtualNetworks)"
   nameWithType: "ZoneInner.withResolutionVirtualNetworks(List<SubResource> resolutionVirtualNetworks)"
-  summary: "Set the resolutionVirtualNetworks property: A list of references to virtual networks that resolve records in this\n DNS zone. This is a only when ZoneType is Private."
+  summary: "Set the resolutionVirtualNetworks property: A list of references to virtual networks that resolve records in this DNS zone. This is a only when ZoneType is Private."
   parameters:
   - description: "the resolutionVirtualNetworks value to set."
     name: "resolutionVirtualNetworks"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.setFileId(String fileId)"
   name: "setFileId(String fileId)"
   nameWithType: "HandleItem.setFileId(String fileId)"
-  summary: "Set the fileId property: FileId uniquely identifies the file or\n directory."
+  summary: "Set the fileId property: FileId uniquely identifies the file or directory."
   parameters:
   - description: "the fileId value to set."
     name: "fileId"

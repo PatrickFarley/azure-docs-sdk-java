@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap<K,V>.asMap()"
   name: "asMap()"
   nameWithType: "ImmutableMultimap<K,V>.asMap()"
-  summary: "Returns an immutable map that associates each key with its corresponding values in the\n multimap. Keys and values appear in the same order as in this multimap."
+  summary: "Returns an immutable map that associates each key with its corresponding values in the multimap. Keys and values appear in the same order as in this multimap."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractMultimap.asMap()"
   syntax: "public ImmutableMap<K,Collection<V>> asMap()"
   returns:

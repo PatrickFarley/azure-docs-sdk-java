@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.UpdateStages.WithPrimaryInternetFacingLoadBalancerBackendOrNatPool.withPrimaryInternetFacingLoadBalancerBackends(String[] backendNames)"
   name: "withPrimaryInternetFacingLoadBalancerBackends(String[] backendNames)"
   nameWithType: "VirtualMachineScaleSet.UpdateStages.WithPrimaryInternetFacingLoadBalancerBackendOrNatPool.withPrimaryInternetFacingLoadBalancerBackends(String[] backendNames)"
-  summary: "Associates the specified Internet-facing load balancer backends with the primary network interface of the\n virtual machines in the scale set."
+  summary: "Associates the specified Internet-facing load balancer backends with the primary network interface of the virtual machines in the scale set."
   parameters:
   - description: "the backend names"
     name: "backendNames"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multisets.containsOccurrences(Multiset<?> superMultiset, Multiset<?> subMultiset)"
   name: "containsOccurrences(Multiset<?> superMultiset, Multiset<?> subMultiset)"
   nameWithType: "Multisets.containsOccurrences(Multiset<?> superMultiset, Multiset<?> subMultiset)"
-  summary: "Returns <code>true</code> if <code>subMultiset.count(o) <= superMultiset.count(o)</code> for all <code>\n o</code>."
+  summary: "Returns `true` if `subMultiset.count(o) <= superMultiset.count(o)` for all `o`."
   parameters:
   - name: "superMultiset"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Multiset?alt=com.azure.cosmos.implementation.guava25.collect.Multiset&text=Multiset\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

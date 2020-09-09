@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleAction.direction()"
   name: "direction()"
   nameWithType: "ScaleAction.direction()"
-  summary: "Get the direction property: the scale direction. Whether the scaling action increases or decreases the number of\n instances."
+  summary: "Get the direction property: the scale direction. Whether the scaling action increases or decreases the number of instances."
   syntax: "public ScaleDirection direction()"
   returns:
     description: "the direction value."

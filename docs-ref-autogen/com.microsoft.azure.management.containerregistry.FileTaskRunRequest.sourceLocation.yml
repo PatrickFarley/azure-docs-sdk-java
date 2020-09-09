@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.FileTaskRunRequest.sourceLocation()"
   name: "sourceLocation()"
   nameWithType: "FileTaskRunRequest.sourceLocation()"
-  summary: "Get the URL(absolute or relative) of the source context. It can be an URL to a tar or git repoistory.\n     If it is relative URL, the relative path should be obtained from calling listBuildSourceUploadUrl API."
+  summary: "Get the URL(absolute or relative) of the source context. It can be an URL to a tar or git repoistory. If it is relative URL, the relative path should be obtained from calling listBuildSourceUploadUrl API."
   syntax: "public String sourceLocation()"
   returns:
     description: "the sourceLocation value"

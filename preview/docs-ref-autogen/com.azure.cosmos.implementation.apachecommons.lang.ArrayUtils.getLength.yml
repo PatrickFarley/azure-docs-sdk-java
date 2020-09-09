@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.ArrayUtils.getLength(Object array)"
   name: "getLength(Object array)"
   nameWithType: "ArrayUtils.getLength(Object array)"
-  summary: "<p>Returns the length of the specified array.\n This method can deal with <code>Object</code> arrays and with primitive arrays.\n\n <p>If the input array is <code>null</code>, <code>0</code> is returned."
+  summary: "Returns the length of the specified array. This method can deal with `Object` arrays and with primitive arrays.\n\nIf the input array is `null`, `0` is returned."
   parameters:
   - description: "the array to retrieve the length from, may be null"
     name: "array"

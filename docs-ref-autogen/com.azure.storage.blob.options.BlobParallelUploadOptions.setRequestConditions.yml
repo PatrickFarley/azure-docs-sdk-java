@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.options.BlobParallelUploadOptions.setRequestConditions(BlobRequestConditions requestConditions)"
   name: "setRequestConditions(BlobRequestConditions requestConditions)"
   nameWithType: "BlobParallelUploadOptions.setRequestConditions(BlobRequestConditions requestConditions)"
-  summary: "Sets the <xref uid=\"BlobRequestConditions\" data-throw-if-not-resolved=\"false\">BlobRequestConditions</xref>."
+  summary: "Sets the <xref uid=\"com.azure.storage.blob.models.BlobRequestConditions\" data-throw-if-not-resolved=\"false\">BlobRequestConditions</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.models.BlobRequestConditions\" data-throw-if-not-resolved=\"false\">BlobRequestConditions</xref>"
     name: "requestConditions"

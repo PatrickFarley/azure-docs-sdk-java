@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobQueryHeaders.getAcceptRanges()"
   name: "getAcceptRanges()"
   nameWithType: "BlobQueryHeaders.getAcceptRanges()"
-  summary: "Get the acceptRanges property: Indicates that the service supports\n requests for partial blob content."
+  summary: "Get the acceptRanges property: Indicates that the service supports requests for partial blob content."
   syntax: "public String getAcceptRanges()"
   returns:
     description: "the acceptRanges value."

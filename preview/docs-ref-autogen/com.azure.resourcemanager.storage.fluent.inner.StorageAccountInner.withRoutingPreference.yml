@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.withRoutingPreference(RoutingPreference routingPreference)"
   name: "withRoutingPreference(RoutingPreference routingPreference)"
   nameWithType: "StorageAccountInner.withRoutingPreference(RoutingPreference routingPreference)"
-  summary: "Set the routingPreference property: Maintains information about the network routing choice opted by the user for\n data transfer."
+  summary: "Set the routingPreference property: Maintains information about the network routing choice opted by the user for data transfer."
   parameters:
   - description: "the routingPreference value to set."
     name: "routingPreference"

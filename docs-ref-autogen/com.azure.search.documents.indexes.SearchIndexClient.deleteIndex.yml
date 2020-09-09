@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.deleteIndex(String indexName)"
   name: "deleteIndex(String indexName)"
   nameWithType: "SearchIndexClient.deleteIndex(String indexName)"
-  summary: "Deletes an Azure Cognitive Search index and all the documents it contains.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete search index with name \"searchIndex\". </p>\n\n <pre>\n searchIndexClient.deleteIndex&#40;&quot;searchIndex&quot;&#41;;\n </pre>"
+  summary: "Deletes an Azure Cognitive Search index and all the documents it contains.\n\n**Code Sample**\n\nDelete search index with name \"searchIndex\".\n\n```java\nsearchIndexClient.deleteIndex(\"searchIndex\");\n```"
   parameters:
   - description: "the name of the index to delete"
     name: "indexName"

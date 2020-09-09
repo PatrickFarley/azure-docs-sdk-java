@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.RegistryManager.addConfiguration(Configuration configuration)"
   name: "addConfiguration(Configuration configuration)"
   nameWithType: "RegistryManager.addConfiguration(Configuration configuration)"
-  summary: "Add configuration using the given Configuration object\n Return with the response configuration object from IotHub"
+  summary: "Add configuration using the given Configuration object Return with the response configuration object from IotHub"
   parameters:
   - description: "The configuration object to add"
     name: "configuration"

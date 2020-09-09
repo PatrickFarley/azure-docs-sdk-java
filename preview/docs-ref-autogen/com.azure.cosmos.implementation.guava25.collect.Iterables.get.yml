@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.<T>get(Iterable<? extends T> iterable, int position, T defaultValue)"
   name: "<T>get(Iterable<? extends T> iterable, int position, T defaultValue)"
   nameWithType: "Iterables.<T>get(Iterable<? extends T> iterable, int position, T defaultValue)"
-  summary: "Returns the element at the specified position in an iterable or a default value otherwise.\n\n <p><b><code>Stream</code> equivalent:</b> <code>\n stream.skip(position).findFirst().orElse(defaultValue)</code> (returns the default value if the index\n is out of bounds)"
+  summary: "Returns the element at the specified position in an iterable or a default value otherwise.\n\n**`Stream` equivalent:** `stream.skip(position).findFirst().orElse(defaultValue)` (returns the default value if the index is out of bounds)"
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends T?alt=? extends T&text=? extends T\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -26,7 +26,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.<T>get(Iterable<T> iterable, int position)"
   name: "<T>get(Iterable<T> iterable, int position)"
   nameWithType: "Iterables.<T>get(Iterable<T> iterable, int position)"
-  summary: "Returns the element at the specified position in an iterable.\n\n <p><b><code>Stream</code> equivalent:</b> <code>stream.skip(position).findFirst().get()</code> (throws\n <code>NoSuchElementException</code> if out of bounds)"
+  summary: "Returns the element at the specified position in an iterable.\n\n**`Stream` equivalent:** `stream.skip(position).findFirst().get()` (throws `NoSuchElementException` if out of bounds)"
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

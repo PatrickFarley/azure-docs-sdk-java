@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.VMInsightsOnboardingStatusInner.resourceId()"
   name: "resourceId()"
   nameWithType: "VMInsightsOnboardingStatusInner.resourceId()"
-  summary: "Get the resourceId property: Azure Resource Manager identifier of the resource whose onboarding status is being\n represented."
+  summary: "Get the resourceId property: Azure Resource Manager identifier of the resource whose onboarding status is being represented."
   syntax: "public String resourceId()"
   returns:
     description: "the resourceId value."

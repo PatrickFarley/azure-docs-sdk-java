@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlServerSecurityAlertPolicyOperations.getById(String id)"
   name: "getById(String id)"
   nameWithType: "SqlServerSecurityAlertPolicyOperations.getById(String id)"
-  summary: "Gets the information about a SQL Server Security Alert Policy resource from Azure SQL server using the resource\n ID."
+  summary: "Gets the information about a SQL Server Security Alert Policy resource from Azure SQL server using the resource ID."
   parameters:
   - description: "the ID of the resource."
     name: "id"

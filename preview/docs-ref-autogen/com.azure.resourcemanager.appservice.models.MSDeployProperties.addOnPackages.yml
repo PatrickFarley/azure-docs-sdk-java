@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.MSDeployProperties.addOnPackages()"
   name: "addOnPackages()"
   nameWithType: "MSDeployProperties.addOnPackages()"
-  summary: "Get the addOnPackages property: List of Add-On packages. Add-On packages implicitly enable the Do Not Delete\n MSDeploy rule."
+  summary: "Get the addOnPackages property: List of Add-On packages. Add-On packages implicitly enable the Do Not Delete MSDeploy rule."
   syntax: "public List<MSDeployCore> addOnPackages()"
   returns:
     description: "the addOnPackages value."

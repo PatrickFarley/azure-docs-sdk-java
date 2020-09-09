@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponseDecoder.decode(ChannelHandlerContext context, ByteBuf in, List<Object> out)"
   name: "decode(ChannelHandlerContext context, ByteBuf in, List<Object> out)"
   nameWithType: "RntbdResponseDecoder.decode(ChannelHandlerContext context, ByteBuf in, List<Object> out)"
-  summary: "Deserialize from an input <xref uid=\"ByteBuf\" data-throw-if-not-resolved=\"false\">ByteBuf</xref> to an <xref uid=\"RntbdResponse\" data-throw-if-not-resolved=\"false\">RntbdResponse</xref> instance.\n <p>\n This method is called till it reads no bytes from the <xref uid=\"ByteBuf\" data-throw-if-not-resolved=\"false\">ByteBuf</xref> or there is no more data to be read."
+  summary: "Deserialize from an input <xref uid=\"io.netty.buffer.ByteBuf\" data-throw-if-not-resolved=\"false\">ByteBuf</xref> to an <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse\" data-throw-if-not-resolved=\"false\">RntbdResponse</xref> instance.\n\nThis method is called till it reads no bytes from the <xref uid=\"io.netty.buffer.ByteBuf\" data-throw-if-not-resolved=\"false\">ByteBuf</xref> or there is no more data to be read."
   overridden: "io.netty.handler.codec.ByteToMessageDecoder.decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List<java.lang.Object>)"
   parameters:
   - description: "the <xref uid=\"io.netty.channel.ChannelHandlerContext\" data-throw-if-not-resolved=\"false\">ChannelHandlerContext</xref> to which this <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponseDecoder\" data-throw-if-not-resolved=\"false\">RntbdResponseDecoder</xref> belongs."

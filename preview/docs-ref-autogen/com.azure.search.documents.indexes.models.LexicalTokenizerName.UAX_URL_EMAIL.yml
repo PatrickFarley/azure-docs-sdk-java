@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LexicalTokenizerName.UAX_URL_EMAIL"
   name: "UAX_URL_EMAIL"
   nameWithType: "LexicalTokenizerName.UAX_URL_EMAIL"
-  summary: "Static value uax_url_email for LexicalTokenizerName."
+  summary: "Static value uax\\_url\\_email for LexicalTokenizerName."
   syntax: "public static final LexicalTokenizerName UAX_URL_EMAIL"
 type: "field"
 metadata: {}

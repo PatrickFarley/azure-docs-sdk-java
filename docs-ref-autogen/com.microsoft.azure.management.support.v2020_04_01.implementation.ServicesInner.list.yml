@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.implementation.ServicesInner.list()"
   name: "list()"
   nameWithType: "ServicesInner.list()"
-  summary: "Lists all the Azure services available for support ticket creation. For **Technical** issues, select the Service Id that maps to the Azure service/product as displayed in the **Services** drop-down list on the Azure portal's [New support request](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) page. Always use the service and its corresponding problem classification(s) obtained programmatically for support ticket creation. This practice ensures that you always have the most recent set of service and problem classification Ids."
+  summary: "Lists all the Azure services available for support ticket creation. For \\*\\*Technical\\*\\* issues, select the Service Id that maps to the Azure service/product as displayed in the \\*\\*Services\\*\\* drop-down list on the Azure portal's \\[New support request\\](https://portal.azure.com/\\#blade/Microsoft\\_Azure\\_Support/HelpAndSupportBlade/overview) page. Always use the service and its corresponding problem classification(s) obtained programmatically for support ticket creation. This practice ensures that you always have the most recent set of service and problem classification Ids."
   syntax: "public List<ServiceInner> list()"
   returns:
     description: "the List&lt;ServiceInner&gt; object if successful."

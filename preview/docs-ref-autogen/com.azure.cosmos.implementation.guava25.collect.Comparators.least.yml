@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Comparators.<T>least(int k, Comparator<? super T> comparator)"
   name: "<T>least(int k, Comparator<? super T> comparator)"
   nameWithType: "Comparators.<T>least(int k, Comparator<? super T> comparator)"
-  summary: "Returns a <code>Collector</code> that returns the <code>k</code> smallest (relative to the specified\n <code>Comparator</code>) input elements, in ascending order, as an unmodifiable <code>List</code>. Ties\n are broken arbitrarily.\n\n <p>For example:\n\n <pre><code>\n Stream.of(\"foo\", \"quux\", \"banana\", \"elephant\")\n     .collect(least(2, comparingInt(String::length)))\n // returns {\"foo\", \"quux\"}\n </code></pre>\n\n <p>This <code>Collector</code> uses O(k) memory and takes expected time O(n) (worst-case O(n log\n k)), as opposed to e.g. <code>Stream.sorted(comparator).limit(k)</code>, which currently takes O(n\n log n) time and O(n) space."
+  summary: "Returns a `Collector` that returns the `k` smallest (relative to the specified `Comparator`) input elements, in ascending order, as an unmodifiable `List`. Ties are broken arbitrarily.\n\nFor example:\n\n```java\nStream.of(\"foo\", \"quux\", \"banana\", \"elephant\")\n     .collect(least(2, comparingInt(String::length)))\n // returns {\"foo\", \"quux\"}\n```\n\nThis `Collector` uses O(k) memory and takes expected time O(n) (worst-case O(n log k)), as opposed to e.g. `Stream.sorted(comparator).limit(k)`, which currently takes O(n log n) time and O(n) space."
   parameters:
   - name: "k"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

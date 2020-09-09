@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.getIndexWithResponse(String indexName, Context context)"
   name: "getIndexWithResponse(String indexName, Context context)"
   nameWithType: "SearchIndexClient.getIndexWithResponse(String indexName, Context context)"
-  summary: "Retrieves an index definition from the Azure Cognitive Search.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search index with \"searchIndex. </p>\n\n <pre>\n Response&lt;SearchIndex&gt; indexFromServiceResponse =\n     searchIndexClient.getIndexWithResponse&#40;&quot;searchIndex&quot;, new Context&#40;key1, value1&#41;&#41;;\n \n System.out.printf&#40;&quot;The status code of the response is %s. The index name is %s.%n&quot;,\n     indexFromServiceResponse.getStatusCode&#40;&#41;, indexFromServiceResponse.getValue&#40;&#41;.getName&#40;&#41;&#41;;\n </pre>"
+  summary: "Retrieves an index definition from the Azure Cognitive Search.\n\n**Code Sample**\n\nGet search index with \"searchIndex.\n\n```java\nResponse<SearchIndex> indexFromServiceResponse =\n     searchIndexClient.getIndexWithResponse(\"searchIndex\", new Context(key1, value1));\n \n System.out.printf(\"The status code of the response is %s. The index name is %s.%n\",\n     indexFromServiceResponse.getStatusCode(), indexFromServiceResponse.getValue().getName());\n```"
   parameters:
   - description: "the name of the index to retrieve"
     name: "indexName"

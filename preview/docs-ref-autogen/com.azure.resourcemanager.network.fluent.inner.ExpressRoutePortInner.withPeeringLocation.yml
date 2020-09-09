@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRoutePortInner.withPeeringLocation(String peeringLocation)"
   name: "withPeeringLocation(String peeringLocation)"
   nameWithType: "ExpressRoutePortInner.withPeeringLocation(String peeringLocation)"
-  summary: "Set the peeringLocation property: The name of the peering location that the ExpressRoutePort is mapped to\n physically."
+  summary: "Set the peeringLocation property: The name of the peering location that the ExpressRoutePort is mapped to physically."
   parameters:
   - description: "the peeringLocation value to set."
     name: "peeringLocation"

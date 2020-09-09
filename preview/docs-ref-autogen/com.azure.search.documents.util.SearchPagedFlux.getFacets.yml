@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.util.SearchPagedFlux.getFacets()"
   name: "getFacets()"
   nameWithType: "SearchPagedFlux.getFacets()"
-  summary: "The facet query results based on the search request.\n <p>\n If <code>facets</code> weren't supplied in the request this will be <code>null</code>."
+  summary: "The facet query results based on the search request.\n\nIf `facets` weren't supplied in the request this will be `null`."
   syntax: "public Mono<Map<String,List<FacetResult>>> getFacets()"
   returns:
     description: "The facet query results if <code>facets</code> were supplied in the request, otherwise <code>null</code>."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ShingleTokenFilter.getMinShingleSize()"
   name: "getMinShingleSize()"
   nameWithType: "ShingleTokenFilter.getMinShingleSize()"
-  summary: "Get the minShingleSize property: The minimum shingle size. Default and minimum value is 2. Must be less than the\n value of maxShingleSize."
+  summary: "Get the minShingleSize property: The minimum shingle size. Default and minimum value is 2. Must be less than the value of maxShingleSize."
   syntax: "public Integer getMinShingleSize()"
   returns:
     description: "the minShingleSize value."

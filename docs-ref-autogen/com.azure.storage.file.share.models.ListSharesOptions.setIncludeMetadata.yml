@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ListSharesOptions.setIncludeMetadata(boolean includeMetadata)"
   name: "setIncludeMetadata(boolean includeMetadata)"
   nameWithType: "ListSharesOptions.setIncludeMetadata(boolean includeMetadata)"
-  summary: "Sets the status of including share metadata when listing shares\n\n If listing snapshots as well this will also determine if the snapshots have their metadata included as well."
+  summary: "Sets the status of including share metadata when listing shares If listing snapshots as well this will also determine if the snapshots have their metadata included as well."
   parameters:
   - description: "Flag indicating if metadata should be including in the listing"
     name: "includeMetadata"

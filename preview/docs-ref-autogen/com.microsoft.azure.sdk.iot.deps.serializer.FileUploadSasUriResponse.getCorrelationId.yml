@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.FileUploadSasUriResponse.getCorrelationId()"
   name: "getCorrelationId()"
   nameWithType: "FileUploadSasUriResponse.getCorrelationId()"
-  summary: "Getter for the Azure storage correlation identification. This correlation id should be used when notifying IoT Hub\n that this file upload has completed."
+  summary: "Getter for the Azure storage correlation identification. This correlation id should be used when notifying IoT Hub that this file upload has completed."
   syntax: "public String getCorrelationId()"
   returns:
     description: "The correlation identification."

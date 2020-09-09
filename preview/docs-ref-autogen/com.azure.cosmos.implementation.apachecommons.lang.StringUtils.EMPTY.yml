@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.EMPTY"
   name: "EMPTY"
   nameWithType: "StringUtils.EMPTY"
-  summary: "The empty String <code>\"\"</code>."
+  summary: "The empty String `\"\"`."
   syntax: "public static final String EMPTY"
 type: "field"
 metadata: {}

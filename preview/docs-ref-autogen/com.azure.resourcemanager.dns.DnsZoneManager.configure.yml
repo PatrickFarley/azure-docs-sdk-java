@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.DnsZoneManager.configure()"
   name: "configure()"
   nameWithType: "DnsZoneManager.configure()"
-  summary: "Get a Configurable instance that can be used to create <xref uid=\"DnsZoneManager\" data-throw-if-not-resolved=\"false\">DnsZoneManager</xref> with optional configuration."
+  summary: "Get a Configurable instance that can be used to create <xref uid=\"com.azure.resourcemanager.dns.DnsZoneManager\" data-throw-if-not-resolved=\"false\">DnsZoneManager</xref> with optional configuration."
   syntax: "public static DnsZoneManager.Configurable configure()"
   returns:
     description: "the instance allowing configurations"

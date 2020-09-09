@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosDiagnostics.getDuration()"
   name: "getDuration()"
   nameWithType: "CosmosDiagnostics.getDuration()"
-  summary: "Retrieves duration related to the completion of the request.\n This represents end to end duration of an operation including all the retries.\n This is meant for point operation only, for query please use toString() to get full query diagnostics."
+  summary: "Retrieves duration related to the completion of the request. This represents end to end duration of an operation including all the retries. This is meant for point operation only, for query please use toString() to get full query diagnostics."
   syntax: "public Duration getDuration()"
   returns:
     description: "request completion duration"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.EmailNotification.customEmails()"
   name: "customEmails()"
   nameWithType: "EmailNotification.customEmails()"
-  summary: "Get the customEmails property: the custom e-mails list. This value can be null or empty, in which case this\n attribute will be ignored."
+  summary: "Get the customEmails property: the custom e-mails list. This value can be null or empty, in which case this attribute will be ignored."
   syntax: "public List<String> customEmails()"
   returns:
     description: "the customEmails value."

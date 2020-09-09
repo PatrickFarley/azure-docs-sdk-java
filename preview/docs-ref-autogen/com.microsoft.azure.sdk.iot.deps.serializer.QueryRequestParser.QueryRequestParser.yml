@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.QueryRequestParser.QueryRequestParser(String query)"
   name: "QueryRequestParser(String query)"
   nameWithType: "QueryRequestParser.QueryRequestParser(String query)"
-  summary: "CONSTRUCTOR\n Create an instance of the QueryRequestParser based on the provided query."
+  summary: "CONSTRUCTOR Create an instance of the QueryRequestParser based on the provided query."
   parameters:
   - description: "is the name of the blob (file name in the blob)"
     name: "query"

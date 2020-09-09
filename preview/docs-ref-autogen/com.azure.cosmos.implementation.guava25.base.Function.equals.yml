@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Function<F,T>.equals(Object object)"
   name: "equals(Object object)"
   nameWithType: "Function<F,T>.equals(Object object)"
-  summary: "<i>May</i> return <code>true</code> if <code>object</code> is a <code>Function</code> that behaves identically\n to this function.\n\n <p><b>Warning: do not depend</b> on the behavior of this method.\n\n <p>Historically, <code>Function</code> instances in this library have implemented this method to\n recognize certain cases where distinct <code>Function</code> instances would in fact behave\n identically. However, as code migrates to <code>java.util.function</code>, that behavior will\n disappear. It is best not to depend on it."
+  summary: "*May* return `true` if `object` is a `Function` that behaves identically to this function.\n\n**Warning: do not depend** on the behavior of this method.\n\nHistorically, `Function` instances in this library have implemented this method to recognize certain cases where distinct `Function` instances would in fact behave identically. However, as code migrates to `java.util.function`, that behavior will disappear. It is best not to depend on it."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - name: "object"

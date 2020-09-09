@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryImageUpdate.withOsType(OperatingSystemTypes osType)"
   name: "withOsType(OperatingSystemTypes osType)"
   nameWithType: "GalleryImageUpdate.withOsType(OperatingSystemTypes osType)"
-  summary: "Set the osType property: This property allows you to specify the type of the OS that is included in the disk when\n creating a VM from a managed image. &lt;br&gt;&lt;br&gt; Possible values are: &lt;br&gt;&lt;br&gt; **Windows**\n &lt;br&gt;&lt;br&gt; **Linux**."
+  summary: "Set the osType property: This property allows you to specify the type of the OS that is included in the disk when creating a VM from a managed image. <br><br> Possible values are: <br><br> \\*\\*Windows\\*\\* <br><br> \\*\\*Linux\\*\\*."
   parameters:
   - description: "the osType value to set."
     name: "osType"

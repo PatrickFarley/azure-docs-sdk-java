@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryArtifactPublishingProfileBase.withReplicaCount(Integer replicaCount)"
   name: "withReplicaCount(Integer replicaCount)"
   nameWithType: "GalleryArtifactPublishingProfileBase.withReplicaCount(Integer replicaCount)"
-  summary: "Set the replicaCount property: The number of replicas of the Image Version to be created per region. This\n property would take effect for a region when regionalReplicaCount is not specified. This property is updatable."
+  summary: "Set the replicaCount property: The number of replicas of the Image Version to be created per region. This property would take effect for a region when regionalReplicaCount is not specified. This property is updatable."
   parameters:
   - description: "the replicaCount value to set."
     name: "replicaCount"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.AutoscaleSettingResourcePatch.profiles()"
   name: "profiles()"
   nameWithType: "AutoscaleSettingResourcePatch.profiles()"
-  summary: "Get the profiles property: the collection of automatic scaling profiles that specify different scaling parameters\n for different time periods. A maximum of 20 profiles can be specified."
+  summary: "Get the profiles property: the collection of automatic scaling profiles that specify different scaling parameters for different time periods. A maximum of 20 profiles can be specified."
   syntax: "public List<AutoscaleProfileInner> profiles()"
   returns:
     description: "the profiles value."

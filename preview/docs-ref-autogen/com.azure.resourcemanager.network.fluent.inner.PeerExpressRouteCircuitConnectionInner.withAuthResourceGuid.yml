@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PeerExpressRouteCircuitConnectionInner.withAuthResourceGuid(String authResourceGuid)"
   name: "withAuthResourceGuid(String authResourceGuid)"
   nameWithType: "PeerExpressRouteCircuitConnectionInner.withAuthResourceGuid(String authResourceGuid)"
-  summary: "Set the authResourceGuid property: The resource guid of the authorization used for the express route circuit\n connection."
+  summary: "Set the authResourceGuid property: The resource guid of the authorization used for the express route circuit connection."
   parameters:
   - description: "the authResourceGuid value to set."
     name: "authResourceGuid"

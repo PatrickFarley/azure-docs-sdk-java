@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.IndexingResult.getErrorMessage()"
   name: "getErrorMessage()"
   nameWithType: "IndexingResult.getErrorMessage()"
-  summary: "Get the errorMessage property: The error message explaining why the\n indexing operation failed for the document identified by the key; null\n if indexing succeeded."
+  summary: "Get the errorMessage property: The error message explaining why the indexing operation failed for the document identified by the key; null if indexing succeeded."
   syntax: "public String getErrorMessage()"
   returns:
     description: "the errorMessage value."

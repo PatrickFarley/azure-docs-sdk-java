@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.auth.SymmetricKey.setSecondaryKey(String secondaryKey)"
   name: "setSecondaryKey(String secondaryKey)"
   nameWithType: "SymmetricKey.setSecondaryKey(String secondaryKey)"
-  summary: "Setter for secondary key\n Validates the length of the key"
+  summary: "Setter for secondary key Validates the length of the key"
   parameters:
   - description: "Secondary key part of the symmetric key"
     name: "secondaryKey"

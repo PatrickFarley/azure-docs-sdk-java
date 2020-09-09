@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.util.TextAnalyticsPagedIterable<T>.iterableByPage()"
   name: "iterableByPage()"
   nameWithType: "TextAnalyticsPagedIterable<T>.iterableByPage()"
-  summary: "Provides <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> API for <xref uid=\"TextAnalyticsPagedResponse\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedResponse</xref>."
+  summary: "Provides <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> API for <xref uid=\"com.azure.ai.textanalytics.util.TextAnalyticsPagedResponse\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedResponse</xref>."
   syntax: "public Iterable<TextAnalyticsPagedResponse<T>> iterableByPage()"
   returns:
     description: "<xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> of <xref uid=\"com.azure.ai.textanalytics.util.TextAnalyticsPagedResponse\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedResponse</xref> of <code>T</code>."

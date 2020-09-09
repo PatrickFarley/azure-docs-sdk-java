@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryAsyncClient.listHandles(Integer maxResultPerPage, boolean recursive)"
   name: "listHandles(Integer maxResultPerPage, boolean recursive)"
   nameWithType: "ShareDirectoryAsyncClient.listHandles(Integer maxResultPerPage, boolean recursive)"
-  summary: "List of open handles on a directory or a file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Get 10 handles with recursive call.</p>\n\n <pre>\n shareDirectoryAsyncClient.listHandles&#40;10, true&#41;\n     .subscribe&#40;handleItem -&gt; System.out.printf&#40;&quot;Get handles completed with handle id %s&quot;,\n         handleItem.getHandleId&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles\">Azure Docs</a>.</p>"
+  summary: "List of open handles on a directory or a file.\n\n**Code Samples**\n\nGet 10 handles with recursive call.\n\n```java\nshareDirectoryAsyncClient.listHandles(10, true)\n     .subscribe(handleItem -> System.out.printf(\"Get handles completed with handle id %s\",\n         handleItem.getHandleId()));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles"
   parameters:
   - description: "Optional maximum number of results will return per page"
     name: "maxResultPerPage"

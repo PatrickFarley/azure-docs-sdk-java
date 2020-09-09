@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.LeaseContainerResponseInner.leaseId()"
   name: "leaseId()"
   nameWithType: "LeaseContainerResponseInner.leaseId()"
-  summary: "Get the leaseId property: Returned unique lease ID that must be included with any request to delete the\n container, or to renew, change, or release the lease."
+  summary: "Get the leaseId property: Returned unique lease ID that must be included with any request to delete the container, or to renew, change, or release the lease."
   syntax: "public String leaseId()"
   returns:
     description: "the leaseId value."

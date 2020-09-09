@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeServiceAsyncClient.deleteFileSystemWithResponse(String fileSystemName, DataLakeRequestConditions requestConditions)"
   name: "deleteFileSystemWithResponse(String fileSystemName, DataLakeRequestConditions requestConditions)"
   nameWithType: "DataLakeServiceAsyncClient.deleteFileSystemWithResponse(String fileSystemName, DataLakeRequestConditions requestConditions)"
-  summary: "Deletes the specified file system in the storage account. If the file system doesn't exist the operation fails.\n For more information see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-container\">Azure\n Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.deleteFileSystemWithResponse&#40;&quot;fileSystemName&quot;, new DataLakeRequestConditions&#40;&#41;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Delete file system completed with status %d%n&quot;, response.getStatusCode&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Deletes the specified file system in the storage account. If the file system doesn't exist the operation fails. For more information see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.deleteFileSystemWithResponse(\"fileSystemName\", new DataLakeRequestConditions()).subscribe(response ->\n     System.out.printf(\"Delete file system completed with status %d%n\", response.getStatusCode()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-container"
   parameters:
   - description: "Name of the file system to delete"
     name: "fileSystemName"

@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.implementation.models.SegmentCursor.SegmentCursor(String segmentPath, List<ShardCursor> shardCursors, String currentShardPath)"
   name: "SegmentCursor(String segmentPath, List<ShardCursor> shardCursors, String currentShardPath)"
   nameWithType: "SegmentCursor.SegmentCursor(String segmentPath, List<ShardCursor> shardCursors, String currentShardPath)"
-  summary: "Constructor for use by to*Cursor methods."
+  summary: "Constructor for use by to\\*Cursor methods."
   parameters:
   - name: "segmentPath"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

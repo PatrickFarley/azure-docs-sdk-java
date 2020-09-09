@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryEncodedTaskStep.UpdateStages.OverridingValues.withOverridingValues(Map<String,OverridingValue> overridingValues)"
   name: "withOverridingValues(Map<String,OverridingValue> overridingValues)"
   nameWithType: "RegistryEncodedTaskStep.UpdateStages.OverridingValues.withOverridingValues(Map<String,OverridingValue> overridingValues)"
-  summary: "The function that specifies the values that override the corresponding values specified under the\n function withBase64EncodedValueContent()."
+  summary: "The function that specifies the values that override the corresponding values specified under the function withBase64EncodedValueContent()."
   parameters:
   - description: "a map which contains the values that will override the corresponding values\n     specified under the function withBase64EncodedValueContent()."
     name: "overridingValues"

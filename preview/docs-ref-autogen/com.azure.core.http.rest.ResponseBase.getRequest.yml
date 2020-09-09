@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.rest.ResponseBase<H,T>.getRequest()"
   name: "getRequest()"
   nameWithType: "ResponseBase<H,T>.getRequest()"
-  summary: "Gets The request which resulted in this <xref uid=\"ResponseBase\" data-throw-if-not-resolved=\"false\">ResponseBase</xref>."
+  summary: "Gets The request which resulted in this <xref uid=\"com.azure.core.http.rest.ResponseBase\" data-throw-if-not-resolved=\"false\">ResponseBase</xref>."
   syntax: "public HttpRequest getRequest()"
   returns:
     description: "The request which resulted in this <xref uid=\"com.azure.core.http.rest.ResponseBase\" data-throw-if-not-resolved=\"false\">ResponseBase</xref>."

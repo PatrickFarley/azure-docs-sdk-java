@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.NAK"
   name: "NAK"
   nameWithType: "Ascii.NAK"
-  summary: "Negative Acknowledge: A communication control character transmitted by a receiver as a negative\n response to the sender."
+  summary: "Negative Acknowledge: A communication control character transmitted by a receiver as a negative response to the sender."
   syntax: "public static final byte NAK"
 type: "field"
 metadata: {}

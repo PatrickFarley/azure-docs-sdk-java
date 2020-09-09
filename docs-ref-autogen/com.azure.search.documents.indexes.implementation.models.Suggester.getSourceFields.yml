@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.Suggester.getSourceFields()"
   name: "getSourceFields()"
   nameWithType: "Suggester.getSourceFields()"
-  summary: "Get the sourceFields property: The list of field names to which the suggester applies. Each field must be\n searchable."
+  summary: "Get the sourceFields property: The list of field names to which the suggester applies. Each field must be searchable."
   syntax: "public List<String> getSourceFields()"
   returns:
     description: "the sourceFields value."

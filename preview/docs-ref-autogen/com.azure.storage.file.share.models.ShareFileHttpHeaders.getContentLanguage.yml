@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileHttpHeaders.getContentLanguage()"
   name: "getContentLanguage()"
   nameWithType: "ShareFileHttpHeaders.getContentLanguage()"
-  summary: "Get the contentLanguage property: Specifies the natural languages used\n by this resource."
+  summary: "Get the contentLanguage property: Specifies the natural languages used by this resource."
   syntax: "public String getContentLanguage()"
   returns:
     description: "the contentLanguage value."

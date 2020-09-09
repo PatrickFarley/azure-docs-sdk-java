@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.policy.RecordNetworkCallPolicy.RecordNetworkCallPolicy(RecordedData recordedData)"
   name: "RecordNetworkCallPolicy(RecordedData recordedData)"
   nameWithType: "RecordNetworkCallPolicy.RecordNetworkCallPolicy(RecordedData recordedData)"
-  summary: "Creates a policy that records network calls into <code>recordedData</code>."
+  summary: "Creates a policy that records network calls into `recordedData`."
   parameters:
   - description: "The record to persist network calls into."
     name: "recordedData"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.getDatabase()"
   name: "getDatabase()"
   nameWithType: "CosmosAsyncContainer.getDatabase()"
-  summary: "Gets the parent <xref uid=\"CosmosAsyncDatabase\" data-throw-if-not-resolved=\"false\">CosmosAsyncDatabase</xref> for the current container."
+  summary: "Gets the parent <xref uid=\"com.azure.cosmos.CosmosAsyncDatabase\" data-throw-if-not-resolved=\"false\">CosmosAsyncDatabase</xref> for the current container."
   syntax: "public CosmosAsyncDatabase getDatabase()"
   returns:
     description: "the <xref uid=\"com.azure.cosmos.CosmosAsyncDatabase\" data-throw-if-not-resolved=\"false\">CosmosAsyncDatabase</xref>."

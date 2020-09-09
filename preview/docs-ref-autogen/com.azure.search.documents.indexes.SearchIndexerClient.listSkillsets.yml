@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.listSkillsets()"
   name: "listSkillsets()"
   nameWithType: "SearchIndexerClient.listSkillsets()"
-  summary: "Lists all skillsets available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexer skillsets. </p>\n\n <pre>\n PagedIterable&lt;SearchIndexerSkillset&gt; indexerSkillsets = searchIndexerClient.listSkillsets&#40;&#41;;\n for &#40;SearchIndexerSkillset skillset: indexerSkillsets&#41; &#123;\n     System.out.printf&#40;&quot;The skillset name is %s. The etag of skillset is %s.%n&quot;, skillset.getName&#40;&#41;,\n         skillset.getETag&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Lists all skillsets available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexer skillsets.\n\n```java\nPagedIterable<SearchIndexerSkillset> indexerSkillsets = searchIndexerClient.listSkillsets();\n for (SearchIndexerSkillset skillset: indexerSkillsets) {\n     System.out.printf(\"The skillset name is %s. The etag of skillset is %s.%n\", skillset.getName(),\n         skillset.getETag());\n }\n```"
   syntax: "public PagedIterable<SearchIndexerSkillset> listSkillsets()"
   returns:
     description: "the list of skillsets."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.listSkillsets(Context context)"
   name: "listSkillsets(Context context)"
   nameWithType: "SearchIndexerClient.listSkillsets(Context context)"
-  summary: "Lists all skillsets available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexer skillsets. </p>\n\n <pre>\n PagedIterable&lt;SearchIndexerSkillset&gt; indexerSkillsets = searchIndexerClient.listSkillsets&#40;new Context&#40;key1, value1&#41;&#41;;\n System.out.println&#40;&quot;The status code of the response is&quot;\n     + indexerSkillsets.iterableByPage&#40;&#41;.iterator&#40;&#41;.next&#40;&#41;.getStatusCode&#40;&#41;&#41;;\n for &#40;SearchIndexerSkillset skillset: indexerSkillsets&#41; &#123;\n     System.out.printf&#40;&quot;The skillset name is %s. The etag of skillset is %s.%n&quot;,\n         skillset.getName&#40;&#41;, skillset.getETag&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Lists all skillsets available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexer skillsets.\n\n```java\nPagedIterable<SearchIndexerSkillset> indexerSkillsets = searchIndexerClient.listSkillsets(new Context(key1, value1));\n System.out.println(\"The status code of the response is\"\n     + indexerSkillsets.iterableByPage().iterator().next().getStatusCode());\n for (SearchIndexerSkillset skillset: indexerSkillsets) {\n     System.out.printf(\"The skillset name is %s. The etag of skillset is %s.%n\",\n         skillset.getName(), skillset.getETag());\n }\n```"
   parameters:
   - description: "additional context that is passed through the HTTP pipeline during the service call"
     name: "context"

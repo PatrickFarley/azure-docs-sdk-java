@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.Tools.areEqual(Object a, Object b)"
   name: "areEqual(Object a, Object b)"
   nameWithType: "Tools.areEqual(Object a, Object b)"
-  summary: "Equality check for objects that accounts for null value comparisons. If both objects are null, this will return false.\n Both objects must have .equals(...) implemented correctly for this method to work properly."
+  summary: "Equality check for objects that accounts for null value comparisons. If both objects are null, this will return false. Both objects must have .equals(...) implemented correctly for this method to work properly."
   parameters:
   - description: "the first object"
     name: "a"

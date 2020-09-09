@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileQueryHeaders.getContentType()"
   name: "getContentType()"
   nameWithType: "FileQueryHeaders.getContentType()"
-  summary: "Get the contentType property: The media type of the body of the\n response. For Download Blob this is 'application/octet-stream'."
+  summary: "Get the contentType property: The media type of the body of the response. For Download Blob this is 'application/octet-stream'."
   syntax: "public String getContentType()"
   returns:
     description: "the contentType value."

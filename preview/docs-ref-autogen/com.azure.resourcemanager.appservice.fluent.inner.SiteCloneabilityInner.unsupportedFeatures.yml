@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteCloneabilityInner.unsupportedFeatures()"
   name: "unsupportedFeatures()"
   nameWithType: "SiteCloneabilityInner.unsupportedFeatures()"
-  summary: "Get the unsupportedFeatures property: List of features enabled on app that are non-blocking but cannot be cloned.\n The app can still be cloned but the features in this list will not be set up on cloned app."
+  summary: "Get the unsupportedFeatures property: List of features enabled on app that are non-blocking but cannot be cloned. The app can still be cloned but the features in this list will not be set up on cloned app."
   syntax: "public List<SiteCloneabilityCriterion> unsupportedFeatures()"
   returns:
     description: "the unsupportedFeatures value."

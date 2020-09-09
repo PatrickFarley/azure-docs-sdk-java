@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithSecondaryNetworkInterface.withExistingSecondaryNetworkInterface(NetworkInterface networkInterface)"
   name: "withExistingSecondaryNetworkInterface(NetworkInterface networkInterface)"
   nameWithType: "VirtualMachine.DefinitionStages.WithSecondaryNetworkInterface.withExistingSecondaryNetworkInterface(NetworkInterface networkInterface)"
-  summary: "Associates an existing network interface with the virtual machine.\n\n <p>Note this method's effect is additive, i.e. each time it is used, the new secondary network interface\n added to the virtual machine."
+  summary: "Associates an existing network interface with the virtual machine.\n\nNote this method's effect is additive, i.e. each time it is used, the new secondary network interface added to the virtual machine."
   parameters:
   - description: "an existing network interface"
     name: "networkInterface"

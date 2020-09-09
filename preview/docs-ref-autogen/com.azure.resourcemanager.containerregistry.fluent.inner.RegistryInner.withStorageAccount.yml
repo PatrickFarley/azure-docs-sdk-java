@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RegistryInner.withStorageAccount(StorageAccountProperties storageAccount)"
   name: "withStorageAccount(StorageAccountProperties storageAccount)"
   nameWithType: "RegistryInner.withStorageAccount(StorageAccountProperties storageAccount)"
-  summary: "Set the storageAccount property: The properties of the storage account for the container registry. Only\n applicable to Classic SKU."
+  summary: "Set the storageAccount property: The properties of the storage account for the container registry. Only applicable to Classic SKU."
   parameters:
   - description: "the storageAccount value to set."
     name: "storageAccount"

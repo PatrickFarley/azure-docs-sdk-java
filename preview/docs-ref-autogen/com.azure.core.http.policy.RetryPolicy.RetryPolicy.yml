@@ -8,13 +8,13 @@ members:
   fullName: "com.azure.core.http.policy.RetryPolicy.RetryPolicy()"
   name: "RetryPolicy()"
   nameWithType: "RetryPolicy.RetryPolicy()"
-  summary: "Creates <xref uid=\"RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with default <xref uid=\"ExponentialBackoff\" data-throw-if-not-resolved=\"false\">ExponentialBackoff</xref> as <xref uid=\"RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and ignore the\n delay provided in response header."
+  summary: "Creates <xref uid=\"com.azure.core.http.policy.RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with default <xref uid=\"com.azure.core.http.policy.ExponentialBackoff\" data-throw-if-not-resolved=\"false\">ExponentialBackoff</xref> as <xref uid=\"com.azure.core.http.policy.RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and ignore the delay provided in response header."
   syntax: "public RetryPolicy()"
 - uid: "com.azure.core.http.policy.RetryPolicy.RetryPolicy(com.azure.core.http.policy.RetryStrategy)"
   fullName: "com.azure.core.http.policy.RetryPolicy.RetryPolicy(RetryStrategy retryStrategy)"
   name: "RetryPolicy(RetryStrategy retryStrategy)"
   nameWithType: "RetryPolicy.RetryPolicy(RetryStrategy retryStrategy)"
-  summary: "Creates a <xref uid=\"RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with the provided <xref uid=\"RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and ignore the delay provided in\n response header."
+  summary: "Creates a <xref uid=\"com.azure.core.http.policy.RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with the provided <xref uid=\"com.azure.core.http.policy.RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and ignore the delay provided in response header."
   parameters:
   - description: "The <xref uid=\"com.azure.core.http.policy.RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> used for retries."
     name: "retryStrategy"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.core.http.policy.RetryPolicy.RetryPolicy(RetryStrategy retryStrategy, String retryAfterHeader, ChronoUnit retryAfterTimeUnit)"
   name: "RetryPolicy(RetryStrategy retryStrategy, String retryAfterHeader, ChronoUnit retryAfterTimeUnit)"
   nameWithType: "RetryPolicy.RetryPolicy(RetryStrategy retryStrategy, String retryAfterHeader, ChronoUnit retryAfterTimeUnit)"
-  summary: "Creates <xref uid=\"RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with the provided <xref uid=\"RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and default <xref uid=\"ExponentialBackoff\" data-throw-if-not-resolved=\"false\">ExponentialBackoff</xref>\n as <xref uid=\"RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref>. It will use provided <code>retryAfterHeader</code> in <xref uid=\"HttpResponse\" data-throw-if-not-resolved=\"false\">HttpResponse</xref> headers for\n calculating retry delay."
+  summary: "Creates <xref uid=\"com.azure.core.http.policy.RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with the provided <xref uid=\"com.azure.core.http.policy.RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and default <xref uid=\"com.azure.core.http.policy.ExponentialBackoff\" data-throw-if-not-resolved=\"false\">ExponentialBackoff</xref> as <xref uid=\"com.azure.core.http.policy.RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref>. It will use provided `retryAfterHeader` in <xref uid=\"com.azure.core.http.HttpResponse\" data-throw-if-not-resolved=\"false\">HttpResponse</xref> headers for calculating retry delay."
   parameters:
   - description: "The <xref uid=\"com.azure.core.http.policy.RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> used for retries."
     name: "retryStrategy"
@@ -40,7 +40,7 @@ members:
   fullName: "com.azure.core.http.policy.RetryPolicy.RetryPolicy(String retryAfterHeader, ChronoUnit retryAfterTimeUnit)"
   name: "RetryPolicy(String retryAfterHeader, ChronoUnit retryAfterTimeUnit)"
   nameWithType: "RetryPolicy.RetryPolicy(String retryAfterHeader, ChronoUnit retryAfterTimeUnit)"
-  summary: "Creates <xref uid=\"RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with default <xref uid=\"ExponentialBackoff\" data-throw-if-not-resolved=\"false\">ExponentialBackoff</xref> as <xref uid=\"RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and use\n provided <code>retryAfterHeader</code> in <xref uid=\"HttpResponse\" data-throw-if-not-resolved=\"false\">HttpResponse</xref> headers for calculating retry delay."
+  summary: "Creates <xref uid=\"com.azure.core.http.policy.RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> with default <xref uid=\"com.azure.core.http.policy.ExponentialBackoff\" data-throw-if-not-resolved=\"false\">ExponentialBackoff</xref> as <xref uid=\"com.azure.core.http.policy.RetryStrategy\" data-throw-if-not-resolved=\"false\">RetryStrategy</xref> and use provided `retryAfterHeader` in <xref uid=\"com.azure.core.http.HttpResponse\" data-throw-if-not-resolved=\"false\">HttpResponse</xref> headers for calculating retry delay."
   parameters:
   - description: "The HTTP header, such as 'Retry-After' or 'x-ms-retry-after-ms', to lookup for the\n retry delay. If the value is <code>null</code>, <xref uid=\"com.azure.core.http.policy.RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> will use the retry strategy to compute the delay\n and ignore the delay provided in response header."
     name: "retryAfterHeader"

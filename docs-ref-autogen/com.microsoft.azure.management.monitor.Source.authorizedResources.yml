@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.Source.authorizedResources()"
   name: "authorizedResources()"
   nameWithType: "Source.authorizedResources()"
-  summary: "Get list of  Resource referred into query."
+  summary: "Get list of Resource referred into query."
   syntax: "public List<String> authorizedResources()"
   returns:
     description: "the authorizedResources value"

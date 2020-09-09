@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.CjkBigramTokenFilter.setOutputUnigrams(Boolean outputUnigrams)"
   name: "setOutputUnigrams(Boolean outputUnigrams)"
   nameWithType: "CjkBigramTokenFilter.setOutputUnigrams(Boolean outputUnigrams)"
-  summary: "Set the outputUnigrams property: A value indicating whether to output both unigrams and bigrams (if true), or\n just bigrams (if false). Default is false."
+  summary: "Set the outputUnigrams property: A value indicating whether to output both unigrams and bigrams (if true), or just bigrams (if false). Default is false."
   parameters:
   - description: "the outputUnigrams value to set."
     name: "outputUnigrams"

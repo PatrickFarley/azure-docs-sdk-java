@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.AzureConfigurable<T>.withLogLevel(HttpLogDetailLevel logLevel)"
   name: "withLogLevel(HttpLogDetailLevel logLevel)"
   nameWithType: "AzureConfigurable<T>.withLogLevel(HttpLogDetailLevel logLevel)"
-  summary: "Sets the logging detail level on the HTTP client.\n\n If set, this configure will override <xref uid=\"HttpLogOptions#setLogLevel(HttpLogDetailLevel)\" data-throw-if-not-resolved=\"false\">HttpLogOptions#setLogLevel(HttpLogDetailLevel)</xref> configure of\n <xref uid=\"AzureConfigurable#withLogOptions(HttpLogOptions)\" data-throw-if-not-resolved=\"false\">AzureConfigurable#withLogOptions(HttpLogOptions)</xref>."
+  summary: "Sets the logging detail level on the HTTP client. If set, this configure will override <xref uid=\"com.azure.core.http.policy.HttpLogOptions.setLogLevel*\" data-throw-if-not-resolved=\"false\">HttpLogOptions#setLogLevel(HttpLogDetailLevel)</xref> configure of <xref uid=\"com.azure.resourcemanager.resources.fluentcore.arm.AzureConfigurable.withLogOptions(com.azure.core.http.policy.HttpLogOptions)\" data-throw-if-not-resolved=\"false\">AzureConfigurable#withLogOptions(HttpLogOptions)</xref>."
   parameters:
   - description: "the logging level"
     name: "logLevel"

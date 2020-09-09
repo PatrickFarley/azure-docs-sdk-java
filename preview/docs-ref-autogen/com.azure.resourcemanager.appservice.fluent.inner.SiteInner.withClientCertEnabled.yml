@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteInner.withClientCertEnabled(Boolean clientCertEnabled)"
   name: "withClientCertEnabled(Boolean clientCertEnabled)"
   nameWithType: "SiteInner.withClientCertEnabled(Boolean clientCertEnabled)"
-  summary: "Set the clientCertEnabled property: &lt;code&gt;true&lt;/code&gt; to enable client certificate authentication\n (TLS mutual authentication); otherwise, &lt;code&gt;false&lt;/code&gt;. Default is\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the clientCertEnabled property: <code>true</code> to enable client certificate authentication (TLS mutual authentication); otherwise, <code>false</code>. Default is <code>false</code>."
   parameters:
   - description: "the clientCertEnabled value to set."
     name: "clientCertEnabled"

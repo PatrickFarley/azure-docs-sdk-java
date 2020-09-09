@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.videosearch.BingVideos.BingVideosSearchDefinitionStages.WithAllOptions.withPricing(VideoPricing pricing)"
   name: "withPricing(VideoPricing pricing)"
   nameWithType: "BingVideos.BingVideosSearchDefinitionStages.WithAllOptions.withPricing(VideoPricing pricing)"
-  summary: "Filter videos by the following pricing options: Free: Return videos that are free to view. Paid: Return\n   videos that require a subscription or payment to view. All: Do not filter by pricing.Specifying this value\n   is the same as not specifying the pricing parameter. Possible values include: 'All', 'Free', 'Paid'."
+  summary: "Filter videos by the following pricing options: Free: Return videos that are free to view. Paid: Return videos that require a subscription or payment to view. All: Do not filter by pricing.Specifying this value is the same as not specifying the pricing parameter. Possible values include: 'All', 'Free', 'Paid'."
   parameters:
   - name: "pricing"
     type: "<xref href=\"com.microsoft.azure.cognitiveservices.search.videosearch.models.VideoPricing?alt=com.microsoft.azure.cognitiveservices.search.videosearch.models.VideoPricing&text=VideoPricing\" data-throw-if-not-resolved=\"False\" />"

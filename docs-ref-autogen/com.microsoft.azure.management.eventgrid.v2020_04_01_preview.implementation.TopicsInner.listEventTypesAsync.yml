@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listEventTypesAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName)"
   name: "listEventTypesAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName)"
   nameWithType: "TopicsInner.listEventTypesAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName)"
-  summary: "List topic event types.\n List event types for a topic."
+  summary: "List topic event types. List event types for a topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listEventTypesAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, ServiceCallback<List<EventTypeInner>> serviceCallback)"
   name: "listEventTypesAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, ServiceCallback<List<EventTypeInner>> serviceCallback)"
   nameWithType: "TopicsInner.listEventTypesAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, ServiceCallback<List<EventTypeInner>> serviceCallback)"
-  summary: "List topic event types.\n List event types for a topic."
+  summary: "List topic event types. List event types for a topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

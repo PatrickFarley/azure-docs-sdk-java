@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.CheckNameAvailabilityResponseInner.message()"
   name: "message()"
   nameWithType: "CheckNameAvailabilityResponseInner.message()"
-  summary: "Get the message property: A message explaining why the name is unavailable. Will be undefined if the name is\n available."
+  summary: "Get the message property: A message explaining why the name is unavailable. Will be undefined if the name is available."
   syntax: "public String message()"
   returns:
     description: "the message value."

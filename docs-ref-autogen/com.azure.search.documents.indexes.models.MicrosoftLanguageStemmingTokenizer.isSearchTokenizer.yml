@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MicrosoftLanguageStemmingTokenizer.isSearchTokenizer()"
   name: "isSearchTokenizer()"
   nameWithType: "MicrosoftLanguageStemmingTokenizer.isSearchTokenizer()"
-  summary: "Get the isSearchTokenizer property: A value indicating how the tokenizer\n is used. Set to true if used as the search tokenizer, set to false if\n used as the indexing tokenizer. Default is false."
+  summary: "Get the isSearchTokenizer property: A value indicating how the tokenizer is used. Set to true if used as the search tokenizer, set to false if used as the indexing tokenizer. Default is false."
   syntax: "public Boolean isSearchTokenizer()"
   returns:
     description: "the isSearchTokenizer value."

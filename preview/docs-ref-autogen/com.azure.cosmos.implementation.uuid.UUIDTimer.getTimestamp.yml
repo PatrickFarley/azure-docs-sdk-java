@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.UUIDTimer.getTimestamp()"
   name: "getTimestamp()"
   nameWithType: "UUIDTimer.getTimestamp()"
-  summary: "Method that constructs unique timestamp suitable for use for\n constructing UUIDs. Default implementation is fully synchronized;\n sub-classes may choose to implemented alternate strategies"
+  summary: "Method that constructs unique timestamp suitable for use for constructing UUIDs. Default implementation is fully synchronized; sub-classes may choose to implemented alternate strategies"
   syntax: "public synchronized long getTimestamp()"
   returns:
     description: "64-bit timestamp to use for constructing UUID"

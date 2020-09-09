@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineExtensionUpdate.forceUpdateTag()"
   name: "forceUpdateTag()"
   nameWithType: "VirtualMachineExtensionUpdate.forceUpdateTag()"
-  summary: "Get the forceUpdateTag property: How the extension handler should be forced to update even if the extension\n configuration has not changed."
+  summary: "Get the forceUpdateTag property: How the extension handler should be forced to update even if the extension configuration has not changed."
   syntax: "public String forceUpdateTag()"
   returns:
     description: "the forceUpdateTag value."

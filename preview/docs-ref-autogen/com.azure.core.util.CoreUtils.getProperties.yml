@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.CoreUtils.getProperties(String propertiesFileName)"
   name: "getProperties(String propertiesFileName)"
   nameWithType: "CoreUtils.getProperties(String propertiesFileName)"
-  summary: "Helper method that returns an immutable <xref uid=\"Map\" data-throw-if-not-resolved=\"false\">Map</xref> of properties defined in <code>propertiesFileName</code>."
+  summary: "Helper method that returns an immutable <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref> of properties defined in `propertiesFileName`."
   parameters:
   - description: "The file name defining the properties."
     name: "propertiesFileName"

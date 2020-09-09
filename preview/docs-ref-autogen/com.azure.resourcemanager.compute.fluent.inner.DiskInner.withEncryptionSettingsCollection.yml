@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DiskInner.withEncryptionSettingsCollection(EncryptionSettingsCollection encryptionSettingsCollection)"
   name: "withEncryptionSettingsCollection(EncryptionSettingsCollection encryptionSettingsCollection)"
   nameWithType: "DiskInner.withEncryptionSettingsCollection(EncryptionSettingsCollection encryptionSettingsCollection)"
-  summary: "Set the encryptionSettingsCollection property: Encryption settings collection used for Azure Disk Encryption, can\n contain multiple encryption settings per disk or snapshot."
+  summary: "Set the encryptionSettingsCollection property: Encryption settings collection used for Azure Disk Encryption, can contain multiple encryption settings per disk or snapshot."
   parameters:
   - description: "the encryptionSettingsCollection value to set."
     name: "encryptionSettingsCollection"

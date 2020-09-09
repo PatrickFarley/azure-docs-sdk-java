@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetVMProtectionPolicy.withProtectFromScaleSetActions(Boolean protectFromScaleSetActions)"
   name: "withProtectFromScaleSetActions(Boolean protectFromScaleSetActions)"
   nameWithType: "VirtualMachineScaleSetVMProtectionPolicy.withProtectFromScaleSetActions(Boolean protectFromScaleSetActions)"
-  summary: "Set the protectFromScaleSetActions property: Indicates that model updates or actions (including scale-in)\n initiated on the virtual machine scale set should not be applied to the virtual machine scale set VM."
+  summary: "Set the protectFromScaleSetActions property: Indicates that model updates or actions (including scale-in) initiated on the virtual machine scale set should not be applied to the virtual machine scale set VM."
   parameters:
   - description: "the protectFromScaleSetActions value to set."
     name: "protectFromScaleSetActions"

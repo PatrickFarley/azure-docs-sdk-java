@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.MicrosoftStemmingTokenizerLanguageConverter.map(MicrosoftStemmingTokenizerLanguage obj)"
   name: "map(MicrosoftStemmingTokenizerLanguage obj)"
   nameWithType: "MicrosoftStemmingTokenizerLanguageConverter.map(MicrosoftStemmingTokenizerLanguage obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage</xref> to\n enum <xref uid=\"MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">MicrosoftStemmingTokenizerLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">MicrosoftStemmingTokenizerLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage?alt=com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage&text=MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.MicrosoftStemmingTokenizerLanguageConverter.map(MicrosoftStemmingTokenizerLanguage obj)"
   name: "map(MicrosoftStemmingTokenizerLanguage obj)"
   nameWithType: "MicrosoftStemmingTokenizerLanguageConverter.map(MicrosoftStemmingTokenizerLanguage obj)"
-  summary: "Maps from enum <xref uid=\"MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">MicrosoftStemmingTokenizerLanguage</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">MicrosoftStemmingTokenizerLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.MicrosoftStemmingTokenizerLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.MicrosoftStemmingTokenizerLanguage?alt=com.azure.search.documents.indexes.models.MicrosoftStemmingTokenizerLanguage&text=MicrosoftStemmingTokenizerLanguage\" data-throw-if-not-resolved=\"False\" />"

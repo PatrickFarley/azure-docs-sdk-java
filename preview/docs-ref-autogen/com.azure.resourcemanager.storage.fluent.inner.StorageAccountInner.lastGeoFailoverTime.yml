@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.lastGeoFailoverTime()"
   name: "lastGeoFailoverTime()"
   nameWithType: "StorageAccountInner.lastGeoFailoverTime()"
-  summary: "Get the lastGeoFailoverTime property: Gets the timestamp of the most recent instance of a failover to the\n secondary location. Only the most recent timestamp is retained. This element is not returned if there has never\n been a failover instance. Only available if the accountType is Standard_GRS or Standard_RAGRS."
+  summary: "Get the lastGeoFailoverTime property: Gets the timestamp of the most recent instance of a failover to the secondary location. Only the most recent timestamp is retained. This element is not returned if there has never been a failover instance. Only available if the accountType is Standard\\_GRS or Standard\\_RAGRS."
   syntax: "public OffsetDateTime lastGeoFailoverTime()"
   returns:
     description: "the lastGeoFailoverTime value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ApplicationBase.withIsDeviceOnlyAuthSupported(Boolean isDeviceOnlyAuthSupported)"
   name: "withIsDeviceOnlyAuthSupported(Boolean isDeviceOnlyAuthSupported)"
   nameWithType: "ApplicationBase.withIsDeviceOnlyAuthSupported(Boolean isDeviceOnlyAuthSupported)"
-  summary: "Set the isDeviceOnlyAuthSupported property: Specifies whether this application supports device authentication\n without a user. The default is false."
+  summary: "Set the isDeviceOnlyAuthSupported property: Specifies whether this application supports device authentication without a user. The default is false."
   parameters:
   - description: "the isDeviceOnlyAuthSupported value to set."
     name: "isDeviceOnlyAuthSupported"

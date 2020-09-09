@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.ComputerVisionAnalyzeImageDefinitionStages.WithAllOptions.withDetails(List<Details> details)"
   name: "withDetails(List<Details> details)"
   nameWithType: "ComputerVision.ComputerVisionAnalyzeImageDefinitionStages.WithAllOptions.withDetails(List<Details> details)"
-  summary: "A string indicating which domain-specific details to return. Multiple values should be comma-separated.\n   Valid visual feature types include: Celebrities - identifies celebrities if detected in the image, Landmarks\n   - identifies notable landmarks in the image."
+  summary: "A string indicating which domain-specific details to return. Multiple values should be comma-separated. Valid visual feature types include: Celebrities - identifies celebrities if detected in the image, Landmarks - identifies notable landmarks in the image."
   parameters:
   - name: "details"
     type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.microsoft.azure.cognitiveservices.vision.computervision.models.Details?alt=com.microsoft.azure.cognitiveservices.vision.computervision.models.Details&text=Details\" data-throw-if-not-resolved=\"False\" />&gt;"

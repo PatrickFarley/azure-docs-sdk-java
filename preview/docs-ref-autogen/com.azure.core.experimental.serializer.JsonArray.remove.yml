@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.serializer.JsonArray.remove(int index)"
   name: "remove(int index)"
   nameWithType: "JsonArray.remove(int index)"
-  summary: "Removes the <xref uid=\"JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> at the specified index of the array."
+  summary: "Removes the <xref uid=\"com.azure.core.experimental.serializer.JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> at the specified index of the array."
   parameters:
   - description: "Index of the array."
     name: "index"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.DatabaseAccount.setReadableLocations(Iterable<DatabaseAccountLocation> locations)"
   name: "setReadableLocations(Iterable<DatabaseAccountLocation> locations)"
   nameWithType: "DatabaseAccount.setReadableLocations(Iterable<DatabaseAccountLocation> locations)"
-  summary: "Sets the list of readable locations for this database account.\n <p>\n The list of readable locations are returned by the service."
+  summary: "Sets the list of readable locations for this database account.\n\nThe list of readable locations are returned by the service."
   parameters:
   - description: "the list of readable locations."
     name: "locations"

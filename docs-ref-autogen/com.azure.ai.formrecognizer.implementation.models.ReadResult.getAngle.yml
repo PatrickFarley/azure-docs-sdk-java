@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.ReadResult.getAngle()"
   name: "getAngle()"
   nameWithType: "ReadResult.getAngle()"
-  summary: "Get the angle property: The general orientation of the text in clockwise direction, measured in degrees between\n (-180, 180]."
+  summary: "Get the angle property: The general orientation of the text in clockwise direction, measured in degrees between (-180, 180\\]."
   syntax: "public float getAngle()"
   returns:
     description: "the angle value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ManagementPolicySchema.withRules(List<ManagementPolicyRule> rules)"
   name: "withRules(List<ManagementPolicyRule> rules)"
   nameWithType: "ManagementPolicySchema.withRules(List<ManagementPolicyRule> rules)"
-  summary: "Set the rules property: The Storage Account ManagementPolicies Rules. See more details in:\n https://docs.microsoft.com/en-us/azure/storage/common/storage-lifecycle-managment-concepts."
+  summary: "Set the rules property: The Storage Account ManagementPolicies Rules. See more details in: https://docs.microsoft.com/en-us/azure/storage/common/storage-lifecycle-managment-concepts."
   parameters:
   - description: "the rules value to set."
     name: "rules"

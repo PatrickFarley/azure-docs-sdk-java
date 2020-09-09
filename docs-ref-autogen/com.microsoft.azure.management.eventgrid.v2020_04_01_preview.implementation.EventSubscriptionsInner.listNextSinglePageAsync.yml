@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listNextSinglePageAsync(String nextPageLink)"
   name: "listNextSinglePageAsync(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listNextSinglePageAsync(String nextPageLink)"
-  summary: "Get an aggregated list of all global event subscriptions under an Azure subscription.\n List all aggregated global event subscriptions under a specific Azure subscription.\n\n    ServiceResponse<PageImpl<EventSubscriptionInner>> * @param nextPageLink The NextLink from the previous successful call to List operation."
+  summary: "Get an aggregated list of all global event subscriptions under an Azure subscription. List all aggregated global event subscriptions under a specific Azure subscription. ServiceResponse> \\* @param nextPageLink The NextLink from the previous successful call to List operation."
   parameters:
   - name: "nextPageLink"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

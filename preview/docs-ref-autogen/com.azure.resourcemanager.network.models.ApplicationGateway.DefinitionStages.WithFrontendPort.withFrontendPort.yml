@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.DefinitionStages.WithFrontendPort.withFrontendPort(int portNumber)"
   name: "withFrontendPort(int portNumber)"
   nameWithType: "ApplicationGateway.DefinitionStages.WithFrontendPort.withFrontendPort(int portNumber)"
-  summary: "Creates a frontend port with an auto-generated name and the specified port number, unless one already\n exists."
+  summary: "Creates a frontend port with an auto-generated name and the specified port number, unless one already exists."
   parameters:
   - description: "a port number"
     name: "portNumber"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.DefinitionStages.WithFrontendPort.withFrontendPort(int portNumber, String name)"
   name: "withFrontendPort(int portNumber, String name)"
   nameWithType: "ApplicationGateway.DefinitionStages.WithFrontendPort.withFrontendPort(int portNumber, String name)"
-  summary: "Creates a frontend port with the specified name and port number, unless a port matching this name and/or\n number already exists."
+  summary: "Creates a frontend port with the specified name and port number, unless a port matching this name and/or number already exists."
   parameters:
   - description: "a port number"
     name: "portNumber"

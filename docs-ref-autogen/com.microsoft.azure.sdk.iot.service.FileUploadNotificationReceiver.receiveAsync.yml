@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.FileUploadNotificationReceiver.receiveAsync()"
   name: "receiveAsync()"
   nameWithType: "FileUploadNotificationReceiver.receiveAsync()"
-  summary: "Async wrapper for receive() operation with default timeout\n\n QoS for receiving file upload notifications is at least once"
+  summary: "Async wrapper for receive() operation with default timeout QoS for receiving file upload notifications is at least once"
   overridden: "com.microsoft.azure.sdk.iot.service.Receiver.receiveAsync()"
   syntax: "public CompletableFuture<FileUploadNotification> receiveAsync()"
   returns:
@@ -18,7 +18,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.FileUploadNotificationReceiver.receiveAsync(long timeoutMs)"
   name: "receiveAsync(long timeoutMs)"
   nameWithType: "FileUploadNotificationReceiver.receiveAsync(long timeoutMs)"
-  summary: "Async wrapper for receive() operation with specific timeout\n\n QoS for receiving file upload notifications is at least once"
+  summary: "Async wrapper for receive() operation with specific timeout QoS for receiving file upload notifications is at least once"
   overridden: "com.microsoft.azure.sdk.iot.service.Receiver.receiveAsync(long)"
   parameters:
   - name: "timeoutMs"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.LexicalTokenizerNameConverter.map(LexicalTokenizerName obj)"
   name: "map(LexicalTokenizerName obj)"
   nameWithType: "LexicalTokenizerNameConverter.map(LexicalTokenizerName obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName</xref> to enum\n <xref uid=\"LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">LexicalTokenizerName</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">LexicalTokenizerName</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName?alt=com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName&text=LexicalTokenizerName\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.LexicalTokenizerNameConverter.map(LexicalTokenizerName obj)"
   name: "map(LexicalTokenizerName obj)"
   nameWithType: "LexicalTokenizerNameConverter.map(LexicalTokenizerName obj)"
-  summary: "Maps from enum <xref uid=\"LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">LexicalTokenizerName</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">LexicalTokenizerName</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.LexicalTokenizerName?alt=com.azure.search.documents.indexes.models.LexicalTokenizerName&text=LexicalTokenizerName\" data-throw-if-not-resolved=\"False\" />"

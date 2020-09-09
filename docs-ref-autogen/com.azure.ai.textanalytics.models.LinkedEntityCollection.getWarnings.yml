@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.LinkedEntityCollection.getWarnings()"
   name: "getWarnings()"
   nameWithType: "LinkedEntityCollection.getWarnings()"
-  summary: "Get the <xref uid=\"IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> of <xref uid=\"TextAnalyticsWarning\" data-throw-if-not-resolved=\"false\">Text Analytics warnings</xref>."
+  summary: "Get the <xref uid=\"com.azure.core.util.IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> of <xref uid=\"com.azure.ai.textanalytics.models.TextAnalyticsWarning\" data-throw-if-not-resolved=\"false\">Text Analytics warnings</xref>."
   syntax: "public IterableStream<TextAnalyticsWarning> getWarnings()"
   returns:
     description: "<xref uid=\"com.azure.core.util.IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> of <xref uid=\"com.azure.ai.textanalytics.models.TextAnalyticsWarning\" data-throw-if-not-resolved=\"false\">TextAnalyticsWarning</xref>."

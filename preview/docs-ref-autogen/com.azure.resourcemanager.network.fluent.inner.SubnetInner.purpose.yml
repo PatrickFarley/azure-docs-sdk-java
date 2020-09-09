@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.SubnetInner.purpose()"
   name: "purpose()"
   nameWithType: "SubnetInner.purpose()"
-  summary: "Get the purpose property: A read-only string identifying the intention of use for this subnet based on\n delegations and other user-defined properties."
+  summary: "Get the purpose property: A read-only string identifying the intention of use for this subnet based on delegations and other user-defined properties."
   syntax: "public String purpose()"
   returns:
     description: "the purpose value."

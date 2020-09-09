@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.PercentileSourceTargetsClient.listMetricsAsync(String resourceGroupName, String accountName, String sourceRegion, String targetRegion, String filter)"
   name: "listMetricsAsync(String resourceGroupName, String accountName, String sourceRegion, String targetRegion, String filter)"
   nameWithType: "PercentileSourceTargetsClient.listMetricsAsync(String resourceGroupName, String accountName, String sourceRegion, String targetRegion, String filter)"
-  summary: "Retrieves the metrics determined by the given filter for the given account, source and target region. This url is\n only for PBS and Replication Latency data."
+  summary: "Retrieves the metrics determined by the given filter for the given account, source and target region. This url is only for PBS and Replication Latency data."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"
@@ -33,7 +33,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.PercentileSourceTargetsClient.listMetricsAsync(String resourceGroupName, String accountName, String sourceRegion, String targetRegion, String filter, Context context)"
   name: "listMetricsAsync(String resourceGroupName, String accountName, String sourceRegion, String targetRegion, String filter, Context context)"
   nameWithType: "PercentileSourceTargetsClient.listMetricsAsync(String resourceGroupName, String accountName, String sourceRegion, String targetRegion, String filter, Context context)"
-  summary: "Retrieves the metrics determined by the given filter for the given account, source and target region. This url is\n only for PBS and Replication Latency data."
+  summary: "Retrieves the metrics determined by the given filter for the given account, source and target region. This url is only for PBS and Replication Latency data."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"

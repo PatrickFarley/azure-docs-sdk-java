@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listPreparationAndReleaseTaskStatus(String jobId)"
   name: "listPreparationAndReleaseTaskStatus(String jobId)"
   nameWithType: "JobOperations.listPreparationAndReleaseTaskStatus(String jobId)"
-  summary: "Lists the status of <xref uid=\"JobPreparationTask\" data-throw-if-not-resolved=\"false\">JobPreparationTask</xref> and <xref uid=\"JobReleaseTask\" data-throw-if-not-resolved=\"false\">JobReleaseTask</xref> tasks for the specified job."
+  summary: "Lists the status of <xref uid=\"com.microsoft.azure.batch.protocol.models.JobPreparationTask\" data-throw-if-not-resolved=\"false\">JobPreparationTask</xref> and <xref uid=\"com.microsoft.azure.batch.protocol.models.JobReleaseTask\" data-throw-if-not-resolved=\"false\">JobReleaseTask</xref> tasks for the specified job."
   parameters:
   - description: "The ID of the job."
     name: "jobId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listPreparationAndReleaseTaskStatus(String jobId, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listPreparationAndReleaseTaskStatus(String jobId, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobOperations.listPreparationAndReleaseTaskStatus(String jobId, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the status of <xref uid=\"JobPreparationTask\" data-throw-if-not-resolved=\"false\">JobPreparationTask</xref> and <xref uid=\"JobReleaseTask\" data-throw-if-not-resolved=\"false\">JobReleaseTask</xref> tasks for the specified job."
+  summary: "Lists the status of <xref uid=\"com.microsoft.azure.batch.protocol.models.JobPreparationTask\" data-throw-if-not-resolved=\"false\">JobPreparationTask</xref> and <xref uid=\"com.microsoft.azure.batch.protocol.models.JobReleaseTask\" data-throw-if-not-resolved=\"false\">JobReleaseTask</xref> tasks for the specified job."
   parameters:
   - description: "The ID of the job."
     name: "jobId"

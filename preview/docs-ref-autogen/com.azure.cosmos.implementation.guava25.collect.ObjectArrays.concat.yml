@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ObjectArrays.<T>concat(T element, T[] array)"
   name: "<T>concat(T element, T[] array)"
   nameWithType: "ObjectArrays.<T>concat(T element, T[] array)"
-  summary: "Returns a new array that prepends <code>element</code> to <code>array</code>."
+  summary: "Returns a new array that prepends `element` to `array`."
   parameters:
   - description: "the element to prepend to the front of <code>array</code>"
     name: "element"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ObjectArrays.<T>concat(T[] array, T element)"
   name: "<T>concat(T[] array, T element)"
   nameWithType: "ObjectArrays.<T>concat(T[] array, T element)"
-  summary: "Returns a new array that appends <code>element</code> to <code>array</code>."
+  summary: "Returns a new array that appends `element` to `array`."
   parameters:
   - description: "the array of elements to prepend"
     name: "array"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.AppRole.value()"
   name: "value()"
   nameWithType: "AppRole.value()"
-  summary: "Get the value property: Specifies the value of the roles claim that the application should expect in the\n authentication and access tokens."
+  summary: "Get the value property: Specifies the value of the roles claim that the application should expect in the authentication and access tokens."
   syntax: "public String value()"
   returns:
     description: "the value value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RecurrentSchedule.withDays(List<String> days)"
   name: "withDays(List<String> days)"
   nameWithType: "RecurrentSchedule.withDays(List<String> days)"
-  summary: "Set the days property: the collection of days that the profile takes effect on. Possible values are Sunday\n through Saturday."
+  summary: "Set the days property: the collection of days that the profile takes effect on. Possible values are Sunday through Saturday."
   parameters:
   - description: "the days value to set."
     name: "days"

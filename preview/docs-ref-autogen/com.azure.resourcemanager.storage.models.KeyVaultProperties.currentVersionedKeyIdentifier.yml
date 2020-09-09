@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.KeyVaultProperties.currentVersionedKeyIdentifier()"
   name: "currentVersionedKeyIdentifier()"
   nameWithType: "KeyVaultProperties.currentVersionedKeyIdentifier()"
-  summary: "Get the currentVersionedKeyIdentifier property: The object identifier of the current versioned Key Vault Key in\n use."
+  summary: "Get the currentVersionedKeyIdentifier property: The object identifier of the current versioned Key Vault Key in use."
   syntax: "public String currentVersionedKeyIdentifier()"
   returns:
     description: "the currentVersionedKeyIdentifier value."

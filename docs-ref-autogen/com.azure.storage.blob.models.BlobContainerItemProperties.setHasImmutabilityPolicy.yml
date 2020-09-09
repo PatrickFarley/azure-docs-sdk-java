@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobContainerItemProperties.setHasImmutabilityPolicy(Boolean hasImmutabilityPolicy)"
   name: "setHasImmutabilityPolicy(Boolean hasImmutabilityPolicy)"
   nameWithType: "BlobContainerItemProperties.setHasImmutabilityPolicy(Boolean hasImmutabilityPolicy)"
-  summary: "Set the hasImmutabilityPolicy property: The hasImmutabilityPolicy\n property."
+  summary: "Set the hasImmutabilityPolicy property: The hasImmutabilityPolicy property."
   parameters:
   - description: "the hasImmutabilityPolicy value to set."
     name: "hasImmutabilityPolicy"

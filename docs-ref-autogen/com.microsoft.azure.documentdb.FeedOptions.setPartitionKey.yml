@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.FeedOptions.setPartitionKey(PartitionKey partitionkey)"
   name: "setPartitionKey(PartitionKey partitionkey)"
   nameWithType: "FeedOptions.setPartitionKey(PartitionKey partitionkey)"
-  summary: "Sets the partition key used to identify the current request's target\n partition."
+  summary: "Sets the partition key used to identify the current request's target partition."
   parameters:
   - description: "the partition key value."
     name: "partitionkey"

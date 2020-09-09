@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiManagementServices.restoreAsync(String resourceGroupName, String serviceName, ApiManagementServiceBackupRestoreParameters parameters)"
   name: "restoreAsync(String resourceGroupName, String serviceName, ApiManagementServiceBackupRestoreParameters parameters)"
   nameWithType: "ApiManagementServices.restoreAsync(String resourceGroupName, String serviceName, ApiManagementServiceBackupRestoreParameters parameters)"
-  summary: "Restores a backup of an API Management service created using the ApiManagementService_Backup operation on the current service. This is a long running operation and could take several minutes to complete."
+  summary: "Restores a backup of an API Management service created using the ApiManagementService\\_Backup operation on the current service. This is a long running operation and could take several minutes to complete."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

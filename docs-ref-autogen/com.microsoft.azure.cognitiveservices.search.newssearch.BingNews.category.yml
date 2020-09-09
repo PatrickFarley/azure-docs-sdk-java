@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.newssearch.BingNews.category()"
   name: "category()"
   nameWithType: "BingNews.category()"
-  summary: "The News Category API lets lets you search on Bing and get back a list of top news articles by category.\n   This section provides technical details about the query parameters and headers that you use to request news\n   and the JSON response objects that contain them.  For examples that show how to make requests, see\n   [Searching the web for\n   news](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-news-search/search-the-web)."
+  summary: "The News Category API lets lets you search on Bing and get back a list of top news articles by category. This section provides technical details about the query parameters and headers that you use to request news and the JSON response objects that contain them. For examples that show how to make requests, see \\[Searching the web for news\\](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-news-search/search-the-web)."
   syntax: "public abstract BingNews.BingNewsCategoryDefinitionStages.WithExecute category()"
   returns:
     description: "the first stage of the category call"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.newssearch.BingNews.category(CategoryOptionalParameter categoryOptionalParameter)"
   name: "category(CategoryOptionalParameter categoryOptionalParameter)"
   nameWithType: "BingNews.category(CategoryOptionalParameter categoryOptionalParameter)"
-  summary: "The News Category API lets lets you search on Bing and get back a list of top news articles by category.\n   This section provides technical details about the query parameters and headers that you use to request news\n   and the JSON response objects that contain them.  For examples that show how to make requests, see\n   [Searching the web for\n   news](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-news-search/search-the-web)."
+  summary: "The News Category API lets lets you search on Bing and get back a list of top news articles by category. This section provides technical details about the query parameters and headers that you use to request news and the JSON response objects that contain them. For examples that show how to make requests, see \\[Searching the web for news\\](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-news-search/search-the-web)."
   parameters:
   - description: "the object representing the optional parameters to be set before calling this API"
     name: "categoryOptionalParameter"

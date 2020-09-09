@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.ChangeFeedContextClient.readPartitionKeyRangeFeed(String partitionKeyRangesOrCollectionLink, CosmosQueryRequestOptions cosmosQueryRequestOptions)"
   name: "readPartitionKeyRangeFeed(String partitionKeyRangesOrCollectionLink, CosmosQueryRequestOptions cosmosQueryRequestOptions)"
   nameWithType: "ChangeFeedContextClient.readPartitionKeyRangeFeed(String partitionKeyRangesOrCollectionLink, CosmosQueryRequestOptions cosmosQueryRequestOptions)"
-  summary: "Reads the feed (sequence) of <xref uid=\"PartitionKeyRange\" data-throw-if-not-resolved=\"false\">PartitionKeyRange</xref> for a database account from the Azure Cosmos DB service as an asynchronous operation."
+  summary: "Reads the feed (sequence) of <xref uid=\"com.azure.cosmos.implementation.PartitionKeyRange\" data-throw-if-not-resolved=\"false\">PartitionKeyRange</xref> for a database account from the Azure Cosmos DB service as an asynchronous operation."
   parameters:
   - description: "the link of the resources to be read, or owner collection link, SelfLink or AltLink. E.g. /dbs/db_rid/colls/coll_rid/pkranges."
     name: "partitionKeyRangesOrCollectionLink"

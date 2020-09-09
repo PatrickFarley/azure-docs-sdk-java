@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_GS5"
   name: "STANDARD_GS5"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_GS5"
-  summary: "Static value Standard_GS5 for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_GS5 for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_GS5"
 type: "field"
 metadata: {}

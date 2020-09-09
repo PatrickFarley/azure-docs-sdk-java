@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getCopyId()"
   name: "getCopyId()"
   nameWithType: "BlobDownloadHeaders.getCopyId()"
-  summary: "Get the copyId property: String identifier for this copy operation. Use\n with Get Blob Properties to check the status of this copy operation, or\n pass to Abort Copy Blob to abort a pending copy."
+  summary: "Get the copyId property: String identifier for this copy operation. Use with Get Blob Properties to check the status of this copy operation, or pass to Abort Copy Blob to abort a pending copy."
   syntax: "public String getCopyId()"
   returns:
     description: "the copyId value."

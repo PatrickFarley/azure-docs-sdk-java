@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.ImportImageParameters.targetTags()"
   name: "targetTags()"
   nameWithType: "ImportImageParameters.targetTags()"
-  summary: "Get list of strings of the form repo[:tag]. When tag is omitted the source will be used (or 'latest' if source tag is also omitted)."
+  summary: "Get list of strings of the form repo\\[:tag\\]. When tag is omitted the source will be used (or 'latest' if source tag is also omitted)."
   syntax: "public List<String> targetTags()"
   returns:
     description: "the targetTags value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMap<K,V>.<K,V>copyOf(Iterable<? extends Map.Entry<? extends K,? extends V>> entries)"
   name: "<K,V>copyOf(Iterable<? extends Map.Entry<? extends K,? extends V>> entries)"
   nameWithType: "ImmutableSortedMap<K,V>.<K,V>copyOf(Iterable<? extends Map.Entry<? extends K,? extends V>> entries)"
-  summary: "Returns an immutable map containing the given entries, with keys sorted by the provided\n comparator.\n\n <p>This method is not type-safe, as it may be called on a map with keys that are not mutually\n comparable."
+  summary: "Returns an immutable map containing the given entries, with keys sorted by the provided comparator.\n\nThis method is not type-safe, as it may be called on a map with keys that are not mutually comparable."
   parameters:
   - name: "entries"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends java.util.Map.Entry?alt=? extends java.util.Map.Entry&text=Entry\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends K?alt=? extends K&text=? extends K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMap<K,V>.<K,V>copyOf(Iterable<? extends Map.Entry<? extends K,? extends V>> entries, Comparator<? super K> comparator)"
   name: "<K,V>copyOf(Iterable<? extends Map.Entry<? extends K,? extends V>> entries, Comparator<? super K> comparator)"
   nameWithType: "ImmutableSortedMap<K,V>.<K,V>copyOf(Iterable<? extends Map.Entry<? extends K,? extends V>> entries, Comparator<? super K> comparator)"
-  summary: "Returns an immutable map containing the given entries, with keys sorted by the provided\n comparator."
+  summary: "Returns an immutable map containing the given entries, with keys sorted by the provided comparator."
   parameters:
   - name: "entries"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends java.util.Map.Entry?alt=? extends java.util.Map.Entry&text=Entry\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends K?alt=? extends K&text=? extends K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
@@ -32,7 +32,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMap<K,V>.<K,V>copyOf(Map<? extends K,? extends V> map)"
   name: "<K,V>copyOf(Map<? extends K,? extends V> map)"
   nameWithType: "ImmutableSortedMap<K,V>.<K,V>copyOf(Map<? extends K,? extends V> map)"
-  summary: "Returns an immutable map containing the same entries as <code>map</code>, sorted by the natural\n ordering of the keys.\n\n <p>Despite the method name, this method attempts to avoid actually copying the data when it is\n safe to do so. The exact circumstances under which a copy will or will not be performed are\n undocumented and subject to change.\n\n <p>This method is not type-safe, as it may be called on a map with keys that are not mutually\n comparable."
+  summary: "Returns an immutable map containing the same entries as `map`, sorted by the natural ordering of the keys.\n\nDespite the method name, this method attempts to avoid actually copying the data when it is safe to do so. The exact circumstances under which a copy will or will not be performed are undocumented and subject to change.\n\nThis method is not type-safe, as it may be called on a map with keys that are not mutually comparable."
   parameters:
   - name: "map"
     type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends K?alt=? extends K&text=? extends K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMap<K,V>.<K,V>copyOf(Map<? extends K,? extends V> map, Comparator<? super K> comparator)"
   name: "<K,V>copyOf(Map<? extends K,? extends V> map, Comparator<? super K> comparator)"
   nameWithType: "ImmutableSortedMap<K,V>.<K,V>copyOf(Map<? extends K,? extends V> map, Comparator<? super K> comparator)"
-  summary: "Returns an immutable map containing the same entries as <code>map</code>, with keys sorted by the\n provided comparator.\n\n <p>Despite the method name, this method attempts to avoid actually copying the data when it is\n safe to do so. The exact circumstances under which a copy will or will not be performed are\n undocumented and subject to change."
+  summary: "Returns an immutable map containing the same entries as `map`, with keys sorted by the provided comparator.\n\nDespite the method name, this method attempts to avoid actually copying the data when it is safe to do so. The exact circumstances under which a copy will or will not be performed are undocumented and subject to change."
   parameters:
   - name: "map"
     type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends K?alt=? extends K&text=? extends K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;"

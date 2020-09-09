@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.DiscreteDomain<C>.longs()"
   name: "longs()"
   nameWithType: "DiscreteDomain<C>.longs()"
-  summary: "Returns the discrete domain for values of type <code>Long</code>."
+  summary: "Returns the discrete domain for values of type `Long`."
   syntax: "public static DiscreteDomain<Long> longs()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.DiscreteDomain?alt=com.azure.cosmos.implementation.guava25.collect.DiscreteDomain&text=DiscreteDomain\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.Long?alt=java.lang.Long&text=Long\" data-throw-if-not-resolved=\"False\" />&gt;"

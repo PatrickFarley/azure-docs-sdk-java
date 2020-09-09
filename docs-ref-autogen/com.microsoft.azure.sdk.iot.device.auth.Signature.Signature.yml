@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.auth.Signature.Signature(String resourceUri, long expiryTime, String deviceKey)"
   name: "Signature(String resourceUri, long expiryTime, String deviceKey)"
   nameWithType: "Signature.Signature(String resourceUri, long expiryTime, String deviceKey)"
-  summary: "Constructs a <code>Signature</code> instance from the given resource URI,\n expiry time and device key."
+  summary: "Constructs a `Signature` instance from the given resource URI, expiry time and device key."
   parameters:
   - description: "the resource URI."
     name: "resourceUri"

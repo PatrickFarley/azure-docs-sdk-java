@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.bulkexecutor.DocumentBulkExecutor.Builder.build()"
   name: "build()"
   nameWithType: "DocumentBulkExecutor.Builder.build()"
-  summary: "Instantiates <xref uid=\"DocumentBulkExecutor\" data-throw-if-not-resolved=\"false\">DocumentBulkExecutor</xref> given the configured <xref uid=\"Builder\" data-throw-if-not-resolved=\"false\">Builder</xref>."
+  summary: "Instantiates <xref uid=\"com.microsoft.azure.documentdb.bulkexecutor.DocumentBulkExecutor\" data-throw-if-not-resolved=\"false\">DocumentBulkExecutor</xref> given the configured <xref uid=\"\" data-throw-if-not-resolved=\"false\">Builder</xref>."
   syntax: "public DocumentBulkExecutor build()"
   exceptions:
   - description: "if there is any failure"

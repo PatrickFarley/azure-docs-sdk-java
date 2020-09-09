@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.listSkusSinglePageAsync(String resourceGroupName, String vmScaleSetName)"
   name: "listSkusSinglePageAsync(String resourceGroupName, String vmScaleSetName)"
   nameWithType: "VirtualMachineScaleSetsClient.listSkusSinglePageAsync(String resourceGroupName, String vmScaleSetName)"
-  summary: "Gets a list of SKUs available for your VM scale set, including the minimum and maximum VM instances allowed for\n each SKU."
+  summary: "Gets a list of SKUs available for your VM scale set, including the minimum and maximum VM instances allowed for each SKU."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.listSkusSinglePageAsync(String resourceGroupName, String vmScaleSetName, Context context)"
   name: "listSkusSinglePageAsync(String resourceGroupName, String vmScaleSetName, Context context)"
   nameWithType: "VirtualMachineScaleSetsClient.listSkusSinglePageAsync(String resourceGroupName, String vmScaleSetName, Context context)"
-  summary: "Gets a list of SKUs available for your VM scale set, including the minimum and maximum VM instances allowed for\n each SKU."
+  summary: "Gets a list of SKUs available for your VM scale set, including the minimum and maximum VM instances allowed for each SKU."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

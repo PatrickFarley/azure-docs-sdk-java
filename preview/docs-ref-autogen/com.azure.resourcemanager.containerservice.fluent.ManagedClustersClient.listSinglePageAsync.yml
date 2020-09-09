@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ManagedClustersClient.listSinglePageAsync()"
   name: "listSinglePageAsync()"
   nameWithType: "ManagedClustersClient.listSinglePageAsync()"
-  summary: "Gets a list of managed clusters in the specified subscription. The operation returns properties of each managed\n cluster."
+  summary: "Gets a list of managed clusters in the specified subscription. The operation returns properties of each managed cluster."
   syntax: "public Mono<PagedResponse<ManagedClusterInner>> listSinglePageAsync()"
   returns:
     description: "a list of managed clusters in the specified subscription."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ManagedClustersClient.listSinglePageAsync(Context context)"
   name: "listSinglePageAsync(Context context)"
   nameWithType: "ManagedClustersClient.listSinglePageAsync(Context context)"
-  summary: "Gets a list of managed clusters in the specified subscription. The operation returns properties of each managed\n cluster."
+  summary: "Gets a list of managed clusters in the specified subscription. The operation returns properties of each managed cluster."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

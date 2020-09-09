@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueClient.sendMessage(String messageText)"
   name: "sendMessage(String messageText)"
   nameWithType: "QueueClient.sendMessage(String messageText)"
-  summary: "Sends a message that has a time-to-live of 7 days and is instantly visible.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Sends a message of \"Hello, Azure\"</p>\n\n <pre>\n SendMessageResult response = client.sendMessage&#40;&quot;hello msg&quot;&#41;;\n System.out.println&#40;&quot;Complete enqueuing the message with message Id&quot; + response.getMessageId&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/put-message\">Azure Docs</a>.</p>"
+  summary: "Sends a message that has a time-to-live of 7 days and is instantly visible.\n\n**Code Samples**\n\nSends a message of \"Hello, Azure\"\n\n```java\nSendMessageResult response = client.sendMessage(\"hello msg\");\n System.out.println(\"Complete enqueuing the message with message Id\" + response.getMessageId());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/put-message"
   parameters:
   - description: "Message text"
     name: "messageText"

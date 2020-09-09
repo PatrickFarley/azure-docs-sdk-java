@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.allowGuestsSignIn()"
   name: "allowGuestsSignIn()"
   nameWithType: "ApplicationInner.allowGuestsSignIn()"
-  summary: "Get the allowGuestsSignIn property: A property on the application to indicate if the application accepts other\n IDPs or not or partially accepts."
+  summary: "Get the allowGuestsSignIn property: A property on the application to indicate if the application accepts other IDPs or not or partially accepts."
   syntax: "public Boolean allowGuestsSignIn()"
   returns:
     description: "the allowGuestsSignIn value."

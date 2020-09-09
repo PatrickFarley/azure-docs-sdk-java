@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ChangeFeedOptions.isStartFromBeginning()"
   name: "isStartFromBeginning()"
   nameWithType: "ChangeFeedOptions.isStartFromBeginning()"
-  summary: "Get whether change feed should start from beginning (true) or from current\n (false). By default it's start from current (false)."
+  summary: "Get whether change feed should start from beginning (true) or from current (false). By default it's start from current (false)."
   syntax: "public boolean isStartFromBeginning()"
   returns:
     description: "a boolean value indicating change feed should start from beginning or\n not"

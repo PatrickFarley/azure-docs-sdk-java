@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.ClientFactory.createMessageSenderFromConnectionString(String amqpConnectionString)"
   name: "createMessageSenderFromConnectionString(String amqpConnectionString)"
   nameWithType: "ClientFactory.createMessageSenderFromConnectionString(String amqpConnectionString)"
-  summary: "Create message sender from service bus connection string with <a href=\"https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas\">Shared Access Signatures</a>"
+  summary: "Create message sender from service bus connection string with [Shared Access Signatures][]\n\n\n[Shared Access Signatures]: https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas"
   parameters:
   - description: "the connection string"
     name: "amqpConnectionString"

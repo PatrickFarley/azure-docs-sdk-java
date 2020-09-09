@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.Capability.withName(String name)"
   name: "withName(String name)"
   nameWithType: "Capability.withName(String name)"
-  summary: "Set the name property: Name of the Cosmos DB capability. For example, \"name\": \"EnableCassandra\". Current values\n also include \"EnableTable\" and \"EnableGremlin\"."
+  summary: "Set the name property: Name of the Cosmos DB capability. For example, \"name\": \"EnableCassandra\". Current values also include \"EnableTable\" and \"EnableGremlin\"."
   parameters:
   - description: "the name value to set."
     name: "name"

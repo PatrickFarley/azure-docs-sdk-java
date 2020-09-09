@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MappingCharFilter.getMappings()"
   name: "getMappings()"
   nameWithType: "MappingCharFilter.getMappings()"
-  summary: "Get the mappings property: A list of mappings of the following format:\n \"a=&gt;b\" (all occurrences of the character \"a\" will be replaced with\n character \"b\")."
+  summary: "Get the mappings property: A list of mappings of the following format: \"a=>b\" (all occurrences of the character \"a\" will be replaced with character \"b\")."
   syntax: "public List<String> getMappings()"
   returns:
     description: "the mappings value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosPermissionProperties.getResourceKind()"
   name: "getResourceKind()"
   nameWithType: "CosmosPermissionProperties.getResourceKind()"
-  summary: "Gets the kind of resource that has a Cosmos container as the parent resource which is associated with this\n   permission object."
+  summary: "Gets the kind of resource that has a Cosmos container as the parent resource which is associated with this permission object."
   syntax: "public ContainerChildResourceType getResourceKind()"
   returns:
     description: "the kind of resource that has a Cosmos container as parent resource."

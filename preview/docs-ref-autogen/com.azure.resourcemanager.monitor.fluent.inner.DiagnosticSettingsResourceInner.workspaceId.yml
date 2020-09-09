@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.DiagnosticSettingsResourceInner.workspaceId()"
   name: "workspaceId()"
   nameWithType: "DiagnosticSettingsResourceInner.workspaceId()"
-  summary: "Get the workspaceId property: The full ARM resource ID of the Log Analytics workspace to which you would like to\n send Diagnostic Logs. Example:\n /subscriptions/4b9e8510-67ab-4e9a-95a9-e2f1e570ea9c/resourceGroups/insights-integration/providers/Microsoft.OperationalInsights/workspaces/viruela2."
+  summary: "Get the workspaceId property: The full ARM resource ID of the Log Analytics workspace to which you would like to send Diagnostic Logs. Example: /subscriptions/4b9e8510-67ab-4e9a-95a9-e2f1e570ea9c/resourceGroups/insights-integration/providers/Microsoft.OperationalInsights/workspaces/viruela2."
   syntax: "public String workspaceId()"
   returns:
     description: "the workspaceId value."

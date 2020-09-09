@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncConflict.getId()"
   name: "getId()"
   nameWithType: "CosmosAsyncConflict.getId()"
-  summary: "Get the id of the <xref uid=\"CosmosAsyncConflict\" data-throw-if-not-resolved=\"false\">CosmosAsyncConflict</xref>"
+  summary: "Get the id of the <xref uid=\"com.azure.cosmos.CosmosAsyncConflict\" data-throw-if-not-resolved=\"false\">CosmosAsyncConflict</xref>"
   syntax: "public String getId()"
   returns:
     description: "the id of the <xref uid=\"com.azure.cosmos.CosmosAsyncConflict\" data-throw-if-not-resolved=\"false\">CosmosAsyncConflict</xref>"

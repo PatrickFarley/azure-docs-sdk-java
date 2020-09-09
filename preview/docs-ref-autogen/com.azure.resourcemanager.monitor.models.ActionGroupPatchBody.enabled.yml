@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ActionGroupPatchBody.enabled()"
   name: "enabled()"
   nameWithType: "ActionGroupPatchBody.enabled()"
-  summary: "Get the enabled property: Indicates whether this action group is enabled. If an action group is not enabled, then\n none of its actions will be activated."
+  summary: "Get the enabled property: Indicates whether this action group is enabled. If an action group is not enabled, then none of its actions will be activated."
   syntax: "public Boolean enabled()"
   returns:
     description: "the enabled value."

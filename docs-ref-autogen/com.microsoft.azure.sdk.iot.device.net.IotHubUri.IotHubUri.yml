@@ -13,7 +13,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.net.IotHubUri.IotHubUri(String iotHubHostname, String deviceId, String iotHubMethodPath, String moduleId)"
   name: "IotHubUri(String iotHubHostname, String deviceId, String iotHubMethodPath, String moduleId)"
   nameWithType: "IotHubUri.IotHubUri(String iotHubHostname, String deviceId, String iotHubMethodPath, String moduleId)"
-  summary: "Constructor. Equivalent to <code>new IotHubUri(iotHubHostname, deviceId,\n iotHubMethodPath, null)</code>."
+  summary: "Constructor. Equivalent to `new IotHubUri(iotHubHostname, deviceId, iotHubMethodPath, null)`."
   parameters:
   - description: "the IoT Hub hostname."
     name: "iotHubHostname"
@@ -32,7 +32,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.net.IotHubUri.IotHubUri(String iotHubHostname, String deviceId, String iotHubMethodPath, Map<String,String> queryParams, String moduleId)"
   name: "IotHubUri(String iotHubHostname, String deviceId, String iotHubMethodPath, Map<String,String> queryParams, String moduleId)"
   nameWithType: "IotHubUri.IotHubUri(String iotHubHostname, String deviceId, String iotHubMethodPath, Map<String,String> queryParams, String moduleId)"
-  summary: "Constructor. Creates a URI to an IoT Hub method. The URI does not include\n a protocol. The function will safely escape the given arguments."
+  summary: "Constructor. Creates a URI to an IoT Hub method. The URI does not include a protocol. The function will safely escape the given arguments."
   parameters:
   - description: "the IoT Hub hostname."
     name: "iotHubHostname"

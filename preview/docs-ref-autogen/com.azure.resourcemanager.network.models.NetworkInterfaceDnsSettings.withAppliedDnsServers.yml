@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterfaceDnsSettings.withAppliedDnsServers(List<String> appliedDnsServers)"
   name: "withAppliedDnsServers(List<String> appliedDnsServers)"
   nameWithType: "NetworkInterfaceDnsSettings.withAppliedDnsServers(List<String> appliedDnsServers)"
-  summary: "Set the appliedDnsServers property: If the VM that uses this NIC is part of an Availability Set, then this list\n will have the union of all DNS servers from all NICs that are part of the Availability Set. This property is what\n is configured on each of those VMs."
+  summary: "Set the appliedDnsServers property: If the VM that uses this NIC is part of an Availability Set, then this list will have the union of all DNS servers from all NICs that are part of the Availability Set. This property is what is configured on each of those VMs."
   parameters:
   - description: "the appliedDnsServers value to set."
     name: "appliedDnsServers"

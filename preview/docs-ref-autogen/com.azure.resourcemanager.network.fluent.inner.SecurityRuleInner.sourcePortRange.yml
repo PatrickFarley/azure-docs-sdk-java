@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.SecurityRuleInner.sourcePortRange()"
   name: "sourcePortRange()"
   nameWithType: "SecurityRuleInner.sourcePortRange()"
-  summary: "Get the sourcePortRange property: The source port or range. Integer or range between 0 and 65535. Asterisk '*'\n can also be used to match all ports."
+  summary: "Get the sourcePortRange property: The source port or range. Integer or range between 0 and 65535. Asterisk '\\*' can also be used to match all ports."
   syntax: "public String sourcePortRange()"
   returns:
     description: "the sourcePortRange value."

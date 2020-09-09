@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSetMultimap<K,V>.entries()"
   name: "entries()"
   nameWithType: "ImmutableSetMultimap<K,V>.entries()"
-  summary: "Returns an immutable collection of all key-value pairs in the multimap. Its iterator traverses\n the values for the first key, the values for the second key, and so on."
+  summary: "Returns an immutable collection of all key-value pairs in the multimap. Its iterator traverses the values for the first key, the values for the second key, and so on."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap.entries()"
   syntax: "public ImmutableSet<Map.Entry<K,V>> entries()"
   returns:

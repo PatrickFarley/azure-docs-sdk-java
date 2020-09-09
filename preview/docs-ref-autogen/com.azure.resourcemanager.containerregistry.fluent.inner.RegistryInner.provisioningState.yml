@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RegistryInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "RegistryInner.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the container registry at the time the operation\n was called."
+  summary: "Get the provisioningState property: The provisioning state of the container registry at the time the operation was called."
   syntax: "public ProvisioningState provisioningState()"
   returns:
     description: "the provisioningState value."

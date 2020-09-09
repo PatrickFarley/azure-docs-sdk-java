@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.StopwordsTokenFilter.areTrailingStopWordsRemoved()"
   name: "areTrailingStopWordsRemoved()"
   nameWithType: "StopwordsTokenFilter.areTrailingStopWordsRemoved()"
-  summary: "Get the removeTrailingStopWords property: A value indicating whether to\n ignore the last search term if it's a stop word. Default is true."
+  summary: "Get the removeTrailingStopWords property: A value indicating whether to ignore the last search term if it's a stop word. Default is true."
   syntax: "public Boolean areTrailingStopWordsRemoved()"
   returns:
     description: "the removeTrailingStopWords value."

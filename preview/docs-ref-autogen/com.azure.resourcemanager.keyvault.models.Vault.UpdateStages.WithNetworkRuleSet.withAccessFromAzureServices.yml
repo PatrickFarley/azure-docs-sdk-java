@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.Vault.UpdateStages.WithNetworkRuleSet.withAccessFromAzureServices()"
   name: "withAccessFromAzureServices()"
   nameWithType: "Vault.UpdateStages.WithNetworkRuleSet.withAccessFromAzureServices()"
-  summary: "Specifies that access to the key vault should be allowed from applications running on Microsoft azure\n services."
+  summary: "Specifies that access to the key vault should be allowed from applications running on Microsoft azure services."
   syntax: "public abstract Vault.Update withAccessFromAzureServices()"
   returns:
     description: "the update stage of key vault definition."

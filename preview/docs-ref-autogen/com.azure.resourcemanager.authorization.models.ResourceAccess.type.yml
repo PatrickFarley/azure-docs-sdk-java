@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ResourceAccess.type()"
   name: "type()"
   nameWithType: "ResourceAccess.type()"
-  summary: "Get the type property: Specifies whether the id property references an OAuth2Permission or an AppRole. Possible\n values are \"scope\" or \"role\"."
+  summary: "Get the type property: Specifies whether the id property references an OAuth2Permission or an AppRole. Possible values are \"scope\" or \"role\"."
   syntax: "public String type()"
   returns:
     description: "the type value."

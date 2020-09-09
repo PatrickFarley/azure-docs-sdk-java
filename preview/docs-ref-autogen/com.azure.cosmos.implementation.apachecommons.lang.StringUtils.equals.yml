@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.equals(CharSequence cs1, CharSequence cs2)"
   name: "equals(CharSequence cs1, CharSequence cs2)"
   nameWithType: "StringUtils.equals(CharSequence cs1, CharSequence cs2)"
-  summary: "<p>Compares two CharSequences, returning <code>true</code> if they represent\n equal sequences of characters.</p>"
+  summary: "Compares two CharSequences, returning `true` if they represent equal sequences of characters."
   parameters:
   - description: "the first CharSequence, may be <code>null</code>"
     name: "cs1"

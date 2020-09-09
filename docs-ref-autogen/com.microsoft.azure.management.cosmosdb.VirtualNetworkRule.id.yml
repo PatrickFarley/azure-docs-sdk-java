@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cosmosdb.VirtualNetworkRule.id()"
   name: "id()"
   nameWithType: "VirtualNetworkRule.id()"
-  summary: "Get resource ID of a subnet, for example: /subscriptions/{subscriptionId}/resourceGroups/{groupName}/providers/Microsoft.Network/virtualNetworks/{virtualNetworkName}/subnets/{subnetName}."
+  summary: "Get resource ID of a subnet, for example: /subscriptions/\\{subscriptionId\\}/resourceGroups/\\{groupName\\}/providers/Microsoft.Network/virtualNetworks/\\{virtualNetworkName\\}/subnets/\\{subnetName\\}."
   syntax: "public String id()"
   returns:
     description: "the id value"

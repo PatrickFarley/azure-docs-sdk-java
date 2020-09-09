@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.FinalizableReference.finalizeReferent()"
   name: "finalizeReferent()"
   nameWithType: "FinalizableReference.finalizeReferent()"
-  summary: "Invoked on a background thread after the referent has been garbage collected unless security\n restrictions prevented starting a background thread, in which case this method is invoked when\n new references are created."
+  summary: "Invoked on a background thread after the referent has been garbage collected unless security restrictions prevented starting a background thread, in which case this method is invoked when new references are created."
   syntax: "public abstract void finalizeReferent()"
 type: "method"
 metadata: {}

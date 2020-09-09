@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.Utility.convertStreamToByteBuffer(InputStream data, long length, int blockSize)"
   name: "convertStreamToByteBuffer(InputStream data, long length, int blockSize)"
   nameWithType: "Utility.convertStreamToByteBuffer(InputStream data, long length, int blockSize)"
-  summary: "A utility method for converting the input stream to Flux of ByteBuffer. Will check the equality of entity length\n and the input length."
+  summary: "A utility method for converting the input stream to Flux of ByteBuffer. Will check the equality of entity length and the input length."
   parameters:
   - description: "The input data which needs to convert to ByteBuffer."
     name: "data"

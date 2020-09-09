@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchClient.applicationOperations()"
   name: "applicationOperations()"
   nameWithType: "BatchClient.applicationOperations()"
-  summary: "Gets an <xref uid=\"ApplicationOperations\" data-throw-if-not-resolved=\"false\">ApplicationOperations</xref> object for performing application-related operations on the associated account."
+  summary: "Gets an <xref uid=\"com.microsoft.azure.batch.ApplicationOperations\" data-throw-if-not-resolved=\"false\">ApplicationOperations</xref> object for performing application-related operations on the associated account."
   syntax: "public ApplicationOperations applicationOperations()"
   returns:
     description: "An instance of the <xref uid=\"com.microsoft.azure.batch.ApplicationOperations\" data-throw-if-not-resolved=\"false\">ApplicationOperations</xref> class."

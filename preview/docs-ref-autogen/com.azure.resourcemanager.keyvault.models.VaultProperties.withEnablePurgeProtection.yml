@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.VaultProperties.withEnablePurgeProtection(Boolean enablePurgeProtection)"
   name: "withEnablePurgeProtection(Boolean enablePurgeProtection)"
   nameWithType: "VaultProperties.withEnablePurgeProtection(Boolean enablePurgeProtection)"
-  summary: "Set the enablePurgeProtection property: Property specifying whether protection against purge is enabled for this\n vault. Setting this property to true activates protection against purge for this vault and its content - only the\n Key Vault service may initiate a hard, irrecoverable deletion. The setting is effective only if soft delete is\n also enabled. Enabling this functionality is irreversible - that is, the property does not accept false as its\n value."
+  summary: "Set the enablePurgeProtection property: Property specifying whether protection against purge is enabled for this vault. Setting this property to true activates protection against purge for this vault and its content - only the Key Vault service may initiate a hard, irrecoverable deletion. The setting is effective only if soft delete is also enabled. Enabling this functionality is irreversible - that is, the property does not accept false as its value."
   parameters:
   - description: "the enablePurgeProtection value to set."
     name: "enablePurgeProtection"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.TopologyResource.associations()"
   name: "associations()"
   nameWithType: "TopologyResource.associations()"
-  summary: "Get the associations property: Holds the associations the resource has with other resources in the resource\n group."
+  summary: "Get the associations property: Holds the associations the resource has with other resources in the resource group."
   syntax: "public List<TopologyAssociation> associations()"
   returns:
     description: "the associations value."

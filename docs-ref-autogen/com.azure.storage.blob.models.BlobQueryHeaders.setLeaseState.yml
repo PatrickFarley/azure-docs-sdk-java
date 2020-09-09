@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobQueryHeaders.setLeaseState(LeaseStateType leaseState)"
   name: "setLeaseState(LeaseStateType leaseState)"
   nameWithType: "BlobQueryHeaders.setLeaseState(LeaseStateType leaseState)"
-  summary: "Set the leaseState property: Lease state of the blob. Possible values\n include: 'available', 'leased', 'expired', 'breaking', 'broken'."
+  summary: "Set the leaseState property: Lease state of the blob. Possible values include: 'available', 'leased', 'expired', 'breaking', 'broken'."
   parameters:
   - description: "the leaseState value to set."
     name: "leaseState"

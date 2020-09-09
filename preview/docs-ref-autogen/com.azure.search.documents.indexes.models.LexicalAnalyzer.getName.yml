@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LexicalAnalyzer.getName()"
   name: "getName()"
   nameWithType: "LexicalAnalyzer.getName()"
-  summary: "Get the name property: The name of the analyzer. It must only contain\n letters, digits, spaces, dashes or underscores, can only start and end\n with alphanumeric characters, and is limited to 128 characters."
+  summary: "Get the name property: The name of the analyzer. It must only contain letters, digits, spaces, dashes or underscores, can only start and end with alphanumeric characters, and is limited to 128 characters."
   syntax: "public String getName()"
   returns:
     description: "the name value."

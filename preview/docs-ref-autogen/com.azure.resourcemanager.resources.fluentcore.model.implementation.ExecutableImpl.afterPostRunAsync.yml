@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.ExecutableImpl<FluentModelT>.afterPostRunAsync(boolean isGroupFaulted)"
   name: "afterPostRunAsync(boolean isGroupFaulted)"
   nameWithType: "ExecutableImpl<FluentModelT>.afterPostRunAsync(boolean isGroupFaulted)"
-  summary: "Perform any action followed by the processing of work scheduled to be invoked\n (i.e. \"post run\") after {@link this#executeWorkAsync()}."
+  summary: "Perform any action followed by the processing of work scheduled to be invoked (i.e. \"post run\") after \\{@link this\\#executeWorkAsync()\\}."
   parameters:
   - name: "isGroupFaulted"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

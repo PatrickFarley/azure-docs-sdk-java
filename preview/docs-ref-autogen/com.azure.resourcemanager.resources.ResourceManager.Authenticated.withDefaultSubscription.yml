@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.ResourceManager.Authenticated.withDefaultSubscription()"
   name: "withDefaultSubscription()"
   nameWithType: "ResourceManager.Authenticated.withDefaultSubscription()"
-  summary: "Specifies to use subscription from <xref uid=\"AzureProfile\" data-throw-if-not-resolved=\"false\">AzureProfile</xref>. If no subscription provided, we will\n try to set the only subscription if applicable returned by <xref uid=\"Authenticated#subscriptions()\" data-throw-if-not-resolved=\"false\">Authenticated#subscriptions()</xref>."
+  summary: "Specifies to use subscription from <xref uid=\"com.azure.resourcemanager.resources.fluentcore.profile.AzureProfile\" data-throw-if-not-resolved=\"false\">AzureProfile</xref>. If no subscription provided, we will try to set the only subscription if applicable returned by <xref uid=\"\" data-throw-if-not-resolved=\"false\">Authenticated#subscriptions()</xref>."
   syntax: "public abstract ResourceManager withDefaultSubscription()"
   returns:
     description: "the ResourceManager instance with entry points that work in a subscription"

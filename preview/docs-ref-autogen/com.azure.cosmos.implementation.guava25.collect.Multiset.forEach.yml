@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.forEach(Consumer<? super E> action)"
   name: "forEach(Consumer<? super E> action)"
   nameWithType: "Multiset<E>.forEach(Consumer<? super E> action)"
-  summary: "\n\n <p>Elements that occur multiple times in the multiset will be passed to the <code>Consumer</code>\n correspondingly many times, though not necessarily sequentially."
+  summary: "Elements that occur multiple times in the multiset will be passed to the `Consumer` correspondingly many times, though not necessarily sequentially."
   parameters:
   - name: "action"
     type: "<xref href=\"java.util.function.Consumer?alt=java.util.function.Consumer&text=Consumer\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super E?alt=? super E&text=? super E\" data-throw-if-not-resolved=\"False\" />&gt;"

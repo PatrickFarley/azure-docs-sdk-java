@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.deleteWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName)"
   name: "deleteWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName)"
   nameWithType: "PartnerNamespacesInner.deleteWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName)"
-  summary: "Delete a partner namespace.\n Delete existing partner namespace."
+  summary: "Delete a partner namespace. Delete existing partner namespace."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

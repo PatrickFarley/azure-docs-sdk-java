@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedInstanceInner.dnsZonePartner()"
   name: "dnsZonePartner()"
   nameWithType: "ManagedInstanceInner.dnsZonePartner()"
-  summary: "Get the dnsZonePartner property: The resource id of another managed instance whose DNS zone this managed instance\n will share after creation."
+  summary: "Get the dnsZonePartner property: The resource id of another managed instance whose DNS zone this managed instance will share after creation."
   syntax: "public String dnsZonePartner()"
   returns:
     description: "the dnsZonePartner value."

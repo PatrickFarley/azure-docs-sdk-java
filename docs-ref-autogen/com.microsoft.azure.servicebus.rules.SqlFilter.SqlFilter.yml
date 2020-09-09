@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.rules.SqlFilter.SqlFilter(String sqlExpression)"
   name: "SqlFilter(String sqlExpression)"
   nameWithType: "SqlFilter.SqlFilter(String sqlExpression)"
-  summary: "Creates an instance of <code>SqlFilter</code> with the given match expression."
+  summary: "Creates an instance of `SqlFilter` with the given match expression."
   parameters:
   - description: "SQL language-based filter expression"
     name: "sqlExpression"

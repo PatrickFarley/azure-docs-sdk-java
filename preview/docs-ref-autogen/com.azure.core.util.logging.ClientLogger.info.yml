@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.info(String format, Object[] args)"
   name: "info(String format, Object[] args)"
   nameWithType: "ClientLogger.info(String format, Object[] args)"
-  summary: "Logs a formattable message that uses <code>{}</code> as the placeholder at <code>informational</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging a message at informational log level.</p>\n\n {@codesnippet com.azure.core.util.logging.clientlogger.info}"
+  summary: "Logs a formattable message that uses `{}` as the placeholder at `informational` log level.\n\n**Code samples**\n\nLogging a message at informational log level.\n\n\\{@codesnippet com.azure.core.util.logging.clientlogger.info\\}"
   parameters:
   - description: "The formattable message to log"
     name: "format"

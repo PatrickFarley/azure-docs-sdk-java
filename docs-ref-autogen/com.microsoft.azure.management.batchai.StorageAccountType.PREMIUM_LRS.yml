@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.StorageAccountType.PREMIUM_LRS"
   name: "PREMIUM_LRS"
   nameWithType: "StorageAccountType.PREMIUM_LRS"
-  summary: "Static value Premium_LRS for StorageAccountType."
+  summary: "Static value Premium\\_LRS for StorageAccountType."
   syntax: "public static final StorageAccountType PREMIUM_LRS"
 type: "field"
 metadata: {}

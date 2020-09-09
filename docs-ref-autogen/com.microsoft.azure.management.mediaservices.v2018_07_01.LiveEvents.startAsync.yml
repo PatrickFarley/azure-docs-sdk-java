@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEvents.startAsync(String resourceGroupName, String accountName, String liveEventName)"
   name: "startAsync(String resourceGroupName, String accountName, String liveEventName)"
   nameWithType: "LiveEvents.startAsync(String resourceGroupName, String accountName, String liveEventName)"
-  summary: "Start Live Event.\n Starts an existing Live Event."
+  summary: "Start Live Event. Starts an existing Live Event."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetRollingUpgradesClient.beginStartExtensionUpgradeWithoutPolling(String resourceGroupName, String vmScaleSetName)"
   name: "beginStartExtensionUpgradeWithoutPolling(String resourceGroupName, String vmScaleSetName)"
   nameWithType: "VirtualMachineScaleSetRollingUpgradesClient.beginStartExtensionUpgradeWithoutPolling(String resourceGroupName, String vmScaleSetName)"
-  summary: "Starts a rolling upgrade to move all extensions for all virtual machine scale set instances to the latest\n available extension version. Instances which are already running the latest extension versions are not affected."
+  summary: "Starts a rolling upgrade to move all extensions for all virtual machine scale set instances to the latest available extension version. Instances which are already running the latest extension versions are not affected."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetRollingUpgradesClient.beginStartExtensionUpgradeWithoutPolling(String resourceGroupName, String vmScaleSetName, Context context)"
   name: "beginStartExtensionUpgradeWithoutPolling(String resourceGroupName, String vmScaleSetName, Context context)"
   nameWithType: "VirtualMachineScaleSetRollingUpgradesClient.beginStartExtensionUpgradeWithoutPolling(String resourceGroupName, String vmScaleSetName, Context context)"
-  summary: "Starts a rolling upgrade to move all extensions for all virtual machine scale set instances to the latest\n available extension version. Instances which are already running the latest extension versions are not affected."
+  summary: "Starts a rolling upgrade to move all extensions for all virtual machine scale set instances to the latest available extension version. Instances which are already running the latest extension versions are not affected."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

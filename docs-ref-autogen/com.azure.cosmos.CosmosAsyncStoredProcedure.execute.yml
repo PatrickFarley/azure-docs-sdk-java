@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncStoredProcedure.execute(List<Object> procedureParams, CosmosStoredProcedureRequestOptions options)"
   name: "execute(List<Object> procedureParams, CosmosStoredProcedureRequestOptions options)"
   nameWithType: "CosmosAsyncStoredProcedure.execute(List<Object> procedureParams, CosmosStoredProcedureRequestOptions options)"
-  summary: "Executes a stored procedure\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the stored procedure\n response.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Executes a stored procedure\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the stored procedure response. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the list of procedure parameter values."
     name: "procedureParams"

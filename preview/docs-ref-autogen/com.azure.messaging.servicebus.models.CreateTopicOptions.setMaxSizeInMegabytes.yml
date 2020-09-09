@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateTopicOptions.setMaxSizeInMegabytes(long maxSizeInMegabytes)"
   name: "setMaxSizeInMegabytes(long maxSizeInMegabytes)"
   nameWithType: "CreateTopicOptions.setMaxSizeInMegabytes(long maxSizeInMegabytes)"
-  summary: "Set the maxSizeInMegabytes property: The maximum size of the queue in megabytes, which is the size of memory\n allocated for the queue."
+  summary: "Set the maxSizeInMegabytes property: The maximum size of the queue in megabytes, which is the size of memory allocated for the queue."
   parameters:
   - description: "the maxSizeInMegabytes value to set."
     name: "maxSizeInMegabytes"

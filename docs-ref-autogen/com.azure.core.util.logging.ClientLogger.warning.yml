@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.warning(String message)"
   name: "warning(String message)"
   nameWithType: "ClientLogger.warning(String message)"
-  summary: "Logs a message at <code>warning</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging a message at verbose log level.</p>\n\n <pre>\n Throwable detailedException = new IllegalArgumentException&#40;&quot;A exception with a detailed message&quot;&#41;;\n logger.warning&#40;detailedException.getMessage&#40;&#41;&#41;;\n </pre>"
+  summary: "Logs a message at `warning` log level.\n\n**Code samples**\n\nLogging a message at verbose log level.\n\n```java\nThrowable detailedException = new IllegalArgumentException(\"A exception with a detailed message\");\n logger.warning(detailedException.getMessage());\n```"
   parameters:
   - description: "The message to log."
     name: "message"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.warning(String format, Object[] args)"
   name: "warning(String format, Object[] args)"
   nameWithType: "ClientLogger.warning(String format, Object[] args)"
-  summary: "Logs a formattable message that uses <code>{}</code> as the placeholder at <code>warning</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging a message at warning log level.</p>\n\n <pre>\n Throwable exception = new IllegalArgumentException&#40;&quot;An invalid argument was encountered.&quot;&#41;;\n logger.warning&#40;&quot;A formattable message. Hello, &#123;&#125;&quot;, name, exception&#41;;\n </pre>"
+  summary: "Logs a formattable message that uses `{}` as the placeholder at `warning` log level.\n\n**Code samples**\n\nLogging a message at warning log level.\n\n```java\nThrowable exception = new IllegalArgumentException(\"An invalid argument was encountered.\");\n logger.warning(\"A formattable message. Hello, {}\", name, exception);\n```"
   parameters:
   - description: "The formattable message to log."
     name: "format"

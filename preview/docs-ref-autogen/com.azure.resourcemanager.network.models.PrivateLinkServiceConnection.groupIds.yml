@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PrivateLinkServiceConnection.groupIds()"
   name: "groupIds()"
   nameWithType: "PrivateLinkServiceConnection.groupIds()"
-  summary: "Get the groupIds property: The ID(s) of the group(s) obtained from the remote resource that this private endpoint\n should connect to."
+  summary: "Get the groupIds property: The ID(s) of the group(s) obtained from the remote resource that this private endpoint should connect to."
   syntax: "public List<String> groupIds()"
   returns:
     description: "the groupIds value."

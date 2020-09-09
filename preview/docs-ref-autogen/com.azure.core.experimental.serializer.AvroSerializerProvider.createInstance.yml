@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.serializer.AvroSerializerProvider.createInstance(String schema)"
   name: "createInstance(String schema)"
   nameWithType: "AvroSerializerProvider.createInstance(String schema)"
-  summary: "Creates a new Avro-based <xref uid=\"ObjectSerializer\" data-throw-if-not-resolved=\"false\">ObjectSerializer</xref> tied to the given schema."
+  summary: "Creates a new Avro-based <xref uid=\"com.azure.core.util.serializer.ObjectSerializer\" data-throw-if-not-resolved=\"false\">ObjectSerializer</xref> tied to the given schema."
   parameters:
   - description: "The Avro schema that will be associated to the serializer."
     name: "schema"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.serializer.HttpResponseDecodeData.getReturnValueWireType()"
   name: "getReturnValueWireType()"
   nameWithType: "HttpResponseDecodeData.getReturnValueWireType()"
-  summary: "Get the type of the 'entity' in HTTP response content.\n\n When this method return non-null <code>java.lang.reflect.Type</code> then the raw HTTP response\n content will need to parsed to this <code>java.lang.reflect.Type</code> then converted to actual\n <code>returnType</code>."
+  summary: "Get the type of the 'entity' in HTTP response content. When this method return non-null `java.lang.reflect.Type` then the raw HTTP response content will need to parsed to this `java.lang.reflect.Type` then converted to actual `returnType`."
   syntax: "public default Type getReturnValueWireType()"
   returns:
     description: "the type that the raw HTTP response content will be sent as"

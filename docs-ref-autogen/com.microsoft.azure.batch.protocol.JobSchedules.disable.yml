@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.disable(String jobScheduleId)"
   name: "disable(String jobScheduleId)"
   nameWithType: "JobSchedules.disable(String jobScheduleId)"
-  summary: "Disables a Job Schedule.\n No new Jobs will be created until the Job Schedule is enabled again."
+  summary: "Disables a Job Schedule. No new Jobs will be created until the Job Schedule is enabled again."
   parameters:
   - description: "The ID of the Job Schedule to disable."
     name: "jobScheduleId"
@@ -18,7 +18,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.disable(String jobScheduleId, JobScheduleDisableOptions jobScheduleDisableOptions)"
   name: "disable(String jobScheduleId, JobScheduleDisableOptions jobScheduleDisableOptions)"
   nameWithType: "JobSchedules.disable(String jobScheduleId, JobScheduleDisableOptions jobScheduleDisableOptions)"
-  summary: "Disables a Job Schedule.\n No new Jobs will be created until the Job Schedule is enabled again."
+  summary: "Disables a Job Schedule. No new Jobs will be created until the Job Schedule is enabled again."
   parameters:
   - description: "The ID of the Job Schedule to disable."
     name: "jobScheduleId"

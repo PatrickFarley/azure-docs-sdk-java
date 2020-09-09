@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetUpdateIpConfiguration.withPrimary(Boolean primary)"
   name: "withPrimary(Boolean primary)"
   nameWithType: "VirtualMachineScaleSetUpdateIpConfiguration.withPrimary(Boolean primary)"
-  summary: "Set the primary property: Specifies the primary IP Configuration in case the network interface has more than one\n IP Configuration."
+  summary: "Set the primary property: Specifies the primary IP Configuration in case the network interface has more than one IP Configuration."
   parameters:
   - description: "the primary value to set."
     name: "primary"

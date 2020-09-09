@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.Registry.DefinitionStages.WithStorageAccount.withExistingStorageAccount(StorageAccount storageAccount)"
   name: "withExistingStorageAccount(StorageAccount storageAccount)"
   nameWithType: "Registry.DefinitionStages.WithStorageAccount.withExistingStorageAccount(StorageAccount storageAccount)"
-  summary: "The parameters of a storage account for the container registry.\n\n <p>If specified, the storage account must be in the same physical location as the container registry."
+  summary: "The parameters of a storage account for the container registry.\n\nIf specified, the storage account must be in the same physical location as the container registry."
   parameters:
   - description: "the storage account"
     name: "storageAccount"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.Registry.DefinitionStages.WithStorageAccount.withExistingStorageAccount(String id)"
   name: "withExistingStorageAccount(String id)"
   nameWithType: "Registry.DefinitionStages.WithStorageAccount.withExistingStorageAccount(String id)"
-  summary: "The ID of an existing storage account for the container registry.\n\n <p>If specified, the storage account must be in the same physical location as the container registry."
+  summary: "The ID of an existing storage account for the container registry.\n\nIf specified, the storage account must be in the same physical location as the container registry."
   parameters:
   - description: "the resource ID of the storage account; must be in the same physical location as the container\n     registry"
     name: "id"

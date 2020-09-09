@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestOptions.setTop(Integer top)"
   name: "setTop(Integer top)"
   nameWithType: "SuggestOptions.setTop(Integer top)"
-  summary: "Set the top property: The number of suggestions to retrieve. The value must be a number between 1 and 100. The\n default is 5."
+  summary: "Set the top property: The number of suggestions to retrieve. The value must be a number between 1 and 100. The default is 5."
   parameters:
   - description: "the top value to set."
     name: "top"

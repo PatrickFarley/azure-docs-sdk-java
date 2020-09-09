@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ServiceEndpointPolicyInner.serviceEndpointPolicyDefinitions()"
   name: "serviceEndpointPolicyDefinitions()"
   nameWithType: "ServiceEndpointPolicyInner.serviceEndpointPolicyDefinitions()"
-  summary: "Get the serviceEndpointPolicyDefinitions property: A collection of service endpoint policy definitions of the\n service endpoint policy."
+  summary: "Get the serviceEndpointPolicyDefinitions property: A collection of service endpoint policy definitions of the service endpoint policy."
   syntax: "public List<ServiceEndpointPolicyDefinitionInner> serviceEndpointPolicyDefinitions()"
   returns:
     description: "the serviceEndpointPolicyDefinitions value."

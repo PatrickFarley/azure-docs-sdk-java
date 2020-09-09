@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.<T>unmodifiableIterable(Iterable<? extends T> iterable)"
   name: "<T>unmodifiableIterable(Iterable<? extends T> iterable)"
   nameWithType: "Iterables.<T>unmodifiableIterable(Iterable<? extends T> iterable)"
-  summary: "Returns an unmodifiable view of <code>iterable</code>."
+  summary: "Returns an unmodifiable view of `iterable`."
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends T?alt=? extends T&text=? extends T\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementAsyncClient.deleteTopicWithResponse(String topicName)"
   name: "deleteTopicWithResponse(String topicName)"
   nameWithType: "ServiceBusManagementAsyncClient.deleteTopicWithResponse(String topicName)"
-  summary: "Deletes a topic the matching <code>topicName</code> and returns the HTTP response."
+  summary: "Deletes a topic the matching `topicName` and returns the HTTP response."
   parameters:
   - description: "Name of topic to delete."
     name: "topicName"

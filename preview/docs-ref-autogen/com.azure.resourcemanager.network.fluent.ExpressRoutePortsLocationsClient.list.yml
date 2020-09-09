@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRoutePortsLocationsClient.list()"
   name: "list()"
   nameWithType: "ExpressRoutePortsLocationsClient.list()"
-  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location.\n Available bandwidths can only be obtained when retrieving a specific peering location."
+  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location. Available bandwidths can only be obtained when retrieving a specific peering location."
   syntax: "public PagedIterable<ExpressRoutePortsLocationInner> list()"
   returns:
     description: "response for ListExpressRoutePortsLocations API service call."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRoutePortsLocationsClient.list(Context context)"
   name: "list(Context context)"
   nameWithType: "ExpressRoutePortsLocationsClient.list(Context context)"
-  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location.\n Available bandwidths can only be obtained when retrieving a specific peering location."
+  summary: "Retrieves all ExpressRoutePort peering locations. Does not return available bandwidths for each location. Available bandwidths can only be obtained when retrieving a specific peering location."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

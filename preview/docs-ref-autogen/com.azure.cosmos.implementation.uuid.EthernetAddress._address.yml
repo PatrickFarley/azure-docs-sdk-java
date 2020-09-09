@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress._address"
   name: "_address"
   nameWithType: "EthernetAddress._address"
-  summary: "48-bit MAC address, stored in 6 lowest-significant bytes (in\n big endian notation)"
+  summary: "48-bit MAC address, stored in 6 lowest-significant bytes (in big endian notation)"
   syntax: "protected final long _address"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSetMultimap<K,V>.get(K key)"
   name: "get(K key)"
   nameWithType: "ImmutableSetMultimap<K,V>.get(K key)"
-  summary: "Returns an immutable set of the values for the given key. If no mappings in the multimap have\n the provided key, an empty immutable set is returned. The values are in the same order as the\n parameters used to build this multimap."
+  summary: "Returns an immutable set of the values for the given key. If no mappings in the multimap have the provided key, an empty immutable set is returned. The values are in the same order as the parameters used to build this multimap."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap.get(K)"
   parameters:
   - name: "key"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LimitTokenFilter.getMaxTokenCount()"
   name: "getMaxTokenCount()"
   nameWithType: "LimitTokenFilter.getMaxTokenCount()"
-  summary: "Get the maxTokenCount property: The maximum number of tokens to produce.\n Default is 1."
+  summary: "Get the maxTokenCount property: The maximum number of tokens to produce. Default is 1."
   syntax: "public Integer getMaxTokenCount()"
   returns:
     description: "the maxTokenCount value."

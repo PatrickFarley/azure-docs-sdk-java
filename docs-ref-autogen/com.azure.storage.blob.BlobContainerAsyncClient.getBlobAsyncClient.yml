@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobContainerAsyncClient.getBlobAsyncClient(String blobName)"
   name: "getBlobAsyncClient(String blobName)"
   nameWithType: "BlobContainerAsyncClient.getBlobAsyncClient(String blobName)"
-  summary: "Creates a new BlobAsyncClient object by concatenating blobName to the end of ContainerAsyncClient's URL. The new\n BlobAsyncClient uses the same request policy pipeline as the ContainerAsyncClient.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n BlobAsyncClient blobAsyncClient = client.getBlobAsyncClient&#40;blobName&#41;;\n </pre>"
+  summary: "Creates a new BlobAsyncClient object by concatenating blobName to the end of ContainerAsyncClient's URL. The new BlobAsyncClient uses the same request policy pipeline as the ContainerAsyncClient.\n\n**Code Samples**\n\n```java\nBlobAsyncClient blobAsyncClient = client.getBlobAsyncClient(blobName);\n```"
   parameters:
   - description: "A <code>String</code> representing the name of the blob."
     name: "blobName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.blob.BlobContainerAsyncClient.getBlobAsyncClient(String blobName, String snapshot)"
   name: "getBlobAsyncClient(String blobName, String snapshot)"
   nameWithType: "BlobContainerAsyncClient.getBlobAsyncClient(String blobName, String snapshot)"
-  summary: "Creates a new BlobAsyncClient object by concatenating blobName to the end of ContainerAsyncClient's URL. The new\n BlobAsyncClient uses the same request policy pipeline as the ContainerAsyncClient.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n BlobAsyncClient blobAsyncClient = client.getBlobAsyncClient&#40;blobName, snapshot&#41;;\n </pre>"
+  summary: "Creates a new BlobAsyncClient object by concatenating blobName to the end of ContainerAsyncClient's URL. The new BlobAsyncClient uses the same request policy pipeline as the ContainerAsyncClient.\n\n**Code Samples**\n\n```java\nBlobAsyncClient blobAsyncClient = client.getBlobAsyncClient(blobName, snapshot);\n```"
   parameters:
   - description: "A <code>String</code> representing the name of the blob."
     name: "blobName"

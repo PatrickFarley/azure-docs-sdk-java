@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueClient.setMetadata(Map<String,String> metadata)"
   name: "setMetadata(Map<String,String> metadata)"
   nameWithType: "QueueClient.setMetadata(Map<String,String> metadata)"
-  summary: "Sets the metadata of the queue.\n\n Passing in a <code>null</code> value for metadata will clear the metadata associated with the queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Set the queue's metadata to \"queue:metadataMap\"</p>\n\n <pre>\n client.setMetadata&#40;Collections.singletonMap&#40;&quot;queue&quot;, &quot;metadataMap&quot;&#41;&#41;;\n System.out.println&#40;&quot;Setting metadata completed.&quot;&#41;;\n </pre>\n\n <p>Clear the queue's metadata</p>\n\n <pre>\n client.setMetadata&#40;null&#41;;\n System.out.println&#40;&quot;Clearing metadata completed.&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/set-queue-metadata\">Azure Docs</a>.</p>"
+  summary: "Sets the metadata of the queue. Passing in a `null` value for metadata will clear the metadata associated with the queue.\n\n**Code Samples**\n\nSet the queue's metadata to \"queue:metadataMap\"\n\n```java\nclient.setMetadata(Collections.singletonMap(\"queue\", \"metadataMap\"));\n System.out.println(\"Setting metadata completed.\");\n```\n\nClear the queue's metadata\n\n```java\nclient.setMetadata(null);\n System.out.println(\"Clearing metadata completed.\");\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/set-queue-metadata"
   parameters:
   - description: "Metadata to set on the queue"
     name: "metadata"

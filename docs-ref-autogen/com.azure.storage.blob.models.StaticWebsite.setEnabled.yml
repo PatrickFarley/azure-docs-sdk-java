@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.StaticWebsite.setEnabled(boolean enabled)"
   name: "setEnabled(boolean enabled)"
   nameWithType: "StaticWebsite.setEnabled(boolean enabled)"
-  summary: "Set the enabled property: Indicates whether this account is hosting a\n static website."
+  summary: "Set the enabled property: Indicates whether this account is hosting a static website."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.fluent.inner.ZoneInner.resolutionVirtualNetworks()"
   name: "resolutionVirtualNetworks()"
   nameWithType: "ZoneInner.resolutionVirtualNetworks()"
-  summary: "Get the resolutionVirtualNetworks property: A list of references to virtual networks that resolve records in this\n DNS zone. This is a only when ZoneType is Private."
+  summary: "Get the resolutionVirtualNetworks property: A list of references to virtual networks that resolve records in this DNS zone. This is a only when ZoneType is Private."
   syntax: "public List<SubResource> resolutionVirtualNetworks()"
   returns:
     description: "the resolutionVirtualNetworks value."

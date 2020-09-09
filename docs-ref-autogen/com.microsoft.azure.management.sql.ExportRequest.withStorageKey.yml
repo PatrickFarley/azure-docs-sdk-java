@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.ExportRequest.withStorageKey(String storageKey)"
   name: "withStorageKey(String storageKey)"
   nameWithType: "ExportRequest.withStorageKey(String storageKey)"
-  summary: "Set the storage key to use.  If storage key type is SharedAccessKey, it must be preceded with a \"?.\"."
+  summary: "Set the storage key to use. If storage key type is SharedAccessKey, it must be preceded with a \"?.\"."
   parameters:
   - description: "the storageKey value to set"
     name: "storageKey"

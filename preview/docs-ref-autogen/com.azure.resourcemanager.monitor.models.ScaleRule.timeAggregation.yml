@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleRule.timeAggregation()"
   name: "timeAggregation()"
   nameWithType: "ScaleRule.timeAggregation()"
-  summary: "Get the time aggregation type. How the data that is collected should be combined over time. The default value is\n Average. Possible values include: 'Average', 'Minimum', 'Maximum', 'Total', 'Count'."
+  summary: "Get the time aggregation type. How the data that is collected should be combined over time. The default value is Average. Possible values include: 'Average', 'Minimum', 'Maximum', 'Total', 'Count'."
   syntax: "public abstract TimeAggregationType timeAggregation()"
   returns:
     description: "the timeAggregation value"

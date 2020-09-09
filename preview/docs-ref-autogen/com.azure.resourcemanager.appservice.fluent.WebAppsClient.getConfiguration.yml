@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getConfiguration(String resourceGroupName, String name)"
   name: "getConfiguration(String resourceGroupName, String name)"
   nameWithType: "WebAppsClient.getConfiguration(String resourceGroupName, String name)"
-  summary: "Description for Gets the configuration of an app, such as platform version and bitness, default documents,\n virtual applications, Always On, etc."
+  summary: "Description for Gets the configuration of an app, such as platform version and bitness, default documents, virtual applications, Always On, etc."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getConfiguration(String resourceGroupName, String name, Context context)"
   name: "getConfiguration(String resourceGroupName, String name, Context context)"
   nameWithType: "WebAppsClient.getConfiguration(String resourceGroupName, String name, Context context)"
-  summary: "Description for Gets the configuration of an app, such as platform version and bitness, default documents,\n virtual applications, Always On, etc."
+  summary: "Description for Gets the configuration of an app, such as platform version and bitness, default documents, virtual applications, Always On, etc."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

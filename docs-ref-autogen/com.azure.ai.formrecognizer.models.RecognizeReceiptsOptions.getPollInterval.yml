@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.RecognizeReceiptsOptions.getPollInterval()"
   name: "getPollInterval()"
   nameWithType: "RecognizeReceiptsOptions.getPollInterval()"
-  summary: "Get the duration between each poll for the operation status. If none is specified, a default of\n 5 seconds is used."
+  summary: "Get the duration between each poll for the operation status. If none is specified, a default of 5 seconds is used."
   syntax: "public Duration getPollInterval()"
   returns:
     description: "the <code>pollInterval</code> value."

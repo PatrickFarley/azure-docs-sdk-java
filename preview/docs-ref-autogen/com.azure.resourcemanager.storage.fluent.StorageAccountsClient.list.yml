@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.list()"
   name: "list()"
   nameWithType: "StorageAccountsClient.list()"
-  summary: "Lists all the storage accounts available under the subscription. Note that storage keys are not returned; use the\n ListKeys operation for this."
+  summary: "Lists all the storage accounts available under the subscription. Note that storage keys are not returned; use the ListKeys operation for this."
   syntax: "public PagedIterable<StorageAccountInner> list()"
   returns:
     description: "the response from the List Storage Accounts operation."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.list(Context context)"
   name: "list(Context context)"
   nameWithType: "StorageAccountsClient.list(Context context)"
-  summary: "Lists all the storage accounts available under the subscription. Note that storage keys are not returned; use the\n ListKeys operation for this."
+  summary: "Lists all the storage accounts available under the subscription. Note that storage keys are not returned; use the ListKeys operation for this."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

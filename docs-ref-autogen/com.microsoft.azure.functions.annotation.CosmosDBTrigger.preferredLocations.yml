@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.functions.annotation.CosmosDBTrigger.preferredLocations()"
   name: "preferredLocations()"
   nameWithType: "CosmosDBTrigger.preferredLocations()"
-  summary: "Defines preferred locations (regions) for geo-replicated database accounts in the Azure Cosmos\n DB service. Values should be comma-separated. example, PreferredLocations = \"East US,South\n Central US,North Europe\""
+  summary: "Defines preferred locations (regions) for geo-replicated database accounts in the Azure Cosmos DB service. Values should be comma-separated. example, PreferredLocations = \"East US,South Central US,North Europe\""
   syntax: "public abstract String preferredLocations()"
   returns:
     description: "preferred locations (regions) for geo-replicated database accounts"

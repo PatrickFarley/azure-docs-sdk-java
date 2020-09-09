@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.GalleryApplicationListInner.nextLink()"
   name: "nextLink()"
   nameWithType: "GalleryApplicationListInner.nextLink()"
-  summary: "Get the nextLink property: The uri to fetch the next page of Application Definitions in the Application Gallery.\n Call ListNext() with this to fetch the next page of gallery Application Definitions."
+  summary: "Get the nextLink property: The uri to fetch the next page of Application Definitions in the Application Gallery. Call ListNext() with this to fetch the next page of gallery Application Definitions."
   syntax: "public String nextLink()"
   returns:
     description: "the nextLink value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkGatewayInner.gatewayDefaultSite()"
   name: "gatewayDefaultSite()"
   nameWithType: "VirtualNetworkGatewayInner.gatewayDefaultSite()"
-  summary: "Get the gatewayDefaultSite property: The reference of the LocalNetworkGateway resource which represents local\n network site having default routes. Assign Null value in case of removing existing default site setting."
+  summary: "Get the gatewayDefaultSite property: The reference of the LocalNetworkGateway resource which represents local network site having default routes. Assign Null value in case of removing existing default site setting."
   syntax: "public SubResource gatewayDefaultSite()"
   returns:
     description: "the gatewayDefaultSite value."

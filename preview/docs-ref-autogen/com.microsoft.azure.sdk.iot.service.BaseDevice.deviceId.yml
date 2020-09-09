@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.BaseDevice.deviceId"
   name: "deviceId"
   nameWithType: "BaseDevice.deviceId"
-  summary: "Device name\n A case-sensitive string (up to 128 char long)\n of ASCII 7-bit alphanumeric chars\n + {'-', ':', '.', '+', '%', '_', '#', '*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''}."
+  summary: "Device name A case-sensitive string (up to 128 char long) of ASCII 7-bit alphanumeric chars + \\{'-', ':', '.', '+', '%', '\\_', '\\#', '\\*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''\\}."
   syntax: "protected String deviceId"
 type: "field"
 metadata: {}

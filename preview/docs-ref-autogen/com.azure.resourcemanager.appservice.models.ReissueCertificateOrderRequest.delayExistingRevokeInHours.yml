@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.ReissueCertificateOrderRequest.delayExistingRevokeInHours()"
   name: "delayExistingRevokeInHours()"
   nameWithType: "ReissueCertificateOrderRequest.delayExistingRevokeInHours()"
-  summary: "Get the delayExistingRevokeInHours property: Delay in hours to revoke existing certificate after the new\n certificate is issued."
+  summary: "Get the delayExistingRevokeInHours property: Delay in hours to revoke existing certificate after the new certificate is issued."
   syntax: "public Integer delayExistingRevokeInHours()"
   returns:
     description: "the delayExistingRevokeInHours value."

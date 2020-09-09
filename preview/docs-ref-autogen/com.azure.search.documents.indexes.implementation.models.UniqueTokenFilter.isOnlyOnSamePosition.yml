@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.UniqueTokenFilter.isOnlyOnSamePosition()"
   name: "isOnlyOnSamePosition()"
   nameWithType: "UniqueTokenFilter.isOnlyOnSamePosition()"
-  summary: "Get the onlyOnSamePosition property: A value indicating whether to remove duplicates only at the same position.\n Default is false."
+  summary: "Get the onlyOnSamePosition property: A value indicating whether to remove duplicates only at the same position. Default is false."
   syntax: "public Boolean isOnlyOnSamePosition()"
   returns:
     description: "the onlyOnSamePosition value."

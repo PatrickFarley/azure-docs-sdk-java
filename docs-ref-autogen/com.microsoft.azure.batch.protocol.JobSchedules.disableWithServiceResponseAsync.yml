@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.disableWithServiceResponseAsync(String jobScheduleId)"
   name: "disableWithServiceResponseAsync(String jobScheduleId)"
   nameWithType: "JobSchedules.disableWithServiceResponseAsync(String jobScheduleId)"
-  summary: "Disables a Job Schedule.\n No new Jobs will be created until the Job Schedule is enabled again."
+  summary: "Disables a Job Schedule. No new Jobs will be created until the Job Schedule is enabled again."
   parameters:
   - description: "The ID of the Job Schedule to disable."
     name: "jobScheduleId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.disableWithServiceResponseAsync(String jobScheduleId, JobScheduleDisableOptions jobScheduleDisableOptions)"
   name: "disableWithServiceResponseAsync(String jobScheduleId, JobScheduleDisableOptions jobScheduleDisableOptions)"
   nameWithType: "JobSchedules.disableWithServiceResponseAsync(String jobScheduleId, JobScheduleDisableOptions jobScheduleDisableOptions)"
-  summary: "Disables a Job Schedule.\n No new Jobs will be created until the Job Schedule is enabled again."
+  summary: "Disables a Job Schedule. No new Jobs will be created until the Job Schedule is enabled again."
   parameters:
   - description: "The ID of the Job Schedule to disable."
     name: "jobScheduleId"

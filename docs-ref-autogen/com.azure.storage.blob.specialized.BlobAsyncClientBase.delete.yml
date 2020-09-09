@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.delete()"
   name: "delete()"
   nameWithType: "BlobAsyncClientBase.delete()"
-  summary: "Deletes the specified blob or snapshot. Note that deleting a blob also deletes all its snapshots.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.delete&#40;&#41;.doOnSuccess&#40;response -&gt; System.out.println&#40;&quot;Completed delete&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-blob\">Azure Docs</a></p>"
+  summary: "Deletes the specified blob or snapshot. Note that deleting a blob also deletes all its snapshots.\n\n**Code Samples**\n\n```java\nclient.delete().doOnSuccess(response -> System.out.println(\"Completed delete\"));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-blob"
   syntax: "public Mono<Void> delete()"
   returns:
     description: "A reactive response signalling completion."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.BiMap<K,V>.putAll(Map<? extends K,? extends V> map)"
   name: "putAll(Map<? extends K,? extends V> map)"
   nameWithType: "BiMap<K,V>.putAll(Map<? extends K,? extends V> map)"
-  summary: "\n\n <p><b>Warning:</b> the results of calling this method may vary depending on the iteration order\n of <code>map</code>."
+  summary: "**Warning:** the results of calling this method may vary depending on the iteration order of `map`."
   parameters:
   - name: "map"
     type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends K?alt=? extends K&text=? extends K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;"

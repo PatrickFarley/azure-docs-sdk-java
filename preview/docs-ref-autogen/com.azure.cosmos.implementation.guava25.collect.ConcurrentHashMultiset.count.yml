@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ConcurrentHashMultiset<E>.count(Object element)"
   name: "count(Object element)"
   nameWithType: "ConcurrentHashMultiset<E>.count(Object element)"
-  summary: "Returns the number of occurrences of <code>element</code> in this multiset."
+  summary: "Returns the number of occurrences of `element` in this multiset."
   parameters:
   - description: "the element to look for"
     name: "element"

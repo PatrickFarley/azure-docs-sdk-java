@@ -13,7 +13,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.net.IotHubAbandonUri.IotHubAbandonUri(String iotHubHostname, String deviceId, String eTag, String moduleId)"
   name: "IotHubAbandonUri(String iotHubHostname, String deviceId, String eTag, String moduleId)"
   nameWithType: "IotHubAbandonUri.IotHubAbandonUri(String iotHubHostname, String deviceId, String eTag, String moduleId)"
-  summary: "Constructor. Returns a URI for a device to instruct an IoT Hub to mark a\n message as being abandoned. The URI does not include a protocol."
+  summary: "Constructor. Returns a URI for a device to instruct an IoT Hub to mark a message as being abandoned. The URI does not include a protocol."
   parameters:
   - description: "the IoT Hub name."
     name: "iotHubHostname"

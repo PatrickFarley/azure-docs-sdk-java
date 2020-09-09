@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.dns.DnsZone.UpdateStages.WithZoneType.withPrivateAccess()"
   name: "withPrivateAccess()"
   nameWithType: "DnsZone.UpdateStages.WithZoneType.withPrivateAccess()"
-  summary: "Sets the type of this zone to Private. Note that this method call will clean any previously set\n registrationVirtualNetworkIds and resolutionVirtualNetworkIds lists."
+  summary: "Sets the type of this zone to Private. Note that this method call will clean any previously set registrationVirtualNetworkIds and resolutionVirtualNetworkIds lists."
   syntax: "public abstract DnsZone.Update withPrivateAccess()"
   returns:
     description: "the next stage of the definition"

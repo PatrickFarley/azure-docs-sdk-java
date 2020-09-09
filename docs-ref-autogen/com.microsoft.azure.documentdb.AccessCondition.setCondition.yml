@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.AccessCondition.setCondition(String condition)"
   name: "setCondition(String condition)"
   nameWithType: "AccessCondition.setCondition(String condition)"
-  summary: "Sets the value of the condition - for AccessConditionType IfMatchs and IfNotMatch, this is the ETag that has to\n be compared to."
+  summary: "Sets the value of the condition - for AccessConditionType IfMatchs and IfNotMatch, this is the ETag that has to be compared to."
   parameters:
   - description: "the condition to use."
     name: "condition"

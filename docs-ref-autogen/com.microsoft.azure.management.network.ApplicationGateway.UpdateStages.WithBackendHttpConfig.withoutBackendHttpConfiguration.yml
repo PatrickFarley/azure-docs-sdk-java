@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGateway.UpdateStages.WithBackendHttpConfig.withoutBackendHttpConfiguration(String name)"
   name: "withoutBackendHttpConfiguration(String name)"
   nameWithType: "ApplicationGateway.UpdateStages.WithBackendHttpConfig.withoutBackendHttpConfiguration(String name)"
-  summary: "Removes the specified backend HTTP configuration from this application gateway.\n <p>\n Note that removing a backend HTTP configuration referenced by other settings may break the application gateway."
+  summary: "Removes the specified backend HTTP configuration from this application gateway.\n\nNote that removing a backend HTTP configuration referenced by other settings may break the application gateway."
   parameters:
   - description: "the name of an existing backend HTTP configuration on this application gateway"
     name: "name"

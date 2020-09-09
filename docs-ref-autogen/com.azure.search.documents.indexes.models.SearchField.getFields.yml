@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchField.getFields()"
   name: "getFields()"
   nameWithType: "SearchField.getFields()"
-  summary: "Get the fields property: A list of sub-fields if this is a field of type\n Edm.ComplexType or Collection(Edm.ComplexType). Must be null or empty\n for simple fields."
+  summary: "Get the fields property: A list of sub-fields if this is a field of type Edm.ComplexType or Collection(Edm.ComplexType). Must be null or empty for simple fields."
   syntax: "public List<SearchField> getFields()"
   returns:
     description: "the fields value."

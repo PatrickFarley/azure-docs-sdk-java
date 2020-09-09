@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.HttpResponse.buffer()"
   name: "buffer()"
   nameWithType: "HttpResponse.buffer()"
-  summary: "Get a new Response object wrapping this response with it's content\n buffered into memory."
+  summary: "Get a new Response object wrapping this response with it's content buffered into memory."
   syntax: "public HttpResponse buffer()"
   returns:
     description: "the new Response object"

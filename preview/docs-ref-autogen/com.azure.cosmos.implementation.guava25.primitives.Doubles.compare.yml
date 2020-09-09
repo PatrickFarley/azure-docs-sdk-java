@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Doubles.compare(double a, double b)"
   name: "compare(double a, double b)"
   nameWithType: "Doubles.compare(double a, double b)"
-  summary: "Compares the two specified <code>double</code> values. The sign of the value returned is the same as\n that of <code>((Double) a).<xref uid=\"Double#compareTo\" data-throw-if-not-resolved=\"false\">compareTo</xref>(b)</code>. As with that\n method, <code>NaN</code> is treated as greater than all other values, and <code>0.0 > -0.0</code>.\n\n <p><b>Note:</b> this method simply delegates to the JDK method <xref uid=\"Double#compare\" data-throw-if-not-resolved=\"false\">Double#compare</xref>. It is\n provided for consistency with the other primitive types, whose compare methods were not added\n to the JDK until JDK 7."
+  summary: "Compares the two specified `double` values. The sign of the value returned is the same as that of `((Double) a).compareTo(b)`. As with that method, `NaN` is treated as greater than all other values, and `0.0 > -0.0`.\n\n**Note:** this method simply delegates to the JDK method <xref uid=\"java.lang.Double.compare\" data-throw-if-not-resolved=\"false\">Double#compare</xref>. It is provided for consistency with the other primitive types, whose compare methods were not added to the JDK until JDK 7."
   parameters:
   - description: "the first <code>double</code> to compare"
     name: "a"

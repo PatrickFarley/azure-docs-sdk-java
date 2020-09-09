@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PhoneticTokenFilter.getEncoder()"
   name: "getEncoder()"
   nameWithType: "PhoneticTokenFilter.getEncoder()"
-  summary: "Get the encoder property: The phonetic encoder to use. Default is\n \"metaphone\". Possible values include: 'Metaphone', 'DoubleMetaphone',\n 'Soundex', 'RefinedSoundex', 'Caverphone1', 'Caverphone2', 'Cologne',\n 'Nysiis', 'KoelnerPhonetik', 'HaasePhonetik', 'BeiderMorse'."
+  summary: "Get the encoder property: The phonetic encoder to use. Default is \"metaphone\". Possible values include: 'Metaphone', 'DoubleMetaphone', 'Soundex', 'RefinedSoundex', 'Caverphone1', 'Caverphone2', 'Cologne', 'Nysiis', 'KoelnerPhonetik', 'HaasePhonetik', 'BeiderMorse'."
   syntax: "public PhoneticEncoder getEncoder()"
   returns:
     description: "the encoder value."

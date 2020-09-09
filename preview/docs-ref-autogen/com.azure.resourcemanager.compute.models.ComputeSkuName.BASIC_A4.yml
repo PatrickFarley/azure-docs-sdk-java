@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.BASIC_A4"
   name: "BASIC_A4"
   nameWithType: "ComputeSkuName.BASIC_A4"
-  summary: "Static value Basic_A4 for ComputeSkuName."
+  summary: "Static value Basic\\_A4 for ComputeSkuName."
   syntax: "public static final ComputeSkuName BASIC_A4"
 type: "field"
 metadata: {}

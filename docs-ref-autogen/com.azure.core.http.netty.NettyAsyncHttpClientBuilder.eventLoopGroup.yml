@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.netty.NettyAsyncHttpClientBuilder.eventLoopGroup(EventLoopGroup eventLoopGroup)"
   name: "eventLoopGroup(EventLoopGroup eventLoopGroup)"
   nameWithType: "NettyAsyncHttpClientBuilder.eventLoopGroup(EventLoopGroup eventLoopGroup)"
-  summary: "Sets the IO event loop group that will be used to run IO loops.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n int threadCount = 5;\n HttpClient client = new NettyAsyncHttpClientBuilder&#40;&#41;\n     .eventLoopGroup&#40;new NioEventLoopGroup&#40;threadCount&#41;&#41;\n     .build&#40;&#41;;\n </pre>"
+  summary: "Sets the IO event loop group that will be used to run IO loops.\n\n**Code Samples**\n\n```java\nint threadCount = 5;\n HttpClient client = new NettyAsyncHttpClientBuilder()\n     .eventLoopGroup(new NioEventLoopGroup(threadCount))\n     .build();\n```"
   parameters:
   - description: "The <xref uid=\"io.netty.channel.EventLoopGroup\" data-throw-if-not-resolved=\"false\">EventLoopGroup</xref> that will run IO loops."
     name: "eventLoopGroup"

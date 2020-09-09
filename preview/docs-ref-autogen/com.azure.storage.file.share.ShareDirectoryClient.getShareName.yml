@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryClient.getShareName()"
   name: "getShareName()"
   nameWithType: "ShareDirectoryClient.getShareName()"
-  summary: "Get the share name of directory client.\n\n <p>Get the share name. </p>\n\n <pre>\n String shareName = directoryAsyncClient.getShareName&#40;&#41;;\n System.out.println&#40;&quot;The share name of the directory is &quot; + shareName&#41;;\n </pre>"
+  summary: "Get the share name of directory client.\n\nGet the share name.\n\n```java\nString shareName = directoryAsyncClient.getShareName();\n System.out.println(\"The share name of the directory is \" + shareName);\n```"
   syntax: "public String getShareName()"
   returns:
     description: "The share name of the directory."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Maps.<K,V>unmodifiableBiMap(BiMap<? extends K,? extends V> bimap)"
   name: "<K,V>unmodifiableBiMap(BiMap<? extends K,? extends V> bimap)"
   nameWithType: "Maps.<K,V>unmodifiableBiMap(BiMap<? extends K,? extends V> bimap)"
-  summary: "Returns an unmodifiable view of the specified bimap. This method allows modules to provide\n users with \"read-only\" access to internal bimaps. Query operations on the returned bimap \"read\n through\" to the specified bimap, and attempts to modify the returned map, whether direct or via\n its collection views, result in an <code>UnsupportedOperationException</code>.\n\n <p>The returned bimap will be serializable if the specified bimap is serializable."
+  summary: "Returns an unmodifiable view of the specified bimap. This method allows modules to provide users with \"read-only\" access to internal bimaps. Query operations on the returned bimap \"read through\" to the specified bimap, and attempts to modify the returned map, whether direct or via its collection views, result in an `UnsupportedOperationException`.\n\nThe returned bimap will be serializable if the specified bimap is serializable."
   parameters:
   - description: "the bimap for which an unmodifiable view is to be returned"
     name: "bimap"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobUrlParts.parse(String url)"
   name: "parse(String url)"
   nameWithType: "BlobUrlParts.parse(String url)"
-  summary: "Parses a string into a BlobUrlParts.\n\n <p>Query parameters will be parsed into two properties, <xref uid=\"BlobServiceSasQueryParameters\" data-throw-if-not-resolved=\"false\">BlobServiceSasQueryParameters</xref> which contains\n all SAS token related values and <xref uid=\"#getUnparsedParameters()\" data-throw-if-not-resolved=\"false\">unparsedParameters</xref> which is all other query\n parameters.</p>\n\n <p>If a URL points to a blob in the root container, and the root container is referenced implicitly, i.e. there\n is no path element for the container, the name of this blob in the root container will be set as the\n containerName field in the resulting <code>BlobURLParts</code>.</p>"
+  summary: "Parses a string into a BlobUrlParts.\n\nQuery parameters will be parsed into two properties, <xref uid=\"com.azure.storage.blob.sas.BlobServiceSasQueryParameters\" data-throw-if-not-resolved=\"false\">BlobServiceSasQueryParameters</xref> which contains all SAS token related values and <xref uid=\"com.azure.storage.blob.BlobUrlParts.getUnparsedParameters()\" data-throw-if-not-resolved=\"false\">unparsedParameters</xref> which is all other query parameters.\n\nIf a URL points to a blob in the root container, and the root container is referenced implicitly, i.e. there is no path element for the container, the name of this blob in the root container will be set as the containerName field in the resulting `BlobURLParts`."
   parameters:
   - description: "The <code>URL</code> to be parsed."
     name: "url"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.blob.BlobUrlParts.parse(URL url)"
   name: "parse(URL url)"
   nameWithType: "BlobUrlParts.parse(URL url)"
-  summary: "Parses an existing URL into a BlobUrlParts.\n\n <p>Query parameters will be parsed into two properties, <xref uid=\"BlobServiceSasQueryParameters\" data-throw-if-not-resolved=\"false\">BlobServiceSasQueryParameters</xref> which contains\n all SAS token related values and <xref uid=\"#getUnparsedParameters()\" data-throw-if-not-resolved=\"false\">unparsedParameters</xref> which is all other query\n parameters.</p>\n\n <p>If a URL points to a blob in the root container, and the root container is referenced implicitly, i.e. there\n is no path element for the container, the name of this blob in the root container will be set as the\n containerName field in the resulting <code>BlobURLParts</code>.</p>"
+  summary: "Parses an existing URL into a BlobUrlParts.\n\nQuery parameters will be parsed into two properties, <xref uid=\"com.azure.storage.blob.sas.BlobServiceSasQueryParameters\" data-throw-if-not-resolved=\"false\">BlobServiceSasQueryParameters</xref> which contains all SAS token related values and <xref uid=\"com.azure.storage.blob.BlobUrlParts.getUnparsedParameters()\" data-throw-if-not-resolved=\"false\">unparsedParameters</xref> which is all other query parameters.\n\nIf a URL points to a blob in the root container, and the root container is referenced implicitly, i.e. there is no path element for the container, the name of this blob in the root container will be set as the containerName field in the resulting `BlobURLParts`."
   parameters:
   - description: "The <code>URL</code> to be parsed."
     name: "url"

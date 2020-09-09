@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMap<K,V>.values()"
   name: "values()"
   nameWithType: "ImmutableSortedMap<K,V>.values()"
-  summary: "Returns an immutable collection of the values in this map, sorted by the ordering of the\n corresponding keys."
+  summary: "Returns an immutable collection of the values in this map, sorted by the ordering of the corresponding keys."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableMap.values()"
   syntax: "public ImmutableCollection<V> values()"
   returns:

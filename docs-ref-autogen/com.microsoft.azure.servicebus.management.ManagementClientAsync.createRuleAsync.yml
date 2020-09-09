@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.ManagementClientAsync.createRuleAsync(String topicName, String subscriptionName, RuleDescription ruleDescription)"
   name: "createRuleAsync(String topicName, String subscriptionName, RuleDescription ruleDescription)"
   nameWithType: "ManagementClientAsync.createRuleAsync(String topicName, String subscriptionName, RuleDescription ruleDescription)"
-  summary: "Creates a new rule for a given topic - subscription.\n See <xref uid=\"RuleDescription\" data-throw-if-not-resolved=\"false\">RuleDescription</xref> for default values of subscription properties."
+  summary: "Creates a new rule for a given topic - subscription. See <xref uid=\"com.microsoft.azure.servicebus.rules.RuleDescription\" data-throw-if-not-resolved=\"false\">RuleDescription</xref> for default values of subscription properties."
   parameters:
   - description: "- Name of the topic."
     name: "topicName"

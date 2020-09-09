@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.enableJobSchedule(String jobScheduleId)"
   name: "enableJobSchedule(String jobScheduleId)"
   nameWithType: "JobScheduleOperations.enableJobSchedule(String jobScheduleId)"
-  summary: "Enables the specified job schedule, allowing jobs to be created according to its <xref uid=\"Schedule\" data-throw-if-not-resolved=\"false\">Schedule</xref>."
+  summary: "Enables the specified job schedule, allowing jobs to be created according to its <xref uid=\"com.microsoft.azure.batch.protocol.models.Schedule\" data-throw-if-not-resolved=\"false\">Schedule</xref>."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"
@@ -23,7 +23,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.enableJobSchedule(String jobScheduleId, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "enableJobSchedule(String jobScheduleId, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobScheduleOperations.enableJobSchedule(String jobScheduleId, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Enables the specified job schedule, allowing jobs to be created according to its <xref uid=\"Schedule\" data-throw-if-not-resolved=\"false\">Schedule</xref>."
+  summary: "Enables the specified job schedule, allowing jobs to be created according to its <xref uid=\"com.microsoft.azure.batch.protocol.models.Schedule\" data-throw-if-not-resolved=\"false\">Schedule</xref>."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"

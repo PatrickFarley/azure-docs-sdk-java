@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Strings.emptyToNull(String string)"
   name: "emptyToNull(String string)"
   nameWithType: "Strings.emptyToNull(String string)"
-  summary: "Returns the given string if it is nonempty; <code>null</code> otherwise."
+  summary: "Returns the given string if it is nonempty; `null` otherwise."
   parameters:
   - description: "the string to test and possibly return"
     name: "string"

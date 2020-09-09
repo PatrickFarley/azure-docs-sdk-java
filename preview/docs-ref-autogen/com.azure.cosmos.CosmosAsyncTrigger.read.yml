@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncTrigger.read()"
   name: "read()"
   nameWithType: "CosmosAsyncTrigger.read()"
-  summary: "Reads a cosmos trigger\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response for the read trigger.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Reads a cosmos trigger\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response for the read trigger. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   syntax: "public Mono<CosmosTriggerResponse> read()"
   returns:
     description: "an <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> containing the single resource response for the read cosmos trigger or an error."

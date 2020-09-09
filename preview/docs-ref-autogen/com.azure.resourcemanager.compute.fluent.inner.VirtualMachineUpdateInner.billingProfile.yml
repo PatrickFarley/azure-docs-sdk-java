@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineUpdateInner.billingProfile()"
   name: "billingProfile()"
   nameWithType: "VirtualMachineUpdateInner.billingProfile()"
-  summary: "Get the billingProfile property: Specifies the billing related details of a Azure Spot virtual machine.\n &lt;br&gt;&lt;br&gt;Minimum api-version: 2019-03-01."
+  summary: "Get the billingProfile property: Specifies the billing related details of a Azure Spot virtual machine. <br><br>Minimum api-version: 2019-03-01."
   syntax: "public BillingProfile billingProfile()"
   returns:
     description: "the billingProfile value."

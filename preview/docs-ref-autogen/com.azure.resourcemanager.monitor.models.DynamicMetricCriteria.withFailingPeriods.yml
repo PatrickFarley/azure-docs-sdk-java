@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.DynamicMetricCriteria.withFailingPeriods(DynamicThresholdFailingPeriods failingPeriods)"
   name: "withFailingPeriods(DynamicThresholdFailingPeriods failingPeriods)"
   nameWithType: "DynamicMetricCriteria.withFailingPeriods(DynamicThresholdFailingPeriods failingPeriods)"
-  summary: "Set the failingPeriods property: The minimum number of violations required within the selected lookback time\n window required to raise an alert."
+  summary: "Set the failingPeriods property: The minimum number of violations required within the selected lookback time window required to raise an alert."
   parameters:
   - description: "the failingPeriods value to set."
     name: "failingPeriods"

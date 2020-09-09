@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.http.HttpRequest.withHeader(String name, String value)"
   name: "withHeader(String name, String value)"
   nameWithType: "HttpRequest.withHeader(String name, String value)"
-  summary: "Set a request header, replacing any existing value.\n A null for <code>value</code> will remove the header if one with matching name exists."
+  summary: "Set a request header, replacing any existing value. A null for `value` will remove the header if one with matching name exists."
   parameters:
   - description: "the header name"
     name: "name"

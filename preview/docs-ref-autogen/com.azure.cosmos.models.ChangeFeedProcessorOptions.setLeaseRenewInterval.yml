@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.ChangeFeedProcessorOptions.setLeaseRenewInterval(Duration leaseRenewInterval)"
   name: "setLeaseRenewInterval(Duration leaseRenewInterval)"
   nameWithType: "ChangeFeedProcessorOptions.setLeaseRenewInterval(Duration leaseRenewInterval)"
-  summary: "Sets the renew interval for all leases for partitions currently held by <xref uid=\"ChangeFeedProcessor\" data-throw-if-not-resolved=\"false\">ChangeFeedProcessor</xref> instance."
+  summary: "Sets the renew interval for all leases for partitions currently held by <xref uid=\"com.azure.cosmos.ChangeFeedProcessor\" data-throw-if-not-resolved=\"false\">ChangeFeedProcessor</xref> instance."
   parameters:
   - description: "the renew interval for all leases for partitions currently held by\n <xref uid=\"com.azure.cosmos.ChangeFeedProcessor\" data-throw-if-not-resolved=\"false\">ChangeFeedProcessor</xref> instance."
     name: "leaseRenewInterval"

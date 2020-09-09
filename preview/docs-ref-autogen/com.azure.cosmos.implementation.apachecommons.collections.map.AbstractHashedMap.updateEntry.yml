@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.updateEntry(AbstractHashedMap.HashEntry<K,V> entry, V newValue)"
   name: "updateEntry(AbstractHashedMap.HashEntry<K,V> entry, V newValue)"
   nameWithType: "AbstractHashedMap<K,V>.updateEntry(AbstractHashedMap.HashEntry<K,V> entry, V newValue)"
-  summary: "Updates an existing key-value mapping to change the value.\n <p>\n This implementation calls <code>setValue()</code> on the entry.\n Subclasses could override to handle changes to the map."
+  summary: "Updates an existing key-value mapping to change the value.\n\nThis implementation calls `setValue()` on the entry. Subclasses could override to handle changes to the map."
   parameters:
   - description: "the entry to update"
     name: "entry"

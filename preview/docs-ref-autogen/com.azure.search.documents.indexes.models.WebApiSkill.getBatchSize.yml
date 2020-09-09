@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WebApiSkill.getBatchSize()"
   name: "getBatchSize()"
   nameWithType: "WebApiSkill.getBatchSize()"
-  summary: "Get the batchSize property: The desired batch size which indicates\n number of documents."
+  summary: "Get the batchSize property: The desired batch size which indicates number of documents."
   syntax: "public Integer getBatchSize()"
   returns:
     description: "the batchSize value."

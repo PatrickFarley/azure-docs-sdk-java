@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistrySourceTrigger.UpdateStages.RepositoryBranchAndAuth.withRepositoryAuthentication(TokenType tokenType, String token)"
   name: "withRepositoryAuthentication(TokenType tokenType, String token)"
   nameWithType: "RegistrySourceTrigger.UpdateStages.RepositoryBranchAndAuth.withRepositoryAuthentication(TokenType tokenType, String token)"
-  summary: "The function that allows the user to input the type of the token used for authentication and the token\n itself to authenticate to the source control repository."
+  summary: "The function that allows the user to input the type of the token used for authentication and the token itself to authenticate to the source control repository."
   parameters:
   - description: "the type of the token used to authenticate to the source control repository."
     name: "tokenType"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistrySourceTrigger.UpdateStages.RepositoryBranchAndAuth.withRepositoryAuthentication(TokenType tokenType, String token, String refreshToken, String scope, int expiresIn)"
   name: "withRepositoryAuthentication(TokenType tokenType, String token, String refreshToken, String scope, int expiresIn)"
   nameWithType: "RegistrySourceTrigger.UpdateStages.RepositoryBranchAndAuth.withRepositoryAuthentication(TokenType tokenType, String token, String refreshToken, String scope, int expiresIn)"
-  summary: "The function that allows the user to input the type of the token used for authentication and the token\n itself to authenticate to the source control repository."
+  summary: "The function that allows the user to input the type of the token used for authentication and the token itself to authenticate to the source control repository."
   parameters:
   - description: "the type of the token used to authenticate to the source control repository."
     name: "tokenType"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.util.ExtractKeyPhrasesResultCollection.ExtractKeyPhrasesResultCollection(Iterable<ExtractKeyPhraseResult> documentResults, String modelVersion, TextDocumentBatchStatistics statistics)"
   name: "ExtractKeyPhrasesResultCollection(Iterable<ExtractKeyPhraseResult> documentResults, String modelVersion, TextDocumentBatchStatistics statistics)"
   nameWithType: "ExtractKeyPhrasesResultCollection.ExtractKeyPhrasesResultCollection(Iterable<ExtractKeyPhraseResult> documentResults, String modelVersion, TextDocumentBatchStatistics statistics)"
-  summary: "Create a <xref uid=\"ExtractKeyPhrasesResultCollection\" data-throw-if-not-resolved=\"false\">ExtractKeyPhrasesResultCollection</xref> model that maintains a list of <xref uid=\"ExtractKeyPhraseResult\" data-throw-if-not-resolved=\"false\">ExtractKeyPhraseResult</xref>\n along with model version and batch's statistics."
+  summary: "Create a <xref uid=\"com.azure.ai.textanalytics.util.ExtractKeyPhrasesResultCollection\" data-throw-if-not-resolved=\"false\">ExtractKeyPhrasesResultCollection</xref> model that maintains a list of <xref uid=\"com.azure.ai.textanalytics.models.ExtractKeyPhraseResult\" data-throw-if-not-resolved=\"false\">ExtractKeyPhraseResult</xref> along with model version and batch's statistics."
   parameters:
   - description: "A list of <xref uid=\"com.azure.ai.textanalytics.models.ExtractKeyPhraseResult\" data-throw-if-not-resolved=\"false\">ExtractKeyPhraseResult</xref>."
     name: "documentResults"

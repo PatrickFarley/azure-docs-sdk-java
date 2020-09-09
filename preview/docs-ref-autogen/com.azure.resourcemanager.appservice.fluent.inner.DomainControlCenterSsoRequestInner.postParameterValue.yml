@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DomainControlCenterSsoRequestInner.postParameterValue()"
   name: "postParameterValue()"
   nameWithType: "DomainControlCenterSsoRequestInner.postParameterValue()"
-  summary: "Get the postParameterValue property: Post parameter value. Client should use 'application/x-www-form-urlencoded'\n encoding for this value."
+  summary: "Get the postParameterValue property: Post parameter value. Client should use 'application/x-www-form-urlencoded' encoding for this value."
   syntax: "public String postParameterValue()"
   returns:
     description: "the postParameterValue value."

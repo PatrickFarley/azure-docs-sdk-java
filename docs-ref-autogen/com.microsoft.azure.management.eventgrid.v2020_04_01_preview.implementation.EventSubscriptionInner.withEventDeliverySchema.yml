@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionInner.withEventDeliverySchema(EventDeliverySchema eventDeliverySchema)"
   name: "withEventDeliverySchema(EventDeliverySchema eventDeliverySchema)"
   nameWithType: "EventSubscriptionInner.withEventDeliverySchema(EventDeliverySchema eventDeliverySchema)"
-  summary: "Set the event delivery schema for the event subscription. Possible values include: 'EventGridSchema', 'CustomInputSchema', 'CloudEventSchemaV1_0'."
+  summary: "Set the event delivery schema for the event subscription. Possible values include: 'EventGridSchema', 'CustomInputSchema', 'CloudEventSchemaV1\\_0'."
   parameters:
   - description: "the eventDeliverySchema value to set"
     name: "eventDeliverySchema"

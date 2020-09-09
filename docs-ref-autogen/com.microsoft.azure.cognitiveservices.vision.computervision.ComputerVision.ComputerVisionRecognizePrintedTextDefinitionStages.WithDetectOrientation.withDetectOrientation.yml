@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.ComputerVisionRecognizePrintedTextDefinitionStages.WithDetectOrientation.withDetectOrientation(boolean detectOrientation)"
   name: "withDetectOrientation(boolean detectOrientation)"
   nameWithType: "ComputerVision.ComputerVisionRecognizePrintedTextDefinitionStages.WithDetectOrientation.withDetectOrientation(boolean detectOrientation)"
-  summary: "Whether detect the text orientation in the image. With detectOrientation=true the OCR service tries to\n   detect the image orientation and correct it before further processing (e.g. if it's upside-down)."
+  summary: "Whether detect the text orientation in the image. With detectOrientation=true the OCR service tries to detect the image orientation and correct it before further processing (e.g. if it's upside-down)."
   parameters:
   - name: "detectOrientation"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

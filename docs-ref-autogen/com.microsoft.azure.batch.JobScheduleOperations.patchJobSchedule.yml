@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification)"
   name: "patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification)"
   nameWithType: "JobScheduleOperations.patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification)"
-  summary: "Updates the specified job schedule.\n This method only replaces the properties specified with non-null values."
+  summary: "Updates the specified job schedule. This method only replaces the properties specified with non-null values."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"
@@ -29,7 +29,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata)"
   name: "patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata)"
   nameWithType: "JobScheduleOperations.patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata)"
-  summary: "Updates the specified job schedule.\n This method only replaces the properties specified with non-null values."
+  summary: "Updates the specified job schedule. This method only replaces the properties specified with non-null values."
   parameters:
   - description: "The ID of the job schedule. If null, any existing schedule is left unchanged."
     name: "jobScheduleId"
@@ -53,7 +53,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobScheduleOperations.patchJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Updates the specified job schedule.\n This method only replaces the properties specified with non-null values."
+  summary: "Updates the specified job schedule. This method only replaces the properties specified with non-null values."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"

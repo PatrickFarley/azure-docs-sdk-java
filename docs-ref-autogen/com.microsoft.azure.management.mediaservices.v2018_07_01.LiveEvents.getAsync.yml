@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEvents.getAsync(String resourceGroupName, String accountName, String liveEventName)"
   name: "getAsync(String resourceGroupName, String accountName, String liveEventName)"
   nameWithType: "LiveEvents.getAsync(String resourceGroupName, String accountName, String liveEventName)"
-  summary: "Get Live Event.\n Gets a Live Event."
+  summary: "Get Live Event. Gets a Live Event."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

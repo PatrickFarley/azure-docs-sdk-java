@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineCaptureParameters.withOverwriteVhds(boolean overwriteVhds)"
   name: "withOverwriteVhds(boolean overwriteVhds)"
   nameWithType: "VirtualMachineCaptureParameters.withOverwriteVhds(boolean overwriteVhds)"
-  summary: "Set the overwriteVhds property: Specifies whether to overwrite the destination virtual hard disk, in case of\n conflict."
+  summary: "Set the overwriteVhds property: Specifies whether to overwrite the destination virtual hard disk, in case of conflict."
   parameters:
   - description: "the overwriteVhds value to set."
     name: "overwriteVhds"

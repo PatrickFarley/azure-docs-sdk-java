@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.TagsClient.createOrUpdate(String tagName)"
   name: "createOrUpdate(String tagName)"
   nameWithType: "TagsClient.createOrUpdate(String tagName)"
-  summary: "The tag name can have a maximum of 512 characters and is case insensitive. Tag names created by Azure have\n prefixes of microsoft, azure, or windows. You cannot create tags with one of these prefixes."
+  summary: "The tag name can have a maximum of 512 characters and is case insensitive. Tag names created by Azure have prefixes of microsoft, azure, or windows. You cannot create tags with one of these prefixes."
   parameters:
   - description: "The name of the tag to create."
     name: "tagName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.TagsClient.createOrUpdate(String tagName, Context context)"
   name: "createOrUpdate(String tagName, Context context)"
   nameWithType: "TagsClient.createOrUpdate(String tagName, Context context)"
-  summary: "The tag name can have a maximum of 512 characters and is case insensitive. Tag names created by Azure have\n prefixes of microsoft, azure, or windows. You cannot create tags with one of these prefixes."
+  summary: "The tag name can have a maximum of 512 characters and is case insensitive. Tag names created by Azure have prefixes of microsoft, azure, or windows. You cannot create tags with one of these prefixes."
   parameters:
   - description: "The name of the tag to create."
     name: "tagName"

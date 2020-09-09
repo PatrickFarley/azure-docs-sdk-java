@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncUser.queryPermissions(String query)"
   name: "queryPermissions(String query)"
   nameWithType: "CosmosAsyncUser.queryPermissions(String query)"
-  summary: "Query for permissions.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained permissions.\n In case of failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for permissions.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained permissions. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the query."
     name: "query"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncUser.queryPermissions(String query, CosmosQueryRequestOptions options)"
   name: "queryPermissions(String query, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncUser.queryPermissions(String query, CosmosQueryRequestOptions options)"
-  summary: "Query for permissions.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained permissions.\n In case of failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for permissions.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained permissions. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the query."
     name: "query"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(BuiltInRole role)"
   name: "withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(BuiltInRole role)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(BuiltInRole role)"
-  summary: "Specifies that virtual machine scale set's local identity should have the given access (described by the\n role) on the resource group that virtual machine resides. Applications running on the scale set VM\n instance will have the same permission (role) on the resource group."
+  summary: "Specifies that virtual machine scale set's local identity should have the given access (described by the role) on the resource group that virtual machine resides. Applications running on the scale set VM instance will have the same permission (role) on the resource group."
   parameters:
   - description: "access role to assigned to the scale set local identity"
     name: "role"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(String roleDefinitionId)"
   name: "withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(String roleDefinitionId)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(String roleDefinitionId)"
-  summary: "Specifies that virtual machine scale set's system assigned (local) identity should have the access\n (described by the role definition) on the resource group that virtual machine resides. Applications\n running on the scale set VM instance will have the same permission (role) on the resource group."
+  summary: "Specifies that virtual machine scale set's system assigned (local) identity should have the access (described by the role definition) on the resource group that virtual machine resides. Applications running on the scale set VM instance will have the same permission (role) on the resource group."
   parameters:
   - description: "access role definition to assigned to the scale set local identity"
     name: "roleDefinitionId"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VpnClientConnectionHealth.withVpnClientConnectionsCount(Integer vpnClientConnectionsCount)"
   name: "withVpnClientConnectionsCount(Integer vpnClientConnectionsCount)"
   nameWithType: "VpnClientConnectionHealth.withVpnClientConnectionsCount(Integer vpnClientConnectionsCount)"
-  summary: "Set the vpnClientConnectionsCount property: The total of p2s vpn clients connected at this time to this\n P2SVpnGateway."
+  summary: "Set the vpnClientConnectionsCount property: The total of p2s vpn clients connected at this time to this P2SVpnGateway."
   parameters:
   - description: "the vpnClientConnectionsCount value to set."
     name: "vpnClientConnectionsCount"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cosmosdb.DatabaseAccountUpdateParameters.connectorOffer()"
   name: "connectorOffer()"
   nameWithType: "DatabaseAccountUpdateParameters.connectorOffer()"
-  summary: "Get the cassandra connector offer type for the Cosmos DB database C* account. Possible values include: 'Small'."
+  summary: "Get the cassandra connector offer type for the Cosmos DB database C\\* account. Possible values include: 'Small'."
   syntax: "public ConnectorOffer connectorOffer()"
   returns:
     description: "the connectorOffer value"

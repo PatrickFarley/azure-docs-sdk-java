@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.updateJob(String jobId, PoolInformation poolInfo, Integer priority, JobConstraints constraints, OnAllTasksComplete onAllTasksComplete, List<MetadataItem> metadata)"
   name: "updateJob(String jobId, PoolInformation poolInfo, Integer priority, JobConstraints constraints, OnAllTasksComplete onAllTasksComplete, List<MetadataItem> metadata)"
   nameWithType: "JobOperations.updateJob(String jobId, PoolInformation poolInfo, Integer priority, JobConstraints constraints, OnAllTasksComplete onAllTasksComplete, List<MetadataItem> metadata)"
-  summary: "Updates the specified job.\n This method performs a full replace of all updatable properties of the job. For example, if the constraints parameter is null, then the Batch service removes the job's existing constraints and replaces them with the default constraints."
+  summary: "Updates the specified job. This method performs a full replace of all updatable properties of the job. For example, if the constraints parameter is null, then the Batch service removes the job's existing constraints and replaces them with the default constraints."
   parameters:
   - description: "The ID of the job."
     name: "jobId"
@@ -38,7 +38,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.updateJob(String jobId, PoolInformation poolInfo, Integer priority, JobConstraints constraints, OnAllTasksComplete onAllTasksComplete, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "updateJob(String jobId, PoolInformation poolInfo, Integer priority, JobConstraints constraints, OnAllTasksComplete onAllTasksComplete, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobOperations.updateJob(String jobId, PoolInformation poolInfo, Integer priority, JobConstraints constraints, OnAllTasksComplete onAllTasksComplete, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Updates the specified job.\n This method performs a full replace of all updatable properties of the job. For example, if the constraints parameter is null, then the Batch service removes the job's existing constraints and replaces them with the default constraints."
+  summary: "Updates the specified job. This method performs a full replace of all updatable properties of the job. For example, if the constraints parameter is null, then the Batch service removes the job's existing constraints and replaces them with the default constraints."
   parameters:
   - description: "The ID of the job."
     name: "jobId"

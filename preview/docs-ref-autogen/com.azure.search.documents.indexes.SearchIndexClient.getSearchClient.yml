@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.getSearchClient(String indexName)"
   name: "getSearchClient(String indexName)"
   nameWithType: "SearchIndexClient.getSearchClient(String indexName)"
-  summary: "Initializes a new <xref uid=\"SearchClient\" data-throw-if-not-resolved=\"false\">SearchClient</xref> using the given Index name and the same configuration as the\n SearchServiceClient."
+  summary: "Initializes a new <xref uid=\"com.azure.search.documents.SearchClient\" data-throw-if-not-resolved=\"false\">SearchClient</xref> using the given Index name and the same configuration as the SearchServiceClient."
   parameters:
   - description: "the name of the Index for the client"
     name: "indexName"

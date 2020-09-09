@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.updateWithResponseAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer)"
   name: "updateWithResponseAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer)"
   nameWithType: "BlobContainersClient.updateWithResponseAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer)"
-  summary: "Updates container properties as specified in request body. Properties not mentioned in the request will be\n unchanged. Update fails if the specified container doesn't already exist."
+  summary: "Updates container properties as specified in request body. Properties not mentioned in the request will be unchanged. Update fails if the specified container doesn't already exist."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.updateWithResponseAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer, Context context)"
   name: "updateWithResponseAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer, Context context)"
   nameWithType: "BlobContainersClient.updateWithResponseAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer, Context context)"
-  summary: "Updates container properties as specified in request body. Properties not mentioned in the request will be\n unchanged. Update fails if the specified container doesn't already exist."
+  summary: "Updates container properties as specified in request body. Properties not mentioned in the request will be unchanged. Update fails if the specified container doesn't already exist."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

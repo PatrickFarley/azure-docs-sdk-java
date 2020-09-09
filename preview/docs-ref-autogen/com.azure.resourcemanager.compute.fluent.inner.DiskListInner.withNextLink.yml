@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DiskListInner.withNextLink(String nextLink)"
   name: "withNextLink(String nextLink)"
   nameWithType: "DiskListInner.withNextLink(String nextLink)"
-  summary: "Set the nextLink property: The uri to fetch the next page of disks. Call ListNext() with this to fetch the next\n page of disks."
+  summary: "Set the nextLink property: The uri to fetch the next page of disks. Call ListNext() with this to fetch the next page of disks."
   parameters:
   - description: "the nextLink value to set."
     name: "nextLink"

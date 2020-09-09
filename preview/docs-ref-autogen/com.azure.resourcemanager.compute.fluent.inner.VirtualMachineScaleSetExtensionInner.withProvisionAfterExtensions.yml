@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetExtensionInner.withProvisionAfterExtensions(List<String> provisionAfterExtensions)"
   name: "withProvisionAfterExtensions(List<String> provisionAfterExtensions)"
   nameWithType: "VirtualMachineScaleSetExtensionInner.withProvisionAfterExtensions(List<String> provisionAfterExtensions)"
-  summary: "Set the provisionAfterExtensions property: Collection of extension names after which this extension needs to be\n provisioned."
+  summary: "Set the provisionAfterExtensions property: Collection of extension names after which this extension needs to be provisioned."
   parameters:
   - description: "the provisionAfterExtensions value to set."
     name: "provisionAfterExtensions"

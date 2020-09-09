@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.MetricBaselinesClient.getAsync(String resourceUri, String metricName)"
   name: "getAsync(String resourceUri, String metricName)"
   nameWithType: "MetricBaselinesClient.getAsync(String resourceUri, String metricName)"
-  summary: "**Gets the baseline values for a specific metric**."
+  summary: "\\*\\*Gets the baseline values for a specific metric\\*\\*."
   parameters:
   - description: "The identifier of the resource. It has the following structure:\n     subscriptions/{subscriptionName}/resourceGroups/{resourceGroupName}/providers/{providerName}/{resourceName}.\n     For example:\n     subscriptions/b368ca2f-e298-46b7-b0ab-012281956afa/resourceGroups/vms/providers/Microsoft.Compute/virtualMachines/vm1."
     name: "resourceUri"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.MetricBaselinesClient.getAsync(String resourceUri, String metricName, String timespan, Duration interval, String aggregation, String sensitivities, ResultType resultType)"
   name: "getAsync(String resourceUri, String metricName, String timespan, Duration interval, String aggregation, String sensitivities, ResultType resultType)"
   nameWithType: "MetricBaselinesClient.getAsync(String resourceUri, String metricName, String timespan, Duration interval, String aggregation, String sensitivities, ResultType resultType)"
-  summary: "**Gets the baseline values for a specific metric**."
+  summary: "\\*\\*Gets the baseline values for a specific metric\\*\\*."
   parameters:
   - description: "The identifier of the resource. It has the following structure:\n     subscriptions/{subscriptionName}/resourceGroups/{resourceGroupName}/providers/{providerName}/{resourceName}.\n     For example:\n     subscriptions/b368ca2f-e298-46b7-b0ab-012281956afa/resourceGroups/vms/providers/Microsoft.Compute/virtualMachines/vm1."
     name: "resourceUri"
@@ -55,7 +55,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.MetricBaselinesClient.getAsync(String resourceUri, String metricName, String timespan, Duration interval, String aggregation, String sensitivities, ResultType resultType, Context context)"
   name: "getAsync(String resourceUri, String metricName, String timespan, Duration interval, String aggregation, String sensitivities, ResultType resultType, Context context)"
   nameWithType: "MetricBaselinesClient.getAsync(String resourceUri, String metricName, String timespan, Duration interval, String aggregation, String sensitivities, ResultType resultType, Context context)"
-  summary: "**Gets the baseline values for a specific metric**."
+  summary: "\\*\\*Gets the baseline values for a specific metric\\*\\*."
   parameters:
   - description: "The identifier of the resource. It has the following structure:\n     subscriptions/{subscriptionName}/resourceGroups/{resourceGroupName}/providers/{providerName}/{resourceName}.\n     For example:\n     subscriptions/b368ca2f-e298-46b7-b0ab-012281956afa/resourceGroups/vms/providers/Microsoft.Compute/virtualMachines/vm1."
     name: "resourceUri"

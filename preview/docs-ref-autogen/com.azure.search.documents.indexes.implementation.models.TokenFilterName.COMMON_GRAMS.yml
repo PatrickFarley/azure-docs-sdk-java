@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.COMMON_GRAMS"
   name: "COMMON_GRAMS"
   nameWithType: "TokenFilterName.COMMON_GRAMS"
-  summary: "Static value common_grams for TokenFilterName."
+  summary: "Static value common\\_grams for TokenFilterName."
   syntax: "public static final TokenFilterName COMMON_GRAMS"
 type: "field"
 metadata: {}

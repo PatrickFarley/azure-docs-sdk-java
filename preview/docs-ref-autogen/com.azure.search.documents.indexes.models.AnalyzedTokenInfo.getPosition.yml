@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.AnalyzedTokenInfo.getPosition()"
   name: "getPosition()"
   nameWithType: "AnalyzedTokenInfo.getPosition()"
-  summary: "Get the position property: The position of the token in the input text\n relative to other tokens. The first token in the input text has position\n 0, the next has position 1, and so on. Depending on the analyzer used,\n some tokens might have the same position, for example if they are\n synonyms of each other."
+  summary: "Get the position property: The position of the token in the input text relative to other tokens. The first token in the input text has position 0, the next has position 1, and so on. Depending on the analyzer used, some tokens might have the same position, for example if they are synonyms of each other."
   syntax: "public int getPosition()"
   returns:
     description: "the position value."

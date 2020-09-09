@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessTo(String resourceId, BuiltInRole role)"
   name: "withSystemAssignedIdentityBasedAccessTo(String resourceId, BuiltInRole role)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessTo(String resourceId, BuiltInRole role)"
-  summary: "Specifies that virtual machine scale set's system assigned (local) identity should have the given access\n (described by the role) on an ARM resource identified by the resource ID. Applications running on the\n scale set VM instance will have the same permission (role) on the ARM resource."
+  summary: "Specifies that virtual machine scale set's system assigned (local) identity should have the given access (described by the role) on an ARM resource identified by the resource ID. Applications running on the scale set VM instance will have the same permission (role) on the ARM resource."
   parameters:
   - description: "the ARM identifier of the resource"
     name: "resourceId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessTo(String resourceId, String roleDefinitionId)"
   name: "withSystemAssignedIdentityBasedAccessTo(String resourceId, String roleDefinitionId)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate.withSystemAssignedIdentityBasedAccessTo(String resourceId, String roleDefinitionId)"
-  summary: "Specifies that virtual machine scale set's system assigned (local) identity should have the access\n (described by the role definition) on an ARM resource identified by the resource ID. Applications running\n on the scale set VM instance will have the same permission (role) on the ARM resource."
+  summary: "Specifies that virtual machine scale set's system assigned (local) identity should have the access (described by the role definition) on an ARM resource identified by the resource ID. Applications running on the scale set VM instance will have the same permission (role) on the ARM resource."
   parameters:
   - description: "scope of the access represented in ARM resource ID format"
     name: "resourceId"

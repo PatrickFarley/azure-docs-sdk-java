@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccount.DefinitionStages.WithCreateAndAccessTier.withAccessTier(AccessTier accessTier)"
   name: "withAccessTier(AccessTier accessTier)"
   nameWithType: "StorageAccount.DefinitionStages.WithCreateAndAccessTier.withAccessTier(AccessTier accessTier)"
-  summary: "Specifies the access tier used for billing.\n <p>\n Access tier cannot be changed more than once every 7 days (168 hours).\n Access tier cannot be set for StandardLRS, StandardGRS, StandardRAGRS,\n or PremiumLRS account types."
+  summary: "Specifies the access tier used for billing.\n\nAccess tier cannot be changed more than once every 7 days (168 hours). Access tier cannot be set for StandardLRS, StandardGRS, StandardRAGRS, or PremiumLRS account types."
   parameters:
   - description: "the access tier value"
     name: "accessTier"

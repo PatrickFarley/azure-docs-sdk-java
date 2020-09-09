@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ImmutabilityPolicyProperties.immutabilityPeriodSinceCreationInDays()"
   name: "immutabilityPeriodSinceCreationInDays()"
   nameWithType: "ImmutabilityPolicyProperties.immutabilityPeriodSinceCreationInDays()"
-  summary: "Get the immutabilityPeriodSinceCreationInDays property: The immutability period for the blobs in the container\n since the policy creation, in days."
+  summary: "Get the immutabilityPeriodSinceCreationInDays property: The immutability period for the blobs in the container since the policy creation, in days."
   syntax: "public Integer immutabilityPeriodSinceCreationInDays()"
   returns:
     description: "the immutabilityPeriodSinceCreationInDays value."

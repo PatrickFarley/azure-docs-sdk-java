@@ -35,7 +35,7 @@ fields:
   fullName: "com.azure.cosmos.models.PartitionKeyDefinitionVersion.V2"
   name: "V2"
   nameWithType: "PartitionKeyDefinitionVersion.V2"
-  summary: "Enhanced version of hash partitioning - offers better distribution of long partition keys and uses less storage.\n <p>\n This version should be used for any practical purpose, but it is available in newer SDKs only."
+  summary: "Enhanced version of hash partitioning - offers better distribution of long partition keys and uses less storage.\n\nThis version should be used for any practical purpose, but it is available in newer SDKs only."
 methods:
 - uid: "com.azure.cosmos.models.PartitionKeyDefinitionVersion.valueOf(java.lang.String)"
   fullName: "com.azure.cosmos.models.PartitionKeyDefinitionVersion.valueOf(String name)"

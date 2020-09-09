@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.SensitivityLabelInner.isDisabled()"
   name: "isDisabled()"
   nameWithType: "SensitivityLabelInner.isDisabled()"
-  summary: "Get the isDisabled property: Is sensitivity recommendation disabled. Applicable for recommended sensitivity label\n only. Specifies whether the sensitivity recommendation on this column is disabled (dismissed) or not."
+  summary: "Get the isDisabled property: Is sensitivity recommendation disabled. Applicable for recommended sensitivity label only. Specifies whether the sensitivity recommendation on this column is disabled (dismissed) or not."
   syntax: "public Boolean isDisabled()"
   returns:
     description: "the isDisabled value."

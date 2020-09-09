@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.LocationInner.id()"
   name: "id()"
   nameWithType: "LocationInner.id()"
-  summary: "Get the id property: The fully qualified ID of the location. For example,\n /subscriptions/00000000-0000-0000-0000-000000000000/locations/westus."
+  summary: "Get the id property: The fully qualified ID of the location. For example, /subscriptions/00000000-0000-0000-0000-000000000000/locations/westus."
   syntax: "public String id()"
   returns:
     description: "the id value."

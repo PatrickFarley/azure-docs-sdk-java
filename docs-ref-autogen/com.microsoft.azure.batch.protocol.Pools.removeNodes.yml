@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Pools.removeNodes(String poolId, NodeRemoveParameter nodeRemoveParameter)"
   name: "removeNodes(String poolId, NodeRemoveParameter nodeRemoveParameter)"
   nameWithType: "Pools.removeNodes(String poolId, NodeRemoveParameter nodeRemoveParameter)"
-  summary: "Removes Compute Nodes from the specified Pool.\n This operation can only run when the allocation state of the Pool is steady. When this operation runs, the allocation state changes from steady to resizing."
+  summary: "Removes Compute Nodes from the specified Pool. This operation can only run when the allocation state of the Pool is steady. When this operation runs, the allocation state changes from steady to resizing."
   parameters:
   - description: "The ID of the Pool from which you want to remove Compute Nodes."
     name: "poolId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Pools.removeNodes(String poolId, NodeRemoveParameter nodeRemoveParameter, PoolRemoveNodesOptions poolRemoveNodesOptions)"
   name: "removeNodes(String poolId, NodeRemoveParameter nodeRemoveParameter, PoolRemoveNodesOptions poolRemoveNodesOptions)"
   nameWithType: "Pools.removeNodes(String poolId, NodeRemoveParameter nodeRemoveParameter, PoolRemoveNodesOptions poolRemoveNodesOptions)"
-  summary: "Removes Compute Nodes from the specified Pool.\n This operation can only run when the allocation state of the Pool is steady. When this operation runs, the allocation state changes from steady to resizing."
+  summary: "Removes Compute Nodes from the specified Pool. This operation can only run when the allocation state of the Pool is steady. When this operation runs, the allocation state changes from steady to resizing."
   parameters:
   - description: "The ID of the Pool from which you want to remove Compute Nodes."
     name: "poolId"

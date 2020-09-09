@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventChannelSource.source()"
   name: "source()"
   nameWithType: "EventChannelSource.source()"
-  summary: "Get the identifier of the resource that's the source of the events.\n     This represents a unique resource in the partner's resource model."
+  summary: "Get the identifier of the resource that's the source of the events. This represents a unique resource in the partner's resource model."
   syntax: "public String source()"
   returns:
     description: "the source value"

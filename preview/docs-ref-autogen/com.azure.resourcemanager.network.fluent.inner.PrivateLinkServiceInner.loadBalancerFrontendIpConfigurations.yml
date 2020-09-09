@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PrivateLinkServiceInner.loadBalancerFrontendIpConfigurations()"
   name: "loadBalancerFrontendIpConfigurations()"
   nameWithType: "PrivateLinkServiceInner.loadBalancerFrontendIpConfigurations()"
-  summary: "Get the loadBalancerFrontendIpConfigurations property: An array of references to the load balancer IP\n configurations."
+  summary: "Get the loadBalancerFrontendIpConfigurations property: An array of references to the load balancer IP configurations."
   syntax: "public List<FrontendIpConfigurationInner> loadBalancerFrontendIpConfigurations()"
   returns:
     description: "the loadBalancerFrontendIpConfigurations value."

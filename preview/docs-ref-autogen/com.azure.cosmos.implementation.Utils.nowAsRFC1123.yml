@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.Utils.nowAsRFC1123()"
   name: "nowAsRFC1123()"
   nameWithType: "Utils.nowAsRFC1123()"
-  summary: "Returns Current Time in RFC 1123 format, e.g,\n Fri, 01 Dec 2017 19:22:30 GMT."
+  summary: "Returns Current Time in RFC 1123 format, e.g, Fri, 01 Dec 2017 19:22:30 GMT."
   syntax: "public static String nowAsRFC1123()"
   returns:
     description: "an instance of STRING"

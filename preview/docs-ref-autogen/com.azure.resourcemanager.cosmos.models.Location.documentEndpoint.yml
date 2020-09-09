@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.Location.documentEndpoint()"
   name: "documentEndpoint()"
   nameWithType: "Location.documentEndpoint()"
-  summary: "Get the documentEndpoint property: The connection endpoint for the specific region. Example:\n https://&amp;lt;accountName&amp;gt;-&amp;lt;locationName&amp;gt;.documents.azure.com:443/."
+  summary: "Get the documentEndpoint property: The connection endpoint for the specific region. Example: https://<accountName>-<locationName>.documents.azure.com:443/."
   syntax: "public String documentEndpoint()"
   returns:
     description: "the documentEndpoint value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.spatial.MultiPolygonGeometry.getPolygons()"
   name: "getPolygons()"
   nameWithType: "MultiPolygonGeometry.getPolygons()"
-  summary: "Unmodifiable representation of the <xref uid=\"PolygonGeometry\" data-throw-if-not-resolved=\"false\">geometric polygons</xref> representing this multi-polygon."
+  summary: "Unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.PolygonGeometry\" data-throw-if-not-resolved=\"false\">geometric polygons</xref> representing this multi-polygon."
   syntax: "public List<PolygonGeometry> getPolygons()"
   returns:
     description: "An unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.PolygonGeometry\" data-throw-if-not-resolved=\"false\">geometric polygons</xref> representing this\n multi-polygon."

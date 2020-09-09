@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.availabilityZones()"
   name: "availabilityZones()"
   nameWithType: "ApplicationGateway.availabilityZones()"
-  summary: "The availability zones assigned to the application gateway.\n\n <p>Note, this functionality is not enabled for most subscriptions and is subject to significant redesign and/or\n removal in the future."
+  summary: "The availability zones assigned to the application gateway.\n\nNote, this functionality is not enabled for most subscriptions and is subject to significant redesign and/or removal in the future."
   syntax: "public abstract Set<AvailabilityZoneId> availabilityZones()"
   returns:
     description: "the availability zones assigned to the application gateway."

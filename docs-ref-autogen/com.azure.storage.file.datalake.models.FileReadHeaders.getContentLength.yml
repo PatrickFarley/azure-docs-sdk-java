@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileReadHeaders.getContentLength()"
   name: "getContentLength()"
   nameWithType: "FileReadHeaders.getContentLength()"
-  summary: "Get the contentLength property: The number of bytes present in the\n response body."
+  summary: "Get the contentLength property: The number of bytes present in the response body."
   syntax: "public Long getContentLength()"
   returns:
     description: "the contentLength value."

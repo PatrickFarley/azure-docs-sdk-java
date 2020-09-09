@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestDocumentsResult.getCoverage()"
   name: "getCoverage()"
   nameWithType: "SuggestDocumentsResult.getCoverage()"
-  summary: "Get the coverage property: A value indicating the percentage of the index that was included in the query, or null\n if minimumCoverage was not set in the request."
+  summary: "Get the coverage property: A value indicating the percentage of the index that was included in the query, or null if minimumCoverage was not set in the request."
   syntax: "public Double getCoverage()"
   returns:
     description: "the coverage value."

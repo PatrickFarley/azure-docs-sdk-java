@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.HasSslCertificate.DefinitionStages.WithSslCertificate<ReturnT>.withSslCertificateFromPfxFile(File pfxFile)"
   name: "withSslCertificateFromPfxFile(File pfxFile)"
   nameWithType: "HasSslCertificate.DefinitionStages.WithSslCertificate<ReturnT>.withSslCertificateFromPfxFile(File pfxFile)"
-  summary: "Specifies the PFX file to import the SSL certificate from to associated with this resource.\n\n <p>The certificate will be named using an auto-generated name."
+  summary: "Specifies the PFX file to import the SSL certificate from to associated with this resource.\n\nThe certificate will be named using an auto-generated name."
   parameters:
   - description: "an existing PFX file"
     name: "pfxFile"

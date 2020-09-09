@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.listAsync()"
   name: "listAsync()"
   nameWithType: "TopicTypesInner.listAsync()"
-  summary: "List topic types.\n List all registered topic types."
+  summary: "List topic types. List all registered topic types."
   syntax: "public Observable<List<TopicTypeInfoInner>> listAsync()"
   returns:
     description: "the observable to the List&lt;TopicTypeInfoInner&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.listAsync(ServiceCallback<List<TopicTypeInfoInner>> serviceCallback)"
   name: "listAsync(ServiceCallback<List<TopicTypeInfoInner>> serviceCallback)"
   nameWithType: "TopicTypesInner.listAsync(ServiceCallback<List<TopicTypeInfoInner>> serviceCallback)"
-  summary: "List topic types.\n List all registered topic types."
+  summary: "List topic types. List all registered topic types."
   parameters:
   - description: "the async ServiceCallback to handle successful and failed responses."
     name: "serviceCallback"

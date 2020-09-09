@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.tracing.Tracer.end(int responseCode, Throwable error, Context context)"
   name: "end(int responseCode, Throwable error, Context context)"
   nameWithType: "Tracer.end(int responseCode, Throwable error, Context context)"
-  summary: "Completes the current tracing span.\n\n <p><strong>Code samples</strong></p>\n\n <p>Completes the tracing span present in the context, with the corresponding OpenTelemetry status for the given\n response status code</p>\n <pre>\n &#47;&#47; context containing the current tracing span to end\n String openTelemetrySpanKey = &quot;openTelemetry-span&quot;;\n Context traceContext = new Context&#40;PARENT_SPAN_KEY, &quot;&lt;user-current-span&gt;&quot;&#41;;\n \n &#47;&#47; completes the tracing span with the passed response status code\n tracer.end&#40;200, null, traceContext&#41;;\n </pre>"
+  summary: "Completes the current tracing span.\n\n**Code samples**\n\nCompletes the tracing span present in the context, with the corresponding OpenTelemetry status for the given response status code\n\n```java\n// context containing the current tracing span to end\n String openTelemetrySpanKey = \"openTelemetry-span\";\n Context traceContext = new Context(PARENT_SPAN_KEY, \"<user-current-span>\");\n \n // completes the tracing span with the passed response status code\n tracer.end(200, null, traceContext);\n```"
   parameters:
   - description: "Response status code if the span is in a HTTP call context."
     name: "responseCode"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.core.util.tracing.Tracer.end(String statusMessage, Throwable error, Context context)"
   name: "end(String statusMessage, Throwable error, Context context)"
   nameWithType: "Tracer.end(String statusMessage, Throwable error, Context context)"
-  summary: "Completes the current tracing span for AMQP calls.\n\n <p><strong>Code samples</strong></p>\n\n <p>Completes the tracing span with the corresponding OpenTelemetry status for the given status message</p>\n <pre>\n &#47;&#47; context containing the current tracing span to end\n &#47;&#47; completes the tracing span with the passed status message\n tracer.end&#40;&quot;success&quot;, null, traceContext&#41;;\n </pre>"
+  summary: "Completes the current tracing span for AMQP calls.\n\n**Code samples**\n\nCompletes the tracing span with the corresponding OpenTelemetry status for the given status message\n\n```java\n// context containing the current tracing span to end\n // completes the tracing span with the passed status message\n tracer.end(\"success\", null, traceContext);\n```"
   parameters:
   - description: "The error or success message that occurred during the call, or <code>null</code> if no error\n occurred."
     name: "statusMessage"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedDatabaseInner.withLongTermRetentionBackupResourceId(String longTermRetentionBackupResourceId)"
   name: "withLongTermRetentionBackupResourceId(String longTermRetentionBackupResourceId)"
   nameWithType: "ManagedDatabaseInner.withLongTermRetentionBackupResourceId(String longTermRetentionBackupResourceId)"
-  summary: "Set the longTermRetentionBackupResourceId property: The name of the Long Term Retention backup to be used for\n restore of this managed database."
+  summary: "Set the longTermRetentionBackupResourceId property: The name of the Long Term Retention backup to be used for restore of this managed database."
   parameters:
   - description: "the longTermRetentionBackupResourceId value to set."
     name: "longTermRetentionBackupResourceId"

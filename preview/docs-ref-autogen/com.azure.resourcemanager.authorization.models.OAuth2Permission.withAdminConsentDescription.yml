@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.OAuth2Permission.withAdminConsentDescription(String adminConsentDescription)"
   name: "withAdminConsentDescription(String adminConsentDescription)"
   nameWithType: "OAuth2Permission.withAdminConsentDescription(String adminConsentDescription)"
-  summary: "Set the adminConsentDescription property: Permission help text that appears in the admin consent and app\n assignment experiences."
+  summary: "Set the adminConsentDescription property: Permission help text that appears in the admin consent and app assignment experiences."
   parameters:
   - description: "the adminConsentDescription value to set."
     name: "adminConsentDescription"

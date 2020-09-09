@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.getSelect()"
   name: "getSelect()"
   nameWithType: "SearchRequest.getSelect()"
-  summary: "Get the select property: The comma-separated list of fields to retrieve. If unspecified, all fields marked as\n retrievable in the schema are included."
+  summary: "Get the select property: The comma-separated list of fields to retrieve. If unspecified, all fields marked as retrievable in the schema are included."
   syntax: "public String getSelect()"
   returns:
     description: "the select value."

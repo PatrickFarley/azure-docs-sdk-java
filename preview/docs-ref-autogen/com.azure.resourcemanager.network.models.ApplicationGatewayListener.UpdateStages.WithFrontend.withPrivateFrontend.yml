@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayListener.UpdateStages.WithFrontend.withPrivateFrontend()"
   name: "withPrivateFrontend()"
   nameWithType: "ApplicationGatewayListener.UpdateStages.WithFrontend.withPrivateFrontend()"
-  summary: "Associates the listener with the application gateway's private (internal) frontend.\n\n <p>If the private frontend does not exist yet, it will be created under an auto-generated name and\n associated with the application gateway's subnet."
+  summary: "Associates the listener with the application gateway's private (internal) frontend.\n\nIf the private frontend does not exist yet, it will be created under an auto-generated name and associated with the application gateway's subnet."
   syntax: "public abstract ApplicationGatewayListener.Update withPrivateFrontend()"
   returns:
     description: "the next stage of the update"

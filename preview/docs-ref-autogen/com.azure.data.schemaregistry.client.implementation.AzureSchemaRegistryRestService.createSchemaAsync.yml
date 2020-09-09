@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.implementation.AzureSchemaRegistryRestService.createSchemaAsync(String groupName, String schemaName, String xSchemaType, String body)"
   name: "createSchemaAsync(String groupName, String schemaName, String xSchemaType, String body)"
   nameWithType: "AzureSchemaRegistryRestService.createSchemaAsync(String groupName, String schemaName, String xSchemaType, String body)"
-  summary: "Register schema. If schema of specified name does not exist in specified group, schema is created at version 1.\n If schema of specified name exists already in specified group, schema is created at latest version + 1. If schema\n with identical content already exists, existing schema's ID is returned."
+  summary: "Register schema. If schema of specified name does not exist in specified group, schema is created at version 1. If schema of specified name exists already in specified group, schema is created at latest version + 1. If schema with identical content already exists, existing schema's ID is returned."
   parameters:
   - description: "schema group."
     name: "groupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.implementation.AzureSchemaRegistryRestService.createSchemaAsync(String groupName, String schemaName, String xSchemaType, String body, Context context)"
   name: "createSchemaAsync(String groupName, String schemaName, String xSchemaType, String body, Context context)"
   nameWithType: "AzureSchemaRegistryRestService.createSchemaAsync(String groupName, String schemaName, String xSchemaType, String body, Context context)"
-  summary: "Register schema. If schema of specified name does not exist in specified group, schema is created at version 1.\n If schema of specified name exists already in specified group, schema is created at latest version + 1. If schema\n with identical content already exists, existing schema's ID is returned."
+  summary: "Register schema. If schema of specified name does not exist in specified group, schema is created at version 1. If schema of specified name exists already in specified group, schema is created at latest version + 1. If schema with identical content already exists, existing schema's ID is returned."
   parameters:
   - description: "schema group."
     name: "groupName"

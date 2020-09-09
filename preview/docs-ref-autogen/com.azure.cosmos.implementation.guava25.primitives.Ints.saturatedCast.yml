@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.saturatedCast(long value)"
   name: "saturatedCast(long value)"
   nameWithType: "Ints.saturatedCast(long value)"
-  summary: "Returns the <code>int</code> nearest in value to <code>value</code>."
+  summary: "Returns the `int` nearest in value to `value`."
   parameters:
   - description: "any <code>long</code> value"
     name: "value"

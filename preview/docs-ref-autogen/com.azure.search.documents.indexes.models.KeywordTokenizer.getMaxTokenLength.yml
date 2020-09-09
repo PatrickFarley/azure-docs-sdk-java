@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.KeywordTokenizer.getMaxTokenLength()"
   name: "getMaxTokenLength()"
   nameWithType: "KeywordTokenizer.getMaxTokenLength()"
-  summary: "Get the maxTokenLength property: The maximum token length. Default is\n 256. Tokens longer than the maximum length are split. The maximum token\n length that can be used is 300 characters."
+  summary: "Get the maxTokenLength property: The maximum token length. Default is 256. Tokens longer than the maximum length are split. The maximum token length that can be used is 300 characters."
   syntax: "public Integer getMaxTokenLength()"
   returns:
     description: "the maxTokenLength value."

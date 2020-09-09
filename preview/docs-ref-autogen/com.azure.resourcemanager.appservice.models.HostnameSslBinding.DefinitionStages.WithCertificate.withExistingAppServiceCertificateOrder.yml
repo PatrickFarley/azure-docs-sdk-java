@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.HostnameSslBinding.DefinitionStages.WithCertificate<ParentT>.withExistingAppServiceCertificateOrder(AppServiceCertificateOrder certificateOrder)"
   name: "withExistingAppServiceCertificateOrder(AppServiceCertificateOrder certificateOrder)"
   nameWithType: "HostnameSslBinding.DefinitionStages.WithCertificate<ParentT>.withExistingAppServiceCertificateOrder(AppServiceCertificateOrder certificateOrder)"
-  summary: "Specifies a ready-to-use certificate order to use. This is usually useful for reusing wildcard\n certificates."
+  summary: "Specifies a ready-to-use certificate order to use. This is usually useful for reusing wildcard certificates."
   parameters:
   - description: "the ready-to-use certificate order"
     name: "certificateOrder"

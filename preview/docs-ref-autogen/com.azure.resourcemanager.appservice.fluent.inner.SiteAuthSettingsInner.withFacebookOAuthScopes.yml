@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.withFacebookOAuthScopes(List<String> facebookOAuthScopes)"
   name: "withFacebookOAuthScopes(List<String> facebookOAuthScopes)"
   nameWithType: "SiteAuthSettingsInner.withFacebookOAuthScopes(List<String> facebookOAuthScopes)"
-  summary: "Set the facebookOAuthScopes property: The OAuth 2.0 scopes that will be requested as part of Facebook Login\n authentication. This setting is optional. Facebook Login documentation:\n https://developers.facebook.com/docs/facebook-login."
+  summary: "Set the facebookOAuthScopes property: The OAuth 2.0 scopes that will be requested as part of Facebook Login authentication. This setting is optional. Facebook Login documentation: https://developers.facebook.com/docs/facebook-login."
   parameters:
   - description: "the facebookOAuthScopes value to set."
     name: "facebookOAuthScopes"

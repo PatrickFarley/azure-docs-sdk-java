@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.Source.withAddr(String addr)"
   name: "withAddr(String addr)"
   nameWithType: "Source.withAddr(String addr)"
-  summary: "Set the addr property: The IP or hostname and the port of the registry node that generated the event. Generally,\n this will be resolved by os.Hostname() along with the running port."
+  summary: "Set the addr property: The IP or hostname and the port of the registry node that generated the event. Generally, this will be resolved by os.Hostname() along with the running port."
   parameters:
   - description: "the addr value to set."
     name: "addr"

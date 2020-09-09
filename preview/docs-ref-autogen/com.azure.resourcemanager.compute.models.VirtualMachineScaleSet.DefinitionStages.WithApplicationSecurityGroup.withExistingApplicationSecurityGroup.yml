@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithApplicationSecurityGroup.withExistingApplicationSecurityGroup(ApplicationSecurityGroup applicationSecurityGroup)"
   name: "withExistingApplicationSecurityGroup(ApplicationSecurityGroup applicationSecurityGroup)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithApplicationSecurityGroup.withExistingApplicationSecurityGroup(ApplicationSecurityGroup applicationSecurityGroup)"
-  summary: "Specifies that provided application security group should be associated with the virtual machine scale\n set."
+  summary: "Specifies that provided application security group should be associated with the virtual machine scale set."
   parameters:
   - description: "the application security group"
     name: "applicationSecurityGroup"

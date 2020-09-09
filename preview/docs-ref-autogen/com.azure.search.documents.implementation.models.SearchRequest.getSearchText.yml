@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.getSearchText()"
   name: "getSearchText()"
   nameWithType: "SearchRequest.getSearchText()"
-  summary: "Get the searchText property: A full-text search query expression; Use \"*\" or omit this parameter to match all\n documents."
+  summary: "Get the searchText property: A full-text search query expression; Use \"\\*\" or omit this parameter to match all documents."
   syntax: "public String getSearchText()"
   returns:
     description: "the searchText value."

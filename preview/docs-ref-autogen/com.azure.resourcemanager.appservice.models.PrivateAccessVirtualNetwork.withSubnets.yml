@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.PrivateAccessVirtualNetwork.withSubnets(List<PrivateAccessSubnet> subnets)"
   name: "withSubnets(List<PrivateAccessSubnet> subnets)"
   nameWithType: "PrivateAccessVirtualNetwork.withSubnets(List<PrivateAccessSubnet> subnets)"
-  summary: "Set the subnets property: A List of subnets that access is allowed to on this Virtual Network. An empty array\n (but not null) is interpreted to mean that all subnets are allowed within this Virtual Network."
+  summary: "Set the subnets property: A List of subnets that access is allowed to on this Virtual Network. An empty array (but not null) is interpreted to mean that all subnets are allowed within this Virtual Network."
   parameters:
   - description: "the subnets value to set."
     name: "subnets"

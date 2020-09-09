@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.transport.http.HttpRequest.setConnectTimeoutMillis(int timeout)"
   name: "setConnectTimeoutMillis(int timeout)"
   nameWithType: "HttpRequest.setConnectTimeoutMillis(int timeout)"
-  summary: "Set the connect timeout, in milliseconds, for the request. The connect timeout\n is the allowed amount of time for the http connection to be established."
+  summary: "Set the connect timeout, in milliseconds, for the request. The connect timeout is the allowed amount of time for the http connection to be established."
   parameters:
   - description: "the connect timeout"
     name: "timeout"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClient.createPermissionWithResponse(String filePermission, Context context)"
   name: "createPermissionWithResponse(String filePermission, Context context)"
   nameWithType: "ShareClient.createPermissionWithResponse(String filePermission, Context context)"
-  summary: "Creates a permission t the share level. If a permission already exists, it returns the key of it, else creates a\n new permission and returns the key.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Response&lt;String&gt; response = shareClient.createPermissionWithResponse&#40;&quot;filePermission&quot;, Context.NONE&#41;;\n System.out.printf&#40;&quot;The file permission key is %s&quot;, response.getValue&#40;&#41;&#41;;\n </pre>"
+  summary: "Creates a permission t the share level. If a permission already exists, it returns the key of it, else creates a new permission and returns the key.\n\n**Code Samples**\n\n```java\nResponse<String> response = shareClient.createPermissionWithResponse(\"filePermission\", Context.NONE);\n System.out.printf(\"The file permission key is %s\", response.getValue());\n```"
   parameters:
   - description: "The file permission to get/create."
     name: "filePermission"

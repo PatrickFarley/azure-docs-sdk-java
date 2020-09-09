@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.SubscriptionDescription.setLockDuration(Duration lockDuration)"
   name: "setLockDuration(Duration lockDuration)"
   nameWithType: "SubscriptionDescription.setLockDuration(Duration lockDuration)"
-  summary: "Sets The amount of time that the message is locked by a given receiver\n so that no other receiver receives the same message."
+  summary: "Sets The amount of time that the message is locked by a given receiver so that no other receiver receives the same message."
   parameters:
   - description: "- The duration of a peek lock. Max value is 5 minutes."
     name: "lockDuration"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerWarning.getMessage()"
   name: "getMessage()"
   nameWithType: "SearchIndexerWarning.getMessage()"
-  summary: "Get the message property: The message describing the warning that\n occurred while processing the item."
+  summary: "Get the message property: The message describing the warning that occurred while processing the item."
   syntax: "public String getMessage()"
   returns:
     description: "the message value."

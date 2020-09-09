@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceNetworkProfile.withDockerBridgeCidr(String dockerBridgeCidr)"
   name: "withDockerBridgeCidr(String dockerBridgeCidr)"
   nameWithType: "ContainerServiceNetworkProfile.withDockerBridgeCidr(String dockerBridgeCidr)"
-  summary: "Set the dockerBridgeCidr property: A CIDR notation IP range assigned to the Docker bridge network. It must not\n overlap with any Subnet IP ranges or the Kubernetes service address range."
+  summary: "Set the dockerBridgeCidr property: A CIDR notation IP range assigned to the Docker bridge network. It must not overlap with any Subnet IP ranges or the Kubernetes service address range."
   parameters:
   - description: "the dockerBridgeCidr value to set."
     name: "dockerBridgeCidr"

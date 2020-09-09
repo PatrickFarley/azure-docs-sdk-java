@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileRange.FileRange(long offset)"
   name: "FileRange(long offset)"
   nameWithType: "FileRange.FileRange(long offset)"
-  summary: "Specifies the download operation to start from the offset position (zero-based) and download the rest of the\n entire file to the end."
+  summary: "Specifies the download operation to start from the offset position (zero-based) and download the rest of the entire file to the end."
   parameters:
   - description: "the zero-based position to start downloading"
     name: "offset"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileRange.FileRange(long offset, Long count)"
   name: "FileRange(long offset, Long count)"
   nameWithType: "FileRange.FileRange(long offset, Long count)"
-  summary: "Specifies the download operation to start from the offset position (zero-based) and download the count number of\n bytes."
+  summary: "Specifies the download operation to start from the offset position (zero-based) and download the count number of bytes."
   parameters:
   - description: "the zero-based position to start downloading"
     name: "offset"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.UniqueKey.getPaths()"
   name: "getPaths()"
   nameWithType: "UniqueKey.getPaths()"
-  summary: "Gets the paths, a set of which must be unique for each item in the Azure Cosmos DB service.\n <p>\n The paths to enforce uniqueness on. Each path is a rooted path of the unique property in the item,\n such as \"/name/first\"."
+  summary: "Gets the paths, a set of which must be unique for each item in the Azure Cosmos DB service.\n\nThe paths to enforce uniqueness on. Each path is a rooted path of the unique property in the item, such as \"/name/first\"."
   syntax: "public List<String> getPaths()"
   returns:
     description: "the unique paths."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DataMaskingPolicyInner.applicationPrincipals()"
   name: "applicationPrincipals()"
   nameWithType: "DataMaskingPolicyInner.applicationPrincipals()"
-  summary: "Get the applicationPrincipals property: The list of the application principals. This is a legacy parameter and is\n no longer used."
+  summary: "Get the applicationPrincipals property: The list of the application principals. This is a legacy parameter and is no longer used."
   syntax: "public String applicationPrincipals()"
   returns:
     description: "the applicationPrincipals value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ComparisonChain.compareTrueFirst(boolean left, boolean right)"
   name: "compareTrueFirst(boolean left, boolean right)"
   nameWithType: "ComparisonChain.compareTrueFirst(boolean left, boolean right)"
-  summary: "Compares two <code>boolean</code> values, considering <code>true</code> to be less than <code>false</code>,\n <i>if</i> the result of this comparison chain has not already been determined."
+  summary: "Compares two `boolean` values, considering `true` to be less than `false`, *if* the result of this comparison chain has not already been determined."
   parameters:
   - name: "left"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

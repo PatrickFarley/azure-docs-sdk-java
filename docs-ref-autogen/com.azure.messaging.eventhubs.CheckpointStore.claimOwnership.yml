@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.CheckpointStore.claimOwnership(List<PartitionOwnership> requestedPartitionOwnerships)"
   name: "claimOwnership(List<PartitionOwnership> requestedPartitionOwnerships)"
   nameWithType: "CheckpointStore.claimOwnership(List<PartitionOwnership> requestedPartitionOwnerships)"
-  summary: "Called to claim ownership of a list of partitions. This will return the list of partitions that were owned\n successfully."
+  summary: "Called to claim ownership of a list of partitions. This will return the list of partitions that were owned successfully."
   parameters:
   - description: "List of partition ownerships this instance is requesting to own."
     name: "requestedPartitionOwnerships"

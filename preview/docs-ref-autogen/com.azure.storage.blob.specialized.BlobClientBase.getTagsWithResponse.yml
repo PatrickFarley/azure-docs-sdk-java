@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.getTagsWithResponse(Duration timeout, Context context)"
   name: "getTagsWithResponse(Duration timeout, Context context)"
   nameWithType: "BlobClientBase.getTagsWithResponse(Duration timeout, Context context)"
-  summary: "Returns the blob's tags.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Map&lt;String, String&gt; tags = client.getTagsWithResponse&#40;timeout, new Context&#40;key1, value1&#41;&#41;.getValue&#40;&#41;;\n System.out.printf&#40;&quot;Number of tags: %d%n&quot;, tags.size&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-tags\">Azure Docs</a></p>"
+  summary: "Returns the blob's tags.\n\n**Code Samples**\n\n```java\nMap<String, String> tags = client.getTagsWithResponse(timeout, new Context(key1, value1)).getValue();\n System.out.printf(\"Number of tags: %d%n\", tags.size());\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-tags"
   parameters:
   - description: "An optional timeout value beyond which a <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> will be raised."
     name: "timeout"

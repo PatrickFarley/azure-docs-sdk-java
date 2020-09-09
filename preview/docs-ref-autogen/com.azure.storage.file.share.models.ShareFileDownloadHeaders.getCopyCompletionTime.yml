@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getCopyCompletionTime()"
   name: "getCopyCompletionTime()"
   nameWithType: "ShareFileDownloadHeaders.getCopyCompletionTime()"
-  summary: "Get the copyCompletionTime property: Conclusion time of the last\n attempted Copy File operation where this file was the destination file.\n This value can specify the time of a completed, aborted, or failed copy\n attempt."
+  summary: "Get the copyCompletionTime property: Conclusion time of the last attempted Copy File operation where this file was the destination file. This value can specify the time of a completed, aborted, or failed copy attempt."
   syntax: "public OffsetDateTime getCopyCompletionTime()"
   returns:
     description: "the copyCompletionTime value."

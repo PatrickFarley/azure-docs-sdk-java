@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.customimagesearch.BingCustomInstances.imageSearch()"
   name: "imageSearch()"
   nameWithType: "BingCustomInstances.imageSearch()"
-  summary: "The Custom Image Search API lets you send an image search query to Bing and get image results found in your\n   custom view of the web."
+  summary: "The Custom Image Search API lets you send an image search query to Bing and get image results found in your custom view of the web."
   syntax: "public abstract BingCustomInstances.BingCustomInstancesImageSearchDefinitionStages.WithCustomConfig imageSearch()"
   returns:
     description: "the first stage of the imageSearch call"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.customimagesearch.BingCustomInstances.imageSearch(long customConfig, String query, ImageSearchOptionalParameter imageSearchOptionalParameter)"
   name: "imageSearch(long customConfig, String query, ImageSearchOptionalParameter imageSearchOptionalParameter)"
   nameWithType: "BingCustomInstances.imageSearch(long customConfig, String query, ImageSearchOptionalParameter imageSearchOptionalParameter)"
-  summary: "The Custom Image Search API lets you send an image search query to Bing and get image results found in your\n   custom view of the web."
+  summary: "The Custom Image Search API lets you send an image search query to Bing and get image results found in your custom view of the web."
   parameters:
   - description: "The identifier for the custom search configuration."
     name: "customConfig"

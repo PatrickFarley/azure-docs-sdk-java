@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Longs.max(long[] array)"
   name: "max(long[] array)"
   nameWithType: "Longs.max(long[] array)"
-  summary: "Returns the greatest value present in <code>array</code>."
+  summary: "Returns the greatest value present in `array`."
   parameters:
   - description: "a <i>nonempty</i> array of <code>long</code> values"
     name: "array"

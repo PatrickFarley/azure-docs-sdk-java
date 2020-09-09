@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getLastModified()"
   name: "getLastModified()"
   nameWithType: "BlobDownloadHeaders.getLastModified()"
-  summary: "Get the lastModified property: Returns the date and time the container\n was last modified. Any operation that modifies the blob, including an\n update of the blob's metadata or properties, changes the last-modified\n time of the blob."
+  summary: "Get the lastModified property: Returns the date and time the container was last modified. Any operation that modifies the blob, including an update of the blob's metadata or properties, changes the last-modified time of the blob."
   syntax: "public OffsetDateTime getLastModified()"
   returns:
     description: "the lastModified value."

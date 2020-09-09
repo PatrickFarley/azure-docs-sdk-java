@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.SnapshotInner.withDiskSizeGB(Integer diskSizeGB)"
   name: "withDiskSizeGB(Integer diskSizeGB)"
   nameWithType: "SnapshotInner.withDiskSizeGB(Integer diskSizeGB)"
-  summary: "Set the diskSizeGB property: If creationData.createOption is Empty, this field is mandatory and it indicates the\n size of the disk to create. If this field is present for updates or creation with other options, it indicates a\n resize. Resizes are only allowed if the disk is not attached to a running VM, and can only increase the disk's\n size."
+  summary: "Set the diskSizeGB property: If creationData.createOption is Empty, this field is mandatory and it indicates the size of the disk to create. If this field is present for updates or creation with other options, it indicates a resize. Resizes are only allowed if the disk is not attached to a running VM, and can only increase the disk's size."
   parameters:
   - description: "the diskSizeGB value to set."
     name: "diskSizeGB"

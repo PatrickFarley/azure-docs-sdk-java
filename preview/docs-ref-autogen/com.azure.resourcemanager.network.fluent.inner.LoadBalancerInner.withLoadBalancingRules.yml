@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.LoadBalancerInner.withLoadBalancingRules(List<LoadBalancingRuleInner> loadBalancingRules)"
   name: "withLoadBalancingRules(List<LoadBalancingRuleInner> loadBalancingRules)"
   nameWithType: "LoadBalancerInner.withLoadBalancingRules(List<LoadBalancingRuleInner> loadBalancingRules)"
-  summary: "Set the loadBalancingRules property: Object collection representing the load balancing rules Gets the\n provisioning."
+  summary: "Set the loadBalancingRules property: Object collection representing the load balancing rules Gets the provisioning."
   parameters:
   - description: "the loadBalancingRules value to set."
     name: "loadBalancingRules"

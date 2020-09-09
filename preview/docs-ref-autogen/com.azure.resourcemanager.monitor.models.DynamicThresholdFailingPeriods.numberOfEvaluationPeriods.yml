@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.DynamicThresholdFailingPeriods.numberOfEvaluationPeriods()"
   name: "numberOfEvaluationPeriods()"
   nameWithType: "DynamicThresholdFailingPeriods.numberOfEvaluationPeriods()"
-  summary: "Get the numberOfEvaluationPeriods property: The number of aggregated lookback points. The lookback time window is\n calculated based on the aggregation granularity (windowSize) and the selected number of aggregated points."
+  summary: "Get the numberOfEvaluationPeriods property: The number of aggregated lookback points. The lookback time window is calculated based on the aggregation granularity (windowSize) and the selected number of aggregated points."
   syntax: "public float numberOfEvaluationPeriods()"
   returns:
     description: "the numberOfEvaluationPeriods value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.AdditionalUnattendContent.withComponentName(ComponentNames componentName)"
   name: "withComponentName(ComponentNames componentName)"
   nameWithType: "AdditionalUnattendContent.withComponentName(ComponentNames componentName)"
-  summary: "Set the componentName property: The component name. Currently, the only allowable value is\n Microsoft-Windows-Shell-Setup."
+  summary: "Set the componentName property: The component name. Currently, the only allowable value is Microsoft-Windows-Shell-Setup."
   parameters:
   - description: "the componentName value to set."
     name: "componentName"

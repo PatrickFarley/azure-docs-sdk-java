@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.HashIndex.HashIndex(DataType dataType)"
   name: "HashIndex(DataType dataType)"
   nameWithType: "HashIndex.HashIndex(DataType dataType)"
-  summary: "Specifies an instance of HashIndex class with specified DataType.\n <p>\n Here is an example to instantiate HashIndex class passing in the DataType:\n <pre>\n <code>\n\n HashIndex hashIndex = new HashIndex(DataType.String);\n\n </code>\n </pre>"
+  summary: "Specifies an instance of HashIndex class with specified DataType.\n\nHere is an example to instantiate HashIndex class passing in the DataType:\n\n```java\nHashIndex hashIndex = new HashIndex(DataType.String);\n```"
   parameters:
   - description: "the data type."
     name: "dataType"
@@ -18,7 +18,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.HashIndex.HashIndex(DataType dataType, int precision)"
   name: "HashIndex(DataType dataType, int precision)"
   nameWithType: "HashIndex.HashIndex(DataType dataType, int precision)"
-  summary: "Initializes a new instance of the HashIndex class with specified DataType and precision.\n <p>\n Here is an example to instantiate HashIndex class passing in the DataType:\n <pre>\n <code>\n\n HashIndex hashIndex = new HashIndex(DataType.String, 3);\n\n </code>\n </pre>"
+  summary: "Initializes a new instance of the HashIndex class with specified DataType and precision.\n\nHere is an example to instantiate HashIndex class passing in the DataType:\n\n```java\nHashIndex hashIndex = new HashIndex(DataType.String, 3);\n```"
   parameters:
   - description: "the data type."
     name: "dataType"

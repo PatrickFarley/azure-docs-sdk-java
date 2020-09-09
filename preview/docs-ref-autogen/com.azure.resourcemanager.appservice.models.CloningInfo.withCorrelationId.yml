@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.withCorrelationId(UUID correlationId)"
   name: "withCorrelationId(UUID correlationId)"
   nameWithType: "CloningInfo.withCorrelationId(UUID correlationId)"
-  summary: "Set the correlationId property: Correlation ID of cloning operation. This ID ties multiple cloning operations\n together to use the same snapshot."
+  summary: "Set the correlationId property: Correlation ID of cloning operation. This ID ties multiple cloning operations together to use the same snapshot."
   parameters:
   - description: "the correlationId value to set."
     name: "correlationId"

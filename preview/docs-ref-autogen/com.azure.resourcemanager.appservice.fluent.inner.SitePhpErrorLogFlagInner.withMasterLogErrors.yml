@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SitePhpErrorLogFlagInner.withMasterLogErrors(String masterLogErrors)"
   name: "withMasterLogErrors(String masterLogErrors)"
   nameWithType: "SitePhpErrorLogFlagInner.withMasterLogErrors(String masterLogErrors)"
-  summary: "Set the masterLogErrors property: Master log_errors setting."
+  summary: "Set the masterLogErrors property: Master log\\_errors setting."
   parameters:
   - description: "the masterLogErrors value to set."
     name: "masterLogErrors"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.warning(String format, Object[] args)"
   name: "warning(String format, Object[] args)"
   nameWithType: "ClientLogger.warning(String format, Object[] args)"
-  summary: "Logs a formattable message that uses <code>{}</code> as the placeholder at <code>warning</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging a message at warning log level.</p>\n\n {@codesnippet com.azure.core.util.logging.clientlogger.warning}"
+  summary: "Logs a formattable message that uses `{}` as the placeholder at `warning` log level.\n\n**Code samples**\n\nLogging a message at warning log level.\n\n\\{@codesnippet com.azure.core.util.logging.clientlogger.warning\\}"
   parameters:
   - description: "The formattable message to log."
     name: "format"

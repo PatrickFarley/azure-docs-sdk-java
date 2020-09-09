@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.http.HttpHeaders.value(String name)"
   name: "value(String name)"
   nameWithType: "HttpHeaders.value(String name)"
-  summary: "Get the header value for the provided header name. Null will be returned if the header\n name isn't found."
+  summary: "Get the header value for the provided header name. Null will be returned if the header name isn't found."
   parameters:
   - description: "the name of the header to look for"
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.v2019_12_01.ContainerGroupIdentity.withUserAssignedIdentities(Map<String,ContainerGroupIdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
   name: "withUserAssignedIdentities(Map<String,ContainerGroupIdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
   nameWithType: "ContainerGroupIdentity.withUserAssignedIdentities(Map<String,ContainerGroupIdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
-  summary: "Set the list of user identities associated with the container group. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'."
+  summary: "Set the list of user identities associated with the container group. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'."
   parameters:
   - description: "the userAssignedIdentities value to set"
     name: "userAssignedIdentities"

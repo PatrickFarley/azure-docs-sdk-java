@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.exception.ClientAuthenticationException.ClientAuthenticationException(String message, HttpResponse response)"
   name: "ClientAuthenticationException(String message, HttpResponse response)"
   nameWithType: "ClientAuthenticationException.ClientAuthenticationException(String message, HttpResponse response)"
-  summary: "Initializes a new instance of the <xref uid=\"ClientAuthenticationException\" data-throw-if-not-resolved=\"false\">ClientAuthenticationException</xref> class."
+  summary: "Initializes a new instance of the <xref uid=\"com.azure.core.exception.ClientAuthenticationException\" data-throw-if-not-resolved=\"false\">ClientAuthenticationException</xref> class."
   parameters:
   - description: "The exception message or the response content if a message is not available."
     name: "message"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.core.exception.ClientAuthenticationException.ClientAuthenticationException(String message, HttpResponse response, Object value)"
   name: "ClientAuthenticationException(String message, HttpResponse response, Object value)"
   nameWithType: "ClientAuthenticationException.ClientAuthenticationException(String message, HttpResponse response, Object value)"
-  summary: "Initializes a new instance of the <xref uid=\"ClientAuthenticationException\" data-throw-if-not-resolved=\"false\">ClientAuthenticationException</xref> class."
+  summary: "Initializes a new instance of the <xref uid=\"com.azure.core.exception.ClientAuthenticationException\" data-throw-if-not-resolved=\"false\">ClientAuthenticationException</xref> class."
   parameters:
   - description: "The exception message or the response content if a message is not available."
     name: "message"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.core.exception.ClientAuthenticationException.ClientAuthenticationException(String message, HttpResponse response, Throwable cause)"
   name: "ClientAuthenticationException(String message, HttpResponse response, Throwable cause)"
   nameWithType: "ClientAuthenticationException.ClientAuthenticationException(String message, HttpResponse response, Throwable cause)"
-  summary: "Initializes a new instance of the <xref uid=\"ClientAuthenticationException\" data-throw-if-not-resolved=\"false\">ClientAuthenticationException</xref> class."
+  summary: "Initializes a new instance of the <xref uid=\"com.azure.core.exception.ClientAuthenticationException\" data-throw-if-not-resolved=\"false\">ClientAuthenticationException</xref> class."
   parameters:
   - description: "The exception message or the response content if a message is not available."
     name: "message"

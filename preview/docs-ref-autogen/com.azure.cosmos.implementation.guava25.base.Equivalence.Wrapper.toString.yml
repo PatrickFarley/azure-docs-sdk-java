@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Equivalence.Wrapper<T>.toString()"
   name: "toString()"
   nameWithType: "Equivalence.Wrapper<T>.toString()"
-  summary: "Returns a string representation for this equivalence wrapper. The form of this string\n representation is not specified."
+  summary: "Returns a string representation for this equivalence wrapper. The form of this string representation is not specified."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:

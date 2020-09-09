@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.ValidateRequest.isSpot()"
   name: "isSpot()"
   nameWithType: "ValidateRequest.isSpot()"
-  summary: "Get the isSpot property: &lt;code&gt;true&lt;/code&gt; if App Service plan is for Spot instances; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the isSpot property: <code>true</code> if App Service plan is for Spot instances; otherwise, <code>false</code>."
   syntax: "public Boolean isSpot()"
   returns:
     description: "the isSpot value."

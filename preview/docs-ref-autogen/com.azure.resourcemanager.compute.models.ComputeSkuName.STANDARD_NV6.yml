@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_NV6"
   name: "STANDARD_NV6"
   nameWithType: "ComputeSkuName.STANDARD_NV6"
-  summary: "Static value Standard_NV6 for ComputeSkuName."
+  summary: "Static value Standard\\_NV6 for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_NV6"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedInstanceUpdate.withDnsZonePartner(String dnsZonePartner)"
   name: "withDnsZonePartner(String dnsZonePartner)"
   nameWithType: "ManagedInstanceUpdate.withDnsZonePartner(String dnsZonePartner)"
-  summary: "Set the dnsZonePartner property: The resource id of another managed instance whose DNS zone this managed instance\n will share after creation."
+  summary: "Set the dnsZonePartner property: The resource id of another managed instance whose DNS zone this managed instance will share after creation."
   parameters:
   - description: "the dnsZonePartner value to set."
     name: "dnsZonePartner"

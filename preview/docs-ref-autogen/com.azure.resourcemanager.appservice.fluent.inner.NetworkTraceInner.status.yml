@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.NetworkTraceInner.status()"
   name: "status()"
   nameWithType: "NetworkTraceInner.status()"
-  summary: "Get the status property: Current status of the network trace operation, same as Operation.Status\n (InProgress/Succeeded/Failed)."
+  summary: "Get the status property: Current status of the network trace operation, same as Operation.Status (InProgress/Succeeded/Failed)."
   syntax: "public String status()"
   returns:
     description: "the status value."

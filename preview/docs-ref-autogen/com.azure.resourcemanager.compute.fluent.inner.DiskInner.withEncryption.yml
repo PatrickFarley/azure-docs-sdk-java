@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DiskInner.withEncryption(Encryption encryption)"
   name: "withEncryption(Encryption encryption)"
   nameWithType: "DiskInner.withEncryption(Encryption encryption)"
-  summary: "Set the encryption property: Encryption property can be used to encrypt data at rest with customer managed keys\n or platform managed keys."
+  summary: "Set the encryption property: Encryption property can be used to encrypt data at rest with customer managed keys or platform managed keys."
   parameters:
   - description: "the encryption value to set."
     name: "encryption"

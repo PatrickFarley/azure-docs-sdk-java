@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.SearchClient.<T>getDocument(String key, Class<T> modelClass)"
   name: "<T>getDocument(String key, Class<T> modelClass)"
   nameWithType: "SearchClient.<T>getDocument(String key, Class<T> modelClass)"
-  summary: "Retrieves a document from the Azure Cognitive Search index.\n <p>\n View <a href=\"https://docs.microsoft.com/rest/api/searchservice/Naming-rules\">naming rules</a> for guidelines on\n constructing valid document keys.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get dynamic SearchDocument. </p>\n\n <pre>\n SearchDocument result = searchClient.getDocument&#40;&quot;hotelId&quot;, SearchDocument.class&#41;;\n for &#40;Map.Entry&lt;String, Object&gt; keyValuePair : result.entrySet&#40;&#41;&#41; &#123;\n     System.out.printf&#40;&quot;Document key %s, Document value %s&quot;, keyValuePair.getKey&#40;&#41;, keyValuePair.getValue&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Retrieves a document from the Azure Cognitive Search index.\n\nView [naming rules][] for guidelines on constructing valid document keys.\n\n**Code Sample**\n\nGet dynamic SearchDocument.\n\n```java\nSearchDocument result = searchClient.getDocument(\"hotelId\", SearchDocument.class);\n for (Map.Entry<String, Object> keyValuePair : result.entrySet()) {\n     System.out.printf(\"Document key %s, Document value %s\", keyValuePair.getKey(), keyValuePair.getValue());\n }\n```\n\n\n[naming rules]: https://docs.microsoft.com/rest/api/searchservice/Naming-rules"
   parameters:
   - description: "The key of the document to retrieve."
     name: "key"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceEnvironment.databaseServiceObjective()"
   name: "databaseServiceObjective()"
   nameWithType: "AppServiceEnvironment.databaseServiceObjective()"
-  summary: "Get the databaseServiceObjective property: Service objective of the metadata database for the App Service\n Environment, e.g. \"S0\"."
+  summary: "Get the databaseServiceObjective property: Service objective of the metadata database for the App Service Environment, e.g. \"S0\"."
   syntax: "public String databaseServiceObjective()"
   returns:
     description: "the databaseServiceObjective value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.ServiceVersion.getVersion()"
   name: "getVersion()"
   nameWithType: "ServiceVersion.getVersion()"
-  summary: "Gets the string representation of the <xref uid=\"ServiceVersion\" data-throw-if-not-resolved=\"false\">ServiceVersion</xref>"
+  summary: "Gets the string representation of the <xref uid=\"com.azure.core.util.ServiceVersion\" data-throw-if-not-resolved=\"false\">ServiceVersion</xref>"
   syntax: "public abstract String getVersion()"
   returns:
     description: "the string representation of the <xref uid=\"com.azure.core.util.ServiceVersion\" data-throw-if-not-resolved=\"false\">ServiceVersion</xref>"

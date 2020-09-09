@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WebApiSkill.getTimeout()"
   name: "getTimeout()"
   nameWithType: "WebApiSkill.getTimeout()"
-  summary: "Get the timeout property: The desired timeout for the request. Default\n is 30 seconds."
+  summary: "Get the timeout property: The desired timeout for the request. Default is 30 seconds."
   syntax: "public Duration getTimeout()"
   returns:
     description: "the timeout value."

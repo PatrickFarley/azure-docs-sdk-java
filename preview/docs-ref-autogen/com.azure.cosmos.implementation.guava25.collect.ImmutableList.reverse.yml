@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableList<E>.reverse()"
   name: "reverse()"
   nameWithType: "ImmutableList<E>.reverse()"
-  summary: "Returns a view of this immutable list in reverse order. For example, <code>ImmutableList.of(1,\n 2, 3).reverse()</code> is equivalent to <code>ImmutableList.of(3, 2, 1)</code>."
+  summary: "Returns a view of this immutable list in reverse order. For example, `ImmutableList.of(1, 2, 3).reverse()` is equivalent to `ImmutableList.of(3, 2, 1)`."
   syntax: "public ImmutableList<E> reverse()"
   returns:
     description: "a view of this immutable list in reverse order"

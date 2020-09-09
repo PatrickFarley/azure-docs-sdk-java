@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ApplicationBase.withSignInAudience(String signInAudience)"
   name: "withSignInAudience(String signInAudience)"
   nameWithType: "ApplicationBase.withSignInAudience(String signInAudience)"
-  summary: "Set the signInAudience property: Audience for signing in to the application (AzureADMyOrganization,\n AzureADAllOrganizations, AzureADAndMicrosoftAccounts)."
+  summary: "Set the signInAudience property: Audience for signing in to the application (AzureADMyOrganization, AzureADAllOrganizations, AzureADAndMicrosoftAccounts)."
   parameters:
   - description: "the signInAudience value to set."
     name: "signInAudience"

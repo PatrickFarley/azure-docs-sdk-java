@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlertCondition.condition()"
   name: "condition()"
   nameWithType: "MetricAlertCondition.condition()"
-  summary: "Get the criteria operator. Possible values include: 'Equals', 'NotEquals', 'GreaterThan', 'GreaterThanOrEqual',\n 'LessThan', 'LessThanOrEqual'."
+  summary: "Get the criteria operator. Possible values include: 'Equals', 'NotEquals', 'GreaterThan', 'GreaterThanOrEqual', 'LessThan', 'LessThanOrEqual'."
   syntax: "public abstract MetricAlertRuleCondition condition()"
   returns:
     description: "the operator value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.Vault.DefinitionStages.WithNetworkRuleSet.withAccessFromAzureServices()"
   name: "withAccessFromAzureServices()"
   nameWithType: "Vault.DefinitionStages.WithNetworkRuleSet.withAccessFromAzureServices()"
-  summary: "Specifies that access to the key vault should be allowed from applications running on Microsoft azure\n services."
+  summary: "Specifies that access to the key vault should be allowed from applications running on Microsoft azure services."
   syntax: "public abstract Vault.DefinitionStages.WithCreate withAccessFromAzureServices()"
   returns:
     description: "the next stage of key vault definition."

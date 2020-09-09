@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueMessageItem.getDequeueCount()"
   name: "getDequeueCount()"
   nameWithType: "QueueMessageItem.getDequeueCount()"
-  summary: "Get the dequeueCount property: The number of times the message has been\n dequeued."
+  summary: "Get the dequeueCount property: The number of times the message has been dequeued."
   syntax: "public long getDequeueCount()"
   returns:
     description: "the dequeueCount value."

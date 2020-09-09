@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.Registry.DefinitionStages.WithStorageAccount.withNewStorageAccount(Creatable<StorageAccount> creatable)"
   name: "withNewStorageAccount(Creatable<StorageAccount> creatable)"
   nameWithType: "Registry.DefinitionStages.WithStorageAccount.withNewStorageAccount(Creatable<StorageAccount> creatable)"
-  summary: "The parameters for a storage account for the container registry.\n <p>\n If specified, the storage account must be in the same physical location as the container registry."
+  summary: "The parameters for a storage account for the container registry.\n\nIf specified, the storage account must be in the same physical location as the container registry."
   parameters:
   - description: "the storage account to create"
     name: "creatable"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.Registry.DefinitionStages.WithStorageAccount.withNewStorageAccount(String storageAccountName)"
   name: "withNewStorageAccount(String storageAccountName)"
   nameWithType: "Registry.DefinitionStages.WithStorageAccount.withNewStorageAccount(String storageAccountName)"
-  summary: "The parameters for a storage account for the container registry.\n <p>\n A new storage account with default setting and specified name will be created."
+  summary: "The parameters for a storage account for the container registry.\n\nA new storage account with default setting and specified name will be created."
   parameters:
   - description: "the name of the storage account"
     name: "storageAccountName"

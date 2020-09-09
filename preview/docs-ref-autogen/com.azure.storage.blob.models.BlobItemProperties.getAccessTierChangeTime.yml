@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.getAccessTierChangeTime()"
   name: "getAccessTierChangeTime()"
   nameWithType: "BlobItemProperties.getAccessTierChangeTime()"
-  summary: "Get the accessTierChangeTime property: The accessTierChangeTime\n property."
+  summary: "Get the accessTierChangeTime property: The accessTierChangeTime property."
   syntax: "public OffsetDateTime getAccessTierChangeTime()"
   returns:
     description: "the accessTierChangeTime value."

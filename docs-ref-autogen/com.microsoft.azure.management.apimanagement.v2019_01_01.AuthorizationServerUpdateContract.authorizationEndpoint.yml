@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.AuthorizationServerUpdateContract.authorizationEndpoint()"
   name: "authorizationEndpoint()"
   nameWithType: "AuthorizationServerUpdateContract.authorizationEndpoint()"
-  summary: "Get oAuth authorization endpoint. See http://tools.ietf.org/html/rfc6749#section-3.2."
+  summary: "Get oAuth authorization endpoint. See http://tools.ietf.org/html/rfc6749\\#section-3.2."
   syntax: "public String authorizationEndpoint()"
   returns:
     description: "the authorizationEndpoint value"

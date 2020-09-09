@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.IndexingPolicy.isAutomatic()"
   name: "isAutomatic()"
   nameWithType: "IndexingPolicy.isAutomatic()"
-  summary: "Gets whether automatic indexing is enabled for a container.\n <p>\n In automatic indexing, items can be explicitly excluded from indexing using RequestOptions. In manual\n indexing, items can be explicitly included."
+  summary: "Gets whether automatic indexing is enabled for a container.\n\nIn automatic indexing, items can be explicitly excluded from indexing using RequestOptions. In manual indexing, items can be explicitly included."
   syntax: "public Boolean isAutomatic()"
   returns:
     description: "the automatic"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceGroupNextAsync(String nextPageLink)"
   name: "listByResourceGroupNextAsync(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listByResourceGroupNextAsync(String nextPageLink)"
-  summary: "List all global event subscriptions under an Azure subscription and resource group.\n List all global event subscriptions under a specific Azure subscription and resource group."
+  summary: "List all global event subscriptions under an Azure subscription and resource group. List all global event subscriptions under a specific Azure subscription and resource group."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceGroupNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listByResourceGroupNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.listByResourceGroupNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List all global event subscriptions under an Azure subscription and resource group.\n List all global event subscriptions under a specific Azure subscription and resource group."
+  summary: "List all global event subscriptions under an Azure subscription and resource group. List all global event subscriptions under a specific Azure subscription and resource group."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

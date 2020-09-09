@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.Request.addr()"
   name: "addr()"
   nameWithType: "Request.addr()"
-  summary: "Get the addr property: The IP or hostname and possibly port of the client connection that initiated the event.\n This is the RemoteAddr from the standard http request."
+  summary: "Get the addr property: The IP or hostname and possibly port of the client connection that initiated the event. This is the RemoteAddr from the standard http request."
   syntax: "public String addr()"
   returns:
     description: "the addr value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusClientBuilder.ServiceBusSessionReceiverClientBuilder.buildClient()"
   name: "buildClient()"
   nameWithType: "ServiceBusClientBuilder.ServiceBusSessionReceiverClientBuilder.buildClient()"
-  summary: "Creates a <b>synchronous</b>, <b>session-aware</b> Service Bus receiver responsible for reading\n <xref uid=\"ServiceBusMessage\" data-throw-if-not-resolved=\"false\">messages</xref> from a specific queue or topic."
+  summary: "Creates a **synchronous**, **session-aware** Service Bus receiver responsible for reading <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage\" data-throw-if-not-resolved=\"false\">messages</xref> from a specific queue or topic."
   syntax: "public ServiceBusReceiverClient buildClient()"
   returns:
     description: "An new <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceiverClient\" data-throw-if-not-resolved=\"false\">ServiceBusReceiverClient</xref> that receives messages from a queue or topic."

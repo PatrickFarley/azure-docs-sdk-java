@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.GremlinResourcesClient.getGremlinDatabaseThroughput(String resourceGroupName, String accountName, String databaseName)"
   name: "getGremlinDatabaseThroughput(String resourceGroupName, String accountName, String databaseName)"
   nameWithType: "GremlinResourcesClient.getGremlinDatabaseThroughput(String resourceGroupName, String accountName, String databaseName)"
-  summary: "Gets the RUs per second of the Gremlin database under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the Gremlin database under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.GremlinResourcesClient.getGremlinDatabaseThroughput(String resourceGroupName, String accountName, String databaseName, Context context)"
   name: "getGremlinDatabaseThroughput(String resourceGroupName, String accountName, String databaseName, Context context)"
   nameWithType: "GremlinResourcesClient.getGremlinDatabaseThroughput(String resourceGroupName, String accountName, String databaseName, Context context)"
-  summary: "Gets the RUs per second of the Gremlin database under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the Gremlin database under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"

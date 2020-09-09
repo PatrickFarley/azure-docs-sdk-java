@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.search.SearchService.createQueryKey(String name)"
   name: "createQueryKey(String name)"
   nameWithType: "SearchService.createQueryKey(String name)"
-  summary: "Regenerates either the primary or secondary admin API key.\n <p>\n You can only regenerate one key at a time."
+  summary: "Regenerates either the primary or secondary admin API key.\n\nYou can only regenerate one key at a time."
   parameters:
   - description: "The name of the new query API key."
     name: "name"

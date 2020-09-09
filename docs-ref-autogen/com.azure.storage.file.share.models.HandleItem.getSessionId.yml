@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.getSessionId()"
   name: "getSessionId()"
   nameWithType: "HandleItem.getSessionId()"
-  summary: "Get the sessionId property: SMB session ID in context of which the file\n handle was opened."
+  summary: "Get the sessionId property: SMB session ID in context of which the file handle was opened."
   syntax: "public String getSessionId()"
   returns:
     description: "the sessionId value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEvents.resetAsync(String resourceGroupName, String accountName, String liveEventName)"
   name: "resetAsync(String resourceGroupName, String accountName, String liveEventName)"
   nameWithType: "LiveEvents.resetAsync(String resourceGroupName, String accountName, String liveEventName)"
-  summary: "Reset Live Event.\n Resets an existing Live Event."
+  summary: "Reset Live Event. Resets an existing Live Event."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.AuthorizationChallengeHandler.attemptToPipelineAuthorization(String method, String uri, Supplier<byte[]> entityBodySupplier)"
   name: "attemptToPipelineAuthorization(String method, String uri, Supplier<byte[]> entityBodySupplier)"
   nameWithType: "AuthorizationChallengeHandler.attemptToPipelineAuthorization(String method, String uri, Supplier<byte[]> entityBodySupplier)"
-  summary: "Attempts to pipeline requests by applying the most recent authorization type used to create an authorization\n header."
+  summary: "Attempts to pipeline requests by applying the most recent authorization type used to create an authorization header."
   parameters:
   - description: "HTTP method being used in the request."
     name: "method"

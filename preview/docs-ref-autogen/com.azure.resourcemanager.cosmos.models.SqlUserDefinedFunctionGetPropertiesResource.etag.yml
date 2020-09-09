@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.SqlUserDefinedFunctionGetPropertiesResource.etag()"
   name: "etag()"
   nameWithType: "SqlUserDefinedFunctionGetPropertiesResource.etag()"
-  summary: "Get the etag property: A system generated property representing the resource etag required for optimistic\n concurrency control."
+  summary: "Get the etag property: A system generated property representing the resource etag required for optimistic concurrency control."
   syntax: "public String etag()"
   returns:
     description: "the etag value."

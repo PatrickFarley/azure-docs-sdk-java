@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlDatabase.importBacpac(StorageAccount storageAccount, String containerName, String fileName)"
   name: "importBacpac(StorageAccount storageAccount, String containerName, String fileName)"
   nameWithType: "SqlDatabase.importBacpac(StorageAccount storageAccount, String containerName, String fileName)"
-  summary: "Imports into the current database from an existing storage account and relative path; the current database must\n be empty."
+  summary: "Imports into the current database from an existing storage account and relative path; the current database must be empty."
   parameters:
   - description: "an existing storage account to be used"
     name: "storageAccount"

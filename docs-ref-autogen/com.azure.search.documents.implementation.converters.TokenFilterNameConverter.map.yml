@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TokenFilterNameConverter.map(TokenFilterName obj)"
   name: "map(TokenFilterName obj)"
   nameWithType: "TokenFilterNameConverter.map(TokenFilterName obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenFilterName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenFilterName</xref> to enum\n <xref uid=\"TokenFilterName\" data-throw-if-not-resolved=\"false\">TokenFilterName</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenFilterName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenFilterName</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.TokenFilterName\" data-throw-if-not-resolved=\"false\">TokenFilterName</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.TokenFilterName?alt=com.azure.search.documents.indexes.implementation.models.TokenFilterName&text=TokenFilterName\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TokenFilterNameConverter.map(TokenFilterName obj)"
   name: "map(TokenFilterName obj)"
   nameWithType: "TokenFilterNameConverter.map(TokenFilterName obj)"
-  summary: "Maps from enum <xref uid=\"TokenFilterName\" data-throw-if-not-resolved=\"false\">TokenFilterName</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenFilterName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenFilterName</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.TokenFilterName\" data-throw-if-not-resolved=\"false\">TokenFilterName</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenFilterName\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenFilterName</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.TokenFilterName?alt=com.azure.search.documents.indexes.models.TokenFilterName&text=TokenFilterName\" data-throw-if-not-resolved=\"False\" />"

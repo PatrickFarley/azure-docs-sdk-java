@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.DiagnosticSettingsResourceInner.withStorageAccountId(String storageAccountId)"
   name: "withStorageAccountId(String storageAccountId)"
   nameWithType: "DiagnosticSettingsResourceInner.withStorageAccountId(String storageAccountId)"
-  summary: "Set the storageAccountId property: The resource ID of the storage account to which you would like to send\n Diagnostic Logs."
+  summary: "Set the storageAccountId property: The resource ID of the storage account to which you would like to send Diagnostic Logs."
   parameters:
   - description: "the storageAccountId value to set."
     name: "storageAccountId"

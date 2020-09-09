@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.ImportImageParameters.mode()"
   name: "mode()"
   nameWithType: "ImportImageParameters.mode()"
-  summary: "Get the mode property: When Force, any existing target tags will be overwritten. When NoForce, any existing\n target tags will fail the operation before any copying begins."
+  summary: "Get the mode property: When Force, any existing target tags will be overwritten. When NoForce, any existing target tags will fail the operation before any copying begins."
   syntax: "public ImportMode mode()"
   returns:
     description: "the mode value."

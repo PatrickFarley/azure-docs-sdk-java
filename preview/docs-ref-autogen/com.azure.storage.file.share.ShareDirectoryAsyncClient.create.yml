@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryAsyncClient.create()"
   name: "create()"
   nameWithType: "ShareDirectoryAsyncClient.create()"
-  summary: "Creates this directory in the file share and returns a response of <xref uid=\"ShareDirectoryInfo\" data-throw-if-not-resolved=\"false\">ShareDirectoryInfo</xref> to interact\n with it.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the directory</p>\n\n <pre>\n shareDirectoryAsyncClient.create&#40;&#41;.subscribe&#40;\n     response -&gt; &#123;\n     &#125;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Completed creating the directory!&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory\">Azure Docs</a>.</p>"
+  summary: "Creates this directory in the file share and returns a response of <xref uid=\"com.azure.storage.file.share.models.ShareDirectoryInfo\" data-throw-if-not-resolved=\"false\">ShareDirectoryInfo</xref> to interact with it.\n\n**Code Samples**\n\nCreate the directory\n\n```java\nshareDirectoryAsyncClient.create().subscribe(\n     response -> {\n     },\n     error -> System.err.print(error.toString()),\n     () -> System.out.println(\"Completed creating the directory!\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory"
   syntax: "public Mono<ShareDirectoryInfo> create()"
   returns:
     description: "The <xref uid=\"com.azure.storage.file.share.models.ShareDirectoryInfo\" data-throw-if-not-resolved=\"false\">directory info</xref>."

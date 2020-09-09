@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.FileShareInner.enabledProtocols()"
   name: "enabledProtocols()"
   nameWithType: "FileShareInner.enabledProtocols()"
-  summary: "Get the enabledProtocols property: The authentication protocol that is used for the file share. Can only be\n specified when creating a share."
+  summary: "Get the enabledProtocols property: The authentication protocol that is used for the file share. Can only be specified when creating a share."
   syntax: "public EnabledProtocols enabledProtocols()"
   returns:
     description: "the enabledProtocols value."

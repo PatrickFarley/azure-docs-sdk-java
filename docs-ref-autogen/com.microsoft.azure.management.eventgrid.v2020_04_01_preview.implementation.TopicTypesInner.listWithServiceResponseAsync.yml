@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.listWithServiceResponseAsync()"
   name: "listWithServiceResponseAsync()"
   nameWithType: "TopicTypesInner.listWithServiceResponseAsync()"
-  summary: "List topic types.\n List all registered topic types."
+  summary: "List topic types. List all registered topic types."
   syntax: "public Observable<ServiceResponse<List<TopicTypeInfoInner>>> listWithServiceResponseAsync()"
   returns:
     description: "the observable to the List&lt;TopicTypeInfoInner&gt; object"

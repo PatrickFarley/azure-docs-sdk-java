@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.withMicrosoftAccountClientId(String microsoftAccountClientId)"
   name: "withMicrosoftAccountClientId(String microsoftAccountClientId)"
   nameWithType: "SiteAuthSettingsInner.withMicrosoftAccountClientId(String microsoftAccountClientId)"
-  summary: "Set the microsoftAccountClientId property: The OAuth 2.0 client ID that was created for the app used for\n authentication. This setting is required for enabling Microsoft Account authentication. Microsoft Account OAuth\n documentation: https://dev.onedrive.com/auth/msa_oauth.htm."
+  summary: "Set the microsoftAccountClientId property: The OAuth 2.0 client ID that was created for the app used for authentication. This setting is required for enabling Microsoft Account authentication. Microsoft Account OAuth documentation: https://dev.onedrive.com/auth/msa\\_oauth.htm."
   parameters:
   - description: "the microsoftAccountClientId value to set."
     name: "microsoftAccountClientId"

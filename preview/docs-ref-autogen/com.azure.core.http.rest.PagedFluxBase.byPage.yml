@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.rest.PagedFluxBase<T,P>.byPage()"
   name: "byPage()"
   nameWithType: "PagedFluxBase<T,P>.byPage()"
-  summary: "Creates a Flux of <xref uid=\"PagedResponse\" data-throw-if-not-resolved=\"false\">PagedResponse</xref> starting from the first page.\n\n <p><strong>Code sample</strong></p>\n {@codesnippet com.azure.core.http.rest.pagedfluxbase.bypage}"
+  summary: "Creates a Flux of <xref uid=\"com.azure.core.http.rest.PagedResponse\" data-throw-if-not-resolved=\"false\">PagedResponse</xref> starting from the first page.\n\n**Code sample**\n\n\\{@codesnippet com.azure.core.http.rest.pagedfluxbase.bypage\\}"
   overridden: "com.azure.core.util.paging.ContinuablePagedFluxCore.byPage()"
   syntax: "public Flux<P> byPage()"
   returns:
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.core.http.rest.PagedFluxBase<T,P>.byPage(String continuationToken)"
   name: "byPage(String continuationToken)"
   nameWithType: "PagedFluxBase<T,P>.byPage(String continuationToken)"
-  summary: "Creates a Flux of <xref uid=\"PagedResponse\" data-throw-if-not-resolved=\"false\">PagedResponse</xref> starting from the next page associated with the given\n continuation token. To start from first page, use <xref uid=\"#byPage()\" data-throw-if-not-resolved=\"false\">#byPage()</xref> instead.\n\n <p><strong>Code sample</strong></p>\n {@codesnippet com.azure.core.http.rest.pagedfluxbase.bypage#String}"
+  summary: "Creates a Flux of <xref uid=\"com.azure.core.http.rest.PagedResponse\" data-throw-if-not-resolved=\"false\">PagedResponse</xref> starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.core.http.rest.PagedFluxBase.byPage()\" data-throw-if-not-resolved=\"false\">#byPage()</xref> instead.\n\n**Code sample**\n\n\\{@codesnippet com.azure.core.http.rest.pagedfluxbase.bypage\\#String\\}"
   overridden: "com.azure.core.util.paging.ContinuablePagedFluxCore.byPage(C)"
   parameters:
   - description: "The continuation token used to fetch the next page"

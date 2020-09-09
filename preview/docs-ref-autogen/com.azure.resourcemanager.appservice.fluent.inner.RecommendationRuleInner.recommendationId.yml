@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RecommendationRuleInner.recommendationId()"
   name: "recommendationId()"
   nameWithType: "RecommendationRuleInner.recommendationId()"
-  summary: "Get the recommendationId property: Recommendation ID of an associated recommendation object tied to the rule, if\n exists. If such an object doesn't exist, it is set to null."
+  summary: "Get the recommendationId property: Recommendation ID of an associated recommendation object tied to the rule, if exists. If such an object doesn't exist, it is set to null."
   syntax: "public UUID recommendationId()"
   returns:
     description: "the recommendationId value."

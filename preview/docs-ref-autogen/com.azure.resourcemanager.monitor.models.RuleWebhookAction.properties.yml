@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RuleWebhookAction.properties()"
   name: "properties()"
   nameWithType: "RuleWebhookAction.properties()"
-  summary: "Get the properties property: the dictionary of custom properties to include with the post operation. These data\n are appended to the webhook payload."
+  summary: "Get the properties property: the dictionary of custom properties to include with the post operation. These data are appended to the webhook payload."
   syntax: "public Map<String,String> properties()"
   returns:
     description: "the properties value."

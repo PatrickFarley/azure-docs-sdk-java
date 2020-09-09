@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.createEntry(AbstractHashedMap.HashEntry<K,V> next, int hashCode, K key, V value)"
   name: "createEntry(AbstractHashedMap.HashEntry<K,V> next, int hashCode, K key, V value)"
   nameWithType: "AbstractHashedMap<K,V>.createEntry(AbstractHashedMap.HashEntry<K,V> next, int hashCode, K key, V value)"
-  summary: "Creates an entry to store the key-value data.\n <p>\n This implementation creates a new HashEntry instance.\n Subclasses can override this to return a different storage class,\n or implement caching."
+  summary: "Creates an entry to store the key-value data.\n\nThis implementation creates a new HashEntry instance. Subclasses can override this to return a different storage class, or implement caching."
   parameters:
   - description: "the next entry in sequence"
     name: "next"

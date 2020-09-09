@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineUpdateInner.evictionPolicy()"
   name: "evictionPolicy()"
   nameWithType: "VirtualMachineUpdateInner.evictionPolicy()"
-  summary: "Get the evictionPolicy property: Specifies the eviction policy for the Azure Spot virtual machine. Only supported\n value is 'Deallocate'. &lt;br&gt;&lt;br&gt;Minimum api-version: 2019-03-01."
+  summary: "Get the evictionPolicy property: Specifies the eviction policy for the Azure Spot virtual machine. Only supported value is 'Deallocate'. <br><br>Minimum api-version: 2019-03-01."
   syntax: "public VirtualMachineEvictionPolicyTypes evictionPolicy()"
   returns:
     description: "the evictionPolicy value."

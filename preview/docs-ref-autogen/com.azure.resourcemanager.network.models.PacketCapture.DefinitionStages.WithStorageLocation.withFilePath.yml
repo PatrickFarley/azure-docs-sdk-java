@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PacketCapture.DefinitionStages.WithStorageLocation.withFilePath(String filePath)"
   name: "withFilePath(String filePath)"
   nameWithType: "PacketCapture.DefinitionStages.WithStorageLocation.withFilePath(String filePath)"
-  summary: "A valid local path on the targeting VM. Must include the name of the capture file (*.cap). For linux\n virtual machine it must start with /var/captures. Required if no storage ID is provided, otherwise\n optional."
+  summary: "A valid local path on the targeting VM. Must include the name of the capture file (\\*.cap). For linux virtual machine it must start with /var/captures. Required if no storage ID is provided, otherwise optional."
   parameters:
   - description: "A valid local path on the targeting VM"
     name: "filePath"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexingSchedule.getInterval()"
   name: "getInterval()"
   nameWithType: "IndexingSchedule.getInterval()"
-  summary: "Get the interval property: The interval of time between indexer\n executions."
+  summary: "Get the interval property: The interval of time between indexer executions."
   syntax: "public Duration getInterval()"
   returns:
     description: "the interval value."

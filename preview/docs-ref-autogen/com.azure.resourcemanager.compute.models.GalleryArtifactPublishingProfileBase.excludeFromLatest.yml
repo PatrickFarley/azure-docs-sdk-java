@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryArtifactPublishingProfileBase.excludeFromLatest()"
   name: "excludeFromLatest()"
   nameWithType: "GalleryArtifactPublishingProfileBase.excludeFromLatest()"
-  summary: "Get the excludeFromLatest property: If set to true, Virtual Machines deployed from the latest version of the\n Image Definition won't use this Image Version."
+  summary: "Get the excludeFromLatest property: If set to true, Virtual Machines deployed from the latest version of the Image Definition won't use this Image Version."
   syntax: "public Boolean excludeFromLatest()"
   returns:
     description: "the excludeFromLatest value."

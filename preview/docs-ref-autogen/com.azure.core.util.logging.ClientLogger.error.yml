@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.error(String format, Object[] args)"
   name: "error(String format, Object[] args)"
   nameWithType: "ClientLogger.error(String format, Object[] args)"
-  summary: "Logs a formattable message that uses <code>{}</code> as the placeholder at <code>error</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging an error with stack trace.</p>\n\n {@codesnippet com.azure.core.util.logging.clientlogger.error}"
+  summary: "Logs a formattable message that uses `{}` as the placeholder at `error` log level.\n\n**Code samples**\n\nLogging an error with stack trace.\n\n\\{@codesnippet com.azure.core.util.logging.clientlogger.error\\}"
   parameters:
   - description: "The formattable message to log."
     name: "format"

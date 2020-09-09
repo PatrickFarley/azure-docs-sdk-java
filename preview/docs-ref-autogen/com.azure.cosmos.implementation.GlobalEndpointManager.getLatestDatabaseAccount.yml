@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.GlobalEndpointManager.getLatestDatabaseAccount()"
   name: "getLatestDatabaseAccount()"
   nameWithType: "GlobalEndpointManager.getLatestDatabaseAccount()"
-  summary: "This will provide the latest databaseAccount.\n If due to some reason last databaseAccount update was null,\n this method will return previous valid value"
+  summary: "This will provide the latest databaseAccount. If due to some reason last databaseAccount update was null, this method will return previous valid value"
   syntax: "public DatabaseAccount getLatestDatabaseAccount()"
   returns:
     description: "DatabaseAccount"

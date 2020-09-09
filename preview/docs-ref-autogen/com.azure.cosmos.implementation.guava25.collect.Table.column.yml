@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table<R,C,V>.column(C columnKey)"
   name: "column(C columnKey)"
   nameWithType: "Table<R,C,V>.column(C columnKey)"
-  summary: "Returns a view of all mappings that have the given column key. For each row key / column key /\n value mapping in the table with that column key, the returned map associates the row key with\n the value. If no mappings in the table have the provided column key, an empty map is returned.\n\n <p>Changes to the returned map will update the underlying table, and vice versa."
+  summary: "Returns a view of all mappings that have the given column key. For each row key / column key / value mapping in the table with that column key, the returned map associates the row key with the value. If no mappings in the table have the provided column key, an empty map is returned.\n\nChanges to the returned map will update the underlying table, and vice versa."
   parameters:
   - description: "key of column to search for in the table"
     name: "columnKey"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CorsSettings.withAllowedOrigins(List<String> allowedOrigins)"
   name: "withAllowedOrigins(List<String> allowedOrigins)"
   nameWithType: "CorsSettings.withAllowedOrigins(List<String> allowedOrigins)"
-  summary: "Set the allowedOrigins property: Gets or sets the list of origins that should be allowed to make cross-origin\n calls (for example: http://example.com:12345). Use \"*\" to allow all."
+  summary: "Set the allowedOrigins property: Gets or sets the list of origins that should be allowed to make cross-origin calls (for example: http://example.com:12345). Use \"\\*\" to allow all."
   parameters:
   - description: "the allowedOrigins value to set."
     name: "allowedOrigins"

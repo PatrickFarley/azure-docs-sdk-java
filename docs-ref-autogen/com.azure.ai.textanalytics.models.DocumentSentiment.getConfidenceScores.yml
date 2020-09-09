@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.DocumentSentiment.getConfidenceScores()"
   name: "getConfidenceScores()"
   nameWithType: "DocumentSentiment.getConfidenceScores()"
-  summary: "Get the sentiment confidence score (Softmax score) between 0 and 1, for each sentiment label.\n Higher values signify higher confidence."
+  summary: "Get the sentiment confidence score (Softmax score) between 0 and 1, for each sentiment label. Higher values signify higher confidence."
   syntax: "public SentimentConfidenceScores getConfidenceScores()"
   returns:
     description: "The <xref uid=\"com.azure.ai.textanalytics.models.SentimentConfidenceScores\" data-throw-if-not-resolved=\"false\">SentimentConfidenceScores</xref>."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.abandon(String lockToken)"
   name: "abandon(String lockToken)"
   nameWithType: "ServiceBusReceiverClient.abandon(String lockToken)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token. This will make the message available\n again for processing. Abandoning a message will increase the delivery count on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify)"
   nameWithType: "ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -31,7 +31,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify, ServiceBusTransactionContext transactionContext)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify, ServiceBusTransactionContext transactionContext)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -47,7 +47,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId)"
   nameWithType: "ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -63,7 +63,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId, ServiceBusTransactionContext transactionContext)"
   name: "abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverClient.abandon(String lockToken, Map<String,Object> propertiesToModify, String sessionId, ServiceBusTransactionContext transactionContext)"
-  summary: "Abandon a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties.\n This will make the message available again for processing. Abandoning a message will increase the delivery count\n on the message."
+  summary: "Abandon a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> with its lock token and updates the message's properties. This will make the message available again for processing. Abandoning a message will increase the delivery count on the message."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"

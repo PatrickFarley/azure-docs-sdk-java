@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileHttpHeaders.getContentDisposition()"
   name: "getContentDisposition()"
   nameWithType: "ShareFileHttpHeaders.getContentDisposition()"
-  summary: "Get the contentDisposition property: Sets the file's Content-Disposition\n header."
+  summary: "Get the contentDisposition property: Sets the file's Content-Disposition header."
   syntax: "public String getContentDisposition()"
   returns:
     description: "the contentDisposition value."

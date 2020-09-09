@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.oauth2RequirePostResponse()"
   name: "oauth2RequirePostResponse()"
   nameWithType: "ApplicationInner.oauth2RequirePostResponse()"
-  summary: "Get the oauth2RequirePostResponse property: Specifies whether, as part of OAuth 2.0 token requests, Azure AD will\n allow POST requests, as opposed to GET requests. The default is false, which specifies that only GET requests\n will be allowed."
+  summary: "Get the oauth2RequirePostResponse property: Specifies whether, as part of OAuth 2.0 token requests, Azure AD will allow POST requests, as opposed to GET requests. The default is false, which specifies that only GET requests will be allowed."
   syntax: "public Boolean oauth2RequirePostResponse()"
   returns:
     description: "the oauth2RequirePostResponse value."

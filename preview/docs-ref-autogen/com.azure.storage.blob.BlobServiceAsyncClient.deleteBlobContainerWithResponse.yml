@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobServiceAsyncClient.deleteBlobContainerWithResponse(String containerName)"
   name: "deleteBlobContainerWithResponse(String containerName)"
   nameWithType: "BlobServiceAsyncClient.deleteBlobContainerWithResponse(String containerName)"
-  summary: "Deletes the specified container in the storage account. If the container doesn't exist the operation fails. For\n more information see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-container\">Azure\n Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Context context = new Context&#40;&quot;Key&quot;, &quot;Value&quot;&#41;;\n client.deleteBlobContainerWithResponse&#40;&quot;containerName&quot;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Delete container completed with status %d%n&quot;, response.getStatusCode&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Deletes the specified container in the storage account. If the container doesn't exist the operation fails. For more information see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nContext context = new Context(\"Key\", \"Value\");\n client.deleteBlobContainerWithResponse(\"containerName\").subscribe(response ->\n     System.out.printf(\"Delete container completed with status %d%n\", response.getStatusCode()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-container"
   parameters:
   - description: "Name of the container to delete"
     name: "containerName"

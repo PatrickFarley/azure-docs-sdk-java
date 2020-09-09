@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.SendMessageResult.getPopReceipt()"
   name: "getPopReceipt()"
   nameWithType: "SendMessageResult.getPopReceipt()"
-  summary: "Get the popReceipt property: This value is required to delete the\n Message. If deletion fails using this popreceipt then the message has\n been dequeued by another client."
+  summary: "Get the popReceipt property: This value is required to delete the Message. If deletion fails using this popreceipt then the message has been dequeued by another client."
   syntax: "public String getPopReceipt()"
   returns:
     description: "the popReceipt value."

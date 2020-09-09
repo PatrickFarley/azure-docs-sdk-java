@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LengthTokenFilter.getMaxLength()"
   name: "getMaxLength()"
   nameWithType: "LengthTokenFilter.getMaxLength()"
-  summary: "Get the maxLength property: The maximum length in characters. Default\n and maximum is 300."
+  summary: "Get the maxLength property: The maximum length in characters. Default and maximum is 300."
   syntax: "public Integer getMaxLength()"
   returns:
     description: "the maxLength value."

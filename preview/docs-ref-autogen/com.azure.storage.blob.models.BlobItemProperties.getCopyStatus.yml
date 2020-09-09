@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.getCopyStatus()"
   name: "getCopyStatus()"
   nameWithType: "BlobItemProperties.getCopyStatus()"
-  summary: "Get the copyStatus property: Possible values include: 'pending',\n 'success', 'aborted', 'failed'."
+  summary: "Get the copyStatus property: Possible values include: 'pending', 'success', 'aborted', 'failed'."
   syntax: "public CopyStatusType getCopyStatus()"
   returns:
     description: "the copyStatus value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobLeaseClientBuilder.buildClient()"
   name: "buildClient()"
   nameWithType: "BlobLeaseClientBuilder.buildClient()"
-  summary: "Creates a <xref uid=\"BlobLeaseClient\" data-throw-if-not-resolved=\"false\">BlobLeaseClient</xref> based on the configurations set in the builder."
+  summary: "Creates a <xref uid=\"com.azure.storage.blob.specialized.BlobLeaseClient\" data-throw-if-not-resolved=\"false\">BlobLeaseClient</xref> based on the configurations set in the builder."
   syntax: "public BlobLeaseClient buildClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.blob.specialized.BlobLeaseClient\" data-throw-if-not-resolved=\"false\">BlobLeaseClient</xref> based on the configurations in this builder."

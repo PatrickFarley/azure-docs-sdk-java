@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.Context.addData(Object key, Object value)"
   name: "addData(Object key, Object value)"
   nameWithType: "Context.addData(Object key, Object value)"
-  summary: "Adds a new immutable <xref uid=\"Context\" data-throw-if-not-resolved=\"false\">Context</xref> object with the specified key-value pair to\n the existing <xref uid=\"Context\" data-throw-if-not-resolved=\"false\">Context</xref> chain.\n\n <p><strong>Code samples</strong></p>\n\n {@codesnippet com.azure.core.util.context.addData#object-object}"
+  summary: "Adds a new immutable <xref uid=\"com.azure.core.util.Context\" data-throw-if-not-resolved=\"false\">Context</xref> object with the specified key-value pair to the existing <xref uid=\"com.azure.core.util.Context\" data-throw-if-not-resolved=\"false\">Context</xref> chain.\n\n**Code samples**\n\n\\{@codesnippet com.azure.core.util.context.addData\\#object-object\\}"
   parameters:
   - description: "The key with which the specified value should be associated."
     name: "key"

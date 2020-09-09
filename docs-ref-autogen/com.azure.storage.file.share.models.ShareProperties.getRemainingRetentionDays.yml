@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareProperties.getRemainingRetentionDays()"
   name: "getRemainingRetentionDays()"
   nameWithType: "ShareProperties.getRemainingRetentionDays()"
-  summary: "Get the remainingRetentionDays property: The remainingRetentionDays\n property."
+  summary: "Get the remainingRetentionDays property: The remainingRetentionDays property."
   syntax: "public Integer getRemainingRetentionDays()"
   returns:
     description: "the remainingRetentionDays value."

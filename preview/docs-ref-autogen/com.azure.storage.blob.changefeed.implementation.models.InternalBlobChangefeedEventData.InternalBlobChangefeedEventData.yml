@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.implementation.models.InternalBlobChangefeedEventData.InternalBlobChangefeedEventData(String api, String clientRequestId, String requestId, String eTag, String contentType, Long contentLength, BlobType blobType, Long contentOffset, String destinationUrl, String sourceUrl, String blobUrl, boolean recursive, String sequencer)"
   name: "InternalBlobChangefeedEventData(String api, String clientRequestId, String requestId, String eTag, String contentType, Long contentLength, BlobType blobType, Long contentOffset, String destinationUrl, String sourceUrl, String blobUrl, boolean recursive, String sequencer)"
   nameWithType: "InternalBlobChangefeedEventData.InternalBlobChangefeedEventData(String api, String clientRequestId, String requestId, String eTag, String contentType, Long contentLength, BlobType blobType, Long contentOffset, String destinationUrl, String sourceUrl, String blobUrl, boolean recursive, String sequencer)"
-  summary: "Constructs a <xref uid=\"InternalBlobChangefeedEventData\" data-throw-if-not-resolved=\"false\">InternalBlobChangefeedEventData</xref>."
+  summary: "Constructs a <xref uid=\"com.azure.storage.blob.changefeed.implementation.models.InternalBlobChangefeedEventData\" data-throw-if-not-resolved=\"false\">InternalBlobChangefeedEventData</xref>."
   parameters:
   - description: "The api."
     name: "api"

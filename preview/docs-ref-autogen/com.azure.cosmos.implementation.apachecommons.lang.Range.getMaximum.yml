@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.getMaximum()"
   name: "getMaximum()"
   nameWithType: "Range<T>.getMaximum()"
-  summary: "<p>Gets the maximum value in this range.</p>"
+  summary: "Gets the maximum value in this range."
   syntax: "public T getMaximum()"
   returns:
     description: "the maximum value in this range, not null"

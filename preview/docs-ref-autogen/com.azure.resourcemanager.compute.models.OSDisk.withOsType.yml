@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.OSDisk.withOsType(OperatingSystemTypes osType)"
   name: "withOsType(OperatingSystemTypes osType)"
   nameWithType: "OSDisk.withOsType(OperatingSystemTypes osType)"
-  summary: "Set the osType property: This property allows you to specify the type of the OS that is included in the disk if\n creating a VM from user-image or a specialized VHD. &lt;br&gt;&lt;br&gt; Possible values are:\n &lt;br&gt;&lt;br&gt; **Windows** &lt;br&gt;&lt;br&gt; **Linux**."
+  summary: "Set the osType property: This property allows you to specify the type of the OS that is included in the disk if creating a VM from user-image or a specialized VHD. <br><br> Possible values are: <br><br> \\*\\*Windows\\*\\* <br><br> \\*\\*Linux\\*\\*."
   parameters:
   - description: "the osType value to set."
     name: "osType"

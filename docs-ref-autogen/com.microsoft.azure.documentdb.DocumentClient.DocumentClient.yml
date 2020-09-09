@@ -49,7 +49,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DocumentClient.DocumentClient(String serviceEndpoint, List<Permission> permissionFeed, ObjectMapper objectMapper, ConnectionPolicy connectionPolicy, ConsistencyLevel desiredConsistencyLevel)"
   name: "DocumentClient(String serviceEndpoint, List<Permission> permissionFeed, ObjectMapper objectMapper, ConnectionPolicy connectionPolicy, ConsistencyLevel desiredConsistencyLevel)"
   nameWithType: "DocumentClient.DocumentClient(String serviceEndpoint, List<Permission> permissionFeed, ObjectMapper objectMapper, ConnectionPolicy connectionPolicy, ConsistencyLevel desiredConsistencyLevel)"
-  summary: "Initializes a new instance of the Microsoft.Azure.Documents.Client.DocumentClient class using the specified\n Azure Cosmos DB service endpoint and permissions."
+  summary: "Initializes a new instance of the Microsoft.Azure.Documents.Client.DocumentClient class using the specified Azure Cosmos DB service endpoint and permissions."
   parameters:
   - description: "the URI of the service end point."
     name: "serviceEndpoint"
@@ -71,7 +71,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DocumentClient.DocumentClient(String serviceEndpoint, List<Permission> permissionFeed, ConnectionPolicy connectionPolicy, ConsistencyLevel desiredConsistencyLevel)"
   name: "DocumentClient(String serviceEndpoint, List<Permission> permissionFeed, ConnectionPolicy connectionPolicy, ConsistencyLevel desiredConsistencyLevel)"
   nameWithType: "DocumentClient.DocumentClient(String serviceEndpoint, List<Permission> permissionFeed, ConnectionPolicy connectionPolicy, ConsistencyLevel desiredConsistencyLevel)"
-  summary: "Initializes a new instance of the Microsoft.Azure.Documents.Client.DocumentClient class using the specified\n Azure Cosmos DB service endpoint and permissions."
+  summary: "Initializes a new instance of the Microsoft.Azure.Documents.Client.DocumentClient class using the specified Azure Cosmos DB service endpoint and permissions."
   parameters:
   - description: "the URI of the service end point."
     name: "serviceEndpoint"

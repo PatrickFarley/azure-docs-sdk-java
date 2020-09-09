@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.BASIC_A0"
   name: "BASIC_A0"
   nameWithType: "VirtualMachineSizeTypes.BASIC_A0"
-  summary: "Static value Basic_A0 for VirtualMachineSizeTypes."
+  summary: "Static value Basic\\_A0 for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes BASIC_A0"
 type: "field"
 metadata: {}

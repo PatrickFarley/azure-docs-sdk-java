@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection.getConnectionString()"
   name: "getConnectionString()"
   nameWithType: "SearchIndexerDataSourceConnection.getConnectionString()"
-  summary: "Get the connectionString property: The connection string for the\n datasource."
+  summary: "Get the connectionString property: The connection string for the datasource."
   syntax: "public String getConnectionString()"
   returns:
     description: "the connectionString value."

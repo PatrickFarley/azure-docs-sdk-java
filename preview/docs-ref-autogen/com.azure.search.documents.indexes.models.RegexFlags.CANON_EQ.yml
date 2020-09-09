@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.RegexFlags.CANON_EQ"
   name: "CANON_EQ"
   nameWithType: "RegexFlags.CANON_EQ"
-  summary: "Static value CANON_EQ for RegexFlags."
+  summary: "Static value CANON\\_EQ for RegexFlags."
   syntax: "public static final RegexFlags CANON_EQ"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.serializer.JsonNodeProvider.<T>createInstance(Object value)"
   name: "<T>createInstance(Object value)"
   nameWithType: "JsonNodeProvider.<T>createInstance(Object value)"
-  summary: "Creates a <xref uid=\"JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> from the passed value."
+  summary: "Creates a <xref uid=\"com.azure.core.experimental.serializer.JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> from the passed value."
   parameters:
   - description: "Value to turn into a <xref uid=\"com.azure.core.experimental.serializer.JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref>."
     name: "value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.auth.IotHubServiceSasToken.IotHubServiceSasToken(IotHubConnectionString iotHubConnectionString)"
   name: "IotHubServiceSasToken(IotHubConnectionString iotHubConnectionString)"
   nameWithType: "IotHubServiceSasToken.IotHubServiceSasToken(IotHubConnectionString iotHubConnectionString)"
-  summary: "Constructor. Generates a SAS token that grants access to an IoT Hub for\n the specified amount of time. (1 year specified in TOKEN_VALID_SECS)"
+  summary: "Constructor. Generates a SAS token that grants access to an IoT Hub for the specified amount of time. (1 year specified in TOKEN\\_VALID\\_SECS)"
   parameters:
   - description: "Connection string object containing the connection parameters"
     name: "iotHubConnectionString"

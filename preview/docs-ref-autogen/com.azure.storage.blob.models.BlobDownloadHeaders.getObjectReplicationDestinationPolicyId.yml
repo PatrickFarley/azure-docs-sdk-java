@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getObjectReplicationDestinationPolicyId()"
   name: "getObjectReplicationDestinationPolicyId()"
   nameWithType: "BlobDownloadHeaders.getObjectReplicationDestinationPolicyId()"
-  summary: "Get the objectReplicationDestinationPolicyId property: Optional. Only\n valid when Object Replication is enabled for the storage container and\n on the destination blob of the replication."
+  summary: "Get the objectReplicationDestinationPolicyId property: Optional. Only valid when Object Replication is enabled for the storage container and on the destination blob of the replication."
   syntax: "public String getObjectReplicationDestinationPolicyId()"
   returns:
     description: "the objectReplicationDestinationPolicyId value."

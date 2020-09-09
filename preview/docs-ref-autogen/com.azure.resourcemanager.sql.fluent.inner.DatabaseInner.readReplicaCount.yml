@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseInner.readReplicaCount()"
   name: "readReplicaCount()"
   nameWithType: "DatabaseInner.readReplicaCount()"
-  summary: "Get the readReplicaCount property: The number of readonly secondary replicas associated with the database to\n which readonly application intent connections may be routed. This property is only settable for Hyperscale\n edition databases."
+  summary: "Get the readReplicaCount property: The number of readonly secondary replicas associated with the database to which readonly application intent connections may be routed. This property is only settable for Hyperscale edition databases."
   syntax: "public Integer readReplicaCount()"
   returns:
     description: "the readReplicaCount value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.implementation.GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup()"
   name: "withNewResourceGroup()"
   nameWithType: "GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup()"
-  summary: "Creates a new resource group to put the resource in.\n <p>\n The group will be created in the same location as the resource.\n The group's name is automatically derived from the resource's name."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource. The group's name is automatically derived from the resource's name."
   syntax: "public final FluentModelImplT withNewResourceGroup()"
   returns:
     description: "the next stage of the definition"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.implementation.GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup(Region region)"
   name: "withNewResourceGroup(Region region)"
   nameWithType: "GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup(Region region)"
-  summary: "Creates a new resource group to put the resource in.\n <p>\n The group will be created in the same location as the resource.\n The group's name is automatically derived from the resource's name."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource. The group's name is automatically derived from the resource's name."
   parameters:
   - description: "the region where resource group needs to be created"
     name: "region"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.implementation.GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup(String groupName)"
   name: "withNewResourceGroup(String groupName)"
   nameWithType: "GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup(String groupName)"
-  summary: "Creates a new resource group to put the resource in.\n <p>\n The group will be created in the same location as the resource."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource."
   parameters:
   - description: "the name of the new group"
     name: "groupName"
@@ -56,7 +56,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.implementation.GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup(String groupName, Region region)"
   name: "withNewResourceGroup(String groupName, Region region)"
   nameWithType: "GroupableResourceImpl<FluentModelT,InnerModelT,FluentModelImplT,ManagerT>.withNewResourceGroup(String groupName, Region region)"
-  summary: "Creates a new resource group to put the resource in.\n <p>\n The group will be created in the same location as the resource."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource."
   parameters:
   - description: "the name of the new group"
     name: "groupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.ParserUtility.getDateStringFromDate(Date date)"
   name: "getDateStringFromDate(Date date)"
   nameWithType: "ParserUtility.getDateStringFromDate(Date date)"
-  summary: "Convert from a date object back into a string representation\n Expected format of returned string:\n      \"2016-01-21T11:05:21\""
+  summary: "Convert from a date object back into a string representation Expected format of returned string: \"2016-01-21T11:05:21\""
   parameters:
   - description: "the date to convert into a string"
     name: "date"

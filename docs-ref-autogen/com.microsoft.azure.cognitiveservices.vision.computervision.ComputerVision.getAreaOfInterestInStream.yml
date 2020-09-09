@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.getAreaOfInterestInStream(byte[] image)"
   name: "getAreaOfInterestInStream(byte[] image)"
   nameWithType: "ComputerVision.getAreaOfInterestInStream(byte[] image)"
-  summary: "This operation returns a bounding box around the most important area of the image.\n  A successful response will be returned in JSON. If the request failed, the response contains an\n  error code and a message to help determine what went wrong.\n  Upon failure, the error code and an error message are returned. The error code could be one of\n  InvalidImageUrl, InvalidImageFormat, InvalidImageSize, NotSupportedImage, FailedToProcess,\n  Timeout, or InternalServerError."
+  summary: "This operation returns a bounding box around the most important area of the image. A successful response will be returned in JSON. If the request failed, the response contains an error code and a message to help determine what went wrong. Upon failure, the error code and an error message are returned. The error code could be one of InvalidImageUrl, InvalidImageFormat, InvalidImageSize, NotSupportedImage, FailedToProcess, Timeout, or InternalServerError."
   parameters:
   - description: "An image stream."
     name: "image"

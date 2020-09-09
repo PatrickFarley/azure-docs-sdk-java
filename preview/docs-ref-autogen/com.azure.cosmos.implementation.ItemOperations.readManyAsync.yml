@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ItemOperations.<T>readManyAsync(CosmosAsyncContainer container, List<Pair<String,PartitionKey>> itemKeyList, Class<T> classType)"
   name: "<T>readManyAsync(CosmosAsyncContainer container, List<Pair<String,PartitionKey>> itemKeyList, Class<T> classType)"
   nameWithType: "ItemOperations.<T>readManyAsync(CosmosAsyncContainer container, List<Pair<String,PartitionKey>> itemKeyList, Class<T> classType)"
-  summary: "Note: although this method is public, this API may change in future.\n <p>\n Reads many documents."
+  summary: "Note: although this method is public, this API may change in future.\n\nReads many documents."
   parameters:
   - description: "the cosmos async container"
     name: "container"

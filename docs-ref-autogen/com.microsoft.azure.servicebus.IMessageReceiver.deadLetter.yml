@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken)"
   name: "deadLetter(UUID lockToken)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -23,7 +23,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken, TransactionContext transaction)"
   name: "deadLetter(UUID lockToken, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken, TransactionContext transaction)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -41,7 +41,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription)"
   name: "deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -62,7 +62,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, TransactionContext transaction)"
   name: "deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, TransactionContext transaction)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -86,7 +86,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, Map<String,Object> propertiesToModify)"
   name: "deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, Map<String,Object> propertiesToModify)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, Map<String,Object> propertiesToModify)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description and modified properties."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description and modified properties."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -110,7 +110,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, Map<String,Object> propertiesToModify, TransactionContext transaction)"
   name: "deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, Map<String,Object> propertiesToModify, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken, String deadLetterReason, String deadLetterErrorDescription, Map<String,Object> propertiesToModify, TransactionContext transaction)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description and modified properties."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with deadletter reason and error description and modified properties."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -137,7 +137,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken, Map<String,Object> propertiesToModify)"
   name: "deadLetter(UUID lockToken, Map<String,Object> propertiesToModify)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken, Map<String,Object> propertiesToModify)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with modified message properties."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with modified message properties."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -155,7 +155,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.deadLetter(UUID lockToken, Map<String,Object> propertiesToModify, TransactionContext transaction)"
   name: "deadLetter(UUID lockToken, Map<String,Object> propertiesToModify, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.deadLetter(UUID lockToken, Map<String,Object> propertiesToModify, TransactionContext transaction)"
-  summary: "Moves a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with modified message properties."
+  summary: "Moves a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> to the deadletter sub-queue with modified message properties."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"

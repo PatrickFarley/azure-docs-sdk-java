@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.ChangeFeedObserverContext.checkpoint()"
   name: "checkpoint()"
   nameWithType: "ChangeFeedObserverContext.checkpoint()"
-  summary: "Checkpoints progress of a stream. This method is valid only if manual checkpoint was configured.\n <p>\n   Client may accept multiple change feed batches to process in parallel.\n   Once first N document processing was finished the client can call checkpoint on the last completed batches in the row.\n   In case of automatic checkpointing this is method throws."
+  summary: "Checkpoints progress of a stream. This method is valid only if manual checkpoint was configured.\n\nClient may accept multiple change feed batches to process in parallel. Once first N document processing was finished the client can call checkpoint on the last completed batches in the row. In case of automatic checkpointing this is method throws."
   syntax: "public abstract Mono<Lease> checkpoint()"
   returns:
     description: "a representation of the deferred computation of this call."

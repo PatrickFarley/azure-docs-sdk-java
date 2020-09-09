@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.<C>atLeast(C endpoint)"
   name: "<C>atLeast(C endpoint)"
   nameWithType: "Range<C>.<C>atLeast(C endpoint)"
-  summary: "Returns a range that contains all values greater than or equal to <code>endpoint</code>."
+  summary: "Returns a range that contains all values greater than or equal to `endpoint`."
   parameters:
   - name: "endpoint"
     type: "<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />"

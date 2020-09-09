@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.BaseDevice.connectionState"
   name: "connectionState"
   nameWithType: "BaseDevice.connectionState"
-  summary: "Status of the device:\n {\"connected\" | \"disconnected\"}"
+  summary: "Status of the device: \\{\"connected\" | \"disconnected\"\\}"
   syntax: "protected DeviceConnectionState connectionState"
 type: "field"
 metadata: {}

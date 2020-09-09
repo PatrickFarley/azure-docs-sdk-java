@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.BlobServicePropertiesInner.withDefaultServiceVersion(String defaultServiceVersion)"
   name: "withDefaultServiceVersion(String defaultServiceVersion)"
   nameWithType: "BlobServicePropertiesInner.withDefaultServiceVersion(String defaultServiceVersion)"
-  summary: "Set the defaultServiceVersion property: DefaultServiceVersion indicates the default version to use for requests\n to the Blob service if an incoming request\\u2019s version is not specified. Possible values include version 2008-10-27\n and all more recent versions."
+  summary: "Set the defaultServiceVersion property: DefaultServiceVersion indicates the default version to use for requests to the Blob service if an incoming request\\\\u2019s version is not specified. Possible values include version 2008-10-27 and all more recent versions."
   parameters:
   - description: "the defaultServiceVersion value to set."
     name: "defaultServiceVersion"

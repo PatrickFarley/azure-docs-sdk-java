@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ApplicationBase.errorUrl()"
   name: "errorUrl()"
   nameWithType: "ApplicationBase.errorUrl()"
-  summary: "Get the errorUrl property: A URL provided by the author of the application to report errors when using the\n application."
+  summary: "Get the errorUrl property: A URL provided by the author of the application to report errors when using the application."
   syntax: "public String errorUrl()"
   returns:
     description: "the errorUrl value."

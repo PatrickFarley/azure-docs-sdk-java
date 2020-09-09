@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewaySkuName.STANDARD_SMALL"
   name: "STANDARD_SMALL"
   nameWithType: "ApplicationGatewaySkuName.STANDARD_SMALL"
-  summary: "Static value Standard_Small for ApplicationGatewaySkuName."
+  summary: "Static value Standard\\_Small for ApplicationGatewaySkuName."
   syntax: "public static final ApplicationGatewaySkuName STANDARD_SMALL"
 type: "field"
 metadata: {}

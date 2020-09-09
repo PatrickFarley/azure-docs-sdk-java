@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse.release()"
   name: "release()"
   nameWithType: "RntbdResponse.release()"
-  summary: "Decreases the reference count by <code>1</code>.\n <p>\n The current <xref uid=\"RntbdResponse\" data-throw-if-not-resolved=\"false\">response</xref> is deallocated if the count reaches <code>0</code>."
+  summary: "Decreases the reference count by `1`.\n\nThe current <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse\" data-throw-if-not-resolved=\"false\">response</xref> is deallocated if the count reaches `0`."
   syntax: "public boolean release()"
   returns:
     description: "<code>true</code> if and only if the reference count became <code>0</code> and this response is deallocated."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse.release(int decrement)"
   name: "release(int decrement)"
   nameWithType: "RntbdResponse.release(int decrement)"
-  summary: "Decreases the reference count by <code>decrement</code> and deallocates this response if the count reaches <code>0</code>."
+  summary: "Decreases the reference count by `decrement` and deallocates this response if the count reaches `0`."
   parameters:
   - description: "amount of the decrease."
     name: "decrement"

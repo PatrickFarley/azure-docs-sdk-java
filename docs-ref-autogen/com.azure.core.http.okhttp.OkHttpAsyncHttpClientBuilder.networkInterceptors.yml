@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.okhttp.OkHttpAsyncHttpClientBuilder.networkInterceptors(List<Interceptor> networkInterceptors)"
   name: "networkInterceptors(List<Interceptor> networkInterceptors)"
   nameWithType: "OkHttpAsyncHttpClientBuilder.networkInterceptors(List<Interceptor> networkInterceptors)"
-  summary: "Add network layer interceptors to Http request pipeline.\n\n This replaces all previously-set interceptors."
+  summary: "Add network layer interceptors to Http request pipeline. This replaces all previously-set interceptors."
   parameters:
   - description: "the interceptors to add"
     name: "networkInterceptors"

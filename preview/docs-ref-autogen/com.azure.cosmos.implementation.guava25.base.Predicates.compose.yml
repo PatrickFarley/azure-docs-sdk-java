@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicates.<A,B>compose(Predicate<B> predicate, Function<A,? extends B> function)"
   name: "<A,B>compose(Predicate<B> predicate, Function<A,? extends B> function)"
   nameWithType: "Predicates.<A,B>compose(Predicate<B> predicate, Function<A,? extends B> function)"
-  summary: "Returns the composition of a function and a predicate. For every <code>x</code>, the generated\n predicate returns <code>predicate(function(x))</code>."
+  summary: "Returns the composition of a function and a predicate. For every `x`, the generated predicate returns `predicate(function(x))`."
   parameters:
   - name: "predicate"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.Predicate?alt=com.azure.cosmos.implementation.guava25.base.Predicate&text=Predicate\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"B?alt=B&text=B\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.VaultProperties.withAccessPolicies(List<AccessPolicyEntry> accessPolicies)"
   name: "withAccessPolicies(List<AccessPolicyEntry> accessPolicies)"
   nameWithType: "VaultProperties.withAccessPolicies(List<AccessPolicyEntry> accessPolicies)"
-  summary: "Set the accessPolicies property: An array of 0 to 1024 identities that have access to the key vault. All\n identities in the array must use the same tenant ID as the key vault's tenant ID. When `createMode` is set to\n `recover`, access policies are not required. Otherwise, access policies are required."
+  summary: "Set the accessPolicies property: An array of 0 to 1024 identities that have access to the key vault. All identities in the array must use the same tenant ID as the key vault's tenant ID. When \\`createMode\\` is set to \\`recover\\`, access policies are not required. Otherwise, access policies are required."
   parameters:
   - description: "the accessPolicies value to set."
     name: "accessPolicies"

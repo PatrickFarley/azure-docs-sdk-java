@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextAnalyticsRequestOptions.isIncludeStatistics()"
   name: "isIncludeStatistics()"
   nameWithType: "TextAnalyticsRequestOptions.isIncludeStatistics()"
-  summary: "Get the value of <code>includeStatistics</code>."
+  summary: "Get the value of `includeStatistics`."
   syntax: "public boolean isIncludeStatistics()"
   returns:
     description: "The value of <code>includeStatistics</code>."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.getByResourceGroup(String resourceGroupName, String partnerTopicName)"
   name: "getByResourceGroup(String resourceGroupName, String partnerTopicName)"
   nameWithType: "PartnerTopicsInner.getByResourceGroup(String resourceGroupName, String partnerTopicName)"
-  summary: "Get a partner topic.\n Get properties of a partner topic."
+  summary: "Get a partner topic. Get properties of a partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

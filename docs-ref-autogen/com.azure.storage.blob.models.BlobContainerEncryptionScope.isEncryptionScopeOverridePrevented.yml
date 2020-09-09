@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobContainerEncryptionScope.isEncryptionScopeOverridePrevented()"
   name: "isEncryptionScopeOverridePrevented()"
   nameWithType: "BlobContainerEncryptionScope.isEncryptionScopeOverridePrevented()"
-  summary: "Get the encryptionScopeOverridePrevented property: Optional.  Version\n 2019-07-07 and newer.  If true, prevents any request from specifying a\n different encryption scope than the scope set on the container."
+  summary: "Get the encryptionScopeOverridePrevented property: Optional. Version 2019-07-07 and newer. If true, prevents any request from specifying a different encryption scope than the scope set on the container."
   syntax: "public boolean isEncryptionScopeOverridePrevented()"
   returns:
     description: "the encryptionScopeOverridePrevented value."

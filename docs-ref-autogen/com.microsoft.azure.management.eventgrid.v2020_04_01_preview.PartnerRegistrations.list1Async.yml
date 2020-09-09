@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.PartnerRegistrations.list1Async()"
   name: "list1Async()"
   nameWithType: "PartnerRegistrations.list1Async()"
-  summary: "List all available partners registrations.\n List all partners registrations."
+  summary: "List all available partners registrations. List all partners registrations."
   syntax: "public abstract Observable<PartnerRegistration> list1Async()"
   returns:
     description: "the observable for the request"

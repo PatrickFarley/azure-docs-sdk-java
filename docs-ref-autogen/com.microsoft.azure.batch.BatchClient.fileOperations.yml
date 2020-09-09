@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchClient.fileOperations()"
   name: "fileOperations()"
   nameWithType: "BatchClient.fileOperations()"
-  summary: "Gets a <xref uid=\"FileOperations\" data-throw-if-not-resolved=\"false\">FileOperations</xref> object for performing file-related operations on the associated account."
+  summary: "Gets a <xref uid=\"com.microsoft.azure.batch.FileOperations\" data-throw-if-not-resolved=\"false\">FileOperations</xref> object for performing file-related operations on the associated account."
   syntax: "public FileOperations fileOperations()"
   returns:
     description: "An instance of the <xref uid=\"com.microsoft.azure.batch.FileOperations\" data-throw-if-not-resolved=\"false\">FileOperations</xref> class."

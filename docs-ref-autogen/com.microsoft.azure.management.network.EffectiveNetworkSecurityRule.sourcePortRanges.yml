@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.EffectiveNetworkSecurityRule.sourcePortRanges()"
   name: "sourcePortRanges()"
   nameWithType: "EffectiveNetworkSecurityRule.sourcePortRanges()"
-  summary: "Get the source port ranges. Expected values include a single integer between 0 and 65535, a range using '-' as separator (e.g. 100-400), or an asterisk (*)."
+  summary: "Get the source port ranges. Expected values include a single integer between 0 and 65535, a range using '-' as separator (e.g. 100-400), or an asterisk (\\*)."
   syntax: "public List<String> sourcePortRanges()"
   returns:
     description: "the sourcePortRanges value"

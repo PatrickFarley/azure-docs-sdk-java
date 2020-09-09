@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventHubConsumerClient.receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition)"
   name: "receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition)"
   nameWithType: "EventHubConsumerClient.receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition)"
-  summary: "Receives a batch of <xref uid=\"PartitionEvent\" data-throw-if-not-resolved=\"false\">events</xref> from the Event Hub partition."
+  summary: "Receives a batch of <xref uid=\"com.azure.messaging.eventhubs.models.PartitionEvent\" data-throw-if-not-resolved=\"false\">events</xref> from the Event Hub partition."
   parameters:
   - description: "Identifier of the partition to read events from."
     name: "partitionId"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventHubConsumerClient.receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition, Duration maximumWaitTime)"
   name: "receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition, Duration maximumWaitTime)"
   nameWithType: "EventHubConsumerClient.receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition, Duration maximumWaitTime)"
-  summary: "Receives a batch of <xref uid=\"PartitionEvent\" data-throw-if-not-resolved=\"false\">events</xref> from the Event Hub partition."
+  summary: "Receives a batch of <xref uid=\"com.azure.messaging.eventhubs.models.PartitionEvent\" data-throw-if-not-resolved=\"false\">events</xref> from the Event Hub partition."
   parameters:
   - description: "Identifier of the partition to read events from."
     name: "partitionId"
@@ -49,7 +49,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventHubConsumerClient.receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition, Duration maximumWaitTime, ReceiveOptions receiveOptions)"
   name: "receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition, Duration maximumWaitTime, ReceiveOptions receiveOptions)"
   nameWithType: "EventHubConsumerClient.receiveFromPartition(String partitionId, int maximumMessageCount, EventPosition startingPosition, Duration maximumWaitTime, ReceiveOptions receiveOptions)"
-  summary: "Receives a batch of <xref uid=\"PartitionEvent\" data-throw-if-not-resolved=\"false\">events</xref> from the Event Hub partition."
+  summary: "Receives a batch of <xref uid=\"com.azure.messaging.eventhubs.models.PartitionEvent\" data-throw-if-not-resolved=\"false\">events</xref> from the Event Hub partition."
   parameters:
   - description: "Identifier of the partition to read events from."
     name: "partitionId"

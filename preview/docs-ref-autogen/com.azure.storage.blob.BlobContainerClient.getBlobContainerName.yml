@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobContainerClient.getBlobContainerName()"
   name: "getBlobContainerName()"
   nameWithType: "BlobContainerClient.getBlobContainerName()"
-  summary: "Get the container name.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n String containerName = client.getBlobContainerName&#40;&#41;;\n System.out.println&#40;&quot;The name of the blob is &quot; + containerName&#41;;\n </pre>"
+  summary: "Get the container name.\n\n**Code Samples**\n\n```java\nString containerName = client.getBlobContainerName();\n System.out.println(\"The name of the blob is \" + containerName);\n```"
   syntax: "public String getBlobContainerName()"
   returns:
     description: "The name of container."

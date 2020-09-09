@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ContiguousSet<C>.tailSet(C fromElement)"
   name: "tailSet(C fromElement)"
   nameWithType: "ContiguousSet<C>.tailSet(C fromElement)"
-  summary: "\n\n <p>This method returns a serializable <code>ImmutableSortedSet</code>.\n\n <p>The <xref uid=\"SortedSet#tailSet\" data-throw-if-not-resolved=\"false\">SortedSet#tailSet</xref> documentation states that a subset of a subset throws an\n <xref uid=\"IllegalArgumentException\" data-throw-if-not-resolved=\"false\">IllegalArgumentException</xref> if passed a <code>fromElement</code> smaller than an earlier <code>\n fromElement</code>. However, this method doesn't throw an exception in that situation, but instead\n keeps the original <code>fromElement</code>."
+  summary: "This method returns a serializable `ImmutableSortedSet`.\n\nThe <xref uid=\"java.util.SortedSet.tailSet\" data-throw-if-not-resolved=\"false\">SortedSet#tailSet</xref> documentation states that a subset of a subset throws an <xref uid=\"\" data-throw-if-not-resolved=\"false\">IllegalArgumentException</xref> if passed a `fromElement` smaller than an earlier `fromElement`. However, this method doesn't throw an exception in that situation, but instead keeps the original `fromElement`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedSet.tailSet(E)"
   parameters:
   - name: "fromElement"

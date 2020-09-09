@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.getLastReconnectTime()"
   name: "getLastReconnectTime()"
   nameWithType: "HandleItem.getLastReconnectTime()"
-  summary: "Get the lastReconnectTime property: Time handle was last connected to\n (UTC)."
+  summary: "Get the lastReconnectTime property: Time handle was last connected to (UTC)."
   syntax: "public OffsetDateTime getLastReconnectTime()"
   returns:
     description: "the lastReconnectTime value."

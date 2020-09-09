@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineInner.withVirtualMachineScaleSet(SubResource virtualMachineScaleSet)"
   name: "withVirtualMachineScaleSet(SubResource virtualMachineScaleSet)"
   nameWithType: "VirtualMachineInner.withVirtualMachineScaleSet(SubResource virtualMachineScaleSet)"
-  summary: "Set the virtualMachineScaleSet property: Specifies information about the virtual machine scale set that the\n virtual machine should be assigned to. Virtual machines specified in the same virtual machine scale set are\n allocated to different nodes to maximize availability. Currently, a VM can only be added to virtual machine scale\n set at creation time. An existing VM cannot be added to a virtual machine scale set. &lt;br&gt;&lt;br&gt;This\n property cannot exist along with a non-null properties.availabilitySet reference. &lt;br&gt;&lt;br&gt;Minimum\n api\\u2010version: 2019\\u201003\\u201001."
+  summary: "Set the virtualMachineScaleSet property: Specifies information about the virtual machine scale set that the virtual machine should be assigned to. Virtual machines specified in the same virtual machine scale set are allocated to different nodes to maximize availability. Currently, a VM can only be added to virtual machine scale set at creation time. An existing VM cannot be added to a virtual machine scale set. <br><br>This property cannot exist along with a non-null properties.availabilitySet reference. <br><br>Minimum api\\\\u2010version: 2019\\\\u201003\\\\u201001."
   parameters:
   - description: "the virtualMachineScaleSet value to set."
     name: "virtualMachineScaleSet"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosQueryRequestOptions.getResponseContinuationTokenLimitInKb()"
   name: "getResponseContinuationTokenLimitInKb()"
   nameWithType: "CosmosQueryRequestOptions.getResponseContinuationTokenLimitInKb()"
-  summary: "Gets the ResponseContinuationTokenLimitInKb request option for item query\n requests in the Azure Cosmos DB service. If not already set returns 0.\n <p>\n ResponseContinuationTokenLimitInKb is used to limit the length of\n continuation token in the query response. Valid values are &gt;= 1."
+  summary: "Gets the ResponseContinuationTokenLimitInKb request option for item query requests in the Azure Cosmos DB service. If not already set returns 0.\n\nResponseContinuationTokenLimitInKb is used to limit the length of continuation token in the query response. Valid values are >= 1."
   syntax: "public int getResponseContinuationTokenLimitInKb()"
   returns:
     description: "return set ResponseContinuationTokenLimitInKb, or 0 if not set"

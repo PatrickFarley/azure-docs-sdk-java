@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.OfferV2.OfferV2(Offer otherOffer)"
   name: "OfferV2(Offer otherOffer)"
   nameWithType: "OfferV2.OfferV2(Offer otherOffer)"
-  summary: "Initialize an new instance of the OfferV2 object, copy the base\n properties from another Offer object and set the throughput value."
+  summary: "Initialize an new instance of the OfferV2 object, copy the base properties from another Offer object and set the throughput value."
   parameters:
   - description: "the Offer object whose base properties are to be copied."
     name: "otherOffer"

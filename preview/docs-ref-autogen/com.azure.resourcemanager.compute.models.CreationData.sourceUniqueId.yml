@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.CreationData.sourceUniqueId()"
   name: "sourceUniqueId()"
   nameWithType: "CreationData.sourceUniqueId()"
-  summary: "Get the sourceUniqueId property: If this field is set, this is the unique id identifying the source of this\n resource."
+  summary: "Get the sourceUniqueId property: If this field is set, this is the unique id identifying the source of this resource."
   syntax: "public String sourceUniqueId()"
   returns:
     description: "the sourceUniqueId value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskEncryptionSettings.diskEncryptionKey()"
   name: "diskEncryptionKey()"
   nameWithType: "DiskEncryptionSettings.diskEncryptionKey()"
-  summary: "Get the diskEncryptionKey property: Specifies the location of the disk encryption key, which is a Key Vault\n Secret."
+  summary: "Get the diskEncryptionKey property: Specifies the location of the disk encryption key, which is a Key Vault Secret."
   syntax: "public KeyVaultSecretReference diskEncryptionKey()"
   returns:
     description: "the diskEncryptionKey value."

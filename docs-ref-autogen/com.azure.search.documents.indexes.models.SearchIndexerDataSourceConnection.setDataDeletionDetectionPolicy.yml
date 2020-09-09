@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection.setDataDeletionDetectionPolicy(DataDeletionDetectionPolicy dataDeletionDetectionPolicy)"
   name: "setDataDeletionDetectionPolicy(DataDeletionDetectionPolicy dataDeletionDetectionPolicy)"
   nameWithType: "SearchIndexerDataSourceConnection.setDataDeletionDetectionPolicy(DataDeletionDetectionPolicy dataDeletionDetectionPolicy)"
-  summary: "Set the dataDeletionDetectionPolicy property: The data deletion\n detection policy for the datasource."
+  summary: "Set the dataDeletionDetectionPolicy property: The data deletion detection policy for the datasource."
   parameters:
   - description: "the dataDeletionDetectionPolicy value\n to set."
     name: "dataDeletionDetectionPolicy"

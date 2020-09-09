@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchOptions.setSearchFields(String[] searchFields)"
   name: "setSearchFields(String[] searchFields)"
   nameWithType: "SearchOptions.setSearchFields(String[] searchFields)"
-  summary: "Set the searchFields property: The list of field names to which to scope\n the full-text search. When using fielded search\n (fieldName:searchExpression) in a full Lucene query, the field names of\n each fielded search expression take precedence over any field names\n listed in this parameter."
+  summary: "Set the searchFields property: The list of field names to which to scope the full-text search. When using fielded search (fieldName:searchExpression) in a full Lucene query, the field names of each fielded search expression take precedence over any field names listed in this parameter."
   parameters:
   - description: "the searchFields value to set."
     name: "searchFields"

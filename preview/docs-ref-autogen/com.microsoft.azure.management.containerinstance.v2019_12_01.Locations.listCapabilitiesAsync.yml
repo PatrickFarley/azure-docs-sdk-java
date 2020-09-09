@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.v2019_12_01.Locations.listCapabilitiesAsync(String location)"
   name: "listCapabilitiesAsync(String location)"
   nameWithType: "Locations.listCapabilitiesAsync(String location)"
-  summary: "Get the list of capabilities of the location.\n Get the list of CPU/memory/GPU capabilities of a region."
+  summary: "Get the list of capabilities of the location. Get the list of CPU/memory/GPU capabilities of a region."
   parameters:
   - description: "The identifier for the physical azure location."
     name: "location"

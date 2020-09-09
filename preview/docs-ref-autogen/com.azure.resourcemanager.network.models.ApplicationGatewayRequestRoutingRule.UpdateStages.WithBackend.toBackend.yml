@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayRequestRoutingRule.UpdateStages.WithBackend.toBackend(String name)"
   name: "toBackend(String name)"
   nameWithType: "ApplicationGatewayRequestRoutingRule.UpdateStages.WithBackend.toBackend(String name)"
-  summary: "Associates the request routing rule with a backend on this application gateway.\n\n <p>If the specified backend does not yet exist, it will be automatically created."
+  summary: "Associates the request routing rule with a backend on this application gateway.\n\nIf the specified backend does not yet exist, it will be automatically created."
   parameters:
   - description: "the name of a backend"
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractIterableMap<K,V>.mapIterator()"
   name: "mapIterator()"
   nameWithType: "AbstractIterableMap<K,V>.mapIterator()"
-  summary: "Obtains a <code>MapIterator</code> over the map.\n <p>\n A map iterator is an efficient way of iterating over maps.\n There is no need to access the entry set or use Map Entry objects.\n <pre>\n IterableMap&lt;String,Integer&gt; map = new HashedMap&lt;String,Integer&gt;();\n MapIterator&lt;String,Integer&gt; it = map.mapIterator();\n while (it.hasNext()) {\n   String key = it.next();\n   Integer value = it.getValue();\n   it.setValue(value + 1);\n }\n </pre>"
+  summary: "Obtains a `MapIterator` over the map.\n\nA map iterator is an efficient way of iterating over maps. There is no need to access the entry set or use Map Entry objects.\n\n```java\nIterableMap<String,Integer> map = new HashedMap<String,Integer>();\n MapIterator<String,Integer> it = map.mapIterator();\n while (it.hasNext()) {\n   String key = it.next();\n   Integer value = it.getValue();\n   it.setValue(value + 1);\n }\n```"
   syntax: "public MapIterator<K,V> mapIterator()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.apachecommons.collections.MapIterator?alt=com.azure.cosmos.implementation.apachecommons.collections.MapIterator&text=MapIterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"

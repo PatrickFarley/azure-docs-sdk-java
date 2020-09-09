@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.EdgeNGramTokenFilterV2.getMinGram()"
   name: "getMinGram()"
   nameWithType: "EdgeNGramTokenFilterV2.getMinGram()"
-  summary: "Get the minGram property: The minimum n-gram length. Default is 1. Maximum is 300. Must be less than the value of\n maxGram."
+  summary: "Get the minGram property: The minimum n-gram length. Default is 1. Maximum is 300. Must be less than the value of maxGram."
   syntax: "public Integer getMinGram()"
   returns:
     description: "the minGram value."

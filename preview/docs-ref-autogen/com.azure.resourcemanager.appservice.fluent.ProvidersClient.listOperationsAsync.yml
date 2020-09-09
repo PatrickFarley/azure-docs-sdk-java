@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.ProvidersClient.listOperationsAsync()"
   name: "listOperationsAsync()"
   nameWithType: "ProvidersClient.listOperationsAsync()"
-  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource\n metric definitions."
+  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource metric definitions."
   syntax: "public PagedFlux<CsmOperationDescriptionInner> listOperationsAsync()"
   returns:
     description: "collection of Azure resource manager operation metadata."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.ProvidersClient.listOperationsAsync(Context context)"
   name: "listOperationsAsync(Context context)"
   nameWithType: "ProvidersClient.listOperationsAsync(Context context)"
-  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource\n metric definitions."
+  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource metric definitions."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

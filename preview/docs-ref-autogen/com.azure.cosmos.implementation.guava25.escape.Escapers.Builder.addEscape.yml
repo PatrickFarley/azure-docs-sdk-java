@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.escape.Escapers.Builder.addEscape(char c, String replacement)"
   name: "addEscape(char c, String replacement)"
   nameWithType: "Escapers.Builder.addEscape(char c, String replacement)"
-  summary: "Adds a replacement string for the given input character. The specified character will be\n replaced by the given string whenever it occurs in the input, irrespective of whether it lies\n inside or outside the 'safe' range."
+  summary: "Adds a replacement string for the given input character. The specified character will be replaced by the given string whenever it occurs in the input, irrespective of whether it lies inside or outside the 'safe' range."
   parameters:
   - description: "the character to be replaced"
     name: "c"

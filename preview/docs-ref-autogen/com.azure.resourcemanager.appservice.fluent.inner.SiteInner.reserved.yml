@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteInner.reserved()"
   name: "reserved()"
   nameWithType: "SiteInner.reserved()"
-  summary: "Get the reserved property: &lt;code&gt;true&lt;/code&gt; if reserved; otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the reserved property: <code>true</code> if reserved; otherwise, <code>false</code>."
   syntax: "public Boolean reserved()"
   returns:
     description: "the reserved value."

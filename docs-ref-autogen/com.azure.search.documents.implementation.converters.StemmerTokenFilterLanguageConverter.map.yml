@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.StemmerTokenFilterLanguageConverter.map(StemmerTokenFilterLanguage obj)"
   name: "map(StemmerTokenFilterLanguage obj)"
   nameWithType: "StemmerTokenFilterLanguageConverter.map(StemmerTokenFilterLanguage obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage</xref> to enum\n <xref uid=\"StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">StemmerTokenFilterLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">StemmerTokenFilterLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage?alt=com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage&text=StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.StemmerTokenFilterLanguageConverter.map(StemmerTokenFilterLanguage obj)"
   name: "map(StemmerTokenFilterLanguage obj)"
   nameWithType: "StemmerTokenFilterLanguageConverter.map(StemmerTokenFilterLanguage obj)"
-  summary: "Maps from enum <xref uid=\"StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">StemmerTokenFilterLanguage</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">StemmerTokenFilterLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StemmerTokenFilterLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.StemmerTokenFilterLanguage?alt=com.azure.search.documents.indexes.models.StemmerTokenFilterLanguage&text=StemmerTokenFilterLanguage\" data-throw-if-not-resolved=\"False\" />"

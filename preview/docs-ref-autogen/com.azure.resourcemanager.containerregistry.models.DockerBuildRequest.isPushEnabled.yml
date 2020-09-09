@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.DockerBuildRequest.isPushEnabled()"
   name: "isPushEnabled()"
   nameWithType: "DockerBuildRequest.isPushEnabled()"
-  summary: "Get the isPushEnabled property: The value of this property indicates whether the image built should be pushed to\n the registry or not."
+  summary: "Get the isPushEnabled property: The value of this property indicates whether the image built should be pushed to the registry or not."
   syntax: "public Boolean isPushEnabled()"
   returns:
     description: "the isPushEnabled value."

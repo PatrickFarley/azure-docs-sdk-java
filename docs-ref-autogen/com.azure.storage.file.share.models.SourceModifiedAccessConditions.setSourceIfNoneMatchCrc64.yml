@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.SourceModifiedAccessConditions.setSourceIfNoneMatchCrc64(byte[] sourceIfNoneMatchCrc64)"
   name: "setSourceIfNoneMatchCrc64(byte[] sourceIfNoneMatchCrc64)"
   nameWithType: "SourceModifiedAccessConditions.setSourceIfNoneMatchCrc64(byte[] sourceIfNoneMatchCrc64)"
-  summary: "Set the sourceIfNoneMatchCrc64 property: Specify the crc64 value to\n operate only on range without a matching crc64 checksum."
+  summary: "Set the sourceIfNoneMatchCrc64 property: Specify the crc64 value to operate only on range without a matching crc64 checksum."
   parameters:
   - description: "the sourceIfNoneMatchCrc64 value to set."
     name: "sourceIfNoneMatchCrc64"

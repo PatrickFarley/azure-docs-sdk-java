@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexStatistics.getStorageSize()"
   name: "getStorageSize()"
   nameWithType: "SearchIndexStatistics.getStorageSize()"
-  summary: "Get the storageSize property: The amount of storage in bytes consumed by\n the index."
+  summary: "Get the storageSize property: The amount of storage in bytes consumed by the index."
   syntax: "public long getStorageSize()"
   returns:
     description: "the storageSize value."

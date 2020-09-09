@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueAsyncClient.createWithResponse(Map<String,String> metadata)"
   name: "createWithResponse(Map<String,String> metadata)"
   nameWithType: "QueueAsyncClient.createWithResponse(Map<String,String> metadata)"
-  summary: "Creates a new queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create a queue with metadata \"queue:metadataMap\"</p>\n\n <pre>\n client.createWithResponse&#40;Collections.singletonMap&#40;&quot;queue&quot;, &quot;metadataMap&quot;&#41;&#41;.subscribe&#40;\n     response -&gt; System.out.println&#40;&quot;Complete creating the queue with status code:&quot; + response.getStatusCode&#40;&#41;&#41;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-queue4\">Azure Docs</a>.</p>"
+  summary: "Creates a new queue.\n\n**Code Samples**\n\nCreate a queue with metadata \"queue:metadataMap\"\n\n```java\nclient.createWithResponse(Collections.singletonMap(\"queue\", \"metadataMap\")).subscribe(\n     response -> System.out.println(\"Complete creating the queue with status code:\" + response.getStatusCode()),\n     error -> System.err.print(error.toString())\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-queue4"
   parameters:
   - description: "Metadata to associate with the queue"
     name: "metadata"

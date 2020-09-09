@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.ManagementClientAsync.getRulesAsync(String topicName, String subscriptionName, int count, int skip)"
   name: "getRulesAsync(String topicName, String subscriptionName, int count, int skip)"
   nameWithType: "ManagementClientAsync.getRulesAsync(String topicName, String subscriptionName, int count, int skip)"
-  summary: "Retrieves the list of rules for a given topic-subscription in the namespace.\n You can simulate pages of list of entities by manipulating count and skip parameters.\n skip(0)+count(100) gives first 100 entities. skip(100)+count(100) gives the next 100 entities."
+  summary: "Retrieves the list of rules for a given topic-subscription in the namespace. You can simulate pages of list of entities by manipulating count and skip parameters. skip(0)+count(100) gives first 100 entities. skip(100)+count(100) gives the next 100 entities."
   parameters:
   - description: "- The name of the topic."
     name: "topicName"

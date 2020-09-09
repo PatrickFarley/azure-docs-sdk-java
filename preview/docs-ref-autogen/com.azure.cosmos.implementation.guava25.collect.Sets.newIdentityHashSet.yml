@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Sets.<E>newIdentityHashSet()"
   name: "<E>newIdentityHashSet()"
   nameWithType: "Sets.<E>newIdentityHashSet()"
-  summary: "Creates an empty <code>Set</code> that uses identity to determine equality. It compares object\n references, instead of calling <code>equals</code>, to determine whether a provided object matches\n an element in the set. For example, <code>contains</code> returns <code>false</code> when passed an\n object that equals a set member, but isn't the same instance. This behavior is similar to the\n way <code>IdentityHashMap</code> handles key lookups."
+  summary: "Creates an empty `Set` that uses identity to determine equality. It compares object references, instead of calling `equals`, to determine whether a provided object matches an element in the set. For example, `contains` returns `false` when passed an object that equals a set member, but isn't the same instance. This behavior is similar to the way `IdentityHashMap` handles key lookups."
   syntax: "public static Set<E> <E>newIdentityHashSet()"
   returns:
     type: "<xref href=\"java.util.Set?alt=java.util.Set&text=Set\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;"

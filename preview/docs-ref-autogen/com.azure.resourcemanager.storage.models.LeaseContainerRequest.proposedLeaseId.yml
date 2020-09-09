@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.LeaseContainerRequest.proposedLeaseId()"
   name: "proposedLeaseId()"
   nameWithType: "LeaseContainerRequest.proposedLeaseId()"
-  summary: "Get the proposedLeaseId property: Optional for acquire, required for change. Proposed lease ID, in a GUID string\n format."
+  summary: "Get the proposedLeaseId property: Optional for acquire, required for change. Proposed lease ID, in a GUID string format."
   syntax: "public String proposedLeaseId()"
   returns:
     description: "the proposedLeaseId value."

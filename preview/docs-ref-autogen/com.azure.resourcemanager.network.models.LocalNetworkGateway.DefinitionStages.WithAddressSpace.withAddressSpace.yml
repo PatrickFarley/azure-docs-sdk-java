@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.LocalNetworkGateway.DefinitionStages.WithAddressSpace.withAddressSpace(String cidr)"
   name: "withAddressSpace(String cidr)"
   nameWithType: "LocalNetworkGateway.DefinitionStages.WithAddressSpace.withAddressSpace(String cidr)"
-  summary: "Adds address space. Note: this method's effect is additive, i.e. each time it is used, a new address\n space is added to the network."
+  summary: "Adds address space. Note: this method's effect is additive, i.e. each time it is used, a new address space is added to the network."
   parameters:
   - description: "the CIDR representation of the local network site address space"
     name: "cidr"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobAnalyticsLogging.isWrite()"
   name: "isWrite()"
   nameWithType: "BlobAnalyticsLogging.isWrite()"
-  summary: "Get the write property: Indicates whether all write requests should be\n logged."
+  summary: "Get the write property: Indicates whether all write requests should be logged."
   syntax: "public boolean isWrite()"
   returns:
     description: "the write value."

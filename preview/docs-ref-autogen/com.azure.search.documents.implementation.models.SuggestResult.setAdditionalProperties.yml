@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestResult.setAdditionalProperties(Map<String,Object> additionalProperties)"
   name: "setAdditionalProperties(Map<String,Object> additionalProperties)"
   nameWithType: "SuggestResult.setAdditionalProperties(Map<String,Object> additionalProperties)"
-  summary: "Set the additionalProperties property: A result containing a document found by a suggestion query, plus\n associated metadata."
+  summary: "Set the additionalProperties property: A result containing a document found by a suggestion query, plus associated metadata."
   parameters:
   - description: "the additionalProperties value to set."
     name: "additionalProperties"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.deleteWithServiceResponseAsync(String jobScheduleId)"
   name: "deleteWithServiceResponseAsync(String jobScheduleId)"
   nameWithType: "JobSchedules.deleteWithServiceResponseAsync(String jobScheduleId)"
-  summary: "Deletes a Job Schedule from the specified Account.\n When you delete a Job Schedule, this also deletes all Jobs and Tasks under that schedule. When Tasks are deleted, all the files in their working directories on the Compute Nodes are also deleted (the retention period is ignored). The Job Schedule statistics are no longer accessible once the Job Schedule is deleted, though they are still counted towards Account lifetime statistics."
+  summary: "Deletes a Job Schedule from the specified Account. When you delete a Job Schedule, this also deletes all Jobs and Tasks under that schedule. When Tasks are deleted, all the files in their working directories on the Compute Nodes are also deleted (the retention period is ignored). The Job Schedule statistics are no longer accessible once the Job Schedule is deleted, though they are still counted towards Account lifetime statistics."
   parameters:
   - description: "The ID of the Job Schedule to delete."
     name: "jobScheduleId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.deleteWithServiceResponseAsync(String jobScheduleId, JobScheduleDeleteOptions jobScheduleDeleteOptions)"
   name: "deleteWithServiceResponseAsync(String jobScheduleId, JobScheduleDeleteOptions jobScheduleDeleteOptions)"
   nameWithType: "JobSchedules.deleteWithServiceResponseAsync(String jobScheduleId, JobScheduleDeleteOptions jobScheduleDeleteOptions)"
-  summary: "Deletes a Job Schedule from the specified Account.\n When you delete a Job Schedule, this also deletes all Jobs and Tasks under that schedule. When Tasks are deleted, all the files in their working directories on the Compute Nodes are also deleted (the retention period is ignored). The Job Schedule statistics are no longer accessible once the Job Schedule is deleted, though they are still counted towards Account lifetime statistics."
+  summary: "Deletes a Job Schedule from the specified Account. When you delete a Job Schedule, this also deletes all Jobs and Tasks under that schedule. When Tasks are deleted, all the files in their working directories on the Compute Nodes are also deleted (the retention period is ignored). The Job Schedule statistics are no longer accessible once the Job Schedule is deleted, though they are still counted towards Account lifetime statistics."
   parameters:
   - description: "The ID of the Job Schedule to delete."
     name: "jobScheduleId"

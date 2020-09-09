@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.DomainRegistrationProvidersClient.listOperationsSinglePageAsync()"
   name: "listOperationsSinglePageAsync()"
   nameWithType: "DomainRegistrationProvidersClient.listOperationsSinglePageAsync()"
-  summary: "Description for Implements Csm operations Api to exposes the list of available Csm Apis under the resource\n provider."
+  summary: "Description for Implements Csm operations Api to exposes the list of available Csm Apis under the resource provider."
   syntax: "public Mono<PagedResponse<CsmOperationDescriptionInner>> listOperationsSinglePageAsync()"
   returns:
     description: "collection of Azure resource manager operation metadata."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.DomainRegistrationProvidersClient.listOperationsSinglePageAsync(Context context)"
   name: "listOperationsSinglePageAsync(Context context)"
   nameWithType: "DomainRegistrationProvidersClient.listOperationsSinglePageAsync(Context context)"
-  summary: "Description for Implements Csm operations Api to exposes the list of available Csm Apis under the resource\n provider."
+  summary: "Description for Implements Csm operations Api to exposes the list of available Csm Apis under the resource provider."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

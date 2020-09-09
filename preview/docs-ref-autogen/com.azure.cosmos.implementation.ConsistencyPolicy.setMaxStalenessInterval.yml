@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ConsistencyPolicy.setMaxStalenessInterval(Duration maxStalenessInterval)"
   name: "setMaxStalenessInterval(Duration maxStalenessInterval)"
   nameWithType: "ConsistencyPolicy.setMaxStalenessInterval(Duration maxStalenessInterval)"
-  summary: "Sets the in bounded staleness consistency, the maximum allowed staleness in terms time interval.\n Resolution is in seconds."
+  summary: "Sets the in bounded staleness consistency, the maximum allowed staleness in terms time interval. Resolution is in seconds."
   parameters:
   - description: "the max staleness interval."
     name: "maxStalenessInterval"

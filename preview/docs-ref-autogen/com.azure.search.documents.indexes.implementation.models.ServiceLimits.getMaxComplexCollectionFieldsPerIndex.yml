@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ServiceLimits.getMaxComplexCollectionFieldsPerIndex()"
   name: "getMaxComplexCollectionFieldsPerIndex()"
   nameWithType: "ServiceLimits.getMaxComplexCollectionFieldsPerIndex()"
-  summary: "Get the maxComplexCollectionFieldsPerIndex property: The maximum number of fields of type\n Collection(Edm.ComplexType) allowed in an index."
+  summary: "Get the maxComplexCollectionFieldsPerIndex property: The maximum number of fields of type Collection(Edm.ComplexType) allowed in an index."
   syntax: "public Integer getMaxComplexCollectionFieldsPerIndex()"
   returns:
     description: "the maxComplexCollectionFieldsPerIndex value."

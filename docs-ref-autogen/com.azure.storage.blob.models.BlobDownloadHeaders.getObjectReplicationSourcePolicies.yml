@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getObjectReplicationSourcePolicies()"
   name: "getObjectReplicationSourcePolicies()"
   nameWithType: "BlobDownloadHeaders.getObjectReplicationSourcePolicies()"
-  summary: "Get the objectReplicationSourcePolicies property: The\n objectReplicationSourcePolicies property."
+  summary: "Get the objectReplicationSourcePolicies property: The objectReplicationSourcePolicies property."
   syntax: "public List<ObjectReplicationPolicy> getObjectReplicationSourcePolicies()"
   returns:
     description: "the objectReplicationSourcePolicies value."

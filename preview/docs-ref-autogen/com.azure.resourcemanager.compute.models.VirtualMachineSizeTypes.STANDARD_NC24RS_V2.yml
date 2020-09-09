@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_NC24RS_V2"
   name: "STANDARD_NC24RS_V2"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_NC24RS_V2"
-  summary: "Static value Standard_NC24rs_v2 for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_NC24rs\\_v2 for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_NC24RS_V2"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobHttpHeaders.getContentLanguage()"
   name: "getContentLanguage()"
   nameWithType: "BlobHttpHeaders.getContentLanguage()"
-  summary: "Get the contentLanguage property: Optional. Set the blob's content\n language. If specified, this property is stored with the blob and\n returned with a read request."
+  summary: "Get the contentLanguage property: Optional. Set the blob's content language. If specified, this property is stored with the blob and returned with a read request."
   syntax: "public String getContentLanguage()"
   returns:
     description: "the contentLanguage value."

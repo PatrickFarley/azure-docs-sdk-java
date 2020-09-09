@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.SchemaRegistryClient.getSchemaByGuid(String schemaGuid)"
   name: "getSchemaByGuid(String schemaGuid)"
   nameWithType: "SchemaRegistryClient.getSchemaByGuid(String schemaGuid)"
-  summary: "Fetches schema specified by the GUID.\n <p>\n GUID can be assumed to be unique within a schema registry store."
+  summary: "Fetches schema specified by the GUID.\n\nGUID can be assumed to be unique within a schema registry store."
   parameters:
   - description: "GUID reference to specific schema within configured schema registry store."
     name: "schemaGuid"

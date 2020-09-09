@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter)"
   name: "patchAsync(String jobId, JobPatchParameter jobPatchParameter)"
   nameWithType: "Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter)"
-  summary: "Updates the properties of the specified Job.\n This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
+  summary: "Updates the properties of the specified Job. This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
   parameters:
   - description: "The ID of the Job whose properties you want to update."
     name: "jobId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter, JobPatchOptions jobPatchOptions)"
   name: "patchAsync(String jobId, JobPatchParameter jobPatchParameter, JobPatchOptions jobPatchOptions)"
   nameWithType: "Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter, JobPatchOptions jobPatchOptions)"
-  summary: "Updates the properties of the specified Job.\n This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
+  summary: "Updates the properties of the specified Job. This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
   parameters:
   - description: "The ID of the Job whose properties you want to update."
     name: "jobId"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter, JobPatchOptions jobPatchOptions, ServiceCallback<Void> serviceCallback)"
   name: "patchAsync(String jobId, JobPatchParameter jobPatchParameter, JobPatchOptions jobPatchOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter, JobPatchOptions jobPatchOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Updates the properties of the specified Job.\n This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
+  summary: "Updates the properties of the specified Job. This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
   parameters:
   - description: "The ID of the Job whose properties you want to update."
     name: "jobId"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter, ServiceCallback<Void> serviceCallback)"
   name: "patchAsync(String jobId, JobPatchParameter jobPatchParameter, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Jobs.patchAsync(String jobId, JobPatchParameter jobPatchParameter, ServiceCallback<Void> serviceCallback)"
-  summary: "Updates the properties of the specified Job.\n This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
+  summary: "Updates the properties of the specified Job. This replaces only the Job properties specified in the request. For example, if the Job has constraints, and a request does not specify the constraints element, then the Job keeps the existing constraints."
   parameters:
   - description: "The ID of the Job whose properties you want to update."
     name: "jobId"

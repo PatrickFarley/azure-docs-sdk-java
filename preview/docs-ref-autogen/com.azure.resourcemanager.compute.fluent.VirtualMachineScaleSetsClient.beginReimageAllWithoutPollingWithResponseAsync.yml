@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.beginReimageAllWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
   name: "beginReimageAllWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
   nameWithType: "VirtualMachineScaleSetsClient.beginReimageAllWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
-  summary: "Reimages all the disks ( including data disks ) in the virtual machines in a VM scale set. This operation is only\n supported for managed disks."
+  summary: "Reimages all the disks ( including data disks ) in the virtual machines in a VM scale set. This operation is only supported for managed disks."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.beginReimageAllWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
   name: "beginReimageAllWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
   nameWithType: "VirtualMachineScaleSetsClient.beginReimageAllWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
-  summary: "Reimages all the disks ( including data disks ) in the virtual machines in a VM scale set. This operation is only\n supported for managed disks."
+  summary: "Reimages all the disks ( including data disks ) in the virtual machines in a VM scale set. This operation is only supported for managed disks."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

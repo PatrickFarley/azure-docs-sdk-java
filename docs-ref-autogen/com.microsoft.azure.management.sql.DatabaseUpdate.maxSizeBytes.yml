@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.DatabaseUpdate.maxSizeBytes()"
   name: "maxSizeBytes()"
   nameWithType: "DatabaseUpdate.maxSizeBytes()"
-  summary: "Get the max size of the database expressed in bytes. If createMode is not Default, this value is ignored. To see possible values, query the capabilities API (/subscriptions/{subscriptionId}/providers/Microsoft.Sql/locations/{locationID}/capabilities) referred to by operationId: \"Capabilities_ListByLocation.\"."
+  summary: "Get the max size of the database expressed in bytes. If createMode is not Default, this value is ignored. To see possible values, query the capabilities API (/subscriptions/\\{subscriptionId\\}/providers/Microsoft.Sql/locations/\\{locationID\\}/capabilities) referred to by operationId: \"Capabilities\\_ListByLocation.\"."
   syntax: "public String maxSizeBytes()"
   returns:
     description: "the maxSizeBytes value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ResourceId.getDocument()"
   name: "getDocument()"
   nameWithType: "ResourceId.getDocument()"
-  summary: "Returns the long value of the document. The value computed is in Big Endian, so this method reverses the bytes\n and returns Little Endian order value of the long"
+  summary: "Returns the long value of the document. The value computed is in Big Endian, so this method reverses the bytes and returns Little Endian order value of the long"
   syntax: "public long getDocument()"
   returns:
     description: "document long value"

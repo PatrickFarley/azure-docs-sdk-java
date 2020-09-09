@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateLinkResourcesInner.listByResourceNext(String nextPageLink)"
   name: "listByResourceNext(String nextPageLink)"
   nameWithType: "PrivateLinkResourcesInner.listByResourceNext(String nextPageLink)"
-  summary: "List private link resources under specific topic or domain.\n List all the private link resources under a topic or domain."
+  summary: "List private link resources under specific topic or domain. List all the private link resources under a topic or domain."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

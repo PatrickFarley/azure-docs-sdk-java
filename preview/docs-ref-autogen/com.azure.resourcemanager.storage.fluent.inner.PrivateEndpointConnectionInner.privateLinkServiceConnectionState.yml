@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.PrivateEndpointConnectionInner.privateLinkServiceConnectionState()"
   name: "privateLinkServiceConnectionState()"
   nameWithType: "PrivateEndpointConnectionInner.privateLinkServiceConnectionState()"
-  summary: "Get the privateLinkServiceConnectionState property: A collection of information about the state of the connection\n between service consumer and provider."
+  summary: "Get the privateLinkServiceConnectionState property: A collection of information about the state of the connection between service consumer and provider."
   syntax: "public PrivateLinkServiceConnectionState privateLinkServiceConnectionState()"
   returns:
     description: "the privateLinkServiceConnectionState value."

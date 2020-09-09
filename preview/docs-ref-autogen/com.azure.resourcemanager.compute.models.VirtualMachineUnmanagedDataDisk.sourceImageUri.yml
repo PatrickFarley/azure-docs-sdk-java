@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineUnmanagedDataDisk.sourceImageUri()"
   name: "sourceImageUri()"
   nameWithType: "VirtualMachineUnmanagedDataDisk.sourceImageUri()"
-  summary: "Uri to the source virtual hard disk user image from which this disk was created.\n\n <p>null will be returned if this disk is not based on an image"
+  summary: "Uri to the source virtual hard disk user image from which this disk was created.\n\nnull will be returned if this disk is not based on an image"
   syntax: "public abstract String sourceImageUri()"
   returns:
     description: "the URI of the source VHD image"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.math.NumberUtils.toLong(String str, long defaultValue)"
   name: "toLong(String str, long defaultValue)"
   nameWithType: "NumberUtils.toLong(String str, long defaultValue)"
-  summary: "<p>Convert a <code>String</code> to a <code>long</code>, returning a\n default value if the conversion fails.</p>"
+  summary: "Convert a `String` to a `long`, returning a default value if the conversion fails."
   parameters:
   - description: "the string to convert, may be null"
     name: "str"

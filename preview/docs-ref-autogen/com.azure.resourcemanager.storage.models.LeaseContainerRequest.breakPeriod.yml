@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.LeaseContainerRequest.breakPeriod()"
   name: "breakPeriod()"
   nameWithType: "LeaseContainerRequest.breakPeriod()"
-  summary: "Get the breakPeriod property: Optional. For a break action, proposed duration the lease should continue before it\n is broken, in seconds, between 0 and 60."
+  summary: "Get the breakPeriod property: Optional. For a break action, proposed duration the lease should continue before it is broken, in seconds, between 0 and 60."
   syntax: "public Integer breakPeriod()"
   returns:
     description: "the breakPeriod value."

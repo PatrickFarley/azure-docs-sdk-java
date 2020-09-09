@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.TestBase.afterTest()"
   name: "afterTest()"
   nameWithType: "TestBase.afterTest()"
-  summary: "Dispose of any resources and clean-up after a test case runs. Can be overridden in an inheriting class to add\n additional functionality during test teardown."
+  summary: "Dispose of any resources and clean-up after a test case runs. Can be overridden in an inheriting class to add additional functionality during test teardown."
   syntax: "protected void afterTest()"
 type: "method"
 metadata: {}

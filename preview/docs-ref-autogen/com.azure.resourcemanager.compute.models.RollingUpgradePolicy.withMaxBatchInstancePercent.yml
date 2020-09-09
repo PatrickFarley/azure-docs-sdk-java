@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.RollingUpgradePolicy.withMaxBatchInstancePercent(Integer maxBatchInstancePercent)"
   name: "withMaxBatchInstancePercent(Integer maxBatchInstancePercent)"
   nameWithType: "RollingUpgradePolicy.withMaxBatchInstancePercent(Integer maxBatchInstancePercent)"
-  summary: "Set the maxBatchInstancePercent property: The maximum percent of total virtual machine instances that will be\n upgraded simultaneously by the rolling upgrade in one batch. As this is a maximum, unhealthy instances in\n previous or future batches can cause the percentage of instances in a batch to decrease to ensure higher\n reliability. The default value for this parameter is 20%."
+  summary: "Set the maxBatchInstancePercent property: The maximum percent of total virtual machine instances that will be upgraded simultaneously by the rolling upgrade in one batch. As this is a maximum, unhealthy instances in previous or future batches can cause the percentage of instances in a batch to decrease to ensure higher reliability. The default value for this parameter is 20%."
   parameters:
   - description: "the maxBatchInstancePercent value to set."
     name: "maxBatchInstancePercent"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkPeeringInner.withRemoteVirtualNetwork(SubResource remoteVirtualNetwork)"
   name: "withRemoteVirtualNetwork(SubResource remoteVirtualNetwork)"
   nameWithType: "VirtualNetworkPeeringInner.withRemoteVirtualNetwork(SubResource remoteVirtualNetwork)"
-  summary: "Set the remoteVirtualNetwork property: The reference of the remote virtual network. The remote virtual network\n can be in the same or different region (preview). See here to register for the preview and learn more\n (https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-create-peering)."
+  summary: "Set the remoteVirtualNetwork property: The reference of the remote virtual network. The remote virtual network can be in the same or different region (preview). See here to register for the preview and learn more (https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-create-peering)."
   parameters:
   - description: "the remoteVirtualNetwork value to set."
     name: "remoteVirtualNetwork"

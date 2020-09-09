@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.Webhook.UpdateDefinitionStages.WithRepositoriesScope<ParentT>.withRepositoriesScope(String repositoriesScope)"
   name: "withRepositoriesScope(String repositoriesScope)"
   nameWithType: "Webhook.UpdateDefinitionStages.WithRepositoriesScope<ParentT>.withRepositoriesScope(String repositoriesScope)"
-  summary: "Specifies the scope of repositories where the event can be triggered.\n <p>\n For example, 'foo:*' means events for all tags under repository 'foo'. 'foo:bar' means events for 'foo:bar' only.\n  'foo' is equivalent to 'foo:latest', empty means all events."
+  summary: "Specifies the scope of repositories where the event can be triggered.\n\nFor example, 'foo:\\*' means events for all tags under repository 'foo'. 'foo:bar' means events for 'foo:bar' only. 'foo' is equivalent to 'foo:latest', empty means all events."
   parameters:
   - description: "the scope of repositories where the event can be triggered; empty means all events"
     name: "repositoriesScope"

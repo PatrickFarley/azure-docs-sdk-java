@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.imagesearch.BingImages.BingImagesSearchDefinitionStages.WithAllOptions.withId(String id)"
   name: "withId(String id)"
   nameWithType: "BingImages.BingImagesSearchDefinitionStages.WithAllOptions.withId(String id)"
-  summary: "An ID that uniquely identifies an image. Use this parameter to ensure that the specified image is the first\n   image in the list of images that Bing returns. The\n   [Image](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/bing-images-api-v7-reference#image)\n   object's imageId field contains the ID that you set this parameter to."
+  summary: "An ID that uniquely identifies an image. Use this parameter to ensure that the specified image is the first image in the list of images that Bing returns. The \\[Image\\](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/bing-images-api-v7-reference\\#image) object's imageId field contains the ID that you set this parameter to."
   parameters:
   - name: "id"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

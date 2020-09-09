@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryIdentifier.uniqueName()"
   name: "uniqueName()"
   nameWithType: "GalleryIdentifier.uniqueName()"
-  summary: "Get the uniqueName property: The unique name of the Shared Image Gallery. This name is generated automatically by\n Azure."
+  summary: "Get the uniqueName property: The unique name of the Shared Image Gallery. This name is generated automatically by Azure."
   syntax: "public String uniqueName()"
   returns:
     description: "the uniqueName value."

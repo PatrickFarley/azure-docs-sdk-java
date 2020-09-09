@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryAsyncClient.createFile(String fileName, long maxSize)"
   name: "createFile(String fileName, long maxSize)"
   nameWithType: "ShareDirectoryAsyncClient.createFile(String fileName, long maxSize)"
-  summary: "Creates a file in this directory with specific name, max number of results and returns a response of\n ShareDirectoryInfo to interact with it.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create 1k file with named \"myFile\"</p>\n\n <pre>\n shareDirectoryAsyncClient.createFile&#40;&quot;myfile&quot;, 1024&#41;.subscribe&#40;\n     response -&gt; &#123;\n     &#125;,\n     error -&gt; System.err.println&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Completed creating the file.&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-file\">Azure Docs</a>.</p>"
+  summary: "Creates a file in this directory with specific name, max number of results and returns a response of ShareDirectoryInfo to interact with it.\n\n**Code Samples**\n\nCreate 1k file with named \"myFile\"\n\n```java\nshareDirectoryAsyncClient.createFile(\"myfile\", 1024).subscribe(\n     response -> {\n     },\n     error -> System.err.println(error.toString()),\n     () -> System.out.println(\"Completed creating the file.\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-file"
   parameters:
   - description: "Name of the file"
     name: "fileName"

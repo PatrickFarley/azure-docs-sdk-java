@@ -130,7 +130,7 @@ fields:
   fullName: "com.azure.cosmos.implementation.guava25.base.StandardSystemProperty.LINE_SEPARATOR"
   name: "LINE_SEPARATOR"
   nameWithType: "StandardSystemProperty.LINE_SEPARATOR"
-  summary: "Line separator (\"\\n\" on UNIX)."
+  summary: "Line separator (\"\\\\n\" on UNIX)."
 - uid: "com.azure.cosmos.implementation.guava25.base.StandardSystemProperty.OS_ARCH"
   fullName: "com.azure.cosmos.implementation.guava25.base.StandardSystemProperty.OS_ARCH"
   name: "OS_ARCH"
@@ -188,7 +188,7 @@ methods:
   fullName: "com.azure.cosmos.implementation.guava25.base.StandardSystemProperty.value()"
   name: "value()"
   nameWithType: "StandardSystemProperty.value()"
-  summary: "Returns the current value for this system property by delegating to <xref uid=\"System#getProperty(String)\" data-throw-if-not-resolved=\"false\">System#getProperty(String)</xref>."
+  summary: "Returns the current value for this system property by delegating to <xref uid=\"\" data-throw-if-not-resolved=\"false\">System#getProperty(String)</xref>."
   syntax: "public String value()"
   returns:
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

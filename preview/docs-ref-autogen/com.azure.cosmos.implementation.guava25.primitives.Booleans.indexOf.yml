@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Booleans.indexOf(boolean[] array, boolean target)"
   name: "indexOf(boolean[] array, boolean target)"
   nameWithType: "Booleans.indexOf(boolean[] array, boolean target)"
-  summary: "Returns the index of the first appearance of the value <code>target</code> in <code>array</code>.\n\n <p><b>Note:</b> consider representing the array as a <xref uid=\"java.util.BitSet\" data-throw-if-not-resolved=\"false\">java.util.BitSet</xref> instead, and\n using <xref uid=\"java.util.BitSet#nextSetBit(int)\" data-throw-if-not-resolved=\"false\">java.util.BitSet#nextSetBit(int)</xref> or <xref uid=\"java.util.BitSet#nextClearBit(int)\" data-throw-if-not-resolved=\"false\">java.util.BitSet#nextClearBit(int)</xref>."
+  summary: "Returns the index of the first appearance of the value `target` in `array`.\n\n**Note:** consider representing the array as a <xref uid=\"\" data-throw-if-not-resolved=\"false\">java.util.BitSet</xref> instead, and using <xref uid=\"\" data-throw-if-not-resolved=\"false\">java.util.BitSet#nextSetBit(int)</xref> or <xref uid=\"\" data-throw-if-not-resolved=\"false\">java.util.BitSet#nextClearBit(int)</xref>."
   parameters:
   - description: "an array of <code>boolean</code> values, possibly empty"
     name: "array"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Booleans.indexOf(boolean[] array, boolean[] target)"
   name: "indexOf(boolean[] array, boolean[] target)"
   nameWithType: "Booleans.indexOf(boolean[] array, boolean[] target)"
-  summary: "Returns the start position of the first occurrence of the specified <code>target</code> within\n <code>array</code>, or <code>-1</code> if there is no such occurrence.\n\n <p>More formally, returns the lowest index <code>i</code> such that <code>Arrays.copyOfRange(array,\n i, i + target.length)</code> contains exactly the same elements as <code>target</code>."
+  summary: "Returns the start position of the first occurrence of the specified `target` within `array`, or `-1` if there is no such occurrence.\n\nMore formally, returns the lowest index `i` such that `Arrays.copyOfRange(array, i, i + target.length)` contains exactly the same elements as `target`."
   parameters:
   - description: "the array to search for the sequence <code>target</code>"
     name: "array"

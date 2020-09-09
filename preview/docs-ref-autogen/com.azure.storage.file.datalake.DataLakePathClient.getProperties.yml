@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakePathClient.getProperties()"
   name: "getProperties()"
   nameWithType: "DataLakePathClient.getProperties()"
-  summary: "Returns the resources's metadata and properties.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n System.out.printf&#40;&quot;Creation Time: %s, Size: %d%n&quot;, client.getProperties&#40;&#41;.getCreationTime&#40;&#41;,\n     client.getProperties&#40;&#41;.getFileSize&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties\">Azure Docs</a></p>"
+  summary: "Returns the resources's metadata and properties.\n\n**Code Samples**\n\n```java\nSystem.out.printf(\"Creation Time: %s, Size: %d%n\", client.getProperties().getCreationTime(),\n     client.getProperties().getFileSize());\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties"
   syntax: "public PathProperties getProperties()"
   returns:
     description: "The resource properties and metadata."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.LocalCryptographyClientBuilder.buildClient()"
   name: "buildClient()"
   nameWithType: "LocalCryptographyClientBuilder.buildClient()"
-  summary: "Creates a <xref uid=\"LocalCryptographyClient\" data-throw-if-not-resolved=\"false\">LocalCryptographyClient</xref> based on options set in the builder.\n Every time <code>buildClient()</code> is called, a new instance of <xref uid=\"LocalCryptographyClient\" data-throw-if-not-resolved=\"false\">LocalCryptographyClient</xref> is created.\n\n <p> The LocalCryptographyClientBuilder#key(JsonWebKey) jsonWebKey identifier} is required to build the <xref uid=\"LocalCryptographyClient\" data-throw-if-not-resolved=\"false\">async client</xref>.</p>"
+  summary: "Creates a <xref uid=\"com.azure.security.keyvault.keys.cryptography.LocalCryptographyClient\" data-throw-if-not-resolved=\"false\">LocalCryptographyClient</xref> based on options set in the builder. Every time `buildClient()` is called, a new instance of <xref uid=\"com.azure.security.keyvault.keys.cryptography.LocalCryptographyClient\" data-throw-if-not-resolved=\"false\">LocalCryptographyClient</xref> is created.\n\nThe LocalCryptographyClientBuilder\\#key(JsonWebKey) jsonWebKey identifier\\} is required to build the <xref uid=\"com.azure.security.keyvault.keys.cryptography.LocalCryptographyClient\" data-throw-if-not-resolved=\"false\">async client</xref>."
   syntax: "public LocalCryptographyClient buildClient()"
   returns:
     description: "A <xref uid=\"com.azure.security.keyvault.keys.cryptography.LocalCryptographyClient\" data-throw-if-not-resolved=\"false\">LocalCryptographyClient</xref> with the options set from the builder."

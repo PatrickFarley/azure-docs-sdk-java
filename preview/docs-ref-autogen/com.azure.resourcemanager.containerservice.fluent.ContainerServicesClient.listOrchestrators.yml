@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ContainerServicesClient.listOrchestrators(String location)"
   name: "listOrchestrators(String location)"
   nameWithType: "ContainerServicesClient.listOrchestrators(String location)"
-  summary: "Gets a list of supported orchestrators in the specified subscription. The operation returns properties of each\n orchestrator including version, available upgrades and whether that version or upgrades are in preview."
+  summary: "Gets a list of supported orchestrators in the specified subscription. The operation returns properties of each orchestrator including version, available upgrades and whether that version or upgrades are in preview."
   parameters:
   - description: "The name of a supported Azure region."
     name: "location"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ContainerServicesClient.listOrchestrators(String location, String resourceType)"
   name: "listOrchestrators(String location, String resourceType)"
   nameWithType: "ContainerServicesClient.listOrchestrators(String location, String resourceType)"
-  summary: "Gets a list of supported orchestrators in the specified subscription. The operation returns properties of each\n orchestrator including version, available upgrades and whether that version or upgrades are in preview."
+  summary: "Gets a list of supported orchestrators in the specified subscription. The operation returns properties of each orchestrator including version, available upgrades and whether that version or upgrades are in preview."
   parameters:
   - description: "The name of a supported Azure region."
     name: "location"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ContainerServicesClient.listOrchestrators(String location, String resourceType, Context context)"
   name: "listOrchestrators(String location, String resourceType, Context context)"
   nameWithType: "ContainerServicesClient.listOrchestrators(String location, String resourceType, Context context)"
-  summary: "Gets a list of supported orchestrators in the specified subscription. The operation returns properties of each\n orchestrator including version, available upgrades and whether that version or upgrades are in preview."
+  summary: "Gets a list of supported orchestrators in the specified subscription. The operation returns properties of each orchestrator including version, available upgrades and whether that version or upgrades are in preview."
   parameters:
   - description: "The name of a supported Azure region."
     name: "location"

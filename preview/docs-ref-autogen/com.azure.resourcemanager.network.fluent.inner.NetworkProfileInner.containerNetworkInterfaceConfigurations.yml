@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.NetworkProfileInner.containerNetworkInterfaceConfigurations()"
   name: "containerNetworkInterfaceConfigurations()"
   nameWithType: "NetworkProfileInner.containerNetworkInterfaceConfigurations()"
-  summary: "Get the containerNetworkInterfaceConfigurations property: List of chid container network interface\n configurations."
+  summary: "Get the containerNetworkInterfaceConfigurations property: List of chid container network interface configurations."
   syntax: "public List<ContainerNetworkInterfaceConfiguration> containerNetworkInterfaceConfigurations()"
   returns:
     description: "the containerNetworkInterfaceConfigurations value."

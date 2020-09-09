@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listJobs()"
   name: "listJobs()"
   nameWithType: "JobOperations.listJobs()"
-  summary: "Lists the <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> in the Batch account."
   syntax: "public PagedList<CloudJob> listJobs()"
   exceptions:
   - description: "Exception thrown when an error response is received from the Batch service."
@@ -22,7 +22,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listJobs(DetailLevel detailLevel)"
   name: "listJobs(DetailLevel detailLevel)"
   nameWithType: "JobOperations.listJobs(DetailLevel detailLevel)"
-  summary: "Lists the <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> in the Batch account."
   parameters:
   - description: "A <xref uid=\"com.microsoft.azure.batch.DetailLevel\" data-throw-if-not-resolved=\"false\">DetailLevel</xref> used for filtering the list and for controlling which properties are retrieved from the service."
     name: "detailLevel"
@@ -40,7 +40,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listJobs(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listJobs(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobOperations.listJobs(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> in the Batch account."
   parameters:
   - description: "A <xref uid=\"com.microsoft.azure.batch.DetailLevel\" data-throw-if-not-resolved=\"false\">DetailLevel</xref> used for filtering the list and for controlling which properties are retrieved from the service."
     name: "detailLevel"
@@ -61,7 +61,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listJobs(String jobScheduleId)"
   name: "listJobs(String jobScheduleId)"
   nameWithType: "JobOperations.listJobs(String jobScheduleId)"
-  summary: "Lists the <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> created under the specified job schedule."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> created under the specified job schedule."
   parameters:
   - description: "The ID of job schedule."
     name: "jobScheduleId"
@@ -79,7 +79,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listJobs(String jobScheduleId, DetailLevel detailLevel)"
   name: "listJobs(String jobScheduleId, DetailLevel detailLevel)"
   nameWithType: "JobOperations.listJobs(String jobScheduleId, DetailLevel detailLevel)"
-  summary: "Lists the <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> created under the specified job schedule."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> created under the specified job schedule."
   parameters:
   - description: "The ID of job schedule."
     name: "jobScheduleId"
@@ -100,7 +100,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.listJobs(String jobScheduleId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listJobs(String jobScheduleId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobOperations.listJobs(String jobScheduleId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> created under the specified jobSchedule."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJob\" data-throw-if-not-resolved=\"false\">jobs</xref> created under the specified jobSchedule."
   parameters:
   - description: "The ID of jobSchedule."
     name: "jobScheduleId"

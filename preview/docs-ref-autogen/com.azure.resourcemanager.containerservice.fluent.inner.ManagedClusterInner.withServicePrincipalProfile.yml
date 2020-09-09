@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.ManagedClusterInner.withServicePrincipalProfile(ManagedClusterServicePrincipalProfile servicePrincipalProfile)"
   name: "withServicePrincipalProfile(ManagedClusterServicePrincipalProfile servicePrincipalProfile)"
   nameWithType: "ManagedClusterInner.withServicePrincipalProfile(ManagedClusterServicePrincipalProfile servicePrincipalProfile)"
-  summary: "Set the servicePrincipalProfile property: Information about a service principal identity for the cluster to use\n for manipulating Azure APIs."
+  summary: "Set the servicePrincipalProfile property: Information about a service principal identity for the cluster to use for manipulating Azure APIs."
   parameters:
   - description: "the servicePrincipalProfile value to set."
     name: "servicePrincipalProfile"

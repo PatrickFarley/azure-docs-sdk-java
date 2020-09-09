@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceVMSizeTypes.STANDARD_A10"
   name: "STANDARD_A10"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_A10"
-  summary: "Static value Standard_A10 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_A10 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_A10"
 type: "field"
 metadata: {}

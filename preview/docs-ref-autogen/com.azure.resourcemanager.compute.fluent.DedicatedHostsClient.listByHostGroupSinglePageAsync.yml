@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.DedicatedHostsClient.listByHostGroupSinglePageAsync(String resourceGroupName, String hostGroupName)"
   name: "listByHostGroupSinglePageAsync(String resourceGroupName, String hostGroupName)"
   nameWithType: "DedicatedHostsClient.listByHostGroupSinglePageAsync(String resourceGroupName, String hostGroupName)"
-  summary: "Lists all of the dedicated hosts in the specified dedicated host group. Use the nextLink property in the response\n to get the next page of dedicated hosts."
+  summary: "Lists all of the dedicated hosts in the specified dedicated host group. Use the nextLink property in the response to get the next page of dedicated hosts."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.DedicatedHostsClient.listByHostGroupSinglePageAsync(String resourceGroupName, String hostGroupName, Context context)"
   name: "listByHostGroupSinglePageAsync(String resourceGroupName, String hostGroupName, Context context)"
   nameWithType: "DedicatedHostsClient.listByHostGroupSinglePageAsync(String resourceGroupName, String hostGroupName, Context context)"
-  summary: "Lists all of the dedicated hosts in the specified dedicated host group. Use the nextLink property in the response\n to get the next page of dedicated hosts."
+  summary: "Lists all of the dedicated hosts in the specified dedicated host group. Use the nextLink property in the response to get the next page of dedicated hosts."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

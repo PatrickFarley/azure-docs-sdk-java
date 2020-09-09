@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.ContainerGroupIdentity.userAssignedIdentities()"
   name: "userAssignedIdentities()"
   nameWithType: "ContainerGroupIdentity.userAssignedIdentities()"
-  summary: "Get the list of user identities associated with the container group. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'."
+  summary: "Get the list of user identities associated with the container group. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'."
   syntax: "public Map<String,ContainerGroupIdentityUserAssignedIdentitiesValue> userAssignedIdentities()"
   returns:
     description: "the userAssignedIdentities value"

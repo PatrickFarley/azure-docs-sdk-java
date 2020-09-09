@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ServiceLimits.setMaxComplexObjectsInCollectionsPerDocument(Integer maxComplexObjectsInCollectionsPerDocument)"
   name: "setMaxComplexObjectsInCollectionsPerDocument(Integer maxComplexObjectsInCollectionsPerDocument)"
   nameWithType: "ServiceLimits.setMaxComplexObjectsInCollectionsPerDocument(Integer maxComplexObjectsInCollectionsPerDocument)"
-  summary: "Set the maxComplexObjectsInCollectionsPerDocument property: The maximum number of objects in complex collections\n allowed per document."
+  summary: "Set the maxComplexObjectsInCollectionsPerDocument property: The maximum number of objects in complex collections allowed per document."
   parameters:
   - description: "the maxComplexObjectsInCollectionsPerDocument value to set."
     name: "maxComplexObjectsInCollectionsPerDocument"

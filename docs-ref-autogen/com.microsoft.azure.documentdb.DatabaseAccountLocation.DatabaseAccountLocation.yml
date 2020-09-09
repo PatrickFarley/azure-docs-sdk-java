@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DatabaseAccountLocation.DatabaseAccountLocation(String jsonString)"
   name: "DatabaseAccountLocation(String jsonString)"
   nameWithType: "DatabaseAccountLocation.DatabaseAccountLocation(String jsonString)"
-  summary: "Creates a new instance of the DatabaseAccountLocation object from a JSON\n string."
+  summary: "Creates a new instance of the DatabaseAccountLocation object from a JSON string."
   parameters:
   - description: "the JSON string that represents the DatabaseAccountLocation object."
     name: "jsonString"
@@ -18,7 +18,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DatabaseAccountLocation.DatabaseAccountLocation(JSONObject jsonObject)"
   name: "DatabaseAccountLocation(JSONObject jsonObject)"
   nameWithType: "DatabaseAccountLocation.DatabaseAccountLocation(JSONObject jsonObject)"
-  summary: "Creates a new instance of the DatabaseAccountLocation object from a\n JSON object."
+  summary: "Creates a new instance of the DatabaseAccountLocation object from a JSON object."
   parameters:
   - description: "the JSON object that represents the DatabaseAccountLocation object."
     name: "jsonObject"

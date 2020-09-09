@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Doubles.concat(double[][] arrays)"
   name: "concat(double[][] arrays)"
   nameWithType: "Doubles.concat(double[][] arrays)"
-  summary: "Returns the values from each provided array combined into a single array. For example, <code>\n concat(new double[] {a, b}, new double[] {}, new double[] {c}</code> returns the array <code>{a, b,\n c}</code>."
+  summary: "Returns the values from each provided array combined into a single array. For example, `concat(new double[] {a, b}, new double[] {}, new double[] {c}` returns the array `{a, b, c}`."
   parameters:
   - description: "zero or more <code>double</code> arrays"
     name: "arrays"

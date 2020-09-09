@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.withConfigureLoadBalancing(Boolean configureLoadBalancing)"
   name: "withConfigureLoadBalancing(Boolean configureLoadBalancing)"
   nameWithType: "CloningInfo.withConfigureLoadBalancing(Boolean configureLoadBalancing)"
-  summary: "Set the configureLoadBalancing property: &lt;code&gt;true&lt;/code&gt; to configure load balancing for source and\n destination app."
+  summary: "Set the configureLoadBalancing property: <code>true</code> to configure load balancing for source and destination app."
   parameters:
   - description: "the configureLoadBalancing value to set."
     name: "configureLoadBalancing"

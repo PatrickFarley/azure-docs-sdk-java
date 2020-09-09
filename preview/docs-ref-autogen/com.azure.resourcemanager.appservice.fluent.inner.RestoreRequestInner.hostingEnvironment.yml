@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RestoreRequestInner.hostingEnvironment()"
   name: "hostingEnvironment()"
   nameWithType: "RestoreRequestInner.hostingEnvironment()"
-  summary: "Get the hostingEnvironment property: App Service Environment name, if needed (only when restoring an app to an\n App Service Environment)."
+  summary: "Get the hostingEnvironment property: App Service Environment name, if needed (only when restoring an app to an App Service Environment)."
   syntax: "public String hostingEnvironment()"
   returns:
     description: "the hostingEnvironment value."

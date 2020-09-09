@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.TopologyResource.withAssociations(List<TopologyAssociation> associations)"
   name: "withAssociations(List<TopologyAssociation> associations)"
   nameWithType: "TopologyResource.withAssociations(List<TopologyAssociation> associations)"
-  summary: "Set the associations property: Holds the associations the resource has with other resources in the resource\n group."
+  summary: "Set the associations property: Holds the associations the resource has with other resources in the resource group."
   parameters:
   - description: "the associations value to set."
     name: "associations"

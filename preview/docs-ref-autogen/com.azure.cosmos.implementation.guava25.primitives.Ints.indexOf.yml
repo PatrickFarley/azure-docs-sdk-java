@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.indexOf(int[] array, int target)"
   name: "indexOf(int[] array, int target)"
   nameWithType: "Ints.indexOf(int[] array, int target)"
-  summary: "Returns the index of the first appearance of the value <code>target</code> in <code>array</code>."
+  summary: "Returns the index of the first appearance of the value `target` in `array`."
   parameters:
   - description: "an array of <code>int</code> values, possibly empty"
     name: "array"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.indexOf(int[] array, int[] target)"
   name: "indexOf(int[] array, int[] target)"
   nameWithType: "Ints.indexOf(int[] array, int[] target)"
-  summary: "Returns the start position of the first occurrence of the specified <code>target</code> within\n <code>array</code>, or <code>-1</code> if there is no such occurrence.\n\n <p>More formally, returns the lowest index <code>i</code> such that <code>Arrays.copyOfRange(array,\n i, i + target.length)</code> contains exactly the same elements as <code>target</code>."
+  summary: "Returns the start position of the first occurrence of the specified `target` within `array`, or `-1` if there is no such occurrence.\n\nMore formally, returns the lowest index `i` such that `Arrays.copyOfRange(array, i, i + target.length)` contains exactly the same elements as `target`."
   parameters:
   - description: "the array to search for the sequence <code>target</code>"
     name: "array"

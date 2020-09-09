@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.AppendBlobRequestConditions.getMaxSize()"
   name: "getMaxSize()"
   nameWithType: "AppendBlobRequestConditions.getMaxSize()"
-  summary: "Gets the max length in bytes allowed for the append blob.\n\n <p>If the operation would cause the append blob to grow larger than the limit the request will fail.</p>"
+  summary: "Gets the max length in bytes allowed for the append blob.\n\nIf the operation would cause the append blob to grow larger than the limit the request will fail."
   syntax: "public Long getMaxSize()"
   returns:
     description: "The max length in bytes allowed for the append blob."

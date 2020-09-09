@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.InboundNatRuleInner.enableFloatingIp()"
   name: "enableFloatingIp()"
   nameWithType: "InboundNatRuleInner.enableFloatingIp()"
-  summary: "Get the enableFloatingIp property: Configures a virtual machine's endpoint for the floating IP capability\n required to configure a SQL AlwaysOn Availability Group. This setting is required when using the SQL AlwaysOn\n Availability Groups in SQL server. This setting can't be changed after you create the endpoint."
+  summary: "Get the enableFloatingIp property: Configures a virtual machine's endpoint for the floating IP capability required to configure a SQL AlwaysOn Availability Group. This setting is required when using the SQL AlwaysOn Availability Groups in SQL server. This setting can't be changed after you create the endpoint."
   syntax: "public Boolean enableFloatingIp()"
   returns:
     description: "the enableFloatingIp value."

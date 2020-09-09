@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.collection.SupportsBatchCreation<ResourceT>.createAsync(Creatable<ResourceT>[] creatables)"
   name: "createAsync(Creatable<ResourceT>[] creatables)"
   nameWithType: "SupportsBatchCreation<ResourceT>.createAsync(Creatable<ResourceT>[] creatables)"
-  summary: "Puts the requests to create a batch of resources into the queue and allow the HTTP client to execute it when\n system resources are available."
+  summary: "Puts the requests to create a batch of resources into the queue and allow the HTTP client to execute it when system resources are available."
   parameters:
   - description: "the creatables in the batch"
     name: "creatables"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.collection.SupportsBatchCreation<ResourceT>.createAsync(List<Creatable<ResourceT>> creatables)"
   name: "createAsync(List<Creatable<ResourceT>> creatables)"
   nameWithType: "SupportsBatchCreation<ResourceT>.createAsync(List<Creatable<ResourceT>> creatables)"
-  summary: "Puts the requests to create a batch of resources into the queue and allow the HTTP client to execute it when\n system resources are available."
+  summary: "Puts the requests to create a batch of resources into the queue and allow the HTTP client to execute it when system resources are available."
   parameters:
   - description: "the list of creatables in the batch"
     name: "creatables"

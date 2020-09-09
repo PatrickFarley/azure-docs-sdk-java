@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.LongMath.saturatedPow(long b, int k)"
   name: "saturatedPow(long b, int k)"
   nameWithType: "LongMath.saturatedPow(long b, int k)"
-  summary: "Returns the <code>b</code> to the <code>k</code>th power, unless it would overflow or underflow in which\n case <code>Long.MAX_VALUE</code> or <code>Long.MIN_VALUE</code> is returned, respectively."
+  summary: "Returns the `b` to the `k`th power, unless it would overflow or underflow in which case `Long.MAX_VALUE` or `Long.MIN_VALUE` is returned, respectively."
   parameters:
   - name: "b"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

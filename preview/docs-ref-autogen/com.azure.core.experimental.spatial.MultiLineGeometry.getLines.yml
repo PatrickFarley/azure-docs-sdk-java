@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.spatial.MultiLineGeometry.getLines()"
   name: "getLines()"
   nameWithType: "MultiLineGeometry.getLines()"
-  summary: "Unmodifiable representation of the <xref uid=\"LineGeometry\" data-throw-if-not-resolved=\"false\">geometric lines</xref> representing this multi-line."
+  summary: "Unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.LineGeometry\" data-throw-if-not-resolved=\"false\">geometric lines</xref> representing this multi-line."
   syntax: "public List<LineGeometry> getLines()"
   returns:
     description: "An unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.LineGeometry\" data-throw-if-not-resolved=\"false\">geometric lines</xref> representing this multi-line."

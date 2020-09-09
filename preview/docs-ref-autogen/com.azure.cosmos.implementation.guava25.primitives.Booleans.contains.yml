@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Booleans.contains(boolean[] array, boolean target)"
   name: "contains(boolean[] array, boolean target)"
   nameWithType: "Booleans.contains(boolean[] array, boolean target)"
-  summary: "Returns <code>true</code> if <code>target</code> is present as an element anywhere in <code>array</code>.\n\n <p><b>Note:</b> consider representing the array as a <xref uid=\"java.util.BitSet\" data-throw-if-not-resolved=\"false\">java.util.BitSet</xref> instead,\n replacing <code>Booleans.contains(array, true)</code> with <code>!bitSet.isEmpty()</code> and <code>\n Booleans.contains(array, false)</code> with <code>bitSet.nextClearBit(0) == sizeOfBitSet</code>."
+  summary: "Returns `true` if `target` is present as an element anywhere in `array`.\n\n**Note:** consider representing the array as a <xref uid=\"\" data-throw-if-not-resolved=\"false\">java.util.BitSet</xref> instead, replacing `Booleans.contains(array, true)` with `!bitSet.isEmpty()` and `Booleans.contains(array, false)` with `bitSet.nextClearBit(0) == sizeOfBitSet`."
   parameters:
   - description: "an array of <code>boolean</code> values, possibly empty"
     name: "array"

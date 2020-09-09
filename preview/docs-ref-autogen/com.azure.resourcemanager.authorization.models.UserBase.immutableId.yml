@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.UserBase.immutableId()"
   name: "immutableId()"
   nameWithType: "UserBase.immutableId()"
-  summary: "Get the immutableId property: This must be specified if you are using a federated domain for the user's\n userPrincipalName (UPN) property when creating a new user account. It is used to associate an on-premises Active\n Directory user account with their Azure AD user object."
+  summary: "Get the immutableId property: This must be specified if you are using a federated domain for the user's userPrincipalName (UPN) property when creating a new user account. It is used to associate an on-premises Active Directory user account with their Azure AD user object."
   syntax: "public String immutableId()"
   returns:
     description: "the immutableId value."

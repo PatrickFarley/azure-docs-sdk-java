@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchResult.<T>getDocument(Class<T> modelClass)"
   name: "<T>getDocument(Class<T> modelClass)"
   nameWithType: "SearchResult.<T>getDocument(Class<T> modelClass)"
-  summary: "Get the additionalProperties property: Unmatched properties from the\n message are deserialized this collection."
+  summary: "Get the additionalProperties property: Unmatched properties from the message are deserialized this collection."
   parameters:
   - description: "The model class converts to."
     name: "modelClass"

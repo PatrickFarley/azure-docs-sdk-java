@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StackMinorVersion.withIsRemoteDebuggingEnabled(Boolean isRemoteDebuggingEnabled)"
   name: "withIsRemoteDebuggingEnabled(Boolean isRemoteDebuggingEnabled)"
   nameWithType: "StackMinorVersion.withIsRemoteDebuggingEnabled(Boolean isRemoteDebuggingEnabled)"
-  summary: "Set the isRemoteDebuggingEnabled property: &lt;code&gt;true&lt;/code&gt; if this supports Remote Debugging,\n otherwise &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the isRemoteDebuggingEnabled property: <code>true</code> if this supports Remote Debugging, otherwise <code>false</code>."
   parameters:
   - description: "the isRemoteDebuggingEnabled value to set."
     name: "isRemoteDebuggingEnabled"

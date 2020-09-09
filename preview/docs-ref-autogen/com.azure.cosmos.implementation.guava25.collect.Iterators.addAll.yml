@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>addAll(Collection<T> addTo, Iterator<? extends T> iterator)"
   name: "<T>addAll(Collection<T> addTo, Iterator<? extends T> iterator)"
   nameWithType: "Iterators.<T>addAll(Collection<T> addTo, Iterator<? extends T> iterator)"
-  summary: "Adds all elements in <code>iterator</code> to <code>collection</code>. The iterator will be left\n exhausted: its <code>hasNext()</code> method will return <code>false</code>."
+  summary: "Adds all elements in `iterator` to `collection`. The iterator will be left exhausted: its `hasNext()` method will return `false`."
   parameters:
   - name: "addTo"
     type: "<xref href=\"java.util.Collection?alt=java.util.Collection&text=Collection\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

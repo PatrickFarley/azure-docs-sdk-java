@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventSubscriptions.listRegionalBySubscriptionForTopicTypeAsync(String location, String topicTypeName)"
   name: "listRegionalBySubscriptionForTopicTypeAsync(String location, String topicTypeName)"
   nameWithType: "EventSubscriptions.listRegionalBySubscriptionForTopicTypeAsync(String location, String topicTypeName)"
-  summary: "List all regional event subscriptions under an Azure subscription for a topic type.\n List all event subscriptions from the given location under a specific Azure subscription and topic type."
+  summary: "List all regional event subscriptions under an Azure subscription for a topic type. List all event subscriptions from the given location under a specific Azure subscription and topic type."
   parameters:
   - description: "Name of the location."
     name: "location"

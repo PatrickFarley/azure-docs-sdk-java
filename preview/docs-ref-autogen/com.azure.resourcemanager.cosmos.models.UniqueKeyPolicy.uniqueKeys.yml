@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.UniqueKeyPolicy.uniqueKeys()"
   name: "uniqueKeys()"
   nameWithType: "UniqueKeyPolicy.uniqueKeys()"
-  summary: "Get the uniqueKeys property: List of unique keys on that enforces uniqueness constraint on documents in the\n collection in the Azure Cosmos DB service."
+  summary: "Get the uniqueKeys property: List of unique keys on that enforces uniqueness constraint on documents in the collection in the Azure Cosmos DB service."
   syntax: "public List<UniqueKey> uniqueKeys()"
   returns:
     description: "the uniqueKeys value."

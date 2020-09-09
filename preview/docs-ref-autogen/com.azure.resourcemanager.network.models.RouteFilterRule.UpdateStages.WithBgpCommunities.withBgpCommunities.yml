@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.RouteFilterRule.UpdateStages.WithBgpCommunities.withBgpCommunities(String[] communities)"
   name: "withBgpCommunities(String[] communities)"
   nameWithType: "RouteFilterRule.UpdateStages.WithBgpCommunities.withBgpCommunities(String[] communities)"
-  summary: "The collection for bgp community values to filter on. e.g. ['12076:5010','12076:5020']. Note: this method\n will overwrite existing communities."
+  summary: "The collection for bgp community values to filter on. e.g. \\['12076:5010','12076:5020'\\]. Note: this method will overwrite existing communities."
   parameters:
   - description: "service communities"
     name: "communities"

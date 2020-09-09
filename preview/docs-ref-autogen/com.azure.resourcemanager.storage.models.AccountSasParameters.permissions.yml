@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.AccountSasParameters.permissions()"
   name: "permissions()"
   nameWithType: "AccountSasParameters.permissions()"
-  summary: "Get the permissions property: The signed permissions for the account SAS. Possible values include: Read (r),\n Write (w), Delete (d), List (l), Add (a), Create (c), Update (u) and Process (p)."
+  summary: "Get the permissions property: The signed permissions for the account SAS. Possible values include: Read (r), Write (w), Delete (d), List (l), Add (a), Create (c), Update (u) and Process (p)."
   syntax: "public Permissions permissions()"
   returns:
     description: "the permissions value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.instanceView()"
   name: "instanceView()"
   nameWithType: "VirtualMachine.instanceView()"
-  summary: "Get the virtual machine instance view.\n\n <p>The instance view will be cached for later retrieval using <code>instanceView</code>."
+  summary: "Get the virtual machine instance view.\n\nThe instance view will be cached for later retrieval using `instanceView`."
   syntax: "public abstract VirtualMachineInstanceView instanceView()"
   returns:
     description: "the virtual machine's instance view"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.ResourceGroupsClient.updateAsync(String resourceGroupName, ResourceGroupPatchable parameters)"
   name: "updateAsync(String resourceGroupName, ResourceGroupPatchable parameters)"
   nameWithType: "ResourceGroupsClient.updateAsync(String resourceGroupName, ResourceGroupPatchable parameters)"
-  summary: "Resource groups can be updated through a simple PATCH operation to a group address. The format of the request is\n the same as that for creating a resource group. If a field is unspecified, the current value is retained."
+  summary: "Resource groups can be updated through a simple PATCH operation to a group address. The format of the request is the same as that for creating a resource group. If a field is unspecified, the current value is retained."
   parameters:
   - description: "The name of the resource group to update. The name is case insensitive."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.ResourceGroupsClient.updateAsync(String resourceGroupName, ResourceGroupPatchable parameters, Context context)"
   name: "updateAsync(String resourceGroupName, ResourceGroupPatchable parameters, Context context)"
   nameWithType: "ResourceGroupsClient.updateAsync(String resourceGroupName, ResourceGroupPatchable parameters, Context context)"
-  summary: "Resource groups can be updated through a simple PATCH operation to a group address. The format of the request is\n the same as that for creating a resource group. If a field is unspecified, the current value is retained."
+  summary: "Resource groups can be updated through a simple PATCH operation to a group address. The format of the request is the same as that for creating a resource group. If a field is unspecified, the current value is retained."
   parameters:
   - description: "The name of the resource group to update. The name is case insensitive."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlert.DefinitionStages.WithWindowSize.withPeriod(Duration size)"
   name: "withPeriod(Duration size)"
   nameWithType: "MetricAlert.DefinitionStages.WithWindowSize.withPeriod(Duration size)"
-  summary: "Sets the period of time (in ISO 8601 duration format) that is used to monitor alert activity based on the\n threshold."
+  summary: "Sets the period of time (in ISO 8601 duration format) that is used to monitor alert activity based on the threshold."
   parameters:
   - description: "the windowSize value to set"
     name: "size"

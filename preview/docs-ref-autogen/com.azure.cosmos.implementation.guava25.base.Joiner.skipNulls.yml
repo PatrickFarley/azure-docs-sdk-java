@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.skipNulls()"
   name: "skipNulls()"
   nameWithType: "Joiner.skipNulls()"
-  summary: "Returns a joiner with the same behavior as this joiner, except automatically skipping over any\n provided null elements."
+  summary: "Returns a joiner with the same behavior as this joiner, except automatically skipping over any provided null elements."
   syntax: "public Joiner skipNulls()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.Joiner?alt=com.azure.cosmos.implementation.guava25.base.Joiner&text=Joiner\" data-throw-if-not-resolved=\"False\" />"

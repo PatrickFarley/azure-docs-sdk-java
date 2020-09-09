@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.ChangeFeedProcessorOptions.setStartTime(Instant startTime)"
   name: "setStartTime(Instant startTime)"
   nameWithType: "ChangeFeedProcessorOptions.setStartTime(Instant startTime)"
-  summary: "Sets the time (exclusive) to start looking for changes after (UTC time).\n <p>\n This option can be used when:\n (1) Lease items are not initialized; this setting will be ignored if the lease items exists and have a\n   valid continuation token.\n (2) Start continuation token option is not specified.\n If this option is specified, \"start from beginning\" option is ignored."
+  summary: "Sets the time (exclusive) to start looking for changes after (UTC time).\n\nThis option can be used when: (1) Lease items are not initialized; this setting will be ignored if the lease items exists and have a valid continuation token. (2) Start continuation token option is not specified. If this option is specified, \"start from beginning\" option is ignored."
   parameters:
   - description: "the time (exclusive) to start looking for changes after."
     name: "startTime"

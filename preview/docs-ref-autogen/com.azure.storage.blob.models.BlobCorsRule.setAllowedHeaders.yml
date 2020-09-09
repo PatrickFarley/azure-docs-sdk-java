@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobCorsRule.setAllowedHeaders(String allowedHeaders)"
   name: "setAllowedHeaders(String allowedHeaders)"
   nameWithType: "BlobCorsRule.setAllowedHeaders(String allowedHeaders)"
-  summary: "Set the allowedHeaders property: the request headers that the origin\n domain may specify on the CORS request."
+  summary: "Set the allowedHeaders property: the request headers that the origin domain may specify on the CORS request."
   parameters:
   - description: "the allowedHeaders value to set."
     name: "allowedHeaders"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap<K,V>.keySet()"
   name: "keySet()"
   nameWithType: "ImmutableMultimap<K,V>.keySet()"
-  summary: "Returns an immutable set of the distinct keys in this multimap, in the same order as they\n appear in this multimap."
+  summary: "Returns an immutable set of the distinct keys in this multimap, in the same order as they appear in this multimap."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractMultimap.keySet()"
   syntax: "public ImmutableSet<K> keySet()"
   returns:

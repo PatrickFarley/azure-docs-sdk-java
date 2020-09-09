@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.CorsRule.allowedMethods()"
   name: "allowedMethods()"
   nameWithType: "CorsRule.allowedMethods()"
-  summary: "Get the allowedMethods property: Required if CorsRule element is present. A list of HTTP methods that are allowed\n to be executed by the origin."
+  summary: "Get the allowedMethods property: Required if CorsRule element is present. A list of HTTP methods that are allowed to be executed by the origin."
   syntax: "public List<CorsRuleAllowedMethodsItem> allowedMethods()"
   returns:
     description: "the allowedMethods value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Validate.inclusiveBetween(long start, long end, long value, String message)"
   name: "inclusiveBetween(long start, long end, long value, String message)"
   nameWithType: "Validate.inclusiveBetween(long start, long end, long value, String message)"
-  summary: "Validate that the specified primitive value falls between the two\n inclusive values specified; otherwise, throws an exception with the\n specified message."
+  summary: "Validate that the specified primitive value falls between the two inclusive values specified; otherwise, throws an exception with the specified message."
   parameters:
   - description: "the inclusive start value"
     name: "start"

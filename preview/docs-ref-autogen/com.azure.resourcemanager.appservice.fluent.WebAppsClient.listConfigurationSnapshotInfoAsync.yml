@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.listConfigurationSnapshotInfoAsync(String resourceGroupName, String name)"
   name: "listConfigurationSnapshotInfoAsync(String resourceGroupName, String name)"
   nameWithType: "WebAppsClient.listConfigurationSnapshotInfoAsync(String resourceGroupName, String name)"
-  summary: "Description for Gets a list of web app configuration snapshots identifiers. Each element of the list contains a\n timestamp and the ID of the snapshot."
+  summary: "Description for Gets a list of web app configuration snapshots identifiers. Each element of the list contains a timestamp and the ID of the snapshot."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.listConfigurationSnapshotInfoAsync(String resourceGroupName, String name, Context context)"
   name: "listConfigurationSnapshotInfoAsync(String resourceGroupName, String name, Context context)"
   nameWithType: "WebAppsClient.listConfigurationSnapshotInfoAsync(String resourceGroupName, String name, Context context)"
-  summary: "Description for Gets a list of web app configuration snapshots identifiers. Each element of the list contains a\n timestamp and the ID of the snapshot."
+  summary: "Description for Gets a list of web app configuration snapshots identifiers. Each element of the list contains a timestamp and the ID of the snapshot."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

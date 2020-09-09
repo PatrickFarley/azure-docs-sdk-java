@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.GremlinDatabaseCreateUpdateParameters.options()"
   name: "options()"
   nameWithType: "GremlinDatabaseCreateUpdateParameters.options()"
-  summary: "Get the options property: A key-value pair of options to be applied for the request. This corresponds to the\n headers sent with the request."
+  summary: "Get the options property: A key-value pair of options to be applied for the request. This corresponds to the headers sent with the request."
   syntax: "public Map<String,String> options()"
   returns:
     description: "the options value."

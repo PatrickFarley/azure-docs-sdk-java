@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.spatial.CollectionGeometry.getGeometries()"
   name: "getGeometries()"
   nameWithType: "CollectionGeometry.getGeometries()"
-  summary: "Unmodifiable representation of the <xref uid=\"Geometry\" data-throw-if-not-resolved=\"false\">geometries</xref> contained in this collection."
+  summary: "Unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.Geometry\" data-throw-if-not-resolved=\"false\">geometries</xref> contained in this collection."
   syntax: "public List<Geometry> getGeometries()"
   returns:
     description: "An unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.Geometry\" data-throw-if-not-resolved=\"false\">geometries</xref> in this collection."

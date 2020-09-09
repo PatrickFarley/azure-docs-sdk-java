@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClient.getProperties()"
   name: "getProperties()"
   nameWithType: "DataLakeFileSystemClient.getProperties()"
-  summary: "Returns the file system's metadata and system properties. For more information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/get-container-metadata\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n FileSystemProperties properties = client.getProperties&#40;&#41;;\n System.out.printf&#40;&quot;Public Access Type: %s, Legal Hold? %b, Immutable? %b%n&quot;,\n     properties.getDataLakePublicAccess&#40;&#41;,\n     properties.hasLegalHold&#40;&#41;,\n     properties.hasImmutabilityPolicy&#40;&#41;&#41;;\n </pre>"
+  summary: "Returns the file system's metadata and system properties. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nFileSystemProperties properties = client.getProperties();\n System.out.printf(\"Public Access Type: %s, Legal Hold? %b, Immutable? %b%n\",\n     properties.getDataLakePublicAccess(),\n     properties.hasLegalHold(),\n     properties.hasImmutabilityPolicy());\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/get-container-metadata"
   syntax: "public FileSystemProperties getProperties()"
   returns:
     description: "The file system properties."

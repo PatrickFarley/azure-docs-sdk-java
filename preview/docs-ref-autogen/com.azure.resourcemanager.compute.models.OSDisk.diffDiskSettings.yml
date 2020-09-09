@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.OSDisk.diffDiskSettings()"
   name: "diffDiskSettings()"
   nameWithType: "OSDisk.diffDiskSettings()"
-  summary: "Get the diffDiskSettings property: Specifies the ephemeral Disk Settings for the operating system disk used by\n the virtual machine."
+  summary: "Get the diffDiskSettings property: Specifies the ephemeral Disk Settings for the operating system disk used by the virtual machine."
   syntax: "public DiffDiskSettings diffDiskSettings()"
   returns:
     description: "the diffDiskSettings value."

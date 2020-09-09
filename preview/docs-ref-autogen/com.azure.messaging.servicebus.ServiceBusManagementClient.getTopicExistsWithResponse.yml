@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClient.getTopicExistsWithResponse(String topicName, Context context)"
   name: "getTopicExistsWithResponse(String topicName, Context context)"
   nameWithType: "ServiceBusManagementClient.getTopicExistsWithResponse(String topicName, Context context)"
-  summary: "Gets whether or not a topic with <code>topicName</code> exists in the Service Bus namespace."
+  summary: "Gets whether or not a topic with `topicName` exists in the Service Bus namespace."
   parameters:
   - description: "Name of the topic."
     name: "topicName"

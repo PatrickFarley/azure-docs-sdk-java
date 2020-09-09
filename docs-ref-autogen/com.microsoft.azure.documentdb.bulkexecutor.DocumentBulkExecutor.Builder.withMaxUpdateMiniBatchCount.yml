@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.bulkexecutor.DocumentBulkExecutor.Builder.withMaxUpdateMiniBatchCount(int count)"
   name: "withMaxUpdateMiniBatchCount(int count)"
   nameWithType: "DocumentBulkExecutor.Builder.withMaxUpdateMiniBatchCount(int count)"
-  summary: "Use the given count to configure max update mini-batch count (specific to bulk update API).\n\n If not specified will use the default value of 500."
+  summary: "Use the given count to configure max update mini-batch count (specific to bulk update API). If not specified will use the default value of 500."
   parameters:
   - description: "specifies the maximum count of update items in a mini-batch used in bulk import API."
     name: "count"

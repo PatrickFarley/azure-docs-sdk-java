@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.getWithServiceResponseAsync(String topicTypeName)"
   name: "getWithServiceResponseAsync(String topicTypeName)"
   nameWithType: "TopicTypesInner.getWithServiceResponseAsync(String topicTypeName)"
-  summary: "Get a topic type.\n Get information about a topic type."
+  summary: "Get a topic type. Get information about a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"

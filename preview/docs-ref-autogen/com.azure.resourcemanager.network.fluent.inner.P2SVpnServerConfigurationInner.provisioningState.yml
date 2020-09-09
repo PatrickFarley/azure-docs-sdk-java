@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnServerConfigurationInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "P2SVpnServerConfigurationInner.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the P2SVpnServerConfiguration resource. Possible\n values are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: The provisioning state of the P2SVpnServerConfiguration resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

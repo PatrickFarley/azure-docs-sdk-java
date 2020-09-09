@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatch.setBlobAccessTier(String blobUrl, AccessTier accessTier)"
   name: "setBlobAccessTier(String blobUrl, AccessTier accessTier)"
   nameWithType: "BlobBatch.setBlobAccessTier(String blobUrl, AccessTier accessTier)"
-  summary: "Adds a set tier operation to the batch.\n\n <p><strong>Code sample</strong></p>\n\n <pre>\n Response&lt;Void&gt; setTierResponse = batch.setBlobAccessTier&#40;&quot;&#123;url of blob&#125;&quot;, AccessTier.HOT&#41;;\n </pre>"
+  summary: "Adds a set tier operation to the batch.\n\n**Code sample**\n\n```java\nResponse<Void> setTierResponse = batch.setBlobAccessTier(\"{url of blob}\", AccessTier.HOT);\n```"
   parameters:
   - description: "URL of the blob. Blob name must be encoded to UTF-8."
     name: "blobUrl"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatch.setBlobAccessTier(String blobUrl, AccessTier accessTier, String leaseId)"
   name: "setBlobAccessTier(String blobUrl, AccessTier accessTier, String leaseId)"
   nameWithType: "BlobBatch.setBlobAccessTier(String blobUrl, AccessTier accessTier, String leaseId)"
-  summary: "Adds a set tier operation to the batch.\n\n <p><strong>Code sample</strong></p>\n\n <pre>\n Response&lt;Void&gt; setTierResponse = batch.setBlobAccessTier&#40;&quot;&#123;url of blob&#125;&quot;, AccessTier.HOT, &quot;&#123;lease ID&#125;&quot;&#41;;\n </pre>"
+  summary: "Adds a set tier operation to the batch.\n\n**Code sample**\n\n```java\nResponse<Void> setTierResponse = batch.setBlobAccessTier(\"{url of blob}\", AccessTier.HOT, \"{lease ID}\");\n```"
   parameters:
   - description: "URL of the blob. Blob name must be encoded to UTF-8."
     name: "blobUrl"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatch.setBlobAccessTier(String containerName, String blobName, AccessTier accessTier)"
   name: "setBlobAccessTier(String containerName, String blobName, AccessTier accessTier)"
   nameWithType: "BlobBatch.setBlobAccessTier(String containerName, String blobName, AccessTier accessTier)"
-  summary: "Adds a set tier operation to the batch.\n\n <p><strong>Code sample</strong></p>\n\n <pre>\n Response&lt;Void&gt; setTierResponse = batch.setBlobAccessTier&#40;&quot;&#123;container name&#125;&quot;, &quot;&#123;blob name&#125;&quot;, AccessTier.HOT&#41;;\n </pre>"
+  summary: "Adds a set tier operation to the batch.\n\n**Code sample**\n\n```java\nResponse<Void> setTierResponse = batch.setBlobAccessTier(\"{container name}\", \"{blob name}\", AccessTier.HOT);\n```"
   parameters:
   - description: "The container of the blob."
     name: "containerName"
@@ -62,7 +62,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatch.setBlobAccessTier(String containerName, String blobName, AccessTier accessTier, String leaseId)"
   name: "setBlobAccessTier(String containerName, String blobName, AccessTier accessTier, String leaseId)"
   nameWithType: "BlobBatch.setBlobAccessTier(String containerName, String blobName, AccessTier accessTier, String leaseId)"
-  summary: "Adds a set tier operation to the batch.\n\n <p><strong>Code sample</strong></p>\n\n <pre>\n Response&lt;Void&gt; setTierResponse = batch.setBlobAccessTier&#40;&quot;&#123;container name&#125;&quot;, &quot;&#123;blob name&#125;&quot;, AccessTier.HOT,\n     &quot;&#123;lease ID&#125;&quot;&#41;;\n </pre>"
+  summary: "Adds a set tier operation to the batch.\n\n**Code sample**\n\n```java\nResponse<Void> setTierResponse = batch.setBlobAccessTier(\"{container name}\", \"{blob name}\", AccessTier.HOT,\n     \"{lease ID}\");\n```"
   parameters:
   - description: "The container of the blob."
     name: "containerName"

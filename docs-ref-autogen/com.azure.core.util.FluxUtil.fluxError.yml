@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.FluxUtil.<T>fluxError(ClientLogger logger, RuntimeException ex)"
   name: "<T>fluxError(ClientLogger logger, RuntimeException ex)"
   nameWithType: "FluxUtil.<T>fluxError(ClientLogger logger, RuntimeException ex)"
-  summary: "Propagates a <xref uid=\"RuntimeException\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> through the error channel of <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref>."
+  summary: "Propagates a <xref uid=\"java.lang.RuntimeException\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> through the error channel of <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref>."
   parameters:
   - description: "The <xref uid=\"com.azure.core.util.logging.ClientLogger\" data-throw-if-not-resolved=\"false\">ClientLogger</xref> to log the exception."
     name: "logger"

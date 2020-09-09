@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection.setConnectionString(String connectionString)"
   name: "setConnectionString(String connectionString)"
   nameWithType: "SearchIndexerDataSourceConnection.setConnectionString(String connectionString)"
-  summary: "Set the connectionString property: The connection string for the\n datasource."
+  summary: "Set the connectionString property: The connection string for the datasource."
   parameters:
   - description: "the connectionString value to set."
     name: "connectionString"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.StopwordsListConverter.map(StopwordsList obj)"
   name: "map(StopwordsList obj)"
   nameWithType: "StopwordsListConverter.map(StopwordsList obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.StopwordsList\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StopwordsList</xref> to enum <xref uid=\"StopwordsList\" data-throw-if-not-resolved=\"false\">StopwordsList</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.StopwordsList\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StopwordsList</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.StopwordsList\" data-throw-if-not-resolved=\"false\">StopwordsList</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.StopwordsList?alt=com.azure.search.documents.indexes.implementation.models.StopwordsList&text=StopwordsList\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.StopwordsListConverter.map(StopwordsList obj)"
   name: "map(StopwordsList obj)"
   nameWithType: "StopwordsListConverter.map(StopwordsList obj)"
-  summary: "Maps from enum <xref uid=\"StopwordsList\" data-throw-if-not-resolved=\"false\">StopwordsList</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.StopwordsList\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StopwordsList</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.StopwordsList\" data-throw-if-not-resolved=\"false\">StopwordsList</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.StopwordsList\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.StopwordsList</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.StopwordsList?alt=com.azure.search.documents.indexes.models.StopwordsList&text=StopwordsList\" data-throw-if-not-resolved=\"False\" />"

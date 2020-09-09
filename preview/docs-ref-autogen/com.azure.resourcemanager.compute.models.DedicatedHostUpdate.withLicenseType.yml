@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DedicatedHostUpdate.withLicenseType(DedicatedHostLicenseTypes licenseType)"
   name: "withLicenseType(DedicatedHostLicenseTypes licenseType)"
   nameWithType: "DedicatedHostUpdate.withLicenseType(DedicatedHostLicenseTypes licenseType)"
-  summary: "Set the licenseType property: Specifies the software license type that will be applied to the VMs deployed on the\n dedicated host. &lt;br&gt;&lt;br&gt; Possible values are: &lt;br&gt;&lt;br&gt; **None** &lt;br&gt;&lt;br&gt;\n **Windows_Server_Hybrid** &lt;br&gt;&lt;br&gt; **Windows_Server_Perpetual** &lt;br&gt;&lt;br&gt; Default:\n **None**."
+  summary: "Set the licenseType property: Specifies the software license type that will be applied to the VMs deployed on the dedicated host. <br><br> Possible values are: <br><br> \\*\\*None\\*\\* <br><br> \\*\\*Windows\\_Server\\_Hybrid\\*\\* <br><br> \\*\\*Windows\\_Server\\_Perpetual\\*\\* <br><br> Default: \\*\\*None\\*\\*."
   parameters:
   - description: "the licenseType value to set."
     name: "licenseType"

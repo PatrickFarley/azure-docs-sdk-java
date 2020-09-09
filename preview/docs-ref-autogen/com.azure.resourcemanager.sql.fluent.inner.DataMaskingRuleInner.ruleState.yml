@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DataMaskingRuleInner.ruleState()"
   name: "ruleState()"
   nameWithType: "DataMaskingRuleInner.ruleState()"
-  summary: "Get the ruleState property: The rule state. Used to delete a rule. To delete an existing rule, specify the\n schemaName, tableName, columnName, maskingFunction, and specify ruleState as disabled. However, if the rule\n doesn't already exist, the rule will be created with ruleState set to enabled, regardless of the provided value\n of ruleState."
+  summary: "Get the ruleState property: The rule state. Used to delete a rule. To delete an existing rule, specify the schemaName, tableName, columnName, maskingFunction, and specify ruleState as disabled. However, if the rule doesn't already exist, the rule will be created with ruleState set to enabled, regardless of the provided value of ruleState."
   syntax: "public DataMaskingRuleState ruleState()"
   returns:
     description: "the ruleState value."

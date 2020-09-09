@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.models.Identity.userAssignedIdentities()"
   name: "userAssignedIdentities()"
   nameWithType: "Identity.userAssignedIdentities()"
-  summary: "Get the userAssignedIdentities property: The list of user identities associated with the resource. The user\n identity dictionary key references will be ARM resource ids in the form:\n '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'."
+  summary: "Get the userAssignedIdentities property: The list of user identities associated with the resource. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'."
   syntax: "public Map<String,IdentityUserAssignedIdentities> userAssignedIdentities()"
   returns:
     description: "the userAssignedIdentities value."

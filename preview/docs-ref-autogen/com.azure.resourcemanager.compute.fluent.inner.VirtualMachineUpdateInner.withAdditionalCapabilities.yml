@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineUpdateInner.withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
   name: "withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
   nameWithType: "VirtualMachineUpdateInner.withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
-  summary: "Set the additionalCapabilities property: Specifies additional capabilities enabled or disabled on the virtual\n machine."
+  summary: "Set the additionalCapabilities property: Specifies additional capabilities enabled or disabled on the virtual machine."
   parameters:
   - description: "the additionalCapabilities value to set."
     name: "additionalCapabilities"

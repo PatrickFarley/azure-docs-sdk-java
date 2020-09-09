@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.models.SendOptions.getPartitionId()"
   name: "getPartitionId()"
   nameWithType: "SendOptions.getPartitionId()"
-  summary: "Gets the identifier of the Event Hub partition that the <xref uid=\"EventData\" data-throw-if-not-resolved=\"false\">events</xref> will be sent to. If the\n identifier is not specified, the Event Hubs service will be responsible for routing events that are sent to an\n available partition."
+  summary: "Gets the identifier of the Event Hub partition that the <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">events</xref> will be sent to. If the identifier is not specified, the Event Hubs service will be responsible for routing events that are sent to an available partition."
   syntax: "public String getPartitionId()"
   returns:
     description: "The identifier of the Event Hub partition that the <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">events</xref> will be set to. <code>null</code>\n     or an empty string if Event Hubs service is responsible for routing events."

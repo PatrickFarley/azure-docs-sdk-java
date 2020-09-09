@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.sas.ShareServiceSasSignatureValues.setVersion(String version)"
   name: "setVersion(String version)"
   nameWithType: "ShareServiceSasSignatureValues.setVersion(String version)"
-  summary: "Sets the version of the service this SAS will target. If not specified, it will default to the version targeted\n by the library."
+  summary: "Sets the version of the service this SAS will target. If not specified, it will default to the version targeted by the library."
   parameters:
   - description: "Version to target"
     name: "version"

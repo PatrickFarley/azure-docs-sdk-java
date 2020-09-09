@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SplitSkill.setMaximumPageLength(Integer maximumPageLength)"
   name: "setMaximumPageLength(Integer maximumPageLength)"
   nameWithType: "SplitSkill.setMaximumPageLength(Integer maximumPageLength)"
-  summary: "Set the maximumPageLength property: The desired maximum page length.\n Default is 10000."
+  summary: "Set the maximumPageLength property: The desired maximum page length. Default is 10000."
   parameters:
   - description: "the maximumPageLength value to set."
     name: "maximumPageLength"

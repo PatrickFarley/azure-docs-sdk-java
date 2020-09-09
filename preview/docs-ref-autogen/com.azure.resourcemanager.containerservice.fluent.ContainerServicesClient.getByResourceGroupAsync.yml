@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ContainerServicesClient.getByResourceGroupAsync(String resourceGroupName, String containerServiceName)"
   name: "getByResourceGroupAsync(String resourceGroupName, String containerServiceName)"
   nameWithType: "ContainerServicesClient.getByResourceGroupAsync(String resourceGroupName, String containerServiceName)"
-  summary: "Gets the properties of the specified container service in the specified subscription and resource group. The\n operation returns the properties including state, orchestrator, number of masters and agents, and FQDNs of\n masters and agents."
+  summary: "Gets the properties of the specified container service in the specified subscription and resource group. The operation returns the properties including state, orchestrator, number of masters and agents, and FQDNs of masters and agents."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ContainerServicesClient.getByResourceGroupAsync(String resourceGroupName, String containerServiceName, Context context)"
   name: "getByResourceGroupAsync(String resourceGroupName, String containerServiceName, Context context)"
   nameWithType: "ContainerServicesClient.getByResourceGroupAsync(String resourceGroupName, String containerServiceName, Context context)"
-  summary: "Gets the properties of the specified container service in the specified subscription and resource group. The\n operation returns the properties including state, orchestrator, number of masters and agents, and FQDNs of\n masters and agents."
+  summary: "Gets the properties of the specified container service in the specified subscription and resource group. The operation returns the properties including state, orchestrator, number of masters and agents, and FQDNs of masters and agents."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

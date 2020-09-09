@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzurePath.toRealPath(LinkOption[] linkOptions)"
   name: "toRealPath(LinkOption[] linkOptions)"
   nameWithType: "AzurePath.toRealPath(LinkOption[] linkOptions)"
-  summary: "Unsupported.\n <p>"
+  summary: "Unsupported."
   parameters:
   - description: "options"
     name: "linkOptions"

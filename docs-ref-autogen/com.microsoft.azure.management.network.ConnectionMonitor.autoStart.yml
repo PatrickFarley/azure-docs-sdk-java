@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ConnectionMonitor.autoStart()"
   name: "autoStart()"
   nameWithType: "ConnectionMonitor.autoStart()"
-  summary: "Determines if the connection monitor will start automatically once\n created."
+  summary: "Determines if the connection monitor will start automatically once created."
   syntax: "public abstract boolean autoStart()"
   returns:
     description: "true if the connection monitor will start automatically once created, false otherwise"

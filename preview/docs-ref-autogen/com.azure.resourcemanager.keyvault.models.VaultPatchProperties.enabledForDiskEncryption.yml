@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.VaultPatchProperties.enabledForDiskEncryption()"
   name: "enabledForDiskEncryption()"
   nameWithType: "VaultPatchProperties.enabledForDiskEncryption()"
-  summary: "Get the enabledForDiskEncryption property: Property to specify whether Azure Disk Encryption is permitted to\n retrieve secrets from the vault and unwrap keys."
+  summary: "Get the enabledForDiskEncryption property: Property to specify whether Azure Disk Encryption is permitted to retrieve secrets from the vault and unwrap keys."
   syntax: "public Boolean enabledForDiskEncryption()"
   returns:
     description: "the enabledForDiskEncryption value."

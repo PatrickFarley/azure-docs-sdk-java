@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DedicatedHostInner.withAutoReplaceOnFailure(Boolean autoReplaceOnFailure)"
   name: "withAutoReplaceOnFailure(Boolean autoReplaceOnFailure)"
   nameWithType: "DedicatedHostInner.withAutoReplaceOnFailure(Boolean autoReplaceOnFailure)"
-  summary: "Set the autoReplaceOnFailure property: Specifies whether the dedicated host should be replaced automatically in\n case of a failure. The value is defaulted to 'true' when not provided."
+  summary: "Set the autoReplaceOnFailure property: Specifies whether the dedicated host should be replaced automatically in case of a failure. The value is defaulted to 'true' when not provided."
   parameters:
   - description: "the autoReplaceOnFailure value to set."
     name: "autoReplaceOnFailure"

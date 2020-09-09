@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.readDocuments(String collectionLink, CosmosQueryRequestOptions options)"
   name: "readDocuments(String collectionLink, CosmosQueryRequestOptions options)"
   nameWithType: "AsyncDocumentClient.readDocuments(String collectionLink, CosmosQueryRequestOptions options)"
-  summary: "Reads all documents in a document collection.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response of the read documents.\n In case of failure the <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
+  summary: "Reads all documents in a document collection.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response of the read documents. In case of failure the <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
   parameters:
   - description: "the collection link."
     name: "collectionLink"

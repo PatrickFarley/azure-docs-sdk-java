@@ -47,7 +47,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ActiveDirectoryGroup.UpdateStages.WithMember.withMember(String objectId)"
   name: "withMember(String objectId)"
   nameWithType: "ActiveDirectoryGroup.UpdateStages.WithMember.withMember(String objectId)"
-  summary: "Adds a member based on its object id. The member can be a user, a group, a service principal, or an\n application."
+  summary: "Adds a member based on its object id. The member can be a user, a group, a service principal, or an application."
   parameters:
   - description: "the Active Directory object's id"
     name: "objectId"

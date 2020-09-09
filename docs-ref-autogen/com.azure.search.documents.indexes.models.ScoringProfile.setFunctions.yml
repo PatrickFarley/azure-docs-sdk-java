@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ScoringProfile.setFunctions(ScoringFunction[] functions)"
   name: "setFunctions(ScoringFunction[] functions)"
   nameWithType: "ScoringProfile.setFunctions(ScoringFunction[] functions)"
-  summary: "Set the functions property: The collection of functions that influence\n the scoring of documents."
+  summary: "Set the functions property: The collection of functions that influence the scoring of documents."
   parameters:
   - description: "the functions value to set."
     name: "functions"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ScoringProfile.setFunctions(List<ScoringFunction> functions)"
   name: "setFunctions(List<ScoringFunction> functions)"
   nameWithType: "ScoringProfile.setFunctions(List<ScoringFunction> functions)"
-  summary: "Set the functions property: The collection of functions that influence\n the scoring of documents."
+  summary: "Set the functions property: The collection of functions that influence the scoring of documents."
   parameters:
   - description: "the functions value to set."
     name: "functions"

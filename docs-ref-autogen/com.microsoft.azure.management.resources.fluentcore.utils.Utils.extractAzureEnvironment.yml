@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.resources.fluentcore.utils.Utils.extractAzureEnvironment(RestClient restClient)"
   name: "extractAzureEnvironment(RestClient restClient)"
   nameWithType: "Utils.extractAzureEnvironment(RestClient restClient)"
-  summary: "Try to extract the environment the client is authenticated to based\n on the information on the rest client."
+  summary: "Try to extract the environment the client is authenticated to based on the information on the rest client."
   parameters:
   - description: "the RestClient instance"
     name: "restClient"

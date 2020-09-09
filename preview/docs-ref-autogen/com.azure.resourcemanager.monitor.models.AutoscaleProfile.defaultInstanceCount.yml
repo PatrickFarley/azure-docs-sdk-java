@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.AutoscaleProfile.defaultInstanceCount()"
   name: "defaultInstanceCount()"
   nameWithType: "AutoscaleProfile.defaultInstanceCount()"
-  summary: "Get the number of instances that will be set if metrics are not available for evaluation. The default is only\n used if the current instance count is lower than the default."
+  summary: "Get the number of instances that will be set if metrics are not available for evaluation. The default is only used if the current instance count is lower than the default."
   syntax: "public abstract int defaultInstanceCount()"
   returns:
     description: "the defaultProperty value."

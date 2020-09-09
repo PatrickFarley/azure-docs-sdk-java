@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.rest.ResponseBase<H,T>.getDeserializedHeaders()"
   name: "getDeserializedHeaders()"
   nameWithType: "ResponseBase<H,T>.getDeserializedHeaders()"
-  summary: "Get the headers from the HTTP response, transformed into the header type, <code>H</code>."
+  summary: "Get the headers from the HTTP response, transformed into the header type, `H`."
   syntax: "public H getDeserializedHeaders()"
   returns:
     description: "An instance of header type <code>H</code>, deserialized from the HTTP response headers."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.AccountSasParameters.withResourceTypes(SignedResourceTypes resourceTypes)"
   name: "withResourceTypes(SignedResourceTypes resourceTypes)"
   nameWithType: "AccountSasParameters.withResourceTypes(SignedResourceTypes resourceTypes)"
-  summary: "Set the resourceTypes property: The signed resource types that are accessible with the account SAS. Service (s):\n Access to service-level APIs; Container (c): Access to container-level APIs; Object (o): Access to object-level\n APIs for blobs, queue messages, table entities, and files."
+  summary: "Set the resourceTypes property: The signed resource types that are accessible with the account SAS. Service (s): Access to service-level APIs; Container (c): Access to container-level APIs; Object (o): Access to object-level APIs for blobs, queue messages, table entities, and files."
   parameters:
   - description: "the resourceTypes value to set."
     name: "resourceTypes"

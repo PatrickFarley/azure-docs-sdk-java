@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseSecurityAlertPolicyInner.withState(SecurityAlertPolicyState state)"
   name: "withState(SecurityAlertPolicyState state)"
   nameWithType: "DatabaseSecurityAlertPolicyInner.withState(SecurityAlertPolicyState state)"
-  summary: "Set the state property: Specifies the state of the policy. If state is Enabled, storageEndpoint and\n storageAccountAccessKey are required."
+  summary: "Set the state property: Specifies the state of the policy. If state is Enabled, storageEndpoint and storageAccountAccessKey are required."
   parameters:
   - description: "the state value to set."
     name: "state"

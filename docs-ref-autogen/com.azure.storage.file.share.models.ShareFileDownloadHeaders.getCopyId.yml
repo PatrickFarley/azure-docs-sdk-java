@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getCopyId()"
   name: "getCopyId()"
   nameWithType: "ShareFileDownloadHeaders.getCopyId()"
-  summary: "Get the copyId property: String identifier for the last attempted Copy\n File operation where this file was the destination file."
+  summary: "Get the copyId property: String identifier for the last attempted Copy File operation where this file was the destination file."
   syntax: "public String getCopyId()"
   returns:
     description: "the copyId value."

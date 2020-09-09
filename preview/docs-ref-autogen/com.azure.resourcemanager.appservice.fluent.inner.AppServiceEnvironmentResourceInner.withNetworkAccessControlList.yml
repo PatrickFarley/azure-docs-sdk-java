@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServiceEnvironmentResourceInner.withNetworkAccessControlList(List<NetworkAccessControlEntry> networkAccessControlList)"
   name: "withNetworkAccessControlList(List<NetworkAccessControlEntry> networkAccessControlList)"
   nameWithType: "AppServiceEnvironmentResourceInner.withNetworkAccessControlList(List<NetworkAccessControlEntry> networkAccessControlList)"
-  summary: "Set the networkAccessControlList property: Access control list for controlling traffic to the App Service\n Environment."
+  summary: "Set the networkAccessControlList property: Access control list for controlling traffic to the App Service Environment."
   parameters:
   - description: "the networkAccessControlList value to set."
     name: "networkAccessControlList"

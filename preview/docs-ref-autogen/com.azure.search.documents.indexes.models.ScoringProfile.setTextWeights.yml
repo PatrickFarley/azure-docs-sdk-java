@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ScoringProfile.setTextWeights(TextWeights textWeights)"
   name: "setTextWeights(TextWeights textWeights)"
   nameWithType: "ScoringProfile.setTextWeights(TextWeights textWeights)"
-  summary: "Set the textWeights property: Parameters that boost scoring based on\n text matches in certain index fields."
+  summary: "Set the textWeights property: Parameters that boost scoring based on text matches in certain index fields."
   parameters:
   - description: "the textWeights value to set."
     name: "textWeights"

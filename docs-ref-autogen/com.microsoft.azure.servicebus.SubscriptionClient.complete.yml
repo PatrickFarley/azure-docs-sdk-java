@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.SubscriptionClient.complete(UUID lockToken)"
   name: "complete(UUID lockToken)"
   nameWithType: "SubscriptionClient.complete(UUID lockToken)"
-  summary: "Completes a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
+  summary: "Completes a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - name: "lockToken"
     type: "<xref href=\"java.util.UUID?alt=java.util.UUID&text=UUID\" data-throw-if-not-resolved=\"False\" />"
@@ -20,7 +20,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.SubscriptionClient.complete(UUID lockToken, TransactionContext transaction)"
   name: "complete(UUID lockToken, TransactionContext transaction)"
   nameWithType: "SubscriptionClient.complete(UUID lockToken, TransactionContext transaction)"
-  summary: "Completes a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
+  summary: "Completes a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - name: "lockToken"
     type: "<xref href=\"java.util.UUID?alt=java.util.UUID&text=UUID\" data-throw-if-not-resolved=\"False\" />"

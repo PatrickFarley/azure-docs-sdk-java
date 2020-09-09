@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.models.DataDisk.withStorageAccountType(StorageAccountType storageAccountType)"
   name: "withStorageAccountType(StorageAccountType storageAccountType)"
   nameWithType: "DataDisk.withStorageAccountType(StorageAccountType storageAccountType)"
-  summary: "Set if omitted, the default is \"standard_lrs\". Possible values include: 'StandardLRS', 'PremiumLRS'."
+  summary: "Set if omitted, the default is \"standard\\_lrs\". Possible values include: 'StandardLRS', 'PremiumLRS'."
   parameters:
   - description: "the storageAccountType value to set"
     name: "storageAccountType"

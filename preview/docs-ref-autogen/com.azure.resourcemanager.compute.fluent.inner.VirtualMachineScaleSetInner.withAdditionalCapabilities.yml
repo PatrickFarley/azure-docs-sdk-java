@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetInner.withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
   name: "withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
   nameWithType: "VirtualMachineScaleSetInner.withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
-  summary: "Set the additionalCapabilities property: Specifies additional capabilities enabled or disabled on the Virtual\n Machines in the Virtual Machine Scale Set. For instance: whether the Virtual Machines have the capability to\n support attaching managed data disks with UltraSSD_LRS storage account type."
+  summary: "Set the additionalCapabilities property: Specifies additional capabilities enabled or disabled on the Virtual Machines in the Virtual Machine Scale Set. For instance: whether the Virtual Machines have the capability to support attaching managed data disks with UltraSSD\\_LRS storage account type."
   parameters:
   - description: "the additionalCapabilities value to set."
     name: "additionalCapabilities"

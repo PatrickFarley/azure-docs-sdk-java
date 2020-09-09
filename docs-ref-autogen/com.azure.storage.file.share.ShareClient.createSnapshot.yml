@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClient.createSnapshot()"
   name: "createSnapshot()"
   nameWithType: "ShareClient.createSnapshot()"
-  summary: "Creates a snapshot of the share with the same metadata associated to the share at the time of creation.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create a snapshot</p>\n\n <pre>\n ShareSnapshotInfo response = shareClient.createSnapshot&#40;&#41;;\n System.out.println&#40;&quot;Complete creating the share snpashot with snapshot id: &quot; + response.getSnapshot&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/snapshot-share\">Azure Docs</a>.</p>"
+  summary: "Creates a snapshot of the share with the same metadata associated to the share at the time of creation.\n\n**Code Samples**\n\nCreate a snapshot\n\n```java\nShareSnapshotInfo response = shareClient.createSnapshot();\n System.out.println(\"Complete creating the share snpashot with snapshot id: \" + response.getSnapshot());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/snapshot-share"
   syntax: "public ShareSnapshotInfo createSnapshot()"
   returns:
     description: "The <xref uid=\"com.azure.storage.file.share.models.ShareSnapshotInfo\" data-throw-if-not-resolved=\"false\">information about snapshot of share</xref>"

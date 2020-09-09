@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ProbeInner.numberOfProbes()"
   name: "numberOfProbes()"
   nameWithType: "ProbeInner.numberOfProbes()"
-  summary: "Get the numberOfProbes property: The number of probes where if no response, will result in stopping further\n traffic from being delivered to the endpoint. This values allows endpoints to be taken out of rotation faster or\n slower than the typical times used in Azure."
+  summary: "Get the numberOfProbes property: The number of probes where if no response, will result in stopping further traffic from being delivered to the endpoint. This values allows endpoints to be taken out of rotation faster or slower than the typical times used in Azure."
   syntax: "public Integer numberOfProbes()"
   returns:
     description: "the numberOfProbes value."

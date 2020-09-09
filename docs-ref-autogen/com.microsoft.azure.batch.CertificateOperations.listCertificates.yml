@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.CertificateOperations.listCertificates()"
   name: "listCertificates()"
   nameWithType: "CertificateOperations.listCertificates()"
-  summary: "Lists the <xref uid=\"Certificate\" data-throw-if-not-resolved=\"false\">certificates</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.Certificate\" data-throw-if-not-resolved=\"false\">certificates</xref> in the Batch account."
   syntax: "public PagedList<Certificate> listCertificates()"
   exceptions:
   - description: "Exception thrown when an error response is received from the Batch service."
@@ -22,7 +22,7 @@ members:
   fullName: "com.microsoft.azure.batch.CertificateOperations.listCertificates(DetailLevel detailLevel)"
   name: "listCertificates(DetailLevel detailLevel)"
   nameWithType: "CertificateOperations.listCertificates(DetailLevel detailLevel)"
-  summary: "Lists the <xref uid=\"Certificate\" data-throw-if-not-resolved=\"false\">certificates</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.Certificate\" data-throw-if-not-resolved=\"false\">certificates</xref> in the Batch account."
   parameters:
   - description: "A <xref uid=\"com.microsoft.azure.batch.DetailLevel\" data-throw-if-not-resolved=\"false\">DetailLevel</xref> used for filtering the list and for controlling which properties are retrieved from the service."
     name: "detailLevel"
@@ -40,7 +40,7 @@ members:
   fullName: "com.microsoft.azure.batch.CertificateOperations.listCertificates(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listCertificates(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "CertificateOperations.listCertificates(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"Certificate\" data-throw-if-not-resolved=\"false\">certificates</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.Certificate\" data-throw-if-not-resolved=\"false\">certificates</xref> in the Batch account."
   parameters:
   - description: "A <xref uid=\"com.microsoft.azure.batch.DetailLevel\" data-throw-if-not-resolved=\"false\">DetailLevel</xref> used for filtering the list and for controlling which properties are retrieved from the service."
     name: "detailLevel"

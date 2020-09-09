@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PublicIpAddressDnsSettings.domainNameLabel()"
   name: "domainNameLabel()"
   nameWithType: "PublicIpAddressDnsSettings.domainNameLabel()"
-  summary: "Get the domainNameLabel property: Gets or sets the Domain name label.The concatenation of the domain name label\n and the regionalized DNS zone make up the fully qualified domain name associated with the public IP address. If a\n domain name label is specified, an A DNS record is created for the public IP in the Microsoft Azure DNS system."
+  summary: "Get the domainNameLabel property: Gets or sets the Domain name label.The concatenation of the domain name label and the regionalized DNS zone make up the fully qualified domain name associated with the public IP address. If a domain name label is specified, an A DNS record is created for the public IP in the Microsoft Azure DNS system."
   syntax: "public String domainNameLabel()"
   returns:
     description: "the domainNameLabel value."

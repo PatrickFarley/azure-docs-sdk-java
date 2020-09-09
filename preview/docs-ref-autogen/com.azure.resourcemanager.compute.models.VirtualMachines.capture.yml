@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachines.capture(String groupName, String name, String containerName, String vhdPrefix, boolean overwriteVhd)"
   name: "capture(String groupName, String name, String containerName, String vhdPrefix, boolean overwriteVhd)"
   nameWithType: "VirtualMachines.capture(String groupName, String name, String containerName, String vhdPrefix, boolean overwriteVhd)"
-  summary: "Captures the virtual machine by copying virtual hard disks of the VM and returns template as a JSON string that\n can be used to create similar VMs."
+  summary: "Captures the virtual machine by copying virtual hard disks of the VM and returns template as a JSON string that can be used to create similar VMs."
   parameters:
   - description: "the resource group name"
     name: "groupName"

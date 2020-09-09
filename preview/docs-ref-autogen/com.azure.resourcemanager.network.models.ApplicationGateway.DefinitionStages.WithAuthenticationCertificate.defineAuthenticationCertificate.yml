@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.DefinitionStages.WithAuthenticationCertificate.defineAuthenticationCertificate(String name)"
   name: "defineAuthenticationCertificate(String name)"
   nameWithType: "ApplicationGateway.DefinitionStages.WithAuthenticationCertificate.defineAuthenticationCertificate(String name)"
-  summary: "Begins the definition of a new application gateway authentication certificate to be attached to the\n gateway for use by the backends."
+  summary: "Begins the definition of a new application gateway authentication certificate to be attached to the gateway for use by the backends."
   parameters:
   - description: "a unique name for the certificate"
     name: "name"

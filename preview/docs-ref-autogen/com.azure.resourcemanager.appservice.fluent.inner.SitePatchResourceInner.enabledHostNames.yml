@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SitePatchResourceInner.enabledHostNames()"
   name: "enabledHostNames()"
   nameWithType: "SitePatchResourceInner.enabledHostNames()"
-  summary: "Get the enabledHostNames property: Enabled hostnames for the app.Hostnames need to be assigned (see HostNames)\n AND enabled. Otherwise, the app is not served on those hostnames."
+  summary: "Get the enabledHostNames property: Enabled hostnames for the app.Hostnames need to be assigned (see HostNames) AND enabled. Otherwise, the app is not served on those hostnames."
   syntax: "public List<String> enabledHostNames()"
   returns:
     description: "the enabledHostNames value."

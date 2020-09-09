@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.createStoredProcedure(String collectionLink, StoredProcedure storedProcedure, RequestOptions options)"
   name: "createStoredProcedure(String collectionLink, StoredProcedure storedProcedure, RequestOptions options)"
   nameWithType: "AsyncDocumentClient.createStoredProcedure(String collectionLink, StoredProcedure storedProcedure, RequestOptions options)"
-  summary: "Creates a stored procedure.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created stored procedure.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a stored procedure.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created stored procedure. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the collection link."
     name: "collectionLink"

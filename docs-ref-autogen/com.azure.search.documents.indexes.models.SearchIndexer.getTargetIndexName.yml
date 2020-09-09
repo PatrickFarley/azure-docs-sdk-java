@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexer.getTargetIndexName()"
   name: "getTargetIndexName()"
   nameWithType: "SearchIndexer.getTargetIndexName()"
-  summary: "Get the targetIndexName property: The name of the index to which this\n indexer writes data."
+  summary: "Get the targetIndexName property: The name of the index to which this indexer writes data."
   syntax: "public String getTargetIndexName()"
   returns:
     description: "the targetIndexName value."

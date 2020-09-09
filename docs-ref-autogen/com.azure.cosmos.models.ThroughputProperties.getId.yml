@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.ThroughputProperties.getId()"
   name: "getId()"
   nameWithType: "ThroughputProperties.getId()"
-  summary: "Gets the name of the resource.\n This is only relevant when getting response from the server."
+  summary: "Gets the name of the resource. This is only relevant when getting response from the server."
   syntax: "public String getId()"
   returns:
     description: "the name of the resource."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteExtensionInfoInner.withLocalIsLatestVersion(Boolean localIsLatestVersion)"
   name: "withLocalIsLatestVersion(Boolean localIsLatestVersion)"
   nameWithType: "SiteExtensionInfoInner.withLocalIsLatestVersion(Boolean localIsLatestVersion)"
-  summary: "Set the localIsLatestVersion property: &lt;code&gt;true&lt;/code&gt; if the local version is the latest version;\n &lt;code&gt;false&lt;/code&gt; otherwise."
+  summary: "Set the localIsLatestVersion property: <code>true</code> if the local version is the latest version; <code>false</code> otherwise."
   parameters:
   - description: "the localIsLatestVersion value to set."
     name: "localIsLatestVersion"

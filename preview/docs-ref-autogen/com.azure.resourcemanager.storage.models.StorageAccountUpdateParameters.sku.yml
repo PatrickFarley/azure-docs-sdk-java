@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountUpdateParameters.sku()"
   name: "sku()"
   nameWithType: "StorageAccountUpdateParameters.sku()"
-  summary: "Get the sku property: Gets or sets the SKU name. Note that the SKU name cannot be updated to Standard_ZRS,\n Premium_LRS or Premium_ZRS, nor can accounts of those SKU names be updated to any other value."
+  summary: "Get the sku property: Gets or sets the SKU name. Note that the SKU name cannot be updated to Standard\\_ZRS, Premium\\_LRS or Premium\\_ZRS, nor can accounts of those SKU names be updated to any other value."
   syntax: "public Sku sku()"
   returns:
     description: "the sku value."

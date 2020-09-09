@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Comparators.<T,S>lexicographical(Comparator<T> comparator)"
   name: "<T,S>lexicographical(Comparator<T> comparator)"
   nameWithType: "Comparators.<T,S>lexicographical(Comparator<T> comparator)"
-  summary: "Returns a new comparator which sorts iterables by comparing corresponding elements pairwise\n until a nonzero result is found; imposes \"dictionary order.\" If the end of one iterable is\n reached, but not the other, the shorter iterable is considered to be less than the longer one.\n For example, a lexicographical natural ordering over integers considers <code>[] < [1] < [1,\n 1] < [1, 2] < [2]</code>.\n\n <p>Note that <code>Collections.reverseOrder(lexicographical(comparator))</code> is not equivalent to\n <code>lexicographical(Collections.reverseOrder(comparator))</code> (consider how each would order\n <code>[1]</code> and <code>[1, 1]</code>)."
+  summary: "Returns a new comparator which sorts iterables by comparing corresponding elements pairwise until a nonzero result is found; imposes \"dictionary order.\" If the end of one iterable is reached, but not the other, the shorter iterable is considered to be less than the longer one. For example, a lexicographical natural ordering over integers considers `[] < [1] < [1, 1] < [1, 2] < [2]`.\n\nNote that `Collections.reverseOrder(lexicographical(comparator))` is not equivalent to `lexicographical(Collections.reverseOrder(comparator))` (consider how each would order `[1]` and `[1, 1]`)."
   parameters:
   - name: "comparator"
     type: "<xref href=\"java.util.Comparator?alt=java.util.Comparator&text=Comparator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

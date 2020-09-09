@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.JobStepExecutionOptions.maximumRetryIntervalSeconds()"
   name: "maximumRetryIntervalSeconds()"
   nameWithType: "JobStepExecutionOptions.maximumRetryIntervalSeconds()"
-  summary: "Get the maximumRetryIntervalSeconds property: The maximum amount of time to wait between retries for job step\n execution."
+  summary: "Get the maximumRetryIntervalSeconds property: The maximum amount of time to wait between retries for job step execution."
   syntax: "public Integer maximumRetryIntervalSeconds()"
   returns:
     description: "the maximumRetryIntervalSeconds value."

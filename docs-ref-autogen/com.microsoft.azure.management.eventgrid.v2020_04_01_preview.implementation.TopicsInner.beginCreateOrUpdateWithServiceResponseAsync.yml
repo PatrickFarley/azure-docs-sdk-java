@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.beginCreateOrUpdateWithServiceResponseAsync(String resourceGroupName, String topicName, TopicInner topicInfo)"
   name: "beginCreateOrUpdateWithServiceResponseAsync(String resourceGroupName, String topicName, TopicInner topicInfo)"
   nameWithType: "TopicsInner.beginCreateOrUpdateWithServiceResponseAsync(String resourceGroupName, String topicName, TopicInner topicInfo)"
-  summary: "Create a topic.\n Asynchronously creates a new topic with the specified parameters."
+  summary: "Create a topic. Asynchronously creates a new topic with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

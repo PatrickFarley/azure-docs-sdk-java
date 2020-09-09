@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.TopicProperties.setMaxSizeInMegabytes(long maxSizeInMegabytes)"
   name: "setMaxSizeInMegabytes(long maxSizeInMegabytes)"
   nameWithType: "TopicProperties.setMaxSizeInMegabytes(long maxSizeInMegabytes)"
-  summary: "Set the maxSizeInMegabytes property: The maximum size of the topic in megabytes, which is the size of memory\n allocated for the topic."
+  summary: "Set the maxSizeInMegabytes property: The maximum size of the topic in megabytes, which is the size of memory allocated for the topic."
   parameters:
   - description: "the maxSizeInMegabytes value to set."
     name: "maxSizeInMegabytes"

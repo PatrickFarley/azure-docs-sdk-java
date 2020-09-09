@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.FieldMappingFunction.getParameters()"
   name: "getParameters()"
   nameWithType: "FieldMappingFunction.getParameters()"
-  summary: "Get the parameters property: A dictionary of parameter name/value pairs\n to pass to the function. Each value must be of a primitive type."
+  summary: "Get the parameters property: A dictionary of parameter name/value pairs to pass to the function. Each value must be of a primitive type."
   syntax: "public Map<String,Object> getParameters()"
   returns:
     description: "the parameters value."

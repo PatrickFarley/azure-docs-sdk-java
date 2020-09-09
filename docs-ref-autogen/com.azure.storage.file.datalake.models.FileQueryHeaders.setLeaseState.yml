@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileQueryHeaders.setLeaseState(LeaseStateType leaseState)"
   name: "setLeaseState(LeaseStateType leaseState)"
   nameWithType: "FileQueryHeaders.setLeaseState(LeaseStateType leaseState)"
-  summary: "Set the leaseState property: Lease state of the file. Possible values\n include: 'available', 'leased', 'expired', 'breaking', 'broken'."
+  summary: "Set the leaseState property: Lease state of the file. Possible values include: 'available', 'leased', 'expired', 'breaking', 'broken'."
   parameters:
   - description: "the leaseState value to set."
     name: "leaseState"

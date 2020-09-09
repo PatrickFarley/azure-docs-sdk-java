@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.deleteDataSourceConnection(String dataSourceName)"
   name: "deleteDataSourceConnection(String dataSourceName)"
   nameWithType: "SearchIndexerAsyncClient.deleteDataSourceConnection(String dataSourceName)"
-  summary: "Delete a DataSource\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete the search indexer data source connection named \"dataSource\". </p>\n\n <pre>\n searchIndexerAsyncClient.deleteDataSourceConnection&#40;&quot;dataSource&quot;&#41;\n     .subscribe&#40;&#41;;\n </pre>"
+  summary: "Delete a DataSource\n\n**Code Sample**\n\nDelete the search indexer data source connection named \"dataSource\".\n\n```java\nsearchIndexerAsyncClient.deleteDataSourceConnection(\"dataSource\")\n     .subscribe();\n```"
   parameters:
   - description: "the name of the <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> for deletion"
     name: "dataSourceName"

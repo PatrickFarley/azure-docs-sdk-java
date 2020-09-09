@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.PolicySetDefinitionInner.parameters()"
   name: "parameters()"
   nameWithType: "PolicySetDefinitionInner.parameters()"
-  summary: "Get the parameters property: The policy set definition parameters that can be used in policy definition\n references."
+  summary: "Get the parameters property: The policy set definition parameters that can be used in policy definition references."
   syntax: "public Map<String,ParameterDefinitionsValue> parameters()"
   returns:
     description: "the parameters value."

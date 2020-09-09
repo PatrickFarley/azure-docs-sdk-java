@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.FlowLogStatusParameters.withTargetResourceId(String targetResourceId)"
   name: "withTargetResourceId(String targetResourceId)"
   nameWithType: "FlowLogStatusParameters.withTargetResourceId(String targetResourceId)"
-  summary: "Set the targetResourceId property: The target resource where getting the flow log and traffic analytics\n (optional) status."
+  summary: "Set the targetResourceId property: The target resource where getting the flow log and traffic analytics (optional) status."
   parameters:
   - description: "the targetResourceId value to set."
     name: "targetResourceId"

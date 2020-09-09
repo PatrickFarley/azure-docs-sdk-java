@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.createUser(CosmosUserProperties userProperties)"
   name: "createUser(CosmosUserProperties userProperties)"
   nameWithType: "CosmosAsyncDatabase.createUser(CosmosUserProperties userProperties)"
-  summary: "Creates a user After subscription the operation will be performed. The\n <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource\n response with the created user. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will\n error."
+  summary: "Creates a user After subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created user. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the cosmos user properties"
     name: "userProperties"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.SP"
   name: "SP"
   nameWithType: "Ascii.SP"
-  summary: "Space: A normally non-printing graphic character used to separate words. It is also a format\n effector which controls the movement of the printing position, one printing position forward.\n (Applicable also to display devices.)"
+  summary: "Space: A normally non-printing graphic character used to separate words. It is also a format effector which controls the movement of the printing position, one printing position forward. (Applicable also to display devices.)"
   syntax: "public static final byte SP"
 type: "field"
 metadata: {}

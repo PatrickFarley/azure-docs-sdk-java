@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.JavaVersion.JAVA_ZULU_1_8_0_102"
   name: "JAVA_ZULU_1_8_0_102"
   nameWithType: "JavaVersion.JAVA_ZULU_1_8_0_102"
-  summary: "Static value Zulu 1.8.0_102 for JavaVersion."
+  summary: "Static value Zulu 1.8.0\\_102 for JavaVersion."
   syntax: "public static final JavaVersion JAVA_ZULU_1_8_0_102"
 type: "field"
 metadata: {}

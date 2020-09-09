@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileSystemProvider.newFileSystem(URI uri, Map<String,?> config)"
   name: "newFileSystem(URI uri, Map<String,?> config)"
   nameWithType: "AzureFileSystemProvider.newFileSystem(URI uri, Map<String,?> config)"
-  summary: "Constructs a new FileSystem object identified by a URI.\n <p>\n The format of a <code>URI</code> identifying a file system is <code>\"azb://?account=<accountName>\"</code>.\n <p>\n Once closed, a file system with the same identifier may be reopened."
+  summary: "Constructs a new FileSystem object identified by a URI.\n\nThe format of a `URI` identifying a file system is `\"azb://?account=\"`.\n\nOnce closed, a file system with the same identifier may be reopened."
   overridden: "java.nio.file.spi.FileSystemProvider.newFileSystem(java.net.URI,java.util.Map<java.lang.String,?>)"
   parameters:
   - description: "URI reference"

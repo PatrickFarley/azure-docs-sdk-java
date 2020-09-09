@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithAdditionalCapabilities.withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
   name: "withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithAdditionalCapabilities.withAdditionalCapabilities(AdditionalCapabilities additionalCapabilities)"
-  summary: "Set specifies additional capabilities enabled or disabled on the Virtual Machines in the Virtual Machine\n Scale Set. For instance: whether the Virtual Machines have the capability to support attaching managed\n data disks with UltraSSD_LRS storage account type."
+  summary: "Set specifies additional capabilities enabled or disabled on the Virtual Machines in the Virtual Machine Scale Set. For instance: whether the Virtual Machines have the capability to support attaching managed data disks with UltraSSD\\_LRS storage account type."
   parameters:
   - description: "the additionalCapabilities value to set"
     name: "additionalCapabilities"

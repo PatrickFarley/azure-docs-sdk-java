@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.setFacets(List<String> facets)"
   name: "setFacets(List<String> facets)"
   nameWithType: "SearchRequest.setFacets(List<String> facets)"
-  summary: "Set the facets property: The list of facet expressions to apply to the search query. Each facet expression\n contains a field name, optionally followed by a comma-separated list of name:value pairs."
+  summary: "Set the facets property: The list of facet expressions to apply to the search query. Each facet expression contains a field name, optionally followed by a comma-separated list of name:value pairs."
   parameters:
   - description: "the facets value to set."
     name: "facets"

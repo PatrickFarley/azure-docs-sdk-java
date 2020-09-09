@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventDeliverySchema.CLOUD_EVENT_SCHEMA_V1_0"
   name: "CLOUD_EVENT_SCHEMA_V1_0"
   nameWithType: "EventDeliverySchema.CLOUD_EVENT_SCHEMA_V1_0"
-  summary: "Static value CloudEventSchemaV1_0 for EventDeliverySchema."
+  summary: "Static value CloudEventSchemaV1\\_0 for EventDeliverySchema."
   syntax: "public static final EventDeliverySchema CLOUD_EVENT_SCHEMA_V1_0"
 type: "field"
 metadata: {}

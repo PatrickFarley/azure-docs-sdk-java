@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.deleteWithResponse()"
   name: "deleteWithResponse()"
   nameWithType: "ShareAsyncClient.deleteWithResponse()"
-  summary: "Deletes the share in the storage account\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the share</p>\n\n <pre>\n shareAsyncClient.deleteWithResponse&#40;&#41;.subscribe&#40;\n     response -&gt; System.out.println&#40;&quot;Deleting the shareAsyncClient completed with status code: &quot;\n         + response.getStatusCode&#40;&#41;&#41;,\n     error -&gt; System.err.println&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Complete deleting the share.&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-share\">Azure Docs</a>.</p>"
+  summary: "Deletes the share in the storage account\n\n**Code Samples**\n\nDelete the share\n\n```java\nshareAsyncClient.deleteWithResponse().subscribe(\n     response -> System.out.println(\"Deleting the shareAsyncClient completed with status code: \"\n         + response.getStatusCode()),\n     error -> System.err.println(error.toString()),\n     () -> System.out.println(\"Complete deleting the share.\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-share"
   syntax: "public Mono<Response<Void>> deleteWithResponse()"
   returns:
     description: "A response that only contains headers and response status code"

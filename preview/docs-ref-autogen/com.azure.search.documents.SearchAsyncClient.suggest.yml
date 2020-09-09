@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.SearchAsyncClient.suggest(String searchText, String suggesterName)"
   name: "suggest(String searchText, String suggesterName)"
   nameWithType: "SearchAsyncClient.suggest(String searchText, String suggesterName)"
-  summary: "Suggests documents in the index that match the given partial query.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Suggest text from documents in service. </p>\n\n <pre>\n searchAsyncClient.suggest&#40;&quot;searchText&quot;, &quot;sg&quot;&#41;\n     .subscribe&#40;results -&gt; &#123;\n         for &#40;Map.Entry&lt;String, Object&gt; keyValuePair: results.getDocument&#40;SearchDocument.class&#41;.entrySet&#40;&#41;&#41; &#123;\n             System.out.printf&#40;&quot;Document key %s, document value %s&quot;, keyValuePair.getKey&#40;&#41;,\n                 keyValuePair.getValue&#40;&#41;&#41;;\n         &#125;\n     &#125;&#41;;\n </pre>"
+  summary: "Suggests documents in the index that match the given partial query.\n\n**Code Sample**\n\nSuggest text from documents in service.\n\n```java\nsearchAsyncClient.suggest(\"searchText\", \"sg\")\n     .subscribe(results -> {\n         for (Map.Entry<String, Object> keyValuePair: results.getDocument(SearchDocument.class).entrySet()) {\n             System.out.printf(\"Document key %s, document value %s\", keyValuePair.getKey(),\n                 keyValuePair.getValue());\n         }\n     });\n```"
   parameters:
   - description: "The search text on which to base suggestions"
     name: "searchText"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.search.documents.SearchAsyncClient.suggest(String searchText, String suggesterName, SuggestOptions suggestOptions)"
   name: "suggest(String searchText, String suggesterName, SuggestOptions suggestOptions)"
   nameWithType: "SearchAsyncClient.suggest(String searchText, String suggesterName, SuggestOptions suggestOptions)"
-  summary: "Suggests documents in the index that match the given partial query.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Suggest text from documents in service with option. </p>\n\n <pre>\n searchAsyncClient.suggest&#40;&quot;searchText&quot;, &quot;sg&quot;,\n     new SuggestOptions&#40;&#41;.setOrderBy&#40;&quot;hotelId desc&quot;&#41;&#41;\n     .subscribe&#40;results -&gt; &#123;\n         for &#40;Map.Entry&lt;String, Object&gt; keyValuePair: results.getDocument&#40;SearchDocument.class&#41;.entrySet&#40;&#41;&#41; &#123;\n             System.out.printf&#40;&quot;Document key %s, document value %s&quot;, keyValuePair.getKey&#40;&#41;,\n                 keyValuePair.getValue&#40;&#41;&#41;;\n         &#125;\n     &#125;&#41;;\n </pre>"
+  summary: "Suggests documents in the index that match the given partial query.\n\n**Code Sample**\n\nSuggest text from documents in service with option.\n\n```java\nsearchAsyncClient.suggest(\"searchText\", \"sg\",\n     new SuggestOptions().setOrderBy(\"hotelId desc\"))\n     .subscribe(results -> {\n         for (Map.Entry<String, Object> keyValuePair: results.getDocument(SearchDocument.class).entrySet()) {\n             System.out.printf(\"Document key %s, document value %s\", keyValuePair.getKey(),\n                 keyValuePair.getValue());\n         }\n     });\n```"
   parameters:
   - description: "The search text on which to base suggestions"
     name: "searchText"

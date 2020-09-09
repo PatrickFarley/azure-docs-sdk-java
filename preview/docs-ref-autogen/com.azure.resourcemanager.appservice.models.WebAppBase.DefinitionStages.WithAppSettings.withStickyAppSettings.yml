@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.DefinitionStages.WithAppSettings<FluentT>.withStickyAppSettings(Map<String,String> settings)"
   name: "withStickyAppSettings(Map<String,String> settings)"
   nameWithType: "WebAppBase.DefinitionStages.WithAppSettings<FluentT>.withStickyAppSettings(Map<String,String> settings)"
-  summary: "Specifies the app settings for the web app as a <xref uid=\"Map\" data-throw-if-not-resolved=\"false\">Map</xref>. These app settings will be swapped as well\n after a deployment slot swap."
+  summary: "Specifies the app settings for the web app as a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref>. These app settings will be swapped as well after a deployment slot swap."
   parameters:
   - description: "a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref> of app settings"
     name: "settings"

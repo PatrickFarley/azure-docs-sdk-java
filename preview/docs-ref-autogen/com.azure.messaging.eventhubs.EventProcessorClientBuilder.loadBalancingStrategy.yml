@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.loadBalancingStrategy(LoadBalancingStrategy loadBalancingStrategy)"
   name: "loadBalancingStrategy(LoadBalancingStrategy loadBalancingStrategy)"
   nameWithType: "EventProcessorClientBuilder.loadBalancingStrategy(LoadBalancingStrategy loadBalancingStrategy)"
-  summary: "The <xref uid=\"LoadBalancingStrategy\" data-throw-if-not-resolved=\"false\">LoadBalancingStrategy</xref> the <xref uid=\"EventProcessorClient\" data-throw-if-not-resolved=\"false\">event processor</xref> will use for claiming\n partition ownership. By default, a <xref uid=\"LoadBalancingStrategy#BALANCED\" data-throw-if-not-resolved=\"false\">Balanced</xref> approach will be used."
+  summary: "The <xref uid=\"com.azure.messaging.eventhubs.LoadBalancingStrategy\" data-throw-if-not-resolved=\"false\">LoadBalancingStrategy</xref> the <xref uid=\"com.azure.messaging.eventhubs.EventProcessorClient\" data-throw-if-not-resolved=\"false\">event processor</xref> will use for claiming partition ownership. By default, a <xref uid=\"com.azure.messaging.eventhubs.LoadBalancingStrategy.BALANCED\" data-throw-if-not-resolved=\"false\">Balanced</xref> approach will be used."
   parameters:
   - description: "The <xref uid=\"com.azure.messaging.eventhubs.LoadBalancingStrategy\" data-throw-if-not-resolved=\"false\">LoadBalancingStrategy</xref> to use."
     name: "loadBalancingStrategy"

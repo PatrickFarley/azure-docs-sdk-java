@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.IndexDocumentsResult.getResults()"
   name: "getResults()"
   nameWithType: "IndexDocumentsResult.getResults()"
-  summary: "Get the results property: The list of status information for each\n document in the indexing request."
+  summary: "Get the results property: The list of status information for each document in the indexing request."
   syntax: "public List<IndexingResult> getResults()"
   returns:
     description: "the results value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ManagedServiceIdentity.withUserAssignedIdentities(Map<String,ManagedServiceIdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
   name: "withUserAssignedIdentities(Map<String,ManagedServiceIdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
   nameWithType: "ManagedServiceIdentity.withUserAssignedIdentities(Map<String,ManagedServiceIdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
-  summary: "Set the list of user identities associated with resource. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'."
+  summary: "Set the list of user identities associated with resource. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'."
   parameters:
   - description: "the userAssignedIdentities value to set"
     name: "userAssignedIdentities"

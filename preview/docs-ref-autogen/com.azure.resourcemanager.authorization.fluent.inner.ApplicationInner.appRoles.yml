@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.appRoles()"
   name: "appRoles()"
   nameWithType: "ApplicationInner.appRoles()"
-  summary: "Get the appRoles property: The collection of application roles that an application may declare. These roles can\n be assigned to users, groups or service principals."
+  summary: "Get the appRoles property: The collection of application roles that an application may declare. These roles can be assigned to users, groups or service principals."
   syntax: "public List<AppRole> appRoles()"
   returns:
     description: "the appRoles value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DiskEncryptionSetListInner.withNextLink(String nextLink)"
   name: "withNextLink(String nextLink)"
   nameWithType: "DiskEncryptionSetListInner.withNextLink(String nextLink)"
-  summary: "Set the nextLink property: The uri to fetch the next page of disk encryption sets. Call ListNext() with this to\n fetch the next page of disk encryption sets."
+  summary: "Set the nextLink property: The uri to fetch the next page of disk encryption sets. Call ListNext() with this to fetch the next page of disk encryption sets."
   parameters:
   - description: "the nextLink value to set."
     name: "nextLink"

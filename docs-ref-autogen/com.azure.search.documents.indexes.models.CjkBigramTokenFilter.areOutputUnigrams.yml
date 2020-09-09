@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.CjkBigramTokenFilter.areOutputUnigrams()"
   name: "areOutputUnigrams()"
   nameWithType: "CjkBigramTokenFilter.areOutputUnigrams()"
-  summary: "Get the outputUnigrams property: A value indicating whether to output\n both unigrams and bigrams (if true), or just bigrams (if false). Default\n is false."
+  summary: "Get the outputUnigrams property: A value indicating whether to output both unigrams and bigrams (if true), or just bigrams (if false). Default is false."
   syntax: "public Boolean areOutputUnigrams()"
   returns:
     description: "the outputUnigrams value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.RangeSet<C>.toString()"
   name: "toString()"
   nameWithType: "RangeSet<C>.toString()"
-  summary: "Returns a readable string representation of this range set. For example, if this <code>\n RangeSet</code> consisted of <code>Range.closed(1, 3)</code> and <code>Range.greaterThan(4)</code>, this might\n return <code>\" [1..3](4..+\\u221e)</code>\"}."
+  summary: "Returns a readable string representation of this range set. For example, if this `RangeSet` consisted of `Range.closed(1, 3)` and `Range.greaterThan(4)`, this might return `\" [1..3](4..+\\u221e)`\"\\}."
   overridden: "java.lang.Object.toString()"
   syntax: "public abstract String toString()"
   returns:

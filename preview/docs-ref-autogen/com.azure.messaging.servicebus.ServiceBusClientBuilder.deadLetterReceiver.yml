@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusClientBuilder.deadLetterReceiver()"
   name: "deadLetterReceiver()"
   nameWithType: "ServiceBusClientBuilder.deadLetterReceiver()"
-  summary: "A new instance of <xref uid=\"ServiceBusDeadLetterReceiverClientBuilder\" data-throw-if-not-resolved=\"false\">ServiceBusDeadLetterReceiverClientBuilder</xref> used to configure Service Bus message\n consumers from dead letter queue."
+  summary: "A new instance of <xref uid=\"\" data-throw-if-not-resolved=\"false\">ServiceBusDeadLetterReceiverClientBuilder</xref> used to configure Service Bus message consumers from dead letter queue."
   syntax: "public ServiceBusClientBuilder.ServiceBusDeadLetterReceiverClientBuilder deadLetterReceiver()"
   returns:
     description: "A new instance of <xref uid=\"\" data-throw-if-not-resolved=\"false\">ServiceBusDeadLetterReceiverClientBuilder</xref>."

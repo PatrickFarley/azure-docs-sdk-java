@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceAgentPool.DefinitionStages.WithPorts<ParentT>.withPorts(int[] ports)"
   name: "withPorts(int[] ports)"
   nameWithType: "ContainerServiceAgentPool.DefinitionStages.WithPorts<ParentT>.withPorts(int[] ports)"
-  summary: "Ports to be exposed on this agent pool.\n<p>\n The default exposed ports are different based on your choice of orchestrator."
+  summary: "Ports to be exposed on this agent pool.\n\nThe default exposed ports are different based on your choice of orchestrator."
   parameters:
   - description: "port numbers that will be exposed on this agent pool"
     name: "ports"

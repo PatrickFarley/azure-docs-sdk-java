@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.FeedOptions.getMaxDegreeOfParallelism()"
   name: "getMaxDegreeOfParallelism()"
   nameWithType: "FeedOptions.getMaxDegreeOfParallelism()"
-  summary: "Gets the number of concurrent operations run client side during parallel\n query execution."
+  summary: "Gets the number of concurrent operations run client side during parallel query execution."
   syntax: "public int getMaxDegreeOfParallelism()"
   returns:
     description: "number of concurrent operations run client side during parallel\n         query execution."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.IotHubConnectionStatusChangeCallback.execute(IotHubConnectionStatus status, IotHubConnectionStatusChangeReason statusChangeReason, Throwable throwable, Object callbackContext)"
   name: "execute(IotHubConnectionStatus status, IotHubConnectionStatusChangeReason statusChangeReason, Throwable throwable, Object callbackContext)"
   nameWithType: "IotHubConnectionStatusChangeCallback.execute(IotHubConnectionStatus status, IotHubConnectionStatusChangeReason statusChangeReason, Throwable throwable, Object callbackContext)"
-  summary: "Callback that is executed when the connection status of this sdk to the iot hub changes. Includes details for more\n context on why that change occurred."
+  summary: "Callback that is executed when the connection status of this sdk to the iot hub changes. Includes details for more context on why that change occurred."
   parameters:
   - description: "The new connection status of the sdk"
     name: "status"

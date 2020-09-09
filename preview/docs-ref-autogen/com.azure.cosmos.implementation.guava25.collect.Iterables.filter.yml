@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.<T>filter(Iterable<?> unfiltered, Class<T> desiredType)"
   name: "<T>filter(Iterable<?> unfiltered, Class<T> desiredType)"
   nameWithType: "Iterables.<T>filter(Iterable<?> unfiltered, Class<T> desiredType)"
-  summary: "Returns a view of <code>unfiltered</code> containing all elements that are of the type <code>\n desiredType</code>. The returned iterable's iterator does not support <code>remove()</code>.\n\n <p><b><code>Stream</code> equivalent:</b> <code>stream.filter(type::isInstance).map(type::cast)</code>.\n This does perform a little more work than necessary, so another option is to insert an\n unchecked cast at some later point:\n\n <pre>\n <code>@SuppressWarnings({\"unchecked\", \"rawtypes\"}) // safe because of ::isInstance check\n ImmutableList<NewType> result =\n     (ImmutableList) stream.filter(NewType.class::isInstance).collect(toImmutableList());</code>\n </pre>"
+  summary: "Returns a view of `unfiltered` containing all elements that are of the type `desiredType`. The returned iterable's iterator does not support `remove()`.\n\n**`Stream` equivalent:** `stream.filter(type::isInstance).map(type::cast)`. This does perform a little more work than necessary, so another option is to insert an unchecked cast at some later point:\n\n```java\n@SuppressWarnings({\"unchecked\", \"rawtypes\"}) // safe because of ::isInstance check\n ImmutableList result =\n     (ImmutableList) stream.filter(NewType.class::isInstance).collect(toImmutableList());\n```"
   parameters:
   - name: "unfiltered"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.<T>filter(Iterable<T> unfiltered, Predicate<? super T> retainIfTrue)"
   name: "<T>filter(Iterable<T> unfiltered, Predicate<? super T> retainIfTrue)"
   nameWithType: "Iterables.<T>filter(Iterable<T> unfiltered, Predicate<? super T> retainIfTrue)"
-  summary: "Returns a view of <code>unfiltered</code> containing all elements that satisfy the input predicate\n <code>retainIfTrue</code>. The returned iterable's iterator does not support <code>remove()</code>.\n\n <p><b><code>Stream</code> equivalent:</b> <xref uid=\"Stream#filter\" data-throw-if-not-resolved=\"false\">Stream#filter</xref>."
+  summary: "Returns a view of `unfiltered` containing all elements that satisfy the input predicate `retainIfTrue`. The returned iterable's iterator does not support `remove()`.\n\n**`Stream` equivalent:** <xref uid=\"java.util.stream.Stream.filter\" data-throw-if-not-resolved=\"false\">Stream#filter</xref>."
   parameters:
   - name: "unfiltered"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

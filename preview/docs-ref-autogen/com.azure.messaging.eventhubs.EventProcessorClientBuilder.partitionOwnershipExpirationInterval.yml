@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.partitionOwnershipExpirationInterval(Duration partitionOwnershipExpirationInterval)"
   name: "partitionOwnershipExpirationInterval(Duration partitionOwnershipExpirationInterval)"
   nameWithType: "EventProcessorClientBuilder.partitionOwnershipExpirationInterval(Duration partitionOwnershipExpirationInterval)"
-  summary: "The time duration after which the ownership of partition expires if it's not renewed by the owning processor\n instance. This is the duration that this processor instance will wait before taking over the ownership of\n partitions previously owned by an inactive processor. By default, this duration is set to a minute."
+  summary: "The time duration after which the ownership of partition expires if it's not renewed by the owning processor instance. This is the duration that this processor instance will wait before taking over the ownership of partitions previously owned by an inactive processor. By default, this duration is set to a minute."
   parameters:
   - description: "The time duration after which the ownership of partition expires."
     name: "partitionOwnershipExpirationInterval"

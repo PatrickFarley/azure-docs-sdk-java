@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ConnectionPolicy.setMediaRequestTimeout(int mediaRequestTimeout)"
   name: "setMediaRequestTimeout(int mediaRequestTimeout)"
   nameWithType: "ConnectionPolicy.setMediaRequestTimeout(int mediaRequestTimeout)"
-  summary: "Gets or sets Time to wait for response from network peer for attachment\n content (aka media) operations."
+  summary: "Gets or sets Time to wait for response from network peer for attachment content (aka media) operations."
   parameters:
   - description: "the media request timeout in seconds."
     name: "mediaRequestTimeout"

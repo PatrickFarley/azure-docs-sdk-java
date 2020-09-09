@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.getReportedPropertyMap()"
   name: "getReportedPropertyMap()"
   nameWithType: "TwinParser.getReportedPropertyMap()"
-  summary: "Return a map with all `reported` properties in the collection."
+  summary: "Return a map with all \\`reported\\` properties in the collection."
   syntax: "public Map<String,Object> getReportedPropertyMap()"
   returns:
     description: "A map with all `reported` properties in the collection (it can be null)."

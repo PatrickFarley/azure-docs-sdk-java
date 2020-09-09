@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.StaticWebsite.setIndexDocument(String indexDocument)"
   name: "setIndexDocument(String indexDocument)"
   nameWithType: "StaticWebsite.setIndexDocument(String indexDocument)"
-  summary: "Set the indexDocument property: The default name of the index page under\n each directory."
+  summary: "Set the indexDocument property: The default name of the index page under each directory."
   parameters:
   - description: "the indexDocument value to set."
     name: "indexDocument"

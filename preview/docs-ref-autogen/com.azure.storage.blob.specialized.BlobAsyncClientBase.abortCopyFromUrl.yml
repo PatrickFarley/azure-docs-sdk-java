@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.abortCopyFromUrl(String copyId)"
   name: "abortCopyFromUrl(String copyId)"
   nameWithType: "BlobAsyncClientBase.abortCopyFromUrl(String copyId)"
-  summary: "Stops a pending copy that was previously started and leaves a destination blob with 0 length and metadata.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.abortCopyFromUrl&#40;copyId&#41;.doOnSuccess&#40;response -&gt; System.out.println&#40;&quot;Aborted copy from URL&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/abort-copy-blob\">Azure Docs</a></p>"
+  summary: "Stops a pending copy that was previously started and leaves a destination blob with 0 length and metadata.\n\n**Code Samples**\n\n```java\nclient.abortCopyFromUrl(copyId).doOnSuccess(response -> System.out.println(\"Aborted copy from URL\"));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/abort-copy-blob"
   parameters:
   - description: "The id of the copy operation to abort."
     name: "copyId"

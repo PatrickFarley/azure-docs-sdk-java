@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.AutomationRunbookReceiver.withAutomationAccountId(String automationAccountId)"
   name: "withAutomationAccountId(String automationAccountId)"
   nameWithType: "AutomationRunbookReceiver.withAutomationAccountId(String automationAccountId)"
-  summary: "Set the automationAccountId property: The Azure automation account Id which holds this runbook and authenticate\n to Azure resource."
+  summary: "Set the automationAccountId property: The Azure automation account Id which holds this runbook and authenticate to Azure resource."
   parameters:
   - description: "the automationAccountId value to set."
     name: "automationAccountId"

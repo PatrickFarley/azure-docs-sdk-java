@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.labservices.v2018_10_15.SizeInfoFragment.withComputeSize(String computeSize)"
   name: "withComputeSize(String computeSize)"
   nameWithType: "SizeInfoFragment.withComputeSize(String computeSize)"
-  summary: "Set represents the actual compute size, e.g. Standard_A2_v2."
+  summary: "Set represents the actual compute size, e.g. Standard\\_A2\\_v2."
   parameters:
   - description: "the computeSize value to set"
     name: "computeSize"

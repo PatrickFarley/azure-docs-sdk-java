@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobContainerItemProperties.isEncryptionScopeOverridePrevented()"
   name: "isEncryptionScopeOverridePrevented()"
   nameWithType: "BlobContainerItemProperties.isEncryptionScopeOverridePrevented()"
-  summary: "Get the encryptionScopeOverridePrevented property: The\n encryptionScopeOverridePrevented property."
+  summary: "Get the encryptionScopeOverridePrevented property: The encryptionScopeOverridePrevented property."
   syntax: "public boolean isEncryptionScopeOverridePrevented()"
   returns:
     description: "the encryptionScopeOverridePrevented value."

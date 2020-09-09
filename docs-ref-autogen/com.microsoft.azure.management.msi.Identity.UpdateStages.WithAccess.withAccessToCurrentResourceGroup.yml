@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.msi.Identity.UpdateStages.WithAccess.withAccessToCurrentResourceGroup(BuiltInRole role)"
   name: "withAccessToCurrentResourceGroup(BuiltInRole role)"
   nameWithType: "Identity.UpdateStages.WithAccess.withAccessToCurrentResourceGroup(BuiltInRole role)"
-  summary: "Specifies that the identity should have the given access (described by the role)\n on the resource group that identity resides. An applications running on an Azure\n service with this identity can use this permission to access the resource group."
+  summary: "Specifies that the identity should have the given access (described by the role) on the resource group that identity resides. An applications running on an Azure service with this identity can use this permission to access the resource group."
   parameters:
   - description: "access role to assigned to the identity"
     name: "role"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.msi.Identity.UpdateStages.WithAccess.withAccessToCurrentResourceGroup(String roleDefinitionId)"
   name: "withAccessToCurrentResourceGroup(String roleDefinitionId)"
   nameWithType: "Identity.UpdateStages.WithAccess.withAccessToCurrentResourceGroup(String roleDefinitionId)"
-  summary: "Specifies that the identity should have the given access (described by the role\n definition) on the resource group that identity resides. An applications running\n on an Azure service with this identity can use this permission to access the\n resource group."
+  summary: "Specifies that the identity should have the given access (described by the role definition) on the resource group that identity resides. An applications running on an Azure service with this identity can use this permission to access the resource group."
   parameters:
   - description: "access role definition to assigned to the identity"
     name: "roleDefinitionId"

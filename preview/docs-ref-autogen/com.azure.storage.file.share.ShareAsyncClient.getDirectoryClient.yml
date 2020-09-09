@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.getDirectoryClient(String directoryName)"
   name: "getDirectoryClient(String directoryName)"
   nameWithType: "ShareAsyncClient.getDirectoryClient(String directoryName)"
-  summary: "Constructs a <xref uid=\"ShareDirectoryAsyncClient\" data-throw-if-not-resolved=\"false\">ShareDirectoryAsyncClient</xref> that interacts with the specified directory.\n\n <p>If the directory doesn't exist in the share <xref uid=\"ShareDirectoryAsyncClient#create()\" data-throw-if-not-resolved=\"false\">create</xref> in the\n azureFileStorageClient will need to be called before interaction with the directory can happen.</p>"
+  summary: "Constructs a <xref uid=\"com.azure.storage.file.share.ShareDirectoryAsyncClient\" data-throw-if-not-resolved=\"false\">ShareDirectoryAsyncClient</xref> that interacts with the specified directory.\n\nIf the directory doesn't exist in the share <xref uid=\"com.azure.storage.file.share.ShareDirectoryAsyncClient.create()\" data-throw-if-not-resolved=\"false\">create</xref> in the azureFileStorageClient will need to be called before interaction with the directory can happen."
   parameters:
   - description: "Name of the directory"
     name: "directoryName"

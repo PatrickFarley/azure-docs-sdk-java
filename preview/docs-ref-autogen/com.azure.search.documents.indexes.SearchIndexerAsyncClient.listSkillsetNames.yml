@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.listSkillsetNames()"
   name: "listSkillsetNames()"
   nameWithType: "SearchIndexerAsyncClient.listSkillsetNames()"
-  summary: "Lists all skillset names for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexer skillset names. </p>\n\n <pre>\n searchIndexerAsyncClient.listSkillsetNames&#40;&#41;\n     .subscribe&#40;skillsetName -&gt; System.out.printf&#40;&quot;The indexer skillset name is %s.%n&quot;, skillsetName&#41;&#41;;\n </pre>"
+  summary: "Lists all skillset names for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexer skillset names.\n\n```java\nsearchIndexerAsyncClient.listSkillsetNames()\n     .subscribe(skillsetName -> System.out.printf(\"The indexer skillset name is %s.%n\", skillsetName));\n```"
   syntax: "public PagedFlux<String> listSkillsetNames()"
   returns:
     description: "a reactive response emitting the list of skillset names."

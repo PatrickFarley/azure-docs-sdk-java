@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Booleans.countTrue(boolean[] values)"
   name: "countTrue(boolean[] values)"
   nameWithType: "Booleans.countTrue(boolean[] values)"
-  summary: "Returns the number of <code>values</code> that are <code>true</code>."
+  summary: "Returns the number of `values` that are `true`."
   parameters:
   - name: "values"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />[]"

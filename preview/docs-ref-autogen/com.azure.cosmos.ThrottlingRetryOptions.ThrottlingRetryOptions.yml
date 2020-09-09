@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.ThrottlingRetryOptions.ThrottlingRetryOptions()"
   name: "ThrottlingRetryOptions()"
   nameWithType: "ThrottlingRetryOptions.ThrottlingRetryOptions()"
-  summary: "Creates a new instance of the RetryOptions class and initializes all\n properties to default values."
+  summary: "Creates a new instance of the RetryOptions class and initializes all properties to default values."
   syntax: "public ThrottlingRetryOptions()"
 type: "constructor"
 metadata: {}

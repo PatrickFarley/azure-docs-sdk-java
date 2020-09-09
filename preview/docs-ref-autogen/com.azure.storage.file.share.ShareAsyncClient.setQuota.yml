@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.setQuota(int quotaInGB)"
   name: "setQuota(int quotaInGB)"
   nameWithType: "ShareAsyncClient.setQuota(int quotaInGB)"
-  summary: "Sets the maximum size in GB that the share is allowed to grow.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Set the quota to 1024 GB</p>\n\n <pre>\n shareAsyncClient.setQuota&#40;1024&#41;.doOnSuccess&#40;response -&gt;\n     System.out.println&#40;&quot;Setting the share quota completed.&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-properties\">Azure Docs</a>.</p>"
+  summary: "Sets the maximum size in GB that the share is allowed to grow.\n\n**Code Samples**\n\nSet the quota to 1024 GB\n\n```java\nshareAsyncClient.setQuota(1024).doOnSuccess(response ->\n     System.out.println(\"Setting the share quota completed.\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-properties"
   parameters:
   - description: "Size in GB to limit the share's growth. The quota in GB must be between 1 and 5120."
     name: "quotaInGB"

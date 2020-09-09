@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.PREMIUM_LRS"
   name: "PREMIUM_LRS"
   nameWithType: "ComputeSkuName.PREMIUM_LRS"
-  summary: "Static value Premium_LRS for ComputeSkuName."
+  summary: "Static value Premium\\_LRS for ComputeSkuName."
   syntax: "public static final ComputeSkuName PREMIUM_LRS"
 type: "field"
 metadata: {}

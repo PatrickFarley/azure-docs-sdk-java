@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.RestorePolicyProperties.withDays(Integer days)"
   name: "withDays(Integer days)"
   nameWithType: "RestorePolicyProperties.withDays(Integer days)"
-  summary: "Set the days property: how long this blob can be restored. It should be great than zero and less than\n DeleteRetentionPolicy.days."
+  summary: "Set the days property: how long this blob can be restored. It should be great than zero and less than DeleteRetentionPolicy.days."
   parameters:
   - description: "the days value to set."
     name: "days"

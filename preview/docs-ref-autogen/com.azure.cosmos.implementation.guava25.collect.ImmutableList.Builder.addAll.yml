@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableList.Builder<E>.addAll(Iterable<? extends E> elements)"
   name: "addAll(Iterable<? extends E> elements)"
   nameWithType: "ImmutableList.Builder<E>.addAll(Iterable<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableList</code>."
+  summary: "Adds each element of `elements` to the `ImmutableList`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.addAll(java.lang.Iterable<? extends E>)"
   parameters:
   - description: "the <code>Iterable</code> to add to the <code>ImmutableList</code>"
@@ -22,7 +22,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableList.Builder<E>.addAll(Iterator<? extends E> elements)"
   name: "addAll(Iterator<? extends E> elements)"
   nameWithType: "ImmutableList.Builder<E>.addAll(Iterator<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableList</code>."
+  summary: "Adds each element of `elements` to the `ImmutableList`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.addAll(java.util.Iterator<? extends E>)"
   parameters:
   - description: "the <code>Iterable</code> to add to the <code>ImmutableList</code>"

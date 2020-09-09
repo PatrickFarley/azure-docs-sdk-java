@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.options.BlobParallelUploadOptions.getTier()"
   name: "getTier()"
   nameWithType: "BlobParallelUploadOptions.getTier()"
-  summary: "Gets the <xref uid=\"AccessTier\" data-throw-if-not-resolved=\"false\">AccessTier</xref>."
+  summary: "Gets the <xref uid=\"com.azure.storage.blob.models.AccessTier\" data-throw-if-not-resolved=\"false\">AccessTier</xref>."
   syntax: "public AccessTier getTier()"
   returns:
     description: "<xref uid=\"com.azure.storage.blob.models.AccessTier\" data-throw-if-not-resolved=\"false\">AccessTier</xref>"

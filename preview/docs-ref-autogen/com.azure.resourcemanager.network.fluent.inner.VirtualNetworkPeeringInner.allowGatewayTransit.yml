@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkPeeringInner.allowGatewayTransit()"
   name: "allowGatewayTransit()"
   nameWithType: "VirtualNetworkPeeringInner.allowGatewayTransit()"
-  summary: "Get the allowGatewayTransit property: If gateway links can be used in remote virtual networking to link to this\n virtual network."
+  summary: "Get the allowGatewayTransit property: If gateway links can be used in remote virtual networking to link to this virtual network."
   syntax: "public Boolean allowGatewayTransit()"
   returns:
     description: "the allowGatewayTransit value."

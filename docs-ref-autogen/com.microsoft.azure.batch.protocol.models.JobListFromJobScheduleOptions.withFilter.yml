@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.models.JobListFromJobScheduleOptions.withFilter(String filter)"
   name: "withFilter(String filter)"
   nameWithType: "JobListFromJobScheduleOptions.withFilter(String filter)"
-  summary: "Set an OData $filter clause. For more information on constructing this filter, see https://docs.microsoft.com/en-us/rest/api/batchservice/odata-filters-in-batch#list-jobs-in-a-job-schedule."
+  summary: "Set an OData $filter clause. For more information on constructing this filter, see https://docs.microsoft.com/en-us/rest/api/batchservice/odata-filters-in-batch\\#list-jobs-in-a-job-schedule."
   parameters:
   - description: "the filter value to set"
     name: "filter"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Maps.<K,V>newLinkedHashMapWithExpectedSize(int expectedSize)"
   name: "<K,V>newLinkedHashMapWithExpectedSize(int expectedSize)"
   nameWithType: "Maps.<K,V>newLinkedHashMapWithExpectedSize(int expectedSize)"
-  summary: "Creates a <code>LinkedHashMap</code> instance, with a high enough \"initial capacity\" that it\n <i>should</i> hold <code>expectedSize</code> elements without growth. This behavior cannot be\n broadly guaranteed, but it is observed to be true for OpenJDK 1.7. It also can't be guaranteed\n that the method isn't inadvertently <i>oversizing</i> the returned map."
+  summary: "Creates a `LinkedHashMap` instance, with a high enough \"initial capacity\" that it *should* hold `expectedSize` elements without growth. This behavior cannot be broadly guaranteed, but it is observed to be true for OpenJDK 1.7. It also can't be guaranteed that the method isn't inadvertently *oversizing* the returned map."
   parameters:
   - description: "the number of entries you expect to add to the returned map"
     name: "expectedSize"

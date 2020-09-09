@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.EventContent.source()"
   name: "source()"
   nameWithType: "EventContent.source()"
-  summary: "Get the source property: The registry node that generated the event. Put differently, while the actor initiates\n the event, the source generates it."
+  summary: "Get the source property: The registry node that generated the event. Put differently, while the actor initiates the event, the source generates it."
   syntax: "public Source source()"
   returns:
     description: "the source value."

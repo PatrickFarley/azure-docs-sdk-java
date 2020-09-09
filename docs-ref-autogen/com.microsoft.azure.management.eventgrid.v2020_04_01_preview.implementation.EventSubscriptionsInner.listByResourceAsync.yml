@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName)"
   name: "listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName)"
   nameWithType: "EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName)"
-  summary: "List all event subscriptions for a specific topic.\n List all event subscriptions that have been created for a specific topic."
+  summary: "List all event subscriptions for a specific topic. List all event subscriptions that have been created for a specific topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List all event subscriptions for a specific topic.\n List all event subscriptions that have been created for a specific topic."
+  summary: "List all event subscriptions for a specific topic. List all event subscriptions that have been created for a specific topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -55,7 +55,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, String filter, Integer top)"
   name: "listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, String filter, Integer top)"
   nameWithType: "EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, String filter, Integer top)"
-  summary: "List all event subscriptions for a specific topic.\n List all event subscriptions that have been created for a specific topic."
+  summary: "List all event subscriptions for a specific topic. List all event subscriptions that have been created for a specific topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -83,7 +83,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, String filter, Integer top, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, String filter, Integer top, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.listByResourceAsync(String resourceGroupName, String providerNamespace, String resourceTypeName, String resourceName, String filter, Integer top, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List all event subscriptions for a specific topic.\n List all event subscriptions that have been created for a specific topic."
+  summary: "List all event subscriptions for a specific topic. List all event subscriptions that have been created for a specific topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

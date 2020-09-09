@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.UpdateStages.WithRedirectConfiguration.withoutRedirectConfiguration(String name)"
   name: "withoutRedirectConfiguration(String name)"
   nameWithType: "ApplicationGateway.UpdateStages.WithRedirectConfiguration.withoutRedirectConfiguration(String name)"
-  summary: "Removes a redirect configuration from the application gateway.\n\n <p>Note that removing a redirect configuration referenced by other settings may break the application\n gateway."
+  summary: "Removes a redirect configuration from the application gateway.\n\nNote that removing a redirect configuration referenced by other settings may break the application gateway."
   parameters:
   - description: "the name of the redirect configuration to remove"
     name: "name"

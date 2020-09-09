@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool.isClosed()"
   name: "isClosed()"
   nameWithType: "RntbdClientChannelPool.isClosed()"
-  summary: "<code>true</code> if this <xref uid=\"RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">pool</xref> is closed or <code>false</code> otherwise."
+  summary: "`true` if this <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">pool</xref> is closed or `false` otherwise."
   syntax: "public boolean isClosed()"
   returns:
     description: "<code>true</code> if this <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">pool</xref> is closed or <code>false</code> otherwise."

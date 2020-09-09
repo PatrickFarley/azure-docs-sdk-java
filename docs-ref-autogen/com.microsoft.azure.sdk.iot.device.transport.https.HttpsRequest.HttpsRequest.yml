@@ -13,7 +13,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsRequest.HttpsRequest(URL url, HttpsMethod method, byte[] body, String userAgentString)"
   name: "HttpsRequest(URL url, HttpsMethod method, byte[] body, String userAgentString)"
   nameWithType: "HttpsRequest.HttpsRequest(URL url, HttpsMethod method, byte[] body, String userAgentString)"
-  summary: "Constructor. Takes a URL as an argument and returns an HTTPS request that\n is ready to be sent."
+  summary: "Constructor. Takes a URL as an argument and returns an HTTPS request that is ready to be sent."
   parameters:
   - description: "the URL for the request."
     name: "url"
@@ -32,7 +32,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsRequest.HttpsRequest(URL url, HttpsMethod method, byte[] body, String userAgentString, ProxySettings proxySettings)"
   name: "HttpsRequest(URL url, HttpsMethod method, byte[] body, String userAgentString, ProxySettings proxySettings)"
   nameWithType: "HttpsRequest.HttpsRequest(URL url, HttpsMethod method, byte[] body, String userAgentString, ProxySettings proxySettings)"
-  summary: "Constructor. Takes a URL as an argument and returns an HTTPS request that\n is ready to be sent."
+  summary: "Constructor. Takes a URL as an argument and returns an HTTPS request that is ready to be sent."
   parameters:
   - description: "the URL for the request."
     name: "url"

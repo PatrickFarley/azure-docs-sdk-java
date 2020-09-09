@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithPrimaryInternetFacingLoadBalancerNatPool.withPrimaryInternetFacingLoadBalancerInboundNatPools(String[] natPoolNames)"
   name: "withPrimaryInternetFacingLoadBalancerInboundNatPools(String[] natPoolNames)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithPrimaryInternetFacingLoadBalancerNatPool.withPrimaryInternetFacingLoadBalancerInboundNatPools(String[] natPoolNames)"
-  summary: "Associates the specified inbound NAT pools of the selected internal load balancer with the primary\n network interface of the virtual machines in the scale set."
+  summary: "Associates the specified inbound NAT pools of the selected internal load balancer with the primary network interface of the virtual machines in the scale set."
   parameters:
   - description: "inbound NAT pools names existing on the selected load balancer"
     name: "natPoolNames"

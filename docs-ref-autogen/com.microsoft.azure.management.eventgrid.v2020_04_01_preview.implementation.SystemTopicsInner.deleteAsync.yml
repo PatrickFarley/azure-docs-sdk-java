@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicsInner.deleteAsync(String resourceGroupName, String systemTopicName)"
   name: "deleteAsync(String resourceGroupName, String systemTopicName)"
   nameWithType: "SystemTopicsInner.deleteAsync(String resourceGroupName, String systemTopicName)"
-  summary: "Delete a system topic.\n Delete existing system topic."
+  summary: "Delete a system topic. Delete existing system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicsInner.deleteAsync(String resourceGroupName, String systemTopicName, ServiceCallback<Void> serviceCallback)"
   name: "deleteAsync(String resourceGroupName, String systemTopicName, ServiceCallback<Void> serviceCallback)"
   nameWithType: "SystemTopicsInner.deleteAsync(String resourceGroupName, String systemTopicName, ServiceCallback<Void> serviceCallback)"
-  summary: "Delete a system topic.\n Delete existing system topic."
+  summary: "Delete a system topic. Delete existing system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

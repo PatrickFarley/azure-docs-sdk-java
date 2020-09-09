@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.models.EventPosition.fromEnqueuedTime(Instant enqueuedDateTime)"
   name: "fromEnqueuedTime(Instant enqueuedDateTime)"
   nameWithType: "EventPosition.fromEnqueuedTime(Instant enqueuedDateTime)"
-  summary: "Creates a position at the given <xref uid=\"Instant\" data-throw-if-not-resolved=\"false\">Instant</xref>. Corresponds to a specific instance within a partition to begin\n looking for an event. The event enqueued after the requested <code>enqueuedDateTime</code> becomes the current\n position."
+  summary: "Creates a position at the given <xref uid=\"java.time.Instant\" data-throw-if-not-resolved=\"false\">Instant</xref>. Corresponds to a specific instance within a partition to begin looking for an event. The event enqueued after the requested `enqueuedDateTime` becomes the current position."
   parameters:
   - description: "The instant, in UTC, from which the next available event should be chosen."
     name: "enqueuedDateTime"

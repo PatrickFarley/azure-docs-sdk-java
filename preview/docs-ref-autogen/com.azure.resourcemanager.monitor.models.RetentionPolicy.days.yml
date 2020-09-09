@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RetentionPolicy.days()"
   name: "days()"
   nameWithType: "RetentionPolicy.days()"
-  summary: "Get the days property: the number of days for the retention in days. A value of 0 will retain the events\n indefinitely."
+  summary: "Get the days property: the number of days for the retention in days. A value of 0 will retain the events indefinitely."
   syntax: "public int days()"
   returns:
     description: "the days value."

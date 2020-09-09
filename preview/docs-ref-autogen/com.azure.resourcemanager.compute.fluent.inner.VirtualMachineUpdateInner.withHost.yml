@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineUpdateInner.withHost(SubResource host)"
   name: "withHost(SubResource host)"
   nameWithType: "VirtualMachineUpdateInner.withHost(SubResource host)"
-  summary: "Set the host property: Specifies information about the dedicated host that the virtual machine resides in.\n &lt;br&gt;&lt;br&gt;Minimum api-version: 2018-10-01."
+  summary: "Set the host property: Specifies information about the dedicated host that the virtual machine resides in. <br><br>Minimum api-version: 2018-10-01."
   parameters:
   - description: "the host value to set."
     name: "host"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureBlobFileAttributes.accessTier()"
   name: "accessTier()"
   nameWithType: "AzureBlobFileAttributes.accessTier()"
-  summary: "Returns the tier of the blob. This is only set for Page blobs on a premium storage account or for Block blobs on\n blob storage or general purpose V2 account."
+  summary: "Returns the tier of the blob. This is only set for Page blobs on a premium storage account or for Block blobs on blob storage or general purpose V2 account."
   syntax: "public AccessTier accessTier()"
   returns:
     description: "the tier of the blob."

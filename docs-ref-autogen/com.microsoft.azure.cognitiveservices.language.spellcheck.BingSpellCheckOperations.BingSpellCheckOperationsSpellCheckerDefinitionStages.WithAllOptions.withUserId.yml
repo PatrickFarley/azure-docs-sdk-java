@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.language.spellcheck.BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withUserId(String userId)"
   name: "withUserId(String userId)"
   nameWithType: "BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withUserId(String userId)"
-  summary: "A unique ID that identifies the user. Generate a unique value for each user (the value is unimportant). The\n   service uses the ID to help debug issues and improve the quality of corrections."
+  summary: "A unique ID that identifies the user. Generate a unique value for each user (the value is unimportant). The service uses the ID to help debug issues and improve the quality of corrections."
   parameters:
   - name: "userId"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

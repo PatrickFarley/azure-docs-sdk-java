@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RetentionPolicy.withDays(int days)"
   name: "withDays(int days)"
   nameWithType: "RetentionPolicy.withDays(int days)"
-  summary: "Set the days property: the number of days for the retention in days. A value of 0 will retain the events\n indefinitely."
+  summary: "Set the days property: the number of days for the retention in days. A value of 0 will retain the events indefinitely."
   parameters:
   - description: "the days value to set."
     name: "days"

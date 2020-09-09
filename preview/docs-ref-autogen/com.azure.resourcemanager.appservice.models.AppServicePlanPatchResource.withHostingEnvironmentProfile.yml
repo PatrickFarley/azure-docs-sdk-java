@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServicePlanPatchResource.withHostingEnvironmentProfile(HostingEnvironmentProfile hostingEnvironmentProfile)"
   name: "withHostingEnvironmentProfile(HostingEnvironmentProfile hostingEnvironmentProfile)"
   nameWithType: "AppServicePlanPatchResource.withHostingEnvironmentProfile(HostingEnvironmentProfile hostingEnvironmentProfile)"
-  summary: "Set the hostingEnvironmentProfile property: Specification for the App Service Environment to use for the App\n Service plan."
+  summary: "Set the hostingEnvironmentProfile property: Specification for the App Service Environment to use for the App Service plan."
   parameters:
   - description: "the hostingEnvironmentProfile value to set."
     name: "hostingEnvironmentProfile"

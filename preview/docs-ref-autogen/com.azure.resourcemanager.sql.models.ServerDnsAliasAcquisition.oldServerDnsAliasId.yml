@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ServerDnsAliasAcquisition.oldServerDnsAliasId()"
   name: "oldServerDnsAliasId()"
   nameWithType: "ServerDnsAliasAcquisition.oldServerDnsAliasId()"
-  summary: "Get the oldServerDnsAliasId property: The id of the server alias that will be acquired to point to this server\n instead."
+  summary: "Get the oldServerDnsAliasId property: The id of the server alias that will be acquired to point to this server instead."
   syntax: "public String oldServerDnsAliasId()"
   returns:
     description: "the oldServerDnsAliasId value."

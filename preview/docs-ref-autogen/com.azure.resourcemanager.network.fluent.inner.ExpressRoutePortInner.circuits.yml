@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRoutePortInner.circuits()"
   name: "circuits()"
   nameWithType: "ExpressRoutePortInner.circuits()"
-  summary: "Get the circuits property: Reference the ExpressRoute circuit(s) that are provisioned on this ExpressRoutePort\n resource."
+  summary: "Get the circuits property: Reference the ExpressRoute circuit(s) that are provisioned on this ExpressRoutePort resource."
   syntax: "public List<SubResource> circuits()"
   returns:
     description: "the circuits value."

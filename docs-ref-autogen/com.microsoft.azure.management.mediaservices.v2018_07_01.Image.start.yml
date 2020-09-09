@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.Image.start()"
   name: "start()"
   nameWithType: "Image.start()"
-  summary: "Get the position in the input video from where to start generating thumbnails. The value can be in absolute timestamp (ISO 8601, e.g: PT05S), or a frame count (For example, 10 for the 10th frame), or a relative value (For example, 1%). Also supports a macro {Best}, which tells the encoder to select the best thumbnail from the first few seconds of the video."
+  summary: "Get the position in the input video from where to start generating thumbnails. The value can be in absolute timestamp (ISO 8601, e.g: PT05S), or a frame count (For example, 10 for the 10th frame), or a relative value (For example, 1%). Also supports a macro \\{Best\\}, which tells the encoder to select the best thumbnail from the first few seconds of the video."
   syntax: "public String start()"
   returns:
     description: "the start value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.TimeSeriesElement.withData(List<MetricValue> data)"
   name: "withData(List<MetricValue> data)"
   nameWithType: "TimeSeriesElement.withData(List<MetricValue> data)"
-  summary: "Set the data property: An array of data points representing the metric values. This is only returned if a result\n type of data is specified."
+  summary: "Set the data property: An array of data points representing the metric values. This is only returned if a result type of data is specified."
   parameters:
   - description: "the data value to set."
     name: "data"

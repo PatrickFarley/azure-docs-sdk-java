@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceSshConfiguration.withPublicKeys(List<ContainerServiceSshPublicKey> publicKeys)"
   name: "withPublicKeys(List<ContainerServiceSshPublicKey> publicKeys)"
   nameWithType: "ContainerServiceSshConfiguration.withPublicKeys(List<ContainerServiceSshPublicKey> publicKeys)"
-  summary: "Set the publicKeys property: The list of SSH public keys used to authenticate with Linux-based VMs. Only expect\n one key specified."
+  summary: "Set the publicKeys property: The list of SSH public keys used to authenticate with Linux-based VMs. Only expect one key specified."
   parameters:
   - description: "the publicKeys value to set."
     name: "publicKeys"

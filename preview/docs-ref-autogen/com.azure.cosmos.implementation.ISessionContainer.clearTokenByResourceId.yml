@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ISessionContainer.clearTokenByResourceId(String resourceId)"
   name: "clearTokenByResourceId(String resourceId)"
   nameWithType: "ISessionContainer.clearTokenByResourceId(String resourceId)"
-  summary: "Atomically: removes partitionKeyRangeId token map associated with resourceId,\n maps resourceId to collectionFullName and removes its map as well"
+  summary: "Atomically: removes partitionKeyRangeId token map associated with resourceId, maps resourceId to collectionFullName and removes its map as well"
   parameters:
   - description: "resourceId"
     name: "resourceId"

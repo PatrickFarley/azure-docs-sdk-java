@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueCorsRule.setExposedHeaders(String exposedHeaders)"
   name: "setExposedHeaders(String exposedHeaders)"
   nameWithType: "QueueCorsRule.setExposedHeaders(String exposedHeaders)"
-  summary: "Set the exposedHeaders property: The response headers that may be sent\n in the response to the CORS request and exposed by the browser to the\n request issuer."
+  summary: "Set the exposedHeaders property: The response headers that may be sent in the response to the CORS request and exposed by the browser to the request issuer."
   parameters:
   - description: "the exposedHeaders value to set."
     name: "exposedHeaders"

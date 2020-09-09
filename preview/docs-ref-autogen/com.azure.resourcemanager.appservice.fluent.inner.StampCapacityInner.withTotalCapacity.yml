@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StampCapacityInner.withTotalCapacity(Long totalCapacity)"
   name: "withTotalCapacity(Long totalCapacity)"
   nameWithType: "StampCapacityInner.withTotalCapacity(Long totalCapacity)"
-  summary: "Set the totalCapacity property: Total capacity (# of machines, bytes of storage etc...)."
+  summary: "Set the totalCapacity property: Total capacity (\\# of machines, bytes of storage etc...)."
   parameters:
   - description: "the totalCapacity value to set."
     name: "totalCapacity"

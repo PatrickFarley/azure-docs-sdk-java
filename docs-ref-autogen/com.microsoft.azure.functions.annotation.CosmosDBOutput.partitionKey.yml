@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.functions.annotation.CosmosDBOutput.partitionKey()"
   name: "partitionKey()"
   nameWithType: "CosmosDBOutput.partitionKey()"
-  summary: "Defines the partition key path for the created collection when createIfNotExists is set to\n true. May include binding parameters."
+  summary: "Defines the partition key path for the created collection when createIfNotExists is set to true. May include binding parameters."
   syntax: "public abstract String partitionKey()"
   returns:
     description: "partitionKey of the created collection."

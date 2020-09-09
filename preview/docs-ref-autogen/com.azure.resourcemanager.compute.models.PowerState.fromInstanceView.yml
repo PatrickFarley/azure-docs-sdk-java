@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.PowerState.fromInstanceView(VirtualMachineInstanceView virtualMachineInstanceView)"
   name: "fromInstanceView(VirtualMachineInstanceView virtualMachineInstanceView)"
   nameWithType: "PowerState.fromInstanceView(VirtualMachineInstanceView virtualMachineInstanceView)"
-  summary: "Creates an instance of PowerState from the virtual machine instance view status entry corresponding to the power\n state."
+  summary: "Creates an instance of PowerState from the virtual machine instance view status entry corresponding to the power state."
   parameters:
   - description: "the virtual machine instance view"
     name: "virtualMachineInstanceView"

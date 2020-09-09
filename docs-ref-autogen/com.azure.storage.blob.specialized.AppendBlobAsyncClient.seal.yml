@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.AppendBlobAsyncClient.seal()"
   name: "seal()"
   nameWithType: "AppendBlobAsyncClient.seal()"
-  summary: "Seals an append blob, making it read only. Any subsequent appends will fail.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.seal&#40;&#41;.subscribe&#40;response -&gt; System.out.println&#40;&quot;Sealed AppendBlob&quot;&#41;&#41;;\n </pre>"
+  summary: "Seals an append blob, making it read only. Any subsequent appends will fail.\n\n**Code Samples**\n\n```java\nclient.seal().subscribe(response -> System.out.println(\"Sealed AppendBlob\"));\n```"
   syntax: "public Mono<Void> seal()"
   returns:
     description: "A reactive response signalling completion."

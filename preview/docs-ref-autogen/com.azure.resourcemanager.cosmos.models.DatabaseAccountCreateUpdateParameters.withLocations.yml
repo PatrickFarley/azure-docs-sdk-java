@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.DatabaseAccountCreateUpdateParameters.withLocations(List<Location> locations)"
   name: "withLocations(List<Location> locations)"
   nameWithType: "DatabaseAccountCreateUpdateParameters.withLocations(List<Location> locations)"
-  summary: "Set the locations property: An array that contains the georeplication locations enabled for the Cosmos DB\n account."
+  summary: "Set the locations property: An array that contains the georeplication locations enabled for the Cosmos DB account."
   parameters:
   - description: "the locations value to set."
     name: "locations"

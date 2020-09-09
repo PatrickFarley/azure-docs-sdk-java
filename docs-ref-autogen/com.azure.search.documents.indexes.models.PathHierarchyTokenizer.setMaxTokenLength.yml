@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PathHierarchyTokenizer.setMaxTokenLength(Integer maxTokenLength)"
   name: "setMaxTokenLength(Integer maxTokenLength)"
   nameWithType: "PathHierarchyTokenizer.setMaxTokenLength(Integer maxTokenLength)"
-  summary: "Set the maxTokenLength property: The maximum token length. Default and\n maximum is 300."
+  summary: "Set the maxTokenLength property: The maximum token length. Default and maximum is 300."
   parameters:
   - description: "the maxTokenLength value to set."
     name: "maxTokenLength"

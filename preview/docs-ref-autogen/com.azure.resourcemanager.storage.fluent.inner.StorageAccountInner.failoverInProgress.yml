@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.failoverInProgress()"
   name: "failoverInProgress()"
   nameWithType: "StorageAccountInner.failoverInProgress()"
-  summary: "Get the failoverInProgress property: If the failover is in progress, the value will be true, otherwise, it will\n be null."
+  summary: "Get the failoverInProgress property: If the failover is in progress, the value will be true, otherwise, it will be null."
   syntax: "public Boolean failoverInProgress()"
   returns:
     description: "the failoverInProgress value."

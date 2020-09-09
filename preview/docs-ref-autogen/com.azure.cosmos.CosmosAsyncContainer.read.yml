@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.read()"
   name: "read()"
   nameWithType: "CosmosAsyncContainer.read()"
-  summary: "Reads the current container.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon\n successful completion will contain a single Cosmos container response with\n the read container. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Reads the current container.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos container response with the read container. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   syntax: "public Mono<CosmosContainerResponse> read()"
   returns:
     description: "an <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> containing the single Cosmos container response with\n the read container or an error."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.read(CosmosContainerRequestOptions options)"
   name: "read(CosmosContainerRequestOptions options)"
   nameWithType: "CosmosAsyncContainer.read(CosmosContainerRequestOptions options)"
-  summary: "Reads the current container while specifying additional options such as If-Match.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon\n successful completion will contain a single Cosmos container response with\n the read container. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Reads the current container while specifying additional options such as If-Match.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos container response with the read container. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the Cosmos container request options."
     name: "options"

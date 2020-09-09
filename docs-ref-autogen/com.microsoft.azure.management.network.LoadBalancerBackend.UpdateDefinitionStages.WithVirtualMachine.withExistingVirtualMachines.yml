@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.LoadBalancerBackend.UpdateDefinitionStages.WithVirtualMachine<ReturnT>.withExistingVirtualMachines(HasNetworkInterfaces[] vms)"
   name: "withExistingVirtualMachines(HasNetworkInterfaces[] vms)"
   nameWithType: "LoadBalancerBackend.UpdateDefinitionStages.WithVirtualMachine<ReturnT>.withExistingVirtualMachines(HasNetworkInterfaces[] vms)"
-  summary: "Adds the specified set of virtual machines, assuming they are from the same\n availability set, to this back end address pool.\n <p>\n This will add references to the primary IP configurations of the primary network interfaces of\n the provided set of virtual machines.\n <p>\n If the virtual machines are not in the same availability set, they will not be associated with this back end.\n <p>\n Only those virtual machines will be associated with the load balancer that already have an existing\n network interface. Virtual machines without a network interface will be skipped."
+  summary: "Adds the specified set of virtual machines, assuming they are from the same availability set, to this back end address pool.\n\nThis will add references to the primary IP configurations of the primary network interfaces of the provided set of virtual machines.\n\nIf the virtual machines are not in the same availability set, they will not be associated with this back end.\n\nOnly those virtual machines will be associated with the load balancer that already have an existing network interface. Virtual machines without a network interface will be skipped."
   parameters:
   - description: "existing virtual machines"
     name: "vms"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.network.LoadBalancerBackend.UpdateDefinitionStages.WithVirtualMachine<ReturnT>.withExistingVirtualMachines(Collection<HasNetworkInterfaces> vms)"
   name: "withExistingVirtualMachines(Collection<HasNetworkInterfaces> vms)"
   nameWithType: "LoadBalancerBackend.UpdateDefinitionStages.WithVirtualMachine<ReturnT>.withExistingVirtualMachines(Collection<HasNetworkInterfaces> vms)"
-  summary: "Adds the specified set of virtual machines, assuming they are from the same\n availability set, to this backend address pool.\n <p>\n This will add references to the primary IP configurations of the primary network interfaces of\n the provided set of virtual machines.\n <p>\n If the virtual machines are not in the same availability set, they will not be associated with this back end.\n <p>\n Only those virtual machines will be associated with the load balancer that already have an existing\n network interface. Virtual machines without a network interface will be skipped."
+  summary: "Adds the specified set of virtual machines, assuming they are from the same availability set, to this backend address pool.\n\nThis will add references to the primary IP configurations of the primary network interfaces of the provided set of virtual machines.\n\nIf the virtual machines are not in the same availability set, they will not be associated with this back end.\n\nOnly those virtual machines will be associated with the load balancer that already have an existing network interface. Virtual machines without a network interface will be skipped."
   parameters:
   - description: "existing virtual machines"
     name: "vms"

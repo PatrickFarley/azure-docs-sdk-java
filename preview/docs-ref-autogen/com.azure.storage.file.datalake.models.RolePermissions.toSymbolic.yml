@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.RolePermissions.toSymbolic()"
   name: "toSymbolic()"
   nameWithType: "RolePermissions.toSymbolic()"
-  summary: "Converts the <code>RolePermissions</code> instance into its symbolic representation."
+  summary: "Converts the `RolePermissions` instance into its symbolic representation."
   syntax: "public String toSymbolic()"
   returns:
     description: "The <code>String</code> representation of the permission."

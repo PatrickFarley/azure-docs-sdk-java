@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.MetricAlertResourceInner.windowSize()"
   name: "windowSize()"
   nameWithType: "MetricAlertResourceInner.windowSize()"
-  summary: "Get the windowSize property: the period of time (in ISO 8601 duration format) that is used to monitor alert\n activity based on the threshold."
+  summary: "Get the windowSize property: the period of time (in ISO 8601 duration format) that is used to monitor alert activity based on the threshold."
   syntax: "public Duration windowSize()"
   returns:
     description: "the windowSize value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.resetProductionSlotConfigWithResponseAsync(String resourceGroupName, String name)"
   name: "resetProductionSlotConfigWithResponseAsync(String resourceGroupName, String name)"
   nameWithType: "WebAppsClient.resetProductionSlotConfigWithResponseAsync(String resourceGroupName, String name)"
-  summary: "Description for Resets the configuration settings of the current slot if they were previously modified by calling\n the API with POST."
+  summary: "Description for Resets the configuration settings of the current slot if they were previously modified by calling the API with POST."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.resetProductionSlotConfigWithResponseAsync(String resourceGroupName, String name, Context context)"
   name: "resetProductionSlotConfigWithResponseAsync(String resourceGroupName, String name, Context context)"
   nameWithType: "WebAppsClient.resetProductionSlotConfigWithResponseAsync(String resourceGroupName, String name, Context context)"
-  summary: "Description for Resets the configuration settings of the current slot if they were previously modified by calling\n the API with POST."
+  summary: "Description for Resets the configuration settings of the current slot if they were previously modified by calling the API with POST."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

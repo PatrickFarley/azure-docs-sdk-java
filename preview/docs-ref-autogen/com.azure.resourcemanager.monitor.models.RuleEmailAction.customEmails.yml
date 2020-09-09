@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RuleEmailAction.customEmails()"
   name: "customEmails()"
   nameWithType: "RuleEmailAction.customEmails()"
-  summary: "Get the customEmails property: the list of administrator's custom email addresses to notify of the activation of\n the alert."
+  summary: "Get the customEmails property: the list of administrator's custom email addresses to notify of the activation of the alert."
   syntax: "public List<String> customEmails()"
   returns:
     description: "the customEmails value."

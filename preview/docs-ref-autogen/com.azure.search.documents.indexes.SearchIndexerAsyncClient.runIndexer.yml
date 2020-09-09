@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.runIndexer(String indexerName)"
   name: "runIndexer(String indexerName)"
   nameWithType: "SearchIndexerAsyncClient.runIndexer(String indexerName)"
-  summary: "Runs an indexer on-demand.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Run search indexer named \"searchIndexer\".  </p>\n\n <pre>\n searchIndexerAsyncClient.runIndexer&#40;&quot;searchIndexer&quot;&#41;\n     .subscribe&#40;&#41;;\n </pre>"
+  summary: "Runs an indexer on-demand.\n\n**Code Sample**\n\nRun search indexer named \"searchIndexer\".\n\n```java\nsearchIndexerAsyncClient.runIndexer(\"searchIndexer\")\n     .subscribe();\n```"
   parameters:
   - description: "the name of the indexer to run"
     name: "indexerName"

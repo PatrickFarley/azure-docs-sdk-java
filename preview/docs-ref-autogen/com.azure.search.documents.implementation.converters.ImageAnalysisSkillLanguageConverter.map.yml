@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ImageAnalysisSkillLanguageConverter.map(ImageAnalysisSkillLanguage obj)"
   name: "map(ImageAnalysisSkillLanguage obj)"
   nameWithType: "ImageAnalysisSkillLanguageConverter.map(ImageAnalysisSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage</xref> to enum\n <xref uid=\"ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">ImageAnalysisSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">ImageAnalysisSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage?alt=com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage&text=ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ImageAnalysisSkillLanguageConverter.map(ImageAnalysisSkillLanguage obj)"
   name: "map(ImageAnalysisSkillLanguage obj)"
   nameWithType: "ImageAnalysisSkillLanguageConverter.map(ImageAnalysisSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">ImageAnalysisSkillLanguage</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">ImageAnalysisSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageAnalysisSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.ImageAnalysisSkillLanguage?alt=com.azure.search.documents.indexes.models.ImageAnalysisSkillLanguage&text=ImageAnalysisSkillLanguage\" data-throw-if-not-resolved=\"False\" />"

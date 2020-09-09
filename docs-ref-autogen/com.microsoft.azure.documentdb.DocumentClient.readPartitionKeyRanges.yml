@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DocumentClient.readPartitionKeyRanges(DocumentCollection documentCollection, FeedOptions options)"
   name: "readPartitionKeyRanges(DocumentCollection documentCollection, FeedOptions options)"
   nameWithType: "DocumentClient.readPartitionKeyRanges(DocumentCollection documentCollection, FeedOptions options)"
-  summary: "Reads all partition key ranges in a document collection.\n <p>\n Example:\n <pre>\n FeedResponse&lt;PartitionKeyRange&gt; partitionKeyRanges = this.client.readPartitionKeyRanges(coll, null);\n List&lt;String&gt; ids = new ArrayList&lt;String&gt;();\n for (PartitionKeyRange range : partitionKeyRanges.getQueryIterable()) {\n     ids.add(range.getId());\n }\n </pre>"
+  summary: "Reads all partition key ranges in a document collection.\n\nExample:\n\n```java\nFeedResponse<PartitionKeyRange> partitionKeyRanges = this.client.readPartitionKeyRanges(coll, null);\n List<String> ids = new ArrayList<String>();\n for (PartitionKeyRange range : partitionKeyRanges.getQueryIterable()) {\n     ids.add(range.getId());\n }\n```"
   parameters:
   - description: "the document collection."
     name: "documentCollection"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DocumentClient.readPartitionKeyRanges(String collectionLink, FeedOptions options)"
   name: "readPartitionKeyRanges(String collectionLink, FeedOptions options)"
   nameWithType: "DocumentClient.readPartitionKeyRanges(String collectionLink, FeedOptions options)"
-  summary: "Reads all partition key ranges in a document collection.\n <p>\n Example:\n <pre>\n FeedResponse&lt;PartitionKeyRange&gt; partitionKeyRanges = this.client.readPartitionKeyRanges(coll, null);\n List&lt;String&gt; ids = new ArrayList&lt;String&gt;();\n for (PartitionKeyRange range : partitionKeyRanges.getQueryIterable()) {\n     ids.add(range.getId());\n }\n </pre>"
+  summary: "Reads all partition key ranges in a document collection.\n\nExample:\n\n```java\nFeedResponse<PartitionKeyRange> partitionKeyRanges = this.client.readPartitionKeyRanges(coll, null);\n List<String> ids = new ArrayList<String>();\n for (PartitionKeyRange range : partitionKeyRanges.getQueryIterable()) {\n     ids.add(range.getId());\n }\n```"
   parameters:
   - description: "the collection link."
     name: "collectionLink"

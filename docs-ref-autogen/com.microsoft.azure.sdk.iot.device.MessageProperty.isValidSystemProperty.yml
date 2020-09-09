@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.MessageProperty.isValidSystemProperty(String name, String value)"
   name: "isValidSystemProperty(String name, String value)"
   nameWithType: "MessageProperty.isValidSystemProperty(String name, String value)"
-  summary: "Returns whether the property is a valid system property. The\n property is valid if it is one of the reserved properties and only uses US-ASCII"
+  summary: "Returns whether the property is a valid system property. The property is valid if it is one of the reserved properties and only uses US-ASCII"
   parameters:
   - description: "the property name."
     name: "name"

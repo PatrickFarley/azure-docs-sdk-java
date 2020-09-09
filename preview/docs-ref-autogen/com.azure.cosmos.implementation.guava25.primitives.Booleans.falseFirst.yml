@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Booleans.falseFirst()"
   name: "falseFirst()"
   nameWithType: "Booleans.falseFirst()"
-  summary: "Returns a <code>Comparator<Boolean></code> that sorts <code>false</code> before <code>true</code>.\n\n <p>This is particularly useful in Java 8+ in combination with <code>Comparators.comparing</code>,\n e.g. <code>Comparators.comparing(Foo::hasBar, falseFirst())</code>."
+  summary: "Returns a `Comparator` that sorts `false` before `true`.\n\nThis is particularly useful in Java 8+ in combination with `Comparators.comparing`, e.g. `Comparators.comparing(Foo::hasBar, falseFirst())`."
   syntax: "public static Comparator<Boolean> falseFirst()"
   returns:
     type: "<xref href=\"java.util.Comparator?alt=java.util.Comparator&text=Comparator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />&gt;"

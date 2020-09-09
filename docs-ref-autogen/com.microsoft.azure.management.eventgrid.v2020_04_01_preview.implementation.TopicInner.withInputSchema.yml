@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicInner.withInputSchema(InputSchema inputSchema)"
   name: "withInputSchema(InputSchema inputSchema)"
   nameWithType: "TopicInner.withInputSchema(InputSchema inputSchema)"
-  summary: "Set this determines the format that Event Grid should expect for incoming events published to the topic. Possible values include: 'EventGridSchema', 'CustomEventSchema', 'CloudEventSchemaV1_0'."
+  summary: "Set this determines the format that Event Grid should expect for incoming events published to the topic. Possible values include: 'EventGridSchema', 'CustomEventSchema', 'CloudEventSchemaV1\\_0'."
   parameters:
   - description: "the inputSchema value to set"
     name: "inputSchema"

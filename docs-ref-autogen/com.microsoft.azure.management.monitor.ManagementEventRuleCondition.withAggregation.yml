@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.ManagementEventRuleCondition.withAggregation(ManagementEventAggregationCondition aggregation)"
   name: "withAggregation(ManagementEventAggregationCondition aggregation)"
   nameWithType: "ManagementEventRuleCondition.withAggregation(ManagementEventAggregationCondition aggregation)"
-  summary: "Set how the data that is collected should be combined over time and when the alert is activated. Note that for management event alerts aggregation is optional \\u2013 if it is not provided then any event will cause the alert to activate."
+  summary: "Set how the data that is collected should be combined over time and when the alert is activated. Note that for management event alerts aggregation is optional \\\\u2013 if it is not provided then any event will cause the alert to activate."
   parameters:
   - description: "the aggregation value to set"
     name: "aggregation"

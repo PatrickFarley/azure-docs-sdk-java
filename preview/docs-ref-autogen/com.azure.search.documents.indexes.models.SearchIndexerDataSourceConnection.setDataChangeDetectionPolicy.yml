@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection.setDataChangeDetectionPolicy(DataChangeDetectionPolicy dataChangeDetectionPolicy)"
   name: "setDataChangeDetectionPolicy(DataChangeDetectionPolicy dataChangeDetectionPolicy)"
   nameWithType: "SearchIndexerDataSourceConnection.setDataChangeDetectionPolicy(DataChangeDetectionPolicy dataChangeDetectionPolicy)"
-  summary: "Set the dataChangeDetectionPolicy property: The data change detection\n policy for the datasource."
+  summary: "Set the dataChangeDetectionPolicy property: The data change detection policy for the datasource."
   parameters:
   - description: "the dataChangeDetectionPolicy value to\n set."
     name: "dataChangeDetectionPolicy"

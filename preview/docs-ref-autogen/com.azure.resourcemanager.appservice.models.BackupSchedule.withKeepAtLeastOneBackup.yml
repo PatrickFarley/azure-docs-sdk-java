@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.BackupSchedule.withKeepAtLeastOneBackup(boolean keepAtLeastOneBackup)"
   name: "withKeepAtLeastOneBackup(boolean keepAtLeastOneBackup)"
   nameWithType: "BackupSchedule.withKeepAtLeastOneBackup(boolean keepAtLeastOneBackup)"
-  summary: "Set the keepAtLeastOneBackup property: True if the retention policy should always keep at least one backup in the\n storage account, regardless how old it is; false otherwise."
+  summary: "Set the keepAtLeastOneBackup property: True if the retention policy should always keep at least one backup in the storage account, regardless how old it is; false otherwise."
   parameters:
   - description: "the keepAtLeastOneBackup value to set."
     name: "keepAtLeastOneBackup"

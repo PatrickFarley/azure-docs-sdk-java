@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineInner.proximityPlacementGroup()"
   name: "proximityPlacementGroup()"
   nameWithType: "VirtualMachineInner.proximityPlacementGroup()"
-  summary: "Get the proximityPlacementGroup property: Specifies information about the proximity placement group that the\n virtual machine should be assigned to. &lt;br&gt;&lt;br&gt;Minimum api-version: 2018-04-01."
+  summary: "Get the proximityPlacementGroup property: Specifies information about the proximity placement group that the virtual machine should be assigned to. <br><br>Minimum api-version: 2018-04-01."
   syntax: "public SubResource proximityPlacementGroup()"
   returns:
     description: "the proximityPlacementGroup value."

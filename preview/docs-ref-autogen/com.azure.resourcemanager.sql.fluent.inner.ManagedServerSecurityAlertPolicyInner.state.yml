@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedServerSecurityAlertPolicyInner.state()"
   name: "state()"
   nameWithType: "ManagedServerSecurityAlertPolicyInner.state()"
-  summary: "Get the state property: Specifies the state of the policy, whether it is enabled or disabled or a policy has not\n been applied yet on the specific database."
+  summary: "Get the state property: Specifies the state of the policy, whether it is enabled or disabled or a policy has not been applied yet on the specific database."
   syntax: "public SecurityAlertPolicyState state()"
   returns:
     description: "the state value."

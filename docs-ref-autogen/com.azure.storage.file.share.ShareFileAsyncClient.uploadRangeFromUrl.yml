@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileAsyncClient.uploadRangeFromUrl(long length, long destinationOffset, long sourceOffset, String sourceUrl)"
   name: "uploadRangeFromUrl(long length, long destinationOffset, long sourceOffset, String sourceUrl)"
   nameWithType: "ShareFileAsyncClient.uploadRangeFromUrl(long length, long destinationOffset, long sourceOffset, String sourceUrl)"
-  summary: "Uploads a range of bytes from one file to another file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Upload a number of bytes from a file at defined source and destination offsets </p>\n\n <pre>\n shareFileAsyncClient.uploadRangeFromUrl&#40;6, 8, 0, &quot;sourceUrl&quot;&#41;.subscribe&#40;\n     response -&gt; &#123; &#125;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Completed upload range from url!&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/put-range\">Azure Docs</a>.</p>"
+  summary: "Uploads a range of bytes from one file to another file.\n\n**Code Samples**\n\nUpload a number of bytes from a file at defined source and destination offsets\n\n```java\nshareFileAsyncClient.uploadRangeFromUrl(6, 8, 0, \"sourceUrl\").subscribe(\n     response -> { },\n     error -> System.err.print(error.toString()),\n     () -> System.out.println(\"Completed upload range from url!\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/put-range"
   parameters:
   - description: "Specifies the number of bytes being transmitted in the request body."
     name: "length"

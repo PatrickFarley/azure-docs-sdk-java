@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.ValidateRequest.needLinuxWorkers()"
   name: "needLinuxWorkers()"
   nameWithType: "ValidateRequest.needLinuxWorkers()"
-  summary: "Get the needLinuxWorkers property: &lt;code&gt;true&lt;/code&gt; if App Service plan is for Linux workers;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the needLinuxWorkers property: <code>true</code> if App Service plan is for Linux workers; otherwise, <code>false</code>."
   syntax: "public Boolean needLinuxWorkers()"
   returns:
     description: "the needLinuxWorkers value."

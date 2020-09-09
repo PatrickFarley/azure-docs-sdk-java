@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.ListContainerItemInner.publicAccess()"
   name: "publicAccess()"
   nameWithType: "ListContainerItemInner.publicAccess()"
-  summary: "Get the publicAccess property: Specifies whether data in the container may be accessed publicly and the level of\n access."
+  summary: "Get the publicAccess property: Specifies whether data in the container may be accessed publicly and the level of access."
   syntax: "public PublicAccess publicAccess()"
   returns:
     description: "the publicAccess value."

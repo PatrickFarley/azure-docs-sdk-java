@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.SnapshotRestoreRequest.withOverwrite(Boolean overwrite)"
   name: "withOverwrite(Boolean overwrite)"
   nameWithType: "SnapshotRestoreRequest.withOverwrite(Boolean overwrite)"
-  summary: "Set the overwrite property: If &lt;code&gt;true&lt;/code&gt; the restore operation can overwrite source app;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the overwrite property: If <code>true</code> the restore operation can overwrite source app; otherwise, <code>false</code>."
   parameters:
   - description: "the overwrite value to set."
     name: "overwrite"

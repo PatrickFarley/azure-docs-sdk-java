@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MicrosoftLanguageStemmingTokenizer.getLanguage()"
   name: "getLanguage()"
   nameWithType: "MicrosoftLanguageStemmingTokenizer.getLanguage()"
-  summary: "Get the language property: The language to use. The default is English.\n Possible values include: 'Arabic', 'Bangla', 'Bulgarian', 'Catalan',\n 'Croatian', 'Czech', 'Danish', 'Dutch', 'English', 'Estonian',\n 'Finnish', 'French', 'German', 'Greek', 'Gujarati', 'Hebrew', 'Hindi',\n 'Hungarian', 'Icelandic', 'Indonesian', 'Italian', 'Kannada', 'Latvian',\n 'Lithuanian', 'Malay', 'Malayalam', 'Marathi', 'NorwegianBokmaal',\n 'Polish', 'Portuguese', 'PortugueseBrazilian', 'Punjabi', 'Romanian',\n 'Russian', 'SerbianCyrillic', 'SerbianLatin', 'Slovak', 'Slovenian',\n 'Spanish', 'Swedish', 'Tamil', 'Telugu', 'Turkish', 'Ukrainian', 'Urdu'."
+  summary: "Get the language property: The language to use. The default is English. Possible values include: 'Arabic', 'Bangla', 'Bulgarian', 'Catalan', 'Croatian', 'Czech', 'Danish', 'Dutch', 'English', 'Estonian', 'Finnish', 'French', 'German', 'Greek', 'Gujarati', 'Hebrew', 'Hindi', 'Hungarian', 'Icelandic', 'Indonesian', 'Italian', 'Kannada', 'Latvian', 'Lithuanian', 'Malay', 'Malayalam', 'Marathi', 'NorwegianBokmaal', 'Polish', 'Portuguese', 'PortugueseBrazilian', 'Punjabi', 'Romanian', 'Russian', 'SerbianCyrillic', 'SerbianLatin', 'Slovak', 'Slovenian', 'Spanish', 'Swedish', 'Tamil', 'Telugu', 'Turkish', 'Ukrainian', 'Urdu'."
   syntax: "public MicrosoftStemmingTokenizerLanguage getLanguage()"
   returns:
     description: "the language value."

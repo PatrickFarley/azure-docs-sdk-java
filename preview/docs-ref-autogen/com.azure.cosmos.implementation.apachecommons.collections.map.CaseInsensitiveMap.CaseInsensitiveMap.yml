@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.CaseInsensitiveMap<K,V>.CaseInsensitiveMap(int initialCapacity, float loadFactor)"
   name: "CaseInsensitiveMap(int initialCapacity, float loadFactor)"
   nameWithType: "CaseInsensitiveMap<K,V>.CaseInsensitiveMap(int initialCapacity, float loadFactor)"
-  summary: "Constructs a new, empty map with the specified initial capacity and\n load factor."
+  summary: "Constructs a new, empty map with the specified initial capacity and load factor."
   parameters:
   - description: "the initial capacity"
     name: "initialCapacity"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.CaseInsensitiveMap<K,V>.CaseInsensitiveMap(Map<? extends K,? extends V> map)"
   name: "CaseInsensitiveMap(Map<? extends K,? extends V> map)"
   nameWithType: "CaseInsensitiveMap<K,V>.CaseInsensitiveMap(Map<? extends K,? extends V> map)"
-  summary: "Constructor copying elements from another map.\n <p>\n Keys will be converted to lower case strings, which may cause\n some entries to be removed (if string representation of keys differ\n only by character case)."
+  summary: "Constructor copying elements from another map.\n\nKeys will be converted to lower case strings, which may cause some entries to be removed (if string representation of keys differ only by character case)."
   parameters:
   - description: "the map to copy"
     name: "map"

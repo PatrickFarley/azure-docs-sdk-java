@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SwiftVirtualNetworkInner.withSubnetResourceId(String subnetResourceId)"
   name: "withSubnetResourceId(String subnetResourceId)"
   nameWithType: "SwiftVirtualNetworkInner.withSubnetResourceId(String subnetResourceId)"
-  summary: "Set the subnetResourceId property: The Virtual Network subnet's resource ID. This is the subnet that this Web App\n will join. This subnet must have a delegation to Microsoft.Web/serverFarms defined first."
+  summary: "Set the subnetResourceId property: The Virtual Network subnet's resource ID. This is the subnet that this Web App will join. This subnet must have a delegation to Microsoft.Web/serverFarms defined first."
   parameters:
   - description: "the subnetResourceId value to set."
     name: "subnetResourceId"

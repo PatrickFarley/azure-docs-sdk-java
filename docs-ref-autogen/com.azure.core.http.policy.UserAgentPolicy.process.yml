@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.policy.UserAgentPolicy.process(HttpPipelineCallContext context, HttpPipelineNextPolicy next)"
   name: "process(HttpPipelineCallContext context, HttpPipelineNextPolicy next)"
   nameWithType: "UserAgentPolicy.process(HttpPipelineCallContext context, HttpPipelineNextPolicy next)"
-  summary: "Updates the \"User-Agent\" header with the value supplied in the policy.\n\n <p>The <code>context</code> will be checked for <code>Override-User-Agent</code> and <code>Append-User-Agent</code>.\n <code>Override-User-Agent</code> will take precedence over the value supplied in the policy,\n <code>Append-User-Agent</code> will be appended to the value supplied in the policy.</p>"
+  summary: "Updates the \"User-Agent\" header with the value supplied in the policy.\n\nThe `context` will be checked for `Override-User-Agent` and `Append-User-Agent`. `Override-User-Agent` will take precedence over the value supplied in the policy, `Append-User-Agent` will be appended to the value supplied in the policy."
   parameters:
   - description: "request context"
     name: "context"

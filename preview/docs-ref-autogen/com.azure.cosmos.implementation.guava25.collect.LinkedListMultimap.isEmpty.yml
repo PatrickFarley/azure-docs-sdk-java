@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.LinkedListMultimap<K,V>.isEmpty()"
   name: "isEmpty()"
   nameWithType: "LinkedListMultimap<K,V>.isEmpty()"
-  summary: "Returns <code>true</code> if this multimap contains no key-value pairs. Equivalent to <code>size()\n == 0</code>, but can in some cases be more efficient."
+  summary: "Returns `true` if this multimap contains no key-value pairs. Equivalent to `size() == 0`, but can in some cases be more efficient."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractMultimap.isEmpty()"
   syntax: "public boolean isEmpty()"
   returns:

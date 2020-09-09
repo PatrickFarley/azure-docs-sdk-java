@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakePathAsyncClient.getProperties()"
   name: "getProperties()"
   nameWithType: "DataLakePathAsyncClient.getProperties()"
-  summary: "Returns the resources's metadata and properties.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.getProperties&#40;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Creation Time: %s, Size: %d%n&quot;, response.getCreationTime&#40;&#41;, response.getFileSize&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties\">Azure Docs</a></p>"
+  summary: "Returns the resources's metadata and properties.\n\n**Code Samples**\n\n```java\nclient.getProperties().subscribe(response ->\n     System.out.printf(\"Creation Time: %s, Size: %d%n\", response.getCreationTime(), response.getFileSize()));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties"
   syntax: "public Mono<PathProperties> getProperties()"
   returns:
     description: "A reactive response containing the resource's properties and metadata."

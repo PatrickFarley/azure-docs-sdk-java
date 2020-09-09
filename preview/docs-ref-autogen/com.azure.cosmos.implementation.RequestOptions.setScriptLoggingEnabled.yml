@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestOptions.setScriptLoggingEnabled(boolean scriptLoggingEnabled)"
   name: "setScriptLoggingEnabled(boolean scriptLoggingEnabled)"
   nameWithType: "RequestOptions.setScriptLoggingEnabled(boolean scriptLoggingEnabled)"
-  summary: "Sets whether Javascript stored procedure logging is enabled for the current request in the Azure Cosmos DB database\n service or not."
+  summary: "Sets whether Javascript stored procedure logging is enabled for the current request in the Azure Cosmos DB database service or not."
   parameters:
   - description: "true if stored procedure Javascript logging is enabled"
     name: "scriptLoggingEnabled"

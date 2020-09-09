@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.OAuth2Permission.withValue(String value)"
   name: "withValue(String value)"
   nameWithType: "OAuth2Permission.withValue(String value)"
-  summary: "Set the value property: The value of the scope claim that the resource application should expect in the OAuth 2.0\n access token."
+  summary: "Set the value property: The value of the scope claim that the resource application should expect in the OAuth 2.0 access token."
   parameters:
   - description: "the value value to set."
     name: "value"

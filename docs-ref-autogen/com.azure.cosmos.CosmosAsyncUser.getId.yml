@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncUser.getId()"
   name: "getId()"
   nameWithType: "CosmosAsyncUser.getId()"
-  summary: "Get the id of the <xref uid=\"CosmosAsyncUser\" data-throw-if-not-resolved=\"false\">CosmosAsyncUser</xref>"
+  summary: "Get the id of the <xref uid=\"com.azure.cosmos.CosmosAsyncUser\" data-throw-if-not-resolved=\"false\">CosmosAsyncUser</xref>"
   syntax: "public String getId()"
   returns:
     description: "the id of the <xref uid=\"com.azure.cosmos.CosmosAsyncUser\" data-throw-if-not-resolved=\"false\">CosmosAsyncUser</xref>"

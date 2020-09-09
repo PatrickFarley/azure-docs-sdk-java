@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WordDelimiterTokenFilter.generateWordParts()"
   name: "generateWordParts()"
   nameWithType: "WordDelimiterTokenFilter.generateWordParts()"
-  summary: "Get the generateWordParts property: A value indicating whether to\n generate part words. If set, causes parts of words to be generated; for\n example \"AzureSearch\" becomes \"Azure\" \"Search\". Default is true."
+  summary: "Get the generateWordParts property: A value indicating whether to generate part words. If set, causes parts of words to be generated; for example \"AzureSearch\" becomes \"Azure\" \"Search\". Default is true."
   syntax: "public Boolean generateWordParts()"
   returns:
     description: "the generateWordParts value."

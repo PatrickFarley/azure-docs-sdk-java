@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listNext(String nextPageLink)"
   name: "listNext(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listNext(String nextPageLink)"
-  summary: "Get an aggregated list of all global event subscriptions under an Azure subscription.\n List all aggregated global event subscriptions under a specific Azure subscription."
+  summary: "Get an aggregated list of all global event subscriptions under an Azure subscription. List all aggregated global event subscriptions under a specific Azure subscription."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

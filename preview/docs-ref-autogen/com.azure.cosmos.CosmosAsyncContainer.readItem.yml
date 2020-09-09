@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>readItem(String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options, Class<T> itemType)"
   name: "<T>readItem(String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options, Class<T> itemType)"
   nameWithType: "CosmosAsyncContainer.<T>readItem(String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options, Class<T> itemType)"
-  summary: "Reads an item using a configured <xref uid=\"CosmosItemRequestOptions\" data-throw-if-not-resolved=\"false\">CosmosItemRequestOptions</xref>.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a Cosmos item response with the read item."
+  summary: "Reads an item using a configured <xref uid=\"com.azure.cosmos.models.CosmosItemRequestOptions\" data-throw-if-not-resolved=\"false\">CosmosItemRequestOptions</xref>.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a Cosmos item response with the read item."
   parameters:
   - description: "the item id."
     name: "itemId"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>readItem(String itemId, PartitionKey partitionKey, Class<T> itemType)"
   name: "<T>readItem(String itemId, PartitionKey partitionKey, Class<T> itemType)"
   nameWithType: "CosmosAsyncContainer.<T>readItem(String itemId, PartitionKey partitionKey, Class<T> itemType)"
-  summary: "Reads an item.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain an item response with the read item."
+  summary: "Reads an item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain an item response with the read item."
   parameters:
   - description: "the item id."
     name: "itemId"

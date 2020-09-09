@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.getByResourceGroupAsync(String resourceGroupName, String partnerTopicName)"
   name: "getByResourceGroupAsync(String resourceGroupName, String partnerTopicName)"
   nameWithType: "PartnerTopicsInner.getByResourceGroupAsync(String resourceGroupName, String partnerTopicName)"
-  summary: "Get a partner topic.\n Get properties of a partner topic."
+  summary: "Get a partner topic. Get properties of a partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.getByResourceGroupAsync(String resourceGroupName, String partnerTopicName, ServiceCallback<PartnerTopicInner> serviceCallback)"
   name: "getByResourceGroupAsync(String resourceGroupName, String partnerTopicName, ServiceCallback<PartnerTopicInner> serviceCallback)"
   nameWithType: "PartnerTopicsInner.getByResourceGroupAsync(String resourceGroupName, String partnerTopicName, ServiceCallback<PartnerTopicInner> serviceCallback)"
-  summary: "Get a partner topic.\n Get properties of a partner topic."
+  summary: "Get a partner topic. Get properties of a partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

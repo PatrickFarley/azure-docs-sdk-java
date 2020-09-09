@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextAnalyticsError.getErrorCode()"
   name: "getErrorCode()"
   nameWithType: "TextAnalyticsError.getErrorCode()"
-  summary: "Get the code property: Error code. Possible values include:\n 'invalidRequest', 'invalidArgument', 'internalServerError',\n 'serviceUnavailable'."
+  summary: "Get the code property: Error code. Possible values include: 'invalidRequest', 'invalidArgument', 'internalServerError', 'serviceUnavailable'."
   syntax: "public TextAnalyticsErrorCode getErrorCode()"
   returns:
     description: "The code value."

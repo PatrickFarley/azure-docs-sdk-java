@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.serializer.JsonObject.set(String name, JsonNode jsonNode)"
   name: "set(String name, JsonNode jsonNode)"
   nameWithType: "JsonObject.set(String name, JsonNode jsonNode)"
-  summary: "Sets the <xref uid=\"JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> field with the specified name with a new node value."
+  summary: "Sets the <xref uid=\"com.azure.core.experimental.serializer.JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> field with the specified name with a new node value."
   parameters:
   - description: "Name of the node."
     name: "name"

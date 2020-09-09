@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventChannelFilter.withSubjectBeginsWith(String subjectBeginsWith)"
   name: "withSubjectBeginsWith(String subjectBeginsWith)"
   nameWithType: "EventChannelFilter.withSubjectBeginsWith(String subjectBeginsWith)"
-  summary: "Set an optional string to filter events for an event channel based on a resource path prefix.\n     The format of this depends on the publisher of the events. Wildcard characters are not supported in this path."
+  summary: "Set an optional string to filter events for an event channel based on a resource path prefix. The format of this depends on the publisher of the events. Wildcard characters are not supported in this path."
   parameters:
   - description: "the subjectBeginsWith value to set"
     name: "subjectBeginsWith"

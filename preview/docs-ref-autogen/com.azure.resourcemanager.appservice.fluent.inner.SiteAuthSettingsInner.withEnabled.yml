@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.withEnabled(Boolean enabled)"
   name: "withEnabled(Boolean enabled)"
   nameWithType: "SiteAuthSettingsInner.withEnabled(Boolean enabled)"
-  summary: "Set the enabled property: &lt;code&gt;true&lt;/code&gt; if the Authentication / Authorization feature is enabled\n for the current app; otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the enabled property: <code>true</code> if the Authentication / Authorization feature is enabled for the current app; otherwise, <code>false</code>."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

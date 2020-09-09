@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.AccessPolicyEntry.withObjectId(String objectId)"
   name: "withObjectId(String objectId)"
   nameWithType: "AccessPolicyEntry.withObjectId(String objectId)"
-  summary: "Set the objectId property: The object ID of a user, service principal or security group in the Azure Active\n Directory tenant for the vault. The object ID must be unique for the list of access policies."
+  summary: "Set the objectId property: The object ID of a user, service principal or security group in the Azure Active Directory tenant for the vault. The object ID must be unique for the list of access policies."
   parameters:
   - description: "the objectId value to set."
     name: "objectId"

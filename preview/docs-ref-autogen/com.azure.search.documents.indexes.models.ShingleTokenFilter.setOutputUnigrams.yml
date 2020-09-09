@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ShingleTokenFilter.setOutputUnigrams(Boolean outputUnigrams)"
   name: "setOutputUnigrams(Boolean outputUnigrams)"
   nameWithType: "ShingleTokenFilter.setOutputUnigrams(Boolean outputUnigrams)"
-  summary: "Set the outputUnigrams property: A value indicating whether the output\n stream will contain the input tokens (unigrams) as well as shingles.\n Default is true."
+  summary: "Set the outputUnigrams property: A value indicating whether the output stream will contain the input tokens (unigrams) as well as shingles. Default is true."
   parameters:
   - description: "the outputUnigrams value to set."
     name: "outputUnigrams"

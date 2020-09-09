@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetSkuTypes.STANDARD_A10"
   name: "STANDARD_A10"
   nameWithType: "VirtualMachineScaleSetSkuTypes.STANDARD_A10"
-  summary: "Static value Standard_A10 for VirtualMachineScaleSetSkuTypes."
+  summary: "Static value Standard\\_A10 for VirtualMachineScaleSetSkuTypes."
   syntax: "public static final VirtualMachineScaleSetSkuTypes STANDARD_A10"
 type: "field"
 metadata: {}

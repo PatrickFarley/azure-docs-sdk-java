@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayOnDemandProbe.path()"
   name: "path()"
   nameWithType: "ApplicationGatewayOnDemandProbe.path()"
-  summary: "Get relative path of probe. Valid path starts from '/'. Probe is sent to &lt;Protocol&gt;://&lt;host&gt;:&lt;port&gt;&lt;path&gt;."
+  summary: "Get relative path of probe. Valid path starts from '/'. Probe is sent to <Protocol>://<host>:<port><path>."
   syntax: "public String path()"
   returns:
     description: "the path value"

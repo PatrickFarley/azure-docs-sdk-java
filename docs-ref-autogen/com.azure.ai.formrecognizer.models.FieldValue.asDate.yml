@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FieldValue.asDate()"
   name: "asDate()"
   nameWithType: "FieldValue.asDate()"
-  summary: "Gets the value of the field as a <xref uid=\"LocalDate\" data-throw-if-not-resolved=\"false\">LocalDate</xref>."
+  summary: "Gets the value of the field as a <xref uid=\"java.time.LocalDate\" data-throw-if-not-resolved=\"false\">LocalDate</xref>."
   syntax: "public LocalDate asDate()"
   returns:
     description: "the value of the field as a <xref uid=\"java.time.LocalDate\" data-throw-if-not-resolved=\"false\">LocalDate</xref>."

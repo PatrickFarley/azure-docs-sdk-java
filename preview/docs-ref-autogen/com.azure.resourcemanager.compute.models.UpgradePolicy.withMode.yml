@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.UpgradePolicy.withMode(UpgradeMode mode)"
   name: "withMode(UpgradeMode mode)"
   nameWithType: "UpgradePolicy.withMode(UpgradeMode mode)"
-  summary: "Set the mode property: Specifies the mode of an upgrade to virtual machines in the scale set.&lt;br /&gt;&lt;br\n /&gt; Possible values are:&lt;br /&gt;&lt;br /&gt; **Manual** - You control the application of updates to virtual\n machines in the scale set. You do this by using the manualUpgrade action.&lt;br /&gt;&lt;br /&gt; **Automatic** -\n All virtual machines in the scale set are automatically updated at the same time."
+  summary: "Set the mode property: Specifies the mode of an upgrade to virtual machines in the scale set.<br /><br /> Possible values are:<br /><br /> \\*\\*Manual\\*\\* - You control the application of updates to virtual machines in the scale set. You do this by using the manualUpgrade action.<br /><br /> \\*\\*Automatic\\*\\* - All virtual machines in the scale set are automatically updated at the same time."
   parameters:
   - description: "the mode value to set."
     name: "mode"

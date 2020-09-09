@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.functions.annotation.HttpTrigger.authLevel()"
   name: "authLevel()"
   nameWithType: "HttpTrigger.authLevel()"
-  summary: "<p>\n Determines what keys, if any, need to be present on the request in order to invoke the\n function. The authorization level can be one of the following values:\n </p>\n\n <ul>\n <li><strong>anonymous</strong>: No API key is required.</li>\n <li><strong>function</strong>: A function-specific API key is required. This is the default\n value if none is provided.</li>\n <li><strong>admin</strong>: The master key is required.</li>\n </ul>\n\n <p>\n For more information, see the <a href=\"https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook#authorization-keys\">documentation\n about authorization keys</a>.\n </p>"
+  summary: "Determines what keys, if any, need to be present on the request in order to invoke the function. The authorization level can be one of the following values:\n\n *  **anonymous**: No API key is required.\n *  **function**: A function-specific API key is required. This is the default value if none is provided.\n *  **admin**: The master key is required.\n\nFor more information, see the [documentation about authorization keys][].\n\n\n[documentation about authorization keys]: https://docs.microsoft.com/azure/azure-functions/functions-bindings-http-webhook#authorization-keys"
   syntax: "public abstract AuthorizationLevel authLevel()"
   returns:
     description: "An <xref uid=\"com.microsoft.azure.functions.annotation.AuthorizationLevel\" data-throw-if-not-resolved=\"false\">AuthorizationLevel</xref> value representing the level required to access the\n         function."

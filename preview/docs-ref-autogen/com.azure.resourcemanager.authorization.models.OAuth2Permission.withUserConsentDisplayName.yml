@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.OAuth2Permission.withUserConsentDisplayName(String userConsentDisplayName)"
   name: "withUserConsentDisplayName(String userConsentDisplayName)"
   nameWithType: "OAuth2Permission.withUserConsentDisplayName(String userConsentDisplayName)"
-  summary: "Set the userConsentDisplayName property: Display name for the permission that appears in the end user consent\n experience."
+  summary: "Set the userConsentDisplayName property: Display name for the permission that appears in the end user consent experience."
   parameters:
   - description: "the userConsentDisplayName value to set."
     name: "userConsentDisplayName"

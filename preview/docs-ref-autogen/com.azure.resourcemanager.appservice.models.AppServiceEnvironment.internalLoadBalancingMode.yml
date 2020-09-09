@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceEnvironment.internalLoadBalancingMode()"
   name: "internalLoadBalancingMode()"
   nameWithType: "AppServiceEnvironment.internalLoadBalancingMode()"
-  summary: "Get the internalLoadBalancingMode property: Specifies which endpoints to serve internally in the Virtual Network\n for the App Service Environment."
+  summary: "Get the internalLoadBalancingMode property: Specifies which endpoints to serve internally in the Virtual Network for the App Service Environment."
   syntax: "public InternalLoadBalancingMode internalLoadBalancingMode()"
   returns:
     description: "the internalLoadBalancingMode value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.WindowsConfiguration.enableAutomaticUpdates()"
   name: "enableAutomaticUpdates()"
   nameWithType: "WindowsConfiguration.enableAutomaticUpdates()"
-  summary: "Get the enableAutomaticUpdates property: Indicates whether Automatic Updates is enabled for the Windows virtual\n machine. Default value is true. &lt;br&gt;&lt;br&gt; For virtual machine scale sets, this property can be updated\n and updates will take effect on OS reprovisioning."
+  summary: "Get the enableAutomaticUpdates property: Indicates whether Automatic Updates is enabled for the Windows virtual machine. Default value is true. <br><br> For virtual machine scale sets, this property can be updated and updates will take effect on OS reprovisioning."
   syntax: "public Boolean enableAutomaticUpdates()"
   returns:
     description: "the enableAutomaticUpdates value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayProbeInner.withProvisioningState(String provisioningState)"
   name: "withProvisioningState(String provisioningState)"
   nameWithType: "ApplicationGatewayProbeInner.withProvisioningState(String provisioningState)"
-  summary: "Set the provisioningState property: Provisioning state of the backend http settings resource. Possible values\n are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Set the provisioningState property: Provisioning state of the backend http settings resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   parameters:
   - description: "the provisioningState value to set."
     name: "provisioningState"

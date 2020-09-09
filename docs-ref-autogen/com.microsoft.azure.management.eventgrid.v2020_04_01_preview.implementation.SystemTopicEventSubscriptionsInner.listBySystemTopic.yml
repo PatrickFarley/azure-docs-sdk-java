@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicEventSubscriptionsInner.listBySystemTopic(String resourceGroupName, String systemTopicName)"
   name: "listBySystemTopic(String resourceGroupName, String systemTopicName)"
   nameWithType: "SystemTopicEventSubscriptionsInner.listBySystemTopic(String resourceGroupName, String systemTopicName)"
-  summary: "List event subscriptions of a system topic.\n List event subscriptions that belong to a specific system topic."
+  summary: "List event subscriptions of a system topic. List event subscriptions that belong to a specific system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicEventSubscriptionsInner.listBySystemTopic(String resourceGroupName, String systemTopicName, String filter, Integer top)"
   name: "listBySystemTopic(String resourceGroupName, String systemTopicName, String filter, Integer top)"
   nameWithType: "SystemTopicEventSubscriptionsInner.listBySystemTopic(String resourceGroupName, String systemTopicName, String filter, Integer top)"
-  summary: "List event subscriptions of a system topic.\n List event subscriptions that belong to a specific system topic."
+  summary: "List event subscriptions of a system topic. List event subscriptions that belong to a specific system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

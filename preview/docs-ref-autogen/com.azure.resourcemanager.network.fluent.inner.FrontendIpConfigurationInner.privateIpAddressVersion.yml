@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.FrontendIpConfigurationInner.privateIpAddressVersion()"
   name: "privateIpAddressVersion()"
   nameWithType: "FrontendIpConfigurationInner.privateIpAddressVersion()"
-  summary: "Get the privateIpAddressVersion property: It represents whether the specific ipconfiguration is IPv4 or IPv6.\n Default is taken as IPv4."
+  summary: "Get the privateIpAddressVersion property: It represents whether the specific ipconfiguration is IPv4 or IPv6. Default is taken as IPv4."
   syntax: "public IpVersion privateIpAddressVersion()"
   returns:
     description: "the privateIpAddressVersion value."

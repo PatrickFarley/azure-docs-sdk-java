@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayTier.STANDARD_V2"
   name: "STANDARD_V2"
   nameWithType: "ApplicationGatewayTier.STANDARD_V2"
-  summary: "Static value Standard_v2 for ApplicationGatewayTier."
+  summary: "Static value Standard\\_v2 for ApplicationGatewayTier."
   syntax: "public static final ApplicationGatewayTier STANDARD_V2"
 type: "field"
 metadata: {}

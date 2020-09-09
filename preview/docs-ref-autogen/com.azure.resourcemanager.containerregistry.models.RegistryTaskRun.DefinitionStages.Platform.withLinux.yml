@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryTaskRun.DefinitionStages.Platform.withLinux(Architecture architecture, Variant variant)"
   name: "withLinux(Architecture architecture, Variant variant)"
   nameWithType: "RegistryTaskRun.DefinitionStages.Platform.withLinux(Architecture architecture, Variant variant)"
-  summary: "The function that specifies the platform will have a Linux OS with Architecture architecture and Variant\n variant."
+  summary: "The function that specifies the platform will have a Linux OS with Architecture architecture and Variant variant."
   parameters:
   - description: "the architecture the platform will have."
     name: "architecture"

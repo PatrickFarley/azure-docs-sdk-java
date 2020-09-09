@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayBackendHttpConfiguration.UpdateStages.WithAuthenticationCertificate.withAuthenticationCertificate(String name)"
   name: "withAuthenticationCertificate(String name)"
   nameWithType: "ApplicationGatewayBackendHttpConfiguration.UpdateStages.WithAuthenticationCertificate.withAuthenticationCertificate(String name)"
-  summary: "Associates the specified authentication certificate that exists on this application gateway with this\n backend HTTP confifuration.\n\n <p>Multiple calls to this method will add additional certificate references."
+  summary: "Associates the specified authentication certificate that exists on this application gateway with this backend HTTP confifuration.\n\nMultiple calls to this method will add additional certificate references."
   parameters:
   - description: "the name of an existing authentication certificate"
     name: "name"

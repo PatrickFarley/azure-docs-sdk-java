@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.RegistryManager.addDevice(Device device)"
   name: "addDevice(Device device)"
   nameWithType: "RegistryManager.addDevice(Device device)"
-  summary: "Add device using the given Device object\n Return with the response device object from IotHub"
+  summary: "Add device using the given Device object Return with the response device object from IotHub"
   parameters:
   - description: "The device object to add"
     name: "device"

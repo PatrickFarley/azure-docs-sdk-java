@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualWanInner.withP2SVpnServerConfigurations(List<P2SVpnServerConfigurationInner> p2SVpnServerConfigurations)"
   name: "withP2SVpnServerConfigurations(List<P2SVpnServerConfigurationInner> p2SVpnServerConfigurations)"
   nameWithType: "VirtualWanInner.withP2SVpnServerConfigurations(List<P2SVpnServerConfigurationInner> p2SVpnServerConfigurations)"
-  summary: "Set the p2SVpnServerConfigurations property: List of all P2SVpnServerConfigurations associated with the virtual\n wan."
+  summary: "Set the p2SVpnServerConfigurations property: List of all P2SVpnServerConfigurations associated with the virtual wan."
   parameters:
   - description: "the p2SVpnServerConfigurations value to set."
     name: "p2SVpnServerConfigurations"

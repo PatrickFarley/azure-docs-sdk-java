@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.functions.annotation.CosmosDBInput.dataType()"
   name: "dataType()"
   nameWithType: "CosmosDBInput.dataType()"
-  summary: "<p>\n Defines how Functions runtime should treat the parameter value. Possible\n values are:\n </p>\n <ul>\n <li>\"\": get the value as a string, and try to deserialize to actual parameter\n type like POJO</li>\n <li>string: always get the value as a string</li>\n <li>binary: get the value as a binary data, and try to deserialize to actual\n parameter type byte[]</li>\n </ul>"
+  summary: "Defines how Functions runtime should treat the parameter value. Possible values are:\n\n *  \"\": get the value as a string, and try to deserialize to actual parameter type like POJO\n *  string: always get the value as a string\n *  binary: get the value as a binary data, and try to deserialize to actual parameter type byte\\[\\]"
   syntax: "public abstract String dataType()"
   returns:
     description: "The dataType which will be used by the Functions runtime."

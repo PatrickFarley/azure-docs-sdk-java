@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MultimapBuilder.SortedSetMultimapBuilder<K0,V0>.<K,V>build()"
   name: "<K,V>build()"
   nameWithType: "MultimapBuilder.SortedSetMultimapBuilder<K0,V0>.<K,V>build()"
-  summary: "Returns a new, empty <code>Multimap</code> with the specified implementation."
+  summary: "Returns a new, empty `Multimap` with the specified implementation."
   overridden: "com.azure.cosmos.implementation.guava25.collect.MultimapBuilder.SetMultimapBuilder.<K,V>build()"
   syntax: "public abstract SortedSetMultimap<K,V> <K,V>build()"
   returns:
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MultimapBuilder.SortedSetMultimapBuilder<K0,V0>.<K,V>build(Multimap<? extends K,? extends V> multimap)"
   name: "<K,V>build(Multimap<? extends K,? extends V> multimap)"
   nameWithType: "MultimapBuilder.SortedSetMultimapBuilder<K0,V0>.<K,V>build(Multimap<? extends K,? extends V> multimap)"
-  summary: "Returns a <code>Multimap</code> with the specified implementation, initialized with the entries of\n <code>multimap</code>."
+  summary: "Returns a `Multimap` with the specified implementation, initialized with the entries of `multimap`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.MultimapBuilder.SetMultimapBuilder.<K,V>build(com.azure.cosmos.implementation.guava25.collect.Multimap<? extends K,? extends V>)"
   parameters:
   - name: "multimap"

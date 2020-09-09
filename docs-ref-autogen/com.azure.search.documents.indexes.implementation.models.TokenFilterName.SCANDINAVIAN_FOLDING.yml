@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.SCANDINAVIAN_FOLDING"
   name: "SCANDINAVIAN_FOLDING"
   nameWithType: "TokenFilterName.SCANDINAVIAN_FOLDING"
-  summary: "Static value scandinavian_folding for TokenFilterName."
+  summary: "Static value scandinavian\\_folding for TokenFilterName."
   syntax: "public static final TokenFilterName SCANDINAVIAN_FOLDING"
 type: "field"
 metadata: {}

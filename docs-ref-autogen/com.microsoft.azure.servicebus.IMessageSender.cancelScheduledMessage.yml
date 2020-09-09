@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageSender.cancelScheduledMessage(long sequenceNumber)"
   name: "cancelScheduledMessage(long sequenceNumber)"
   nameWithType: "IMessageSender.cancelScheduledMessage(long sequenceNumber)"
-  summary: "Cancels the enqueuing of an already sent scheduled message, if it was not already enqueued. This method blocks until the message is sent to the entity. Calling this method is equivalent to calling <code>cancelScheduledMessageAsync(sequenceNumber).get()</code>.\n For better performance, use async methods."
+  summary: "Cancels the enqueuing of an already sent scheduled message, if it was not already enqueued. This method blocks until the message is sent to the entity. Calling this method is equivalent to calling `cancelScheduledMessageAsync(sequenceNumber).get()`. For better performance, use async methods."
   parameters:
   - description: "sequence number of the scheduled message"
     name: "sequenceNumber"

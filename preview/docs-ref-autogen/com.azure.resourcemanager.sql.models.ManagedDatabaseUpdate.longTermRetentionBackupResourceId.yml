@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedDatabaseUpdate.longTermRetentionBackupResourceId()"
   name: "longTermRetentionBackupResourceId()"
   nameWithType: "ManagedDatabaseUpdate.longTermRetentionBackupResourceId()"
-  summary: "Get the longTermRetentionBackupResourceId property: The name of the Long Term Retention backup to be used for\n restore of this managed database."
+  summary: "Get the longTermRetentionBackupResourceId property: The name of the Long Term Retention backup to be used for restore of this managed database."
   syntax: "public String longTermRetentionBackupResourceId()"
   returns:
     description: "the longTermRetentionBackupResourceId value."

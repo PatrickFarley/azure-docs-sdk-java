@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.SnapshotRestoreRequest.ignoreConflictingHostNames()"
   name: "ignoreConflictingHostNames()"
   nameWithType: "SnapshotRestoreRequest.ignoreConflictingHostNames()"
-  summary: "Get the ignoreConflictingHostNames property: If true, custom hostname conflicts will be ignored when recovering\n to a target web app. This setting is only necessary when RecoverConfiguration is enabled."
+  summary: "Get the ignoreConflictingHostNames property: If true, custom hostname conflicts will be ignored when recovering to a target web app. This setting is only necessary when RecoverConfiguration is enabled."
   syntax: "public Boolean ignoreConflictingHostNames()"
   returns:
     description: "the ignoreConflictingHostNames value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.PrivateLinkServiceConnectionState.status()"
   name: "status()"
   nameWithType: "PrivateLinkServiceConnectionState.status()"
-  summary: "Get the status property: Indicates whether the connection has been Approved/Rejected/Removed by the owner of the\n service."
+  summary: "Get the status property: Indicates whether the connection has been Approved/Rejected/Removed by the owner of the service."
   syntax: "public PrivateEndpointServiceConnectionStatus status()"
   returns:
     description: "the status value."

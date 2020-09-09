@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.KeyVaultReferenceCollectionInner.withKeyToReferenceStatuses(Map<String,ApiKVReference> keyToReferenceStatuses)"
   name: "withKeyToReferenceStatuses(Map<String,ApiKVReference> keyToReferenceStatuses)"
   nameWithType: "KeyVaultReferenceCollectionInner.withKeyToReferenceStatuses(Map<String,ApiKVReference> keyToReferenceStatuses)"
-  summary: "Set the keyToReferenceStatuses property: Dictionary of &lt;ApiKVReference&gt;."
+  summary: "Set the keyToReferenceStatuses property: Dictionary of <ApiKVReference>."
   parameters:
   - description: "the keyToReferenceStatuses value to set."
     name: "keyToReferenceStatuses"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.EntityCategoryConverter.map(EntityCategory obj)"
   name: "map(EntityCategory obj)"
   nameWithType: "EntityCategoryConverter.map(EntityCategory obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityCategory\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityCategory</xref> to enum\n <xref uid=\"EntityCategory\" data-throw-if-not-resolved=\"false\">EntityCategory</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityCategory\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityCategory</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.EntityCategory\" data-throw-if-not-resolved=\"false\">EntityCategory</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.EntityCategory?alt=com.azure.search.documents.indexes.implementation.models.EntityCategory&text=EntityCategory\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.EntityCategoryConverter.map(EntityCategory obj)"
   name: "map(EntityCategory obj)"
   nameWithType: "EntityCategoryConverter.map(EntityCategory obj)"
-  summary: "Maps from enum <xref uid=\"EntityCategory\" data-throw-if-not-resolved=\"false\">EntityCategory</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityCategory\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityCategory</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.EntityCategory\" data-throw-if-not-resolved=\"false\">EntityCategory</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.EntityCategory\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.EntityCategory</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.EntityCategory?alt=com.azure.search.documents.indexes.models.EntityCategory&text=EntityCategory\" data-throw-if-not-resolved=\"False\" />"

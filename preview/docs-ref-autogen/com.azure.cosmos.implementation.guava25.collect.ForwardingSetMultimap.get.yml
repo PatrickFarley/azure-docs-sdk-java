@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ForwardingSetMultimap<K,V>.get(K key)"
   name: "get(K key)"
   nameWithType: "ForwardingSetMultimap<K,V>.get(K key)"
-  summary: "Returns a view collection of the values associated with <code>key</code> in this multimap, if any.\n Note that when <code>containsKey(key)</code> is false, this returns an empty collection, not <code>\n null</code>.\n\n <p>Changes to the returned collection will update the underlying multimap, and vice versa."
+  summary: "Returns a view collection of the values associated with `key` in this multimap, if any. Note that when `containsKey(key)` is false, this returns an empty collection, not `null`.\n\nChanges to the returned collection will update the underlying multimap, and vice versa."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ForwardingMultimap.get(K)"
   parameters:
   - name: "key"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.TestContextManager.TestContextManager(Method testMethod, TestMode testMode)"
   name: "TestContextManager(Method testMethod, TestMode testMode)"
   nameWithType: "TestContextManager.TestContextManager(Method testMethod, TestMode testMode)"
-  summary: "Constructs a <xref uid=\"TestContextManager\" data-throw-if-not-resolved=\"false\">TestContextManager</xref> based on the test method."
+  summary: "Constructs a <xref uid=\"com.azure.core.test.TestContextManager\" data-throw-if-not-resolved=\"false\">TestContextManager</xref> based on the test method."
   parameters:
   - description: "Test method being ran."
     name: "testMethod"

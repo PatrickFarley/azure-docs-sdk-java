@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.sas.ShareServiceSasSignatureValues.setFilePath(String filePath)"
   name: "setFilePath(String filePath)"
   nameWithType: "ShareServiceSasSignatureValues.setFilePath(String filePath)"
-  summary: "Sets the path of the file or directory being made accessible. Pass in <code>null</code> or an empty string for a share\n SAS."
+  summary: "Sets the path of the file or directory being made accessible. Pass in `null` or an empty string for a share SAS."
   parameters:
   - description: "The name of the share being made accessible."
     name: "filePath"

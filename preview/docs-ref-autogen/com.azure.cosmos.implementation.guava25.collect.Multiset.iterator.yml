@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.iterator()"
   name: "iterator()"
   nameWithType: "Multiset<E>.iterator()"
-  summary: "\n\n <p>Elements that occur multiple times in the multiset will appear multiple times in this\n iterator, though not necessarily sequentially."
+  summary: "Elements that occur multiple times in the multiset will appear multiple times in this iterator, though not necessarily sequentially."
   syntax: "public abstract Iterator<E> iterator()"
   returns:
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;"

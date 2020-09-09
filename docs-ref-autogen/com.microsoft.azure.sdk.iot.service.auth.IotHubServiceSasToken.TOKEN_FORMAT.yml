@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.auth.IotHubServiceSasToken.TOKEN_FORMAT"
   name: "TOKEN_FORMAT"
   nameWithType: "IotHubServiceSasToken.TOKEN_FORMAT"
-  summary: "The SAS token format. The parameters to be interpolated are, in order:\n the signature\n the resource URI\n the expiry time\n the key name\n Example: <code>SharedAccessSignature sr=IOTHUBURI&sig=SIGNATURE&se=EXPIRY&skn=SHAREDACCESSKEYNAME</code>"
+  summary: "The SAS token format. The parameters to be interpolated are, in order: the signature the resource URI the expiry time the key name Example: `SharedAccessSignature sr=IOTHUBURI&sig=SIGNATURE&se=EXPIRY&skn=SHAREDACCESSKEYNAME`"
   syntax: "public static final String TOKEN_FORMAT"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ShingleTokenFilter.getFilterToken()"
   name: "getFilterToken()"
   nameWithType: "ShingleTokenFilter.getFilterToken()"
-  summary: "Get the filterToken property: The string to insert for each position at\n which there is no token. Default is an underscore (\"_\")."
+  summary: "Get the filterToken property: The string to insert for each position at which there is no token. Default is an underscore (\"\\_\")."
   syntax: "public String getFilterToken()"
   returns:
     description: "the filterToken value."

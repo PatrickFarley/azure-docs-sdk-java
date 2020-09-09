@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.Topic.UpdateStages.WithExpressMessage.withExpressMessage()"
   name: "withExpressMessage()"
   nameWithType: "Topic.UpdateStages.WithExpressMessage.withExpressMessage()"
-  summary: "Specifies that messages in this topic are express hence they can be cached in memory\n for some time before storing it in messaging store."
+  summary: "Specifies that messages in this topic are express hence they can be cached in memory for some time before storing it in messaging store."
   syntax: "public abstract Topic.Update withExpressMessage()"
   returns:
     description: "the next stage of topic update"

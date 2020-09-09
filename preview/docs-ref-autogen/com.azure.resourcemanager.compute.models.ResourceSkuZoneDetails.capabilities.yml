@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ResourceSkuZoneDetails.capabilities()"
   name: "capabilities()"
   nameWithType: "ResourceSkuZoneDetails.capabilities()"
-  summary: "Get the capabilities property: A list of capabilities that are available for the SKU in the specified list of\n zones."
+  summary: "Get the capabilities property: A list of capabilities that are available for the SKU in the specified list of zones."
   syntax: "public List<ResourceSkuCapabilities> capabilities()"
   returns:
     description: "the capabilities value."

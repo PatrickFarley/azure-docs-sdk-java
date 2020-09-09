@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.DataLakeStorageException.DataLakeStorageException(String message, HttpResponse response, Object value)"
   name: "DataLakeStorageException(String message, HttpResponse response, Object value)"
   nameWithType: "DataLakeStorageException.DataLakeStorageException(String message, HttpResponse response, Object value)"
-  summary: "Constructs a <code>DataLakeStorageException</code>."
+  summary: "Constructs a `DataLakeStorageException`."
   parameters:
   - description: "the exception message or the response content if a message is not available."
     name: "message"

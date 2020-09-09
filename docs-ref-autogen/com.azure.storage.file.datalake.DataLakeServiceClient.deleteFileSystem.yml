@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeServiceClient.deleteFileSystem(String fileSystemName)"
   name: "deleteFileSystem(String fileSystemName)"
   nameWithType: "DataLakeServiceClient.deleteFileSystem(String fileSystemName)"
-  summary: "Deletes the specified file system in the storage account. If the file system doesn't exist the operation fails.\n For more information see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-container\">Azure\n Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n try &#123;\n     client.deleteFileSystem&#40;&quot;fileSystemName&quot;&#41;;\n     System.out.printf&#40;&quot;Delete file system completed with status %n&quot;&#41;;\n &#125; catch &#40;UnsupportedOperationException error&#41; &#123;\n     System.out.printf&#40;&quot;Delete file system failed: %s%n&quot;, error&#41;;\n &#125;\n </pre>"
+  summary: "Deletes the specified file system in the storage account. If the file system doesn't exist the operation fails. For more information see the [Azure Docs][].\n\n**Code Samples**\n\n```java\ntry {\n     client.deleteFileSystem(\"fileSystemName\");\n     System.out.printf(\"Delete file system completed with status %n\");\n } catch (UnsupportedOperationException error) {\n     System.out.printf(\"Delete file system failed: %s%n\", error);\n }\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-container"
   parameters:
   - description: "Name of the file system to delete"
     name: "fileSystemName"

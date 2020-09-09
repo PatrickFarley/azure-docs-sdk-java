@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.toString()"
   name: "toString()"
   nameWithType: "Pair<L,R>.toString()"
-  summary: "<p>Returns a String representation of this pair using the format <code>($left,$right)</code>.</p>"
+  summary: "Returns a String representation of this pair using the format `($left,$right)`."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.toString(String format)"
   name: "toString(String format)"
   nameWithType: "Pair<L,R>.toString(String format)"
-  summary: "<p>Formats the receiver using the given format.</p>\n\n <p>This uses <xref uid=\"java.util.Formattable\" data-throw-if-not-resolved=\"false\">java.util.Formattable</xref> to perform the formatting. Two variables may\n be used to embed the left and right elements. Use <code>%1$s</code> for the left\n element (key) and <code>%2$s</code> for the right element (value).\n The default format used by <code>toString()</code> is <code>(%1$s,%2$s)</code>.</p>"
+  summary: "Formats the receiver using the given format.\n\nThis uses <xref uid=\"\" data-throw-if-not-resolved=\"false\">java.util.Formattable</xref> to perform the formatting. Two variables may be used to embed the left and right elements. Use `%1$s` for the left element (key) and `%2$s` for the right element (value). The default format used by `toString()` is `(%1$s,%2$s)`."
   parameters:
   - description: "the format string, optionally containing <code>%1$s</code> and <code>%2$s</code>, not null"
     name: "format"

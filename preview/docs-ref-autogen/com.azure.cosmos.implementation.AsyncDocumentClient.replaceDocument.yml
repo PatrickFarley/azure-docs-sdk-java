@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.replaceDocument(Document document, RequestOptions options)"
   name: "replaceDocument(Document document, RequestOptions options)"
   nameWithType: "AsyncDocumentClient.replaceDocument(Document document, RequestOptions options)"
-  summary: "Replaces a document with the passed in document.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the replaced document.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Replaces a document with the passed in document.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the replaced document. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the document to replace (containing the document id)."
     name: "document"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.replaceDocument(String documentLink, Object document, RequestOptions options)"
   name: "replaceDocument(String documentLink, Object document, RequestOptions options)"
   nameWithType: "AsyncDocumentClient.replaceDocument(String documentLink, Object document, RequestOptions options)"
-  summary: "Replaces a document using a POJO object.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the replaced document.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Replaces a document using a POJO object.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the replaced document. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the document link."
     name: "documentLink"

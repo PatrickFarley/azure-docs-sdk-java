@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ContiguousSet<C>.range()"
   name: "range()"
   nameWithType: "ContiguousSet<C>.range()"
-  summary: "Returns a range, closed on both ends, whose endpoints are the minimum and maximum values\n contained in this set. This is equivalent to <code>range(CLOSED, CLOSED)</code>."
+  summary: "Returns a range, closed on both ends, whose endpoints are the minimum and maximum values contained in this set. This is equivalent to `range(CLOSED, CLOSED)`."
   syntax: "public abstract Range<C> range()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Range?alt=com.azure.cosmos.implementation.guava25.collect.Range&text=Range\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ContiguousSet<C>.range(BoundType lowerBoundType, BoundType upperBoundType)"
   name: "range(BoundType lowerBoundType, BoundType upperBoundType)"
   nameWithType: "ContiguousSet<C>.range(BoundType lowerBoundType, BoundType upperBoundType)"
-  summary: "Returns the minimal range with the given boundary types for which all values in this set are\n <xref uid=\"Range#contains(Comparable)\" data-throw-if-not-resolved=\"false\">contained</xref> within the range.\n\n <p>Note that this method will return ranges with unbounded endpoints if <xref uid=\"BoundType#OPEN\" data-throw-if-not-resolved=\"false\">BoundType#OPEN</xref>\n is requested for a domain minimum or maximum. For example, if <code>set</code> was created from the\n range <code>[1..Integer.MAX_VALUE]</code> then <code>set.range(CLOSED, OPEN)</code> must return <code>\n [1..\\u221e)</code>."
+  summary: "Returns the minimal range with the given boundary types for which all values in this set are <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Range.contains*\" data-throw-if-not-resolved=\"false\">contained</xref> within the range.\n\nNote that this method will return ranges with unbounded endpoints if <xref uid=\"com.azure.cosmos.implementation.guava25.collect.BoundType.OPEN\" data-throw-if-not-resolved=\"false\">BoundType#OPEN</xref> is requested for a domain minimum or maximum. For example, if `set` was created from the range `[1..Integer.MAX_VALUE]` then `set.range(CLOSED, OPEN)` must return `[1..\\u221e)`."
   parameters:
   - name: "lowerBoundType"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.BoundType?alt=com.azure.cosmos.implementation.guava25.collect.BoundType&text=BoundType\" data-throw-if-not-resolved=\"False\" />"

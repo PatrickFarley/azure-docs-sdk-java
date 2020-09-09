@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ProbeInner.withProtocol(ProbeProtocol protocol)"
   name: "withProtocol(ProbeProtocol protocol)"
   nameWithType: "ProbeInner.withProtocol(ProbeProtocol protocol)"
-  summary: "Set the protocol property: The protocol of the end point. If 'Tcp' is specified, a received ACK is required for\n the probe to be successful. If 'Http' or 'Https' is specified, a 200 OK response from the specifies URI is\n required for the probe to be successful."
+  summary: "Set the protocol property: The protocol of the end point. If 'Tcp' is specified, a received ACK is required for the probe to be successful. If 'Http' or 'Https' is specified, a 200 OK response from the specifies URI is required for the probe to be successful."
   parameters:
   - description: "the protocol value to set."
     name: "protocol"

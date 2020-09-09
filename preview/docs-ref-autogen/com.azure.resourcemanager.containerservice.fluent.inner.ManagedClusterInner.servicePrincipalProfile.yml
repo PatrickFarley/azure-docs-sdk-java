@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.ManagedClusterInner.servicePrincipalProfile()"
   name: "servicePrincipalProfile()"
   nameWithType: "ManagedClusterInner.servicePrincipalProfile()"
-  summary: "Get the servicePrincipalProfile property: Information about a service principal identity for the cluster to use\n for manipulating Azure APIs."
+  summary: "Get the servicePrincipalProfile property: Information about a service principal identity for the cluster to use for manipulating Azure APIs."
   syntax: "public ManagedClusterServicePrincipalProfile servicePrincipalProfile()"
   returns:
     description: "the servicePrincipalProfile value."

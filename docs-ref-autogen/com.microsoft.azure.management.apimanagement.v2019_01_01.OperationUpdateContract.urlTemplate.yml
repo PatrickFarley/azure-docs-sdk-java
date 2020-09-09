@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.OperationUpdateContract.urlTemplate()"
   name: "urlTemplate()"
   nameWithType: "OperationUpdateContract.urlTemplate()"
-  summary: "Get relative URL template identifying the target resource for this operation. May include parameters. Example: /customers/{cid}/orders/{oid}/?date={date}."
+  summary: "Get relative URL template identifying the target resource for this operation. May include parameters. Example: /customers/\\{cid\\}/orders/\\{oid\\}/?date=\\{date\\}."
   syntax: "public String urlTemplate()"
   returns:
     description: "the urlTemplate value"

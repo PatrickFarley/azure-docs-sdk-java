@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateSubscriptionOptions.setEnableDeadLetteringOnFilterEvaluationExceptions(boolean deadLetteringOnFilterEvaluationExceptions)"
   name: "setEnableDeadLetteringOnFilterEvaluationExceptions(boolean deadLetteringOnFilterEvaluationExceptions)"
   nameWithType: "CreateSubscriptionOptions.setEnableDeadLetteringOnFilterEvaluationExceptions(boolean deadLetteringOnFilterEvaluationExceptions)"
-  summary: "Set the deadLetteringOnFilterEvaluationExceptions property: A value that indicates whether this subscription has\n dead letter support when a message expires."
+  summary: "Set the deadLetteringOnFilterEvaluationExceptions property: A value that indicates whether this subscription has dead letter support when a message expires."
   parameters:
   - description: "the deadLetteringOnFilterEvaluationExceptions value to set."
     name: "deadLetteringOnFilterEvaluationExceptions"

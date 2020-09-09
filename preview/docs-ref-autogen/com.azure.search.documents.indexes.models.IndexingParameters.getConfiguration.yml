@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexingParameters.getConfiguration()"
   name: "getConfiguration()"
   nameWithType: "IndexingParameters.getConfiguration()"
-  summary: "Get the configuration property: A dictionary of indexer-specific\n configuration properties. Each name is the name of a specific property.\n Each value must be of a primitive type."
+  summary: "Get the configuration property: A dictionary of indexer-specific configuration properties. Each name is the name of a specific property. Each value must be of a primitive type."
   syntax: "public Map<String,Object> getConfiguration()"
   returns:
     description: "the configuration value."

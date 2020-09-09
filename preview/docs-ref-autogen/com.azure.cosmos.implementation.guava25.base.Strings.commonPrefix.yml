@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Strings.commonPrefix(CharSequence a, CharSequence b)"
   name: "commonPrefix(CharSequence a, CharSequence b)"
   nameWithType: "Strings.commonPrefix(CharSequence a, CharSequence b)"
-  summary: "Returns the longest string <code>prefix</code> such that <code>a.toString().startsWith(prefix) &&\n b.toString().startsWith(prefix)</code>, taking care not to split surrogate pairs. If <code>a</code> and\n <code>b</code> have no common prefix, returns the empty string."
+  summary: "Returns the longest string `prefix` such that `a.toString().startsWith(prefix) && b.toString().startsWith(prefix)`, taking care not to split surrogate pairs. If `a` and `b` have no common prefix, returns the empty string."
   parameters:
   - name: "a"
     type: "<xref href=\"java.lang.CharSequence?alt=java.lang.CharSequence&text=CharSequence\" data-throw-if-not-resolved=\"False\" />"

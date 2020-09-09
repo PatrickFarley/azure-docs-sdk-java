@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchContinuationToken.serializeToken(String apiVersion, String nextLink, SearchRequest nextPageParameters)"
   name: "serializeToken(String apiVersion, String nextLink, SearchRequest nextPageParameters)"
   nameWithType: "SearchContinuationToken.serializeToken(String apiVersion, String nextLink, SearchRequest nextPageParameters)"
-  summary: "Serialize to search continuation token using <code>apiVersion</code>, <code>nextLink</code> and <xref uid=\"SearchRequest\" data-throw-if-not-resolved=\"false\">SearchRequest</xref>"
+  summary: "Serialize to search continuation token using `apiVersion`, `nextLink` and <xref uid=\"com.azure.search.documents.implementation.models.SearchRequest\" data-throw-if-not-resolved=\"false\">SearchRequest</xref>"
   parameters:
   - description: "The api version string."
     name: "apiVersion"

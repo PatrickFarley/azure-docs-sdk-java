@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.hash(Object key)"
   name: "hash(Object key)"
   nameWithType: "AbstractHashedMap<K,V>.hash(Object key)"
-  summary: "Gets the hash code for the key specified.\n This implementation uses the additional hashing routine from JDK1.4.\n Subclasses can override this to return alternate hash codes."
+  summary: "Gets the hash code for the key specified. This implementation uses the additional hashing routine from JDK1.4. Subclasses can override this to return alternate hash codes."
   parameters:
   - description: "the key to get a hash code for"
     name: "key"

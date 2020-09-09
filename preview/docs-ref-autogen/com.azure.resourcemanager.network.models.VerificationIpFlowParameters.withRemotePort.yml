@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VerificationIpFlowParameters.withRemotePort(String remotePort)"
   name: "withRemotePort(String remotePort)"
   nameWithType: "VerificationIpFlowParameters.withRemotePort(String remotePort)"
-  summary: "Set the remotePort property: The remote port. Acceptable values are a single integer in the range (0-65535).\n Support for * for the source port, which depends on the direction."
+  summary: "Set the remotePort property: The remote port. Acceptable values are a single integer in the range (0-65535). Support for \\* for the source port, which depends on the direction."
   parameters:
   - description: "the remotePort value to set."
     name: "remotePort"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.TagDetailsInner.withCount(TagCount count)"
   name: "withCount(TagCount count)"
   nameWithType: "TagDetailsInner.withCount(TagCount count)"
-  summary: "Set the count property: The total number of resources that use the resource tag. When a tag is initially created\n and has no associated resources, the value is 0."
+  summary: "Set the count property: The total number of resources that use the resource tag. When a tag is initially created and has no associated resources, the value is 0."
   parameters:
   - description: "the count value to set."
     name: "count"

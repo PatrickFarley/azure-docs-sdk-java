@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.TopicProperties.setDuplicateDetectionHistoryTimeWindow(Duration duplicateDetectionHistoryTimeWindow)"
   name: "setDuplicateDetectionHistoryTimeWindow(Duration duplicateDetectionHistoryTimeWindow)"
   nameWithType: "TopicProperties.setDuplicateDetectionHistoryTimeWindow(Duration duplicateDetectionHistoryTimeWindow)"
-  summary: "Set the duplicateDetectionHistoryTimeWindow property: ISO 8601 timeSpan structure that defines the duration of\n the duplicate detection history. The default value is 10 minutes."
+  summary: "Set the duplicateDetectionHistoryTimeWindow property: ISO 8601 timeSpan structure that defines the duration of the duplicate detection history. The default value is 10 minutes."
   parameters:
   - description: "the duplicateDetectionHistoryTimeWindow value to set."
     name: "duplicateDetectionHistoryTimeWindow"

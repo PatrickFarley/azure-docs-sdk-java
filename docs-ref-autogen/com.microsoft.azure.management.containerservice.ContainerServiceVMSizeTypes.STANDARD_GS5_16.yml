@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_GS5_16"
   name: "STANDARD_GS5_16"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_GS5_16"
-  summary: "Static value Standard_GS5-16 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_GS5-16 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_GS5_16"
 type: "field"
 metadata: {}

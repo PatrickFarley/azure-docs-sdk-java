@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.CachedSchemaRegistryClient.getSchemaByGuid(String schemaId)"
   name: "getSchemaByGuid(String schemaId)"
   nameWithType: "CachedSchemaRegistryClient.getSchemaByGuid(String schemaId)"
-  summary: "Fetches schema specified by the GUID.\n <p>\n GUID can be assumed to be unique within a schema registry store."
+  summary: "Fetches schema specified by the GUID.\n\nGUID can be assumed to be unique within a schema registry store."
   parameters:
   - name: "schemaId"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

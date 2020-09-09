@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzurePath.endsWith(String path)"
   name: "endsWith(String path)"
   nameWithType: "AzurePath.endsWith(String path)"
-  summary: "Tests if this path ends with a Path, constructed by converting the given path string, in exactly the manner\n specified by the endsWith(Path) method."
+  summary: "Tests if this path ends with a Path, constructed by converting the given path string, in exactly the manner specified by the endsWith(Path) method."
   parameters:
   - description: "the given path string"
     name: "path"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzurePath.endsWith(Path path)"
   name: "endsWith(Path path)"
   nameWithType: "AzurePath.endsWith(Path path)"
-  summary: "Tests if this path ends with the given path.\n <p>\n If the given path has N elements, and no root component, and this path has N or more elements, then this path\n ends with the given path if the last N elements of each path, starting at the element farthest from the root,\n are equal.\n <p>\n If the given path has a root component then this path ends with the given path if the root component of this path\n ends with the root component of the given path, and the corresponding elements of both paths are equal. If this\n path does not have a root component and the given path has a root component then this path does not end with the\n given path.\n <p>\n If the given path is associated with a different FileSystem to this path then false is returned.\n <p>\n In this implementation, a root component ends with another root component if the two root components are\n equivalent strings. In other words, if the files are stored in the same container."
+  summary: "Tests if this path ends with the given path.\n\nIf the given path has N elements, and no root component, and this path has N or more elements, then this path ends with the given path if the last N elements of each path, starting at the element farthest from the root, are equal.\n\nIf the given path has a root component then this path ends with the given path if the root component of this path ends with the root component of the given path, and the corresponding elements of both paths are equal. If this path does not have a root component and the given path has a root component then this path does not end with the given path.\n\nIf the given path is associated with a different FileSystem to this path then false is returned.\n\nIn this implementation, a root component ends with another root component if the two root components are equivalent strings. In other words, if the files are stored in the same container."
   parameters:
   - description: "the given path"
     name: "path"

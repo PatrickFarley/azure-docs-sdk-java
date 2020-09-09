@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.contains(int[] array, int target)"
   name: "contains(int[] array, int target)"
   nameWithType: "Ints.contains(int[] array, int target)"
-  summary: "Returns <code>true</code> if <code>target</code> is present as an element anywhere in <code>array</code>."
+  summary: "Returns `true` if `target` is present as an element anywhere in `array`."
   parameters:
   - description: "an array of <code>int</code> values, possibly empty"
     name: "array"

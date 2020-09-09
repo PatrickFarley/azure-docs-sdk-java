@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.time.StopWatch.StopWatch()"
   name: "StopWatch()"
   nameWithType: "StopWatch.StopWatch()"
-  summary: "<p>\n Constructor.\n </p>"
+  summary: "Constructor."
   syntax: "public StopWatch()"
 type: "constructor"
 metadata: {}

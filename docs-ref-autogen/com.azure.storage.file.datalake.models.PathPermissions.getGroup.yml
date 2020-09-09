@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathPermissions.getGroup()"
   name: "getGroup()"
   nameWithType: "PathPermissions.getGroup()"
-  summary: "Returns the <xref uid=\"RolePermissions\" data-throw-if-not-resolved=\"false\">RolePermissions</xref> for the owning group of the resource."
+  summary: "Returns the <xref uid=\"com.azure.storage.file.datalake.models.RolePermissions\" data-throw-if-not-resolved=\"false\">RolePermissions</xref> for the owning group of the resource."
   syntax: "public RolePermissions getGroup()"
   returns:
     description: "the <xref uid=\"com.azure.storage.file.datalake.models.RolePermissions\" data-throw-if-not-resolved=\"false\">RolePermissions</xref> for the owning group of the resource."

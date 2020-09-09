@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrderPatchResource.appServiceCertificateNotRenewableReasons()"
   name: "appServiceCertificateNotRenewableReasons()"
   nameWithType: "AppServiceCertificateOrderPatchResource.appServiceCertificateNotRenewableReasons()"
-  summary: "Get the appServiceCertificateNotRenewableReasons property: Reasons why App Service Certificate is not renewable\n at the current moment."
+  summary: "Get the appServiceCertificateNotRenewableReasons property: Reasons why App Service Certificate is not renewable at the current moment."
   syntax: "public List<AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem> appServiceCertificateNotRenewableReasons()"
   returns:
     description: "the appServiceCertificateNotRenewableReasons value."

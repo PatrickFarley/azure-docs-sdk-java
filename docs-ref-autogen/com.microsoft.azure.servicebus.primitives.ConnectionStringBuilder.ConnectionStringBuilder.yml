@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.primitives.ConnectionStringBuilder.ConnectionStringBuilder(String connectionString)"
   name: "ConnectionStringBuilder(String connectionString)"
   nameWithType: "ConnectionStringBuilder.ConnectionStringBuilder(String connectionString)"
-  summary: "Creates a new instance from the given connection string.\n ConnectionString format:\n         Endpoint=sb://namespace_DNS_Name;EntityPath=EVENT_HUB_NAME;SharedAccessKeyName=SHARED_ACCESS_KEY_NAME;SharedAccessKey=SHARED_ACCESS_KEY\n or Endpoint=sb://namespace_DNS_Name;EntityPath=EVENT_HUB_NAME;SharedAccessSignatureToken=SHARED_ACCESS_SIGNATURE_TOKEN"
+  summary: "Creates a new instance from the given connection string. ConnectionString format: Endpoint=sb://namespace\\_DNS\\_Name;EntityPath=EVENT\\_HUB\\_NAME;SharedAccessKeyName=SHARED\\_ACCESS\\_KEY\\_NAME;SharedAccessKey=SHARED\\_ACCESS\\_KEY or Endpoint=sb://namespace\\_DNS\\_Name;EntityPath=EVENT\\_HUB\\_NAME;SharedAccessSignatureToken=SHARED\\_ACCESS\\_SIGNATURE\\_TOKEN"
   parameters:
   - description: "ServiceBus ConnectionString"
     name: "connectionString"
@@ -18,7 +18,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.primitives.ConnectionStringBuilder.ConnectionStringBuilder(String namespaceConnectionString, String entityPath)"
   name: "ConnectionStringBuilder(String namespaceConnectionString, String entityPath)"
   nameWithType: "ConnectionStringBuilder.ConnectionStringBuilder(String namespaceConnectionString, String entityPath)"
-  summary: "Creates a new instance from the given connection string and entity path. A connection string may or may not include the entity path.\n ConnectionString format:\n         Endpoint=sb://namespace_DNS_Name;EntityPath=EVENT_HUB_NAME;SharedAccessKeyName=SHARED_ACCESS_KEY_NAME;SharedAccessKey=SHARED_ACCESS_KEY\n or Endpoint=sb://namespace_DNS_Name;EntityPath=EVENT_HUB_NAME;SharedAccessSignatureToken=SHARED_ACCESS_SIGNATURE_TOKEN"
+  summary: "Creates a new instance from the given connection string and entity path. A connection string may or may not include the entity path. ConnectionString format: Endpoint=sb://namespace\\_DNS\\_Name;EntityPath=EVENT\\_HUB\\_NAME;SharedAccessKeyName=SHARED\\_ACCESS\\_KEY\\_NAME;SharedAccessKey=SHARED\\_ACCESS\\_KEY or Endpoint=sb://namespace\\_DNS\\_Name;EntityPath=EVENT\\_HUB\\_NAME;SharedAccessSignatureToken=SHARED\\_ACCESS\\_SIGNATURE\\_TOKEN"
   parameters:
   - description: "connections string of the ServiceBus namespace. This doesn't include the entity path."
     name: "namespaceConnectionString"

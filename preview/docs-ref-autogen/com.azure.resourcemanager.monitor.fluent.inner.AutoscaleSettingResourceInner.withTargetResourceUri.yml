@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.AutoscaleSettingResourceInner.withTargetResourceUri(String targetResourceUri)"
   name: "withTargetResourceUri(String targetResourceUri)"
   nameWithType: "AutoscaleSettingResourceInner.withTargetResourceUri(String targetResourceUri)"
-  summary: "Set the targetResourceUri property: the resource identifier of the resource that the autoscale setting should be\n added to."
+  summary: "Set the targetResourceUri property: the resource identifier of the resource that the autoscale setting should be added to."
   parameters:
   - description: "the targetResourceUri value to set."
     name: "targetResourceUri"

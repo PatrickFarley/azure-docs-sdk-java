@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.AbstractCollectionDecorator<E>.setCollection(Collection<E> coll)"
   name: "setCollection(Collection<E> coll)"
   nameWithType: "AbstractCollectionDecorator<E>.setCollection(Collection<E> coll)"
-  summary: "Sets the collection being decorated.\n <p>\n <b>NOTE:</b> this method should only be used during deserialization"
+  summary: "Sets the collection being decorated.\n\n**NOTE:** this method should only be used during deserialization"
   parameters:
   - description: "the decorated collection"
     name: "coll"

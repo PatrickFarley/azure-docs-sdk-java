@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainInner.inputSchema()"
   name: "inputSchema()"
   nameWithType: "DomainInner.inputSchema()"
-  summary: "Get this determines the format that Event Grid should expect for incoming events published to the domain. Possible values include: 'EventGridSchema', 'CustomEventSchema', 'CloudEventSchemaV1_0'."
+  summary: "Get this determines the format that Event Grid should expect for incoming events published to the domain. Possible values include: 'EventGridSchema', 'CustomEventSchema', 'CloudEventSchemaV1\\_0'."
   syntax: "public InputSchema inputSchema()"
   returns:
     description: "the inputSchema value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseInner.withLongTermRetentionBackupResourceId(String longTermRetentionBackupResourceId)"
   name: "withLongTermRetentionBackupResourceId(String longTermRetentionBackupResourceId)"
   nameWithType: "DatabaseInner.withLongTermRetentionBackupResourceId(String longTermRetentionBackupResourceId)"
-  summary: "Set the longTermRetentionBackupResourceId property: The resource identifier of the long term retention backup\n associated with create operation of this database."
+  summary: "Set the longTermRetentionBackupResourceId property: The resource identifier of the long term retention backup associated with create operation of this database."
   parameters:
   - description: "the longTermRetentionBackupResourceId value to set."
     name: "longTermRetentionBackupResourceId"

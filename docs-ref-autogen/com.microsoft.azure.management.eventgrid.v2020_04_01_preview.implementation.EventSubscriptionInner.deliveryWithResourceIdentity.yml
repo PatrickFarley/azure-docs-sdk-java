@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionInner.deliveryWithResourceIdentity()"
   name: "deliveryWithResourceIdentity()"
   nameWithType: "EventSubscriptionInner.deliveryWithResourceIdentity()"
-  summary: "Get information about the destination where events have to be delivered for the event subscription.\n     Uses the managed identity setup on the parent resource (namely, topic or domain) to acquire the authentication tokens being used during delivery / dead-lettering."
+  summary: "Get information about the destination where events have to be delivered for the event subscription. Uses the managed identity setup on the parent resource (namely, topic or domain) to acquire the authentication tokens being used during delivery / dead-lettering."
   syntax: "public DeliveryWithResourceIdentity deliveryWithResourceIdentity()"
   returns:
     description: "the deliveryWithResourceIdentity value"

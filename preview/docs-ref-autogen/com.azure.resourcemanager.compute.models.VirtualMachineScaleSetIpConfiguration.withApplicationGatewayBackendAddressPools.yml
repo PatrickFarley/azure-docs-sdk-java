@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetIpConfiguration.withApplicationGatewayBackendAddressPools(List<SubResource> applicationGatewayBackendAddressPools)"
   name: "withApplicationGatewayBackendAddressPools(List<SubResource> applicationGatewayBackendAddressPools)"
   nameWithType: "VirtualMachineScaleSetIpConfiguration.withApplicationGatewayBackendAddressPools(List<SubResource> applicationGatewayBackendAddressPools)"
-  summary: "Set the applicationGatewayBackendAddressPools property: Specifies an array of references to backend address pools\n of application gateways. A scale set can reference backend address pools of multiple application gateways.\n Multiple scale sets cannot use the same application gateway."
+  summary: "Set the applicationGatewayBackendAddressPools property: Specifies an array of references to backend address pools of application gateways. A scale set can reference backend address pools of multiple application gateways. Multiple scale sets cannot use the same application gateway."
   parameters:
   - description: "the applicationGatewayBackendAddressPools value to set."
     name: "applicationGatewayBackendAddressPools"

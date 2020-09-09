@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getMigrateMySqlStatus(String resourceGroupName, String name)"
   name: "getMigrateMySqlStatus(String resourceGroupName, String name)"
   nameWithType: "WebAppsClient.getMigrateMySqlStatus(String resourceGroupName, String name)"
-  summary: "Description for Returns the status of MySql in app migration, if one is active, and whether or not MySql in app\n is enabled."
+  summary: "Description for Returns the status of MySql in app migration, if one is active, and whether or not MySql in app is enabled."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getMigrateMySqlStatus(String resourceGroupName, String name, Context context)"
   name: "getMigrateMySqlStatus(String resourceGroupName, String name, Context context)"
   nameWithType: "WebAppsClient.getMigrateMySqlStatus(String resourceGroupName, String name, Context context)"
-  summary: "Description for Returns the status of MySql in app migration, if one is active, and whether or not MySql in app\n is enabled."
+  summary: "Description for Returns the status of MySql in app migration, if one is active, and whether or not MySql in app is enabled."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

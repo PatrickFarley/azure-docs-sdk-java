@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerWarning.getDetails()"
   name: "getDetails()"
   nameWithType: "SearchIndexerWarning.getDetails()"
-  summary: "Get the details property: Additional, verbose details about the warning\n to assist in debugging the indexer. This may not be always available."
+  summary: "Get the details property: Additional, verbose details about the warning to assist in debugging the indexer. This may not be always available."
   syntax: "public String getDetails()"
   returns:
     description: "the details value."

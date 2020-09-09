@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PacketCaptureStorageLocation.withStoragePath(String storagePath)"
   name: "withStoragePath(String storagePath)"
   nameWithType: "PacketCaptureStorageLocation.withStoragePath(String storagePath)"
-  summary: "Set the storagePath property: The URI of the storage path to save the packet capture. Must be a well-formed URI\n describing the location to save the packet capture."
+  summary: "Set the storagePath property: The URI of the storage path to save the packet capture. Must be a well-formed URI describing the location to save the packet capture."
   parameters:
   - description: "the storagePath value to set."
     name: "storagePath"

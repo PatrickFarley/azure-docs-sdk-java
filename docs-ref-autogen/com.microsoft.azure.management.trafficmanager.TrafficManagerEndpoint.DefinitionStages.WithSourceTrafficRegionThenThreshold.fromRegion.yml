@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerEndpoint.DefinitionStages.WithSourceTrafficRegionThenThreshold<ParentT>.fromRegion(Region region)"
   name: "fromRegion(Region region)"
   nameWithType: "TrafficManagerEndpoint.DefinitionStages.WithSourceTrafficRegionThenThreshold<ParentT>.fromRegion(Region region)"
-  summary: "Specifies the location of the endpoint that will be used when the parent profile is configured with\n Performance routing method <xref uid=\"TrafficRoutingMethod#PERFORMANCE\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#PERFORMANCE</xref>."
+  summary: "Specifies the location of the endpoint that will be used when the parent profile is configured with Performance routing method <xref uid=\"com.microsoft.azure.management.trafficmanager.TrafficRoutingMethod.PERFORMANCE\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#PERFORMANCE</xref>."
   parameters:
   - description: "the location"
     name: "region"

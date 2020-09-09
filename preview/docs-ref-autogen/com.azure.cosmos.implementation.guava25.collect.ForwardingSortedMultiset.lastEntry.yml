@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ForwardingSortedMultiset<E>.lastEntry()"
   name: "lastEntry()"
   nameWithType: "ForwardingSortedMultiset<E>.lastEntry()"
-  summary: "Returns the entry of the last element in this multiset, or <code>null</code> if this multiset is\n empty."
+  summary: "Returns the entry of the last element in this multiset, or `null` if this multiset is empty."
   syntax: "public Multiset.Entry<E> lastEntry()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Multiset.Entry?alt=com.azure.cosmos.implementation.guava25.collect.Multiset.Entry&text=Entry\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;"

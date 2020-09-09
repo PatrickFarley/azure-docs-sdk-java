@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServicePlanPatchResource.reserved()"
   name: "reserved()"
   nameWithType: "AppServicePlanPatchResource.reserved()"
-  summary: "Get the reserved property: This needs to set to &lt;code&gt;true&lt;/code&gt;\_when creating a Linux App Service\n Plan, along with &lt;code&gt;kind&lt;/code&gt; set to &lt;code&gt;Linux&lt;/code&gt;. It should be\n &lt;code&gt;false&lt;/code&gt; otherwise."
+  summary: "Get the reserved property: This needs to set to <code>true</code>\_when creating a Linux App Service Plan, along with <code>kind</code> set to <code>Linux</code>. It should be <code>false</code> otherwise."
   syntax: "public Boolean reserved()"
   returns:
     description: "the reserved value."

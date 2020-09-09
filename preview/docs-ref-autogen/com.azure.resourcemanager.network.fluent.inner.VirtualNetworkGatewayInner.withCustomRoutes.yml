@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkGatewayInner.withCustomRoutes(AddressSpace customRoutes)"
   name: "withCustomRoutes(AddressSpace customRoutes)"
   nameWithType: "VirtualNetworkGatewayInner.withCustomRoutes(AddressSpace customRoutes)"
-  summary: "Set the customRoutes property: The reference of the address space resource which represents the custom routes\n address space specified by the customer for virtual network gateway and VpnClient."
+  summary: "Set the customRoutes property: The reference of the address space resource which represents the custom routes address space specified by the customer for virtual network gateway and VpnClient."
   parameters:
   - description: "the customRoutes value to set."
     name: "customRoutes"

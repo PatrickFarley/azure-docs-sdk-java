@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.getPath()"
   name: "getPath()"
   nameWithType: "HandleItem.getPath()"
-  summary: "Get the path property: File or directory name including full path\n starting from share root."
+  summary: "Get the path property: File or directory name including full path starting from share root."
   syntax: "public String getPath()"
   returns:
     description: "the path value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.create()"
   name: "create()"
   nameWithType: "ShareAsyncClient.create()"
-  summary: "Creates the share in the storage account.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the share</p>\n\n <pre>\n shareAsyncClient.create&#40;&#41;.subscribe&#40;\n     response -&gt; &#123;\n     &#125;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Complete creating the share!&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-share\">Azure Docs</a>.</p>"
+  summary: "Creates the share in the storage account.\n\n**Code Samples**\n\nCreate the share\n\n```java\nshareAsyncClient.create().subscribe(\n     response -> {\n     },\n     error -> System.err.print(error.toString()),\n     () -> System.out.println(\"Complete creating the share!\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-share"
   syntax: "public Mono<ShareInfo> create()"
   returns:
     description: "The information about the <xref uid=\"com.azure.storage.file.share.models.ShareInfo\" data-throw-if-not-resolved=\"false\">share</xref>"

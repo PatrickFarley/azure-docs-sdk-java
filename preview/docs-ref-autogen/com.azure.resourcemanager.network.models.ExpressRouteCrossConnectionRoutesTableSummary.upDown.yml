@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ExpressRouteCrossConnectionRoutesTableSummary.upDown()"
   name: "upDown()"
   nameWithType: "ExpressRouteCrossConnectionRoutesTableSummary.upDown()"
-  summary: "Get the upDown property: The length of time that the BGP session has been in the Established state, or the\n current status if not in the Established state."
+  summary: "Get the upDown property: The length of time that the BGP session has been in the Established state, or the current status if not in the Established state."
   syntax: "public String upDown()"
   returns:
     description: "the upDown value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.polling.PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value)"
   name: "PollResponse(LongRunningOperationStatus status, T value)"
   nameWithType: "PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value)"
-  summary: "Creates a new <xref uid=\"PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status and value.\n\n <p><strong>Code Sample Creating PollResponse Object</strong></p>\n {@codesnippet com.azure.core.util.polling.pollresponse.status.value}"
+  summary: "Creates a new <xref uid=\"com.azure.core.util.polling.PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status and value.\n\n**Code Sample Creating PollResponse Object**\n\n\\{@codesnippet com.azure.core.util.polling.pollresponse.status.value\\}"
   parameters:
   - description: "Mandatory operation status as defined in <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref>."
     name: "status"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.core.util.polling.PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value, Duration retryAfter)"
   name: "PollResponse(LongRunningOperationStatus status, T value, Duration retryAfter)"
   nameWithType: "PollResponse<T>.PollResponse(LongRunningOperationStatus status, T value, Duration retryAfter)"
-  summary: "Creates a new <xref uid=\"PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status, value, retryAfter and properties.\n\n <p><strong>Code Sample Creating PollResponse Object</strong></p>\n {@codesnippet com.azure.core.util.polling.pollresponse.status.value.retryAfter.properties}"
+  summary: "Creates a new <xref uid=\"com.azure.core.util.polling.PollResponse\" data-throw-if-not-resolved=\"false\">PollResponse</xref> with status, value, retryAfter and properties.\n\n**Code Sample Creating PollResponse Object**\n\n\\{@codesnippet com.azure.core.util.polling.pollresponse.status.value.retryAfter.properties\\}"
   parameters:
   - description: "Mandatory operation status as defined in <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref>."
     name: "status"

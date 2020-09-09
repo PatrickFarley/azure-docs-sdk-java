@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.BM25Similarity.getB()"
   name: "getB()"
   nameWithType: "BM25Similarity.getB()"
-  summary: "Get the b property: This property controls how the length of a document affects the relevance score. By default,\n a value of 0.75 is used. A value of 0.0 means no length normalization is applied, while a value of 1.0 means the\n score is fully normalized by the length of the document."
+  summary: "Get the b property: This property controls how the length of a document affects the relevance score. By default, a value of 0.75 is used. A value of 0.0 means no length normalization is applied, while a value of 1.0 means the score is fully normalized by the length of the document."
   syntax: "public Double getB()"
   returns:
     description: "the b value."

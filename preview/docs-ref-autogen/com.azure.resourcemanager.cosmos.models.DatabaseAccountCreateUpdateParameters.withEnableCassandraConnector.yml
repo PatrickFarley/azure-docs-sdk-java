@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.DatabaseAccountCreateUpdateParameters.withEnableCassandraConnector(Boolean enableCassandraConnector)"
   name: "withEnableCassandraConnector(Boolean enableCassandraConnector)"
   nameWithType: "DatabaseAccountCreateUpdateParameters.withEnableCassandraConnector(Boolean enableCassandraConnector)"
-  summary: "Set the enableCassandraConnector property: Enables the cassandra connector on the Cosmos DB C* account."
+  summary: "Set the enableCassandraConnector property: Enables the cassandra connector on the Cosmos DB C\\* account."
   parameters:
   - description: "the enableCassandraConnector value to set."
     name: "enableCassandraConnector"

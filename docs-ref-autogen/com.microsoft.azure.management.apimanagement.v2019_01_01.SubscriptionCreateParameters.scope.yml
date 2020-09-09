@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.SubscriptionCreateParameters.scope()"
   name: "scope()"
   nameWithType: "SubscriptionCreateParameters.scope()"
-  summary: "Get scope like /products/{productId} or /apis or /apis/{apiId}."
+  summary: "Get scope like /products/\\{productId\\} or /apis or /apis/\\{apiId\\}."
   syntax: "public String scope()"
   returns:
     description: "the scope value"

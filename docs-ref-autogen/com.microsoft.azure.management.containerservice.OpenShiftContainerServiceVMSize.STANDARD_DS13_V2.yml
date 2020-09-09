@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.OpenShiftContainerServiceVMSize.STANDARD_DS13_V2"
   name: "STANDARD_DS13_V2"
   nameWithType: "OpenShiftContainerServiceVMSize.STANDARD_DS13_V2"
-  summary: "Static value Standard_DS13_v2 for OpenShiftContainerServiceVMSize."
+  summary: "Static value Standard\\_DS13\\_v2 for OpenShiftContainerServiceVMSize."
   syntax: "public static final OpenShiftContainerServiceVMSize STANDARD_DS13_V2"
 type: "field"
 metadata: {}

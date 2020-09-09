@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.reimageAsync(String poolId, String nodeId)"
   name: "reimageAsync(String poolId, String nodeId)"
   nameWithType: "ComputeNodes.reimageAsync(String poolId, String nodeId)"
-  summary: "Reinstalls the operating system on the specified Compute Node.\n You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
+  summary: "Reinstalls the operating system on the specified Compute Node. You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.reimageAsync(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions)"
   name: "reimageAsync(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions)"
   nameWithType: "ComputeNodes.reimageAsync(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions)"
-  summary: "Reinstalls the operating system on the specified Compute Node.\n You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
+  summary: "Reinstalls the operating system on the specified Compute Node. You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -46,7 +46,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.reimageAsync(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions, ServiceCallback<Void> serviceCallback)"
   name: "reimageAsync(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.reimageAsync(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Reinstalls the operating system on the specified Compute Node.\n You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
+  summary: "Reinstalls the operating system on the specified Compute Node. You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -71,7 +71,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.reimageAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   name: "reimageAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.reimageAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
-  summary: "Reinstalls the operating system on the specified Compute Node.\n You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
+  summary: "Reinstalls the operating system on the specified Compute Node. You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"

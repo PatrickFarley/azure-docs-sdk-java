@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayListener.UpdateStages.WithFrontendPort.withFrontendPort(int portNumber)"
   name: "withFrontendPort(int portNumber)"
   nameWithType: "ApplicationGatewayListener.UpdateStages.WithFrontendPort.withFrontendPort(int portNumber)"
-  summary: "Enables the listener to listen on the specified frontend port number.\n <p>\n If a frontend port for this port number does not yet exist, a new will be created with an auto-generated name."
+  summary: "Enables the listener to listen on the specified frontend port number.\n\nIf a frontend port for this port number does not yet exist, a new will be created with an auto-generated name."
   parameters:
   - description: "a port number"
     name: "portNumber"

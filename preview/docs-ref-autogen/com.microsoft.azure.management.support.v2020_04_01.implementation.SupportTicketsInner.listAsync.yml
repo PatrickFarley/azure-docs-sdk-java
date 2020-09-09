@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.implementation.SupportTicketsInner.listAsync()"
   name: "listAsync()"
   nameWithType: "SupportTicketsInner.listAsync()"
-  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by _Status_ or _CreatedDate_ using the $filter parameter. Output will be a paged result with _nextLink_, using which you can retrieve the next set of support tickets. &lt;br/&gt;&lt;br/&gt;Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
+  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by \\_Status\\_ or \\_CreatedDate\\_ using the $filter parameter. Output will be a paged result with \\_nextLink\\_, using which you can retrieve the next set of support tickets. <br/><br/>Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
   syntax: "public Observable<Page<SupportTicketDetailsInner>> listAsync()"
   returns:
     description: "the observable to the PagedList&lt;SupportTicketDetailsInner&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.implementation.SupportTicketsInner.listAsync(ListOperationCallback<SupportTicketDetailsInner> serviceCallback)"
   name: "listAsync(ListOperationCallback<SupportTicketDetailsInner> serviceCallback)"
   nameWithType: "SupportTicketsInner.listAsync(ListOperationCallback<SupportTicketDetailsInner> serviceCallback)"
-  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by _Status_ or _CreatedDate_ using the $filter parameter. Output will be a paged result with _nextLink_, using which you can retrieve the next set of support tickets. &lt;br/&gt;&lt;br/&gt;Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
+  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by \\_Status\\_ or \\_CreatedDate\\_ using the $filter parameter. Output will be a paged result with \\_nextLink\\_, using which you can retrieve the next set of support tickets. <br/><br/>Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
   parameters:
   - description: "the async ServiceCallback to handle successful and failed responses."
     name: "serviceCallback"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.implementation.SupportTicketsInner.listAsync(Integer top, String filter)"
   name: "listAsync(Integer top, String filter)"
   nameWithType: "SupportTicketsInner.listAsync(Integer top, String filter)"
-  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by _Status_ or _CreatedDate_ using the $filter parameter. Output will be a paged result with _nextLink_, using which you can retrieve the next set of support tickets. &lt;br/&gt;&lt;br/&gt;Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
+  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by \\_Status\\_ or \\_CreatedDate\\_ using the $filter parameter. Output will be a paged result with \\_nextLink\\_, using which you can retrieve the next set of support tickets. <br/><br/>Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
   parameters:
   - description: "The number of values to return in the collection. Default is 25 and max is 100."
     name: "top"
@@ -46,7 +46,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.implementation.SupportTicketsInner.listAsync(Integer top, String filter, ListOperationCallback<SupportTicketDetailsInner> serviceCallback)"
   name: "listAsync(Integer top, String filter, ListOperationCallback<SupportTicketDetailsInner> serviceCallback)"
   nameWithType: "SupportTicketsInner.listAsync(Integer top, String filter, ListOperationCallback<SupportTicketDetailsInner> serviceCallback)"
-  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by _Status_ or _CreatedDate_ using the $filter parameter. Output will be a paged result with _nextLink_, using which you can retrieve the next set of support tickets. &lt;br/&gt;&lt;br/&gt;Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
+  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by \\_Status\\_ or \\_CreatedDate\\_ using the $filter parameter. Output will be a paged result with \\_nextLink\\_, using which you can retrieve the next set of support tickets. <br/><br/>Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
   parameters:
   - description: "The number of values to return in the collection. Default is 25 and max is 100."
     name: "top"

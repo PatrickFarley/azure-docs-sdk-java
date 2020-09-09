@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.specialized.DataLakeLeaseAsyncClient.renewLeaseWithResponse(RequestConditions modifiedRequestConditions)"
   name: "renewLeaseWithResponse(RequestConditions modifiedRequestConditions)"
   nameWithType: "DataLakeLeaseAsyncClient.renewLeaseWithResponse(RequestConditions modifiedRequestConditions)"
-  summary: "Renews the previously acquired lease.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n RequestConditions modifiedRequestConditions = new RequestConditions&#40;&#41;\n     .setIfUnmodifiedSince&#40;OffsetDateTime.now&#40;&#41;.minusDays&#40;3&#41;&#41;;\n \n client.renewLeaseWithResponse&#40;modifiedRequestConditions&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Renewed lease ID is %s%n&quot;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Renews the previously acquired lease.\n\n**Code Samples**\n\n```java\nRequestConditions modifiedRequestConditions = new RequestConditions()\n     .setIfUnmodifiedSince(OffsetDateTime.now().minusDays(3));\n \n client.renewLeaseWithResponse(modifiedRequestConditions).subscribe(response ->\n     System.out.printf(\"Renewed lease ID is %s%n\", response.getValue()));\n```"
   parameters:
   - description: "Standard HTTP Access conditions related to the modification of data. ETag and\n LastModifiedTime are used to construct conditions related to when the resource was changed relative to the given\n request. The request will fail if the specified condition is not satisfied."
     name: "modifiedRequestConditions"

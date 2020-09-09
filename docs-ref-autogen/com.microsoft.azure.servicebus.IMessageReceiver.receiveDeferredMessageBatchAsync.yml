@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.receiveDeferredMessageBatchAsync(Collection<Long> sequenceNumbers)"
   name: "receiveDeferredMessageBatchAsync(Collection<Long> sequenceNumbers)"
   nameWithType: "IMessageReceiver.receiveDeferredMessageBatchAsync(Collection<Long> sequenceNumbers)"
-  summary: "Asynchronously receives a set of deferred <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> from the entity."
+  summary: "Asynchronously receives a set of deferred <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> from the entity."
   parameters:
   - description: "The sequence numbers of the message that will be received."
     name: "sequenceNumbers"

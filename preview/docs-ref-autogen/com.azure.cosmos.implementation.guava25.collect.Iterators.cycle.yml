@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>cycle(T[] elements)"
   name: "<T>cycle(T[] elements)"
   nameWithType: "Iterators.<T>cycle(T[] elements)"
-  summary: "Returns an iterator that cycles indefinitely over the provided elements.\n\n <p>The returned iterator supports <code>remove()</code>. After <code>remove()</code> is called,\n subsequent cycles omit the removed element, but <code>elements</code> does not change. The\n iterator's <code>hasNext()</code> method returns <code>true</code> until all of the original elements\n have been removed.\n\n <p><b>Warning:</b> Typical uses of the resulting iterator may produce an infinite loop. You\n should use an explicit <code>break</code> or be certain that you will eventually remove all the\n elements."
+  summary: "Returns an iterator that cycles indefinitely over the provided elements.\n\nThe returned iterator supports `remove()`. After `remove()` is called, subsequent cycles omit the removed element, but `elements` does not change. The iterator's `hasNext()` method returns `true` until all of the original elements have been removed.\n\n**Warning:** Typical uses of the resulting iterator may produce an infinite loop. You should use an explicit `break` or be certain that you will eventually remove all the elements."
   parameters:
   - name: "elements"
     type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />[]"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>cycle(Iterable<T> iterable)"
   name: "<T>cycle(Iterable<T> iterable)"
   nameWithType: "Iterators.<T>cycle(Iterable<T> iterable)"
-  summary: "Returns an iterator that cycles indefinitely over the elements of <code>iterable</code>.\n\n <p>The returned iterator supports <code>remove()</code> if the provided iterator does. After <code>\n remove()</code> is called, subsequent cycles omit the removed element, which is no longer in <code>\n iterable</code>. The iterator's <code>hasNext()</code> method returns <code>true</code> until <code>iterable</code>\n is empty.\n\n <p><b>Warning:</b> Typical uses of the resulting iterator may produce an infinite loop. You\n should use an explicit <code>break</code> or be certain that you will eventually remove all the\n elements."
+  summary: "Returns an iterator that cycles indefinitely over the elements of `iterable`.\n\nThe returned iterator supports `remove()` if the provided iterator does. After `remove()` is called, subsequent cycles omit the removed element, which is no longer in `iterable`. The iterator's `hasNext()` method returns `true` until `iterable` is empty.\n\n**Warning:** Typical uses of the resulting iterator may produce an infinite loop. You should use an explicit `break` or be certain that you will eventually remove all the elements."
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

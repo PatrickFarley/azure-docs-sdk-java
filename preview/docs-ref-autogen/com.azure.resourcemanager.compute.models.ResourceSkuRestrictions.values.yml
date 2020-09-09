@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ResourceSkuRestrictions.values()"
   name: "values()"
   nameWithType: "ResourceSkuRestrictions.values()"
-  summary: "Get the values property: The value of restrictions. If the restriction type is set to location. This would be\n different locations where the SKU is restricted."
+  summary: "Get the values property: The value of restrictions. If the restriction type is set to location. This would be different locations where the SKU is restricted."
   syntax: "public List<String> values()"
   returns:
     description: "the values value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkInner.withDhcpOptions(DhcpOptions dhcpOptions)"
   name: "withDhcpOptions(DhcpOptions dhcpOptions)"
   nameWithType: "VirtualNetworkInner.withDhcpOptions(DhcpOptions dhcpOptions)"
-  summary: "Set the dhcpOptions property: The dhcpOptions that contains an array of DNS servers available to VMs deployed in\n the virtual network."
+  summary: "Set the dhcpOptions property: The dhcpOptions that contains an array of DNS servers available to VMs deployed in the virtual network."
   parameters:
   - description: "the dhcpOptions value to set."
     name: "dhcpOptions"

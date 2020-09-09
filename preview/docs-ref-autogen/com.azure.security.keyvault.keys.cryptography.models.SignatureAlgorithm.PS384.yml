@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.models.SignatureAlgorithm.PS384"
   name: "PS384"
   nameWithType: "SignatureAlgorithm.PS384"
-  summary: "Static value RSA_OAEP_256 for SignatureAlgorithm."
+  summary: "Static value RSA\\_OAEP\\_256 for SignatureAlgorithm."
   syntax: "public static final SignatureAlgorithm PS384"
 type: "field"
 metadata: {}

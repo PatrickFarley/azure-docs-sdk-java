@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.SerializationUtil.configureMapper(ObjectMapper mapper)"
   name: "configureMapper(ObjectMapper mapper)"
   nameWithType: "SerializationUtil.configureMapper(ObjectMapper mapper)"
-  summary: "Configures an <xref uid=\"ObjectMapper\" data-throw-if-not-resolved=\"false\">ObjectMapper</xref> with custom behavior needed to work with the Azure Cognitive Search REST API."
+  summary: "Configures an <xref uid=\"com.fasterxml.jackson.databind.ObjectMapper\" data-throw-if-not-resolved=\"false\">ObjectMapper</xref> with custom behavior needed to work with the Azure Cognitive Search REST API."
   parameters:
   - name: "mapper"
     type: "<xref href=\"com.fasterxml.jackson.databind.ObjectMapper?alt=com.fasterxml.jackson.databind.ObjectMapper&text=ObjectMapper\" data-throw-if-not-resolved=\"False\" />"

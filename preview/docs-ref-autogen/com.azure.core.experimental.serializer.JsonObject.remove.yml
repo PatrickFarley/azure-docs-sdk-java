@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.serializer.JsonObject.remove(String name)"
   name: "remove(String name)"
   nameWithType: "JsonObject.remove(String name)"
-  summary: "Removes the <xref uid=\"JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> with the specified name from the object."
+  summary: "Removes the <xref uid=\"com.azure.core.experimental.serializer.JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> with the specified name from the object."
   parameters:
   - description: "Name of the node."
     name: "name"

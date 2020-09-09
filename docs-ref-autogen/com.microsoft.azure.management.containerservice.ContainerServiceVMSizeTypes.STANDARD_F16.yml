@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_F16"
   name: "STANDARD_F16"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_F16"
-  summary: "Static value Standard_F16 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_F16 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_F16"
 type: "field"
 metadata: {}

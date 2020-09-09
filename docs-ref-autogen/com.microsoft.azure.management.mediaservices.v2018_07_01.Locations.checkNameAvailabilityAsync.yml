@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.Locations.checkNameAvailabilityAsync(String locationName, CheckNameAvailabilityInput parameters)"
   name: "checkNameAvailabilityAsync(String locationName, CheckNameAvailabilityInput parameters)"
   nameWithType: "Locations.checkNameAvailabilityAsync(String locationName, CheckNameAvailabilityInput parameters)"
-  summary: "Check Name Availability.\n Checks whether the Media Service resource name is available."
+  summary: "Check Name Availability. Checks whether the Media Service resource name is available."
   parameters:
   - description: "The name of the location"
     name: "locationName"

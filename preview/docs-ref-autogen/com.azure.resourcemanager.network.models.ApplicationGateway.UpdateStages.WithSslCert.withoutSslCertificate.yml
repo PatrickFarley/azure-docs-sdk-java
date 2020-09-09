@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.UpdateStages.WithSslCert.withoutSslCertificate(String name)"
   name: "withoutSslCertificate(String name)"
   nameWithType: "ApplicationGateway.UpdateStages.WithSslCert.withoutSslCertificate(String name)"
-  summary: "Removes the specified SSL certificate from the application gateway.\n\n <p>Note that removing a certificate referenced by other settings may break the application gateway."
+  summary: "Removes the specified SSL certificate from the application gateway.\n\nNote that removing a certificate referenced by other settings may break the application gateway."
   parameters:
   - description: "the name of the certificate to remove"
     name: "name"

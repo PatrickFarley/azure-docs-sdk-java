@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.SubscriptionInner.state()"
   name: "state()"
   nameWithType: "SubscriptionInner.state()"
-  summary: "Get the state property: The subscription state. Possible values are Enabled, Warned, PastDue, Disabled, and\n Deleted."
+  summary: "Get the state property: The subscription state. Possible values are Enabled, Warned, PastDue, Disabled, and Deleted."
   syntax: "public SubscriptionState state()"
   returns:
     description: "the state value."

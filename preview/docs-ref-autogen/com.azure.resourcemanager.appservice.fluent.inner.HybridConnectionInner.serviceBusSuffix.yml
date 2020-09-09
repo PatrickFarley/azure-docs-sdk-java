@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.HybridConnectionInner.serviceBusSuffix()"
   name: "serviceBusSuffix()"
   nameWithType: "HybridConnectionInner.serviceBusSuffix()"
-  summary: "Get the serviceBusSuffix property: The suffix for the service bus endpoint. By default this is\n .servicebus.windows.net."
+  summary: "Get the serviceBusSuffix property: The suffix for the service bus endpoint. By default this is .servicebus.windows.net."
   syntax: "public String serviceBusSuffix()"
   returns:
     description: "the serviceBusSuffix value."

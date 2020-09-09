@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnServerConfigurationInner.withP2SVpnServerConfigVpnClientRootCertificates(List<P2SVpnServerConfigVpnClientRootCertificate> p2SVpnServerConfigVpnClientRootCertificates)"
   name: "withP2SVpnServerConfigVpnClientRootCertificates(List<P2SVpnServerConfigVpnClientRootCertificate> p2SVpnServerConfigVpnClientRootCertificates)"
   nameWithType: "P2SVpnServerConfigurationInner.withP2SVpnServerConfigVpnClientRootCertificates(List<P2SVpnServerConfigVpnClientRootCertificate> p2SVpnServerConfigVpnClientRootCertificates)"
-  summary: "Set the p2SVpnServerConfigVpnClientRootCertificates property: VPN client root certificate of\n P2SVpnServerConfiguration."
+  summary: "Set the p2SVpnServerConfigVpnClientRootCertificates property: VPN client root certificate of P2SVpnServerConfiguration."
   parameters:
   - description: "the p2SVpnServerConfigVpnClientRootCertificates value to set."
     name: "p2SVpnServerConfigVpnClientRootCertificates"

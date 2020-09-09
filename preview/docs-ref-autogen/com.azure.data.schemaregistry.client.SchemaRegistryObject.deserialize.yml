@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.SchemaRegistryObject.deserialize()"
   name: "deserialize()"
   nameWithType: "SchemaRegistryObject.deserialize()"
-  summary: "Deserialize schema bytes returned from Schema Registry.  If deserialization has happened once, the deserialized\n  object is stored and returned."
+  summary: "Deserialize schema bytes returned from Schema Registry. If deserialization has happened once, the deserialized object is stored and returned."
   syntax: "public Object deserialize()"
   returns:
     description: "schema object, deserialized using stored schema parser method."

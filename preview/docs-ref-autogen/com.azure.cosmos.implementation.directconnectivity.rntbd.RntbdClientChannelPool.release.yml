@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool.release(Channel channel)"
   name: "release(Channel channel)"
   nameWithType: "RntbdClientChannelPool.release(Channel channel)"
-  summary: "Releases a <xref uid=\"Channel\" data-throw-if-not-resolved=\"false\">channel</xref> back to the current <xref uid=\"RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">pool</xref>.\n <p>\n TODO (DANOBLE) Javadoc for <xref uid=\"RntbdClientChannelPool#release\" data-throw-if-not-resolved=\"false\">RntbdClientChannelPool#release</xref>."
+  summary: "Releases a <xref uid=\"io.netty.channel.Channel\" data-throw-if-not-resolved=\"false\">channel</xref> back to the current <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">pool</xref>.\n\nTODO (DANOBLE) Javadoc for <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool.release*\" data-throw-if-not-resolved=\"false\">RntbdClientChannelPool#release</xref>."
   parameters:
   - description: "a <xref uid=\"io.netty.channel.Channel\" data-throw-if-not-resolved=\"false\">channel</xref> to release back to the  <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">channel pool</xref>."
     name: "channel"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool.release(Channel channel, Promise<Void> promise)"
   name: "release(Channel channel, Promise<Void> promise)"
   nameWithType: "RntbdClientChannelPool.release(Channel channel, Promise<Void> promise)"
-  summary: "Releases a <xref uid=\"Channel\" data-throw-if-not-resolved=\"false\">channel</xref> back to the current <xref uid=\"RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">pool</xref>.\n <p>\n TODO (DANOBLE) Javadoc for <xref uid=\"RntbdClientChannelPool#release\" data-throw-if-not-resolved=\"false\">RntbdClientChannelPool#release</xref>."
+  summary: "Releases a <xref uid=\"io.netty.channel.Channel\" data-throw-if-not-resolved=\"false\">channel</xref> back to the current <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">pool</xref>.\n\nTODO (DANOBLE) Javadoc for <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool.release*\" data-throw-if-not-resolved=\"false\">RntbdClientChannelPool#release</xref>."
   parameters:
   - description: "a <xref uid=\"io.netty.channel.Channel\" data-throw-if-not-resolved=\"false\">channel</xref> to release back to the  <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool\" data-throw-if-not-resolved=\"false\">channel pool</xref>."
     name: "channel"

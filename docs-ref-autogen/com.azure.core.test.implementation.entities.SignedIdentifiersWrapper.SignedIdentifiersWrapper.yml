@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.implementation.entities.SignedIdentifiersWrapper.SignedIdentifiersWrapper(List<SignedIdentifierInner> signedIdentifiers)"
   name: "SignedIdentifiersWrapper(List<SignedIdentifierInner> signedIdentifiers)"
   nameWithType: "SignedIdentifiersWrapper.SignedIdentifiersWrapper(List<SignedIdentifierInner> signedIdentifiers)"
-  summary: "Creates a wrapper for <code>signedIdentifiers</code>."
+  summary: "Creates a wrapper for `signedIdentifiers`."
   parameters:
   - description: "Identifiers to wrap."
     name: "signedIdentifiers"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.UUIDTimer._random"
   name: "_random"
   nameWithType: "UUIDTimer._random"
-  summary: "Random number generator used to generate additional information \n to further reduce probability of collisions."
+  summary: "Random number generator used to generate additional information to further reduce probability of collisions."
   syntax: "protected final Random _random"
 type: "field"
 metadata: {}

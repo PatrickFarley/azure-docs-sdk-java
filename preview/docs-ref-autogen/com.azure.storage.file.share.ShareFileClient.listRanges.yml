@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.listRanges()"
   name: "listRanges()"
   nameWithType: "ShareFileClient.listRanges()"
-  summary: "List of valid ranges for a file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>List all ranges for the file client.</p>\n\n <pre>\n Iterable&lt;ShareFileRange&gt; ranges = fileClient.listRanges&#40;&#41;;\n ranges.forEach&#40;range -&gt;\n     System.out.printf&#40;&quot;List ranges completed with start: %d, end: %d&quot;, range.getStart&#40;&#41;, range.getEnd&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges\">Azure Docs</a>.</p>"
+  summary: "List of valid ranges for a file.\n\n**Code Samples**\n\nList all ranges for the file client.\n\n```java\nIterable<ShareFileRange> ranges = fileClient.listRanges();\n ranges.forEach(range ->\n     System.out.printf(\"List ranges completed with start: %d, end: %d\", range.getStart(), range.getEnd()));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges"
   syntax: "public PagedIterable<ShareFileRange> listRanges()"
   returns:
     description: "<xref uid=\"com.azure.storage.file.share.models.ShareFileRange\" data-throw-if-not-resolved=\"false\">ranges</xref> in the files."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.listRanges(ShareFileRange range, ShareRequestConditions requestConditions, Duration timeout, Context context)"
   name: "listRanges(ShareFileRange range, ShareRequestConditions requestConditions, Duration timeout, Context context)"
   nameWithType: "ShareFileClient.listRanges(ShareFileRange range, ShareRequestConditions requestConditions, Duration timeout, Context context)"
-  summary: "List of valid ranges for a file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>List all ranges within the file range from 1KB to 2KB.</p>\n\n <pre>\n ShareRequestConditions requestConditions = new ShareRequestConditions&#40;&#41;.setLeaseId&#40;leaseId&#41;;\n Iterable&lt;ShareFileRange&gt; ranges = fileClient.listRanges&#40;new ShareFileRange&#40;1024, 2048L&#41;, requestConditions,\n     Duration.ofSeconds&#40;1&#41;, new Context&#40;key1, value1&#41;&#41;;\n ranges.forEach&#40;range -&gt;\n     System.out.printf&#40;&quot;List ranges completed with start: %d, end: %d&quot;, range.getStart&#40;&#41;, range.getEnd&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges\">Azure Docs</a>.</p>"
+  summary: "List of valid ranges for a file.\n\n**Code Samples**\n\nList all ranges within the file range from 1KB to 2KB.\n\n```java\nShareRequestConditions requestConditions = new ShareRequestConditions().setLeaseId(leaseId);\n Iterable<ShareFileRange> ranges = fileClient.listRanges(new ShareFileRange(1024, 2048L), requestConditions,\n     Duration.ofSeconds(1), new Context(key1, value1));\n ranges.forEach(range ->\n     System.out.printf(\"List ranges completed with start: %d, end: %d\", range.getStart(), range.getEnd()));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges"
   parameters:
   - description: "Optional byte range which returns file data only from the specified range."
     name: "range"
@@ -39,7 +39,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.listRanges(ShareFileRange range, Duration timeout, Context context)"
   name: "listRanges(ShareFileRange range, Duration timeout, Context context)"
   nameWithType: "ShareFileClient.listRanges(ShareFileRange range, Duration timeout, Context context)"
-  summary: "List of valid ranges for a file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>List all ranges within the file range from 1KB to 2KB.</p>\n\n <pre>\n Iterable&lt;ShareFileRange&gt; ranges = fileClient.listRanges&#40;new ShareFileRange&#40;1024, 2048L&#41;, Duration.ofSeconds&#40;1&#41;,\n     new Context&#40;key1, value1&#41;&#41;;\n ranges.forEach&#40;range -&gt;\n     System.out.printf&#40;&quot;List ranges completed with start: %d, end: %d&quot;, range.getStart&#40;&#41;, range.getEnd&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges\">Azure Docs</a>.</p>"
+  summary: "List of valid ranges for a file.\n\n**Code Samples**\n\nList all ranges within the file range from 1KB to 2KB.\n\n```java\nIterable<ShareFileRange> ranges = fileClient.listRanges(new ShareFileRange(1024, 2048L), Duration.ofSeconds(1),\n     new Context(key1, value1));\n ranges.forEach(range ->\n     System.out.printf(\"List ranges completed with start: %d, end: %d\", range.getStart(), range.getEnd()));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges"
   parameters:
   - description: "Optional byte range which returns file data only from the specified range."
     name: "range"

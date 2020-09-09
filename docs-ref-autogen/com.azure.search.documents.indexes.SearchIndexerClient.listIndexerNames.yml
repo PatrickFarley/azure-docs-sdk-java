@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.listIndexerNames()"
   name: "listIndexerNames()"
   nameWithType: "SearchIndexerClient.listIndexerNames()"
-  summary: "Lists all indexers names for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexer names. </p>\n\n <pre>\n PagedIterable&lt;String&gt; indexers = searchIndexerClient.listIndexerNames&#40;&#41;;\n for &#40;String indexerName: indexers&#41; &#123;\n     System.out.printf&#40;&quot;The indexer name is %s.%n&quot;, indexerName&#41;;\n &#125;\n </pre>"
+  summary: "Lists all indexers names for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexer names.\n\n```java\nPagedIterable<String> indexers = searchIndexerClient.listIndexerNames();\n for (String indexerName: indexers) {\n     System.out.printf(\"The indexer name is %s.%n\", indexerName);\n }\n```"
   syntax: "public PagedIterable<String> listIndexerNames()"
   returns:
     description: "all Indexer names from the Search service ."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.listIndexerNames(Context context)"
   name: "listIndexerNames(Context context)"
   nameWithType: "SearchIndexerClient.listIndexerNames(Context context)"
-  summary: "Lists all indexers names for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexer names. </p>\n\n <pre>\n PagedIterable&lt;String&gt; indexers = searchIndexerClient.listIndexerNames&#40;new Context&#40;key1, value1&#41;&#41;;\n System.out.println&#40;&quot;The status code of the response is&quot;\n     + indexers.iterableByPage&#40;&#41;.iterator&#40;&#41;.next&#40;&#41;.getStatusCode&#40;&#41;&#41;;\n for &#40;String indexerName: indexers&#41; &#123;\n     System.out.printf&#40;&quot;The indexer name is %s.%n&quot;, indexerName&#41;;\n &#125;\n </pre>"
+  summary: "Lists all indexers names for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexer names.\n\n```java\nPagedIterable<String> indexers = searchIndexerClient.listIndexerNames(new Context(key1, value1));\n System.out.println(\"The status code of the response is\"\n     + indexers.iterableByPage().iterator().next().getStatusCode());\n for (String indexerName: indexers) {\n     System.out.printf(\"The indexer name is %s.%n\", indexerName);\n }\n```"
   parameters:
   - description: "additional context that is passed through the HTTP pipeline during the service call"
     name: "context"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.getBlobName()"
   name: "getBlobName()"
   nameWithType: "BlobClientBase.getBlobName()"
-  summary: "Decodes and gets the blob name.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n String blobName = client.getBlobName&#40;&#41;;\n System.out.println&#40;&quot;The name of the blob is &quot; + blobName&#41;;\n </pre>"
+  summary: "Decodes and gets the blob name.\n\n**Code Samples**\n\n```java\nString blobName = client.getBlobName();\n System.out.println(\"The name of the blob is \" + blobName);\n```"
   syntax: "public final String getBlobName()"
   returns:
     description: "The decoded name of the blob."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventHubClientBuilder.prefetchCount(int prefetchCount)"
   name: "prefetchCount(int prefetchCount)"
   nameWithType: "EventHubClientBuilder.prefetchCount(int prefetchCount)"
-  summary: "Sets the count used by the receiver to control the number of events the Event Hub consumer will actively receive\n and queue locally without regard to whether a receive operation is currently active."
+  summary: "Sets the count used by the receiver to control the number of events the Event Hub consumer will actively receive and queue locally without regard to whether a receive operation is currently active."
   parameters:
   - description: "The amount of events to queue locally."
     name: "prefetchCount"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayBackendHttpConfiguration.DefinitionStages.WithAuthenticationCertificate<ReturnT>.withAuthenticationCertificateFromBytes(byte[] derData)"
   name: "withAuthenticationCertificateFromBytes(byte[] derData)"
   nameWithType: "ApplicationGatewayBackendHttpConfiguration.DefinitionStages.WithAuthenticationCertificate<ReturnT>.withAuthenticationCertificateFromBytes(byte[] derData)"
-  summary: "Associates a new, automatically named certificate with this HTTP backend configuration based on the specified data.\n <p>\n Multiple calls to this method will add additional certificate references."
+  summary: "Associates a new, automatically named certificate with this HTTP backend configuration based on the specified data.\n\nMultiple calls to this method will add additional certificate references."
   parameters:
   - description: "the DER-encoded data of an X.509 certificate"
     name: "derData"

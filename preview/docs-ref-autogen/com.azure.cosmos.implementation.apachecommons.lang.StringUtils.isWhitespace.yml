@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.isWhitespace(CharSequence cs)"
   name: "isWhitespace(CharSequence cs)"
   nameWithType: "StringUtils.isWhitespace(CharSequence cs)"
-  summary: "<p>Checks if the CharSequence contains only whitespace.</p>"
+  summary: "Checks if the CharSequence contains only whitespace."
   parameters:
   - description: "the CharSequence to check, may be null"
     name: "cs"

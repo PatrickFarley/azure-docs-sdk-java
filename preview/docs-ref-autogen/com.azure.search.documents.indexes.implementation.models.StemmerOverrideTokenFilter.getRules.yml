@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.StemmerOverrideTokenFilter.getRules()"
   name: "getRules()"
   nameWithType: "StemmerOverrideTokenFilter.getRules()"
-  summary: "Get the rules property: A list of stemming rules in the following format: \"word =&gt; stem\", for example: \"ran\n =&gt; run\"."
+  summary: "Get the rules property: A list of stemming rules in the following format: \"word => stem\", for example: \"ran => run\"."
   syntax: "public List<String> getRules()"
   returns:
     description: "the rules value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.AutoscaleSetting.UpdateStages.DefineAutoscaleSettingProfiles.defineAutoscaleProfile(String name)"
   name: "defineAutoscaleProfile(String name)"
   nameWithType: "AutoscaleSetting.UpdateStages.DefineAutoscaleSettingProfiles.defineAutoscaleProfile(String name)"
-  summary: "Starts definition of automatic scaling profiles that specify different scaling parameters for different\n time periods. A maximum of 20 profiles can be specified."
+  summary: "Starts definition of automatic scaling profiles that specify different scaling parameters for different time periods. A maximum of 20 profiles can be specified."
   parameters:
   - description: "name of the profile."
     name: "name"

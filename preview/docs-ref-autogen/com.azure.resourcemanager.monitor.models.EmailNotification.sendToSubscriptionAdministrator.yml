@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.EmailNotification.sendToSubscriptionAdministrator()"
   name: "sendToSubscriptionAdministrator()"
   nameWithType: "EmailNotification.sendToSubscriptionAdministrator()"
-  summary: "Get the sendToSubscriptionAdministrator property: a value indicating whether to send email to subscription\n administrator."
+  summary: "Get the sendToSubscriptionAdministrator property: a value indicating whether to send email to subscription administrator."
   syntax: "public Boolean sendToSubscriptionAdministrator()"
   returns:
     description: "the sendToSubscriptionAdministrator value."

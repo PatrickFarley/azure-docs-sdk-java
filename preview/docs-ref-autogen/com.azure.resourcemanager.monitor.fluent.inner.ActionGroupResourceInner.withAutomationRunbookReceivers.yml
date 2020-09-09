@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.ActionGroupResourceInner.withAutomationRunbookReceivers(List<AutomationRunbookReceiver> automationRunbookReceivers)"
   name: "withAutomationRunbookReceivers(List<AutomationRunbookReceiver> automationRunbookReceivers)"
   nameWithType: "ActionGroupResourceInner.withAutomationRunbookReceivers(List<AutomationRunbookReceiver> automationRunbookReceivers)"
-  summary: "Set the automationRunbookReceivers property: The list of AutomationRunbook receivers that are part of this action\n group."
+  summary: "Set the automationRunbookReceivers property: The list of AutomationRunbook receivers that are part of this action group."
   parameters:
   - description: "the automationRunbookReceivers value to set."
     name: "automationRunbookReceivers"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.join(String separator, int[] array)"
   name: "join(String separator, int[] array)"
   nameWithType: "Ints.join(String separator, int[] array)"
-  summary: "Returns a string containing the supplied <code>int</code> values separated by <code>separator</code>. For\n example, <code>join(\"-\", 1, 2, 3)</code> returns the string <code>\"1-2-3\"</code>."
+  summary: "Returns a string containing the supplied `int` values separated by `separator`. For example, `join(\"-\", 1, 2, 3)` returns the string `\"1-2-3\"`."
   parameters:
   - description: "the text that should appear between consecutive values in the resulting string\n     (but not at the start or end)"
     name: "separator"

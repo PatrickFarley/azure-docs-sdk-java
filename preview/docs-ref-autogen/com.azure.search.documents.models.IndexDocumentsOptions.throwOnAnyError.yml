@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.IndexDocumentsOptions.throwOnAnyError()"
   name: "throwOnAnyError()"
   nameWithType: "IndexDocumentsOptions.throwOnAnyError()"
-  summary: "Returns whether an exception will be thrown if any operation in the batch fails.\n <p>\n Default value is <code>true</code>."
+  summary: "Returns whether an exception will be thrown if any operation in the batch fails.\n\nDefault value is `true`."
   syntax: "public boolean throwOnAnyError()"
   returns:
     description: "Flag indicating if an exception will be thrown if any operation in the batch fails."

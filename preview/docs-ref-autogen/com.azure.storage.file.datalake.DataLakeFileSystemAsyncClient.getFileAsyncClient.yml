@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemAsyncClient.getFileAsyncClient(String fileName)"
   name: "getFileAsyncClient(String fileName)"
   nameWithType: "DataLakeFileSystemAsyncClient.getFileAsyncClient(String fileName)"
-  summary: "Initializes a new DataLakeFileAsyncClient object by concatenating fileName to the end of\n DataLakeFileSystemAsyncClient's URL. The new DataLakeFileAsyncClient uses the same request policy pipeline as\n the DataLakeFileSystemAsyncClient.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n DataLakeFileAsyncClient dataLakeFileAsyncClient = client.getFileAsyncClient&#40;fileName&#41;;\n </pre>"
+  summary: "Initializes a new DataLakeFileAsyncClient object by concatenating fileName to the end of DataLakeFileSystemAsyncClient's URL. The new DataLakeFileAsyncClient uses the same request policy pipeline as the DataLakeFileSystemAsyncClient.\n\n**Code Samples**\n\n```java\nDataLakeFileAsyncClient dataLakeFileAsyncClient = client.getFileAsyncClient(fileName);\n```"
   parameters:
   - description: "A <code>String</code> representing the name of the file."
     name: "fileName"

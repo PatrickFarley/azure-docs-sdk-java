@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryAsyncClient.deleteWithResponse()"
   name: "deleteWithResponse()"
   nameWithType: "ShareDirectoryAsyncClient.deleteWithResponse()"
-  summary: "Deletes the directory in the file share.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the directory</p>\n\n <pre>\n shareDirectoryAsyncClient.deleteWithResponse&#40;&#41;.subscribe&#40;\n     response -&gt; System.out.printf&#40;&quot;Delete completed with status code %d&quot;, response.getStatusCode&#40;&#41;&#41;,\n     error -&gt; System.err.println&#40;error.toString&#40;&#41;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory\">Azure Docs</a>.</p>"
+  summary: "Deletes the directory in the file share.\n\n**Code Samples**\n\nDelete the directory\n\n```java\nshareDirectoryAsyncClient.deleteWithResponse().subscribe(\n     response -> System.out.printf(\"Delete completed with status code %d\", response.getStatusCode()),\n     error -> System.err.println(error.toString())\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory"
   syntax: "public Mono<Response<Void>> deleteWithResponse()"
   returns:
     description: "A response that only contains headers and response status code"

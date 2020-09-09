@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.SkuInformationInner.locations()"
   name: "locations()"
   nameWithType: "SkuInformationInner.locations()"
-  summary: "Get the locations property: The set of locations that the SKU is available. This will be supported and registered\n Azure Geo Regions (e.g. West US, East US, Southeast Asia, etc.)."
+  summary: "Get the locations property: The set of locations that the SKU is available. This will be supported and registered Azure Geo Regions (e.g. West US, East US, Southeast Asia, etc.)."
   syntax: "public List<String> locations()"
   returns:
     description: "the locations value."

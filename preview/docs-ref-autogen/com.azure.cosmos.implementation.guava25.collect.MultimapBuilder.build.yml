@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MultimapBuilder<K0,V0>.<K,V>build()"
   name: "<K,V>build()"
   nameWithType: "MultimapBuilder<K0,V0>.<K,V>build()"
-  summary: "Returns a new, empty <code>Multimap</code> with the specified implementation."
+  summary: "Returns a new, empty `Multimap` with the specified implementation."
   syntax: "public abstract Multimap<K,V> <K,V>build()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Multimap?alt=com.azure.cosmos.implementation.guava25.collect.Multimap&text=Multimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MultimapBuilder<K0,V0>.<K,V>build(Multimap<? extends K,? extends V> multimap)"
   name: "<K,V>build(Multimap<? extends K,? extends V> multimap)"
   nameWithType: "MultimapBuilder<K0,V0>.<K,V>build(Multimap<? extends K,? extends V> multimap)"
-  summary: "Returns a <code>Multimap</code> with the specified implementation, initialized with the entries of\n <code>multimap</code>."
+  summary: "Returns a `Multimap` with the specified implementation, initialized with the entries of `multimap`."
   parameters:
   - name: "multimap"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.Multimap?alt=com.azure.cosmos.implementation.guava25.collect.Multimap&text=Multimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends K?alt=? extends K&text=? extends K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;"

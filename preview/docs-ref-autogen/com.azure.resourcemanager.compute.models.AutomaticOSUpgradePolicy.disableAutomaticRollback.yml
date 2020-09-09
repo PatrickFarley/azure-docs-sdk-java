@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.AutomaticOSUpgradePolicy.disableAutomaticRollback()"
   name: "disableAutomaticRollback()"
   nameWithType: "AutomaticOSUpgradePolicy.disableAutomaticRollback()"
-  summary: "Get the disableAutomaticRollback property: Whether OS image rollback feature should be disabled. Default value is\n false."
+  summary: "Get the disableAutomaticRollback property: Whether OS image rollback feature should be disabled. Default value is false."
   syntax: "public Boolean disableAutomaticRollback()"
   returns:
     description: "the disableAutomaticRollback value."

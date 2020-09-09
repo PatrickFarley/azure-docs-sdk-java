@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.PolicyAssignmentsClient.listForManagementGroupAsync(String managementGroupId, String filter)"
   name: "listForManagementGroupAsync(String managementGroupId, String filter)"
   nameWithType: "PolicyAssignmentsClient.listForManagementGroupAsync(String managementGroupId, String filter)"
-  summary: "This operation retrieves the list of all policy assignments applicable to the management group that match the\n given $filter. Valid values for $filter are: 'atScope()' or 'policyDefinitionId eq '{value}''. If\n $filter=atScope() is provided, the returned list includes all policy assignments that are assigned to the\n management group or the management group's ancestors. If $filter=policyDefinitionId eq '{value}' is provided, the\n returned list includes all policy assignments of the policy definition whose id is {value} that apply to the\n management group."
+  summary: "This operation retrieves the list of all policy assignments applicable to the management group that match the given $filter. Valid values for $filter are: 'atScope()' or 'policyDefinitionId eq '\\{value\\}''. If $filter=atScope() is provided, the returned list includes all policy assignments that are assigned to the management group or the management group's ancestors. If $filter=policyDefinitionId eq '\\{value\\}' is provided, the returned list includes all policy assignments of the policy definition whose id is \\{value\\} that apply to the management group."
   parameters:
   - description: "The ID of the management group."
     name: "managementGroupId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.PolicyAssignmentsClient.listForManagementGroupAsync(String managementGroupId, String filter, Context context)"
   name: "listForManagementGroupAsync(String managementGroupId, String filter, Context context)"
   nameWithType: "PolicyAssignmentsClient.listForManagementGroupAsync(String managementGroupId, String filter, Context context)"
-  summary: "This operation retrieves the list of all policy assignments applicable to the management group that match the\n given $filter. Valid values for $filter are: 'atScope()' or 'policyDefinitionId eq '{value}''. If\n $filter=atScope() is provided, the returned list includes all policy assignments that are assigned to the\n management group or the management group's ancestors. If $filter=policyDefinitionId eq '{value}' is provided, the\n returned list includes all policy assignments of the policy definition whose id is {value} that apply to the\n management group."
+  summary: "This operation retrieves the list of all policy assignments applicable to the management group that match the given $filter. Valid values for $filter are: 'atScope()' or 'policyDefinitionId eq '\\{value\\}''. If $filter=atScope() is provided, the returned list includes all policy assignments that are assigned to the management group or the management group's ancestors. If $filter=policyDefinitionId eq '\\{value\\}' is provided, the returned list includes all policy assignments of the policy definition whose id is \\{value\\} that apply to the management group."
   parameters:
   - description: "The ID of the management group."
     name: "managementGroupId"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRouteCircuitConnectionInner.withExpressRouteCircuitPeering(SubResource expressRouteCircuitPeering)"
   name: "withExpressRouteCircuitPeering(SubResource expressRouteCircuitPeering)"
   nameWithType: "ExpressRouteCircuitConnectionInner.withExpressRouteCircuitPeering(SubResource expressRouteCircuitPeering)"
-  summary: "Set the expressRouteCircuitPeering property: Reference to Express Route Circuit Private Peering Resource of the\n circuit initiating connection."
+  summary: "Set the expressRouteCircuitPeering property: Reference to Express Route Circuit Private Peering Resource of the circuit initiating connection."
   parameters:
   - description: "the expressRouteCircuitPeering value to set."
     name: "expressRouteCircuitPeering"

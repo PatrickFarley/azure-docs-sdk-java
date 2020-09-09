@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withNewPrimaryPublicIPAddress()"
   name: "withNewPrimaryPublicIPAddress()"
   nameWithType: "NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withNewPrimaryPublicIPAddress()"
-  summary: "Creates a new public IP address in the same region and group as the resource and associate it with the\n network interface's primary IP configuration.\n\n <p>the internal name and DNS label for the public IP address will be derived from the network interface\n name, if there is an existing public IP association then that will be removed in favour of this"
+  summary: "Creates a new public IP address in the same region and group as the resource and associate it with the network interface's primary IP configuration.\n\nthe internal name and DNS label for the public IP address will be derived from the network interface name, if there is an existing public IP association then that will be removed in favour of this"
   syntax: "public abstract NetworkInterface.Update withNewPrimaryPublicIPAddress()"
   returns:
     description: "the next stage of the network interface update"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withNewPrimaryPublicIPAddress(Creatable<PublicIpAddress> creatable)"
   name: "withNewPrimaryPublicIPAddress(Creatable<PublicIpAddress> creatable)"
   nameWithType: "NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withNewPrimaryPublicIPAddress(Creatable<PublicIpAddress> creatable)"
-  summary: "Create a new public IP address to associate the network interface's primary IP configuration, based on\n the provided definition.\n\n <p>if there is public IP associated with the primary IP configuration then that will be removed in favour\n of this"
+  summary: "Create a new public IP address to associate the network interface's primary IP configuration, based on the provided definition.\n\nif there is public IP associated with the primary IP configuration then that will be removed in favour of this"
   parameters:
   - description: "a creatable definition for a new public IP"
     name: "creatable"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withNewPrimaryPublicIPAddress(String leafDnsLabel)"
   name: "withNewPrimaryPublicIPAddress(String leafDnsLabel)"
   nameWithType: "NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withNewPrimaryPublicIPAddress(String leafDnsLabel)"
-  summary: "Creates a new public IP address in the same region and group as the resource, with the specified DNS\n label and associate it with the network interface's primary IP configuration.\n\n <p>the internal name for the public IP address will be derived from the DNS label, if there is an\n existing public IP association then that will be removed in favour of this"
+  summary: "Creates a new public IP address in the same region and group as the resource, with the specified DNS label and associate it with the network interface's primary IP configuration.\n\nthe internal name for the public IP address will be derived from the DNS label, if there is an existing public IP association then that will be removed in favour of this"
   parameters:
   - description: "the leaf domain label"
     name: "leafDnsLabel"

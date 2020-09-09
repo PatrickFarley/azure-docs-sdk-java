@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.CustomAnalyzer.setCharFilters(List<CharFilterName> charFilters)"
   name: "setCharFilters(List<CharFilterName> charFilters)"
   nameWithType: "CustomAnalyzer.setCharFilters(List<CharFilterName> charFilters)"
-  summary: "Set the charFilters property: A list of character filters used to prepare input text before it is processed by\n the tokenizer. For instance, they can replace certain characters or symbols. The filters are run in the order in\n which they are listed."
+  summary: "Set the charFilters property: A list of character filters used to prepare input text before it is processed by the tokenizer. For instance, they can replace certain characters or symbols. The filters are run in the order in which they are listed."
   parameters:
   - description: "the charFilters value to set."
     name: "charFilters"

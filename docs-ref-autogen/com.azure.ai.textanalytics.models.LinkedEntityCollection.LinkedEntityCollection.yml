@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.LinkedEntityCollection.LinkedEntityCollection(IterableStream<LinkedEntity> entities, IterableStream<TextAnalyticsWarning> warnings)"
   name: "LinkedEntityCollection(IterableStream<LinkedEntity> entities, IterableStream<TextAnalyticsWarning> warnings)"
   nameWithType: "LinkedEntityCollection.LinkedEntityCollection(IterableStream<LinkedEntity> entities, IterableStream<TextAnalyticsWarning> warnings)"
-  summary: "Creates a <xref uid=\"LinkedEntityCollection\" data-throw-if-not-resolved=\"false\">LinkedEntityCollection</xref> model that describes a linked entities collection including warnings."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntityCollection\" data-throw-if-not-resolved=\"false\">LinkedEntityCollection</xref> model that describes a linked entities collection including warnings."
   parameters:
   - description: "An <xref uid=\"com.azure.core.util.IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> of <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntity\" data-throw-if-not-resolved=\"false\">linked entities</xref>."
     name: "entities"

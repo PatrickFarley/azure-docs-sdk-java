@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.StaticWebsite.getIndexDocument()"
   name: "getIndexDocument()"
   nameWithType: "StaticWebsite.getIndexDocument()"
-  summary: "Get the indexDocument property: The default name of the index page under\n each directory."
+  summary: "Get the indexDocument property: The default name of the index page under each directory."
   syntax: "public String getIndexDocument()"
   returns:
     description: "the indexDocument value."

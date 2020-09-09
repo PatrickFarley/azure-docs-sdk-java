@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayBackendHttpSettings.pickHostnameFromBackendAddress()"
   name: "pickHostnameFromBackendAddress()"
   nameWithType: "ApplicationGatewayBackendHttpSettings.pickHostnameFromBackendAddress()"
-  summary: "Get the pickHostnameFromBackendAddress property: Whether to pick host header should be picked from the host name\n of the backend server. Default value is false."
+  summary: "Get the pickHostnameFromBackendAddress property: Whether to pick host header should be picked from the host name of the backend server. Default value is false."
   syntax: "public Boolean pickHostnameFromBackendAddress()"
   returns:
     description: "the pickHostnameFromBackendAddress value."

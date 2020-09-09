@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.StorageAccountType.STANDARD_ZRS"
   name: "STANDARD_ZRS"
   nameWithType: "StorageAccountType.STANDARD_ZRS"
-  summary: "Static value Standard_ZRS for StorageAccountType."
+  summary: "Static value Standard\\_ZRS for StorageAccountType."
   syntax: "public static final StorageAccountType STANDARD_ZRS"
 type: "field"
 metadata: {}

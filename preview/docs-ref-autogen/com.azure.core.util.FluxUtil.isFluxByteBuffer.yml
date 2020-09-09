@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.FluxUtil.isFluxByteBuffer(Type entityType)"
   name: "isFluxByteBuffer(Type entityType)"
   nameWithType: "FluxUtil.isFluxByteBuffer(Type entityType)"
-  summary: "Checks if a type is Flux&lt;ByteBuffer&gt;."
+  summary: "Checks if a type is Flux<ByteBuffer>."
   parameters:
   - description: "the type to check"
     name: "entityType"

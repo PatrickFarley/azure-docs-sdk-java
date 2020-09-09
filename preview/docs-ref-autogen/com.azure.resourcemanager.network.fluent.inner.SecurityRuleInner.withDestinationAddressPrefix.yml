@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.SecurityRuleInner.withDestinationAddressPrefix(String destinationAddressPrefix)"
   name: "withDestinationAddressPrefix(String destinationAddressPrefix)"
   nameWithType: "SecurityRuleInner.withDestinationAddressPrefix(String destinationAddressPrefix)"
-  summary: "Set the destinationAddressPrefix property: The destination address prefix. CIDR or destination IP range. Asterisk\n '*' can also be used to match all source IPs. Default tags such as 'VirtualNetwork', 'AzureLoadBalancer' and\n 'Internet' can also be used."
+  summary: "Set the destinationAddressPrefix property: The destination address prefix. CIDR or destination IP range. Asterisk '\\*' can also be used to match all source IPs. Default tags such as 'VirtualNetwork', 'AzureLoadBalancer' and 'Internet' can also be used."
   parameters:
   - description: "the destinationAddressPrefix value to set."
     name: "destinationAddressPrefix"

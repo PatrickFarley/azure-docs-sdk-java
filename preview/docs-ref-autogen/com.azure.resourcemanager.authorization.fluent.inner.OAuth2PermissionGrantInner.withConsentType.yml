@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.OAuth2PermissionGrantInner.withConsentType(ConsentType consentType)"
   name: "withConsentType(ConsentType consentType)"
   nameWithType: "OAuth2PermissionGrantInner.withConsentType(ConsentType consentType)"
-  summary: "Set the consentType property: Indicates if consent was provided by the administrator (on behalf of the\n organization) or by an individual."
+  summary: "Set the consentType property: Indicates if consent was provided by the administrator (on behalf of the organization) or by an individual."
   parameters:
   - description: "the consentType value to set."
     name: "consentType"

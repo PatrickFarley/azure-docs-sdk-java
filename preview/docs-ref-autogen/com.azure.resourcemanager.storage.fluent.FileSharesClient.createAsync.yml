@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.FileSharesClient.createAsync(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare)"
   name: "createAsync(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare)"
   nameWithType: "FileSharesClient.createAsync(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare)"
-  summary: "Creates a new share under the specified account as described by request body. The share resource includes\n metadata and properties for that share. It does not include a list of the files contained by the share."
+  summary: "Creates a new share under the specified account as described by request body. The share resource includes metadata and properties for that share. It does not include a list of the files contained by the share."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.FileSharesClient.createAsync(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare, Context context)"
   name: "createAsync(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare, Context context)"
   nameWithType: "FileSharesClient.createAsync(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare, Context context)"
-  summary: "Creates a new share under the specified account as described by request body. The share resource includes\n metadata and properties for that share. It does not include a list of the files contained by the share."
+  summary: "Creates a new share under the specified account as described by request body. The share resource includes metadata and properties for that share. It does not include a list of the files contained by the share."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

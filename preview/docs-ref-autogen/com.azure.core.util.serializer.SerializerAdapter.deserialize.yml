@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.serializer.SerializerAdapter.<U>deserialize(HttpHeaders headers, Type type)"
   name: "<U>deserialize(HttpHeaders headers, Type type)"
   nameWithType: "SerializerAdapter.<U>deserialize(HttpHeaders headers, Type type)"
-  summary: "Deserialize the provided headers returned from a REST API to an entity instance declared as\n the model to hold 'Matching' headers.\n\n 'Matching' headers are the REST API returned headers those with:\n\n <ol>\n   <li>header names same as name of a properties in the entity.</li>\n   <li>header names start with value of <xref uid=\"com.azure.core.annotation.HeaderCollection\" data-throw-if-not-resolved=\"false\">com.azure.core.annotation.HeaderCollection</xref> annotation applied to\n   the properties in the entity.</li>\n </ol>\n\n When needed, the 'header entity' types must be declared as first generic argument of\n <xref uid=\"com.azure.core.http.rest.ResponseBase\" data-throw-if-not-resolved=\"false\">com.azure.core.http.rest.ResponseBase</xref> returned by java proxy method corresponding to the REST API.\n e.g.\n <code>Mono<RestResponseBase<FooMetadataHeaders, Void>> getMetadata(args);</code>\n <code>\n      class FooMetadataHeaders {\n          String name;\n          {@literal @}HeaderCollection(\"header-collection-prefix-\")\n          Map<String,String> headerCollection;\n      }\n </code>\n\n in the case of above example, this method produces an instance of FooMetadataHeaders from provided\n <code>headers</code>."
+  summary: "Deserialize the provided headers returned from a REST API to an entity instance declared as the model to hold 'Matching' headers. 'Matching' headers are the REST API returned headers those with:\n\n1.  header names same as name of a properties in the entity.\n2.  header names start with value of <xref uid=\"com.azure.core.annotation.HeaderCollection\" data-throw-if-not-resolved=\"false\">com.azure.core.annotation.HeaderCollection</xref> annotation applied to the properties in the entity.\n\nWhen needed, the 'header entity' types must be declared as first generic argument of <xref uid=\"com.azure.core.http.rest.ResponseBase\" data-throw-if-not-resolved=\"false\">com.azure.core.http.rest.ResponseBase</xref> returned by java proxy method corresponding to the REST API. e.g. `Mono> getMetadata(args);` `class FooMetadataHeaders { String name; {@literal @}HeaderCollection(\"header-collection-prefix-\") Map headerCollection; }` in the case of above example, this method produces an instance of FooMetadataHeaders from provided `headers`."
   parameters:
   - description: "the REST API returned headers"
     name: "headers"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.core.util.serializer.SerializerAdapter.<U>deserialize(String value, Type type, SerializerEncoding encoding)"
   name: "<U>deserialize(String value, Type type, SerializerEncoding encoding)"
   nameWithType: "SerializerAdapter.<U>deserialize(String value, Type type, SerializerEncoding encoding)"
-  summary: "Deserializes a string into a <code>U</code> object."
+  summary: "Deserializes a string into a `U` object."
   parameters:
   - description: "the string value to deserialize"
     name: "value"

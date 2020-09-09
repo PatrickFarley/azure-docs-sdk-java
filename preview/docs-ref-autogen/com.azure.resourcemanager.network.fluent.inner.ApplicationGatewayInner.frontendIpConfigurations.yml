@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayInner.frontendIpConfigurations()"
   name: "frontendIpConfigurations()"
   nameWithType: "ApplicationGatewayInner.frontendIpConfigurations()"
-  summary: "Get the frontendIpConfigurations property: Frontend IP addresses of the application gateway resource. For default\n limits, see [Application Gateway\n limits](https://docs.microsoft.com/azure/azure-subscription-service-limits#application-gateway-limits)."
+  summary: "Get the frontendIpConfigurations property: Frontend IP addresses of the application gateway resource. For default limits, see \\[Application Gateway limits\\](https://docs.microsoft.com/azure/azure-subscription-service-limits\\#application-gateway-limits)."
   syntax: "public List<ApplicationGatewayFrontendIpConfiguration> frontendIpConfigurations()"
   returns:
     description: "the frontendIpConfigurations value."

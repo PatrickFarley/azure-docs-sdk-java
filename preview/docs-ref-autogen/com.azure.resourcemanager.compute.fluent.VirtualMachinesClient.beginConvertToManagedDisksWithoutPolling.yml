@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachinesClient.beginConvertToManagedDisksWithoutPolling(String resourceGroupName, String vmName)"
   name: "beginConvertToManagedDisksWithoutPolling(String resourceGroupName, String vmName)"
   nameWithType: "VirtualMachinesClient.beginConvertToManagedDisksWithoutPolling(String resourceGroupName, String vmName)"
-  summary: "Converts virtual machine disks from blob-based to managed disks. Virtual machine must be stop-deallocated before\n invoking this operation."
+  summary: "Converts virtual machine disks from blob-based to managed disks. Virtual machine must be stop-deallocated before invoking this operation."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachinesClient.beginConvertToManagedDisksWithoutPolling(String resourceGroupName, String vmName, Context context)"
   name: "beginConvertToManagedDisksWithoutPolling(String resourceGroupName, String vmName, Context context)"
   nameWithType: "VirtualMachinesClient.beginConvertToManagedDisksWithoutPolling(String resourceGroupName, String vmName, Context context)"
-  summary: "Converts virtual machine disks from blob-based to managed disks. Virtual machine must be stop-deallocated before\n invoking this operation."
+  summary: "Converts virtual machine disks from blob-based to managed disks. Virtual machine must be stop-deallocated before invoking this operation."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

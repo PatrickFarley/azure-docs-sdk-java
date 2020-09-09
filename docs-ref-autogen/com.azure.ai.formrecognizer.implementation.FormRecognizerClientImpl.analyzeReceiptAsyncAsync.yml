@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeReceiptAsyncAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails)"
   name: "analyzeReceiptAsyncAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails)"
   nameWithType: "FormRecognizerClientImpl.analyzeReceiptAsyncAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails)"
-  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the\n supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Content type for upload."
     name: "contentType"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeReceiptAsyncAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails, Context context)"
   name: "analyzeReceiptAsyncAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails, Context context)"
   nameWithType: "FormRecognizerClientImpl.analyzeReceiptAsyncAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails, Context context)"
-  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the\n supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Content type for upload."
     name: "contentType"
@@ -55,7 +55,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeReceiptAsyncAsync(Boolean includeTextDetails, SourcePath fileStream)"
   name: "analyzeReceiptAsyncAsync(Boolean includeTextDetails, SourcePath fileStream)"
   nameWithType: "FormRecognizerClientImpl.analyzeReceiptAsyncAsync(Boolean includeTextDetails, SourcePath fileStream)"
-  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the\n supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Include text lines and element references in the result."
     name: "includeTextDetails"
@@ -71,7 +71,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeReceiptAsyncAsync(Boolean includeTextDetails, SourcePath fileStream, Context context)"
   name: "analyzeReceiptAsyncAsync(Boolean includeTextDetails, SourcePath fileStream, Context context)"
   nameWithType: "FormRecognizerClientImpl.analyzeReceiptAsyncAsync(Boolean includeTextDetails, SourcePath fileStream, Context context)"
-  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the\n supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract field text and semantic values from a given receipt document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Include text lines and element references in the result."
     name: "includeTextDetails"

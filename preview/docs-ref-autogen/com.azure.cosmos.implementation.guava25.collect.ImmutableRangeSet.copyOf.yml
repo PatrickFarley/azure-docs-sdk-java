@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableRangeSet<C>.<C>copyOf(RangeSet<C> rangeSet)"
   name: "<C>copyOf(RangeSet<C> rangeSet)"
   nameWithType: "ImmutableRangeSet<C>.<C>copyOf(RangeSet<C> rangeSet)"
-  summary: "Returns an immutable copy of the specified <code>RangeSet</code>."
+  summary: "Returns an immutable copy of the specified `RangeSet`."
   parameters:
   - name: "rangeSet"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.RangeSet?alt=com.azure.cosmos.implementation.guava25.collect.RangeSet&text=RangeSet\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableRangeSet<C>.<C>copyOf(Iterable<Range<C>> ranges)"
   name: "<C>copyOf(Iterable<Range<C>> ranges)"
   nameWithType: "ImmutableRangeSet<C>.<C>copyOf(Iterable<Range<C>> ranges)"
-  summary: "Returns an <code>ImmutableRangeSet</code> containing each of the specified disjoint ranges.\n Overlapping ranges and empty ranges are forbidden, though adjacent ranges are permitted and\n will be merged."
+  summary: "Returns an `ImmutableRangeSet` containing each of the specified disjoint ranges. Overlapping ranges and empty ranges are forbidden, though adjacent ranges are permitted and will be merged."
   parameters:
   - name: "ranges"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.implementation.guava25.collect.Range?alt=com.azure.cosmos.implementation.guava25.collect.Range&text=Range\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"

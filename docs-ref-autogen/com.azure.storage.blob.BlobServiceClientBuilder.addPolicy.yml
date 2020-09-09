@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobServiceClientBuilder.addPolicy(HttpPipelinePolicy pipelinePolicy)"
   name: "addPolicy(HttpPipelinePolicy pipelinePolicy)"
   nameWithType: "BlobServiceClientBuilder.addPolicy(HttpPipelinePolicy pipelinePolicy)"
-  summary: "Adds a pipeline policy to apply on each request sent. The policy will be added after the retry policy. If\n the method is called multiple times, all policies will be added and their order preserved."
+  summary: "Adds a pipeline policy to apply on each request sent. The policy will be added after the retry policy. If the method is called multiple times, all policies will be added and their order preserved."
   parameters:
   - description: "a pipeline policy"
     name: "pipelinePolicy"

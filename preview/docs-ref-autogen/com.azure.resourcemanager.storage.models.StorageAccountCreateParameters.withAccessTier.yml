@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountCreateParameters.withAccessTier(AccessTier accessTier)"
   name: "withAccessTier(AccessTier accessTier)"
   nameWithType: "StorageAccountCreateParameters.withAccessTier(AccessTier accessTier)"
-  summary: "Set the accessTier property: Required for storage accounts where kind = BlobStorage. The access tier used for\n billing."
+  summary: "Set the accessTier property: Required for storage accounts where kind = BlobStorage. The access tier used for billing."
   parameters:
   - description: "the accessTier value to set."
     name: "accessTier"

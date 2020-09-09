@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.UpdateStages.WithExtension.updateExtension(String name)"
   name: "updateExtension(String name)"
   nameWithType: "VirtualMachineScaleSet.UpdateStages.WithExtension.updateExtension(String name)"
-  summary: "Begins the description of an update of an existing extension assigned to the virtual machines in the\n scale set."
+  summary: "Begins the description of an update of an existing extension assigned to the virtual machines in the scale set."
   parameters:
   - description: "the reference name for the extension"
     name: "name"

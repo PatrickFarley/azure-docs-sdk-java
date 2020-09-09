@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncScripts.createUserDefinedFunction(CosmosUserDefinedFunctionProperties properties)"
   name: "createUserDefinedFunction(CosmosUserDefinedFunctionProperties properties)"
   nameWithType: "CosmosAsyncScripts.createUserDefinedFunction(CosmosUserDefinedFunctionProperties properties)"
-  summary: "Creates a cosmos user defined function.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single cosmos user defined function response.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a cosmos user defined function.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single cosmos user defined function response. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the cosmos user defined function properties"
     name: "properties"

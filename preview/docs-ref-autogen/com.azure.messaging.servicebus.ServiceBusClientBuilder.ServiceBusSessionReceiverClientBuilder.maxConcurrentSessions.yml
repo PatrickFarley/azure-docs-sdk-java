@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusClientBuilder.ServiceBusSessionReceiverClientBuilder.maxConcurrentSessions(int maxConcurrentSessions)"
   name: "maxConcurrentSessions(int maxConcurrentSessions)"
   nameWithType: "ServiceBusClientBuilder.ServiceBusSessionReceiverClientBuilder.maxConcurrentSessions(int maxConcurrentSessions)"
-  summary: "Enables session processing roll-over by processing at most <code>maxConcurrentSessions</code>."
+  summary: "Enables session processing roll-over by processing at most `maxConcurrentSessions`."
   parameters:
   - description: "Maximum number of concurrent sessions to process at any given time."
     name: "maxConcurrentSessions"

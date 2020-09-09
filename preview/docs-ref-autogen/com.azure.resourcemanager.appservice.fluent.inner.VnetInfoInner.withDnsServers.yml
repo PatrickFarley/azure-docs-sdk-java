@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.VnetInfoInner.withDnsServers(String dnsServers)"
   name: "withDnsServers(String dnsServers)"
   nameWithType: "VnetInfoInner.withDnsServers(String dnsServers)"
-  summary: "Set the dnsServers property: DNS servers to be used by this Virtual Network. This should be a comma-separated\n list of IP addresses."
+  summary: "Set the dnsServers property: DNS servers to be used by this Virtual Network. This should be a comma-separated list of IP addresses."
   parameters:
   - description: "the dnsServers value to set."
     name: "dnsServers"

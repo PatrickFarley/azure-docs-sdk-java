@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskInstanceView.withEncryptionSettings(List<DiskEncryptionSettings> encryptionSettings)"
   name: "withEncryptionSettings(List<DiskEncryptionSettings> encryptionSettings)"
   nameWithType: "DiskInstanceView.withEncryptionSettings(List<DiskEncryptionSettings> encryptionSettings)"
-  summary: "Set the encryptionSettings property: Specifies the encryption settings for the OS Disk. &lt;br&gt;&lt;br&gt;\n Minimum api-version: 2015-06-15."
+  summary: "Set the encryptionSettings property: Specifies the encryption settings for the OS Disk. <br><br> Minimum api-version: 2015-06-15."
   parameters:
   - description: "the encryptionSettings value to set."
     name: "encryptionSettings"

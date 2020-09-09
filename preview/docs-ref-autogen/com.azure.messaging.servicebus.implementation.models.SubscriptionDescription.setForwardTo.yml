@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.SubscriptionDescription.setForwardTo(String forwardTo)"
   name: "setForwardTo(String forwardTo)"
   nameWithType: "SubscriptionDescription.setForwardTo(String forwardTo)"
-  summary: "Set the forwardTo property: The name of the recipient entity to which all the messages sent to the subscription\n are forwarded to."
+  summary: "Set the forwardTo property: The name of the recipient entity to which all the messages sent to the subscription are forwarded to."
   parameters:
   - description: "the forwardTo value to set."
     name: "forwardTo"

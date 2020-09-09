@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathAccessControlEntry.setAccessControlType(AccessControlType accessControlType)"
   name: "setAccessControlType(AccessControlType accessControlType)"
   nameWithType: "PathAccessControlEntry.setAccessControlType(AccessControlType accessControlType)"
-  summary: "Sets the <xref uid=\"AccessControlType\" data-throw-if-not-resolved=\"false\">AccessControlType</xref> for this entry."
+  summary: "Sets the <xref uid=\"com.azure.storage.file.datalake.models.AccessControlType\" data-throw-if-not-resolved=\"false\">AccessControlType</xref> for this entry."
   parameters:
   - description: "The <xref uid=\"com.azure.storage.file.datalake.models.AccessControlType\" data-throw-if-not-resolved=\"false\">AccessControlType</xref> for this entry."
     name: "accessControlType"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.fileupload.FileUpload.uploadToBlobAsync(String blobName, InputStream inputStream, long streamLength, IotHubEventCallback statusCallback, Object statusCallbackContext)"
   name: "uploadToBlobAsync(String blobName, InputStream inputStream, long streamLength, IotHubEventCallback statusCallback, Object statusCallbackContext)"
   nameWithType: "FileUpload.uploadToBlobAsync(String blobName, InputStream inputStream, long streamLength, IotHubEventCallback statusCallback, Object statusCallbackContext)"
-  summary: "Upload the file to container, which was associated to the iothub.\n This function will start the upload process, and back the execution\n to the caller. The upload process will be executed in background.\n When it is completed, the background thread will trigger the\n callback with the upload status."
+  summary: "Upload the file to container, which was associated to the iothub. This function will start the upload process, and back the execution to the caller. The upload process will be executed in background. When it is completed, the background thread will trigger the callback with the upload status."
   parameters:
   - description: "is the name of the file in the container."
     name: "blobName"

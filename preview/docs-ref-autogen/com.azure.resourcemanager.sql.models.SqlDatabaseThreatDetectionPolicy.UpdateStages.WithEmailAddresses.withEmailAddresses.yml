@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlDatabaseThreatDetectionPolicy.UpdateStages.WithEmailAddresses.withEmailAddresses(String addresses)"
   name: "withEmailAddresses(String addresses)"
   nameWithType: "SqlDatabaseThreatDetectionPolicy.UpdateStages.WithEmailAddresses.withEmailAddresses(String addresses)"
-  summary: "Updates the security alert policy email addresses.\n\n <p>"
+  summary: "Updates the security alert policy email addresses."
   parameters:
   - description: "the semicolon-separated list of e-mail addresses to which the alert is sent to"
     name: "addresses"

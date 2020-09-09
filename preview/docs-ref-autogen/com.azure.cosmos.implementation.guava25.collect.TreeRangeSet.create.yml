@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.TreeRangeSet<C>.<C>create()"
   name: "<C>create()"
   nameWithType: "TreeRangeSet<C>.<C>create()"
-  summary: "Creates an empty <code>TreeRangeSet</code> instance."
+  summary: "Creates an empty `TreeRangeSet` instance."
   syntax: "public static TreeRangeSet<C> <C>create()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.TreeRangeSet?alt=com.azure.cosmos.implementation.guava25.collect.TreeRangeSet&text=TreeRangeSet\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.TreeRangeSet<C>.<C>create(RangeSet<C> rangeSet)"
   name: "<C>create(RangeSet<C> rangeSet)"
   nameWithType: "TreeRangeSet<C>.<C>create(RangeSet<C> rangeSet)"
-  summary: "Returns a <code>TreeRangeSet</code> initialized with the ranges in the specified range set."
+  summary: "Returns a `TreeRangeSet` initialized with the ranges in the specified range set."
   parameters:
   - name: "rangeSet"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.RangeSet?alt=com.azure.cosmos.implementation.guava25.collect.RangeSet&text=RangeSet\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.TreeRangeSet<C>.<C>create(Iterable<Range<C>> ranges)"
   name: "<C>create(Iterable<Range<C>> ranges)"
   nameWithType: "TreeRangeSet<C>.<C>create(Iterable<Range<C>> ranges)"
-  summary: "Returns a <code>TreeRangeSet</code> representing the union of the specified ranges.\n\n <p>This is the smallest <code>RangeSet</code> which encloses each of the specified ranges. An\n element will be contained in this <code>RangeSet</code> if and only if it is contained in at least\n one <code>Range</code> in <code>ranges</code>."
+  summary: "Returns a `TreeRangeSet` representing the union of the specified ranges.\n\nThis is the smallest `RangeSet` which encloses each of the specified ranges. An element will be contained in this `RangeSet` if and only if it is contained in at least one `Range` in `ranges`."
   parameters:
   - name: "ranges"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.cosmos.implementation.guava25.collect.Range?alt=com.azure.cosmos.implementation.guava25.collect.Range&text=Range\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"

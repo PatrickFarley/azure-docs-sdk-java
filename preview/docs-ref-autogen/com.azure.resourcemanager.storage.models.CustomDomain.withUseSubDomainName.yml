@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.CustomDomain.withUseSubDomainName(Boolean useSubDomainName)"
   name: "withUseSubDomainName(Boolean useSubDomainName)"
   nameWithType: "CustomDomain.withUseSubDomainName(Boolean useSubDomainName)"
-  summary: "Set the useSubDomainName property: Indicates whether indirect CName validation is enabled. Default value is\n false. This should only be set on updates."
+  summary: "Set the useSubDomainName property: Indicates whether indirect CName validation is enabled. Default value is false. This should only be set on updates."
   parameters:
   - description: "the useSubDomainName value to set."
     name: "useSubDomainName"

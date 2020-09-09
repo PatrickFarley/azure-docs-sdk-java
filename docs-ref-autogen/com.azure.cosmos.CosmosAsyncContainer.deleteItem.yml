@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.deleteItem(String itemId, PartitionKey partitionKey)"
   name: "deleteItem(String itemId, PartitionKey partitionKey)"
   nameWithType: "CosmosAsyncContainer.deleteItem(String itemId, PartitionKey partitionKey)"
-  summary: "Deletes an item.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response for the deleted item."
+  summary: "Deletes an item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response for the deleted item."
   parameters:
   - description: "the item id."
     name: "itemId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.deleteItem(String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   name: "deleteItem(String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   nameWithType: "CosmosAsyncContainer.deleteItem(String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options)"
-  summary: "Deletes the item.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response for the deleted item."
+  summary: "Deletes the item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response for the deleted item."
   parameters:
   - description: "id of the item."
     name: "itemId"

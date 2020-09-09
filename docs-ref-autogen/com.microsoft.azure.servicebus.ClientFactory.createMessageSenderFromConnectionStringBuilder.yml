@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.ClientFactory.createMessageSenderFromConnectionStringBuilder(ConnectionStringBuilder amqpConnectionStringBuilder)"
   name: "createMessageSenderFromConnectionStringBuilder(ConnectionStringBuilder amqpConnectionStringBuilder)"
   nameWithType: "ClientFactory.createMessageSenderFromConnectionStringBuilder(ConnectionStringBuilder amqpConnectionStringBuilder)"
-  summary: "Create message sender from ConnectionStringBuilder\n <pre>\n     IMessageSender messageSender = ClientFactory.createMessageSenderFromConnectionStringBuilder(new ConnectionStringBuilder(connectionString, queueName));\n </pre>"
+  summary: "Create message sender from ConnectionStringBuilder\n\n```java\nIMessageSender messageSender = ClientFactory.createMessageSenderFromConnectionStringBuilder(new ConnectionStringBuilder(connectionString, queueName));\n```"
   parameters:
   - description: "the connection string builder"
     name: "amqpConnectionStringBuilder"

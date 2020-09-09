@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServerSecurityAlertPolicyInner.storageAccountAccessKey()"
   name: "storageAccountAccessKey()"
   nameWithType: "ServerSecurityAlertPolicyInner.storageAccountAccessKey()"
-  summary: "Get the storageAccountAccessKey property: Specifies the identifier key of the Threat Detection audit storage\n account."
+  summary: "Get the storageAccountAccessKey property: Specifies the identifier key of the Threat Detection audit storage account."
   syntax: "public String storageAccountAccessKey()"
   returns:
     description: "the storageAccountAccessKey value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.Module.createFromId(String deviceId, String moduleId, SymmetricKey symmetricKey)"
   name: "createFromId(String deviceId, String moduleId, SymmetricKey symmetricKey)"
   nameWithType: "Module.createFromId(String deviceId, String moduleId, SymmetricKey symmetricKey)"
-  summary: "Static create function\n Creates module object using the given name.\n If input symmetric key are null then they will be auto generated."
+  summary: "Static create function Creates module object using the given name. If input symmetric key are null then they will be auto generated."
   parameters:
   - description: "- String containing the device name"
     name: "deviceId"

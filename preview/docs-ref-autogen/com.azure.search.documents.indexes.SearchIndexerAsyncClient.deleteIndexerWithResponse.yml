@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.deleteIndexerWithResponse(SearchIndexer indexer, boolean onlyIfUnchanged)"
   name: "deleteIndexerWithResponse(SearchIndexer indexer, boolean onlyIfUnchanged)"
   nameWithType: "SearchIndexerAsyncClient.deleteIndexerWithResponse(SearchIndexer indexer, boolean onlyIfUnchanged)"
-  summary: "Deletes an Azure Cognitive Search indexer.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete search indexer named \"searchIndexer\".  </p>\n\n <pre>\n searchIndexerAsyncClient.getIndexer&#40;&quot;searchIndexer&quot;&#41;\n     .flatMap&#40;searchIndexer -&gt;\n         searchIndexerAsyncClient.deleteIndexerWithResponse&#40;searchIndexer, true&#41;&#41;\n     .subscribe&#40;deleteResponse -&gt;\n         System.out.printf&#40;&quot;The status code of the response is %d.%n&quot;, deleteResponse.getStatusCode&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Deletes an Azure Cognitive Search indexer.\n\n**Code Sample**\n\nDelete search indexer named \"searchIndexer\".\n\n```java\nsearchIndexerAsyncClient.getIndexer(\"searchIndexer\")\n     .flatMap(searchIndexer ->\n         searchIndexerAsyncClient.deleteIndexerWithResponse(searchIndexer, true))\n     .subscribe(deleteResponse ->\n         System.out.printf(\"The status code of the response is %d.%n\", deleteResponse.getStatusCode()));\n```"
   parameters:
   - description: "the <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexer\" data-throw-if-not-resolved=\"false\">SearchIndexer</xref> to delete"
     name: "indexer"

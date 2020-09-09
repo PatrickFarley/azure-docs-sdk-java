@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkTapInner.withDestinationNetworkInterfaceIpConfiguration(NetworkInterfaceIpConfigurationInner destinationNetworkInterfaceIpConfiguration)"
   name: "withDestinationNetworkInterfaceIpConfiguration(NetworkInterfaceIpConfigurationInner destinationNetworkInterfaceIpConfiguration)"
   nameWithType: "VirtualNetworkTapInner.withDestinationNetworkInterfaceIpConfiguration(NetworkInterfaceIpConfigurationInner destinationNetworkInterfaceIpConfiguration)"
-  summary: "Set the destinationNetworkInterfaceIpConfiguration property: The reference to the private IP Address of the\n collector nic that will receive the tap."
+  summary: "Set the destinationNetworkInterfaceIpConfiguration property: The reference to the private IP Address of the collector nic that will receive the tap."
   parameters:
   - description: "the destinationNetworkInterfaceIpConfiguration value to set."
     name: "destinationNetworkInterfaceIpConfiguration"

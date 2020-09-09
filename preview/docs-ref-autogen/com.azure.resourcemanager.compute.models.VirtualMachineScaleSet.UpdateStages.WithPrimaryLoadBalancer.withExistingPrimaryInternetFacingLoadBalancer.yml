@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.UpdateStages.WithPrimaryLoadBalancer.withExistingPrimaryInternetFacingLoadBalancer(LoadBalancer loadBalancer)"
   name: "withExistingPrimaryInternetFacingLoadBalancer(LoadBalancer loadBalancer)"
   nameWithType: "VirtualMachineScaleSet.UpdateStages.WithPrimaryLoadBalancer.withExistingPrimaryInternetFacingLoadBalancer(LoadBalancer loadBalancer)"
-  summary: "Specifies the load balancer to be used as the Internet-facing load balancer for the virtual machines in\n the scale set.\n\n <p>This will replace the current Internet-facing load balancer associated with the virtual machines in\n the scale set (if any). By default all the backend and inbound NAT pool of the load balancer will be\n associated with the primary network interface of the virtual machines unless a subset of them is selected\n in the next stages"
+  summary: "Specifies the load balancer to be used as the Internet-facing load balancer for the virtual machines in the scale set.\n\nThis will replace the current Internet-facing load balancer associated with the virtual machines in the scale set (if any). By default all the backend and inbound NAT pool of the load balancer will be associated with the primary network interface of the virtual machines unless a subset of them is selected in the next stages"
   parameters:
   - description: "the primary Internet-facing load balancer"
     name: "loadBalancer"

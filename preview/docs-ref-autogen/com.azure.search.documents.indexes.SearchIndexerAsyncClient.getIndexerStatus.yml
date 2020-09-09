@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.getIndexerStatus(String indexerName)"
   name: "getIndexerStatus(String indexerName)"
   nameWithType: "SearchIndexerAsyncClient.getIndexerStatus(String indexerName)"
-  summary: "Returns the current status and execution history of an indexer.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get status for search indexer \"searchIndexer\".  </p>\n\n <pre>\n searchIndexerAsyncClient.getIndexerStatus&#40;&quot;searchIndexer&quot;&#41;\n     .subscribe&#40;indexerStatus -&gt;\n         System.out.printf&#40;&quot;The indexer status is %s.%n&quot;, indexerStatus.getStatus&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Returns the current status and execution history of an indexer.\n\n**Code Sample**\n\nGet status for search indexer \"searchIndexer\".\n\n```java\nsearchIndexerAsyncClient.getIndexerStatus(\"searchIndexer\")\n     .subscribe(indexerStatus ->\n         System.out.printf(\"The indexer status is %s.%n\", indexerStatus.getStatus()));\n```"
   parameters:
   - description: "the name of the indexer for which to retrieve status"
     name: "indexerName"

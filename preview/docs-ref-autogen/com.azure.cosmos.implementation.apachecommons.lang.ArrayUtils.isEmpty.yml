@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.ArrayUtils.isEmpty(char[] array)"
   name: "isEmpty(char[] array)"
   nameWithType: "ArrayUtils.isEmpty(char[] array)"
-  summary: "<p>Checks if an array of primitive chars is empty or <code>null</code>."
+  summary: "Checks if an array of primitive chars is empty or `null`."
   parameters:
   - description: "the array to test"
     name: "array"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.ArrayUtils.isEmpty(Object[] array)"
   name: "isEmpty(Object[] array)"
   nameWithType: "ArrayUtils.isEmpty(Object[] array)"
-  summary: "<p>Checks if an array of Objects is empty or <code>null</code>."
+  summary: "Checks if an array of Objects is empty or `null`."
   parameters:
   - description: "the array to test"
     name: "array"

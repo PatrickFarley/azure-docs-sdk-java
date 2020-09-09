@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.ProximityPlacementGroupInner.virtualMachineScaleSets()"
   name: "virtualMachineScaleSets()"
   nameWithType: "ProximityPlacementGroupInner.virtualMachineScaleSets()"
-  summary: "Get the virtualMachineScaleSets property: A list of references to all virtual machine scale sets in the proximity\n placement group."
+  summary: "Get the virtualMachineScaleSets property: A list of references to all virtual machine scale sets in the proximity placement group."
   syntax: "public List<SubResource> virtualMachineScaleSets()"
   returns:
     description: "the virtualMachineScaleSets value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ConnectionPolicy.getIdleHttpConnectionTimeout()"
   name: "getIdleHttpConnectionTimeout()"
   nameWithType: "ConnectionPolicy.getIdleHttpConnectionTimeout()"
-  summary: "Gets the value of the timeout for an idle http connection, the default is 60\n seconds."
+  summary: "Gets the value of the timeout for an idle http connection, the default is 60 seconds."
   syntax: "public Duration getIdleHttpConnectionTimeout()"
   returns:
     description: "Idle connection timeout duration."

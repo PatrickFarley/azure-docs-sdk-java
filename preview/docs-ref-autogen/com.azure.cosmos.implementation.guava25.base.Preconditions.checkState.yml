@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean expression)"
   name: "checkState(boolean expression)"
   nameWithType: "Preconditions.checkState(boolean expression)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method."
   parameters:
   - description: "a boolean expression"
     name: "expression"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean expression, Object errorMessage)"
   name: "checkState(boolean expression, Object errorMessage)"
   nameWithType: "Preconditions.checkState(boolean expression, Object errorMessage)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method."
   parameters:
   - description: "a boolean expression"
     name: "expression"
@@ -31,7 +31,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, char p1)"
   name: "checkState(boolean b, String errorMessageTemplate, char p1)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, char p1)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -44,7 +44,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, char p2)"
   name: "checkState(boolean b, String errorMessageTemplate, char p1, char p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, char p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -59,7 +59,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, int p2)"
   name: "checkState(boolean b, String errorMessageTemplate, char p1, int p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, int p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -74,7 +74,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, Object p2)"
   name: "checkState(boolean b, String errorMessageTemplate, char p1, Object p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, Object p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -89,7 +89,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, long p2)"
   name: "checkState(boolean b, String errorMessageTemplate, char p1, long p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, char p1, long p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -104,7 +104,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, int p1)"
   name: "checkState(boolean b, String errorMessageTemplate, int p1)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, int p1)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -117,7 +117,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, char p2)"
   name: "checkState(boolean b, String errorMessageTemplate, int p1, char p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, char p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -132,7 +132,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, int p2)"
   name: "checkState(boolean b, String errorMessageTemplate, int p1, int p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, int p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -147,7 +147,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, Object p2)"
   name: "checkState(boolean b, String errorMessageTemplate, int p1, Object p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, Object p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -162,7 +162,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, long p2)"
   name: "checkState(boolean b, String errorMessageTemplate, int p1, long p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, int p1, long p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -177,7 +177,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1)"
   name: "checkState(boolean b, String errorMessageTemplate, Object p1)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -190,7 +190,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, char p2)"
   name: "checkState(boolean b, String errorMessageTemplate, Object p1, char p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, char p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -205,7 +205,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, int p2)"
   name: "checkState(boolean b, String errorMessageTemplate, Object p1, int p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, int p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -220,7 +220,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, Object p2)"
   name: "checkState(boolean b, String errorMessageTemplate, Object p1, Object p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, Object p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -235,7 +235,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, Object p2, Object p3)"
   name: "checkState(boolean b, String errorMessageTemplate, Object p1, Object p2, Object p3)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, Object p2, Object p3)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -252,7 +252,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, Object p2, Object p3, Object p4)"
   name: "checkState(boolean b, String errorMessageTemplate, Object p1, Object p2, Object p3, Object p4)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, Object p2, Object p3, Object p4)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -271,7 +271,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, long p2)"
   name: "checkState(boolean b, String errorMessageTemplate, Object p1, long p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, Object p1, long p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -286,7 +286,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean expression, String errorMessageTemplate, Object[] errorMessageArgs)"
   name: "checkState(boolean expression, String errorMessageTemplate, Object[] errorMessageArgs)"
   nameWithType: "Preconditions.checkState(boolean expression, String errorMessageTemplate, Object[] errorMessageArgs)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method."
   parameters:
   - description: "a boolean expression"
     name: "expression"
@@ -302,7 +302,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, long p1)"
   name: "checkState(boolean b, String errorMessageTemplate, long p1)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, long p1)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -315,7 +315,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, char p2)"
   name: "checkState(boolean b, String errorMessageTemplate, long p1, char p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, char p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -330,7 +330,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, int p2)"
   name: "checkState(boolean b, String errorMessageTemplate, long p1, int p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, int p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -345,7 +345,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, Object p2)"
   name: "checkState(boolean b, String errorMessageTemplate, long p1, Object p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, Object p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
@@ -360,7 +360,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, long p2)"
   name: "checkState(boolean b, String errorMessageTemplate, long p1, long p2)"
   nameWithType: "Preconditions.checkState(boolean b, String errorMessageTemplate, long p1, long p2)"
-  summary: "Ensures the truth of an expression involving the state of the calling instance, but not\n involving any parameters to the calling method.\n\n <p>See <xref uid=\"#checkState(boolean, String, Object...)\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
+  summary: "Ensures the truth of an expression involving the state of the calling instance, but not involving any parameters to the calling method.\n\nSee <xref uid=\"com.azure.cosmos.implementation.guava25.base.Preconditions.checkState*\" data-throw-if-not-resolved=\"false\">#checkState(boolean, String, Object...)</xref> for details."
   parameters:
   - name: "b"
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.TextAnalyticsClientBuilder.retryPolicy(RetryPolicy retryPolicy)"
   name: "retryPolicy(RetryPolicy retryPolicy)"
   nameWithType: "TextAnalyticsClientBuilder.retryPolicy(RetryPolicy retryPolicy)"
-  summary: "Sets the <xref uid=\"RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> that is used when each request is sent.\n <p>\n The default retry policy will be used if not provided <xref uid=\"TextAnalyticsClientBuilder#buildAsyncClient()\" data-throw-if-not-resolved=\"false\">TextAnalyticsClientBuilder#buildAsyncClient()</xref> to\n build <xref uid=\"TextAnalyticsAsyncClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsAsyncClient</xref> or <xref uid=\"TextAnalyticsClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsClient</xref>."
+  summary: "Sets the <xref uid=\"com.azure.core.http.policy.RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> that is used when each request is sent.\n\nThe default retry policy will be used if not provided <xref uid=\"com.azure.ai.textanalytics.TextAnalyticsClientBuilder.buildAsyncClient()\" data-throw-if-not-resolved=\"false\">TextAnalyticsClientBuilder#buildAsyncClient()</xref> to build <xref uid=\"com.azure.ai.textanalytics.TextAnalyticsAsyncClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsAsyncClient</xref> or <xref uid=\"com.azure.ai.textanalytics.TextAnalyticsClient\" data-throw-if-not-resolved=\"false\">TextAnalyticsClient</xref>."
   parameters:
   - description: "user's retry policy applied to each request."
     name: "retryPolicy"

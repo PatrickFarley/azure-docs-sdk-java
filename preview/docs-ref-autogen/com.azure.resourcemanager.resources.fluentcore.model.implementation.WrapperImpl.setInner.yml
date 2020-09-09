@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.WrapperImpl<InnerT>.setInner(InnerT inner)"
   name: "setInner(InnerT inner)"
   nameWithType: "WrapperImpl<InnerT>.setInner(InnerT inner)"
-  summary: "Sets the inner object of the wrapper.\n <p>\n (Internal use only)"
+  summary: "Sets the inner object of the wrapper.\n\n(Internal use only)"
   parameters:
   - description: "an inner object"
     name: "inner"

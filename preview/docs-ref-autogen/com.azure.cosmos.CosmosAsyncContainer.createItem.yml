@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>createItem(T item)"
   name: "<T>createItem(T item)"
   nameWithType: "CosmosAsyncContainer.<T>createItem(T item)"
-  summary: "Creates an item.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon\n successful completion will contain a single resource response with the\n created Cosmos item. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates an item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created Cosmos item. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the Cosmos item represented as a POJO or Cosmos item object."
     name: "item"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>createItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   name: "<T>createItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   nameWithType: "CosmosAsyncContainer.<T>createItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
-  summary: "Creates an item.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon\n successful completion will contain a single resource response with the\n created Cosmos item. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates an item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created Cosmos item. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the Cosmos item represented as a POJO or Cosmos item object."
     name: "item"

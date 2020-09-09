@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileStore.isReadOnly()"
   name: "isReadOnly()"
   nameWithType: "AzureFileStore.isReadOnly()"
-  summary: "Always returns false.\n <p>\n It may be the case that the authentication method provided to this file system only\n supports read operations and hence the file store is implicitly read only in this view, but that does not\n imply the underlying container/file store is inherently read only. Creating/specifying read only file stores\n is not currently supported."
+  summary: "Always returns false.\n\nIt may be the case that the authentication method provided to this file system only supports read operations and hence the file store is implicitly read only in this view, but that does not imply the underlying container/file store is inherently read only. Creating/specifying read only file stores is not currently supported."
   overridden: "java.nio.file.FileStore.isReadOnly()"
   syntax: "public boolean isReadOnly()"
   returns:

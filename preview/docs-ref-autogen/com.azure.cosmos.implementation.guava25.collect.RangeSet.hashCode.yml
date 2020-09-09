@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.RangeSet<C>.hashCode()"
   name: "hashCode()"
   nameWithType: "RangeSet<C>.hashCode()"
-  summary: "Returns <code>asRanges().hashCode()</code>."
+  summary: "Returns `asRanges().hashCode()`."
   overridden: "java.lang.Object.hashCode()"
   syntax: "public abstract int hashCode()"
   returns:

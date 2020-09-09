@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.options.BlobParallelUploadOptions.getParallelTransferOptions()"
   name: "getParallelTransferOptions()"
   nameWithType: "BlobParallelUploadOptions.getParallelTransferOptions()"
-  summary: "Gets the <xref uid=\"ParallelTransferOptions\" data-throw-if-not-resolved=\"false\">ParallelTransferOptions</xref>."
+  summary: "Gets the <xref uid=\"com.azure.storage.blob.models.ParallelTransferOptions\" data-throw-if-not-resolved=\"false\">ParallelTransferOptions</xref>."
   syntax: "public ParallelTransferOptions getParallelTransferOptions()"
   returns:
     description: "<xref uid=\"com.azure.storage.blob.models.ParallelTransferOptions\" data-throw-if-not-resolved=\"false\">ParallelTransferOptions</xref>"

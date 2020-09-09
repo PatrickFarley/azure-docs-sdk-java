@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.MetricAlert.UpdateStages.WithMetricUpdate.withSeverity(int severity)"
   name: "withSeverity(int severity)"
   nameWithType: "MetricAlert.UpdateStages.WithMetricUpdate.withSeverity(int severity)"
-  summary: "Sets alert severity {0, 1, 2, 3, 4}."
+  summary: "Sets alert severity \\{0, 1, 2, 3, 4\\}."
   parameters:
   - description: "the severity value to set"
     name: "severity"

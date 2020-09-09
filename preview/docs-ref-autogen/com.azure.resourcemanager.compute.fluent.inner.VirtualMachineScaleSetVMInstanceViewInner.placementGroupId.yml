@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetVMInstanceViewInner.placementGroupId()"
   name: "placementGroupId()"
   nameWithType: "VirtualMachineScaleSetVMInstanceViewInner.placementGroupId()"
-  summary: "Get the placementGroupId property: The placement group in which the VM is running. If the VM is deallocated it\n will not have a placementGroupId."
+  summary: "Get the placementGroupId property: The placement group in which the VM is running. If the VM is deallocated it will not have a placementGroupId."
   syntax: "public String placementGroupId()"
   returns:
     description: "the placementGroupId value."

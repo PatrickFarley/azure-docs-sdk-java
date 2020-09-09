@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ForwardingMultiset<E>.equals(Object object)"
   name: "equals(Object object)"
   nameWithType: "ForwardingMultiset<E>.equals(Object object)"
-  summary: "Compares the specified object with this multiset for equality. Returns <code>true</code> if the\n given object is also a multiset and contains equal elements with equal counts, regardless of\n order."
+  summary: "Compares the specified object with this multiset for equality. Returns `true` if the given object is also a multiset and contains equal elements with equal counts, regardless of order."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - name: "object"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.ProxyOptions.isProxyAddressConfigured()"
   name: "isProxyAddressConfigured()"
   nameWithType: "ProxyOptions.isProxyAddressConfigured()"
-  summary: "Gets whether the proxy address has been configured. Used to determine whether to use system-defined or\n user-defined proxy."
+  summary: "Gets whether the proxy address has been configured. Used to determine whether to use system-defined or user-defined proxy."
   syntax: "public boolean isProxyAddressConfigured()"
   returns:
     description: "true if the proxy url has been set, and false otherwise."

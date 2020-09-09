@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricTrigger.withTimeGrain(Duration timeGrain)"
   name: "withTimeGrain(Duration timeGrain)"
   nameWithType: "MetricTrigger.withTimeGrain(Duration timeGrain)"
-  summary: "Set the timeGrain property: the granularity of metrics the rule monitors. Must be one of the predefined values\n returned from metric definitions for the metric. Must be between 12 hours and 1 minute."
+  summary: "Set the timeGrain property: the granularity of metrics the rule monitors. Must be one of the predefined values returned from metric definitions for the metric. Must be between 12 hours and 1 minute."
   parameters:
   - description: "the timeGrain value to set."
     name: "timeGrain"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.SubscriptionDescription.getAccessedAt()"
   name: "getAccessedAt()"
   nameWithType: "SubscriptionDescription.getAccessedAt()"
-  summary: "Get the accessedAt property: Last time a message was sent, or the last time there was a receive request to this\n subscription."
+  summary: "Get the accessedAt property: Last time a message was sent, or the last time there was a receive request to this subscription."
   syntax: "public OffsetDateTime getAccessedAt()"
   returns:
     description: "the accessedAt value."

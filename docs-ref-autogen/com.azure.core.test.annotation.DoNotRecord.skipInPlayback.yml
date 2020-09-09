@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.annotation.DoNotRecord.skipInPlayback()"
   name: "skipInPlayback()"
   nameWithType: "DoNotRecord.skipInPlayback()"
-  summary: "Returns whether the test will be ignored during a <xref uid=\"TestMode#PLAYBACK\" data-throw-if-not-resolved=\"false\">playback</xref> test run."
+  summary: "Returns whether the test will be ignored during a <xref uid=\"com.azure.core.test.TestMode.PLAYBACK\" data-throw-if-not-resolved=\"false\">playback</xref> test run."
   syntax: "public abstract boolean skipInPlayback()"
   returns:
     description: "Flag indicating if the test will be ignored during a playback test run."

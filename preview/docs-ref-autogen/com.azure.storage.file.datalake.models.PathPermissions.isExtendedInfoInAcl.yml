@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathPermissions.isExtendedInfoInAcl()"
   name: "isExtendedInfoInAcl()"
   nameWithType: "PathPermissions.isExtendedInfoInAcl()"
-  summary: "Returns whether or not there is more permissions information in the ACLs. The permissions string only returns\n information on the owner, owning group, and other, but the ACLs may contain more permissions for specific users\n or groups."
+  summary: "Returns whether or not there is more permissions information in the ACLs. The permissions string only returns information on the owner, owning group, and other, but the ACLs may contain more permissions for specific users or groups."
   syntax: "public boolean isExtendedInfoInAcl()"
   returns:
     description: "<code>true</code> if there is more information in the ACL. <code>false</code> otherwise."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.defer(UUID lockToken)"
   name: "defer(UUID lockToken)"
   nameWithType: "IMessageReceiver.defer(UUID lockToken)"
-  summary: "Defers a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will move message into deferred subqueue."
+  summary: "Defers a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will move message into deferred subqueue."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -23,7 +23,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.defer(UUID lockToken, TransactionContext transaction)"
   name: "defer(UUID lockToken, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.defer(UUID lockToken, TransactionContext transaction)"
-  summary: "Defers a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will move message into deferred subqueue."
+  summary: "Defers a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will move message into deferred subqueue."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -41,7 +41,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.defer(UUID lockToken, Map<String,Object> propertiesToModify)"
   name: "defer(UUID lockToken, Map<String,Object> propertiesToModify)"
   nameWithType: "IMessageReceiver.defer(UUID lockToken, Map<String,Object> propertiesToModify)"
-  summary: "Defers a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token with modified message property. This will move message into deferred subqueue."
+  summary: "Defers a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token with modified message property. This will move message into deferred subqueue."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -59,7 +59,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.defer(UUID lockToken, Map<String,Object> propertiesToModify, TransactionContext transaction)"
   name: "defer(UUID lockToken, Map<String,Object> propertiesToModify, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.defer(UUID lockToken, Map<String,Object> propertiesToModify, TransactionContext transaction)"
-  summary: "Defers a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token with modified message property. This will move message into deferred subqueue."
+  summary: "Defers a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token with modified message property. This will move message into deferred subqueue."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"

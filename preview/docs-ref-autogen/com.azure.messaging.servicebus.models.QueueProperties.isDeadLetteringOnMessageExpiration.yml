@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.QueueProperties.isDeadLetteringOnMessageExpiration()"
   name: "isDeadLetteringOnMessageExpiration()"
   nameWithType: "QueueProperties.isDeadLetteringOnMessageExpiration()"
-  summary: "Get the deadLetteringOnMessageExpiration property: A value that indicates whether this queue has dead letter\n support when a message expires."
+  summary: "Get the deadLetteringOnMessageExpiration property: A value that indicates whether this queue has dead letter support when a message expires."
   syntax: "public boolean isDeadLetteringOnMessageExpiration()"
   returns:
     description: "the deadLetteringOnMessageExpiration value."

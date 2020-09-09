@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.contains(T element)"
   name: "contains(T element)"
   nameWithType: "Range<T>.contains(T element)"
-  summary: "<p>Checks whether the specified element occurs within this range.</p>"
+  summary: "Checks whether the specified element occurs within this range."
   parameters:
   - description: "the element to check for, null returns false"
     name: "element"

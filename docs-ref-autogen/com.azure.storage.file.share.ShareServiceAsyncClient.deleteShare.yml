@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareServiceAsyncClient.deleteShare(String shareName)"
   name: "deleteShare(String shareName)"
   nameWithType: "ShareServiceAsyncClient.deleteShare(String shareName)"
-  summary: "Deletes the share in the storage account with the given name.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the share \"test\"</p>\n\n <pre>\n fileServiceAsyncClient.deleteShare&#40;&quot;test&quot;&#41;.doOnSuccess&#40;\n     response -&gt; System.out.println&#40;&quot;Deleting the share completed.&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-share\">Azure Docs</a>.</p>"
+  summary: "Deletes the share in the storage account with the given name.\n\n**Code Samples**\n\nDelete the share \"test\"\n\n```java\nfileServiceAsyncClient.deleteShare(\"test\").doOnSuccess(\n     response -> System.out.println(\"Deleting the share completed.\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-share"
   parameters:
   - description: "Name of the share"
     name: "shareName"

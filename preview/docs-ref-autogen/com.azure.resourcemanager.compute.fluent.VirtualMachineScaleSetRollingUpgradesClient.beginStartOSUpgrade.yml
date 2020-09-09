@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetRollingUpgradesClient.beginStartOSUpgrade(String resourceGroupName, String vmScaleSetName)"
   name: "beginStartOSUpgrade(String resourceGroupName, String vmScaleSetName)"
   nameWithType: "VirtualMachineScaleSetRollingUpgradesClient.beginStartOSUpgrade(String resourceGroupName, String vmScaleSetName)"
-  summary: "Starts a rolling upgrade to move all virtual machine scale set instances to the latest available Platform Image\n OS version. Instances which are already running the latest available OS version are not affected."
+  summary: "Starts a rolling upgrade to move all virtual machine scale set instances to the latest available Platform Image OS version. Instances which are already running the latest available OS version are not affected."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetRollingUpgradesClient.beginStartOSUpgrade(String resourceGroupName, String vmScaleSetName, Context context)"
   name: "beginStartOSUpgrade(String resourceGroupName, String vmScaleSetName, Context context)"
   nameWithType: "VirtualMachineScaleSetRollingUpgradesClient.beginStartOSUpgrade(String resourceGroupName, String vmScaleSetName, Context context)"
-  summary: "Starts a rolling upgrade to move all virtual machine scale set instances to the latest available Platform Image\n OS version. Instances which are already running the latest available OS version are not affected."
+  summary: "Starts a rolling upgrade to move all virtual machine scale set instances to the latest available Platform Image OS version. Instances which are already running the latest available OS version are not affected."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

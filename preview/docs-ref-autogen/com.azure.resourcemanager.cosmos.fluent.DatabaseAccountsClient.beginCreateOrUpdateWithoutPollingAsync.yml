@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.DatabaseAccountsClient.beginCreateOrUpdateWithoutPollingAsync(String resourceGroupName, String accountName, DatabaseAccountCreateUpdateParameters createUpdateParameters)"
   name: "beginCreateOrUpdateWithoutPollingAsync(String resourceGroupName, String accountName, DatabaseAccountCreateUpdateParameters createUpdateParameters)"
   nameWithType: "DatabaseAccountsClient.beginCreateOrUpdateWithoutPollingAsync(String resourceGroupName, String accountName, DatabaseAccountCreateUpdateParameters createUpdateParameters)"
-  summary: "Creates or updates an Azure Cosmos DB database account. The \"Update\" method is preferred when performing updates\n on an account."
+  summary: "Creates or updates an Azure Cosmos DB database account. The \"Update\" method is preferred when performing updates on an account."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.DatabaseAccountsClient.beginCreateOrUpdateWithoutPollingAsync(String resourceGroupName, String accountName, DatabaseAccountCreateUpdateParameters createUpdateParameters, Context context)"
   name: "beginCreateOrUpdateWithoutPollingAsync(String resourceGroupName, String accountName, DatabaseAccountCreateUpdateParameters createUpdateParameters, Context context)"
   nameWithType: "DatabaseAccountsClient.beginCreateOrUpdateWithoutPollingAsync(String resourceGroupName, String accountName, DatabaseAccountCreateUpdateParameters createUpdateParameters, Context context)"
-  summary: "Creates or updates an Azure Cosmos DB database account. The \"Update\" method is preferred when performing updates\n on an account."
+  summary: "Creates or updates an Azure Cosmos DB database account. The \"Update\" method is preferred when performing updates on an account."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"

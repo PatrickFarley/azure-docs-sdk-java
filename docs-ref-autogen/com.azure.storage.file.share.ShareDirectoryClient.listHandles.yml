@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryClient.listHandles(Integer maxResultsPerPage, boolean recursive, Duration timeout, Context context)"
   name: "listHandles(Integer maxResultsPerPage, boolean recursive, Duration timeout, Context context)"
   nameWithType: "ShareDirectoryClient.listHandles(Integer maxResultsPerPage, boolean recursive, Duration timeout, Context context)"
-  summary: "List of open handles on a directory or a file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Get 10 handles with recursive call.</p>\n\n <pre>\n Iterable&lt;HandleItem&gt; result = shareDirectoryClient.listHandles&#40;10, true, Duration.ofSeconds&#40;1&#41;,\n     new Context&#40;key1, value1&#41;&#41;;\n System.out.printf&#40;&quot;Get handles completed with handle id %s&quot;, result.iterator&#40;&#41;.next&#40;&#41;.getHandleId&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles\">Azure Docs</a>.</p>"
+  summary: "List of open handles on a directory or a file.\n\n**Code Samples**\n\nGet 10 handles with recursive call.\n\n```java\nIterable<HandleItem> result = shareDirectoryClient.listHandles(10, true, Duration.ofSeconds(1),\n     new Context(key1, value1));\n System.out.printf(\"Get handles completed with handle id %s\", result.iterator().next().getHandleId());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles"
   parameters:
   - description: "Optional maximum number of results will return per page"
     name: "maxResultsPerPage"

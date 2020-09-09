@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.InboundNatRuleInner.withFrontendPort(Integer frontendPort)"
   name: "withFrontendPort(Integer frontendPort)"
   nameWithType: "InboundNatRuleInner.withFrontendPort(Integer frontendPort)"
-  summary: "Set the frontendPort property: The port for the external endpoint. Port numbers for each rule must be unique\n within the Load Balancer. Acceptable values range from 1 to 65534."
+  summary: "Set the frontendPort property: The port for the external endpoint. Port numbers for each rule must be unique within the Load Balancer. Acceptable values range from 1 to 65534."
   parameters:
   - description: "the frontendPort value to set."
     name: "frontendPort"

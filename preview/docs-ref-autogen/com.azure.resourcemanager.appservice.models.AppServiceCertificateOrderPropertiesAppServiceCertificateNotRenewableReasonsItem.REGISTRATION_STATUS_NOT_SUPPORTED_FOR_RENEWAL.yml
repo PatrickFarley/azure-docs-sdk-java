@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem.REGISTRATION_STATUS_NOT_SUPPORTED_FOR_RENEWAL"
   name: "REGISTRATION_STATUS_NOT_SUPPORTED_FOR_RENEWAL"
   nameWithType: "AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem.REGISTRATION_STATUS_NOT_SUPPORTED_FOR_RENEWAL"
-  summary: "Static value RegistrationStatusNotSupportedForRenewal for\n AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem."
+  summary: "Static value RegistrationStatusNotSupportedForRenewal for AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem."
   syntax: "public static final AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem REGISTRATION_STATUS_NOT_SUPPORTED_FOR_RENEWAL"
 type: "field"
 metadata: {}

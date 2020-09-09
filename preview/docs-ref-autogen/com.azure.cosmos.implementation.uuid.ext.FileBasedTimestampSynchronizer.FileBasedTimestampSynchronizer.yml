@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.ext.FileBasedTimestampSynchronizer.FileBasedTimestampSynchronizer()"
   name: "FileBasedTimestampSynchronizer()"
   nameWithType: "FileBasedTimestampSynchronizer.FileBasedTimestampSynchronizer()"
-  summary: "Constructor that uses default values for names of files to use\n (files will get created in the current working directory), as\n well as for the update frequency value (10 seconds)."
+  summary: "Constructor that uses default values for names of files to use (files will get created in the current working directory), as well as for the update frequency value (10 seconds)."
   syntax: "public FileBasedTimestampSynchronizer()"
   exceptions:
   - type: "<xref href=\"java.io.IOException?alt=java.io.IOException&text=IOException\" data-throw-if-not-resolved=\"False\" />"

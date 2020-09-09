@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TextTranslationSkill.setDefaultFromLanguageCode(TextTranslationSkillLanguage defaultFromLanguageCode)"
   name: "setDefaultFromLanguageCode(TextTranslationSkillLanguage defaultFromLanguageCode)"
   nameWithType: "TextTranslationSkill.setDefaultFromLanguageCode(TextTranslationSkillLanguage defaultFromLanguageCode)"
-  summary: "Set the defaultFromLanguageCode property: The language code to translate documents from for documents that don't\n specify the from language explicitly."
+  summary: "Set the defaultFromLanguageCode property: The language code to translate documents from for documents that don't specify the from language explicitly."
   parameters:
   - description: "the defaultFromLanguageCode value to set."
     name: "defaultFromLanguageCode"

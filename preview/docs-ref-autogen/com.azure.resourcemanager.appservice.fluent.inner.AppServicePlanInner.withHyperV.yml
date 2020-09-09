@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServicePlanInner.withHyperV(Boolean hyperV)"
   name: "withHyperV(Boolean hyperV)"
   nameWithType: "AppServicePlanInner.withHyperV(Boolean hyperV)"
-  summary: "Set the hyperV property: If Hyper-V container app service plan &lt;code&gt;true&lt;/code&gt;,\n &lt;code&gt;false&lt;/code&gt; otherwise."
+  summary: "Set the hyperV property: If Hyper-V container app service plan <code>true</code>, <code>false</code> otherwise."
   parameters:
   - description: "the hyperV value to set."
     name: "hyperV"

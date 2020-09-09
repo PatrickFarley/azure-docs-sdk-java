@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.setSearchFields(String searchFields)"
   name: "setSearchFields(String searchFields)"
   nameWithType: "SearchRequest.setSearchFields(String searchFields)"
-  summary: "Set the searchFields property: The comma-separated list of field names to which to scope the full-text search.\n When using fielded search (fieldName:searchExpression) in a full Lucene query, the field names of each fielded\n search expression take precedence over any field names listed in this parameter."
+  summary: "Set the searchFields property: The comma-separated list of field names to which to scope the full-text search. When using fielded search (fieldName:searchExpression) in a full Lucene query, the field names of each fielded search expression take precedence over any field names listed in this parameter."
   parameters:
   - description: "the searchFields value to set."
     name: "searchFields"

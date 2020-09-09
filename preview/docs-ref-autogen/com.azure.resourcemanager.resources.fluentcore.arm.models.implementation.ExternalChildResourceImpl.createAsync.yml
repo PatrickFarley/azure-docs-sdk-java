@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.implementation.ExternalChildResourceImpl<FluentModelT,InnerModelT,ParentImplT,ParentT>.createAsync()"
   name: "createAsync()"
   nameWithType: "ExternalChildResourceImpl<FluentModelT,InnerModelT,ParentImplT,ParentT>.createAsync()"
-  summary: "Puts the request into the queue and allow the HTTP client to execute\n it when system resources are available."
+  summary: "Puts the request into the queue and allow the HTTP client to execute it when system resources are available."
   syntax: "public Flux<Indexable> createAsync()"
   returns:
     type: "<xref href=\"reactor.core.publisher.Flux?alt=reactor.core.publisher.Flux&text=Flux\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"com.azure.resourcemanager.resources.fluentcore.model.Indexable?alt=com.azure.resourcemanager.resources.fluentcore.model.Indexable&text=Indexable\" data-throw-if-not-resolved=\"False\" />&gt;"

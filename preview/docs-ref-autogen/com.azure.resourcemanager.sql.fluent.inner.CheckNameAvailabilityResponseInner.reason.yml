@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.CheckNameAvailabilityResponseInner.reason()"
   name: "reason()"
   nameWithType: "CheckNameAvailabilityResponseInner.reason()"
-  summary: "Get the reason property: The reason code explaining why the name is unavailable. Will be undefined if the name is\n available."
+  summary: "Get the reason property: The reason code explaining why the name is unavailable. Will be undefined if the name is available."
   syntax: "public CheckNameAvailabilityReason reason()"
   returns:
     description: "the reason value."

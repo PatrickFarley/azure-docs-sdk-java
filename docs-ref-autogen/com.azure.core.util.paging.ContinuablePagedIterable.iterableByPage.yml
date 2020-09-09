@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.iterableByPage()"
   name: "iterableByPage()"
   nameWithType: "ContinuablePagedIterable<C,T,P>.iterableByPage()"
-  summary: "Retrieve the <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time.\n It will provide same <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> of T values from starting if called multiple times."
+  summary: "Retrieve the <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time. It will provide same <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> of T values from starting if called multiple times."
   syntax: "public Iterable<P> iterableByPage()"
   returns:
     description: "<xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of a pages"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.iterableByPage(C continuationToken)"
   name: "iterableByPage(C continuationToken)"
   nameWithType: "ContinuablePagedIterable<C,T,P>.iterableByPage(C continuationToken)"
-  summary: "Retrieve the <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time, starting from the next page associated with the given\n continuation token. To start from first page, use <xref uid=\"#iterableByPage()\" data-throw-if-not-resolved=\"false\">#iterableByPage()</xref> instead."
+  summary: "Retrieve the <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time, starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.core.util.paging.ContinuablePagedIterable.iterableByPage()\" data-throw-if-not-resolved=\"false\">#iterableByPage()</xref> instead."
   parameters:
   - description: "The continuation token used to fetch the next page"
     name: "continuationToken"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.iterableByPage(C continuationToken, int preferredPageSize)"
   name: "iterableByPage(C continuationToken, int preferredPageSize)"
   nameWithType: "ContinuablePagedIterable<C,T,P>.iterableByPage(C continuationToken, int preferredPageSize)"
-  summary: "Retrieve the <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time, with each page containing <code>preferredPageSize</code>\n items, starting from the next page associated with the given continuation token.\n To start from first page, use <xref uid=\"#iterableByPage()\" data-throw-if-not-resolved=\"false\">#iterableByPage()</xref> or <xref uid=\"#iterableByPage(int)\" data-throw-if-not-resolved=\"false\">#iterableByPage(int)</xref> instead."
+  summary: "Retrieve the <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time, with each page containing `preferredPageSize` items, starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.core.util.paging.ContinuablePagedIterable.iterableByPage()\" data-throw-if-not-resolved=\"false\">#iterableByPage()</xref> or <xref uid=\"com.azure.core.util.paging.ContinuablePagedIterable.iterableByPage(int)\" data-throw-if-not-resolved=\"false\">#iterableByPage(int)</xref> instead."
   parameters:
   - description: "The continuation token used to fetch the next page"
     name: "continuationToken"
@@ -46,7 +46,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.iterableByPage(int preferredPageSize)"
   name: "iterableByPage(int preferredPageSize)"
   nameWithType: "ContinuablePagedIterable<C,T,P>.iterableByPage(int preferredPageSize)"
-  summary: "Retrieve the <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time, with each page containing <code>preferredPageSize</code>\n items.\n\n It will provide same <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> of T values from starting if called multiple times."
+  summary: "Retrieve the <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref>, one page at a time, with each page containing `preferredPageSize` items. It will provide same <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> of T values from starting if called multiple times."
   parameters:
   - description: "the preferred page size, service may or may not honor the page\n                          size preference hence client MUST be prepared to handle pages\n                          with different page size."
     name: "preferredPageSize"

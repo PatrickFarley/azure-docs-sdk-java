@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationInner.withSetupUri(String setupUri)"
   name: "withSetupUri(String setupUri)"
   nameWithType: "PartnerRegistrationInner.withSetupUri(String setupUri)"
-  summary: "Set uRI of the partner website that can be used by Azure customers to setup Event Grid\n     integration on an event source."
+  summary: "Set uRI of the partner website that can be used by Azure customers to setup Event Grid integration on an event source."
   parameters:
   - description: "the setupUri value to set"
     name: "setupUri"

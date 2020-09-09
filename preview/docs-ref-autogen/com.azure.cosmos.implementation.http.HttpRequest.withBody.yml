@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.http.HttpRequest.withBody(byte[] content)"
   name: "withBody(byte[] content)"
   nameWithType: "HttpRequest.withBody(byte[] content)"
-  summary: "Set the request content.\n The Content-Length header will be set based on the given content's length"
+  summary: "Set the request content. The Content-Length header will be set based on the given content's length"
   parameters:
   - description: "the request content"
     name: "content"
@@ -34,7 +34,7 @@ members:
   fullName: "com.azure.cosmos.implementation.http.HttpRequest.withBody(Flux<ByteBuf> content)"
   name: "withBody(Flux<ByteBuf> content)"
   nameWithType: "HttpRequest.withBody(Flux<ByteBuf> content)"
-  summary: "Set request content.\n <p>\n Caller must set the Content-Length header to indicate the length of the content,\n or use Transfer-Encoding: chunked."
+  summary: "Set request content.\n\nCaller must set the Content-Length header to indicate the length of the content, or use Transfer-Encoding: chunked."
   parameters:
   - description: "the request content"
     name: "content"

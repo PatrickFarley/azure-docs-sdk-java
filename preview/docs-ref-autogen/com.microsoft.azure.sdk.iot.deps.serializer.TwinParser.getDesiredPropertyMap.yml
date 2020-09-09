@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.getDesiredPropertyMap()"
   name: "getDesiredPropertyMap()"
   nameWithType: "TwinParser.getDesiredPropertyMap()"
-  summary: "Return a map with all `desired` properties in the collection."
+  summary: "Return a map with all \\`desired\\` properties in the collection."
   syntax: "public Map<String,Object> getDesiredPropertyMap()"
   returns:
     description: "A map with all `desired` properties in the collection (it can be null)."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DatabaseAccount.getMediaStorageUsageInMB()"
   name: "getMediaStorageUsageInMB()"
   nameWithType: "DatabaseAccount.getMediaStorageUsageInMB()"
-  summary: "Current attachment content (media) usage in MBs.\n <p>\n Retrieved from gateway. Value is returned from cached information updated\n periodically and is not guaranteed to be real time."
+  summary: "Current attachment content (media) usage in MBs.\n\nRetrieved from gateway. Value is returned from cached information updated periodically and is not guaranteed to be real time."
   syntax: "public long getMediaStorageUsageInMB()"
   returns:
     description: "the media storage usage in MB."

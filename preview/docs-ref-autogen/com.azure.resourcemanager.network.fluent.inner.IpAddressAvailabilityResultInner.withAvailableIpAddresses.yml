@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.IpAddressAvailabilityResultInner.withAvailableIpAddresses(List<String> availableIpAddresses)"
   name: "withAvailableIpAddresses(List<String> availableIpAddresses)"
   nameWithType: "IpAddressAvailabilityResultInner.withAvailableIpAddresses(List<String> availableIpAddresses)"
-  summary: "Set the availableIpAddresses property: Contains other available private IP addresses if the asked for address is\n taken."
+  summary: "Set the availableIpAddresses property: Contains other available private IP addresses if the asked for address is taken."
   parameters:
   - description: "the availableIpAddresses value to set."
     name: "availableIpAddresses"

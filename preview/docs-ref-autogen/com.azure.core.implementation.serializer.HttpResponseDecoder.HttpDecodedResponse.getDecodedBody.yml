@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.serializer.HttpResponseDecoder.HttpDecodedResponse.getDecodedBody(String body)"
   name: "getDecodedBody(String body)"
   nameWithType: "HttpResponseDecoder.HttpDecodedResponse.getDecodedBody(String body)"
-  summary: "Gets the publisher when subscribed the http content gets read, decoded\n and emitted. <code>Mono.empty()</code> gets emitted if the content is not\n decodable."
+  summary: "Gets the publisher when subscribed the http content gets read, decoded and emitted. `Mono.empty()` gets emitted if the content is not decodable."
   parameters:
   - description: "the response body to decode, null for this parameter\n             indicate read body from source response and decode it."
     name: "body"

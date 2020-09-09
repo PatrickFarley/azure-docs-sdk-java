@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkConfigurationDiagnosticProfile.withSource(String source)"
   name: "withSource(String source)"
   nameWithType: "NetworkConfigurationDiagnosticProfile.withSource(String source)"
-  summary: "Set traffic source. Accepted values are '*', IP Address/CIDR, Service Tag."
+  summary: "Set traffic source. Accepted values are '\\*', IP Address/CIDR, Service Tag."
   parameters:
   - description: "the source value to set"
     name: "source"

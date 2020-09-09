@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.performMaintenanceAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
   name: "performMaintenanceAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
   nameWithType: "VirtualMachineScaleSetsClient.performMaintenanceAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
-  summary: "Perform maintenance on one or more virtual machines in a VM scale set. Operation on instances which are not\n eligible for perform maintenance will be failed. Please refer to best practices for more details:\n https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications."
+  summary: "Perform maintenance on one or more virtual machines in a VM scale set. Operation on instances which are not eligible for perform maintenance will be failed. Please refer to best practices for more details: https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.performMaintenanceAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
   name: "performMaintenanceAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
   nameWithType: "VirtualMachineScaleSetsClient.performMaintenanceAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
-  summary: "Perform maintenance on one or more virtual machines in a VM scale set. Operation on instances which are not\n eligible for perform maintenance will be failed. Please refer to best practices for more details:\n https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications."
+  summary: "Perform maintenance on one or more virtual machines in a VM scale set. Operation on instances which are not eligible for perform maintenance will be failed. Please refer to best practices for more details: https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

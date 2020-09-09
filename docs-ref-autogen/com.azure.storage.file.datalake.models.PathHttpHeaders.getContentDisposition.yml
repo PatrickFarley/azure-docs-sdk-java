@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathHttpHeaders.getContentDisposition()"
   name: "getContentDisposition()"
   nameWithType: "PathHttpHeaders.getContentDisposition()"
-  summary: "Get the contentDisposition property: Optional. Sets the blob's\n Content-Disposition header."
+  summary: "Get the contentDisposition property: Optional. Sets the blob's Content-Disposition header."
   syntax: "public String getContentDisposition()"
   returns:
     description: "the contentDisposition value."

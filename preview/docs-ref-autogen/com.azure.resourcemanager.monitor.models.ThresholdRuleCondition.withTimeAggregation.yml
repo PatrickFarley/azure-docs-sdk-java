@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ThresholdRuleCondition.withTimeAggregation(TimeAggregationOperator timeAggregation)"
   name: "withTimeAggregation(TimeAggregationOperator timeAggregation)"
   nameWithType: "ThresholdRuleCondition.withTimeAggregation(TimeAggregationOperator timeAggregation)"
-  summary: "Set the timeAggregation property: the time aggregation operator. How the data that are collected should be\n combined over time. The default value is the PrimaryAggregationType of the Metric."
+  summary: "Set the timeAggregation property: the time aggregation operator. How the data that are collected should be combined over time. The default value is the PrimaryAggregationType of the Metric."
   parameters:
   - description: "the timeAggregation value to set."
     name: "timeAggregation"

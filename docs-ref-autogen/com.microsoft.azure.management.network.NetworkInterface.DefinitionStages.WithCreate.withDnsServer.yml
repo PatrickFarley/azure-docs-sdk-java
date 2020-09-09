@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkInterface.DefinitionStages.WithCreate.withDnsServer(String ipAddress)"
   name: "withDnsServer(String ipAddress)"
   nameWithType: "NetworkInterface.DefinitionStages.WithCreate.withDnsServer(String ipAddress)"
-  summary: "Specifies the IP address of the custom DNS server to associate with the network interface.\n <p>\n Note this method's effect is additive, i.e. each time it is used, the new dns server is\n added to the network interface."
+  summary: "Specifies the IP address of the custom DNS server to associate with the network interface.\n\nNote this method's effect is additive, i.e. each time it is used, the new dns server is added to the network interface."
   parameters:
   - description: "the IP address of the DNS server"
     name: "ipAddress"

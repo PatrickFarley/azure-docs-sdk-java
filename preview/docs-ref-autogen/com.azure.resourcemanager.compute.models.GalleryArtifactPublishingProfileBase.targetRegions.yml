@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryArtifactPublishingProfileBase.targetRegions()"
   name: "targetRegions()"
   nameWithType: "GalleryArtifactPublishingProfileBase.targetRegions()"
-  summary: "Get the targetRegions property: The target regions where the Image Version is going to be replicated to. This\n property is updatable."
+  summary: "Get the targetRegions property: The target regions where the Image Version is going to be replicated to. This property is updatable."
   syntax: "public List<TargetRegion> targetRegions()"
   returns:
     description: "the targetRegions value."

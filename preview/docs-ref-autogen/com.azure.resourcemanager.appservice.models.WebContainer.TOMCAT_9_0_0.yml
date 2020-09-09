@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebContainer.TOMCAT_9_0_0"
   name: "TOMCAT_9_0_0"
   nameWithType: "WebContainer.TOMCAT_9_0_0"
-  summary: "Static value tomcat 9_0_0 for WebContainer."
+  summary: "Static value tomcat 9\\_0\\_0 for WebContainer."
   syntax: "public static final WebContainer TOMCAT_9_0_0"
 type: "field"
 metadata: {}

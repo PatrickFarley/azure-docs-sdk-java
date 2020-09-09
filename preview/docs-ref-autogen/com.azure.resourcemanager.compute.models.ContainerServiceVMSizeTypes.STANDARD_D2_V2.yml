@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ContainerServiceVMSizeTypes.STANDARD_D2_V2"
   name: "STANDARD_D2_V2"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_D2_V2"
-  summary: "Static value Standard_D2_v2 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_D2\\_v2 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_D2_V2"
 type: "field"
 metadata: {}

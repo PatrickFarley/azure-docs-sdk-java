@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.Encryption.withKeySource(KeySource keySource)"
   name: "withKeySource(KeySource keySource)"
   nameWithType: "Encryption.withKeySource(KeySource keySource)"
-  summary: "Set the keySource property: The encryption keySource (provider). Possible values (case-insensitive):\n Microsoft.Storage, Microsoft.Keyvault."
+  summary: "Set the keySource property: The encryption keySource (provider). Possible values (case-insensitive): Microsoft.Storage, Microsoft.Keyvault."
   parameters:
   - description: "the keySource value to set."
     name: "keySource"

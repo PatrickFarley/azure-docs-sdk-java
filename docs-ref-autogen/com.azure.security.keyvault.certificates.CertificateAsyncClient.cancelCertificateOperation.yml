@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.certificates.CertificateAsyncClient.cancelCertificateOperation(String certificateName)"
   name: "cancelCertificateOperation(String certificateName)"
   nameWithType: "CertificateAsyncClient.cancelCertificateOperation(String certificateName)"
-  summary: "Cancels a certificate creation operation that is already in progress. This operation requires the <code>certificates/update</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Triggers certificate creation and then cancels the certificate creation operation in the Azure Key Vault. Prints out the\n updated certificate operation details when a response has been received.</p>\n\n <pre>\n certificateAsyncClient.cancelCertificateOperation&#40;&quot;certificateName&quot;&#41;\n     .subscribe&#40;certificateOperation -&gt; System.out.printf&#40;&quot;Certificate operation status %s&quot;,\n         certificateOperation.getStatus&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Cancels a certificate creation operation that is already in progress. This operation requires the `certificates/update` permission.\n\n**Code Samples**\n\nTriggers certificate creation and then cancels the certificate creation operation in the Azure Key Vault. Prints out the updated certificate operation details when a response has been received.\n\n```java\ncertificateAsyncClient.cancelCertificateOperation(\"certificateName\")\n     .subscribe(certificateOperation -> System.out.printf(\"Certificate operation status %s\",\n         certificateOperation.getStatus()));\n```"
   parameters:
   - description: "The name of the certificate which is in the process of being created."
     name: "certificateName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SitePhpErrorLogFlagInner.withLocalLogErrorsMaxLength(String localLogErrorsMaxLength)"
   name: "withLocalLogErrorsMaxLength(String localLogErrorsMaxLength)"
   nameWithType: "SitePhpErrorLogFlagInner.withLocalLogErrorsMaxLength(String localLogErrorsMaxLength)"
-  summary: "Set the localLogErrorsMaxLength property: Local log_errors_max_len setting."
+  summary: "Set the localLogErrorsMaxLength property: Local log\\_errors\\_max\\_len setting."
   parameters:
   - description: "the localLogErrorsMaxLength value to set."
     name: "localLogErrorsMaxLength"

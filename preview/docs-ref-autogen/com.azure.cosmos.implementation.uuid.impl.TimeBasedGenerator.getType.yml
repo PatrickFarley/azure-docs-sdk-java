@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.TimeBasedGenerator.getType()"
   name: "getType()"
   nameWithType: "TimeBasedGenerator.getType()"
-  summary: "Accessor for determining type of UUIDs (variant) that this\n generator instance will produce."
+  summary: "Accessor for determining type of UUIDs (variant) that this generator instance will produce."
   overridden: "com.azure.cosmos.implementation.uuid.UUIDGenerator.getType()"
   syntax: "public UUIDType getType()"
   returns:

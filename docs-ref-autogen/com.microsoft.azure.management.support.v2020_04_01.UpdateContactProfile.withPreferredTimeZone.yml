@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.UpdateContactProfile.withPreferredTimeZone(String preferredTimeZone)"
   name: "withPreferredTimeZone(String preferredTimeZone)"
   nameWithType: "UpdateContactProfile.withPreferredTimeZone(String preferredTimeZone)"
-  summary: "Set time zone of the user. This is the name of the time zone from [Microsoft Time Zone Index Values](https://support.microsoft.com/help/973627/microsoft-time-zone-index-values)."
+  summary: "Set time zone of the user. This is the name of the time zone from \\[Microsoft Time Zone Index Values\\](https://support.microsoft.com/help/973627/microsoft-time-zone-index-values)."
   parameters:
   - description: "the preferredTimeZone value to set"
     name: "preferredTimeZone"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cdn.CdnEndpoint.loadContentAsync(Set<String> contentPaths)"
   name: "loadContentAsync(Set<String> contentPaths)"
   nameWithType: "CdnEndpoint.loadContentAsync(Set<String> contentPaths)"
-  summary: "Forcibly preloads the content of the CDN endpoint asynchronously.\n <p>\n Note: this is supported for Verizon profiles only."
+  summary: "Forcibly preloads the content of the CDN endpoint asynchronously.\n\nNote: this is supported for Verizon profiles only."
   parameters:
   - description: "the file paths to the content to be loaded"
     name: "contentPaths"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.cdn.CdnEndpoint.loadContentAsync(Set<String> contentPaths, ServiceCallback<Void> callback)"
   name: "loadContentAsync(Set<String> contentPaths, ServiceCallback<Void> callback)"
   nameWithType: "CdnEndpoint.loadContentAsync(Set<String> contentPaths, ServiceCallback<Void> callback)"
-  summary: "Forcibly preloads the content of the CDN endpoint asynchronously.\n <p>\n Note: this is supported for Verizon profiles only."
+  summary: "Forcibly preloads the content of the CDN endpoint asynchronously.\n\nNote: this is supported for Verizon profiles only."
   parameters:
   - description: "the file paths to the content to be loaded"
     name: "contentPaths"

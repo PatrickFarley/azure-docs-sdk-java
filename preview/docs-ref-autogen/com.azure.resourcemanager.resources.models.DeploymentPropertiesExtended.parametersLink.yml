@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.models.DeploymentPropertiesExtended.parametersLink()"
   name: "parametersLink()"
   nameWithType: "DeploymentPropertiesExtended.parametersLink()"
-  summary: "Get the parametersLink property: The URI referencing the parameters. Use only one of Parameters or\n ParametersLink."
+  summary: "Get the parametersLink property: The URI referencing the parameters. Use only one of Parameters or ParametersLink."
   syntax: "public ParametersLink parametersLink()"
   returns:
     description: "the parametersLink value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.AnalyzeTextOptions.getCharFilters()"
   name: "getCharFilters()"
   nameWithType: "AnalyzeTextOptions.getCharFilters()"
-  summary: "Get the charFilters property: An optional list of character filters to\n use when breaking the given text. This parameter can only be set when\n using the tokenizer parameter."
+  summary: "Get the charFilters property: An optional list of character filters to use when breaking the given text. This parameter can only be set when using the tokenizer parameter."
   syntax: "public List<CharFilterName> getCharFilters()"
   returns:
     description: "the charFilters value."

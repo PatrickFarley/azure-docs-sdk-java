@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.getCopyStatusDescription()"
   name: "getCopyStatusDescription()"
   nameWithType: "BlobItemProperties.getCopyStatusDescription()"
-  summary: "Get the copyStatusDescription property: The copyStatusDescription\n property."
+  summary: "Get the copyStatusDescription property: The copyStatusDescription property."
   syntax: "public String getCopyStatusDescription()"
   returns:
     description: "the copyStatusDescription value."

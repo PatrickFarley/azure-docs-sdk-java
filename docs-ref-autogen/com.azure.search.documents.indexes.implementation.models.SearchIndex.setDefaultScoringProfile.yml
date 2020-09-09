@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndex.setDefaultScoringProfile(String defaultScoringProfile)"
   name: "setDefaultScoringProfile(String defaultScoringProfile)"
   nameWithType: "SearchIndex.setDefaultScoringProfile(String defaultScoringProfile)"
-  summary: "Set the defaultScoringProfile property: The name of the scoring profile to use if none is specified in the query.\n If this property is not set and no scoring profile is specified in the query, then default scoring (tf-idf) will\n be used."
+  summary: "Set the defaultScoringProfile property: The name of the scoring profile to use if none is specified in the query. If this property is not set and no scoring profile is specified in the query, then default scoring (tf-idf) will be used."
   parameters:
   - description: "the defaultScoringProfile value to set."
     name: "defaultScoringProfile"

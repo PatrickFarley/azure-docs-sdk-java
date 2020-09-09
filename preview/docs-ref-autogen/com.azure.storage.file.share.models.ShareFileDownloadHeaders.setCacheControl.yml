@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.setCacheControl(String cacheControl)"
   name: "setCacheControl(String cacheControl)"
   nameWithType: "ShareFileDownloadHeaders.setCacheControl(String cacheControl)"
-  summary: "Set the cacheControl property: Returned if it was previously specified\n for the file."
+  summary: "Set the cacheControl property: Returned if it was previously specified for the file."
   parameters:
   - description: "the cacheControl value to set."
     name: "cacheControl"

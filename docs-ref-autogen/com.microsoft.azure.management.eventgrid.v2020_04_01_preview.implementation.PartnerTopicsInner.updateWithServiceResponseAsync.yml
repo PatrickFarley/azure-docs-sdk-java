@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.updateWithServiceResponseAsync(String resourceGroupName, String partnerTopicName)"
   name: "updateWithServiceResponseAsync(String resourceGroupName, String partnerTopicName)"
   nameWithType: "PartnerTopicsInner.updateWithServiceResponseAsync(String resourceGroupName, String partnerTopicName)"
-  summary: "Update a partner topic.\n Asynchronously updates a partner topic with the specified parameters."
+  summary: "Update a partner topic. Asynchronously updates a partner topic with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.updateWithServiceResponseAsync(String resourceGroupName, String partnerTopicName, Map<String,String> tags)"
   name: "updateWithServiceResponseAsync(String resourceGroupName, String partnerTopicName, Map<String,String> tags)"
   nameWithType: "PartnerTopicsInner.updateWithServiceResponseAsync(String resourceGroupName, String partnerTopicName, Map<String,String> tags)"
-  summary: "Update a partner topic.\n Asynchronously updates a partner topic with the specified parameters."
+  summary: "Update a partner topic. Asynchronously updates a partner topic with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

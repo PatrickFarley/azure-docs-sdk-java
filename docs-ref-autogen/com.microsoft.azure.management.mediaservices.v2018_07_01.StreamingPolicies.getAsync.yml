@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.StreamingPolicies.getAsync(String resourceGroupName, String accountName, String streamingPolicyName)"
   name: "getAsync(String resourceGroupName, String accountName, String streamingPolicyName)"
   nameWithType: "StreamingPolicies.getAsync(String resourceGroupName, String accountName, String streamingPolicyName)"
-  summary: "Get a Streaming Policy.\n Get the details of a Streaming Policy in the Media Services account."
+  summary: "Get a Streaming Policy. Get the details of a Streaming Policy in the Media Services account."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

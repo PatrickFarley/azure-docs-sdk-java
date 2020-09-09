@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.CachedSchemaRegistryClientBuilder.CachedSchemaRegistryClientBuilder()"
   name: "CachedSchemaRegistryClientBuilder()"
   nameWithType: "CachedSchemaRegistryClientBuilder.CachedSchemaRegistryClientBuilder()"
-  summary: "Constructor for CachedSchemaRegistryClientBuilder.  Supplies client defaults."
+  summary: "Constructor for CachedSchemaRegistryClientBuilder. Supplies client defaults."
   syntax: "public CachedSchemaRegistryClientBuilder()"
 type: "constructor"
 metadata: {}

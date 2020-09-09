@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.rules.SqlRuleAction.SqlRuleAction(String sqlExpression)"
   name: "SqlRuleAction(String sqlExpression)"
   nameWithType: "SqlRuleAction.SqlRuleAction(String sqlExpression)"
-  summary: "Creates an instance of <code>SqlRuleAction</code> with the given transformation expression."
+  summary: "Creates an instance of `SqlRuleAction` with the given transformation expression."
   parameters:
   - description: "SQL language-based transformation expression"
     name: "sqlExpression"

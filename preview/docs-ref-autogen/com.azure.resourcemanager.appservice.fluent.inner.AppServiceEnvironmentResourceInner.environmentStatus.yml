@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServiceEnvironmentResourceInner.environmentStatus()"
   name: "environmentStatus()"
   nameWithType: "AppServiceEnvironmentResourceInner.environmentStatus()"
-  summary: "Get the environmentStatus property: Detailed message about with results of the last check of the App Service\n Environment."
+  summary: "Get the environmentStatus property: Detailed message about with results of the last check of the App Service Environment."
   syntax: "public String environmentStatus()"
   returns:
     description: "the environmentStatus value."

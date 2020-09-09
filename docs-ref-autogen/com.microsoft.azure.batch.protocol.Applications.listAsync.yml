@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Applications.listAsync()"
   name: "listAsync()"
   nameWithType: "Applications.listAsync()"
-  summary: "Lists all of the applications available in the specified Account.\n This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
+  summary: "Lists all of the applications available in the specified Account. This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
   syntax: "public abstract Observable<Page<ApplicationSummary>> listAsync()"
   returns:
     description: "the observable to the PagedList&lt;ApplicationSummary&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Applications.listAsync(ListOperationCallback<ApplicationSummary> serviceCallback)"
   name: "listAsync(ListOperationCallback<ApplicationSummary> serviceCallback)"
   nameWithType: "Applications.listAsync(ListOperationCallback<ApplicationSummary> serviceCallback)"
-  summary: "Lists all of the applications available in the specified Account.\n This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
+  summary: "Lists all of the applications available in the specified Account. This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
   parameters:
   - description: "the async ServiceCallback to handle successful and failed responses."
     name: "serviceCallback"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Applications.listAsync(ApplicationListOptions applicationListOptions)"
   name: "listAsync(ApplicationListOptions applicationListOptions)"
   nameWithType: "Applications.listAsync(ApplicationListOptions applicationListOptions)"
-  summary: "Lists all of the applications available in the specified Account.\n This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
+  summary: "Lists all of the applications available in the specified Account. This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
   parameters:
   - description: "Additional parameters for the operation"
     name: "applicationListOptions"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Applications.listAsync(ApplicationListOptions applicationListOptions, ListOperationCallback<ApplicationSummary> serviceCallback)"
   name: "listAsync(ApplicationListOptions applicationListOptions, ListOperationCallback<ApplicationSummary> serviceCallback)"
   nameWithType: "Applications.listAsync(ApplicationListOptions applicationListOptions, ListOperationCallback<ApplicationSummary> serviceCallback)"
-  summary: "Lists all of the applications available in the specified Account.\n This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
+  summary: "Lists all of the applications available in the specified Account. This operation returns only Applications and versions that are available for use on Compute Nodes; that is, that can be used in an Package reference. For administrator information about applications and versions that are not yet available to Compute Nodes, use the Azure portal or the Azure Resource Manager API."
   parameters:
   - description: "Additional parameters for the operation"
     name: "applicationListOptions"

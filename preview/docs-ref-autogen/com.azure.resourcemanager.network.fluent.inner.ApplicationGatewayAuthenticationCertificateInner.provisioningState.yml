@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayAuthenticationCertificateInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ApplicationGatewayAuthenticationCertificateInner.provisioningState()"
-  summary: "Get the provisioningState property: Provisioning state of the authentication certificate resource. Possible\n values are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: Provisioning state of the authentication certificate resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

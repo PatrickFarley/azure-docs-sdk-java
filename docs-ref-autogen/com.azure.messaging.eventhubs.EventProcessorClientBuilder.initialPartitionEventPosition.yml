@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.initialPartitionEventPosition(Map<String,EventPosition> initialPartitionEventPosition)"
   name: "initialPartitionEventPosition(Map<String,EventPosition> initialPartitionEventPosition)"
   nameWithType: "EventProcessorClientBuilder.initialPartitionEventPosition(Map<String,EventPosition> initialPartitionEventPosition)"
-  summary: "Sets the map containing the event position to use for each partition if a checkpoint for the partition does not\n exist in <xref uid=\"CheckpointStore\" data-throw-if-not-resolved=\"false\">CheckpointStore</xref>. This map is keyed off of the partition id. If there is no checkpoint in <xref uid=\"CheckpointStore\" data-throw-if-not-resolved=\"false\">CheckpointStore</xref> and there is no entry in this map, the processing of the partition will start from <xref uid=\"EventPosition#latest()\" data-throw-if-not-resolved=\"false\">latest</xref> position."
+  summary: "Sets the map containing the event position to use for each partition if a checkpoint for the partition does not exist in <xref uid=\"com.azure.messaging.eventhubs.CheckpointStore\" data-throw-if-not-resolved=\"false\">CheckpointStore</xref>. This map is keyed off of the partition id. If there is no checkpoint in <xref uid=\"com.azure.messaging.eventhubs.CheckpointStore\" data-throw-if-not-resolved=\"false\">CheckpointStore</xref> and there is no entry in this map, the processing of the partition will start from <xref uid=\"com.azure.messaging.eventhubs.models.EventPosition.latest()\" data-throw-if-not-resolved=\"false\">latest</xref> position."
   parameters:
   - description: "Map of initial event positions for partition ids."
     name: "initialPartitionEventPosition"

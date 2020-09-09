@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.OAuth2PermissionGrantInner.scope()"
   name: "scope()"
   nameWithType: "OAuth2PermissionGrantInner.scope()"
-  summary: "Get the scope property: Specifies the value of the scope claim that the resource application should expect in the\n OAuth 2.0 access token. For example, User.Read."
+  summary: "Get the scope property: Specifies the value of the scope claim that the resource application should expect in the OAuth 2.0 access token. For example, User.Read."
   syntax: "public String scope()"
   returns:
     description: "the scope value."

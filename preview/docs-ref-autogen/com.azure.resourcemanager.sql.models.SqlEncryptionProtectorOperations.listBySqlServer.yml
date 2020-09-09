@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlEncryptionProtectorOperations.listBySqlServer(SqlServer sqlServer)"
   name: "listBySqlServer(SqlServer sqlServer)"
   nameWithType: "SqlEncryptionProtectorOperations.listBySqlServer(SqlServer sqlServer)"
-  summary: "Lists Azure SQL the Encryption Protector resources of the specified Azure SQL server in the specified resource\n group."
+  summary: "Lists Azure SQL the Encryption Protector resources of the specified Azure SQL server in the specified resource group."
   parameters:
   - description: "the parent Azure SQL server."
     name: "sqlServer"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlEncryptionProtectorOperations.listBySqlServer(String resourceGroupName, String sqlServerName)"
   name: "listBySqlServer(String resourceGroupName, String sqlServerName)"
   nameWithType: "SqlEncryptionProtectorOperations.listBySqlServer(String resourceGroupName, String sqlServerName)"
-  summary: "Lists Azure SQL the Encryption Protector resources of the specified Azure SQL server in the specified resource\n group."
+  summary: "Lists Azure SQL the Encryption Protector resources of the specified Azure SQL server in the specified resource group."
   parameters:
   - description: "the name of the resource group to list the resources from"
     name: "resourceGroupName"

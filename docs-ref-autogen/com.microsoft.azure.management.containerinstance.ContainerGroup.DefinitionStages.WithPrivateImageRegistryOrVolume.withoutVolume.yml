@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.ContainerGroup.DefinitionStages.WithPrivateImageRegistryOrVolume.withoutVolume()"
   name: "withoutVolume()"
   nameWithType: "ContainerGroup.DefinitionStages.WithPrivateImageRegistryOrVolume.withoutVolume()"
-  summary: "Skips the definition of volumes to be shared by the container instances.\n\n <p>\n An IllegalArgumentException will be thrown if a container instance attempts to define a volume mounting."
+  summary: "Skips the definition of volumes to be shared by the container instances.\n\nAn IllegalArgumentException will be thrown if a container instance attempts to define a volume mounting."
   syntax: "public abstract ContainerGroup.DefinitionStages.WithFirstContainerInstance withoutVolume()"
   returns:
     description: "the next stage of the definition"

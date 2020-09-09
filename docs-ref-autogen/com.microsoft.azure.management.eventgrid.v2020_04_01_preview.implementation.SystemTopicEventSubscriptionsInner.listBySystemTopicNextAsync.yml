@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicEventSubscriptionsInner.listBySystemTopicNextAsync(String nextPageLink)"
   name: "listBySystemTopicNextAsync(String nextPageLink)"
   nameWithType: "SystemTopicEventSubscriptionsInner.listBySystemTopicNextAsync(String nextPageLink)"
-  summary: "List event subscriptions of a system topic.\n List event subscriptions that belong to a specific system topic."
+  summary: "List event subscriptions of a system topic. List event subscriptions that belong to a specific system topic."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicEventSubscriptionsInner.listBySystemTopicNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listBySystemTopicNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "SystemTopicEventSubscriptionsInner.listBySystemTopicNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List event subscriptions of a system topic.\n List event subscriptions that belong to a specific system topic."
+  summary: "List event subscriptions of a system topic. List event subscriptions that belong to a specific system topic."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

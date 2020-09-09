@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosScripts.queryStoredProcedures(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   name: "queryStoredProcedures(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosScripts.queryStoredProcedures(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
-  summary: "Query stored procedures <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Query stored procedures <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   parameters:
   - description: "the query spec"
     name: "querySpec"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.CosmosScripts.queryStoredProcedures(String query, CosmosQueryRequestOptions options)"
   name: "queryStoredProcedures(String query, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosScripts.queryStoredProcedures(String query, CosmosQueryRequestOptions options)"
-  summary: "Query stored procedures <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Query stored procedures <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   parameters:
   - description: "the query"
     name: "query"

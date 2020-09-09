@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.Schedule.withTimeWindowInMinutes(int timeWindowInMinutes)"
   name: "withTimeWindowInMinutes(int timeWindowInMinutes)"
   nameWithType: "Schedule.withTimeWindowInMinutes(int timeWindowInMinutes)"
-  summary: "Set the timeWindowInMinutes property: Time window for which data needs to be fetched for query (should be greater\n than or equal to frequencyInMinutes)."
+  summary: "Set the timeWindowInMinutes property: Time window for which data needs to be fetched for query (should be greater than or equal to frequencyInMinutes)."
   parameters:
   - description: "the timeWindowInMinutes value to set."
     name: "timeWindowInMinutes"

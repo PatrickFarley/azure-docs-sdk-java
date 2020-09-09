@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.list1()"
   name: "list1()"
   nameWithType: "PartnerRegistrationsInner.list1()"
-  summary: "List all available partners registrations.\n List all partners registrations."
+  summary: "List all available partners registrations. List all partners registrations."
   syntax: "public List<PartnerRegistrationInner> list1()"
   returns:
     description: "the List&lt;PartnerRegistrationInner&gt; object if successful."

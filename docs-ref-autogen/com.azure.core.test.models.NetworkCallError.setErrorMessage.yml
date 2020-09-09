@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.models.NetworkCallError.setErrorMessage(String errorMessage)"
   name: "setErrorMessage(String errorMessage)"
   nameWithType: "NetworkCallError.setErrorMessage(String errorMessage)"
-  summary: "Sets the error message of the class of the throwable. This is used during deserialization the construct the\n throwable as the actual class that was thrown."
+  summary: "Sets the error message of the class of the throwable. This is used during deserialization the construct the throwable as the actual class that was thrown."
   parameters:
   - description: "Error msg from the exception."
     name: "errorMessage"

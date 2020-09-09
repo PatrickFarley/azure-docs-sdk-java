@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryUpdateParameters.storageAccount()"
   name: "storageAccount()"
   nameWithType: "RegistryUpdateParameters.storageAccount()"
-  summary: "Get the storageAccount property: The parameters of a storage account for the container registry. Only applicable\n to Classic SKU. If specified, the storage account must be in the same physical location as the container\n registry."
+  summary: "Get the storageAccount property: The parameters of a storage account for the container registry. Only applicable to Classic SKU. If specified, the storage account must be in the same physical location as the container registry."
   syntax: "public StorageAccountProperties storageAccount()"
   returns:
     description: "the storageAccount value."

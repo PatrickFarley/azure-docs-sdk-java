@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MagnitudeScoringFunction.getParameters()"
   name: "getParameters()"
   nameWithType: "MagnitudeScoringFunction.getParameters()"
-  summary: "Get the parameters property: Parameter values for the magnitude scoring\n function."
+  summary: "Get the parameters property: Parameter values for the magnitude scoring function."
   syntax: "public MagnitudeScoringParameters getParameters()"
   returns:
     description: "the parameters value."

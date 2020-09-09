@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.<A>appendTo(A appendable, Iterable<? extends Map.Entry<?,?>> entries)"
   name: "<A>appendTo(A appendable, Iterable<? extends Map.Entry<?,?>> entries)"
   nameWithType: "Joiner.MapJoiner.<A>appendTo(A appendable, Iterable<? extends Map.Entry<?,?>> entries)"
-  summary: "Appends the string representation of each entry in <code>entries</code>, using the previously\n configured separator and key-value separator, to <code>appendable</code>."
+  summary: "Appends the string representation of each entry in `entries`, using the previously configured separator and key-value separator, to `appendable`."
   parameters:
   - name: "appendable"
     type: "<xref href=\"A?alt=A&text=A\" data-throw-if-not-resolved=\"False\" />"
@@ -23,7 +23,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.<A>appendTo(A appendable, Iterator<? extends Map.Entry<?,?>> parts)"
   name: "<A>appendTo(A appendable, Iterator<? extends Map.Entry<?,?>> parts)"
   nameWithType: "Joiner.MapJoiner.<A>appendTo(A appendable, Iterator<? extends Map.Entry<?,?>> parts)"
-  summary: "Appends the string representation of each entry in <code>entries</code>, using the previously\n configured separator and key-value separator, to <code>appendable</code>."
+  summary: "Appends the string representation of each entry in `entries`, using the previously configured separator and key-value separator, to `appendable`."
   parameters:
   - name: "appendable"
     type: "<xref href=\"A?alt=A&text=A\" data-throw-if-not-resolved=\"False\" />"
@@ -38,7 +38,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.<A>appendTo(A appendable, Map<?,?> map)"
   name: "<A>appendTo(A appendable, Map<?,?> map)"
   nameWithType: "Joiner.MapJoiner.<A>appendTo(A appendable, Map<?,?> map)"
-  summary: "Appends the string representation of each entry of <code>map</code>, using the previously\n configured separator and key-value separator, to <code>appendable</code>."
+  summary: "Appends the string representation of each entry of `map`, using the previously configured separator and key-value separator, to `appendable`."
   parameters:
   - name: "appendable"
     type: "<xref href=\"A?alt=A&text=A\" data-throw-if-not-resolved=\"False\" />"
@@ -53,7 +53,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.appendTo(StringBuilder builder, Iterable<? extends Map.Entry<?,?>> entries)"
   name: "appendTo(StringBuilder builder, Iterable<? extends Map.Entry<?,?>> entries)"
   nameWithType: "Joiner.MapJoiner.appendTo(StringBuilder builder, Iterable<? extends Map.Entry<?,?>> entries)"
-  summary: "Appends the string representation of each entry in <code>entries</code>, using the previously\n configured separator and key-value separator, to <code>builder</code>. Identical to <xref uid=\"#appendTo(Appendable, Iterable)\" data-throw-if-not-resolved=\"false\">#appendTo(Appendable, Iterable)</xref>, except that it does not throw <xref uid=\"IOException\" data-throw-if-not-resolved=\"false\">IOException</xref>."
+  summary: "Appends the string representation of each entry in `entries`, using the previously configured separator and key-value separator, to `builder`. Identical to <xref uid=\"\" data-throw-if-not-resolved=\"false\">#appendTo(Appendable, Iterable)</xref>, except that it does not throw <xref uid=\"java.io.IOException\" data-throw-if-not-resolved=\"false\">IOException</xref>."
   parameters:
   - name: "builder"
     type: "<xref href=\"java.lang.StringBuilder?alt=java.lang.StringBuilder&text=StringBuilder\" data-throw-if-not-resolved=\"False\" />"
@@ -66,7 +66,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.appendTo(StringBuilder builder, Iterator<? extends Map.Entry<?,?>> entries)"
   name: "appendTo(StringBuilder builder, Iterator<? extends Map.Entry<?,?>> entries)"
   nameWithType: "Joiner.MapJoiner.appendTo(StringBuilder builder, Iterator<? extends Map.Entry<?,?>> entries)"
-  summary: "Appends the string representation of each entry in <code>entries</code>, using the previously\n configured separator and key-value separator, to <code>builder</code>. Identical to <xref uid=\"#appendTo(Appendable, Iterable)\" data-throw-if-not-resolved=\"false\">#appendTo(Appendable, Iterable)</xref>, except that it does not throw <xref uid=\"IOException\" data-throw-if-not-resolved=\"false\">IOException</xref>."
+  summary: "Appends the string representation of each entry in `entries`, using the previously configured separator and key-value separator, to `builder`. Identical to <xref uid=\"\" data-throw-if-not-resolved=\"false\">#appendTo(Appendable, Iterable)</xref>, except that it does not throw <xref uid=\"java.io.IOException\" data-throw-if-not-resolved=\"false\">IOException</xref>."
   parameters:
   - name: "builder"
     type: "<xref href=\"java.lang.StringBuilder?alt=java.lang.StringBuilder&text=StringBuilder\" data-throw-if-not-resolved=\"False\" />"
@@ -79,7 +79,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.appendTo(StringBuilder builder, Map<?,?> map)"
   name: "appendTo(StringBuilder builder, Map<?,?> map)"
   nameWithType: "Joiner.MapJoiner.appendTo(StringBuilder builder, Map<?,?> map)"
-  summary: "Appends the string representation of each entry of <code>map</code>, using the previously\n configured separator and key-value separator, to <code>builder</code>. Identical to <xref uid=\"#appendTo(Appendable, Map)\" data-throw-if-not-resolved=\"false\">#appendTo(Appendable, Map)</xref>, except that it does not throw <xref uid=\"IOException\" data-throw-if-not-resolved=\"false\">IOException</xref>."
+  summary: "Appends the string representation of each entry of `map`, using the previously configured separator and key-value separator, to `builder`. Identical to <xref uid=\"\" data-throw-if-not-resolved=\"false\">#appendTo(Appendable, Map)</xref>, except that it does not throw <xref uid=\"java.io.IOException\" data-throw-if-not-resolved=\"false\">IOException</xref>."
   parameters:
   - name: "builder"
     type: "<xref href=\"java.lang.StringBuilder?alt=java.lang.StringBuilder&text=StringBuilder\" data-throw-if-not-resolved=\"False\" />"

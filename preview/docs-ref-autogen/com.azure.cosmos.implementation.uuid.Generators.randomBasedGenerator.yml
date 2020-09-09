@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.Generators.randomBasedGenerator()"
   name: "randomBasedGenerator()"
   nameWithType: "Generators.randomBasedGenerator()"
-  summary: "Factory method for constructing UUID generator that uses default (shared)\n random number generator for constructing UUIDs according to standard\n method number 4."
+  summary: "Factory method for constructing UUID generator that uses default (shared) random number generator for constructing UUIDs according to standard method number 4."
   syntax: "public static RandomBasedGenerator randomBasedGenerator()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.uuid.impl.RandomBasedGenerator?alt=com.azure.cosmos.implementation.uuid.impl.RandomBasedGenerator&text=RandomBasedGenerator\" data-throw-if-not-resolved=\"False\" />"
@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.Generators.randomBasedGenerator(Random rnd)"
   name: "randomBasedGenerator(Random rnd)"
   nameWithType: "Generators.randomBasedGenerator(Random rnd)"
-  summary: "Factory method for constructing UUID generator that uses specified\n random number generator for constructing UUIDs according to standard\n method number 4."
+  summary: "Factory method for constructing UUID generator that uses specified random number generator for constructing UUIDs according to standard method number 4."
   parameters:
   - name: "rnd"
     type: "<xref href=\"java.util.Random?alt=java.util.Random&text=Random\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset.Builder<E>.build()"
   name: "build()"
   nameWithType: "ImmutableMultiset.Builder<E>.build()"
-  summary: "Returns a newly-created <code>ImmutableMultiset</code> based on the contents of the <code>\n Builder</code>."
+  summary: "Returns a newly-created `ImmutableMultiset` based on the contents of the `Builder`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.build()"
   syntax: "public ImmutableMultiset<E> build()"
   returns:

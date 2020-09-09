@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.ChangeFeedProcessorOptions.setMinScaleCount(int minScaleCount)"
   name: "setMinScaleCount(int minScaleCount)"
   nameWithType: "ChangeFeedProcessorOptions.setMinScaleCount(int minScaleCount)"
-  summary: "Sets the minimum partition count (parallel workers) for the current host.\n <p>\n This option can be used to increase the number of partitions (parallel workers) for the host and thus override\n   the default equal distribution of leases between multiple hosts."
+  summary: "Sets the minimum partition count (parallel workers) for the current host.\n\nThis option can be used to increase the number of partitions (parallel workers) for the host and thus override the default equal distribution of leases between multiple hosts."
   parameters:
   - description: "the minimum partition count for the host."
     name: "minScaleCount"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.AppRole.withDisplayName(String displayName)"
   name: "withDisplayName(String displayName)"
   nameWithType: "AppRole.withDisplayName(String displayName)"
-  summary: "Set the displayName property: Display name for the permission that appears in the admin consent and app\n assignment experiences."
+  summary: "Set the displayName property: Display name for the permission that appears in the admin consent and app assignment experiences."
   parameters:
   - description: "the displayName value to set."
     name: "displayName"

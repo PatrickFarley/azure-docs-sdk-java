@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.HttpGetterInfo.setCount(Long count)"
   name: "setCount(Long count)"
   nameWithType: "HttpGetterInfo.setCount(Long count)"
-  summary: "Sets the count of bytes used to calculate the end offset when creating the Range header. <code></code> null is the\n default and indicates that the entire rest of the blob should be retrieved."
+  summary: "Sets the count of bytes used to calculate the end offset when creating the Range header. `` null is the default and indicates that the entire rest of the blob should be retrieved."
   parameters:
   - description: "Count of bytes"
     name: "count"

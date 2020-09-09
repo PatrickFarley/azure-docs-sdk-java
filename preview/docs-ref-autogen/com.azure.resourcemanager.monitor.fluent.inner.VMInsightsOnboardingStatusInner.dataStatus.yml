@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.VMInsightsOnboardingStatusInner.dataStatus()"
   name: "dataStatus()"
   nameWithType: "VMInsightsOnboardingStatusInner.dataStatus()"
-  summary: "Get the dataStatus property: The status of VM Insights data from the resource. When reported as `present` the\n data array will contain information about the data containers to which data for the specified resource is being\n routed."
+  summary: "Get the dataStatus property: The status of VM Insights data from the resource. When reported as \\`present\\` the data array will contain information about the data containers to which data for the specified resource is being routed."
   syntax: "public DataStatus dataStatus()"
   returns:
     description: "the dataStatus value."

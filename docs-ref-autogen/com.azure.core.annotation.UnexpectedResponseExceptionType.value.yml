@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.annotation.UnexpectedResponseExceptionType.value()"
   name: "value()"
   nameWithType: "UnexpectedResponseExceptionType.value()"
-  summary: "The type of HttpResponseException that should be thrown/returned when the API returns an unrecognized\n status code."
+  summary: "The type of HttpResponseException that should be thrown/returned when the API returns an unrecognized status code."
   syntax: "public abstract Class<? extends HttpResponseException> value()"
   returns:
     description: "The type of RestException that should be thrown/returned."

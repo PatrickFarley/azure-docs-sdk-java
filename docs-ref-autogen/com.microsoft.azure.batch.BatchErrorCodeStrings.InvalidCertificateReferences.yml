@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchErrorCodeStrings.InvalidCertificateReferences"
   name: "InvalidCertificateReferences"
   nameWithType: "BatchErrorCodeStrings.InvalidCertificateReferences"
-  summary: "A pool specification specifies one or more invalid certificates (for example, certificates that are\n not present in the Batch account)."
+  summary: "A pool specification specifies one or more invalid certificates (for example, certificates that are not present in the Batch account)."
   syntax: "public static final String InvalidCertificateReferences"
 type: "field"
 metadata: {}

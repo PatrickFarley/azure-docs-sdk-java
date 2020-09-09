@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosQueryRequestOptions.isScanInQueryEnabled()"
   name: "isScanInQueryEnabled()"
   nameWithType: "CosmosQueryRequestOptions.isScanInQueryEnabled()"
-  summary: "Gets the option to allow scan on the queries which couldn't be served as\n indexing was opted out on the requested paths."
+  summary: "Gets the option to allow scan on the queries which couldn't be served as indexing was opted out on the requested paths."
   syntax: "public Boolean isScanInQueryEnabled()"
   returns:
     description: "the option of enable scan in query."

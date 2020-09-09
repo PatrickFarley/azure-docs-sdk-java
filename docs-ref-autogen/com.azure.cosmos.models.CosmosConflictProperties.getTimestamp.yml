@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosConflictProperties.getTimestamp()"
   name: "getTimestamp()"
   nameWithType: "CosmosConflictProperties.getTimestamp()"
-  summary: "Get the last modified timestamp associated with the resource.\n This is only relevant when getting response from the server."
+  summary: "Get the last modified timestamp associated with the resource. This is only relevant when getting response from the server."
   syntax: "public Instant getTimestamp()"
   returns:
     description: "the timestamp."

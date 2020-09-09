@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobHttpHeaders.setContentDisposition(String contentDisposition)"
   name: "setContentDisposition(String contentDisposition)"
   nameWithType: "BlobHttpHeaders.setContentDisposition(String contentDisposition)"
-  summary: "Set the contentDisposition property: Optional. Sets the blob's\n Content-Disposition header."
+  summary: "Set the contentDisposition property: Optional. Sets the blob's Content-Disposition header."
   parameters:
   - description: "the contentDisposition value to set."
     name: "contentDisposition"

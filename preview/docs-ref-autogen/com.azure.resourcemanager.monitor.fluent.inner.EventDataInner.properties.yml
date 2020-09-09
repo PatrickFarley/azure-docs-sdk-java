@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.properties()"
   name: "properties()"
   nameWithType: "EventDataInner.properties()"
-  summary: "Get the properties property: the set of &lt;Key, Value&gt; pairs (usually a Dictionary&lt;String, String&gt;)\n that includes details about the event."
+  summary: "Get the properties property: the set of <Key, Value> pairs (usually a Dictionary<String, String>) that includes details about the event."
   syntax: "public Map<String,String> properties()"
   returns:
     description: "the properties value."

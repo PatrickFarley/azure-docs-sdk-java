@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.Builder.withTokenResolver(CosmosAuthorizationTokenResolver cosmosAuthorizationTokenResolver)"
   name: "withTokenResolver(CosmosAuthorizationTokenResolver cosmosAuthorizationTokenResolver)"
   nameWithType: "AsyncDocumentClient.Builder.withTokenResolver(CosmosAuthorizationTokenResolver cosmosAuthorizationTokenResolver)"
-  summary: "This method will accept functional interface TokenResolver which helps in generation authorization\n token per request. AsyncDocumentClient can be successfully initialized with this API without passing any MasterKey, ResourceToken or PermissionFeed."
+  summary: "This method will accept functional interface TokenResolver which helps in generation authorization token per request. AsyncDocumentClient can be successfully initialized with this API without passing any MasterKey, ResourceToken or PermissionFeed."
   parameters:
   - description: "The tokenResolver"
     name: "cosmosAuthorizationTokenResolver"

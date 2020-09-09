@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.SshPublicKey.path()"
   name: "path()"
   nameWithType: "SshPublicKey.path()"
-  summary: "Get the path property: Specifies the full path on the created VM where ssh public key is stored. If the file\n already exists, the specified key is appended to the file. Example: /home/user/.ssh/authorized_keys."
+  summary: "Get the path property: Specifies the full path on the created VM where ssh public key is stored. If the file already exists, the specified key is appended to the file. Example: /home/user/.ssh/authorized\\_keys."
   syntax: "public String path()"
   returns:
     description: "the path value."

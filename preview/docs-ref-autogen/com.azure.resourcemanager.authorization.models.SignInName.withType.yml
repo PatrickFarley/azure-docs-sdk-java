@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.SignInName.withType(String type)"
   name: "withType(String type)"
   nameWithType: "SignInName.withType(String type)"
-  summary: "Set the type property: A string value that can be used to classify user sign-in types in your directory, such as\n 'emailAddress' or 'userName'."
+  summary: "Set the type property: A string value that can be used to classify user sign-in types in your directory, such as 'emailAddress' or 'userName'."
   parameters:
   - description: "the type value to set."
     name: "type"

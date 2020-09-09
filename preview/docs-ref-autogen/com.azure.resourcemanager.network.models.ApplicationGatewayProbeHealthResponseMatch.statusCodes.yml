@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayProbeHealthResponseMatch.statusCodes()"
   name: "statusCodes()"
   nameWithType: "ApplicationGatewayProbeHealthResponseMatch.statusCodes()"
-  summary: "Get the statusCodes property: Allowed ranges of healthy status codes. Default range of healthy status codes is\n 200-399."
+  summary: "Get the statusCodes property: Allowed ranges of healthy status codes. Default range of healthy status codes is 200-399."
   syntax: "public List<String> statusCodes()"
   returns:
     description: "the statusCodes value."

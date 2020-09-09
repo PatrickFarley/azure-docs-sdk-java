@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.deleteSynonymMap(String synonymMapName)"
   name: "deleteSynonymMap(String synonymMapName)"
   nameWithType: "SearchIndexAsyncClient.deleteSynonymMap(String synonymMapName)"
-  summary: "Deletes an Azure Cognitive Search synonym map.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete synonym map with name \"synonymMap\". </p>\n\n <pre>\n searchIndexAsyncClient.deleteSynonymMap&#40;&quot;synonymMap&quot;&#41;\n     .subscribe&#40;&#41;;\n </pre>"
+  summary: "Deletes an Azure Cognitive Search synonym map.\n\n**Code Sample**\n\nDelete synonym map with name \"synonymMap\".\n\n```java\nsearchIndexAsyncClient.deleteSynonymMap(\"synonymMap\")\n     .subscribe();\n```"
   parameters:
   - description: "the name of the <xref uid=\"com.azure.search.documents.indexes.models.SynonymMap\" data-throw-if-not-resolved=\"false\">SynonymMap</xref> to delete"
     name: "synonymMapName"

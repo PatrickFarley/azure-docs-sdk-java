@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobServiceProperties.getDeleteRetentionPolicy()"
   name: "getDeleteRetentionPolicy()"
   nameWithType: "BlobServiceProperties.getDeleteRetentionPolicy()"
-  summary: "Get the deleteRetentionPolicy property: The deleteRetentionPolicy\n property."
+  summary: "Get the deleteRetentionPolicy property: The deleteRetentionPolicy property."
   syntax: "public BlobRetentionPolicy getDeleteRetentionPolicy()"
   returns:
     description: "the deleteRetentionPolicy value."

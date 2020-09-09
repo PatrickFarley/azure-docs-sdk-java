@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.ResourceNameAvailabilityInner.withReason(InAvailabilityReasonType reason)"
   name: "withReason(InAvailabilityReasonType reason)"
   nameWithType: "ResourceNameAvailabilityInner.withReason(InAvailabilityReasonType reason)"
-  summary: "Set the reason property: &lt;code&gt;Invalid&lt;/code&gt; indicates the name provided does not match Azure App\n Service naming requirements. &lt;code&gt;AlreadyExists&lt;/code&gt; indicates that the name is already in use and\n is therefore unavailable."
+  summary: "Set the reason property: <code>Invalid</code> indicates the name provided does not match Azure App Service naming requirements. <code>AlreadyExists</code> indicates that the name is already in use and is therefore unavailable."
   parameters:
   - description: "the reason value to set."
     name: "reason"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchClient.poolOperations()"
   name: "poolOperations()"
   nameWithType: "BatchClient.poolOperations()"
-  summary: "Gets a <xref uid=\"PoolOperations\" data-throw-if-not-resolved=\"false\">PoolOperations</xref> object for performing pool-related operations on the associated account."
+  summary: "Gets a <xref uid=\"com.microsoft.azure.batch.PoolOperations\" data-throw-if-not-resolved=\"false\">PoolOperations</xref> object for performing pool-related operations on the associated account."
   syntax: "public PoolOperations poolOperations()"
   returns:
     description: "An instance of the <xref uid=\"com.microsoft.azure.batch.PoolOperations\" data-throw-if-not-resolved=\"false\">PoolOperations</xref> class."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.CreatableUpdatableImpl<FluentModelT,InnerModelT,FluentModelImplT>.beforeGroupCreateOrUpdate()"
   name: "beforeGroupCreateOrUpdate()"
   nameWithType: "CreatableUpdatableImpl<FluentModelT,InnerModelT,FluentModelImplT>.beforeGroupCreateOrUpdate()"
-  summary: "The method that gets called before invoking all the tasks in the <xref uid=\"TaskGroup\" data-throw-if-not-resolved=\"false\">TaskGroup</xref>\n that the parent <xref uid=\"CreateUpdateTask\" data-throw-if-not-resolved=\"false\">CreateUpdateTask</xref> belongs to."
+  summary: "The method that gets called before invoking all the tasks in the <xref uid=\"com.azure.resourcemanager.resources.fluentcore.dag.TaskGroup\" data-throw-if-not-resolved=\"false\">TaskGroup</xref> that the parent <xref uid=\"com.azure.resourcemanager.resources.fluentcore.model.implementation.CreateUpdateTask\" data-throw-if-not-resolved=\"false\">CreateUpdateTask</xref> belongs to."
   syntax: "public void beforeGroupCreateOrUpdate()"
 type: "method"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.CJK_BIGRAM"
   name: "CJK_BIGRAM"
   nameWithType: "TokenFilterName.CJK_BIGRAM"
-  summary: "Static value cjk_bigram for TokenFilterName."
+  summary: "Static value cjk\\_bigram for TokenFilterName."
   syntax: "public static final TokenFilterName CJK_BIGRAM"
 type: "field"
 metadata: {}

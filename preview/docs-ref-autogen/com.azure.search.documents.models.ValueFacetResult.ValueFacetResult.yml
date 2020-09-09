@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.ValueFacetResult<T>.ValueFacetResult(FacetResult facetResult)"
   name: "ValueFacetResult(FacetResult facetResult)"
   nameWithType: "ValueFacetResult<T>.ValueFacetResult(FacetResult facetResult)"
-  summary: "Constructor from <xref uid=\"FacetResult\" data-throw-if-not-resolved=\"false\">FacetResult</xref>"
+  summary: "Constructor from <xref uid=\"com.azure.search.documents.models.FacetResult\" data-throw-if-not-resolved=\"false\">FacetResult</xref>"
   parameters:
   - description: "<xref uid=\"com.azure.search.documents.models.FacetResult\" data-throw-if-not-resolved=\"false\">FacetResult</xref>."
     name: "facetResult"

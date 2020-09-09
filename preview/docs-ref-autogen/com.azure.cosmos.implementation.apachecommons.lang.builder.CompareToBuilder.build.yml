@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.builder.CompareToBuilder.build()"
   name: "build()"
   nameWithType: "CompareToBuilder.build()"
-  summary: "Returns a negative Integer, a positive Integer, or zero as\n the <code>builder</code> has judged the \"left-hand\" side\n as less than, greater than, or equal to the \"right-hand\"\n side."
+  summary: "Returns a negative Integer, a positive Integer, or zero as the `builder` has judged the \"left-hand\" side as less than, greater than, or equal to the \"right-hand\" side."
   syntax: "public Integer build()"
   returns:
     description: "final comparison result as an Integer"

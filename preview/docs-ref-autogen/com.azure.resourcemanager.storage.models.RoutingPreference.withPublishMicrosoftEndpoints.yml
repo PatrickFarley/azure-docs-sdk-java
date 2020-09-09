@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.RoutingPreference.withPublishMicrosoftEndpoints(Boolean publishMicrosoftEndpoints)"
   name: "withPublishMicrosoftEndpoints(Boolean publishMicrosoftEndpoints)"
   nameWithType: "RoutingPreference.withPublishMicrosoftEndpoints(Boolean publishMicrosoftEndpoints)"
-  summary: "Set the publishMicrosoftEndpoints property: A boolean flag which indicates whether microsoft routing storage\n endpoints are to be published."
+  summary: "Set the publishMicrosoftEndpoints property: A boolean flag which indicates whether microsoft routing storage endpoints are to be published."
   parameters:
   - description: "the publishMicrosoftEndpoints value to set."
     name: "publishMicrosoftEndpoints"

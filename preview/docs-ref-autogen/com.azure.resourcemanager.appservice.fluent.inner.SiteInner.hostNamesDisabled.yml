@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteInner.hostNamesDisabled()"
   name: "hostNamesDisabled()"
   nameWithType: "SiteInner.hostNamesDisabled()"
-  summary: "Get the hostNamesDisabled property: &lt;code&gt;true&lt;/code&gt; to disable the public hostnames of the app;\n otherwise, &lt;code&gt;false&lt;/code&gt;. If &lt;code&gt;true&lt;/code&gt;, the app is only accessible via API\n management process."
+  summary: "Get the hostNamesDisabled property: <code>true</code> to disable the public hostnames of the app; otherwise, <code>false</code>. If <code>true</code>, the app is only accessible via API management process."
   syntax: "public Boolean hostNamesDisabled()"
   returns:
     description: "the hostNamesDisabled value."

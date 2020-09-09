@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.SqlContainerResource.withIndexingPolicy(IndexingPolicy indexingPolicy)"
   name: "withIndexingPolicy(IndexingPolicy indexingPolicy)"
   nameWithType: "SqlContainerResource.withIndexingPolicy(IndexingPolicy indexingPolicy)"
-  summary: "Set the indexingPolicy property: The configuration of the indexing policy. By default, the indexing is automatic\n for all document paths within the container."
+  summary: "Set the indexingPolicy property: The configuration of the indexing policy. By default, the indexing is automatic for all document paths within the container."
   parameters:
   - description: "the indexingPolicy value to set."
     name: "indexingPolicy"

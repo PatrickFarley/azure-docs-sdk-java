@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.StaticWebsite.getErrorDocument404Path()"
   name: "getErrorDocument404Path()"
   nameWithType: "StaticWebsite.getErrorDocument404Path()"
-  summary: "Get the errorDocument404Path property: The absolute path of the custom\n 404 page."
+  summary: "Get the errorDocument404Path property: The absolute path of the custom 404 page."
   syntax: "public String getErrorDocument404Path()"
   returns:
     description: "the errorDocument404Path value."

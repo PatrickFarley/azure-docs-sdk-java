@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosQueryRequestOptions.setMaxDegreeOfParallelism(int maxDegreeOfParallelism)"
   name: "setMaxDegreeOfParallelism(int maxDegreeOfParallelism)"
   nameWithType: "CosmosQueryRequestOptions.setMaxDegreeOfParallelism(int maxDegreeOfParallelism)"
-  summary: "Sets the number of concurrent operations run client side during parallel\n query execution."
+  summary: "Sets the number of concurrent operations run client side during parallel query execution."
   parameters:
   - description: "number of concurrent operations."
     name: "maxDegreeOfParallelism"

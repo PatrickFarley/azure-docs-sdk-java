@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.DiagnosticSettingsResourceInner.eventHubName()"
   name: "eventHubName()"
   nameWithType: "DiagnosticSettingsResourceInner.eventHubName()"
-  summary: "Get the eventHubName property: The name of the event hub. If none is specified, the default event hub will be\n selected."
+  summary: "Get the eventHubName property: The name of the event hub. If none is specified, the default event hub will be selected."
   syntax: "public String eventHubName()"
   returns:
     description: "the eventHubName value."

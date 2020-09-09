@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.ImmutabilityPolicyInner.allowProtectedAppendWrites()"
   name: "allowProtectedAppendWrites()"
   nameWithType: "ImmutabilityPolicyInner.allowProtectedAppendWrites()"
-  summary: "Get the allowProtectedAppendWrites property: This property can only be changed for unlocked time-based retention\n policies. When enabled, new blocks can be written to an append blob while maintaining immutability protection and\n compliance. Only new blocks can be added and any existing blocks cannot be modified or deleted. This property\n cannot be changed with ExtendImmutabilityPolicy API."
+  summary: "Get the allowProtectedAppendWrites property: This property can only be changed for unlocked time-based retention policies. When enabled, new blocks can be written to an append blob while maintaining immutability protection and compliance. Only new blocks can be added and any existing blocks cannot be modified or deleted. This property cannot be changed with ExtendImmutabilityPolicy API."
   syntax: "public Boolean allowProtectedAppendWrites()"
   returns:
     description: "the allowProtectedAppendWrites value."

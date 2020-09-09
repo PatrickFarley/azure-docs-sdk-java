@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileAsyncClient.readToFile(String filePath)"
   name: "readToFile(String filePath)"
   nameWithType: "DataLakeFileAsyncClient.readToFile(String filePath)"
-  summary: "Reads the entire file into a file specified by the path.\n\n <p>The file will be created and must not exist, if the file already exists a <xref uid=\"FileAlreadyExistsException\" data-throw-if-not-resolved=\"false\">FileAlreadyExistsException</xref>\n will be thrown.</p>\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.readToFile&#40;file&#41;.subscribe&#40;response -&gt; System.out.println&#40;&quot;Completed download to file&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob\">Azure Docs</a></p>"
+  summary: "Reads the entire file into a file specified by the path.\n\nThe file will be created and must not exist, if the file already exists a <xref uid=\"\" data-throw-if-not-resolved=\"false\">FileAlreadyExistsException</xref> will be thrown.\n\n**Code Samples**\n\n```java\nclient.readToFile(file).subscribe(response -> System.out.println(\"Completed download to file\"));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob"
   parameters:
   - description: "A <xref uid=\"java.lang.String\" data-throw-if-not-resolved=\"false\">String</xref> representing the filePath where the downloaded data will be written."
     name: "filePath"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileAsyncClient.readToFile(String filePath, boolean overwrite)"
   name: "readToFile(String filePath, boolean overwrite)"
   nameWithType: "DataLakeFileAsyncClient.readToFile(String filePath, boolean overwrite)"
-  summary: "Reads the entire file into a file specified by the path.\n\n <p>If overwrite is set to false, the file will be created and must not exist, if the file already exists a\n <xref uid=\"FileAlreadyExistsException\" data-throw-if-not-resolved=\"false\">FileAlreadyExistsException</xref> will be thrown.</p>\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n boolean overwrite = false; &#47;&#47; Default value\n client.readToFile&#40;file, overwrite&#41;.subscribe&#40;response -&gt; System.out.println&#40;&quot;Completed download to file&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob\">Azure Docs</a></p>"
+  summary: "Reads the entire file into a file specified by the path.\n\nIf overwrite is set to false, the file will be created and must not exist, if the file already exists a <xref uid=\"\" data-throw-if-not-resolved=\"false\">FileAlreadyExistsException</xref> will be thrown.\n\n**Code Samples**\n\n```java\nboolean overwrite = false; // Default value\n client.readToFile(file, overwrite).subscribe(response -> System.out.println(\"Completed download to file\"));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob"
   parameters:
   - description: "A <xref uid=\"java.lang.String\" data-throw-if-not-resolved=\"false\">String</xref> representing the filePath where the downloaded data will be written."
     name: "filePath"

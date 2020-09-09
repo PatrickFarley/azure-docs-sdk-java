@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.Put<K,V>.put(K key, V value)"
   name: "put(K key, V value)"
   nameWithType: "Put<K,V>.put(K key, V value)"
-  summary: "Note that the return type is Object, rather than V as in the Map interface.\n See the class Javadoc for further info."
+  summary: "Note that the return type is Object, rather than V as in the Map interface. See the class Javadoc for further info."
   parameters:
   - description: "key with which the specified value is to be associated"
     name: "key"

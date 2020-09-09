@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.RegexFlags.UNICODE_CASE"
   name: "UNICODE_CASE"
   nameWithType: "RegexFlags.UNICODE_CASE"
-  summary: "Static value UNICODE_CASE for RegexFlags."
+  summary: "Static value UNICODE\\_CASE for RegexFlags."
   syntax: "public static final RegexFlags UNICODE_CASE"
 type: "field"
 metadata: {}

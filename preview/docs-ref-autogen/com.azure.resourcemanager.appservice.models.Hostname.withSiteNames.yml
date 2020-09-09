@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.Hostname.withSiteNames(List<String> siteNames)"
   name: "withSiteNames(List<String> siteNames)"
   nameWithType: "Hostname.withSiteNames(List<String> siteNames)"
-  summary: "Set the siteNames property: List of apps the hostname is assigned to. This list will have more than one app only\n if the hostname is pointing to a Traffic Manager."
+  summary: "Set the siteNames property: List of apps the hostname is assigned to. This list will have more than one app only if the hostname is pointing to a Traffic Manager."
   parameters:
   - description: "the siteNames value to set."
     name: "siteNames"

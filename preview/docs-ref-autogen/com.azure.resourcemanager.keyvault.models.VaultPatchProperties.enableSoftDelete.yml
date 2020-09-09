@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.VaultPatchProperties.enableSoftDelete()"
   name: "enableSoftDelete()"
   nameWithType: "VaultPatchProperties.enableSoftDelete()"
-  summary: "Get the enableSoftDelete property: Property to specify whether the 'soft delete' functionality is enabled for\n this key vault. It does not accept false value."
+  summary: "Get the enableSoftDelete property: Property to specify whether the 'soft delete' functionality is enabled for this key vault. It does not accept false value."
   syntax: "public Boolean enableSoftDelete()"
   returns:
     description: "the enableSoftDelete value."

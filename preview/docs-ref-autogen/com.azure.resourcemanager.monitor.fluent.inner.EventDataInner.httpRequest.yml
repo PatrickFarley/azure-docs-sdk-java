@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.httpRequest()"
   name: "httpRequest()"
   nameWithType: "EventDataInner.httpRequest()"
-  summary: "Get the httpRequest property: the HTTP request info. Usually includes the 'clientRequestId', 'clientIpAddress'\n (IP address of the user who initiated the event) and 'method' (HTTP method e.g. PUT)."
+  summary: "Get the httpRequest property: the HTTP request info. Usually includes the 'clientRequestId', 'clientIpAddress' (IP address of the user who initiated the event) and 'method' (HTTP method e.g. PUT)."
   syntax: "public HttpRequestInfo httpRequest()"
   returns:
     description: "the httpRequest value."

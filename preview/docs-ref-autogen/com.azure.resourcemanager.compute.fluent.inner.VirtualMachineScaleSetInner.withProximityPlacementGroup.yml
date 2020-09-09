@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetInner.withProximityPlacementGroup(SubResource proximityPlacementGroup)"
   name: "withProximityPlacementGroup(SubResource proximityPlacementGroup)"
   nameWithType: "VirtualMachineScaleSetInner.withProximityPlacementGroup(SubResource proximityPlacementGroup)"
-  summary: "Set the proximityPlacementGroup property: Specifies information about the proximity placement group that the\n virtual machine scale set should be assigned to. &lt;br&gt;&lt;br&gt;Minimum api-version: 2018-04-01."
+  summary: "Set the proximityPlacementGroup property: Specifies information about the proximity placement group that the virtual machine scale set should be assigned to. <br><br>Minimum api-version: 2018-04-01."
   parameters:
   - description: "the proximityPlacementGroup value to set."
     name: "proximityPlacementGroup"

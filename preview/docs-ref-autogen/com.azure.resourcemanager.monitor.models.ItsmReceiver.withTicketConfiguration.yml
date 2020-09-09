@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ItsmReceiver.withTicketConfiguration(String ticketConfiguration)"
   name: "withTicketConfiguration(String ticketConfiguration)"
   nameWithType: "ItsmReceiver.withTicketConfiguration(String ticketConfiguration)"
-  summary: "Set the ticketConfiguration property: JSON blob for the configurations of the ITSM action.\n CreateMultipleWorkItems option will be part of this blob as well."
+  summary: "Set the ticketConfiguration property: JSON blob for the configurations of the ITSM action. CreateMultipleWorkItems option will be part of this blob as well."
   parameters:
   - description: "the ticketConfiguration value to set."
     name: "ticketConfiguration"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.SpecializedBlobClientBuilder.buildPageBlobClient()"
   name: "buildPageBlobClient()"
   nameWithType: "SpecializedBlobClientBuilder.buildPageBlobClient()"
-  summary: "Creates a <xref uid=\"PageBlobClient\" data-throw-if-not-resolved=\"false\">PageBlobClient</xref> based on options set in the Builder. PageBlobClients are used to perform page\n blob specific operations such as <xref uid=\"PageBlobClient#uploadPages(PageRange, InputStream)\" data-throw-if-not-resolved=\"false\">upload pages</xref> and\n <xref uid=\"PageBlobClient#clearPages(PageRange)\" data-throw-if-not-resolved=\"false\">clear pages</xref>, only use this when the blob is known to be a page\n blob."
+  summary: "Creates a <xref uid=\"com.azure.storage.blob.specialized.PageBlobClient\" data-throw-if-not-resolved=\"false\">PageBlobClient</xref> based on options set in the Builder. PageBlobClients are used to perform page blob specific operations such as <xref uid=\"com.azure.storage.blob.specialized.PageBlobClient.uploadPages(com.azure.storage.blob.models.PageRange,java.io.InputStream)\" data-throw-if-not-resolved=\"false\">upload pages</xref> and <xref uid=\"com.azure.storage.blob.specialized.PageBlobClient.clearPages(com.azure.storage.blob.models.PageRange)\" data-throw-if-not-resolved=\"false\">clear pages</xref>, only use this when the blob is known to be a page blob."
   syntax: "public PageBlobClient buildPageBlobClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.blob.specialized.PageBlobClient\" data-throw-if-not-resolved=\"false\">PageBlobClient</xref> created from the configurations in this builder."

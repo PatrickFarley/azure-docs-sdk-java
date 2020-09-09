@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.substring(String str, int start)"
   name: "substring(String str, int start)"
   nameWithType: "StringUtils.substring(String str, int start)"
-  summary: "<p>Gets a substring from the specified String avoiding exceptions.</p>\n\n <p>A negative start position can be used to start <code>n</code>\n characters from the end of the String.</p>\n\n <p>A <code>null</code> String will return <code>null</code>.\n An empty (\"\") String will return \"\".</p>\n\n <pre>\n StringUtils.substring(null, *)   = null\n StringUtils.substring(\"\", *)     = \"\"\n StringUtils.substring(\"abc\", 0)  = \"abc\"\n StringUtils.substring(\"abc\", 2)  = \"c\"\n StringUtils.substring(\"abc\", 4)  = \"\"\n StringUtils.substring(\"abc\", -2) = \"bc\"\n StringUtils.substring(\"abc\", -4) = \"abc\"\n </pre>"
+  summary: "Gets a substring from the specified String avoiding exceptions.\n\nA negative start position can be used to start `n` characters from the end of the String.\n\nA `null` String will return `null`. An empty (\"\") String will return \"\".\n\n```java\nStringUtils.substring(null, *)   = null\n StringUtils.substring(\"\", *)     = \"\"\n StringUtils.substring(\"abc\", 0)  = \"abc\"\n StringUtils.substring(\"abc\", 2)  = \"c\"\n StringUtils.substring(\"abc\", 4)  = \"\"\n StringUtils.substring(\"abc\", -2) = \"bc\"\n StringUtils.substring(\"abc\", -4) = \"abc\"\n```"
   parameters:
   - description: "the String to get the substring from, may be null"
     name: "str"

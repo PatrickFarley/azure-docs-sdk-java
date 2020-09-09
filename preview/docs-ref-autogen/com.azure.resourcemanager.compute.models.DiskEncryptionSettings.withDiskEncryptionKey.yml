@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskEncryptionSettings.withDiskEncryptionKey(KeyVaultSecretReference diskEncryptionKey)"
   name: "withDiskEncryptionKey(KeyVaultSecretReference diskEncryptionKey)"
   nameWithType: "DiskEncryptionSettings.withDiskEncryptionKey(KeyVaultSecretReference diskEncryptionKey)"
-  summary: "Set the diskEncryptionKey property: Specifies the location of the disk encryption key, which is a Key Vault\n Secret."
+  summary: "Set the diskEncryptionKey property: Specifies the location of the disk encryption key, which is a Key Vault Secret."
   parameters:
   - description: "the diskEncryptionKey value to set."
     name: "diskEncryptionKey"

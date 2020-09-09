@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.SnapshotRecoverySource.id()"
   name: "id()"
   nameWithType: "SnapshotRecoverySource.id()"
-  summary: "Get the id property: ARM resource ID of the source app.\n /subscriptions/{subId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Web/sites/{siteName} for production\n slots and\n /subscriptions/{subId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Web/sites/{siteName}/slots/{slotName}\n for other slots."
+  summary: "Get the id property: ARM resource ID of the source app. /subscriptions/\\{subId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.Web/sites/\\{siteName\\} for production slots and /subscriptions/\\{subId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.Web/sites/\\{siteName\\}/slots/\\{slotName\\} for other slots."
   syntax: "public String id()"
   returns:
     description: "the id value."

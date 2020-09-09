@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.InstanceFailoverGroupReadWriteEndpoint.failoverWithDataLossGracePeriodMinutes()"
   name: "failoverWithDataLossGracePeriodMinutes()"
   nameWithType: "InstanceFailoverGroupReadWriteEndpoint.failoverWithDataLossGracePeriodMinutes()"
-  summary: "Get the failoverWithDataLossGracePeriodMinutes property: Grace period before failover with data loss is attempted\n for the read-write endpoint. If failoverPolicy is Automatic then failoverWithDataLossGracePeriodMinutes is\n required."
+  summary: "Get the failoverWithDataLossGracePeriodMinutes property: Grace period before failover with data loss is attempted for the read-write endpoint. If failoverPolicy is Automatic then failoverWithDataLossGracePeriodMinutes is required."
   syntax: "public Integer failoverWithDataLossGracePeriodMinutes()"
   returns:
     description: "the failoverWithDataLossGracePeriodMinutes value."

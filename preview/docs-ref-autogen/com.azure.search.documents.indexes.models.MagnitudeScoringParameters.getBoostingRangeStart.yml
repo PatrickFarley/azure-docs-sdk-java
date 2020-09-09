@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MagnitudeScoringParameters.getBoostingRangeStart()"
   name: "getBoostingRangeStart()"
   nameWithType: "MagnitudeScoringParameters.getBoostingRangeStart()"
-  summary: "Get the boostingRangeStart property: The field value at which boosting\n starts."
+  summary: "Get the boostingRangeStart property: The field value at which boosting starts."
   syntax: "public double getBoostingRangeStart()"
   returns:
     description: "the boostingRangeStart value."

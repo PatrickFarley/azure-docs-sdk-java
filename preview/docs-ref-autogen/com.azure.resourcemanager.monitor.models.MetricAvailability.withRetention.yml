@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAvailability.withRetention(Duration retention)"
   name: "withRetention(Duration retention)"
   nameWithType: "MetricAvailability.withRetention(Duration retention)"
-  summary: "Set the retention property: the retention period for the metric at the specified timegrain. Expressed as a\n duration 'PT1M', 'P1D', etc."
+  summary: "Set the retention property: the retention period for the metric at the specified timegrain. Expressed as a duration 'PT1M', 'P1D', etc."
   parameters:
   - description: "the retention value to set."
     name: "retention"

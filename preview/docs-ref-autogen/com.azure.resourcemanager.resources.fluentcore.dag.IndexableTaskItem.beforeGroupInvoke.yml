@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.dag.IndexableTaskItem.beforeGroupInvoke()"
   name: "beforeGroupInvoke()"
   nameWithType: "IndexableTaskItem.beforeGroupInvoke()"
-  summary: "The method that gets called before invoking all the tasks in the <xref uid=\"TaskGroup\" data-throw-if-not-resolved=\"false\">TaskGroup</xref>\n this task belongs to."
+  summary: "The method that gets called before invoking all the tasks in the <xref uid=\"com.azure.resourcemanager.resources.fluentcore.dag.TaskGroup\" data-throw-if-not-resolved=\"false\">TaskGroup</xref> this task belongs to."
   syntax: "public void beforeGroupInvoke()"
 type: "method"
 metadata: {}

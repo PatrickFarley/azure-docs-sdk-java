@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobAsyncClient.getSnapshotClient(String snapshot)"
   name: "getSnapshotClient(String snapshot)"
   nameWithType: "BlobAsyncClient.getSnapshotClient(String snapshot)"
-  summary: "Creates a new <xref uid=\"BlobAsyncClient\" data-throw-if-not-resolved=\"false\">BlobAsyncClient</xref> linked to the <code>snapshot</code> of this blob resource."
+  summary: "Creates a new <xref uid=\"com.azure.storage.blob.BlobAsyncClient\" data-throw-if-not-resolved=\"false\">BlobAsyncClient</xref> linked to the `snapshot` of this blob resource."
   overridden: "com.azure.storage.blob.specialized.BlobAsyncClientBase.getSnapshotClient(java.lang.String)"
   parameters:
   - description: "the identifier for a specific snapshot of this blob"

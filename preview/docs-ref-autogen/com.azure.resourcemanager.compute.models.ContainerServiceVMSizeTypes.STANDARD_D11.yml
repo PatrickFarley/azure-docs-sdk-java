@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ContainerServiceVMSizeTypes.STANDARD_D11"
   name: "STANDARD_D11"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_D11"
-  summary: "Static value Standard_D11 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_D11 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_D11"
 type: "field"
 metadata: {}

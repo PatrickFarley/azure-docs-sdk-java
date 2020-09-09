@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.devicetwin.DeviceTwin.hasNextDeviceTwin(Query deviceTwinQuery)"
   name: "hasNextDeviceTwin(Query deviceTwinQuery)"
   nameWithType: "DeviceTwin.hasNextDeviceTwin(Query deviceTwinQuery)"
-  summary: "Returns the availability of next twin element upon query. If non was found,\n Query is sent over again and response is updated accordingly until no response\n for the query was found."
+  summary: "Returns the availability of next twin element upon query. If non was found, Query is sent over again and response is updated accordingly until no response for the query was found."
   parameters:
   - description: "Query object returned upon creation of query"
     name: "deviceTwinQuery"

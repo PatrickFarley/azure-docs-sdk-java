@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.tokenRefreshExtensionHours()"
   name: "tokenRefreshExtensionHours()"
   nameWithType: "SiteAuthSettingsInner.tokenRefreshExtensionHours()"
-  summary: "Get the tokenRefreshExtensionHours property: The number of hours after session token expiration that a session\n token can be used to call the token refresh API. The default is 72 hours."
+  summary: "Get the tokenRefreshExtensionHours property: The number of hours after session token expiration that a session token can be used to call the token refresh API. The default is 72 hours."
   syntax: "public Double tokenRefreshExtensionHours()"
   returns:
     description: "the tokenRefreshExtensionHours value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName)"
   name: "listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, String filter, Integer top)"
   name: "listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, String filter, Integer top)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, String filter, Integer top)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, String filter, Integer top, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, String filter, Integer top, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName, String filter, Integer top, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.isMulticastAddress()"
   name: "isMulticastAddress()"
   nameWithType: "EthernetAddress.isMulticastAddress()"
-  summary: "Method that can be used to check if this address refers\n to a multicast address.\n Such addresses are never assigned to individual network\n cards."
+  summary: "Method that can be used to check if this address refers to a multicast address. Such addresses are never assigned to individual network cards."
   syntax: "public boolean isMulticastAddress()"
   returns:
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

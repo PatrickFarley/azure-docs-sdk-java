@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.GenericResourceExpandedInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "GenericResourceExpandedInner.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the resource. This is only present if requested via\n the $expand query parameter."
+  summary: "Get the provisioningState property: The provisioning state of the resource. This is only present if requested via the $expand query parameter."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

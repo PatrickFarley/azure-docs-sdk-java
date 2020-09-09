@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.N_GRAM_V2"
   name: "N_GRAM_V2"
   nameWithType: "TokenFilterName.N_GRAM_V2"
-  summary: "Static value nGram_v2 for TokenFilterName."
+  summary: "Static value nGram\\_v2 for TokenFilterName."
   syntax: "public static final TokenFilterName N_GRAM_V2"
 type: "field"
 metadata: {}

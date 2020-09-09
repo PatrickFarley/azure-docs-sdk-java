@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VerificationIpFlowResultInner.ruleName()"
   name: "ruleName()"
   nameWithType: "VerificationIpFlowResultInner.ruleName()"
-  summary: "Get the ruleName property: Name of the rule. If input is not matched against any security rule, it is not\n displayed."
+  summary: "Get the ruleName property: Name of the rule. If input is not matched against any security rule, it is not displayed."
   syntax: "public String ruleName()"
   returns:
     description: "the ruleName value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.ProximityPlacementGroupInner.withProximityPlacementGroupType(ProximityPlacementGroupType proximityPlacementGroupType)"
   name: "withProximityPlacementGroupType(ProximityPlacementGroupType proximityPlacementGroupType)"
   nameWithType: "ProximityPlacementGroupInner.withProximityPlacementGroupType(ProximityPlacementGroupType proximityPlacementGroupType)"
-  summary: "Set the proximityPlacementGroupType property: Specifies the type of the proximity placement group.\n &lt;br&gt;&lt;br&gt; Possible values are: &lt;br&gt;&lt;br&gt; **Standard** : Co-locate resources within an Azure\n region or Availability Zone. &lt;br&gt;&lt;br&gt; **Ultra** : For future use."
+  summary: "Set the proximityPlacementGroupType property: Specifies the type of the proximity placement group. <br><br> Possible values are: <br><br> \\*\\*Standard\\*\\* : Co-locate resources within an Azure region or Availability Zone. <br><br> \\*\\*Ultra\\*\\* : For future use."
   parameters:
   - description: "the proximityPlacementGroupType value to set."
     name: "proximityPlacementGroupType"

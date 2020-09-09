@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosContainer.<T>queryItems(SqlQuerySpec querySpec, CosmosQueryRequestOptions options, Class<T> classType)"
   name: "<T>queryItems(SqlQuerySpec querySpec, CosmosQueryRequestOptions options, Class<T> classType)"
   nameWithType: "CosmosContainer.<T>queryItems(SqlQuerySpec querySpec, CosmosQueryRequestOptions options, Class<T> classType)"
-  summary: "Query items in the current container returning the results as <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Query items in the current container returning the results as <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   parameters:
   - description: "the query spec."
     name: "querySpec"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.cosmos.CosmosContainer.<T>queryItems(String query, CosmosQueryRequestOptions options, Class<T> classType)"
   name: "<T>queryItems(String query, CosmosQueryRequestOptions options, Class<T> classType)"
   nameWithType: "CosmosContainer.<T>queryItems(String query, CosmosQueryRequestOptions options, Class<T> classType)"
-  summary: "Query items in the current container returning the results as <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Query items in the current container returning the results as <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   parameters:
   - description: "the query."
     name: "query"

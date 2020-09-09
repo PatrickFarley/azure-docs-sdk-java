@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.AvailabilitySetsClient.listAvailableSizesAsync(String resourceGroupName, String availabilitySetName)"
   name: "listAvailableSizesAsync(String resourceGroupName, String availabilitySetName)"
   nameWithType: "AvailabilitySetsClient.listAvailableSizesAsync(String resourceGroupName, String availabilitySetName)"
-  summary: "Lists all available virtual machine sizes that can be used to create a new virtual machine in an existing\n availability set."
+  summary: "Lists all available virtual machine sizes that can be used to create a new virtual machine in an existing availability set."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.AvailabilitySetsClient.listAvailableSizesAsync(String resourceGroupName, String availabilitySetName, Context context)"
   name: "listAvailableSizesAsync(String resourceGroupName, String availabilitySetName, Context context)"
   nameWithType: "AvailabilitySetsClient.listAvailableSizesAsync(String resourceGroupName, String availabilitySetName, Context context)"
-  summary: "Lists all available virtual machine sizes that can be used to create a new virtual machine in an existing\n availability set."
+  summary: "Lists all available virtual machine sizes that can be used to create a new virtual machine in an existing availability set."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

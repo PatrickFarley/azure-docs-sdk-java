@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.OAuth2PermissionGrantInner.withClientId(String clientId)"
   name: "withClientId(String clientId)"
   nameWithType: "OAuth2PermissionGrantInner.withClientId(String clientId)"
-  summary: "Set the clientId property: The id of the resource's service principal granted consent to impersonate the user\n when accessing the resource (represented by the resourceId property)."
+  summary: "Set the clientId property: The id of the resource's service principal granted consent to impersonate the user when accessing the resource (represented by the resourceId property)."
   parameters:
   - description: "the clientId value to set."
     name: "clientId"

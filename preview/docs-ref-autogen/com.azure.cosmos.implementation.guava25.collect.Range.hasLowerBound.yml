@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.hasLowerBound()"
   name: "hasLowerBound()"
   nameWithType: "Range<C>.hasLowerBound()"
-  summary: "Returns <code>true</code> if this range has a lower endpoint."
+  summary: "Returns `true` if this range has a lower endpoint."
   syntax: "public boolean hasLowerBound()"
   returns:
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

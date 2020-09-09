@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventDataBatch.getSizeInBytes()"
   name: "getSizeInBytes()"
   nameWithType: "EventDataBatch.getSizeInBytes()"
-  summary: "Gets the size of the <xref uid=\"EventDataBatch\" data-throw-if-not-resolved=\"false\">EventDataBatch</xref> in bytes."
+  summary: "Gets the size of the <xref uid=\"com.azure.messaging.eventhubs.EventDataBatch\" data-throw-if-not-resolved=\"false\">EventDataBatch</xref> in bytes."
   syntax: "public int getSizeInBytes()"
   returns:
     description: "the size of the <xref uid=\"com.azure.messaging.eventhubs.EventDataBatch\" data-throw-if-not-resolved=\"false\">EventDataBatch</xref> in bytes."

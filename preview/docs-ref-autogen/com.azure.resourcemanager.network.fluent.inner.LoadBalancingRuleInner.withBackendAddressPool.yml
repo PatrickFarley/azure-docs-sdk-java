@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.LoadBalancingRuleInner.withBackendAddressPool(SubResource backendAddressPool)"
   name: "withBackendAddressPool(SubResource backendAddressPool)"
   nameWithType: "LoadBalancingRuleInner.withBackendAddressPool(SubResource backendAddressPool)"
-  summary: "Set the backendAddressPool property: A reference to a pool of DIPs. Inbound traffic is randomly load balanced\n across IPs in the backend IPs."
+  summary: "Set the backendAddressPool property: A reference to a pool of DIPs. Inbound traffic is randomly load balanced across IPs in the backend IPs."
   parameters:
   - description: "the backendAddressPool value to set."
     name: "backendAddressPool"

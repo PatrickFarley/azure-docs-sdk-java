@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayFirewallDisabledRuleGroup.withRules(List<Integer> rules)"
   name: "withRules(List<Integer> rules)"
   nameWithType: "ApplicationGatewayFirewallDisabledRuleGroup.withRules(List<Integer> rules)"
-  summary: "Set the rules property: The list of rules that will be disabled. If null, all rules of the rule group will be\n disabled."
+  summary: "Set the rules property: The list of rules that will be disabled. If null, all rules of the rule group will be disabled."
   parameters:
   - description: "the rules value to set."
     name: "rules"

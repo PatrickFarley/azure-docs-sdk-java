@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexer.setDataSourceName(String dataSourceName)"
   name: "setDataSourceName(String dataSourceName)"
   nameWithType: "SearchIndexer.setDataSourceName(String dataSourceName)"
-  summary: "Set the dataSourceName property: The name of the datasource from which\n this indexer reads data."
+  summary: "Set the dataSourceName property: The name of the datasource from which this indexer reads data."
   parameters:
   - description: "the dataSourceName value."
     name: "dataSourceName"

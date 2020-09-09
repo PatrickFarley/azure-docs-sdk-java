@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobSchedulingErrorCodes.AutoPoolCreationFailedWithQuotaReached"
   name: "AutoPoolCreationFailedWithQuotaReached"
   nameWithType: "JobSchedulingErrorCodes.AutoPoolCreationFailedWithQuotaReached"
-  summary: "The Batch service could not create an auto pool to run the job on, because the account\n has reached its quota of compute nodes."
+  summary: "The Batch service could not create an auto pool to run the job on, because the account has reached its quota of compute nodes."
   syntax: "public static final String AutoPoolCreationFailedWithQuotaReached"
 type: "field"
 metadata: {}

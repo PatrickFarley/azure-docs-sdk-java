@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileReadHeaders.getContentRange()"
   name: "getContentRange()"
   nameWithType: "FileReadHeaders.getContentRange()"
-  summary: "Get the contentRange property: Indicates the range of bytes returned in\n the event that the client requested a subset of the file by setting the\n 'Range' request header."
+  summary: "Get the contentRange property: Indicates the range of bytes returned in the event that the client requested a subset of the file by setting the 'Range' request header."
   syntax: "public String getContentRange()"
   returns:
     description: "the contentRange value."

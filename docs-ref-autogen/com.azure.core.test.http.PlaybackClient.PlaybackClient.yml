@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.http.PlaybackClient.PlaybackClient(RecordedData recordedData, Map<String,String> textReplacementRules)"
   name: "PlaybackClient(RecordedData recordedData, Map<String,String> textReplacementRules)"
   nameWithType: "PlaybackClient.PlaybackClient(RecordedData recordedData, Map<String,String> textReplacementRules)"
-  summary: "Creates a PlaybackClient that replays network calls from <code>recordedData</code> and replaces <xref uid=\"NetworkCallRecord#getResponse()\" data-throw-if-not-resolved=\"false\">response text</xref> for any rules specified in <code>textReplacementRules</code>."
+  summary: "Creates a PlaybackClient that replays network calls from `recordedData` and replaces <xref uid=\"com.azure.core.test.models.NetworkCallRecord.getResponse()\" data-throw-if-not-resolved=\"false\">response text</xref> for any rules specified in `textReplacementRules`."
   parameters:
   - description: "The data to playback."
     name: "recordedData"

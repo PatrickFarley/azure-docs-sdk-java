@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemAsyncClient.createFile(String fileName)"
   name: "createFile(String fileName)"
   nameWithType: "DataLakeFileSystemAsyncClient.createFile(String fileName)"
-  summary: "Creates a new file within a file system. By default this method will not overwrite an existing file. For more\n information, see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Mono&lt;DataLakeFileAsyncClient&gt; fileClient = client.createFile&#40;fileName&#41;;\n </pre>"
+  summary: "Creates a new file within a file system. By default this method will not overwrite an existing file. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nMono<DataLakeFileAsyncClient> fileClient = client.createFile(fileName);\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create"
   parameters:
   - description: "Name of the file to create."
     name: "fileName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemAsyncClient.createFile(String fileName, boolean overwrite)"
   name: "createFile(String fileName, boolean overwrite)"
   nameWithType: "DataLakeFileSystemAsyncClient.createFile(String fileName, boolean overwrite)"
-  summary: "Creates a new file within a file system. For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n boolean overwrite = false; &#47;* Default value. *&#47;\n Mono&lt;DataLakeFileAsyncClient&gt; fClient = client.createFile&#40;fileName, overwrite&#41;;\n </pre>"
+  summary: "Creates a new file within a file system. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nboolean overwrite = false; /* Default value. */\n Mono<DataLakeFileAsyncClient> fClient = client.createFile(fileName, overwrite);\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create"
   parameters:
   - description: "Name of the file to create."
     name: "fileName"

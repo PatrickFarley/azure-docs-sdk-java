@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VirtualNetworkGateway.DefinitionStages.WithNetwork.withNewNetwork(Creatable<Network> creatable)"
   name: "withNewNetwork(Creatable<Network> creatable)"
   nameWithType: "VirtualNetworkGateway.DefinitionStages.WithNetwork.withNewNetwork(Creatable<Network> creatable)"
-  summary: "Create a new virtual network to associate with the virtual network gateway, based on the provided\n definition."
+  summary: "Create a new virtual network to associate with the virtual network gateway, based on the provided definition."
   parameters:
   - description: "a creatable definition for a new virtual network"
     name: "creatable"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VirtualNetworkGateway.DefinitionStages.WithNetwork.withNewNetwork(String addressSpaceCidr, String subnetAddressSpaceCidr)"
   name: "withNewNetwork(String addressSpaceCidr, String subnetAddressSpaceCidr)"
   nameWithType: "VirtualNetworkGateway.DefinitionStages.WithNetwork.withNewNetwork(String addressSpaceCidr, String subnetAddressSpaceCidr)"
-  summary: "Creates a new virtual network to associate with the virtual network gateway. the virtual network will be\n created in the same resource group and region as of parent virtual network gateway, it will be created\n with the specified address space and a default subnet for virtual network gateway."
+  summary: "Creates a new virtual network to associate with the virtual network gateway. the virtual network will be created in the same resource group and region as of parent virtual network gateway, it will be created with the specified address space and a default subnet for virtual network gateway."
   parameters:
   - description: "the address space for the virtual network"
     name: "addressSpaceCidr"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VirtualNetworkGateway.DefinitionStages.WithNetwork.withNewNetwork(String name, String addressSpace, String subnetAddressSpaceCidr)"
   name: "withNewNetwork(String name, String addressSpace, String subnetAddressSpaceCidr)"
   nameWithType: "VirtualNetworkGateway.DefinitionStages.WithNetwork.withNewNetwork(String name, String addressSpace, String subnetAddressSpaceCidr)"
-  summary: "Creates a new virtual network to associate with the virtual network gateway. the virtual network will be\n created in the same resource group and region as of parent virtual network gateway, it will be created\n with the specified address space and a subnet for virtual network gateway."
+  summary: "Creates a new virtual network to associate with the virtual network gateway. the virtual network will be created in the same resource group and region as of parent virtual network gateway, it will be created with the specified address space and a subnet for virtual network gateway."
   parameters:
   - description: "the name of the new virtual network"
     name: "name"

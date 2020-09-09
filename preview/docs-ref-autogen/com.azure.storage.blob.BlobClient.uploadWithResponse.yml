@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobClient.uploadWithResponse(BlobParallelUploadOptions options, Context context)"
   name: "uploadWithResponse(BlobParallelUploadOptions options, Context context)"
   nameWithType: "BlobClient.uploadWithResponse(BlobParallelUploadOptions options, Context context)"
-  summary: "Creates a new blob, or updates the content of an existing blob.\n <p>\n To avoid overwriting, pass \"*\" to <xref uid=\"BlobRequestConditions#setIfNoneMatch(String)\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
+  summary: "Creates a new blob, or updates the content of an existing blob.\n\nTo avoid overwriting, pass \"\\*\" to <xref uid=\"com.azure.storage.blob.models.BlobRequestConditions.setIfNoneMatch(java.lang.String)\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.options.BlobParallelUploadOptions\" data-throw-if-not-resolved=\"false\">BlobParallelUploadOptions</xref>"
     name: "options"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.storage.blob.BlobClient.uploadWithResponse(BlobParallelUploadOptions options, Duration timeout, Context context)"
   name: "uploadWithResponse(BlobParallelUploadOptions options, Duration timeout, Context context)"
   nameWithType: "BlobClient.uploadWithResponse(BlobParallelUploadOptions options, Duration timeout, Context context)"
-  summary: "Creates a new blob, or updates the content of an existing blob.\n <p>\n To avoid overwriting, pass \"*\" to <xref uid=\"BlobRequestConditions#setIfNoneMatch(String)\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
+  summary: "Creates a new blob, or updates the content of an existing blob.\n\nTo avoid overwriting, pass \"\\*\" to <xref uid=\"com.azure.storage.blob.models.BlobRequestConditions.setIfNoneMatch(java.lang.String)\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.options.BlobParallelUploadOptions\" data-throw-if-not-resolved=\"false\">BlobParallelUploadOptions</xref>"
     name: "options"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.storage.blob.BlobClient.uploadWithResponse(InputStream data, long length, ParallelTransferOptions parallelTransferOptions, BlobHttpHeaders headers, Map<String,String> metadata, AccessTier tier, BlobRequestConditions requestConditions, Duration timeout, Context context)"
   name: "uploadWithResponse(InputStream data, long length, ParallelTransferOptions parallelTransferOptions, BlobHttpHeaders headers, Map<String,String> metadata, AccessTier tier, BlobRequestConditions requestConditions, Duration timeout, Context context)"
   nameWithType: "BlobClient.uploadWithResponse(InputStream data, long length, ParallelTransferOptions parallelTransferOptions, BlobHttpHeaders headers, Map<String,String> metadata, AccessTier tier, BlobRequestConditions requestConditions, Duration timeout, Context context)"
-  summary: "Creates a new blob, or updates the content of an existing blob.\n <p>\n To avoid overwriting, pass \"*\" to <xref uid=\"BlobRequestConditions#setIfNoneMatch(String)\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
+  summary: "Creates a new blob, or updates the content of an existing blob.\n\nTo avoid overwriting, pass \"\\*\" to <xref uid=\"com.azure.storage.blob.models.BlobRequestConditions.setIfNoneMatch(java.lang.String)\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
   parameters:
   - description: "The data to write to the blob."
     name: "data"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.Capability.name()"
   name: "name()"
   nameWithType: "Capability.name()"
-  summary: "Get the name property: Name of the Cosmos DB capability. For example, \"name\": \"EnableCassandra\". Current values\n also include \"EnableTable\" and \"EnableGremlin\"."
+  summary: "Get the name property: Name of the Cosmos DB capability. For example, \"name\": \"EnableCassandra\". Current values also include \"EnableTable\" and \"EnableGremlin\"."
   syntax: "public String name()"
   returns:
     description: "the name value."

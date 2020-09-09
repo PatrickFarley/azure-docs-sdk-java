@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.contains(Object target)"
   name: "contains(Object target)"
   nameWithType: "FluentIterable<E>.contains(Object target)"
-  summary: "Returns <code>true</code> if this fluent iterable contains any object for which <code>\n equals(target)</code> is true.\n\n <p><b><code>Stream</code> equivalent:</b> <code>stream.anyMatch(Predicate.isEqual(target))</code>."
+  summary: "Returns `true` if this fluent iterable contains any object for which `equals(target)` is true.\n\n**`Stream` equivalent:** `stream.anyMatch(Predicate.isEqual(target))`."
   parameters:
   - name: "target"
     type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"

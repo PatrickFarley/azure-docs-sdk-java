@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewaySslCertificateInner.withPublicCertData(String publicCertData)"
   name: "withPublicCertData(String publicCertData)"
   nameWithType: "ApplicationGatewaySslCertificateInner.withPublicCertData(String publicCertData)"
-  summary: "Set the publicCertData property: Base-64 encoded Public cert data corresponding to pfx specified in data. Only\n applicable in GET request."
+  summary: "Set the publicCertData property: Base-64 encoded Public cert data corresponding to pfx specified in data. Only applicable in GET request."
   parameters:
   - description: "the publicCertData value to set."
     name: "publicCertData"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlertResourcePatch.withSeverity(Integer severity)"
   name: "withSeverity(Integer severity)"
   nameWithType: "MetricAlertResourcePatch.withSeverity(Integer severity)"
-  summary: "Set the severity property: Alert severity {0, 1, 2, 3, 4}."
+  summary: "Set the severity property: Alert severity \\{0, 1, 2, 3, 4\\}."
   parameters:
   - description: "the severity value to set."
     name: "severity"

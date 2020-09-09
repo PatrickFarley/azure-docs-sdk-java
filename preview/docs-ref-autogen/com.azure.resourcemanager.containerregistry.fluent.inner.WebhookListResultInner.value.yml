@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.WebhookListResultInner.value()"
   name: "value()"
   nameWithType: "WebhookListResultInner.value()"
-  summary: "Get the value property: The list of webhooks. Since this list may be incomplete, the nextLink field should be\n used to request the next list of webhooks."
+  summary: "Get the value property: The list of webhooks. Since this list may be incomplete, the nextLink field should be used to request the next list of webhooks."
   syntax: "public List<WebhookInner> value()"
   returns:
     description: "the value value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.EntityRecognitionSkill.getMinimumPrecision()"
   name: "getMinimumPrecision()"
   nameWithType: "EntityRecognitionSkill.getMinimumPrecision()"
-  summary: "Get the minimumPrecision property: A value between 0 and 1 that be used\n to only include entities whose confidence score is greater than the\n value specified. If not set (default), or if explicitly set to null, all\n entities will be included."
+  summary: "Get the minimumPrecision property: A value between 0 and 1 that be used to only include entities whose confidence score is greater than the value specified. If not set (default), or if explicitly set to null, all entities will be included."
   syntax: "public Double getMinimumPrecision()"
   returns:
     description: "the minimumPrecision value."

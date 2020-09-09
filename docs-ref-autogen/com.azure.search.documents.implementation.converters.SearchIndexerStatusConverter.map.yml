@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SearchIndexerStatusConverter.map(SearchIndexerStatus obj)"
   name: "map(SearchIndexerStatus obj)"
   nameWithType: "SearchIndexerStatusConverter.map(SearchIndexerStatus obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus</xref> to\n <xref uid=\"SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">SearchIndexerStatus</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus</xref> to <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">SearchIndexerStatus</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus?alt=com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus&text=SearchIndexerStatus\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SearchIndexerStatusConverter.map(SearchIndexerStatus obj)"
   name: "map(SearchIndexerStatus obj)"
   nameWithType: "SearchIndexerStatusConverter.map(SearchIndexerStatus obj)"
-  summary: "Maps from <xref uid=\"SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">SearchIndexerStatus</xref> to\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">SearchIndexerStatus</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SearchIndexerStatus</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.SearchIndexerStatus?alt=com.azure.search.documents.indexes.models.SearchIndexerStatus&text=SearchIndexerStatus\" data-throw-if-not-resolved=\"False\" />"

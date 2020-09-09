@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.ActionGroupResourceInner.withEnabled(Boolean enabled)"
   name: "withEnabled(Boolean enabled)"
   nameWithType: "ActionGroupResourceInner.withEnabled(Boolean enabled)"
-  summary: "Set the enabled property: Indicates whether this action group is enabled. If an action group is not enabled, then\n none of its receivers will receive communications."
+  summary: "Set the enabled property: Indicates whether this action group is enabled. If an action group is not enabled, then none of its receivers will receive communications."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

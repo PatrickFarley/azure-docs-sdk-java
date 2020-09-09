@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.ImmutablePair<L,R>.getLeft()"
   name: "getLeft()"
   nameWithType: "ImmutablePair<L,R>.getLeft()"
-  summary: "<p>Gets the left element from this pair.</p>\n\n <p>When treated as a key-value pair, this is the key.</p>"
+  summary: "Gets the left element from this pair.\n\nWhen treated as a key-value pair, this is the key."
   overridden: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair.getLeft()"
   syntax: "public L getLeft()"
   returns:

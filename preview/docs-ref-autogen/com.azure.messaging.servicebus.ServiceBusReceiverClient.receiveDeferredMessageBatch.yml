@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.receiveDeferredMessageBatch(Iterable<Long> sequenceNumbers)"
   name: "receiveDeferredMessageBatch(Iterable<Long> sequenceNumbers)"
   nameWithType: "ServiceBusReceiverClient.receiveDeferredMessageBatch(Iterable<Long> sequenceNumbers)"
-  summary: "Receives a batch of deferred <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">messages</xref>. Deferred messages can only be received\n by using sequence number."
+  summary: "Receives a batch of deferred <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">messages</xref>. Deferred messages can only be received by using sequence number."
   parameters:
   - description: "The sequence numbers of the deferred messages."
     name: "sequenceNumbers"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.receiveDeferredMessageBatch(Iterable<Long> sequenceNumbers, String sessionId)"
   name: "receiveDeferredMessageBatch(Iterable<Long> sequenceNumbers, String sessionId)"
   nameWithType: "ServiceBusReceiverClient.receiveDeferredMessageBatch(Iterable<Long> sequenceNumbers, String sessionId)"
-  summary: "Receives a batch of deferred <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">messages</xref>. Deferred messages can only be received\n by using sequence number."
+  summary: "Receives a batch of deferred <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">messages</xref>. Deferred messages can only be received by using sequence number."
   parameters:
   - description: "The sequence numbers of the deferred messages."
     name: "sequenceNumbers"

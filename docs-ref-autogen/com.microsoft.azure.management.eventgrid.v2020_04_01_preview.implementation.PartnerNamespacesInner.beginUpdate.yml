@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.beginUpdate(String resourceGroupName, String partnerNamespaceName)"
   name: "beginUpdate(String resourceGroupName, String partnerNamespaceName)"
   nameWithType: "PartnerNamespacesInner.beginUpdate(String resourceGroupName, String partnerNamespaceName)"
-  summary: "Update a partner namespace.\n Asynchronously updates a partner namespace with the specified parameters."
+  summary: "Update a partner namespace. Asynchronously updates a partner namespace with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.beginUpdate(String resourceGroupName, String partnerNamespaceName, Map<String,String> tags)"
   name: "beginUpdate(String resourceGroupName, String partnerNamespaceName, Map<String,String> tags)"
   nameWithType: "PartnerNamespacesInner.beginUpdate(String resourceGroupName, String partnerNamespaceName, Map<String,String> tags)"
-  summary: "Update a partner namespace.\n Asynchronously updates a partner namespace with the specified parameters."
+  summary: "Update a partner namespace. Asynchronously updates a partner namespace with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

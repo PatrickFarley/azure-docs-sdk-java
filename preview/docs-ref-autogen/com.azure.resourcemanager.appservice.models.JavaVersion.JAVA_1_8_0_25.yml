@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.JavaVersion.JAVA_1_8_0_25"
   name: "JAVA_1_8_0_25"
   nameWithType: "JavaVersion.JAVA_1_8_0_25"
-  summary: "Static value 1.8.0_25 for JavaVersion."
+  summary: "Static value 1.8.0\\_25 for JavaVersion."
   syntax: "public static final JavaVersion JAVA_1_8_0_25"
 type: "field"
 metadata: {}

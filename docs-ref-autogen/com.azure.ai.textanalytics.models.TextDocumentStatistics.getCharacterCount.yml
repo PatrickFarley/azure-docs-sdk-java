@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentStatistics.getCharacterCount()"
   name: "getCharacterCount()"
   nameWithType: "TextDocumentStatistics.getCharacterCount()"
-  summary: "Get the <code>characterCount</code> property: Number of text elements recognized in the document."
+  summary: "Get the `characterCount` property: Number of text elements recognized in the document."
   syntax: "public int getCharacterCount()"
   returns:
     description: "The <code>characterCount</code> value."

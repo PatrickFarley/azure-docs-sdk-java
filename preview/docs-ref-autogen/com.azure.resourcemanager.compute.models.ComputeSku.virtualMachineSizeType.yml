@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSku.virtualMachineSizeType()"
   name: "virtualMachineSizeType()"
   nameWithType: "ComputeSku.virtualMachineSizeType()"
-  summary: "The virtual machine size type if the sku describes sku for virtual machine resource type.\n\n <p>The size can be used for <xref uid=\"VirtualMachine.DefinitionStages.WithVMSize#withSize(VirtualMachineSizeTypes)\" data-throw-if-not-resolved=\"false\">VirtualMachine.DefinitionStages.WithVMSize#withSize(VirtualMachineSizeTypes)</xref>\n and <xref uid=\"VirtualMachine.Update#withSize(VirtualMachineSizeTypes)\" data-throw-if-not-resolved=\"false\">VirtualMachine.Update#withSize(VirtualMachineSizeTypes)</xref>."
+  summary: "The virtual machine size type if the sku describes sku for virtual machine resource type.\n\nThe size can be used for <xref uid=\"com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithVMSize.withSize(com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes)\" data-throw-if-not-resolved=\"false\">VirtualMachine.DefinitionStages.WithVMSize#withSize(VirtualMachineSizeTypes)</xref> and <xref uid=\"com.azure.resourcemanager.compute.models.VirtualMachine.Update.withSize(com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes)\" data-throw-if-not-resolved=\"false\">VirtualMachine.Update#withSize(VirtualMachineSizeTypes)</xref>."
   syntax: "public abstract VirtualMachineSizeTypes virtualMachineSizeType()"
   returns:
     description: "the virtual machine size type"

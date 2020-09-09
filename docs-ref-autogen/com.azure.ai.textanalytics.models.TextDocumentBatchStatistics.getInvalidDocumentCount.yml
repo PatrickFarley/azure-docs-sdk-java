@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentBatchStatistics.getInvalidDocumentCount()"
   name: "getInvalidDocumentCount()"
   nameWithType: "TextDocumentBatchStatistics.getInvalidDocumentCount()"
-  summary: "Get the invalidDocumentCount property: Number of invalid documents.\n This includes empty, over-size limit or non-supported languages documents."
+  summary: "Get the invalidDocumentCount property: Number of invalid documents. This includes empty, over-size limit or non-supported languages documents."
   syntax: "public int getInvalidDocumentCount()"
   returns:
     description: "the <code>invalidDocumentCount</code> value."

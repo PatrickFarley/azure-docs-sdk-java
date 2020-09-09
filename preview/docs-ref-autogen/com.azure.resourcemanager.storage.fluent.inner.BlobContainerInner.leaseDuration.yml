@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.BlobContainerInner.leaseDuration()"
   name: "leaseDuration()"
   nameWithType: "BlobContainerInner.leaseDuration()"
-  summary: "Get the leaseDuration property: Specifies whether the lease on a container is of infinite or fixed duration, only\n when the container is leased."
+  summary: "Get the leaseDuration property: Specifies whether the lease on a container is of infinite or fixed duration, only when the container is leased."
   syntax: "public LeaseDuration leaseDuration()"
   returns:
     description: "the leaseDuration value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.Queue.UpdateStages.WithMessageBatching.withoutMessageBatching()"
   name: "withoutMessageBatching()"
   nameWithType: "Queue.UpdateStages.WithMessageBatching.withoutMessageBatching()"
-  summary: "Specifies that batching of messages should be disabled when Service Bus write messages to\n or delete messages from it's internal store."
+  summary: "Specifies that batching of messages should be disabled when Service Bus write messages to or delete messages from it's internal store."
   syntax: "public abstract Queue.Update withoutMessageBatching()"
   returns:
     description: "the next stage of queue update"

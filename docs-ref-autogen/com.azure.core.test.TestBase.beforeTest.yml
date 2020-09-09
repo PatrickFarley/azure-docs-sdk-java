@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.TestBase.beforeTest()"
   name: "beforeTest()"
   nameWithType: "TestBase.beforeTest()"
-  summary: "Performs any set-up before each test case. Any initialization that occurs in TestBase occurs first before this.\n Can be overridden in an inheriting class to add additional functionality during test set-up."
+  summary: "Performs any set-up before each test case. Any initialization that occurs in TestBase occurs first before this. Can be overridden in an inheriting class to add additional functionality during test set-up."
   syntax: "protected void beforeTest()"
 type: "method"
 metadata: {}

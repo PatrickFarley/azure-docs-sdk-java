@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.RandomBasedGenerator._sharedRandom"
   name: "_sharedRandom"
   nameWithType: "RandomBasedGenerator._sharedRandom"
-  summary: "Default shared random number generator, used if no random number generator\n is explicitly specified for instance"
+  summary: "Default shared random number generator, used if no random number generator is explicitly specified for instance"
   syntax: "protected static Random _sharedRandom"
 type: "field"
 metadata: {}

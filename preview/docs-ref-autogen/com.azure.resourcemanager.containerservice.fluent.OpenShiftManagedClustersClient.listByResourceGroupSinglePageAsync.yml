@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.OpenShiftManagedClustersClient.listByResourceGroupSinglePageAsync(String resourceGroupName)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName)"
   nameWithType: "OpenShiftManagedClustersClient.listByResourceGroupSinglePageAsync(String resourceGroupName)"
-  summary: "Lists OpenShift managed clusters in the specified subscription and resource group. The operation returns\n properties of each OpenShift managed cluster."
+  summary: "Lists OpenShift managed clusters in the specified subscription and resource group. The operation returns properties of each OpenShift managed cluster."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.OpenShiftManagedClustersClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
   nameWithType: "OpenShiftManagedClustersClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
-  summary: "Lists OpenShift managed clusters in the specified subscription and resource group. The operation returns\n properties of each OpenShift managed cluster."
+  summary: "Lists OpenShift managed clusters in the specified subscription and resource group. The operation returns properties of each OpenShift managed cluster."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobContainerAsyncClient.create()"
   name: "create()"
   nameWithType: "BlobContainerAsyncClient.create()"
-  summary: "Creates a new container within a storage account. If a container with the same name already exists, the operation\n fails. For more information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/create-container\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.create&#40;&#41;.subscribe&#40;\n     response -&gt; System.out.printf&#40;&quot;Create completed%n&quot;&#41;,\n     error -&gt; System.out.printf&#40;&quot;Error while creating container %s%n&quot;, error&#41;&#41;;\n </pre>"
+  summary: "Creates a new container within a storage account. If a container with the same name already exists, the operation fails. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.create().subscribe(\n     response -> System.out.printf(\"Create completed%n\"),\n     error -> System.out.printf(\"Error while creating container %s%n\", error));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/create-container"
   syntax: "public Mono<Void> create()"
   returns:
     description: "A reactive response signalling completion."

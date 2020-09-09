@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.getSnapshotClient(String snapshot)"
   name: "getSnapshotClient(String snapshot)"
   nameWithType: "BlobClientBase.getSnapshotClient(String snapshot)"
-  summary: "Creates a new <xref uid=\"BlobClientBase\" data-throw-if-not-resolved=\"false\">BlobClientBase</xref> linked to the <code>snapshot</code> of this blob resource."
+  summary: "Creates a new <xref uid=\"com.azure.storage.blob.specialized.BlobClientBase\" data-throw-if-not-resolved=\"false\">BlobClientBase</xref> linked to the `snapshot` of this blob resource."
   parameters:
   - description: "the identifier for a specific snapshot of this blob"
     name: "snapshot"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.Resource.getAltLink()"
   name: "getAltLink()"
   nameWithType: "Resource.getAltLink()"
-  summary: "Gets the alt-link associated with the resource from the Azure Cosmos DB\n service."
+  summary: "Gets the alt-link associated with the resource from the Azure Cosmos DB service."
   syntax: "public String getAltLink()"
   returns:
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

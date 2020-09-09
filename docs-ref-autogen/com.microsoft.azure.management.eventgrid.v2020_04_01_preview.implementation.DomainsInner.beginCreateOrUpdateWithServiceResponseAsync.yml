@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.beginCreateOrUpdateWithServiceResponseAsync(String resourceGroupName, String domainName, DomainInner domainInfo)"
   name: "beginCreateOrUpdateWithServiceResponseAsync(String resourceGroupName, String domainName, DomainInner domainInfo)"
   nameWithType: "DomainsInner.beginCreateOrUpdateWithServiceResponseAsync(String resourceGroupName, String domainName, DomainInner domainInfo)"
-  summary: "Create or update a domain.\n Asynchronously creates or updates a new domain with the specified parameters."
+  summary: "Create or update a domain. Asynchronously creates or updates a new domain with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

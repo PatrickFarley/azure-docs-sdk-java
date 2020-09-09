@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MinMaxPriorityQueue.Builder<B>.maximumSize(int maximumSize)"
   name: "maximumSize(int maximumSize)"
   nameWithType: "MinMaxPriorityQueue.Builder<B>.maximumSize(int maximumSize)"
-  summary: "Configures this builder to build <code>MinMaxPriorityQueue</code> instances that are limited to\n <code>maximumSize</code> elements. Each time a queue grows beyond this bound, it immediately\n removes its greatest element (according to its comparator), which might be the element that\n was just added."
+  summary: "Configures this builder to build `MinMaxPriorityQueue` instances that are limited to `maximumSize` elements. Each time a queue grows beyond this bound, it immediately removes its greatest element (according to its comparator), which might be the element that was just added."
   parameters:
   - name: "maximumSize"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

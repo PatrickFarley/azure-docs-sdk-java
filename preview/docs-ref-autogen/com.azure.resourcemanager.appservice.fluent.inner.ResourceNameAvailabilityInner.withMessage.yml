@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.ResourceNameAvailabilityInner.withMessage(String message)"
   name: "withMessage(String message)"
   nameWithType: "ResourceNameAvailabilityInner.withMessage(String message)"
-  summary: "Set the message property: If reason == invalid, provide the user with the reason why the given name is invalid,\n and provide the resource naming requirements so that the user can select a valid name. If reason ==\n AlreadyExists, explain that resource name is already in use, and direct them to select a different name."
+  summary: "Set the message property: If reason == invalid, provide the user with the reason why the given name is invalid, and provide the resource naming requirements so that the user can select a valid name. If reason == AlreadyExists, explain that resource name is already in use, and direct them to select a different name."
   parameters:
   - description: "the message value to set."
     name: "message"

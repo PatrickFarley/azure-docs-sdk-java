@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.ContainerGroup.DefinitionStages.ContainerInstanceDefinitionStages.WithVolumeMountSetting<ParentT>.withVolumeMountSetting(String volumeName, String mountPath)"
   name: "withVolumeMountSetting(String volumeName, String mountPath)"
   nameWithType: "ContainerGroup.DefinitionStages.ContainerInstanceDefinitionStages.WithVolumeMountSetting<ParentT>.withVolumeMountSetting(String volumeName, String mountPath)"
-  summary: "Specifies the container group's volume to be mounted by the container instance at a specified mount path.\n <p>\n Mounting an Azure file share as a volume in a container is a two-step process. First, you provide\n   the details of the share as part of defining the container group, then you specify how you wan\n   the volume mounted within one or more of the containers in the group."
+  summary: "Specifies the container group's volume to be mounted by the container instance at a specified mount path.\n\nMounting an Azure file share as a volume in a container is a two-step process. First, you provide the details of the share as part of defining the container group, then you specify how you wan the volume mounted within one or more of the containers in the group."
   parameters:
   - description: "the volume name as defined in the volumes of the container group"
     name: "volumeName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.ContainerGroup.DefinitionStages.ContainerInstanceDefinitionStages.WithVolumeMountSetting<ParentT>.withVolumeMountSetting(Map<String,String> volumeMountSetting)"
   name: "withVolumeMountSetting(Map<String,String> volumeMountSetting)"
   nameWithType: "ContainerGroup.DefinitionStages.ContainerInstanceDefinitionStages.WithVolumeMountSetting<ParentT>.withVolumeMountSetting(Map<String,String> volumeMountSetting)"
-  summary: "Specifies the container group's volume to be mounted by the container instance at a specified mount path.\n <p>\n Mounting an Azure file share as a volume in a container is a two-step process. First, you provide\n   the details of the share as part of defining the container group, then you specify how you wan\n   the volume mounted within one or more of the containers in the group."
+  summary: "Specifies the container group's volume to be mounted by the container instance at a specified mount path.\n\nMounting an Azure file share as a volume in a container is a two-step process. First, you provide the details of the share as part of defining the container group, then you specify how you wan the volume mounted within one or more of the containers in the group."
   parameters:
   - description: "the name and value pair representing volume names as defined in the volumes of the container group and the local paths the volume will be mounted at"
     name: "volumeMountSetting"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServicePlanInner.withReserved(Boolean reserved)"
   name: "withReserved(Boolean reserved)"
   nameWithType: "AppServicePlanInner.withReserved(Boolean reserved)"
-  summary: "Set the reserved property: If Linux app service plan &lt;code&gt;true&lt;/code&gt;,\n &lt;code&gt;false&lt;/code&gt; otherwise."
+  summary: "Set the reserved property: If Linux app service plan <code>true</code>, <code>false</code> otherwise."
   parameters:
   - description: "the reserved value to set."
     name: "reserved"

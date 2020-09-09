@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndex.getCorsOptions()"
   name: "getCorsOptions()"
   nameWithType: "SearchIndex.getCorsOptions()"
-  summary: "Get the corsOptions property: Options to control Cross-Origin Resource\n Sharing (CORS) for the index."
+  summary: "Get the corsOptions property: Options to control Cross-Origin Resource Sharing (CORS) for the index."
   syntax: "public CorsOptions getCorsOptions()"
   returns:
     description: "the corsOptions value."

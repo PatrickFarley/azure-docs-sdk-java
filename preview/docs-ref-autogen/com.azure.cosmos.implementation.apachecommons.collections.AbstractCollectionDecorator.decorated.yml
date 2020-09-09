@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.AbstractCollectionDecorator<E>.decorated()"
   name: "decorated()"
   nameWithType: "AbstractCollectionDecorator<E>.decorated()"
-  summary: "Gets the collection being decorated.\n All access to the decorated collection goes via this method."
+  summary: "Gets the collection being decorated. All access to the decorated collection goes via this method."
   syntax: "protected Collection<E> decorated()"
   returns:
     description: "the decorated collection"

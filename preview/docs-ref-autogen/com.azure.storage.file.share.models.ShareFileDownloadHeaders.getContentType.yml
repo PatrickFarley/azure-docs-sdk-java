@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getContentType()"
   name: "getContentType()"
   nameWithType: "ShareFileDownloadHeaders.getContentType()"
-  summary: "Get the contentType property: The content type specified for the file.\n The default content type is 'application/octet-stream'."
+  summary: "Get the contentType property: The content type specified for the file. The default content type is 'application/octet-stream'."
   syntax: "public String getContentType()"
   returns:
     description: "the contentType value."

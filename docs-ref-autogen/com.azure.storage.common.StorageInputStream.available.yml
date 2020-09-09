@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.StorageInputStream.available()"
   name: "available()"
   nameWithType: "StorageInputStream.available()"
-  summary: "Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without\n blocking by the next invocation of a method for this input stream. The next invocation might be the same thread\n or another thread. A single read or skip of this many bytes will not block, but may read or skip fewer bytes."
+  summary: "Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream. The next invocation might be the same thread or another thread. A single read or skip of this many bytes will not block, but may read or skip fewer bytes."
   overridden: "java.io.InputStream.available()"
   syntax: "public synchronized int available()"
   returns:

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.setScoringParameters(List<String> scoringParameters)"
   name: "setScoringParameters(List<String> scoringParameters)"
   nameWithType: "SearchRequest.setScoringParameters(List<String> scoringParameters)"
-  summary: "Set the scoringParameters property: The list of parameter values to be used in scoring functions (for example,\n referencePointParameter) using the format name-values. For example, if the scoring profile defines a function\n with a parameter called 'mylocation' the parameter string would be \"mylocation--122.2,44.8\" (without the quotes)."
+  summary: "Set the scoringParameters property: The list of parameter values to be used in scoring functions (for example, referencePointParameter) using the format name-values. For example, if the scoring profile defines a function with a parameter called 'mylocation' the parameter string would be \"mylocation--122.2,44.8\" (without the quotes)."
   parameters:
   - description: "the scoringParameters value to set."
     name: "scoringParameters"

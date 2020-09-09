@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.extendImmutabilityPolicyWithResponseAsync(String resourceGroupName, String accountName, String containerName, String ifMatch, Integer immutabilityPeriodSinceCreationInDays, Boolean allowProtectedAppendWrites)"
   name: "extendImmutabilityPolicyWithResponseAsync(String resourceGroupName, String accountName, String containerName, String ifMatch, Integer immutabilityPeriodSinceCreationInDays, Boolean allowProtectedAppendWrites)"
   nameWithType: "BlobContainersClient.extendImmutabilityPolicyWithResponseAsync(String resourceGroupName, String accountName, String containerName, String ifMatch, Integer immutabilityPeriodSinceCreationInDays, Boolean allowProtectedAppendWrites)"
-  summary: "Extends the immutabilityPeriodSinceCreationInDays of a locked immutabilityPolicy. The only action allowed on a\n Locked policy will be this action. ETag in If-Match is required for this operation."
+  summary: "Extends the immutabilityPeriodSinceCreationInDays of a locked immutabilityPolicy. The only action allowed on a Locked policy will be this action. ETag in If-Match is required for this operation."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -36,7 +36,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.extendImmutabilityPolicyWithResponseAsync(String resourceGroupName, String accountName, String containerName, String ifMatch, Integer immutabilityPeriodSinceCreationInDays, Boolean allowProtectedAppendWrites, Context context)"
   name: "extendImmutabilityPolicyWithResponseAsync(String resourceGroupName, String accountName, String containerName, String ifMatch, Integer immutabilityPeriodSinceCreationInDays, Boolean allowProtectedAppendWrites, Context context)"
   nameWithType: "BlobContainersClient.extendImmutabilityPolicyWithResponseAsync(String resourceGroupName, String accountName, String containerName, String ifMatch, Integer immutabilityPeriodSinceCreationInDays, Boolean allowProtectedAppendWrites, Context context)"
-  summary: "Extends the immutabilityPeriodSinceCreationInDays of a locked immutabilityPolicy. The only action allowed on a\n Locked policy will be this action. ETag in If-Match is required for this operation."
+  summary: "Extends the immutabilityPeriodSinceCreationInDays of a locked immutabilityPolicy. The only action allowed on a Locked policy will be this action. ETag in If-Match is required for this operation."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

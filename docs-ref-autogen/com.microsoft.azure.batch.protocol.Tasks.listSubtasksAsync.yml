@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.listSubtasksAsync(String jobId, String taskId)"
   name: "listSubtasksAsync(String jobId, String taskId)"
   nameWithType: "Tasks.listSubtasksAsync(String jobId, String taskId)"
-  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task.\n If the Task is not a multi-instance Task then this returns an empty collection."
+  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task. If the Task is not a multi-instance Task then this returns an empty collection."
   parameters:
   - description: "The ID of the Job."
     name: "jobId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.listSubtasksAsync(String jobId, String taskId, TaskListSubtasksOptions taskListSubtasksOptions)"
   name: "listSubtasksAsync(String jobId, String taskId, TaskListSubtasksOptions taskListSubtasksOptions)"
   nameWithType: "Tasks.listSubtasksAsync(String jobId, String taskId, TaskListSubtasksOptions taskListSubtasksOptions)"
-  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task.\n If the Task is not a multi-instance Task then this returns an empty collection."
+  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task. If the Task is not a multi-instance Task then this returns an empty collection."
   parameters:
   - description: "The ID of the Job."
     name: "jobId"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.listSubtasksAsync(String jobId, String taskId, TaskListSubtasksOptions taskListSubtasksOptions, ServiceCallback<CloudTaskListSubtasksResult> serviceCallback)"
   name: "listSubtasksAsync(String jobId, String taskId, TaskListSubtasksOptions taskListSubtasksOptions, ServiceCallback<CloudTaskListSubtasksResult> serviceCallback)"
   nameWithType: "Tasks.listSubtasksAsync(String jobId, String taskId, TaskListSubtasksOptions taskListSubtasksOptions, ServiceCallback<CloudTaskListSubtasksResult> serviceCallback)"
-  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task.\n If the Task is not a multi-instance Task then this returns an empty collection."
+  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task. If the Task is not a multi-instance Task then this returns an empty collection."
   parameters:
   - description: "The ID of the Job."
     name: "jobId"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.listSubtasksAsync(String jobId, String taskId, ServiceCallback<CloudTaskListSubtasksResult> serviceCallback)"
   name: "listSubtasksAsync(String jobId, String taskId, ServiceCallback<CloudTaskListSubtasksResult> serviceCallback)"
   nameWithType: "Tasks.listSubtasksAsync(String jobId, String taskId, ServiceCallback<CloudTaskListSubtasksResult> serviceCallback)"
-  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task.\n If the Task is not a multi-instance Task then this returns an empty collection."
+  summary: "Lists all of the subtasks that are associated with the specified multi-instance Task. If the Task is not a multi-instance Task then this returns an empty collection."
   parameters:
   - description: "The ID of the Job."
     name: "jobId"

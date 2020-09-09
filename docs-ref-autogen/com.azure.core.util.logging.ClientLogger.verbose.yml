@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.verbose(String message)"
   name: "verbose(String message)"
   nameWithType: "ClientLogger.verbose(String message)"
-  summary: "Logs a message at <code>verbose</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging a message at verbose log level.</p>\n\n <pre>\n logger.verbose&#40;&quot;A log message&quot;&#41;;\n </pre>"
+  summary: "Logs a message at `verbose` log level.\n\n**Code samples**\n\nLogging a message at verbose log level.\n\n```java\nlogger.verbose(\"A log message\");\n```"
   parameters:
   - description: "The message to log."
     name: "message"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.verbose(String format, Object[] args)"
   name: "verbose(String format, Object[] args)"
   nameWithType: "ClientLogger.verbose(String format, Object[] args)"
-  summary: "Logs a formattable message that uses <code>{}</code> as the placeholder at <code>verbose</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging a message at verbose log level.</p>\n\n <pre>\n logger.verbose&#40;&quot;A formattable message. Hello, &#123;&#125;&quot;, name&#41;;\n </pre>"
+  summary: "Logs a formattable message that uses `{}` as the placeholder at `verbose` log level.\n\n**Code samples**\n\nLogging a message at verbose log level.\n\n```java\nlogger.verbose(\"A formattable message. Hello, {}\", name);\n```"
   parameters:
   - description: "The formattable message to log."
     name: "format"

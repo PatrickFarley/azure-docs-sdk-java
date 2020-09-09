@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.DictionaryDecompounderTokenFilter.setMaxSubwordSize(Integer maxSubwordSize)"
   name: "setMaxSubwordSize(Integer maxSubwordSize)"
   nameWithType: "DictionaryDecompounderTokenFilter.setMaxSubwordSize(Integer maxSubwordSize)"
-  summary: "Set the maxSubwordSize property: The maximum subword size. Only subwords\n shorter than this are outputted. Default is 15. Maximum is 300."
+  summary: "Set the maxSubwordSize property: The maximum subword size. Only subwords shorter than this are outputted. Default is 15. Maximum is 300."
   parameters:
   - description: "the maxSubwordSize value to set."
     name: "maxSubwordSize"

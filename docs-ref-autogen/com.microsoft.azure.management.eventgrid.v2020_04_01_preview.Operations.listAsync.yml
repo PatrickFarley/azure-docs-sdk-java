@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.Operations.listAsync()"
   name: "listAsync()"
   nameWithType: "Operations.listAsync()"
-  summary: "List available operations.\n List the available operations supported by the Microsoft.EventGrid resource provider."
+  summary: "List available operations. List the available operations supported by the Microsoft.EventGrid resource provider."
   syntax: "public abstract Observable<Operation> listAsync()"
   returns:
     description: "the observable for the request"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.retainFrom(CharSequence sequence)"
   name: "retainFrom(CharSequence sequence)"
   nameWithType: "CharMatcher.retainFrom(CharSequence sequence)"
-  summary: "Returns a string containing all matching BMP characters of a character sequence, in order. For\n example:\n\n <pre><code>\n CharMatcher.is('a').retainFrom(\"bazaar\")\n </code></pre>\n\n ... returns <code>\"aaa\"</code>."
+  summary: "Returns a string containing all matching BMP characters of a character sequence, in order. For example:\n\n```java\nCharMatcher.is('a').retainFrom(\"bazaar\")\n```\n\n... returns `\"aaa\"`."
   parameters:
   - name: "sequence"
     type: "<xref href=\"java.lang.CharSequence?alt=java.lang.CharSequence&text=CharSequence\" data-throw-if-not-resolved=\"False\" />"

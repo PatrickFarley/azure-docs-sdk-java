@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteSourceControlInner.withDeploymentRollbackEnabled(Boolean deploymentRollbackEnabled)"
   name: "withDeploymentRollbackEnabled(Boolean deploymentRollbackEnabled)"
   nameWithType: "SiteSourceControlInner.withDeploymentRollbackEnabled(Boolean deploymentRollbackEnabled)"
-  summary: "Set the deploymentRollbackEnabled property: &lt;code&gt;true&lt;/code&gt; to enable deployment rollback;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the deploymentRollbackEnabled property: <code>true</code> to enable deployment rollback; otherwise, <code>false</code>."
   parameters:
   - description: "the deploymentRollbackEnabled value to set."
     name: "deploymentRollbackEnabled"

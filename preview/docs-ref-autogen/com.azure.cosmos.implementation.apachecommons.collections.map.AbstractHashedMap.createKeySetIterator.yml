@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.createKeySetIterator()"
   name: "createKeySetIterator()"
   nameWithType: "AbstractHashedMap<K,V>.createKeySetIterator()"
-  summary: "Creates a key set iterator.\n Subclasses can override this to return iterators with different properties."
+  summary: "Creates a key set iterator. Subclasses can override this to return iterators with different properties."
   syntax: "protected Iterator<K> createKeySetIterator()"
   returns:
     description: "the keySet iterator"

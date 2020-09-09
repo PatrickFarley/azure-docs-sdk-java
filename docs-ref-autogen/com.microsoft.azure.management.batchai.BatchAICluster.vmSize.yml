@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.BatchAICluster.vmSize()"
   name: "vmSize()"
   nameWithType: "BatchAICluster.vmSize()"
-  summary: "All virtual machines in a cluster are the same size. For information\n about available VM sizes for clusters using images from the Virtual\n Machines Marketplace (see Sizes for Virtual Machines (Linux) or Sizes\n for Virtual Machines (Windows). Batch AI service supports all Azure VM\n sizes except STANDARD_A0 and those with premium storage (STANDARD_GS,\n STANDARD_DS, and STANDARD_DSV2 series)."
+  summary: "All virtual machines in a cluster are the same size. For information about available VM sizes for clusters using images from the Virtual Machines Marketplace (see Sizes for Virtual Machines (Linux) or Sizes for Virtual Machines (Windows). Batch AI service supports all Azure VM sizes except STANDARD\\_A0 and those with premium storage (STANDARD\\_GS, STANDARD\\_DS, and STANDARD\\_DSV2 series)."
   syntax: "public abstract String vmSize()"
   returns:
     description: "the size of the virtual machines in the cluster"

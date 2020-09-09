@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMap.Builder<K,V>.orderEntriesByValue(Comparator<? super V> valueComparator)"
   name: "orderEntriesByValue(Comparator<? super V> valueComparator)"
   nameWithType: "ImmutableSortedMap.Builder<K,V>.orderEntriesByValue(Comparator<? super V> valueComparator)"
-  summary: "Throws an <code>UnsupportedOperationException</code>."
+  summary: "Throws an `UnsupportedOperationException`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableMap.Builder.orderEntriesByValue(java.util.Comparator<? super V>)"
   parameters:
   - name: "valueComparator"

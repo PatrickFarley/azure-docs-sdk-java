@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleAction.withValue(String value)"
   name: "withValue(String value)"
   nameWithType: "ScaleAction.withValue(String value)"
-  summary: "Set the value property: the number of instances that are involved in the scaling action. This value must be 1 or\n greater. The default value is 1."
+  summary: "Set the value property: the number of instances that are involved in the scaling action. This value must be 1 or greater. The default value is 1."
   parameters:
   - description: "the value value to set."
     name: "value"

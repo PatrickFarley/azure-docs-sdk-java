@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithPrimaryInternalLoadBalancer.withoutPrimaryInternalLoadBalancer()"
   name: "withoutPrimaryInternalLoadBalancer()"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithPrimaryInternalLoadBalancer.withoutPrimaryInternalLoadBalancer()"
-  summary: "Specifies that no internal load balancer should be associated with the primary network interfaces of the\n virtual machines in the scale set."
+  summary: "Specifies that no internal load balancer should be associated with the primary network interfaces of the virtual machines in the scale set."
   syntax: "public abstract VirtualMachineScaleSet.DefinitionStages.WithOS withoutPrimaryInternalLoadBalancer()"
   returns:
     description: "the next stage of the definition"

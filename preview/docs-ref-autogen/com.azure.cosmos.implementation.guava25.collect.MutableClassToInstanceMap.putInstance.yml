@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MutableClassToInstanceMap<B>.<T>putInstance(Class<T> type, T value)"
   name: "<T>putInstance(Class<T> type, T value)"
   nameWithType: "MutableClassToInstanceMap<B>.<T>putInstance(Class<T> type, T value)"
-  summary: "Maps the specified class to the specified value. Does <i>not</i> associate this value with any\n of the class's supertypes."
+  summary: "Maps the specified class to the specified value. Does *not* associate this value with any of the class's supertypes."
   parameters:
   - name: "type"
     type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

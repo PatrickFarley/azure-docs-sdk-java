@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathAccessControlEntry.getAccessControlType()"
   name: "getAccessControlType()"
   nameWithType: "PathAccessControlEntry.getAccessControlType()"
-  summary: "Returns the <xref uid=\"AccessControlType\" data-throw-if-not-resolved=\"false\">AccessControlType</xref> for this entry."
+  summary: "Returns the <xref uid=\"com.azure.storage.file.datalake.models.AccessControlType\" data-throw-if-not-resolved=\"false\">AccessControlType</xref> for this entry."
   syntax: "public AccessControlType getAccessControlType()"
   returns:
     description: "The <xref uid=\"com.azure.storage.file.datalake.models.AccessControlType\" data-throw-if-not-resolved=\"false\">AccessControlType</xref> for this entry."

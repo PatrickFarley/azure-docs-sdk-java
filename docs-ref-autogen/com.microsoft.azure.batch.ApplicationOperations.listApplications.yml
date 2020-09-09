@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.ApplicationOperations.listApplications()"
   name: "listApplications()"
   nameWithType: "ApplicationOperations.listApplications()"
-  summary: "Lists the <xref uid=\"ApplicationSummary\" data-throw-if-not-resolved=\"false\">applications</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.ApplicationSummary\" data-throw-if-not-resolved=\"false\">applications</xref> in the Batch account."
   syntax: "public PagedList<ApplicationSummary> listApplications()"
   exceptions:
   - description: "Exception thrown when an error response is received from the Batch service."
@@ -22,7 +22,7 @@ members:
   fullName: "com.microsoft.azure.batch.ApplicationOperations.listApplications(Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listApplications(Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "ApplicationOperations.listApplications(Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"ApplicationSummary\" data-throw-if-not-resolved=\"false\">applications</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.ApplicationSummary\" data-throw-if-not-resolved=\"false\">applications</xref> in the Batch account."
   parameters:
   - description: "A collection of <xref uid=\"com.microsoft.azure.batch.BatchClientBehavior\" data-throw-if-not-resolved=\"false\">BatchClientBehavior</xref> instances that are applied to the Batch service request."
     name: "additionalBehaviors"

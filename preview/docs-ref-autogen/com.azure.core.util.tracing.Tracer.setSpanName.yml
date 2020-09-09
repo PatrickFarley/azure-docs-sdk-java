@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.tracing.Tracer.setSpanName(String spanName, Context context)"
   name: "setSpanName(String spanName, Context context)"
   nameWithType: "Tracer.setSpanName(String spanName, Context context)"
-  summary: "Sets the name for spans that are created.\n\n <p><strong>Code samples</strong></p>\n\n <p>Retrieve the span name of the returned span</p>\n {@codesnippet com.azure.core.util.tracing.setSpanName#string-context}"
+  summary: "Sets the name for spans that are created.\n\n**Code samples**\n\nRetrieve the span name of the returned span\n\n\\{@codesnippet com.azure.core.util.tracing.setSpanName\\#string-context\\}"
   parameters:
   - description: "Name to give the next span."
     name: "spanName"

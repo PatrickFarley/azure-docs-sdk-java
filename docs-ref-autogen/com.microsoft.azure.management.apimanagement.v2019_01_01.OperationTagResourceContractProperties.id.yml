@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.OperationTagResourceContractProperties.id()"
   name: "id()"
   nameWithType: "OperationTagResourceContractProperties.id()"
-  summary: "Get identifier of the operation in form /operations/{operationId}."
+  summary: "Get identifier of the operation in form /operations/\\{operationId\\}."
   syntax: "public String id()"
   returns:
     description: "the id value"

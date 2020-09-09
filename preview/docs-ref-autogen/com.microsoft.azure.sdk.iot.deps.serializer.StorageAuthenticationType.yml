@@ -34,7 +34,7 @@ fields:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.StorageAuthenticationType.KEY"
   name: "KEY"
   nameWithType: "StorageAuthenticationType.KEY"
-  summary: "Use a shared access key for authentication\n This means authentication must be supplied in the storage URI(s)"
+  summary: "Use a shared access key for authentication This means authentication must be supplied in the storage URI(s)"
 methods:
 - uid: "com.microsoft.azure.sdk.iot.deps.serializer.StorageAuthenticationType.valueOf(java.lang.String)"
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.StorageAuthenticationType.valueOf(String name)"

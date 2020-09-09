@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.HashMultimap<K,V>.<K,V>create()"
   name: "<K,V>create()"
   nameWithType: "HashMultimap<K,V>.<K,V>create()"
-  summary: "Creates a new, empty <code>HashMultimap</code> with the default initial capacities.\n\n <p>This method will soon be deprecated in favor of <code>\n MultimapBuilder.hashKeys().hashSetValues().build()</code>."
+  summary: "Creates a new, empty `HashMultimap` with the default initial capacities.\n\nThis method will soon be deprecated in favor of `MultimapBuilder.hashKeys().hashSetValues().build()`."
   syntax: "public static HashMultimap<K,V> <K,V>create()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.HashMultimap?alt=com.azure.cosmos.implementation.guava25.collect.HashMultimap&text=HashMultimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.HashMultimap<K,V>.<K,V>create(Multimap<? extends K,? extends V> multimap)"
   name: "<K,V>create(Multimap<? extends K,? extends V> multimap)"
   nameWithType: "HashMultimap<K,V>.<K,V>create(Multimap<? extends K,? extends V> multimap)"
-  summary: "Constructs a <code>HashMultimap</code> with the same mappings as the specified multimap. If a\n key-value mapping appears multiple times in the input multimap, it only appears once in the\n constructed multimap.\n\n <p>This method will soon be deprecated in favor of <code>\n MultimapBuilder.hashKeys().hashSetValues().build(multimap)</code>."
+  summary: "Constructs a `HashMultimap` with the same mappings as the specified multimap. If a key-value mapping appears multiple times in the input multimap, it only appears once in the constructed multimap.\n\nThis method will soon be deprecated in favor of `MultimapBuilder.hashKeys().hashSetValues().build(multimap)`."
   parameters:
   - description: "the multimap whose contents are copied to this multimap"
     name: "multimap"
@@ -28,7 +28,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.HashMultimap<K,V>.<K,V>create(int expectedKeys, int expectedValuesPerKey)"
   name: "<K,V>create(int expectedKeys, int expectedValuesPerKey)"
   nameWithType: "HashMultimap<K,V>.<K,V>create(int expectedKeys, int expectedValuesPerKey)"
-  summary: "Constructs an empty <code>HashMultimap</code> with enough capacity to hold the specified numbers of\n keys and values without rehashing.\n\n <p>This method will soon be deprecated in favor of <code>\n MultimapBuilder.hashKeys(expectedKeys).hashSetValues(expectedValuesPerKey).build()</code>."
+  summary: "Constructs an empty `HashMultimap` with enough capacity to hold the specified numbers of keys and values without rehashing.\n\nThis method will soon be deprecated in favor of `MultimapBuilder.hashKeys(expectedKeys).hashSetValues(expectedValuesPerKey).build()`."
   parameters:
   - description: "the expected number of distinct keys"
     name: "expectedKeys"

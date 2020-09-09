@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.KeyClientBuilder.pipeline(HttpPipeline pipeline)"
   name: "pipeline(HttpPipeline pipeline)"
   nameWithType: "KeyClientBuilder.pipeline(HttpPipeline pipeline)"
-  summary: "Sets the HTTP pipeline to use for the service client.\n\n If <code>pipeline</code> is set, all other settings are ignored, aside from\n <xref uid=\"KeyClientBuilder#vaultUrl(String)\" data-throw-if-not-resolved=\"false\">vaultUrl</xref> to build <xref uid=\"KeyClient\" data-throw-if-not-resolved=\"false\">KeyClient</xref> or <xref uid=\"KeyAsyncClient\" data-throw-if-not-resolved=\"false\">KeyAsyncClient</xref>."
+  summary: "Sets the HTTP pipeline to use for the service client. If `pipeline` is set, all other settings are ignored, aside from <xref uid=\"com.azure.security.keyvault.keys.KeyClientBuilder.vaultUrl(java.lang.String)\" data-throw-if-not-resolved=\"false\">vaultUrl</xref> to build <xref uid=\"com.azure.security.keyvault.keys.KeyClient\" data-throw-if-not-resolved=\"false\">KeyClient</xref> or <xref uid=\"com.azure.security.keyvault.keys.KeyAsyncClient\" data-throw-if-not-resolved=\"false\">KeyAsyncClient</xref>."
   parameters:
   - description: "The HTTP pipeline to use for sending service requests and receiving responses."
     name: "pipeline"

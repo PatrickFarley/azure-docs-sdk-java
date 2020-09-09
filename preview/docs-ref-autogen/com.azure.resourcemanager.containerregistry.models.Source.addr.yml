@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.Source.addr()"
   name: "addr()"
   nameWithType: "Source.addr()"
-  summary: "Get the addr property: The IP or hostname and the port of the registry node that generated the event. Generally,\n this will be resolved by os.Hostname() along with the running port."
+  summary: "Get the addr property: The IP or hostname and the port of the registry node that generated the event. Generally, this will be resolved by os.Hostname() along with the running port."
   syntax: "public String addr()"
   returns:
     description: "the addr value."

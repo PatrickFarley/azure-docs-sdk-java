@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.reimage(String poolId, String nodeId)"
   name: "reimage(String poolId, String nodeId)"
   nameWithType: "ComputeNodes.reimage(String poolId, String nodeId)"
-  summary: "Reinstalls the operating system on the specified Compute Node.\n You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
+  summary: "Reinstalls the operating system on the specified Compute Node. You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.reimage(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions)"
   name: "reimage(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions)"
   nameWithType: "ComputeNodes.reimage(String poolId, String nodeId, ComputeNodeReimageOption nodeReimageOption, ComputeNodeReimageOptions computeNodeReimageOptions)"
-  summary: "Reinstalls the operating system on the specified Compute Node.\n You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
+  summary: "Reinstalls the operating system on the specified Compute Node. You can reinstall the operating system on a Compute Node only if it is in an idle or running state. This API can be invoked only on Pools created with the cloud service configuration property."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"

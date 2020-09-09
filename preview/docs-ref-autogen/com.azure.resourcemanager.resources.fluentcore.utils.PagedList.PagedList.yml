@@ -14,7 +14,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.utils.PagedList<E>.PagedList(PagedIterable<E> pagedIterable)"
   name: "PagedList(PagedIterable<E> pagedIterable)"
   nameWithType: "PagedList<E>.PagedList(PagedIterable<E> pagedIterable)"
-  summary: "Creates an instance of PagedList from a <xref uid=\"PagedIterable\" data-throw-if-not-resolved=\"false\">PagedIterable</xref>."
+  summary: "Creates an instance of PagedList from a <xref uid=\"com.azure.core.http.rest.PagedIterable\" data-throw-if-not-resolved=\"false\">PagedIterable</xref>."
   parameters:
   - description: "the <xref uid=\"com.azure.core.http.rest.PagedIterable\" data-throw-if-not-resolved=\"false\">PagedIterable</xref> object."
     name: "pagedIterable"

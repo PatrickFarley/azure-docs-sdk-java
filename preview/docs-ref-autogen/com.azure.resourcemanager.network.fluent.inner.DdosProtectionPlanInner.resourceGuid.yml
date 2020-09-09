@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.DdosProtectionPlanInner.resourceGuid()"
   name: "resourceGuid()"
   nameWithType: "DdosProtectionPlanInner.resourceGuid()"
-  summary: "Get the resourceGuid property: The resource GUID property of the DDoS protection plan resource. It uniquely\n identifies the resource, even if the user changes its name or migrate the resource across subscriptions or\n resource groups."
+  summary: "Get the resourceGuid property: The resource GUID property of the DDoS protection plan resource. It uniquely identifies the resource, even if the user changes its name or migrate the resource across subscriptions or resource groups."
   syntax: "public String resourceGuid()"
   returns:
     description: "the resourceGuid value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetSkuTypes.STANDARD_F16"
   name: "STANDARD_F16"
   nameWithType: "VirtualMachineScaleSetSkuTypes.STANDARD_F16"
-  summary: "Static value STANDARD_F16 for VirtualMachineScaleSetSkuTypes."
+  summary: "Static value STANDARD\\_F16 for VirtualMachineScaleSetSkuTypes."
   syntax: "public static final VirtualMachineScaleSetSkuTypes STANDARD_F16"
 type: "field"
 metadata: {}

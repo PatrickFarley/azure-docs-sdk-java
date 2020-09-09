@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.KeyInfo.setStart(String start)"
   name: "setStart(String start)"
   nameWithType: "KeyInfo.setStart(String start)"
-  summary: "Set the start property: The date-time the key is active in ISO 8601 UTC\n time."
+  summary: "Set the start property: The date-time the key is active in ISO 8601 UTC time."
   parameters:
   - description: "the start value to set."
     name: "start"

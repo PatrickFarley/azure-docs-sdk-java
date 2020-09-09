@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_B1MS"
   name: "STANDARD_B1MS"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_B1MS"
-  summary: "Static value Standard_B1ms for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_B1ms for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_B1MS"
 type: "field"
 metadata: {}

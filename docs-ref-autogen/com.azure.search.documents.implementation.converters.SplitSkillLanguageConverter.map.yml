@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SplitSkillLanguageConverter.map(SplitSkillLanguage obj)"
   name: "map(SplitSkillLanguage obj)"
   nameWithType: "SplitSkillLanguageConverter.map(SplitSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage</xref> to enum\n <xref uid=\"SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">SplitSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">SplitSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage?alt=com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage&text=SplitSkillLanguage\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.SplitSkillLanguageConverter.map(SplitSkillLanguage obj)"
   name: "map(SplitSkillLanguage obj)"
   nameWithType: "SplitSkillLanguageConverter.map(SplitSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">SplitSkillLanguage</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">SplitSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.SplitSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.SplitSkillLanguage?alt=com.azure.search.documents.indexes.models.SplitSkillLanguage&text=SplitSkillLanguage\" data-throw-if-not-resolved=\"False\" />"

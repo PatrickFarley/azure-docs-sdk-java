@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusClientBuilder.ServiceBusDeadLetterReceiverClientBuilder.buildClient()"
   name: "buildClient()"
   nameWithType: "ServiceBusClientBuilder.ServiceBusDeadLetterReceiverClientBuilder.buildClient()"
-  summary: "Creates <b>synchronous</b> Service Bus receiver responsible for reading <xref uid=\"ServiceBusMessage\" data-throw-if-not-resolved=\"false\">messages</xref>\n from secondary subqueue, called a dead-letter queue (DLQ)."
+  summary: "Creates **synchronous** Service Bus receiver responsible for reading <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage\" data-throw-if-not-resolved=\"false\">messages</xref> from secondary subqueue, called a dead-letter queue (DLQ)."
   syntax: "public ServiceBusReceiverClient buildClient()"
   returns:
     description: "An new <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceiverClient\" data-throw-if-not-resolved=\"false\">ServiceBusReceiverClient</xref> that receives messages from secondary subqueue, called a\n dead-letter queue (DLQ)."

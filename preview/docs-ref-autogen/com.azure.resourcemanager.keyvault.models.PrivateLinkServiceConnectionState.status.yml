@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.PrivateLinkServiceConnectionState.status()"
   name: "status()"
   nameWithType: "PrivateLinkServiceConnectionState.status()"
-  summary: "Get the status property: Indicates whether the connection has been approved, rejected or removed by the key vault\n owner."
+  summary: "Get the status property: Indicates whether the connection has been approved, rejected or removed by the key vault owner."
   syntax: "public PrivateEndpointServiceConnectionStatus status()"
   returns:
     description: "the status value."

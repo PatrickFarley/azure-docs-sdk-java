@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.query(OutputStream stream, String expression)"
   name: "query(OutputStream stream, String expression)"
   nameWithType: "BlobClientBase.query(OutputStream stream, String expression)"
-  summary: "Queries an entire blob into an output stream.\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/query-blob-contents\">Azure Docs</a></p>\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n ByteArrayOutputStream queryData = new ByteArrayOutputStream&#40;&#41;;\n String expression = &quot;SELECT * from BlobStorage&quot;;\n client.query&#40;queryData, expression&#41;;\n System.out.println&#40;&quot;Query completed.&quot;&#41;;\n </pre>"
+  summary: "Queries an entire blob into an output stream.\n\nFor more information, see the [Azure Docs][]\n\n**Code Samples**\n\n```java\nByteArrayOutputStream queryData = new ByteArrayOutputStream();\n String expression = \"SELECT * from BlobStorage\";\n client.query(queryData, expression);\n System.out.println(\"Query completed.\");\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/query-blob-contents"
   parameters:
   - description: "A non-null <xref uid=\"java.io.OutputStream\" data-throw-if-not-resolved=\"false\">OutputStream</xref> instance where the downloaded data will be written."
     name: "stream"

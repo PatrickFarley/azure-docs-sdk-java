@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerEndpoint.DefinitionStages.WithGeographicLocation<ParentT>.withGeographicLocations(Collection<String> geographicLocationCodes)"
   name: "withGeographicLocations(Collection<String> geographicLocationCodes)"
   nameWithType: "TrafficManagerEndpoint.DefinitionStages.WithGeographicLocation<ParentT>.withGeographicLocations(Collection<String> geographicLocationCodes)"
-  summary: "Specifies the list of geographic location for the endpoint that will be used when the parent profile is\n configured with geographic based routing method <xref uid=\"TrafficRoutingMethod#GEOGRAPHIC\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#GEOGRAPHIC</xref>."
+  summary: "Specifies the list of geographic location for the endpoint that will be used when the parent profile is configured with geographic based routing method <xref uid=\"com.microsoft.azure.management.trafficmanager.TrafficRoutingMethod.GEOGRAPHIC\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#GEOGRAPHIC</xref>."
   parameters:
   - description: "the geographic location codes"
     name: "geographicLocationCodes"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerEndpoint.DefinitionStages.WithGeographicLocation<ParentT>.withGeographicLocations(List<GeographicLocation> geographicLocations)"
   name: "withGeographicLocations(List<GeographicLocation> geographicLocations)"
   nameWithType: "TrafficManagerEndpoint.DefinitionStages.WithGeographicLocation<ParentT>.withGeographicLocations(List<GeographicLocation> geographicLocations)"
-  summary: "Specifies the list of geographic location for the endpoint that will be used when the parent profile is\n configured with geographic based routing method <xref uid=\"TrafficRoutingMethod#GEOGRAPHIC\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#GEOGRAPHIC</xref>."
+  summary: "Specifies the list of geographic location for the endpoint that will be used when the parent profile is configured with geographic based routing method <xref uid=\"com.microsoft.azure.management.trafficmanager.TrafficRoutingMethod.GEOGRAPHIC\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#GEOGRAPHIC</xref>."
   parameters:
   - description: "the geographic locations"
     name: "geographicLocations"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Doubles.join(String separator, double[] array)"
   name: "join(String separator, double[] array)"
   nameWithType: "Doubles.join(String separator, double[] array)"
-  summary: "Returns a string containing the supplied <code>double</code> values, converted to strings as\n specified by <xref uid=\"Double#toString(double)\" data-throw-if-not-resolved=\"false\">Double#toString(double)</xref>, and separated by <code>separator</code>. For example,\n <code>join(\"-\", 1.0, 2.0, 3.0)</code> returns the string <code>\"1.0-2.0-3.0\"</code>.\n\n <p>Note that <xref uid=\"Double#toString(double)\" data-throw-if-not-resolved=\"false\">Double#toString(double)</xref> formats <code>double</code> differently in GWT\n sometimes. In the previous example, it returns the string <code>\"1-2-3\"</code>."
+  summary: "Returns a string containing the supplied `double` values, converted to strings as specified by <xref uid=\"java.lang.Double.toString*\" data-throw-if-not-resolved=\"false\">Double#toString(double)</xref>, and separated by `separator`. For example, `join(\"-\", 1.0, 2.0, 3.0)` returns the string `\"1.0-2.0-3.0\"`.\n\nNote that <xref uid=\"java.lang.Double.toString*\" data-throw-if-not-resolved=\"false\">Double#toString(double)</xref> formats `double` differently in GWT sometimes. In the previous example, it returns the string `\"1-2-3\"`."
   parameters:
   - description: "the text that should appear between consecutive values in the resulting string\n     (but not at the start or end)"
     name: "separator"

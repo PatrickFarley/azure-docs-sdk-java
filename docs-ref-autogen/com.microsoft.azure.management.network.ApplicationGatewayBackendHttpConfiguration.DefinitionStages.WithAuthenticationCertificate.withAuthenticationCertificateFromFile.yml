@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayBackendHttpConfiguration.DefinitionStages.WithAuthenticationCertificate<ReturnT>.withAuthenticationCertificateFromFile(File certificateFile)"
   name: "withAuthenticationCertificateFromFile(File certificateFile)"
   nameWithType: "ApplicationGatewayBackendHttpConfiguration.DefinitionStages.WithAuthenticationCertificate<ReturnT>.withAuthenticationCertificateFromFile(File certificateFile)"
-  summary: "Associates a new, automatically named certificate with this HTTP backend configuration loaded from the specified file.\n <p>\n Multiple calls to this method will add additional certificate references."
+  summary: "Associates a new, automatically named certificate with this HTTP backend configuration loaded from the specified file.\n\nMultiple calls to this method will add additional certificate references."
   parameters:
   - description: "a file containing the DER format representation of an X.509 certificate"
     name: "certificateFile"

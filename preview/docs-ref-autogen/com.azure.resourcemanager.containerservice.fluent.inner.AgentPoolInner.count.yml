@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.AgentPoolInner.count()"
   name: "count()"
   nameWithType: "AgentPoolInner.count()"
-  summary: "Get the count property: Number of agents (VMs) to host docker containers. Allowed values must be in the range of\n 1 to 100 (inclusive). The default value is 1."
+  summary: "Get the count property: Number of agents (VMs) to host docker containers. Allowed values must be in the range of 1 to 100 (inclusive). The default value is 1."
   syntax: "public Integer count()"
   returns:
     description: "the count value."

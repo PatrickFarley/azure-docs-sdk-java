@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PathHierarchyTokenizer.getReplacement()"
   name: "getReplacement()"
   nameWithType: "PathHierarchyTokenizer.getReplacement()"
-  summary: "Get the replacement property: A value that, if set, replaces the\n delimiter character. Default is \"/\"."
+  summary: "Get the replacement property: A value that, if set, replaces the delimiter character. Default is \"/\"."
   syntax: "public Character getReplacement()"
   returns:
     description: "the replacement value."

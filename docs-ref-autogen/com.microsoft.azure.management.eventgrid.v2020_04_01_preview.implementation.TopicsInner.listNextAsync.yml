@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listNextAsync(String nextPageLink)"
   name: "listNextAsync(String nextPageLink)"
   nameWithType: "TopicsInner.listNextAsync(String nextPageLink)"
-  summary: "List topics under an Azure subscription.\n List all the topics under an Azure subscription."
+  summary: "List topics under an Azure subscription. List all the topics under an Azure subscription."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listNextAsync(String nextPageLink, ServiceFuture<List<TopicInner>> serviceFuture, ListOperationCallback<TopicInner> serviceCallback)"
   name: "listNextAsync(String nextPageLink, ServiceFuture<List<TopicInner>> serviceFuture, ListOperationCallback<TopicInner> serviceCallback)"
   nameWithType: "TopicsInner.listNextAsync(String nextPageLink, ServiceFuture<List<TopicInner>> serviceFuture, ListOperationCallback<TopicInner> serviceCallback)"
-  summary: "List topics under an Azure subscription.\n List all the topics under an Azure subscription."
+  summary: "List topics under an Azure subscription. List all the topics under an Azure subscription."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

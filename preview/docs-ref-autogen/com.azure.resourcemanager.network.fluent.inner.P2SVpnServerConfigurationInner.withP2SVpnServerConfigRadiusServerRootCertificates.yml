@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnServerConfigurationInner.withP2SVpnServerConfigRadiusServerRootCertificates(List<P2SVpnServerConfigRadiusServerRootCertificate> p2SVpnServerConfigRadiusServerRootCertificates)"
   name: "withP2SVpnServerConfigRadiusServerRootCertificates(List<P2SVpnServerConfigRadiusServerRootCertificate> p2SVpnServerConfigRadiusServerRootCertificates)"
   nameWithType: "P2SVpnServerConfigurationInner.withP2SVpnServerConfigRadiusServerRootCertificates(List<P2SVpnServerConfigRadiusServerRootCertificate> p2SVpnServerConfigRadiusServerRootCertificates)"
-  summary: "Set the p2SVpnServerConfigRadiusServerRootCertificates property: Radius Server root certificate of\n P2SVpnServerConfiguration."
+  summary: "Set the p2SVpnServerConfigRadiusServerRootCertificates property: Radius Server root certificate of P2SVpnServerConfiguration."
   parameters:
   - description: "the p2SVpnServerConfigRadiusServerRootCertificates value to\n     set."
     name: "p2SVpnServerConfigRadiusServerRootCertificates"

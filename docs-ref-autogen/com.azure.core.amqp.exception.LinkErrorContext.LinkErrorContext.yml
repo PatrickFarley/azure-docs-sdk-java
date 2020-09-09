@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.exception.LinkErrorContext.LinkErrorContext(String namespace, String entityPath, String trackingId, Integer linkCredit)"
   name: "LinkErrorContext(String namespace, String entityPath, String trackingId, Integer linkCredit)"
   nameWithType: "LinkErrorContext.LinkErrorContext(String namespace, String entityPath, String trackingId, Integer linkCredit)"
-  summary: "Creates a new instance with the AMQP link's <code>namespace</code> and <code>entityPath</code> information. Allows for\n optional information about the link if it was successfully opened such as <code>linkCredit</code> and\n <code>trackingId</code>."
+  summary: "Creates a new instance with the AMQP link's `namespace` and `entityPath` information. Allows for optional information about the link if it was successfully opened such as `linkCredit` and `trackingId`."
   parameters:
   - description: "The service namespace of the error context."
     name: "namespace"

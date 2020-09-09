@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.entitysearch.BingEntities.search()"
   name: "search()"
   nameWithType: "BingEntities.search()"
-  summary: "The Entity Search API lets you send a search query to Bing and get back search results that include entities\n   and places. Place results include restaurants, hotel, or other local businesses. For places, the query can\n   specify the name of the local business or it can ask for a list (for example, restaurants near me). Entity\n   results include persons, places, or things. Place in this context is tourist attractions, states, countries,\n   etc."
+  summary: "The Entity Search API lets you send a search query to Bing and get back search results that include entities and places. Place results include restaurants, hotel, or other local businesses. For places, the query can specify the name of the local business or it can ask for a list (for example, restaurants near me). Entity results include persons, places, or things. Place in this context is tourist attractions, states, countries, etc."
   syntax: "public abstract BingEntities.BingEntitiesSearchDefinitionStages.WithQuery search()"
   returns:
     description: "the first stage of the search call"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.entitysearch.BingEntities.search(String query, SearchOptionalParameter searchOptionalParameter)"
   name: "search(String query, SearchOptionalParameter searchOptionalParameter)"
   nameWithType: "BingEntities.search(String query, SearchOptionalParameter searchOptionalParameter)"
-  summary: "The Entity Search API lets you send a search query to Bing and get back search results that include entities\n   and places. Place results include restaurants, hotel, or other local businesses. For places, the query can\n   specify the name of the local business or it can ask for a list (for example, restaurants near me). Entity\n   results include persons, places, or things. Place in this context is tourist attractions, states, countries,\n   etc."
+  summary: "The Entity Search API lets you send a search query to Bing and get back search results that include entities and places. Place results include restaurants, hotel, or other local businesses. For places, the query can specify the name of the local business or it can ask for a list (for example, restaurants near me). Entity results include persons, places, or things. Place in this context is tourist attractions, states, countries, etc."
   parameters:
   - description: "The user's search term."
     name: "query"

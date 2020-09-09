@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexingSchedule.setStartTime(OffsetDateTime startTime)"
   name: "setStartTime(OffsetDateTime startTime)"
   nameWithType: "IndexingSchedule.setStartTime(OffsetDateTime startTime)"
-  summary: "Set the startTime property: The time when an indexer should start\n running."
+  summary: "Set the startTime property: The time when an indexer should start running."
   parameters:
   - description: "the startTime value to set."
     name: "startTime"

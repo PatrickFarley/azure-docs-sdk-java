@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.KeyEncryptionKeyClientBuilder.pipeline(HttpPipeline pipeline)"
   name: "pipeline(HttpPipeline pipeline)"
   nameWithType: "KeyEncryptionKeyClientBuilder.pipeline(HttpPipeline pipeline)"
-  summary: "Sets the HTTP pipeline to use for the service client.\n\n If <code>pipeline</code> is set, all other settings are ignored, aside from jsonWebKey identifier\n or jsonWebKey to build the clients."
+  summary: "Sets the HTTP pipeline to use for the service client. If `pipeline` is set, all other settings are ignored, aside from jsonWebKey identifier or jsonWebKey to build the clients."
   parameters:
   - description: "The HTTP pipeline to use for sending service requests and receiving responses."
     name: "pipeline"

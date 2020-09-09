@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexerWarning.getName()"
   name: "getName()"
   nameWithType: "SearchIndexerWarning.getName()"
-  summary: "Get the name property: The name of the source at which the warning originated. For example, this could refer to a\n particular skill in the attached skillset. This may not be always available."
+  summary: "Get the name property: The name of the source at which the warning originated. For example, this could refer to a particular skill in the attached skillset. This may not be always available."
   syntax: "public String getName()"
   returns:
     description: "the name value."

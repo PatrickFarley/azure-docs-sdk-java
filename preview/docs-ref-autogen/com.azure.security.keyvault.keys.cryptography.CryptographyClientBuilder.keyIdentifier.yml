@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.CryptographyClientBuilder.keyIdentifier(String keyId)"
   name: "keyIdentifier(String keyId)"
   nameWithType: "CryptographyClientBuilder.keyIdentifier(String keyId)"
-  summary: "Sets the identifier of the jsonWebKey from Azure Key Vault to be used for cryptography operations.\n\n <p>If <code>jsonWebKey</code> is provided then that takes precedence over key identifier and gets used for\n cryptography operations.</p>"
+  summary: "Sets the identifier of the jsonWebKey from Azure Key Vault to be used for cryptography operations.\n\nIf `jsonWebKey` is provided then that takes precedence over key identifier and gets used for cryptography operations."
   parameters:
   - description: "The jsonWebKey identifier representing the jsonWebKey stored in jsonWebKey vault."
     name: "keyId"

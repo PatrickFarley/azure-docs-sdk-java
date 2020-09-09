@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listRegionalBySubscriptionSinglePageAsync(String location)"
   name: "listRegionalBySubscriptionSinglePageAsync(String location)"
   nameWithType: "EventSubscriptionsInner.listRegionalBySubscriptionSinglePageAsync(String location)"
-  summary: "List all regional event subscriptions under an Azure subscription.\n List all event subscriptions from the given location under a specific Azure subscription."
+  summary: "List all regional event subscriptions under an Azure subscription. List all event subscriptions from the given location under a specific Azure subscription."
   parameters:
   - description: "Name of the location."
     name: "location"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listRegionalBySubscriptionSinglePageAsync(String location, String filter, Integer top)"
   name: "listRegionalBySubscriptionSinglePageAsync(String location, String filter, Integer top)"
   nameWithType: "EventSubscriptionsInner.listRegionalBySubscriptionSinglePageAsync(String location, String filter, Integer top)"
-  summary: "List all regional event subscriptions under an Azure subscription.\n List all event subscriptions from the given location under a specific Azure subscription.\n\n    ServiceResponse<PageImpl<EventSubscriptionInner>> * @param location Name of the location.\n    ServiceResponse<PageImpl<EventSubscriptionInner>> * @param filter The query used to filter the search results using OData syntax. Filtering is permitted on the 'name' property only and with limited number of OData operations. These operations are: the 'contains' function as well as the following logical operations: not, and, or, eq (for equal), and ne (for not equal). No arithmetic operations are supported. The following is a valid filter example: $filter=contains(namE, 'PATTERN') and name ne 'PATTERN-1'. The following is not a valid filter example: $filter=location eq 'westus'.\n    ServiceResponse<PageImpl<EventSubscriptionInner>> * @param top The number of results to return per page for the list operation. Valid range for top parameter is 1 to 100. If not specified, the default number of results to be returned is 20 items per page."
+  summary: "List all regional event subscriptions under an Azure subscription. List all event subscriptions from the given location under a specific Azure subscription. ServiceResponse> \\* @param location Name of the location. ServiceResponse> \\* @param filter The query used to filter the search results using OData syntax. Filtering is permitted on the 'name' property only and with limited number of OData operations. These operations are: the 'contains' function as well as the following logical operations: not, and, or, eq (for equal), and ne (for not equal). No arithmetic operations are supported. The following is a valid filter example: $filter=contains(namE, 'PATTERN') and name ne 'PATTERN-1'. The following is not a valid filter example: $filter=location eq 'westus'. ServiceResponse> \\* @param top The number of results to return per page for the list operation. Valid range for top parameter is 1 to 100. If not specified, the default number of results to be returned is 20 items per page."
   parameters:
   - name: "location"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

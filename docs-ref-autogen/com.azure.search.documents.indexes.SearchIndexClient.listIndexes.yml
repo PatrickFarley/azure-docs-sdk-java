@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.listIndexes()"
   name: "listIndexes()"
   nameWithType: "SearchIndexClient.listIndexes()"
-  summary: "Lists all indexes available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexes. </p>\n\n <pre>\n PagedIterable&lt;SearchIndex&gt; indexes = searchIndexClient.listIndexes&#40;&#41;;\n for &#40;SearchIndex index: indexes&#41; &#123;\n     System.out.printf&#40;&quot;The index name is %s. The etag of index is %s.%n&quot;, index.getName&#40;&#41;,\n         index.getETag&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Lists all indexes available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexes.\n\n```java\nPagedIterable<SearchIndex> indexes = searchIndexClient.listIndexes();\n for (SearchIndex index: indexes) {\n     System.out.printf(\"The index name is %s. The etag of index is %s.%n\", index.getName(),\n         index.getETag());\n }\n```"
   syntax: "public PagedIterable<SearchIndex> listIndexes()"
   returns:
     description: "the list of indexes."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.listIndexes(Context context)"
   name: "listIndexes(Context context)"
   nameWithType: "SearchIndexClient.listIndexes(Context context)"
-  summary: "Lists all indexes available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexes. </p>\n\n <pre>\n PagedIterable&lt;SearchIndex&gt; indexes = searchIndexClient.listIndexes&#40;new Context&#40;key1, value1&#41;&#41;;\n System.out.println&#40;&quot;The status code of the response is&quot;\n     + indexes.iterableByPage&#40;&#41;.iterator&#40;&#41;.next&#40;&#41;.getStatusCode&#40;&#41;&#41;;\n for &#40;SearchIndex index: indexes&#41; &#123;\n     System.out.printf&#40;&quot;The index name is %s. The etag of index is %s.%n&quot;, index.getName&#40;&#41;, index.getETag&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Lists all indexes available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexes.\n\n```java\nPagedIterable<SearchIndex> indexes = searchIndexClient.listIndexes(new Context(key1, value1));\n System.out.println(\"The status code of the response is\"\n     + indexes.iterableByPage().iterator().next().getStatusCode());\n for (SearchIndex index: indexes) {\n     System.out.printf(\"The index name is %s. The etag of index is %s.%n\", index.getName(), index.getETag());\n }\n```"
   parameters:
   - description: "additional context that is passed through the HTTP pipeline during the service call"
     name: "context"

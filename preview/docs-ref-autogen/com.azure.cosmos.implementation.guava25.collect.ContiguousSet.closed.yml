@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ContiguousSet<C>.closed(int lower, int upper)"
   name: "closed(int lower, int upper)"
   nameWithType: "ContiguousSet<C>.closed(int lower, int upper)"
-  summary: "Returns a nonempty contiguous set containing all <code>int</code> values from <code>lower</code>\n (inclusive) to <code>upper</code> (inclusive). (These are the same values contained in <code>\n Range.closed(lower, upper)</code>.)"
+  summary: "Returns a nonempty contiguous set containing all `int` values from `lower` (inclusive) to `upper` (inclusive). (These are the same values contained in `Range.closed(lower, upper)`.)"
   parameters:
   - name: "lower"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ContiguousSet<C>.closed(long lower, long upper)"
   name: "closed(long lower, long upper)"
   nameWithType: "ContiguousSet<C>.closed(long lower, long upper)"
-  summary: "Returns a nonempty contiguous set containing all <code>long</code> values from <code>lower</code>\n (inclusive) to <code>upper</code> (inclusive). (These are the same values contained in <code>\n Range.closed(lower, upper)</code>.)"
+  summary: "Returns a nonempty contiguous set containing all `long` values from `lower` (inclusive) to `upper` (inclusive). (These are the same values contained in `Range.closed(lower, upper)`.)"
   parameters:
   - name: "lower"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

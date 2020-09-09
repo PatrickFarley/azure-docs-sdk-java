@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.AgentPoolInner.withScaleSetPriority(ScaleSetPriority scaleSetPriority)"
   name: "withScaleSetPriority(ScaleSetPriority scaleSetPriority)"
   nameWithType: "AgentPoolInner.withScaleSetPriority(ScaleSetPriority scaleSetPriority)"
-  summary: "Set the scaleSetPriority property: ScaleSetPriority to be used to specify virtual machine scale set priority.\n Default to regular."
+  summary: "Set the scaleSetPriority property: ScaleSetPriority to be used to specify virtual machine scale set priority. Default to regular."
   parameters:
   - description: "the scaleSetPriority value to set."
     name: "scaleSetPriority"

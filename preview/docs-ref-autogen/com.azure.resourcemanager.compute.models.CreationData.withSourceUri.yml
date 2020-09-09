@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.CreationData.withSourceUri(String sourceUri)"
   name: "withSourceUri(String sourceUri)"
   nameWithType: "CreationData.withSourceUri(String sourceUri)"
-  summary: "Set the sourceUri property: If createOption is Import, this is the URI of a blob to be imported into a managed\n disk."
+  summary: "Set the sourceUri property: If createOption is Import, this is the URI of a blob to be imported into a managed disk."
   parameters:
   - description: "the sourceUri value to set."
     name: "sourceUri"

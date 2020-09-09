@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.listSynonymMaps()"
   name: "listSynonymMaps()"
   nameWithType: "SearchIndexClient.listSynonymMaps()"
-  summary: "Lists all synonym maps available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all synonym maps. </p>\n\n <pre>\n PagedIterable&lt;SynonymMap&gt; synonymMaps = searchIndexClient.listSynonymMaps&#40;&#41;;\n for &#40;SynonymMap synonymMap: synonymMaps&#41; &#123;\n     System.out.printf&#40;&quot;The synonymMap name is %s. The etag of synonymMap is %s.%n&quot;, synonymMap.getName&#40;&#41;,\n         synonymMap.getETag&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Lists all synonym maps available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all synonym maps.\n\n```java\nPagedIterable<SynonymMap> synonymMaps = searchIndexClient.listSynonymMaps();\n for (SynonymMap synonymMap: synonymMaps) {\n     System.out.printf(\"The synonymMap name is %s. The etag of synonymMap is %s.%n\", synonymMap.getName(),\n         synonymMap.getETag());\n }\n```"
   syntax: "public PagedIterable<SynonymMap> listSynonymMaps()"
   returns:
     description: "the list of synonym maps."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.listSynonymMaps(Context context)"
   name: "listSynonymMaps(Context context)"
   nameWithType: "SearchIndexClient.listSynonymMaps(Context context)"
-  summary: "Lists all synonym maps available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all synonym maps. </p>\n\n <pre>\n PagedIterable&lt;SynonymMap&gt; synonymMaps = searchIndexClient.listSynonymMaps&#40;new Context&#40;key1, value1&#41;&#41;;\n System.out.println&#40;&quot;The status code of the response is&quot;\n     + synonymMaps.iterableByPage&#40;&#41;.iterator&#40;&#41;.next&#40;&#41;.getStatusCode&#40;&#41;&#41;;\n for &#40;SynonymMap index: synonymMaps&#41; &#123;\n     System.out.printf&#40;&quot;The index name is %s. The etag of index is %s.%n&quot;, index.getName&#40;&#41;, index.getETag&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Lists all synonym maps available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all synonym maps.\n\n```java\nPagedIterable<SynonymMap> synonymMaps = searchIndexClient.listSynonymMaps(new Context(key1, value1));\n System.out.println(\"The status code of the response is\"\n     + synonymMaps.iterableByPage().iterator().next().getStatusCode());\n for (SynonymMap index: synonymMaps) {\n     System.out.printf(\"The index name is %s. The etag of index is %s.%n\", index.getName(), index.getETag());\n }\n```"
   parameters:
   - description: "additional context that is passed through the HTTP pipeline during the service call"
     name: "context"

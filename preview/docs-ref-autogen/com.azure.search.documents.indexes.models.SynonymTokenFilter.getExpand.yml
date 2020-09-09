@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SynonymTokenFilter.getExpand()"
   name: "getExpand()"
   nameWithType: "SynonymTokenFilter.getExpand()"
-  summary: "Get the expand property: A value indicating whether all words in the\n list of synonyms (if =&gt; notation is not used) will map to one\n another. If true, all words in the list of synonyms (if =&gt; notation\n is not used) will map to one another. The following list: incredible,\n unbelievable, fabulous, amazing is equivalent to: incredible,\n unbelievable, fabulous, amazing =&gt; incredible, unbelievable,\n fabulous, amazing. If false, the following list: incredible,\n unbelievable, fabulous, amazing will be equivalent to: incredible,\n unbelievable, fabulous, amazing =&gt; incredible. Default is true."
+  summary: "Get the expand property: A value indicating whether all words in the list of synonyms (if => notation is not used) will map to one another. If true, all words in the list of synonyms (if => notation is not used) will map to one another. The following list: incredible, unbelievable, fabulous, amazing is equivalent to: incredible, unbelievable, fabulous, amazing => incredible, unbelievable, fabulous, amazing. If false, the following list: incredible, unbelievable, fabulous, amazing will be equivalent to: incredible, unbelievable, fabulous, amazing => incredible. Default is true."
   syntax: "public Boolean getExpand()"
   returns:
     description: "the expand value."

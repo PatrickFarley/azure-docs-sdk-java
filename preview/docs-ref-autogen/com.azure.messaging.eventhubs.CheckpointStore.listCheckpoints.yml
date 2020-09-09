@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.CheckpointStore.listCheckpoints(String fullyQualifiedNamespace, String eventHubName, String consumerGroup)"
   name: "listCheckpoints(String fullyQualifiedNamespace, String eventHubName, String consumerGroup)"
   nameWithType: "CheckpointStore.listCheckpoints(String fullyQualifiedNamespace, String eventHubName, String consumerGroup)"
-  summary: "Called to get the list of checkpoints from the underlying data store. This method could return empty results if\n there are no checkpoints available in the data store."
+  summary: "Called to get the list of checkpoints from the underlying data store. This method could return empty results if there are no checkpoints available in the data store."
   parameters:
   - description: "The fully qualified namespace of the Event Hub."
     name: "fullyQualifiedNamespace"

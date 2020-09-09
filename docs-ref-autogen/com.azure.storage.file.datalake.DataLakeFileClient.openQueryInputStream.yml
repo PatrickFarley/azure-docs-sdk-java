@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileClient.openQueryInputStream(String expression)"
   name: "openQueryInputStream(String expression)"
   nameWithType: "DataLakeFileClient.openQueryInputStream(String expression)"
-  summary: "Opens an input stream to query the file.\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/query-blob-contents\">Azure Docs</a></p>\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n String expression = &quot;SELECT * from BlobStorage&quot;;\n InputStream inputStream = client.openQueryInputStream&#40;expression&#41;;\n &#47;&#47; Now you can read from the input stream like you would normally.\n </pre>"
+  summary: "Opens an input stream to query the file.\n\nFor more information, see the [Azure Docs][]\n\n**Code Samples**\n\n```java\nString expression = \"SELECT * from BlobStorage\";\n InputStream inputStream = client.openQueryInputStream(expression);\n // Now you can read from the input stream like you would normally.\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/query-blob-contents"
   parameters:
   - description: "The query expression."
     name: "expression"

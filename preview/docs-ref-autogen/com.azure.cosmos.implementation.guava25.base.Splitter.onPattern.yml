@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.onPattern(String separatorPattern)"
   name: "onPattern(String separatorPattern)"
   nameWithType: "Splitter.onPattern(String separatorPattern)"
-  summary: "Returns a splitter that considers any subsequence matching a given pattern (regular expression)\n to be a separator. For example, <code>Splitter.onPattern(\"\\r?\\n\").split(entireFile)</code> splits a\n string into lines whether it uses DOS-style or UNIX-style line terminators. This is equivalent\n to <code>Splitter.on(Pattern.compile(pattern))</code>."
+  summary: "Returns a splitter that considers any subsequence matching a given pattern (regular expression) to be a separator. For example, `Splitter.onPattern(\"\\r?\\n\").split(entireFile)` splits a string into lines whether it uses DOS-style or UNIX-style line terminators. This is equivalent to `Splitter.on(Pattern.compile(pattern))`."
   parameters:
   - description: "the pattern that determines whether a subsequence is a separator. This\n     pattern may not match the empty string."
     name: "separatorPattern"

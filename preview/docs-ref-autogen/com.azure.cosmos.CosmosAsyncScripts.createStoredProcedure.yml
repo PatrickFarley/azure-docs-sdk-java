@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncScripts.createStoredProcedure(CosmosStoredProcedureProperties properties)"
   name: "createStoredProcedure(CosmosStoredProcedureProperties properties)"
   nameWithType: "CosmosAsyncScripts.createStoredProcedure(CosmosStoredProcedureProperties properties)"
-  summary: "Creates a cosmos stored procedure.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single cosmos stored procedure response with the\n created cosmos stored procedure.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a cosmos stored procedure.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single cosmos stored procedure response with the created cosmos stored procedure. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the cosmos stored procedure properties."
     name: "properties"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncScripts.createStoredProcedure(CosmosStoredProcedureProperties properties, CosmosStoredProcedureRequestOptions options)"
   name: "createStoredProcedure(CosmosStoredProcedureProperties properties, CosmosStoredProcedureRequestOptions options)"
   nameWithType: "CosmosAsyncScripts.createStoredProcedure(CosmosStoredProcedureProperties properties, CosmosStoredProcedureRequestOptions options)"
-  summary: "Creates a cosmos stored procedure.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single cosmos stored procedure response with the\n created cosmos stored procedure.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Creates a cosmos stored procedure.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single cosmos stored procedure response with the created cosmos stored procedure. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the cosmos stored procedure properties."
     name: "properties"

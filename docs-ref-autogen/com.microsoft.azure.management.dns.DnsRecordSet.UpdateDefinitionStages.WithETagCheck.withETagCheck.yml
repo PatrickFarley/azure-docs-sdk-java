@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.dns.DnsRecordSet.UpdateDefinitionStages.WithETagCheck<ParentT>.withETagCheck()"
   name: "withETagCheck()"
   nameWithType: "DnsRecordSet.UpdateDefinitionStages.WithETagCheck<ParentT>.withETagCheck()"
-  summary: "Specifies that If-None-Match header needs to set to * to prevent updating an existing record set."
+  summary: "Specifies that If-None-Match header needs to set to \\* to prevent updating an existing record set."
   syntax: "public abstract DnsRecordSet.UpdateDefinitionStages.WithAttach<ParentT> withETagCheck()"
   returns:
     description: "the next stage of the definition"

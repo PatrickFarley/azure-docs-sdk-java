@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SplitSkill.setTextSplitMode(TextSplitMode textSplitMode)"
   name: "setTextSplitMode(TextSplitMode textSplitMode)"
   nameWithType: "SplitSkill.setTextSplitMode(TextSplitMode textSplitMode)"
-  summary: "Set the textSplitMode property: A value indicating which split mode to\n perform. Possible values include: 'Pages', 'Sentences'."
+  summary: "Set the textSplitMode property: A value indicating which split mode to perform. Possible values include: 'Pages', 'Sentences'."
   parameters:
   - description: "the textSplitMode value to set."
     name: "textSplitMode"

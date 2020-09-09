@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.DatabaseAccountUpdateParameters.withTags(Map<String,String> tags)"
   name: "withTags(Map<String,String> tags)"
   nameWithType: "DatabaseAccountUpdateParameters.withTags(Map<String,String> tags)"
-  summary: "Set the tags property: Tags are a list of key-value pairs that describe the resource. These tags can be used in\n viewing and grouping this resource (across resource groups). A maximum of 15 tags can be provided for a resource.\n Each tag must have a key no greater than 128 characters and value no greater than 256 characters. For example,\n the default experience for a template type is set with \"defaultExperience\": \"Cassandra\". Current\n \"defaultExperience\" values also include \"Table\", \"Graph\", \"DocumentDB\", and \"MongoDB\"."
+  summary: "Set the tags property: Tags are a list of key-value pairs that describe the resource. These tags can be used in viewing and grouping this resource (across resource groups). A maximum of 15 tags can be provided for a resource. Each tag must have a key no greater than 128 characters and value no greater than 256 characters. For example, the default experience for a template type is set with \"defaultExperience\": \"Cassandra\". Current \"defaultExperience\" values also include \"Table\", \"Graph\", \"DocumentDB\", and \"MongoDB\"."
   parameters:
   - description: "the tags value to set."
     name: "tags"

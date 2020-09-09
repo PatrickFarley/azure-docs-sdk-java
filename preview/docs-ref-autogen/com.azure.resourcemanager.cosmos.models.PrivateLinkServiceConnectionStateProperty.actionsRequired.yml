@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.PrivateLinkServiceConnectionStateProperty.actionsRequired()"
   name: "actionsRequired()"
   nameWithType: "PrivateLinkServiceConnectionStateProperty.actionsRequired()"
-  summary: "Get the actionsRequired property: Any action that is required beyond basic workflow (approve/ reject/\n disconnect)."
+  summary: "Get the actionsRequired property: Any action that is required beyond basic workflow (approve/ reject/ disconnect)."
   syntax: "public String actionsRequired()"
   returns:
     description: "the actionsRequired value."

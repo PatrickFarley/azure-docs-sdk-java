@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Maps.<K,V>newIdentityHashMap()"
   name: "<K,V>newIdentityHashMap()"
   nameWithType: "Maps.<K,V>newIdentityHashMap()"
-  summary: "Creates an <code>IdentityHashMap</code> instance.\n\n <p><b>Note for Java 7 and later:</b> this method is now unnecessary and should be treated as\n deprecated. Instead, use the <code>IdentityHashMap</code> constructor directly, taking advantage of\n the new <a href=\"http://goo.gl/iz2Wi\">\"diamond\" syntax</a>."
+  summary: "Creates an `IdentityHashMap` instance.\n\n**Note for Java 7 and later:** this method is now unnecessary and should be treated as deprecated. Instead, use the `IdentityHashMap` constructor directly, taking advantage of the new [\"diamond\" syntax][diamond_ syntax].\n\n\n[diamond_ syntax]: http://goo.gl/iz2Wi"
   syntax: "public static IdentityHashMap<K,V> <K,V>newIdentityHashMap()"
   returns:
     description: "a new, empty <code>IdentityHashMap</code>"

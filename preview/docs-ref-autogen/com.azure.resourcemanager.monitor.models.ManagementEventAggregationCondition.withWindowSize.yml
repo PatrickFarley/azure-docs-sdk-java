@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ManagementEventAggregationCondition.withWindowSize(Duration windowSize)"
   name: "withWindowSize(Duration windowSize)"
   nameWithType: "ManagementEventAggregationCondition.withWindowSize(Duration windowSize)"
-  summary: "Set the windowSize property: the period of time (in ISO 8601 duration format) that is used to monitor alert\n activity based on the threshold. If specified then it must be between 5 minutes and 1 day."
+  summary: "Set the windowSize property: the period of time (in ISO 8601 duration format) that is used to monitor alert activity based on the threshold. If specified then it must be between 5 minutes and 1 day."
   parameters:
   - description: "the windowSize value to set."
     name: "windowSize"

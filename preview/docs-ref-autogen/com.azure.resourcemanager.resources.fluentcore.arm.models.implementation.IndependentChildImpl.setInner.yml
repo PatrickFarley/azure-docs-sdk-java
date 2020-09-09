@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.implementation.IndependentChildImpl<FluentModelT,FluentParentModelT,InnerModelT,FluentModelImplT,ManagerT>.setInner(InnerModelT inner)"
   name: "setInner(InnerModelT inner)"
   nameWithType: "IndependentChildImpl<FluentModelT,FluentParentModelT,InnerModelT,FluentModelImplT,ManagerT>.setInner(InnerModelT inner)"
-  summary: "Set the wrapped inner model.\n (For internal use only)"
+  summary: "Set the wrapped inner model. (For internal use only)"
   overridden: "com.azure.resourcemanager.resources.fluentcore.model.implementation.IndexableRefreshableWrapperImpl.setInner(InnerModelT)"
   parameters:
   - name: "inner"

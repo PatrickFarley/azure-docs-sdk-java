@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.size(Iterable<?> iterable)"
   name: "size(Iterable<?> iterable)"
   nameWithType: "Iterables.size(Iterable<?> iterable)"
-  summary: "Returns the number of elements in <code>iterable</code>."
+  summary: "Returns the number of elements in `iterable`."
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

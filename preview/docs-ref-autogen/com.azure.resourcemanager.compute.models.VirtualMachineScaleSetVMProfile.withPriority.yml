@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetVMProfile.withPriority(VirtualMachinePriorityTypes priority)"
   name: "withPriority(VirtualMachinePriorityTypes priority)"
   nameWithType: "VirtualMachineScaleSetVMProfile.withPriority(VirtualMachinePriorityTypes priority)"
-  summary: "Set the priority property: Specifies the priority for the virtual machines in the scale set.\n &lt;br&gt;&lt;br&gt;Minimum api-version: 2017-10-30-preview."
+  summary: "Set the priority property: Specifies the priority for the virtual machines in the scale set. <br><br>Minimum api-version: 2017-10-30-preview."
   parameters:
   - description: "the priority value to set."
     name: "priority"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.ServiceBusSubscription.DefinitionStages.WithMessageMovedToDeadLetterSubscriptionOnMaxDeliveryCount.withMessageMovedToDeadLetterSubscriptionOnMaxDeliveryCount(int deliveryCount)"
   name: "withMessageMovedToDeadLetterSubscriptionOnMaxDeliveryCount(int deliveryCount)"
   nameWithType: "ServiceBusSubscription.DefinitionStages.WithMessageMovedToDeadLetterSubscriptionOnMaxDeliveryCount.withMessageMovedToDeadLetterSubscriptionOnMaxDeliveryCount(int deliveryCount)"
-  summary: "Specifies maximum number of times a message can be delivered. Once this count has exceeded,\n message will be moved to dead-letter subscription."
+  summary: "Specifies maximum number of times a message can be delivered. Once this count has exceeded, message will be moved to dead-letter subscription."
   parameters:
   - description: "maximum delivery count"
     name: "deliveryCount"

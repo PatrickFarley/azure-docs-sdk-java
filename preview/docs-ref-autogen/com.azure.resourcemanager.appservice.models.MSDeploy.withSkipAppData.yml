@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.MSDeploy.withSkipAppData(Boolean skipAppData)"
   name: "withSkipAppData(Boolean skipAppData)"
   nameWithType: "MSDeploy.withSkipAppData(Boolean skipAppData)"
-  summary: "Set the skipAppData property: Controls whether the MSDeploy operation skips the App_Data directory. If set to\n &lt;code&gt;true&lt;/code&gt;, the existing App_Data directory on the destination will not be deleted, and any\n App_Data directory in the source will be ignored. Setting is &lt;code&gt;false&lt;/code&gt; by default."
+  summary: "Set the skipAppData property: Controls whether the MSDeploy operation skips the App\\_Data directory. If set to <code>true</code>, the existing App\\_Data directory on the destination will not be deleted, and any App\\_Data directory in the source will be ignored. Setting is <code>false</code> by default."
   parameters:
   - description: "the skipAppData value to set."
     name: "skipAppData"

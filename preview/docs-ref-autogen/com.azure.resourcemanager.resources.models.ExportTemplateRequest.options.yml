@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.models.ExportTemplateRequest.options()"
   name: "options()"
   nameWithType: "ExportTemplateRequest.options()"
-  summary: "Get the options property: The export template options. A CSV-formatted list containing zero or more of the\n following: 'IncludeParameterDefaultValue', 'IncludeComments', 'SkipResourceNameParameterization',\n 'SkipAllParameterization'."
+  summary: "Get the options property: The export template options. A CSV-formatted list containing zero or more of the following: 'IncludeParameterDefaultValue', 'IncludeComments', 'SkipResourceNameParameterization', 'SkipAllParameterization'."
   syntax: "public String options()"
   returns:
     description: "the options value."

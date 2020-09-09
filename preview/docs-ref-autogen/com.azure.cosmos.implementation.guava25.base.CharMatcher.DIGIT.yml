@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.digit()"
   name: "digit()"
   nameWithType: "CharMatcher.digit()"
-  summary: "Determines whether a character is a BMP digit according to <a href=\"http://unicode.org/cldr/utility/list-unicodeset.jsp?a=%5Cp%7Bdigit%7D\">Unicode</a>. If\n you only care to match ASCII digits, you can use <code>inRange('0', '9')</code>."
+  summary: "Determines whether a character is a BMP digit according to [Unicode][]. If you only care to match ASCII digits, you can use `inRange('0', '9')`.\n\n\n[Unicode]: http://unicode.org/cldr/utility/list-unicodeset.jsp?a=%5Cp%7Bdigit%7D"
   syntax: "public static CharMatcher digit()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.CharMatcher?alt=com.azure.cosmos.implementation.guava25.base.CharMatcher&text=CharMatcher\" data-throw-if-not-resolved=\"False\" />"

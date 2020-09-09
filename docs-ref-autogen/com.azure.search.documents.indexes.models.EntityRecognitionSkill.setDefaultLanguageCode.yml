@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.EntityRecognitionSkill.setDefaultLanguageCode(EntityRecognitionSkillLanguage defaultLanguageCode)"
   name: "setDefaultLanguageCode(EntityRecognitionSkillLanguage defaultLanguageCode)"
   nameWithType: "EntityRecognitionSkill.setDefaultLanguageCode(EntityRecognitionSkillLanguage defaultLanguageCode)"
-  summary: "Set the defaultLanguageCode property: A value indicating which language\n code to use. Default is en. Possible values include: 'ar', 'cs',\n 'zh-Hans', 'zh-Hant', 'da', 'nl', 'en', 'fi', 'fr', 'de', 'el', 'hu',\n 'it', 'ja', 'ko', 'no', 'pl', 'pt-PT', 'pt-BR', 'ru', 'es', 'sv', 'tr'."
+  summary: "Set the defaultLanguageCode property: A value indicating which language code to use. Default is en. Possible values include: 'ar', 'cs', 'zh-Hans', 'zh-Hant', 'da', 'nl', 'en', 'fi', 'fr', 'de', 'el', 'hu', 'it', 'ja', 'ko', 'no', 'pl', 'pt-PT', 'pt-BR', 'ru', 'es', 'sv', 'tr'."
   parameters:
   - description: "the defaultLanguageCode value to set."
     name: "defaultLanguageCode"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.createOrUpdate(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo)"
   name: "createOrUpdate(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo)"
   nameWithType: "PartnerRegistrationsInner.createOrUpdate(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo)"
-  summary: "Create a partner registration.\n Creates a new partner registration with the specified parameters."
+  summary: "Create a partner registration. Creates a new partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedProcessorBuilderImpl.leaseContainer(CosmosAsyncContainer leaseClient)"
   name: "leaseContainer(CosmosAsyncContainer leaseClient)"
   nameWithType: "ChangeFeedProcessorBuilderImpl.leaseContainer(CosmosAsyncContainer leaseClient)"
-  summary: "Sets an existing <xref uid=\"CosmosAsyncContainer\" data-throw-if-not-resolved=\"false\">CosmosAsyncContainer</xref> to be used to read from the leases collection."
+  summary: "Sets an existing <xref uid=\"com.azure.cosmos.CosmosAsyncContainer\" data-throw-if-not-resolved=\"false\">CosmosAsyncContainer</xref> to be used to read from the leases collection."
   parameters:
   - description: "the instance of <xref uid=\"com.azure.cosmos.CosmosAsyncContainer\" data-throw-if-not-resolved=\"false\">CosmosAsyncContainer</xref> to use."
     name: "leaseClient"

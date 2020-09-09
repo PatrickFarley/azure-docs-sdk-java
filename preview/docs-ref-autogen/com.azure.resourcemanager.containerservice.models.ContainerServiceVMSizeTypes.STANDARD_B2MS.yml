@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceVMSizeTypes.STANDARD_B2MS"
   name: "STANDARD_B2MS"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_B2MS"
-  summary: "Static value Standard_B2ms for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_B2ms for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_B2MS"
 type: "field"
 metadata: {}

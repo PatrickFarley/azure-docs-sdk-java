@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RecommendationInner.states()"
   name: "states()"
   nameWithType: "RecommendationInner.states()"
-  summary: "Get the states property: The list of states of this recommendation. If it's null then it should be considered\n \"Active\"."
+  summary: "Get the states property: The list of states of this recommendation. If it's null then it should be considered \"Active\"."
   syntax: "public List<String> states()"
   returns:
     description: "the states value."

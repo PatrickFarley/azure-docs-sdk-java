@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.useForNull(String nullText)"
   name: "useForNull(String nullText)"
   nameWithType: "Joiner.useForNull(String nullText)"
-  summary: "Returns a joiner with the same behavior as this one, except automatically substituting <code>\n nullText</code> for any provided null elements."
+  summary: "Returns a joiner with the same behavior as this one, except automatically substituting `nullText` for any provided null elements."
   parameters:
   - name: "nullText"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.EncryptionScopesClient.patchWithResponseAsync(String resourceGroupName, String accountName, String encryptionScopeName, EncryptionScopeInner encryptionScope)"
   name: "patchWithResponseAsync(String resourceGroupName, String accountName, String encryptionScopeName, EncryptionScopeInner encryptionScope)"
   nameWithType: "EncryptionScopesClient.patchWithResponseAsync(String resourceGroupName, String accountName, String encryptionScopeName, EncryptionScopeInner encryptionScope)"
-  summary: "Update encryption scope properties as specified in the request body. Update fails if the specified encryption\n scope does not already exist."
+  summary: "Update encryption scope properties as specified in the request body. Update fails if the specified encryption scope does not already exist."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.EncryptionScopesClient.patchWithResponseAsync(String resourceGroupName, String accountName, String encryptionScopeName, EncryptionScopeInner encryptionScope, Context context)"
   name: "patchWithResponseAsync(String resourceGroupName, String accountName, String encryptionScopeName, EncryptionScopeInner encryptionScope, Context context)"
   nameWithType: "EncryptionScopesClient.patchWithResponseAsync(String resourceGroupName, String accountName, String encryptionScopeName, EncryptionScopeInner encryptionScope, Context context)"
-  summary: "Update encryption scope properties as specified in the request body. Update fails if the specified encryption\n scope does not already exist."
+  summary: "Update encryption scope properties as specified in the request body. Update fails if the specified encryption scope does not already exist."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

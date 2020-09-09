@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosClientBuilder.permissions(List<CosmosPermissionProperties> permissions)"
   name: "permissions(List<CosmosPermissionProperties> permissions)"
   nameWithType: "CosmosClientBuilder.permissions(List<CosmosPermissionProperties> permissions)"
-  summary: "Sets the permission list, which contains the\n resource tokens needed to access resources."
+  summary: "Sets the permission list, which contains the resource tokens needed to access resources."
   parameters:
   - description: "Permission list for authentication."
     name: "permissions"

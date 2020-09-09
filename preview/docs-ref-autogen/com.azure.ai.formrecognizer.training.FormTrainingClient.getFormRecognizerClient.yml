@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.training.FormTrainingClient.getFormRecognizerClient()"
   name: "getFormRecognizerClient()"
   nameWithType: "FormTrainingClient.getFormRecognizerClient()"
-  summary: "Creates a new <xref uid=\"FormRecognizerClient\" data-throw-if-not-resolved=\"false\">FormRecognizerClient</xref> object. The new <xref uid=\"FormTrainingClient\" data-throw-if-not-resolved=\"false\">FormTrainingClient</xref>\n uses the same request policy pipeline as the <xref uid=\"FormTrainingClient\" data-throw-if-not-resolved=\"false\">FormTrainingClient</xref>."
+  summary: "Creates a new <xref uid=\"com.azure.ai.formrecognizer.FormRecognizerClient\" data-throw-if-not-resolved=\"false\">FormRecognizerClient</xref> object. The new <xref uid=\"com.azure.ai.formrecognizer.training.FormTrainingClient\" data-throw-if-not-resolved=\"false\">FormTrainingClient</xref> uses the same request policy pipeline as the <xref uid=\"com.azure.ai.formrecognizer.training.FormTrainingClient\" data-throw-if-not-resolved=\"false\">FormTrainingClient</xref>."
   syntax: "public FormRecognizerClient getFormRecognizerClient()"
   returns:
     description: "A new <xref uid=\"com.azure.ai.formrecognizer.FormRecognizerClient\" data-throw-if-not-resolved=\"false\">FormRecognizerClient</xref> object."

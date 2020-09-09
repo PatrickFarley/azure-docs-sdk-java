@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PathHierarchyTokenizer.isTokenOrderReversed()"
   name: "isTokenOrderReversed()"
   nameWithType: "PathHierarchyTokenizer.isTokenOrderReversed()"
-  summary: "Get the reverseTokenOrder property: A value indicating whether to\n generate tokens in reverse order. Default is false."
+  summary: "Get the reverseTokenOrder property: A value indicating whether to generate tokens in reverse order. Default is false."
   syntax: "public Boolean isTokenOrderReversed()"
   returns:
     description: "the reverseTokenOrder value."

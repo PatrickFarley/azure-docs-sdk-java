@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.EnumUtils.<E>getEnumIgnoreCase(Class<E> enumClass, String enumName)"
   name: "<E>getEnumIgnoreCase(Class<E> enumClass, String enumName)"
   nameWithType: "EnumUtils.<E>getEnumIgnoreCase(Class<E> enumClass, String enumName)"
-  summary: "<p>Gets the enum for the class, returning <code>null</code> if not found.</p>\n\n <p>This method differs from <xref uid=\"Enum#valueOf\" data-throw-if-not-resolved=\"false\">Enum#valueOf</xref> in that it does not throw an exception\n for an invalid enum name and performs case insensitive matching of the name.</p>"
+  summary: "Gets the enum for the class, returning `null` if not found.\n\nThis method differs from <xref uid=\"java.lang.Enum.valueOf\" data-throw-if-not-resolved=\"false\">Enum#valueOf</xref> in that it does not throw an exception for an invalid enum name and performs case insensitive matching of the name."
   parameters:
   - description: "the class of the enum to query, not null"
     name: "enumClass"

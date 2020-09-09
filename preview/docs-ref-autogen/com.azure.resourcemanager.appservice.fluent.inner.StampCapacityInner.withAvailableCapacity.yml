@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StampCapacityInner.withAvailableCapacity(Long availableCapacity)"
   name: "withAvailableCapacity(Long availableCapacity)"
   nameWithType: "StampCapacityInner.withAvailableCapacity(Long availableCapacity)"
-  summary: "Set the availableCapacity property: Available capacity (# of machines, bytes of storage etc...)."
+  summary: "Set the availableCapacity property: Available capacity (\\# of machines, bytes of storage etc...)."
   parameters:
   - description: "the availableCapacity value to set."
     name: "availableCapacity"

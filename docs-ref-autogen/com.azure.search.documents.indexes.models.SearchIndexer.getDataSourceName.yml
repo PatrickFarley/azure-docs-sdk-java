@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexer.getDataSourceName()"
   name: "getDataSourceName()"
   nameWithType: "SearchIndexer.getDataSourceName()"
-  summary: "Get the dataSourceName property: The name of the datasource from which\n this indexer reads data."
+  summary: "Get the dataSourceName property: The name of the datasource from which this indexer reads data."
   syntax: "public String getDataSourceName()"
   returns:
     description: "the dataSourceName value."

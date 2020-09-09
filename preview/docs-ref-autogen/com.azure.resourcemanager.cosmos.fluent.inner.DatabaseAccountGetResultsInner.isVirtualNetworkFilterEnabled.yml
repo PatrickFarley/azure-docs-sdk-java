@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.inner.DatabaseAccountGetResultsInner.isVirtualNetworkFilterEnabled()"
   name: "isVirtualNetworkFilterEnabled()"
   nameWithType: "DatabaseAccountGetResultsInner.isVirtualNetworkFilterEnabled()"
-  summary: "Get the isVirtualNetworkFilterEnabled property: Flag to indicate whether to enable/disable Virtual Network ACL\n rules."
+  summary: "Get the isVirtualNetworkFilterEnabled property: Flag to indicate whether to enable/disable Virtual Network ACL rules."
   syntax: "public Boolean isVirtualNetworkFilterEnabled()"
   returns:
     description: "the isVirtualNetworkFilterEnabled value."

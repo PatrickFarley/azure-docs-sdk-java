@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextSentiment.fromString(String name)"
   name: "fromString(String name)"
   nameWithType: "TextSentiment.fromString(String name)"
-  summary: "Creates or finds a <xref uid=\"TextSentiment\" data-throw-if-not-resolved=\"false\">TextSentiment</xref> from its string representation."
+  summary: "Creates or finds a <xref uid=\"com.azure.ai.textanalytics.models.TextSentiment\" data-throw-if-not-resolved=\"false\">TextSentiment</xref> from its string representation."
   parameters:
   - description: "A name to look for."
     name: "name"

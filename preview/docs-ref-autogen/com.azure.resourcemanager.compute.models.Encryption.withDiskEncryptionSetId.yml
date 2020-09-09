@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.Encryption.withDiskEncryptionSetId(String diskEncryptionSetId)"
   name: "withDiskEncryptionSetId(String diskEncryptionSetId)"
   nameWithType: "Encryption.withDiskEncryptionSetId(String diskEncryptionSetId)"
-  summary: "Set the diskEncryptionSetId property: ResourceId of the disk encryption set to use for enabling encryption at\n rest."
+  summary: "Set the diskEncryptionSetId property: ResourceId of the disk encryption set to use for enabling encryption at rest."
   parameters:
   - description: "the diskEncryptionSetId value to set."
     name: "diskEncryptionSetId"

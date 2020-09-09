@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RestoreRequestInner.withAdjustConnectionStrings(Boolean adjustConnectionStrings)"
   name: "withAdjustConnectionStrings(Boolean adjustConnectionStrings)"
   nameWithType: "RestoreRequestInner.withAdjustConnectionStrings(Boolean adjustConnectionStrings)"
-  summary: "Set the adjustConnectionStrings property: &lt;code&gt;true&lt;/code&gt; if SiteConfig.ConnectionStrings should be\n set in new app; otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the adjustConnectionStrings property: <code>true</code> if SiteConfig.ConnectionStrings should be set in new app; otherwise, <code>false</code>."
   parameters:
   - description: "the adjustConnectionStrings value to set."
     name: "adjustConnectionStrings"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.IntMath.saturatedMultiply(int a, int b)"
   name: "saturatedMultiply(int a, int b)"
   nameWithType: "IntMath.saturatedMultiply(int a, int b)"
-  summary: "Returns the product of <code>a</code> and <code>b</code> unless it would overflow or underflow in which\n case <code>Integer.MAX_VALUE</code> or <code>Integer.MIN_VALUE</code> is returned, respectively."
+  summary: "Returns the product of `a` and `b` unless it would overflow or underflow in which case `Integer.MAX_VALUE` or `Integer.MIN_VALUE` is returned, respectively."
   parameters:
   - name: "a"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

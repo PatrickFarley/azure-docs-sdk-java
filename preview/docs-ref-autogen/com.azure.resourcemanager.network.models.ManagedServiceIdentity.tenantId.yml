@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ManagedServiceIdentity.tenantId()"
   name: "tenantId()"
   nameWithType: "ManagedServiceIdentity.tenantId()"
-  summary: "Get the tenantId property: The tenant id of the system assigned identity. This property will only be provided for\n a system assigned identity."
+  summary: "Get the tenantId property: The tenant id of the system assigned identity. This property will only be provided for a system assigned identity."
   syntax: "public String tenantId()"
   returns:
     description: "the tenantId value."

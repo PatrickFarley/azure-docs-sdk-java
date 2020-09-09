@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>mergeSorted(Iterable<? extends Iterator<? extends T>> iterators, Comparator<? super T> comparator)"
   name: "<T>mergeSorted(Iterable<? extends Iterator<? extends T>> iterators, Comparator<? super T> comparator)"
   nameWithType: "Iterators.<T>mergeSorted(Iterable<? extends Iterator<? extends T>> iterators, Comparator<? super T> comparator)"
-  summary: "Returns an iterator over the merged contents of all given <code>iterators</code>, traversing every\n element of the input iterators. Equivalent entries will not be de-duplicated.\n\n <p>Callers must ensure that the source <code>iterators</code> are in non-descending order as this\n method does not sort its input.\n\n <p>For any equivalent elements across all <code>iterators</code>, it is undefined which element is\n returned first."
+  summary: "Returns an iterator over the merged contents of all given `iterators`, traversing every element of the input iterators. Equivalent entries will not be de-duplicated.\n\nCallers must ensure that the source `iterators` are in non-descending order as this method does not sort its input.\n\nFor any equivalent elements across all `iterators`, it is undefined which element is returned first."
   parameters:
   - name: "iterators"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends java.util.Iterator?alt=? extends java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends T?alt=? extends T&text=? extends T\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.TopLevelDomainAgreementOption.withIncludePrivacy(Boolean includePrivacy)"
   name: "withIncludePrivacy(Boolean includePrivacy)"
   nameWithType: "TopLevelDomainAgreementOption.withIncludePrivacy(Boolean includePrivacy)"
-  summary: "Set the includePrivacy property: If &lt;code&gt;true&lt;/code&gt;, then the list of agreements will include\n agreements for domain privacy as well; otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the includePrivacy property: If <code>true</code>, then the list of agreements will include agreements for domain privacy as well; otherwise, <code>false</code>."
   parameters:
   - description: "the includePrivacy value to set."
     name: "includePrivacy"

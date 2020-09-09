@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.sas.PathSasPermission.PathSasPermission()"
   name: "PathSasPermission()"
   nameWithType: "PathSasPermission.PathSasPermission()"
-  summary: "Initializes a <code>PathSasPermission</code> object with all fields set to false."
+  summary: "Initializes a `PathSasPermission` object with all fields set to false."
   syntax: "public PathSasPermission()"
 type: "constructor"
 metadata: {}

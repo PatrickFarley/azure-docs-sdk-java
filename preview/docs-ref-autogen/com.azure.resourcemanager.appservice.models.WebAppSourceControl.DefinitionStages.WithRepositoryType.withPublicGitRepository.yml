@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppSourceControl.DefinitionStages.WithRepositoryType<ParentT>.withPublicGitRepository(String url)"
   name: "withPublicGitRepository(String url)"
   nameWithType: "WebAppSourceControl.DefinitionStages.WithRepositoryType<ParentT>.withPublicGitRepository(String url)"
-  summary: "Specifies the repository to be a public external repository, either Git or Mercurial. Continuous\n integration will not be turned on."
+  summary: "Specifies the repository to be a public external repository, either Git or Mercurial. Continuous integration will not be turned on."
   parameters:
   - description: "the url of the Git repository"
     name: "url"

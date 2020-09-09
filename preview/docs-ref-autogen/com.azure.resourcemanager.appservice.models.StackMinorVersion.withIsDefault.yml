@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StackMinorVersion.withIsDefault(Boolean isDefault)"
   name: "withIsDefault(Boolean isDefault)"
   nameWithType: "StackMinorVersion.withIsDefault(Boolean isDefault)"
-  summary: "Set the isDefault property: &lt;code&gt;true&lt;/code&gt; if this is the default minor version; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the isDefault property: <code>true</code> if this is the default minor version; otherwise, <code>false</code>."
   parameters:
   - description: "the isDefault value to set."
     name: "isDefault"

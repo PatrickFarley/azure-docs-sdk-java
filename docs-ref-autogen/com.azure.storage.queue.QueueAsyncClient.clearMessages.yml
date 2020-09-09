@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueAsyncClient.clearMessages()"
   name: "clearMessages()"
   nameWithType: "QueueAsyncClient.clearMessages()"
-  summary: "Deletes all messages in the queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Clear the messages</p>\n\n <pre>\n client.clearMessages&#40;&#41;.subscribe&#40;\n     response -&gt; System.out.println&#40;&quot;Clearing messages completed.&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/clear-messages\">Azure Docs</a>.</p>"
+  summary: "Deletes all messages in the queue.\n\n**Code Samples**\n\nClear the messages\n\n```java\nclient.clearMessages().subscribe(\n     response -> System.out.println(\"Clearing messages completed.\"));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/clear-messages"
   syntax: "public Mono<Void> clearMessages()"
   returns:
     description: "An empty response"

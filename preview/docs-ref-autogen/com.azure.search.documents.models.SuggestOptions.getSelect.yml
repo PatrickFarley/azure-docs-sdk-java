@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SuggestOptions.getSelect()"
   name: "getSelect()"
   nameWithType: "SuggestOptions.getSelect()"
-  summary: "Get the select property: The list of fields to retrieve. If unspecified,\n only the key field will be included in the results."
+  summary: "Get the select property: The list of fields to retrieve. If unspecified, only the key field will be included in the results."
   syntax: "public List<String> getSelect()"
   returns:
     description: "the select value."

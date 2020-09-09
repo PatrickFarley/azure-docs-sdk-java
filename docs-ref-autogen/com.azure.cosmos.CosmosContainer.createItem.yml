@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosContainer.<T>createItem(T item, CosmosItemRequestOptions options)"
   name: "<T>createItem(T item, CosmosItemRequestOptions options)"
   nameWithType: "CosmosContainer.<T>createItem(T item, CosmosItemRequestOptions options)"
-  summary: "Creates a new item synchronously and returns its respective Cosmos item response\n while specifying additional options.\n <p>\n The partition key value will be automatically extracted from the item's content."
+  summary: "Creates a new item synchronously and returns its respective Cosmos item response while specifying additional options.\n\nThe partition key value will be automatically extracted from the item's content."
   parameters:
   - description: "the item."
     name: "item"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.CosmosContainer.<T>createItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   name: "<T>createItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   nameWithType: "CosmosContainer.<T>createItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
-  summary: "Creates a new item synchronously and returns its respective Cosmos item response\n while specifying additional options."
+  summary: "Creates a new item synchronously and returns its respective Cosmos item response while specifying additional options."
   parameters:
   - description: "the item."
     name: "item"

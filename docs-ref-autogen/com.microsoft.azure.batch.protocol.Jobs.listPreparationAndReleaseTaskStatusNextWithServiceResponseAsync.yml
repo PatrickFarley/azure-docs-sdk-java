@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.listPreparationAndReleaseTaskStatusNextWithServiceResponseAsync(String nextPageLink)"
   name: "listPreparationAndReleaseTaskStatusNextWithServiceResponseAsync(String nextPageLink)"
   nameWithType: "Jobs.listPreparationAndReleaseTaskStatusNextWithServiceResponseAsync(String nextPageLink)"
-  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run.\n This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
+  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run. This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.listPreparationAndReleaseTaskStatusNextWithServiceResponseAsync(String nextPageLink, JobListPreparationAndReleaseTaskStatusNextOptions jobListPreparationAndReleaseTaskStatusNextOptions)"
   name: "listPreparationAndReleaseTaskStatusNextWithServiceResponseAsync(String nextPageLink, JobListPreparationAndReleaseTaskStatusNextOptions jobListPreparationAndReleaseTaskStatusNextOptions)"
   nameWithType: "Jobs.listPreparationAndReleaseTaskStatusNextWithServiceResponseAsync(String nextPageLink, JobListPreparationAndReleaseTaskStatusNextOptions jobListPreparationAndReleaseTaskStatusNextOptions)"
-  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run.\n This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
+  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run. This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

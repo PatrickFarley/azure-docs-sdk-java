@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.time.StopWatch.start()"
   name: "start()"
   nameWithType: "StopWatch.start()"
-  summary: "<p>\n Start the stopwatch.\n </p>\n\n <p>\n This method starts a new timing session, clearing any previous values.\n </p>"
+  summary: "Start the stopwatch.\n\nThis method starts a new timing session, clearing any previous values."
   syntax: "public void start()"
 type: "method"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.OAuth2PermissionGrantInner.principalId()"
   name: "principalId()"
   nameWithType: "OAuth2PermissionGrantInner.principalId()"
-  summary: "Get the principalId property: When consent type is Principal, this property specifies the id of the user that\n granted consent and applies only for that user."
+  summary: "Get the principalId property: When consent type is Principal, this property specifies the id of the user that granted consent and applies only for that user."
   syntax: "public String principalId()"
   returns:
     description: "the principalId value."

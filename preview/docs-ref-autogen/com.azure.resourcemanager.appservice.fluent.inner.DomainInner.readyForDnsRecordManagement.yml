@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DomainInner.readyForDnsRecordManagement()"
   name: "readyForDnsRecordManagement()"
   nameWithType: "DomainInner.readyForDnsRecordManagement()"
-  summary: "Get the readyForDnsRecordManagement property: &lt;code&gt;true&lt;/code&gt; if Azure can assign this domain to\n App Service apps; otherwise, &lt;code&gt;false&lt;/code&gt;. This value will be &lt;code&gt;true&lt;/code&gt; if\n domain registration status is active and it is hosted on name servers Azure has programmatic access to."
+  summary: "Get the readyForDnsRecordManagement property: <code>true</code> if Azure can assign this domain to App Service apps; otherwise, <code>false</code>. This value will be <code>true</code> if domain registration status is active and it is hosted on name servers Azure has programmatic access to."
   syntax: "public Boolean readyForDnsRecordManagement()"
   returns:
     description: "the readyForDnsRecordManagement value."

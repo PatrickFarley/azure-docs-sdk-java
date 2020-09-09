@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.ObjectUtils.notEqual(Object object1, Object object2)"
   name: "notEqual(Object object1, Object object2)"
   nameWithType: "ObjectUtils.notEqual(Object object1, Object object2)"
-  summary: "<p>Compares two objects for inequality, where either one or both\n objects may be <code>null</code>.</p>\n\n <pre>\n ObjectUtils.notEqual(null, null)                  = false\n ObjectUtils.notEqual(null, \"\")                    = true\n ObjectUtils.notEqual(\"\", null)                    = true\n ObjectUtils.notEqual(\"\", \"\")                      = false\n ObjectUtils.notEqual(Boolean.TRUE, null)          = true\n ObjectUtils.notEqual(Boolean.TRUE, \"true\")        = true\n ObjectUtils.notEqual(Boolean.TRUE, Boolean.TRUE)  = false\n ObjectUtils.notEqual(Boolean.TRUE, Boolean.FALSE) = true\n </pre>"
+  summary: "Compares two objects for inequality, where either one or both objects may be `null`.\n\n```java\nObjectUtils.notEqual(null, null)                  = false\n ObjectUtils.notEqual(null, \"\")                    = true\n ObjectUtils.notEqual(\"\", null)                    = true\n ObjectUtils.notEqual(\"\", \"\")                      = false\n ObjectUtils.notEqual(Boolean.TRUE, null)          = true\n ObjectUtils.notEqual(Boolean.TRUE, \"true\")        = true\n ObjectUtils.notEqual(Boolean.TRUE, Boolean.TRUE)  = false\n ObjectUtils.notEqual(Boolean.TRUE, Boolean.FALSE) = true\n```"
   parameters:
   - description: "the first object, may be <code>null</code>"
     name: "object1"

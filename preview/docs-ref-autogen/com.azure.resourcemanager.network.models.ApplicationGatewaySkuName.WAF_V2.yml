@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewaySkuName.WAF_V2"
   name: "WAF_V2"
   nameWithType: "ApplicationGatewaySkuName.WAF_V2"
-  summary: "Static value WAF_v2 for ApplicationGatewaySkuName."
+  summary: "Static value WAF\\_v2 for ApplicationGatewaySkuName."
   syntax: "public static final ApplicationGatewaySkuName WAF_V2"
 type: "field"
 metadata: {}

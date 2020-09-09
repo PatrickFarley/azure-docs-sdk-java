@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.certificates.CertificateAsyncClient.deleteContacts()"
   name: "deleteContacts()"
   nameWithType: "CertificateAsyncClient.deleteContacts()"
-  summary: "Deletes the certificate contacts in the key vault. This operation requires the <code>certificates/managecontacts</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Deletes the certificate contacts in the Azure Key Vault. Prints out the\n deleted contacts details.</p>\n\n <pre>\n certificateAsyncClient.deleteContacts&#40;&#41;.subscribe&#40;contact -&gt;\n     System.out.printf&#40;&quot;Deleted Contact name %s and email %s&quot;, contact.getName&#40;&#41;, contact.getEmail&#40;&#41;&#41;\n &#41;;\n </pre>"
+  summary: "Deletes the certificate contacts in the key vault. This operation requires the `certificates/managecontacts` permission.\n\n**Code Samples**\n\nDeletes the certificate contacts in the Azure Key Vault. Prints out the deleted contacts details.\n\n```java\ncertificateAsyncClient.deleteContacts().subscribe(contact ->\n     System.out.printf(\"Deleted Contact name %s and email %s\", contact.getName(), contact.getEmail())\n );\n```"
   syntax: "public PagedFlux<CertificateContact> deleteContacts()"
   returns:
     description: "A <xref uid=\"com.azure.core.http.rest.PagedFlux\" data-throw-if-not-resolved=\"false\">PagedFlux</xref> containing all of the <xref uid=\"com.azure.security.keyvault.certificates.models.CertificateContact\" data-throw-if-not-resolved=\"false\">deleted certificate contacts</xref> in the vault."

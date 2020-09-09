@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerEndpoint.UpdateStages.WithGeographicLocation.withGeographicLocation(GeographicLocation geographicLocation)"
   name: "withGeographicLocation(GeographicLocation geographicLocation)"
   nameWithType: "TrafficManagerEndpoint.UpdateStages.WithGeographicLocation.withGeographicLocation(GeographicLocation geographicLocation)"
-  summary: "Specifies the geographic location for the endpoint that will be used when the parent profile is configured\n with geographic based routing method."
+  summary: "Specifies the geographic location for the endpoint that will be used when the parent profile is configured with geographic based routing method."
   parameters:
   - description: "the geographic location"
     name: "geographicLocation"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerEndpoint.UpdateStages.WithGeographicLocation.withGeographicLocation(String geographicLocationCode)"
   name: "withGeographicLocation(String geographicLocationCode)"
   nameWithType: "TrafficManagerEndpoint.UpdateStages.WithGeographicLocation.withGeographicLocation(String geographicLocationCode)"
-  summary: "Specifies the geographic location for the endpoint that will be used when the parent profile is configured\n with geographic based routing method."
+  summary: "Specifies the geographic location for the endpoint that will be used when the parent profile is configured with geographic based routing method."
   parameters:
   - description: "the geographic location code"
     name: "geographicLocationCode"

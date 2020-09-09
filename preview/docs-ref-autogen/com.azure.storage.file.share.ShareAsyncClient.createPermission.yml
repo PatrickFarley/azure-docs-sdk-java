@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.createPermission(String filePermission)"
   name: "createPermission(String filePermission)"
   nameWithType: "ShareAsyncClient.createPermission(String filePermission)"
-  summary: "Creates a permission at the share level. If a permission already exists, it returns the key of it, else creates a\n new permission and returns the key.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n shareAsyncClient.createPermission&#40;&quot;filePermission&quot;&#41;.subscribe&#40;\n     response -&gt; System.out.printf&#40;&quot;The file permission key is %s&quot;, response&#41;&#41;;\n </pre>"
+  summary: "Creates a permission at the share level. If a permission already exists, it returns the key of it, else creates a new permission and returns the key.\n\n**Code Samples**\n\n```java\nshareAsyncClient.createPermission(\"filePermission\").subscribe(\n     response -> System.out.printf(\"The file permission key is %s\", response));\n```"
   parameters:
   - description: "The file permission to get/create."
     name: "filePermission"

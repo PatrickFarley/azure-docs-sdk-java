@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromSelectedNetworks()"
   name: "withAccessFromSelectedNetworks()"
   nameWithType: "StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromSelectedNetworks()"
-  summary: "Specifies that by default access to storage account should be denied from all networks except from those\n networks specified via <xref uid=\"WithNetworkAccess#withAccessFromNetworkSubnet(String)\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromNetworkSubnet(String)</xref>, <xref uid=\"WithNetworkAccess#withAccessFromIpAddress(String)\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddress(String)</xref> and <xref uid=\"WithNetworkAccess#withAccessFromIpAddressRange(String)\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddressRange(String)</xref>."
+  summary: "Specifies that by default access to storage account should be denied from all networks except from those networks specified via <xref uid=\"\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromNetworkSubnet(String)</xref>, <xref uid=\"\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddress(String)</xref> and <xref uid=\"\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddressRange(String)</xref>."
   syntax: "public abstract StorageAccount.Update withAccessFromSelectedNetworks()"
   returns:
     description: "the next stage of storage account update"

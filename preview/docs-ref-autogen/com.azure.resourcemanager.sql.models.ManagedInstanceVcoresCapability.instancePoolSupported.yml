@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedInstanceVcoresCapability.instancePoolSupported()"
   name: "instancePoolSupported()"
   nameWithType: "ManagedInstanceVcoresCapability.instancePoolSupported()"
-  summary: "Get the instancePoolSupported property: True if this service objective is supported for managed instances in an\n instance pool."
+  summary: "Get the instancePoolSupported property: True if this service objective is supported for managed instances in an instance pool."
   syntax: "public Boolean instancePoolSupported()"
   returns:
     description: "the instancePoolSupported value."

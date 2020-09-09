@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.Utility.detectContentType(Flux<ByteBuffer> buffer)"
   name: "detectContentType(Flux<ByteBuffer> buffer)"
   nameWithType: "Utility.detectContentType(Flux<ByteBuffer> buffer)"
-  summary: "Automatically detect byte buffer's content type.\n <p>\n Given the source: <a href=\"https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_numbers_in_files\"></a>."
+  summary: "Automatically detect byte buffer's content type.\n\nGiven the source: ."
   parameters:
   - description: "The byte buffer input."
     name: "buffer"

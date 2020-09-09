@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.CategorizedEntityCollection.CategorizedEntityCollection(IterableStream<CategorizedEntity> entities, IterableStream<TextAnalyticsWarning> warnings)"
   name: "CategorizedEntityCollection(IterableStream<CategorizedEntity> entities, IterableStream<TextAnalyticsWarning> warnings)"
   nameWithType: "CategorizedEntityCollection.CategorizedEntityCollection(IterableStream<CategorizedEntity> entities, IterableStream<TextAnalyticsWarning> warnings)"
-  summary: "Creates a <xref uid=\"CategorizedEntityCollection\" data-throw-if-not-resolved=\"false\">CategorizedEntityCollection</xref> model that describes a entities collection including warnings."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.CategorizedEntityCollection\" data-throw-if-not-resolved=\"false\">CategorizedEntityCollection</xref> model that describes a entities collection including warnings."
   parameters:
   - description: "An <xref uid=\"com.azure.core.util.IterableStream\" data-throw-if-not-resolved=\"false\">IterableStream</xref> of <xref uid=\"com.azure.ai.textanalytics.models.CategorizedEntity\" data-throw-if-not-resolved=\"false\">categorized entities</xref>."
     name: "entities"

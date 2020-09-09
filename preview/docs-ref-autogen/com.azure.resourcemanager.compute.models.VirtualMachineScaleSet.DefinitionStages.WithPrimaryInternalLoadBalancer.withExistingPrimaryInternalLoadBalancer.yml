@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithPrimaryInternalLoadBalancer.withExistingPrimaryInternalLoadBalancer(LoadBalancer loadBalancer)"
   name: "withExistingPrimaryInternalLoadBalancer(LoadBalancer loadBalancer)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithPrimaryInternalLoadBalancer.withExistingPrimaryInternalLoadBalancer(LoadBalancer loadBalancer)"
-  summary: "Specifies the internal load balancer whose backends and/or NAT pools can be assigned to the primary\n network interface of the virtual machines in the scale set.\n\n <p>By default all the backends and inbound NAT pools of the load balancer will be associated with the\n primary network interface of the virtual machines in the scale set, unless subset of them is selected in\n the next stages.\n\n <p>"
+  summary: "Specifies the internal load balancer whose backends and/or NAT pools can be assigned to the primary network interface of the virtual machines in the scale set.\n\nBy default all the backends and inbound NAT pools of the load balancer will be associated with the primary network interface of the virtual machines in the scale set, unless subset of them is selected in the next stages."
   parameters:
   - description: "an existing internal load balancer"
     name: "loadBalancer"

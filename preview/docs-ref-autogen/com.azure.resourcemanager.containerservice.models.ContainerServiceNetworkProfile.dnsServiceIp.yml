@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceNetworkProfile.dnsServiceIp()"
   name: "dnsServiceIp()"
   nameWithType: "ContainerServiceNetworkProfile.dnsServiceIp()"
-  summary: "Get the dnsServiceIp property: An IP address assigned to the Kubernetes DNS service. It must be within the\n Kubernetes service address range specified in serviceCidr."
+  summary: "Get the dnsServiceIp property: An IP address assigned to the Kubernetes DNS service. It must be within the Kubernetes service address range specified in serviceCidr."
   syntax: "public String dnsServiceIp()"
   returns:
     description: "the dnsServiceIp value."

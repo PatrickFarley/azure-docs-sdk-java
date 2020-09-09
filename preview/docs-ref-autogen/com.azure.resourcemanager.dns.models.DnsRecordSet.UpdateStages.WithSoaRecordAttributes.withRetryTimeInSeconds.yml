@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.models.DnsRecordSet.UpdateStages.WithSoaRecordAttributes.withRetryTimeInSeconds(long refreshTimeInSeconds)"
   name: "withRetryTimeInSeconds(long refreshTimeInSeconds)"
   nameWithType: "DnsRecordSet.UpdateStages.WithSoaRecordAttributes.withRetryTimeInSeconds(long refreshTimeInSeconds)"
-  summary: "Specifies the time in seconds that a secondary name server should wait before trying to contact the\n primary name server again after a failed attempt to check for a zone file update."
+  summary: "Specifies the time in seconds that a secondary name server should wait before trying to contact the primary name server again after a failed attempt to check for a zone file update."
   parameters:
   - description: "the retry time in seconds"
     name: "refreshTimeInSeconds"

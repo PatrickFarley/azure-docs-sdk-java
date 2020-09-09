@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatchClient.getBlobBatch()"
   name: "getBlobBatch()"
   nameWithType: "BlobBatchClient.getBlobBatch()"
-  summary: "Gets a <xref uid=\"BlobBatch\" data-throw-if-not-resolved=\"false\">BlobBatch</xref> used to configure a batching operation to send to Azure Storage blobs."
+  summary: "Gets a <xref uid=\"com.azure.storage.blob.batch.BlobBatch\" data-throw-if-not-resolved=\"false\">BlobBatch</xref> used to configure a batching operation to send to Azure Storage blobs."
   syntax: "public BlobBatch getBlobBatch()"
   returns:
     description: "a new <xref uid=\"com.azure.storage.blob.batch.BlobBatch\" data-throw-if-not-resolved=\"false\">BlobBatch</xref> instance."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.GremlinGraphResource.withPartitionKey(ContainerPartitionKey partitionKey)"
   name: "withPartitionKey(ContainerPartitionKey partitionKey)"
   nameWithType: "GremlinGraphResource.withPartitionKey(ContainerPartitionKey partitionKey)"
-  summary: "Set the partitionKey property: The configuration of the partition key to be used for partitioning data into\n multiple partitions."
+  summary: "Set the partitionKey property: The configuration of the partition key to be used for partitioning data into multiple partitions."
   parameters:
   - description: "the partitionKey value to set."
     name: "partitionKey"

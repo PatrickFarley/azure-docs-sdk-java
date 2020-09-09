@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.Generators._sharedTimer"
   name: "_sharedTimer"
   nameWithType: "Generators._sharedTimer"
-  summary: "If no explicit timer (and synchronizer it implicitly uses) is specified,\n we will create and use a single lazily-constructed timer, which uses in-JVM\n synchronization but no external file-based syncing."
+  summary: "If no explicit timer (and synchronizer it implicitly uses) is specified, we will create and use a single lazily-constructed timer, which uses in-JVM synchronization but no external file-based syncing."
   syntax: "protected static UUIDTimer _sharedTimer"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.http.BufferedHttpResponse.bodyAsByteArray()"
   name: "bodyAsByteArray()"
   nameWithType: "BufferedHttpResponse.bodyAsByteArray()"
-  summary: "Get the response content as a byte[]."
+  summary: "Get the response content as a byte\\[\\]."
   overridden: "com.azure.cosmos.implementation.http.HttpResponse.bodyAsByteArray()"
   syntax: "public Mono<byte[]> bodyAsByteArray()"
   returns:

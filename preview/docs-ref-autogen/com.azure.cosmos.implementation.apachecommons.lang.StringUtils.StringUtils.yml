@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.StringUtils()"
   name: "StringUtils()"
   nameWithType: "StringUtils.StringUtils()"
-  summary: "<p><code>StringUtils</code> instances should NOT be constructed in\n standard programming. Instead, the class should be used as\n <code>StringUtils.trim(\" foo \");</code>.</p>\n\n <p>This constructor is public to permit tools that require a JavaBean\n instance to operate.</p>"
+  summary: "`StringUtils` instances should NOT be constructed in standard programming. Instead, the class should be used as `StringUtils.trim(\" foo \");`.\n\nThis constructor is public to permit tools that require a JavaBean instance to operate."
   syntax: "public StringUtils()"
 type: "constructor"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.SearchClient.autocomplete(String searchText, String suggesterName)"
   name: "autocomplete(String searchText, String suggesterName)"
   nameWithType: "SearchClient.autocomplete(String searchText, String suggesterName)"
-  summary: "Autocompletes incomplete query terms based on input text and matching terms in the index.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Autocomplete text from documents in service. </p>\n\n <pre>\n AutocompletePagedIterable autocompletePagedIterable = searchClient.autocomplete&#40;&quot;searchText&quot;, &quot;sg&quot;&#41;;\n for &#40;AutocompleteItem result: autocompletePagedIterable&#41; &#123;\n     System.out.printf&#40;&quot;The complete term is %s&quot;, result.getText&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Autocompletes incomplete query terms based on input text and matching terms in the index.\n\n**Code Sample**\n\nAutocomplete text from documents in service.\n\n```java\nAutocompletePagedIterable autocompletePagedIterable = searchClient.autocomplete(\"searchText\", \"sg\");\n for (AutocompleteItem result: autocompletePagedIterable) {\n     System.out.printf(\"The complete term is %s\", result.getText());\n }\n```"
   parameters:
   - description: "search text"
     name: "searchText"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.search.documents.SearchClient.autocomplete(String searchText, String suggesterName, AutocompleteOptions autocompleteOptions, Context context)"
   name: "autocomplete(String searchText, String suggesterName, AutocompleteOptions autocompleteOptions, Context context)"
   nameWithType: "SearchClient.autocomplete(String searchText, String suggesterName, AutocompleteOptions autocompleteOptions, Context context)"
-  summary: "Autocompletes incomplete query terms based on input text and matching terms in the index.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Autocomplete text from documents in service with option. </p>\n\n <pre>\n AutocompletePagedIterable autocompletePagedIterable = searchClient.autocomplete&#40;&quot;searchText&quot;, &quot;sg&quot;,\n     new AutocompleteOptions&#40;&#41;.setAutocompleteMode&#40;AutocompleteMode.ONE_TERM_WITH_CONTEXT&#41;,\n     new Context&#40;key1, value1&#41;&#41;;\n for &#40;AutocompleteItem result: autocompletePagedIterable&#41; &#123;\n     System.out.printf&#40;&quot;The complete term is %s&quot;, result.getText&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Autocompletes incomplete query terms based on input text and matching terms in the index.\n\n**Code Sample**\n\nAutocomplete text from documents in service with option.\n\n```java\nAutocompletePagedIterable autocompletePagedIterable = searchClient.autocomplete(\"searchText\", \"sg\",\n     new AutocompleteOptions().setAutocompleteMode(AutocompleteMode.ONE_TERM_WITH_CONTEXT),\n     new Context(key1, value1));\n for (AutocompleteItem result: autocompletePagedIterable) {\n     System.out.printf(\"The complete term is %s\", result.getText());\n }\n```"
   parameters:
   - description: "search text"
     name: "searchText"

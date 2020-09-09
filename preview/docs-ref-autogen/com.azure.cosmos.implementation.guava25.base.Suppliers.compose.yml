@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Suppliers.<F,T>compose(Function<? super F,T> function, Supplier<F> supplier)"
   name: "<F,T>compose(Function<? super F,T> function, Supplier<F> supplier)"
   nameWithType: "Suppliers.<F,T>compose(Function<? super F,T> function, Supplier<F> supplier)"
-  summary: "Returns a new supplier which is the composition of the provided function and supplier. In other\n words, the new supplier's value will be computed by retrieving the value from <code>supplier</code>,\n and then applying <code>function</code> to that value. Note that the resulting supplier will not\n call <code>supplier</code> or invoke <code>function</code> until it is called."
+  summary: "Returns a new supplier which is the composition of the provided function and supplier. In other words, the new supplier's value will be computed by retrieving the value from `supplier`, and then applying `function` to that value. Note that the resulting supplier will not call `supplier` or invoke `function` until it is called."
   parameters:
   - name: "function"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.Function?alt=com.azure.cosmos.implementation.guava25.base.Function&text=Function\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super F?alt=? super F&text=? super F\" data-throw-if-not-resolved=\"False\" />,<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

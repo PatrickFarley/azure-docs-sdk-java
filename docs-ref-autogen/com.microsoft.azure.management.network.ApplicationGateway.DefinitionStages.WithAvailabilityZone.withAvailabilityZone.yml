@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGateway.DefinitionStages.WithAvailabilityZone.withAvailabilityZone(AvailabilityZoneId zoneId)"
   name: "withAvailabilityZone(AvailabilityZoneId zoneId)"
   nameWithType: "ApplicationGateway.DefinitionStages.WithAvailabilityZone.withAvailabilityZone(AvailabilityZoneId zoneId)"
-  summary: "Specifies the availability zone for the application gateway.\n <p>\n Note, this functionality is not enabled for most subscriptions and is subject to significant redesign\n and/or removal in the future."
+  summary: "Specifies the availability zone for the application gateway.\n\nNote, this functionality is not enabled for most subscriptions and is subject to significant redesign and/or removal in the future."
   parameters:
   - description: "the zone identifier."
     name: "zoneId"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.getProperties()"
   name: "getProperties()"
   nameWithType: "BlobAsyncClientBase.getProperties()"
-  summary: "Returns the blob's metadata and properties.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.getProperties&#40;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Type: %s, Size: %d%n&quot;, response.getBlobType&#40;&#41;, response.getBlobSize&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties\">Azure Docs</a></p>"
+  summary: "Returns the blob's metadata and properties.\n\n**Code Samples**\n\n```java\nclient.getProperties().subscribe(response ->\n     System.out.printf(\"Type: %s, Size: %d%n\", response.getBlobType(), response.getBlobSize()));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties"
   syntax: "public Mono<BlobProperties> getProperties()"
   returns:
     description: "A reactive response containing the blob properties and metadata."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.WinRMListener.protocol()"
   name: "protocol()"
   nameWithType: "WinRMListener.protocol()"
-  summary: "Get the protocol property: Specifies the protocol of listener. &lt;br&gt;&lt;br&gt; Possible values are:\n &lt;br&gt;**http** &lt;br&gt;&lt;br&gt; **https**."
+  summary: "Get the protocol property: Specifies the protocol of listener. <br><br> Possible values are: <br>\\*\\*http\\*\\* <br><br> \\*\\*https\\*\\*."
   syntax: "public ProtocolTypes protocol()"
   returns:
     description: "the protocol value."

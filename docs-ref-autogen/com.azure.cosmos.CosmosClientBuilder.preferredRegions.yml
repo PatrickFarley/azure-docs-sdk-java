@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosClientBuilder.preferredRegions(List<String> preferredRegions)"
   name: "preferredRegions(List<String> preferredRegions)"
   nameWithType: "CosmosClientBuilder.preferredRegions(List<String> preferredRegions)"
-  summary: "Sets the preferred regions for geo-replicated database accounts. For example,\n \"East US\" as the preferred region.\n <p>\n When EnableEndpointDiscovery is true and PreferredRegions is non-empty,\n the SDK will prefer to use the regions in the container in the order\n they are specified to perform operations.\n <p>\n If EnableEndpointDiscovery is set to false, this property is ignored."
+  summary: "Sets the preferred regions for geo-replicated database accounts. For example, \"East US\" as the preferred region.\n\nWhen EnableEndpointDiscovery is true and PreferredRegions is non-empty, the SDK will prefer to use the regions in the container in the order they are specified to perform operations.\n\nIf EnableEndpointDiscovery is set to false, this property is ignored."
   parameters:
   - description: "the list of preferred regions."
     name: "preferredRegions"

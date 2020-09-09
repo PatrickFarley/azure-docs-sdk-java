@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FieldData.getFieldElements()"
   name: "getFieldElements()"
   nameWithType: "FieldData.getFieldElements()"
-  summary: "When `includeFieldElements` is set to true, gets a list of reference elements constituting\n this <code>FieldData</code>."
+  summary: "When \\`includeFieldElements\\` is set to true, gets a list of reference elements constituting this `FieldData`."
   syntax: "public List<FormElement> getFieldElements()"
   returns:
     description: "The unmodifiable list of reference elements constituting this <code>FieldData</code>."

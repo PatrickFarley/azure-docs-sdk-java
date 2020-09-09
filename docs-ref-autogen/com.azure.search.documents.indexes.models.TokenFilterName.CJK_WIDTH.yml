@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TokenFilterName.CJK_WIDTH"
   name: "CJK_WIDTH"
   nameWithType: "TokenFilterName.CJK_WIDTH"
-  summary: "Static value cjk_width for TokenFilterName."
+  summary: "Static value cjk\\_width for TokenFilterName."
   syntax: "public static final TokenFilterName CJK_WIDTH"
 type: "field"
 metadata: {}

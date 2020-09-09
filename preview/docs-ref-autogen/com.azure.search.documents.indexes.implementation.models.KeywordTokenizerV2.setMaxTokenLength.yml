@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.KeywordTokenizerV2.setMaxTokenLength(Integer maxTokenLength)"
   name: "setMaxTokenLength(Integer maxTokenLength)"
   nameWithType: "KeywordTokenizerV2.setMaxTokenLength(Integer maxTokenLength)"
-  summary: "Set the maxTokenLength property: The maximum token length. Default is 256. Tokens longer than the maximum length\n are split. The maximum token length that can be used is 300 characters."
+  summary: "Set the maxTokenLength property: The maximum token length. Default is 256. Tokens longer than the maximum length are split. The maximum token length that can be used is 300 characters."
   parameters:
   - description: "the maxTokenLength value to set."
     name: "maxTokenLength"

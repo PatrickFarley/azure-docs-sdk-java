@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Maps.EntryTransformer<K,V1,V2>.transformEntry(K key, V1 value)"
   name: "transformEntry(K key, V1 value)"
   nameWithType: "Maps.EntryTransformer<K,V1,V2>.transformEntry(K key, V1 value)"
-  summary: "Determines an output value based on a key-value pair. This method is <i>generally\n expected</i>, but not absolutely required, to have the following properties:\n\n <ul>\n   <li>Its execution does not cause any observable side effects.\n   <li>The computation is <i>consistent with equals</i>; that is, <xref uid=\"Objects#equal\" data-throw-if-not-resolved=\"false\">Objects.equal</xref><code>(k1, k2) &&</code> <xref uid=\"Objects#equal\" data-throw-if-not-resolved=\"false\">Objects#equal</xref><code>(v1, v2)</code> implies that\n       <code>Objects.equal(transformer.transform(k1, v1), transformer.transform(k2, v2))</code>.\n </ul>"
+  summary: "Determines an output value based on a key-value pair. This method is *generally expected*, but not absolutely required, to have the following properties:\n\n *  Its execution does not cause any observable side effects.\n *  The computation is *consistent with equals*; that is, <xref uid=\"com.azure.cosmos.implementation.guava25.base.Objects.equal*\" data-throw-if-not-resolved=\"false\">Objects.equal</xref>`(k1, k2) &&` <xref uid=\"com.azure.cosmos.implementation.guava25.base.Objects.equal*\" data-throw-if-not-resolved=\"false\">Objects#equal</xref>`(v1, v2)` implies that `Objects.equal(transformer.transform(k1, v1), transformer.transform(k2, v2))`."
   parameters:
   - name: "key"
     type: "<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />"

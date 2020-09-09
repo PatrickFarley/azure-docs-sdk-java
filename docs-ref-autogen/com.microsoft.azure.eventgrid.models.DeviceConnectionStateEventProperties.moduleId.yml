@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.eventgrid.models.DeviceConnectionStateEventProperties.moduleId()"
   name: "moduleId()"
   nameWithType: "DeviceConnectionStateEventProperties.moduleId()"
-  summary: "Get the unique identifier of the module. This case-sensitive string can be up to 128 characters long, and supports ASCII 7-bit alphanumeric characters plus the following special characters: - : . + % _ &amp;#35; * ? ! ( ) , = @ ; $ '."
+  summary: "Get the unique identifier of the module. This case-sensitive string can be up to 128 characters long, and supports ASCII 7-bit alphanumeric characters plus the following special characters: - : . + % \\_ &\\#35; \\* ? ! ( ) , = @ ; $ '."
   syntax: "public String moduleId()"
   returns:
     description: "the moduleId value"

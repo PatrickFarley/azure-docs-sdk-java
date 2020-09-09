@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathAccessControlEntry.serializeList(List<PathAccessControlEntry> acl)"
   name: "serializeList(List<PathAccessControlEntry> acl)"
   nameWithType: "PathAccessControlEntry.serializeList(List<PathAccessControlEntry> acl)"
-  summary: "Converts the Access Control List to a <code>String</code>. The format is specified in the description of this type."
+  summary: "Converts the Access Control List to a `String`. The format is specified in the description of this type."
   parameters:
   - description: "The Access Control List to serialize."
     name: "acl"

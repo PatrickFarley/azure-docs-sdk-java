@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_D16S_V3"
   name: "STANDARD_D16S_V3"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_D16S_V3"
-  summary: "Static value Standard_D16s_v3 for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_D16s\\_v3 for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_D16S_V3"
 type: "field"
 metadata: {}

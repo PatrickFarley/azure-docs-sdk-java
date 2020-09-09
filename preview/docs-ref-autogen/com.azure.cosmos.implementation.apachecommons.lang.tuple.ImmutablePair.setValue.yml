@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.ImmutablePair<L,R>.setValue(R value)"
   name: "setValue(R value)"
   nameWithType: "ImmutablePair<L,R>.setValue(R value)"
-  summary: "<p>Throws <code>UnsupportedOperationException</code>.</p>\n\n <p>This pair is immutable, so this operation is not supported.</p>"
+  summary: "Throws `UnsupportedOperationException`.\n\nThis pair is immutable, so this operation is not supported."
   parameters:
   - description: "the value to set"
     name: "value"

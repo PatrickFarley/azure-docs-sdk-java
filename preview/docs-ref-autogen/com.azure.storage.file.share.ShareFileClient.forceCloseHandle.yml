@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.forceCloseHandle(String handleId)"
   name: "forceCloseHandle(String handleId)"
   nameWithType: "ShareFileClient.forceCloseHandle(String handleId)"
-  summary: "Closes a handle on the file at the service. This is intended to be used alongside <xref uid=\"#listHandles()\" data-throw-if-not-resolved=\"false\">#listHandles()</xref>.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Force close handles returned by list handles.</p>\n\n <pre>\n fileClient.listHandles&#40;&#41;.forEach&#40;handleItem -&gt; &#123;\n     fileClient.forceCloseHandle&#40;handleItem.getHandleId&#40;&#41;&#41;;\n     System.out.printf&#40;&quot;Closed handle %s on resource %s%n&quot;, handleItem.getHandleId&#40;&#41;, handleItem.getPath&#40;&#41;&#41;;\n &#125;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/force-close-handles\">Azure Docs</a>.</p>"
+  summary: "Closes a handle on the file at the service. This is intended to be used alongside <xref uid=\"com.azure.storage.file.share.ShareFileClient.listHandles()\" data-throw-if-not-resolved=\"false\">#listHandles()</xref>.\n\n**Code Samples**\n\nForce close handles returned by list handles.\n\n```java\nfileClient.listHandles().forEach(handleItem -> {\n     fileClient.forceCloseHandle(handleItem.getHandleId());\n     System.out.printf(\"Closed handle %s on resource %s%n\", handleItem.getHandleId(), handleItem.getPath());\n });\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/force-close-handles"
   parameters:
   - description: "Handle ID to be closed."
     name: "handleId"

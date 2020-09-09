@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.getEndpoint()"
   name: "getEndpoint()"
   nameWithType: "FormRecognizerClientImpl.getEndpoint()"
-  summary: "Gets Supported Cognitive Services endpoints (protocol and hostname, for example:\n https://westus2.api.cognitive.microsoft.com)."
+  summary: "Gets Supported Cognitive Services endpoints (protocol and hostname, for example: https://westus2.api.cognitive.microsoft.com)."
   syntax: "public String getEndpoint()"
   returns:
     description: "the endpoint value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlServerSecurityAlertPolicyOperations.getByIdAsync(String id)"
   name: "getByIdAsync(String id)"
   nameWithType: "SqlServerSecurityAlertPolicyOperations.getByIdAsync(String id)"
-  summary: "Asynchronously gets the information about a SQL Server Security Alert Policy resource from Azure SQL server using\n the resource ID."
+  summary: "Asynchronously gets the information about a SQL Server Security Alert Policy resource from Azure SQL server using the resource ID."
   parameters:
   - description: "the ID of the resource."
     name: "id"

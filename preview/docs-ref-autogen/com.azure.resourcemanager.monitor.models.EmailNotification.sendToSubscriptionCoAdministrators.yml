@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.EmailNotification.sendToSubscriptionCoAdministrators()"
   name: "sendToSubscriptionCoAdministrators()"
   nameWithType: "EmailNotification.sendToSubscriptionCoAdministrators()"
-  summary: "Get the sendToSubscriptionCoAdministrators property: a value indicating whether to send email to subscription\n co-administrators."
+  summary: "Get the sendToSubscriptionCoAdministrators property: a value indicating whether to send email to subscription co-administrators."
   syntax: "public Boolean sendToSubscriptionCoAdministrators()"
   returns:
     description: "the sendToSubscriptionCoAdministrators value."

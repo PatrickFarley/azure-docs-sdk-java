@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PathHierarchyTokenizer.setReplacement(Character replacement)"
   name: "setReplacement(Character replacement)"
   nameWithType: "PathHierarchyTokenizer.setReplacement(Character replacement)"
-  summary: "Set the replacement property: A value that, if set, replaces the\n delimiter character. Default is \"/\"."
+  summary: "Set the replacement property: A value that, if set, replaces the delimiter character. Default is \"/\"."
   parameters:
   - description: "the replacement value to set."
     name: "replacement"

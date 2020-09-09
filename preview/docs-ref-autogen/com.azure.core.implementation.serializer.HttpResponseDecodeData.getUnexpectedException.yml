@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.serializer.HttpResponseDecodeData.getUnexpectedException(int code)"
   name: "getUnexpectedException(int code)"
   nameWithType: "HttpResponseDecodeData.getUnexpectedException(int code)"
-  summary: "Get the <xref uid=\"UnexpectedExceptionInformation\" data-throw-if-not-resolved=\"false\">UnexpectedExceptionInformation</xref> that will be used to generate a RestException if the HTTP response\n status code is not one of the expected status codes."
+  summary: "Get the <xref uid=\"com.azure.core.implementation.http.UnexpectedExceptionInformation\" data-throw-if-not-resolved=\"false\">UnexpectedExceptionInformation</xref> that will be used to generate a RestException if the HTTP response status code is not one of the expected status codes."
   parameters:
   - description: "Exception HTTP status code return from a REST API."
     name: "code"

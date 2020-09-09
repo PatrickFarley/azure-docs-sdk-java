@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkConfigurationDiagnosticProfile.withProtocol(String protocol)"
   name: "withProtocol(String protocol)"
   nameWithType: "NetworkConfigurationDiagnosticProfile.withProtocol(String protocol)"
-  summary: "Set protocol to be verified on. Accepted values are '*', TCP, UDP."
+  summary: "Set protocol to be verified on. Accepted values are '\\*', TCP, UDP."
   parameters:
   - description: "the protocol value to set"
     name: "protocol"

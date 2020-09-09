@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cosmosdb.CosmosDBAccount.UpdateStages.WithPrivateEndpointConnection.defineNewPrivateEndpointConnection(String name)"
   name: "defineNewPrivateEndpointConnection(String name)"
   nameWithType: "CosmosDBAccount.UpdateStages.WithPrivateEndpointConnection.defineNewPrivateEndpointConnection(String name)"
-  summary: "Start the definition of a private endpoint connection to be attached\n to the cosmos db account."
+  summary: "Start the definition of a private endpoint connection to be attached to the cosmos db account."
   parameters:
   - description: "the reference name for the private endpoint connection"
     name: "name"

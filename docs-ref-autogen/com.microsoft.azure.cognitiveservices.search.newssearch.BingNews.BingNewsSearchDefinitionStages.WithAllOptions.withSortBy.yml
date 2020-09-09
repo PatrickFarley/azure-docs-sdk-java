@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.newssearch.BingNews.BingNewsSearchDefinitionStages.WithAllOptions.withSortBy(String sortBy)"
   name: "withSortBy(String sortBy)"
   nameWithType: "BingNews.BingNewsSearchDefinitionStages.WithAllOptions.withSortBy(String sortBy)"
-  summary: "The order to return the news in. The following are the possible case-insensitive values. Date: If the\n   request is through the News Search API, the response returns news articles sorted by date from the most\n   recent to the oldest. If the request is through the News Trending Topics API, the response returns trending\n   topics sorted by date from the most recent to the oldest."
+  summary: "The order to return the news in. The following are the possible case-insensitive values. Date: If the request is through the News Search API, the response returns news articles sorted by date from the most recent to the oldest. If the request is through the News Trending Topics API, the response returns trending topics sorted by date from the most recent to the oldest."
   parameters:
   - name: "sortBy"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

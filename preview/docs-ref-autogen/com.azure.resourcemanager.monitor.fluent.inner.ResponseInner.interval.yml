@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.ResponseInner.interval()"
   name: "interval()"
   nameWithType: "ResponseInner.interval()"
-  summary: "Get the interval property: The interval (window size) for which the metric data was returned in. This may be\n adjusted in the future and returned back from what was originally requested. This is not present if a metadata\n request was made."
+  summary: "Get the interval property: The interval (window size) for which the metric data was returned in. This may be adjusted in the future and returned back from what was originally requested. This is not present if a metadata request was made."
   syntax: "public Duration interval()"
   returns:
     description: "the interval value."

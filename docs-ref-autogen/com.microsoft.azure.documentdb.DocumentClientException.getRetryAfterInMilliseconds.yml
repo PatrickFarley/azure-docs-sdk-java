@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.DocumentClientException.getRetryAfterInMilliseconds()"
   name: "getRetryAfterInMilliseconds()"
   nameWithType: "DocumentClientException.getRetryAfterInMilliseconds()"
-  summary: "Gets the recommended time interval after which the client can retry\n failed requests"
+  summary: "Gets the recommended time interval after which the client can retry failed requests"
   syntax: "public long getRetryAfterInMilliseconds()"
   returns:
     description: "the recommended time interval after which the client can retry\n failed requests."

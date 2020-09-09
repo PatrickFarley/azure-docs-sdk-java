@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatchClientBuilder.buildClient()"
   name: "buildClient()"
   nameWithType: "BlobBatchClientBuilder.buildClient()"
-  summary: "Creates a <xref uid=\"BlobBatchClient\" data-throw-if-not-resolved=\"false\">BlobBatchClient</xref> based on options set in the builder.\n\n <p><strong>Code sample</strong></p>\n\n <pre>\n BlobBatchClient batchClient = new BlobBatchClientBuilder&#40;blobServiceClient&#41;.buildClient&#40;&#41;;\n </pre>"
+  summary: "Creates a <xref uid=\"com.azure.storage.blob.batch.BlobBatchClient\" data-throw-if-not-resolved=\"false\">BlobBatchClient</xref> based on options set in the builder.\n\n**Code sample**\n\n```java\nBlobBatchClient batchClient = new BlobBatchClientBuilder(blobServiceClient).buildClient();\n```"
   syntax: "public BlobBatchClient buildClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.blob.batch.BlobBatchClient\" data-throw-if-not-resolved=\"false\">BlobBatchClient</xref> created from the configurations in this builder."

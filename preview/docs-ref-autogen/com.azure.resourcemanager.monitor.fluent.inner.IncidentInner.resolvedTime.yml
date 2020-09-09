@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.IncidentInner.resolvedTime()"
   name: "resolvedTime()"
   nameWithType: "IncidentInner.resolvedTime()"
-  summary: "Get the resolvedTime property: The time at which the incident was resolved in ISO8601 format. If null, it means\n the incident is still active."
+  summary: "Get the resolvedTime property: The time at which the incident was resolved in ISO8601 format. If null, it means the incident is still active."
   syntax: "public OffsetDateTime resolvedTime()"
   returns:
     description: "the resolvedTime value."

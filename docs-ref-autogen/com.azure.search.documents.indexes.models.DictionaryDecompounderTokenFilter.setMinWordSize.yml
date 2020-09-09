@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.DictionaryDecompounderTokenFilter.setMinWordSize(Integer minWordSize)"
   name: "setMinWordSize(Integer minWordSize)"
   nameWithType: "DictionaryDecompounderTokenFilter.setMinWordSize(Integer minWordSize)"
-  summary: "Set the minWordSize property: The minimum word size. Only words longer\n than this get processed. Default is 5. Maximum is 300."
+  summary: "Set the minWordSize property: The minimum word size. Only words longer than this get processed. Default is 5. Maximum is 300."
   parameters:
   - description: "the minWordSize value to set."
     name: "minWordSize"

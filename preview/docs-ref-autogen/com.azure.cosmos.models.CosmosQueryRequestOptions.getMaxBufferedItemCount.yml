@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosQueryRequestOptions.getMaxBufferedItemCount()"
   name: "getMaxBufferedItemCount()"
   nameWithType: "CosmosQueryRequestOptions.getMaxBufferedItemCount()"
-  summary: "Gets the maximum number of items that can be buffered client side during\n parallel query execution."
+  summary: "Gets the maximum number of items that can be buffered client side during parallel query execution."
   syntax: "public int getMaxBufferedItemCount()"
   returns:
     description: "maximum number of items that can be buffered client side during\n parallel query execution."

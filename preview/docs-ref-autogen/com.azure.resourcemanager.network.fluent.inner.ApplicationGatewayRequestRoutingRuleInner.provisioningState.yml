@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayRequestRoutingRuleInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ApplicationGatewayRequestRoutingRuleInner.provisioningState()"
-  summary: "Get the provisioningState property: Provisioning state of the request routing rule resource. Possible values are:\n 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: Provisioning state of the request routing rule resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

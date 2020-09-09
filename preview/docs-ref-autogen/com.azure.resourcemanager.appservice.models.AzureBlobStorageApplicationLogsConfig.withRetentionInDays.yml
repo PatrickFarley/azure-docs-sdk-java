@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AzureBlobStorageApplicationLogsConfig.withRetentionInDays(Integer retentionInDays)"
   name: "withRetentionInDays(Integer retentionInDays)"
   nameWithType: "AzureBlobStorageApplicationLogsConfig.withRetentionInDays(Integer retentionInDays)"
-  summary: "Set the retentionInDays property: Retention in days. Remove blobs older than X days. 0 or lower means no\n retention."
+  summary: "Set the retentionInDays property: Retention in days. Remove blobs older than X days. 0 or lower means no retention."
   parameters:
   - description: "the retentionInDays value to set."
     name: "retentionInDays"

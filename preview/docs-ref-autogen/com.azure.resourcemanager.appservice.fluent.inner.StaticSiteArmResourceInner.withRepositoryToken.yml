@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StaticSiteArmResourceInner.withRepositoryToken(String repositoryToken)"
   name: "withRepositoryToken(String repositoryToken)"
   nameWithType: "StaticSiteArmResourceInner.withRepositoryToken(String repositoryToken)"
-  summary: "Set the repositoryToken property: A user's github repository token. This is used to setup the Github Actions\n workflow file and API secrets."
+  summary: "Set the repositoryToken property: A user's github repository token. This is used to setup the Github Actions workflow file and API secrets."
   parameters:
   - description: "the repositoryToken value to set."
     name: "repositoryToken"

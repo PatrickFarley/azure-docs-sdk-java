@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.caches.RxCollectionCache.resolveCollectionAsync(MetadataDiagnosticsContext metaDataDiagnosticsContext, RxDocumentServiceRequest request)"
   name: "resolveCollectionAsync(MetadataDiagnosticsContext metaDataDiagnosticsContext, RxDocumentServiceRequest request)"
   nameWithType: "RxCollectionCache.resolveCollectionAsync(MetadataDiagnosticsContext metaDataDiagnosticsContext, RxDocumentServiceRequest request)"
-  summary: "Resolves a request to a collection in a sticky manner.\n Unless request.ForceNameCacheRefresh is equal to true, it will return the same collection."
+  summary: "Resolves a request to a collection in a sticky manner. Unless request.ForceNameCacheRefresh is equal to true, it will return the same collection."
   parameters:
   - name: "metaDataDiagnosticsContext"
     type: "<xref href=\"com.azure.cosmos.implementation.MetadataDiagnosticsContext?alt=com.azure.cosmos.implementation.MetadataDiagnosticsContext&text=MetadataDiagnosticsContext\" data-throw-if-not-resolved=\"False\" />"

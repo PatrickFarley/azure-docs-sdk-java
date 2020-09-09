@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PhoneticTokenFilter.setEncoder(PhoneticEncoder encoder)"
   name: "setEncoder(PhoneticEncoder encoder)"
   nameWithType: "PhoneticTokenFilter.setEncoder(PhoneticEncoder encoder)"
-  summary: "Set the encoder property: The phonetic encoder to use. Default is\n \"metaphone\". Possible values include: 'Metaphone', 'DoubleMetaphone',\n 'Soundex', 'RefinedSoundex', 'Caverphone1', 'Caverphone2', 'Cologne',\n 'Nysiis', 'KoelnerPhonetik', 'HaasePhonetik', 'BeiderMorse'."
+  summary: "Set the encoder property: The phonetic encoder to use. Default is \"metaphone\". Possible values include: 'Metaphone', 'DoubleMetaphone', 'Soundex', 'RefinedSoundex', 'Caverphone1', 'Caverphone2', 'Cologne', 'Nysiis', 'KoelnerPhonetik', 'HaasePhonetik', 'BeiderMorse'."
   parameters:
   - description: "the encoder value to set."
     name: "encoder"

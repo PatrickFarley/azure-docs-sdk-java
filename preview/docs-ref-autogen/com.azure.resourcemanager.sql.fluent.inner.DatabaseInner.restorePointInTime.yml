@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseInner.restorePointInTime()"
   name: "restorePointInTime()"
   nameWithType: "DatabaseInner.restorePointInTime()"
-  summary: "Get the restorePointInTime property: Specifies the point in time (ISO8601 format) of the source database that\n will be restored to create the new database."
+  summary: "Get the restorePointInTime property: Specifies the point in time (ISO8601 format) of the source database that will be restored to create the new database."
   syntax: "public OffsetDateTime restorePointInTime()"
   returns:
     description: "the restorePointInTime value."

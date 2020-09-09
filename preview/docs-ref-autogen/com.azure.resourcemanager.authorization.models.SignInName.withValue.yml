@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.SignInName.withValue(String value)"
   name: "withValue(String value)"
   nameWithType: "SignInName.withValue(String value)"
-  summary: "Set the value property: The sign-in used by the local account. Must be unique across the company/tenant. For\n example, 'johnc@example.com'."
+  summary: "Set the value property: The sign-in used by the local account. Must be unique across the company/tenant. For example, 'johnc@example.com'."
   parameters:
   - description: "the value value to set."
     name: "value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_D12"
   name: "STANDARD_D12"
   nameWithType: "ComputeSkuName.STANDARD_D12"
-  summary: "Static value Standard_D12 for ComputeSkuName."
+  summary: "Static value Standard\\_D12 for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_D12"
 type: "field"
 metadata: {}

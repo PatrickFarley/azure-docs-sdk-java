@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Sets.<E>unmodifiableNavigableSet(NavigableSet<E> set)"
   name: "<E>unmodifiableNavigableSet(NavigableSet<E> set)"
   nameWithType: "Sets.<E>unmodifiableNavigableSet(NavigableSet<E> set)"
-  summary: "Returns an unmodifiable view of the specified navigable set. This method allows modules to\n provide users with \"read-only\" access to internal navigable sets. Query operations on the\n returned set \"read through\" to the specified set, and attempts to modify the returned set,\n whether direct or via its collection views, result in an <code>UnsupportedOperationException</code>.\n\n <p>The returned navigable set will be serializable if the specified navigable set is\n serializable."
+  summary: "Returns an unmodifiable view of the specified navigable set. This method allows modules to provide users with \"read-only\" access to internal navigable sets. Query operations on the returned set \"read through\" to the specified set, and attempts to modify the returned set, whether direct or via its collection views, result in an `UnsupportedOperationException`.\n\nThe returned navigable set will be serializable if the specified navigable set is serializable."
   parameters:
   - description: "the navigable set for which an unmodifiable view is to be returned"
     name: "set"

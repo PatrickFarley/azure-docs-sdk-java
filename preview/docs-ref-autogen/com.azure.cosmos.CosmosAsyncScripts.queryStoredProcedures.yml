@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncScripts.queryStoredProcedures(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   name: "queryStoredProcedures(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncScripts.queryStoredProcedures(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
-  summary: "Query for stored procedures in a container.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained stored procedures.\n In case of failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for stored procedures in a container.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained stored procedures. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the SQL query specification."
     name: "querySpec"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncScripts.queryStoredProcedures(String query, CosmosQueryRequestOptions options)"
   name: "queryStoredProcedures(String query, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncScripts.queryStoredProcedures(String query, CosmosQueryRequestOptions options)"
-  summary: "Query for stored procedures in a container.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained stored procedures.\n In case of failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for stored procedures in a container.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response pages of the obtained stored procedures. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the the query."
     name: "query"

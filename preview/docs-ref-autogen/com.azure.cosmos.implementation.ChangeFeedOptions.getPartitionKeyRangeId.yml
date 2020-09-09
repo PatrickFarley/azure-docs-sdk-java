@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ChangeFeedOptions.getPartitionKeyRangeId()"
   name: "getPartitionKeyRangeId()"
   nameWithType: "ChangeFeedOptions.getPartitionKeyRangeId()"
-  summary: "Get the partition key range id for the current request\n <p>\n ChangeFeed requests can be executed against specific partition key ranges.\n This is used to process the change feed in parallel across multiple\n consumers.\n </p>"
+  summary: "Get the partition key range id for the current request\n\nChangeFeed requests can be executed against specific partition key ranges. This is used to process the change feed in parallel across multiple consumers."
   syntax: "public String getPartitionKeyRangeId()"
   returns:
     description: "a string indicating the partition key range ID"

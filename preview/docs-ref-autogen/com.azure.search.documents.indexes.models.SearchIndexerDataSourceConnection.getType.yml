@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection.getType()"
   name: "getType()"
   nameWithType: "SearchIndexerDataSourceConnection.getType()"
-  summary: "Get the type property: The type of the datasource. Possible values\n include: 'AzureSql', 'CosmosDb', 'AzureBlob', 'AzureTable', 'MySql'."
+  summary: "Get the type property: The type of the datasource. Possible values include: 'AzureSql', 'CosmosDb', 'AzureBlob', 'AzureTable', 'MySql'."
   syntax: "public SearchIndexerDataSourceType getType()"
   returns:
     description: "the type value."

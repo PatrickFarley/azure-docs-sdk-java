@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.RampUpRule.withReroutePercentage(Double reroutePercentage)"
   name: "withReroutePercentage(Double reroutePercentage)"
   nameWithType: "RampUpRule.withReroutePercentage(Double reroutePercentage)"
-  summary: "Set the reroutePercentage property: Percentage of the traffic which will be redirected to\n &lt;code&gt;ActionHostName&lt;/code&gt;."
+  summary: "Set the reroutePercentage property: Percentage of the traffic which will be redirected to <code>ActionHostName</code>."
   parameters:
   - description: "the reroutePercentage value to set."
     name: "reroutePercentage"

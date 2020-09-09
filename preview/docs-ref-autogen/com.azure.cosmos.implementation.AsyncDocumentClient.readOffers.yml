@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.readOffers(CosmosQueryRequestOptions options)"
   name: "readOffers(CosmosQueryRequestOptions options)"
   nameWithType: "AsyncDocumentClient.readOffers(CosmosQueryRequestOptions options)"
-  summary: "Reads offers.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the read offers.\n In case of failure the <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
+  summary: "Reads offers.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the read offers. In case of failure the <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
   parameters:
   - description: "the query request options."
     name: "options"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.asByteArray()"
   name: "asByteArray()"
   nameWithType: "EthernetAddress.asByteArray()"
-  summary: "Returns 6 byte byte array that contains the binary representation\n of this ethernet address; byte 0 is the most significant byte\n (and so forth)"
+  summary: "Returns 6 byte byte array that contains the binary representation of this ethernet address; byte 0 is the most significant byte (and so forth)"
   syntax: "public byte[] asByteArray()"
   returns:
     description: "6 byte byte array that contains the binary representation"

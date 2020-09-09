@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlEncryptionProtectorOperations.getByIdAsync(String id)"
   name: "getByIdAsync(String id)"
   nameWithType: "SqlEncryptionProtectorOperations.getByIdAsync(String id)"
-  summary: "Asynchronously gets the information about an Encryption Protector resource from Azure SQL server using the\n resource ID."
+  summary: "Asynchronously gets the information about an Encryption Protector resource from Azure SQL server using the resource ID."
   parameters:
   - description: "the ID of the resource."
     name: "id"

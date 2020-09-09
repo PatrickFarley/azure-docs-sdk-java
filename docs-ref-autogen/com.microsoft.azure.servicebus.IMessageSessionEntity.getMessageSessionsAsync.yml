@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageSessionEntity.getMessageSessionsAsync()"
   name: "getMessageSessionsAsync()"
   nameWithType: "IMessageSessionEntity.getMessageSessionsAsync()"
-  summary: "Asynchronously gets the message sessions, enabling you to browse sessions on queues.\n Only sessions with active messages in the queue are returned.\n The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
+  summary: "Asynchronously gets the message sessions, enabling you to browse sessions on queues. Only sessions with active messages in the queue are returned. The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
   syntax: "public abstract CompletableFuture<Collection<IMessageSession>> getMessageSessionsAsync()"
   returns:
     description: "a CompletableFuture representing the pending operation to get sessions."
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageSessionEntity.getMessageSessionsAsync(Instant lastUpdatedTime)"
   name: "getMessageSessionsAsync(Instant lastUpdatedTime)"
   nameWithType: "IMessageSessionEntity.getMessageSessionsAsync(Instant lastUpdatedTime)"
-  summary: "Asynchronously retrieves all message sessions whose session state was updated since lastUpdatedTime.\n Only sessions with active messages in the queue are returned.\n The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
+  summary: "Asynchronously retrieves all message sessions whose session state was updated since lastUpdatedTime. Only sessions with active messages in the queue are returned. The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
   parameters:
   - description: "The time the session was last updated."
     name: "lastUpdatedTime"

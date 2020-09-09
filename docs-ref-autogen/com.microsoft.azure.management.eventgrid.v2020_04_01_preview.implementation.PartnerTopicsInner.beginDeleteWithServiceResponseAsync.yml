@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.beginDeleteWithServiceResponseAsync(String resourceGroupName, String partnerTopicName)"
   name: "beginDeleteWithServiceResponseAsync(String resourceGroupName, String partnerTopicName)"
   nameWithType: "PartnerTopicsInner.beginDeleteWithServiceResponseAsync(String resourceGroupName, String partnerTopicName)"
-  summary: "Delete a partner topic.\n Delete existing partner topic."
+  summary: "Delete a partner topic. Delete existing partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.primitives.ConnectionStringBuilder.getTransportType()"
   name: "getTransportType()"
   nameWithType: "ConnectionStringBuilder.getTransportType()"
-  summary: "TransportType on which all the communication for the Service Bus created using this ConnectionString.\n Default value is <xref uid=\"TransportType#AMQP\" data-throw-if-not-resolved=\"false\">TransportType#AMQP</xref>."
+  summary: "TransportType on which all the communication for the Service Bus created using this ConnectionString. Default value is <xref uid=\"com.microsoft.azure.servicebus.primitives.TransportType.AMQP\" data-throw-if-not-resolved=\"false\">TransportType#AMQP</xref>."
   syntax: "public TransportType getTransportType()"
   returns:
     description: "transportType"

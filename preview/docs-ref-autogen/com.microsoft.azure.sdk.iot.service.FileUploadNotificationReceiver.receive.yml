@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.FileUploadNotificationReceiver.receive()"
   name: "receive()"
   nameWithType: "FileUploadNotificationReceiver.receive()"
-  summary: "Receive FileUploadNotification with default timeout\n\n QoS for receiving file upload notifications is at least once"
+  summary: "Receive FileUploadNotification with default timeout QoS for receiving file upload notifications is at least once"
   syntax: "public FileUploadNotification receive()"
   exceptions:
   - description: "This exception is thrown if the input AmqpReceive object is null"
@@ -22,7 +22,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.FileUploadNotificationReceiver.receive(long timeoutMs)"
   name: "receive(long timeoutMs)"
   nameWithType: "FileUploadNotificationReceiver.receive(long timeoutMs)"
-  summary: "Receive FileUploadNotification with specific timeout\n\n QoS for receiving file upload notifications is at least once"
+  summary: "Receive FileUploadNotification with specific timeout QoS for receiving file upload notifications is at least once"
   parameters:
   - description: "The timeout in milliseconds"
     name: "timeoutMs"

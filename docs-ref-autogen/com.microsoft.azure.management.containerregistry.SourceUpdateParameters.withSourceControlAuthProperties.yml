@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.SourceUpdateParameters.withSourceControlAuthProperties(AuthInfoUpdateParameters sourceControlAuthProperties)"
   name: "withSourceControlAuthProperties(AuthInfoUpdateParameters sourceControlAuthProperties)"
   nameWithType: "SourceUpdateParameters.withSourceControlAuthProperties(AuthInfoUpdateParameters sourceControlAuthProperties)"
-  summary: "Set the authorization properties for accessing the source code repository and to set up\n     webhooks for notifications."
+  summary: "Set the authorization properties for accessing the source code repository and to set up webhooks for notifications."
   parameters:
   - description: "the sourceControlAuthProperties value to set"
     name: "sourceControlAuthProperties"

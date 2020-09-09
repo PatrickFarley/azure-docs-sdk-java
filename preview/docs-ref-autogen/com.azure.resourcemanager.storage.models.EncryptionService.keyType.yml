@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.EncryptionService.keyType()"
   name: "keyType()"
   nameWithType: "EncryptionService.keyType()"
-  summary: "Get the keyType property: Encryption key type to be used for the encryption service. 'Account' key type implies\n that an account-scoped encryption key will be used. 'Service' key type implies that a default service key is\n used."
+  summary: "Get the keyType property: Encryption key type to be used for the encryption service. 'Account' key type implies that an account-scoped encryption key will be used. 'Service' key type implies that a default service key is used."
   syntax: "public KeyType keyType()"
   returns:
     description: "the keyType value."

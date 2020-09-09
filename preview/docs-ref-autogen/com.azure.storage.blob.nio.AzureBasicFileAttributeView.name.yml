@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureBasicFileAttributeView.name()"
   name: "name()"
   nameWithType: "AzureBasicFileAttributeView.name()"
-  summary: "Returns the name of the attribute view: <code>\"azureBasic\"</code>"
+  summary: "Returns the name of the attribute view: `\"azureBasic\"`"
   syntax: "public String name()"
   returns:
     description: "the name of the attribute view: <code>\"azureBasic\"</code>"

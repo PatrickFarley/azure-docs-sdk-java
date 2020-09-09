@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.OutputFieldMappingEntry.getTargetName()"
   name: "getTargetName()"
   nameWithType: "OutputFieldMappingEntry.getTargetName()"
-  summary: "Get the targetName property: The target name of the output. It is\n optional and default to name."
+  summary: "Get the targetName property: The target name of the output. It is optional and default to name."
   syntax: "public String getTargetName()"
   returns:
     description: "the targetName value."

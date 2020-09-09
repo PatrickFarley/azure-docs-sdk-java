@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.ImportImageParameters.untaggedTargetRepositories()"
   name: "untaggedTargetRepositories()"
   nameWithType: "ImportImageParameters.untaggedTargetRepositories()"
-  summary: "Get the untaggedTargetRepositories property: List of strings of repository names to do a manifest only copy. No\n tag will be created."
+  summary: "Get the untaggedTargetRepositories property: List of strings of repository names to do a manifest only copy. No tag will be created."
   syntax: "public List<String> untaggedTargetRepositories()"
   returns:
     description: "the untaggedTargetRepositories value."

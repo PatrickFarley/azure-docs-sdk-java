@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StaticSiteResetPropertiesArmResource.withShouldUpdateRepository(Boolean shouldUpdateRepository)"
   name: "withShouldUpdateRepository(Boolean shouldUpdateRepository)"
   nameWithType: "StaticSiteResetPropertiesArmResource.withShouldUpdateRepository(Boolean shouldUpdateRepository)"
-  summary: "Set the shouldUpdateRepository property: Determines whether the repository should be updated with the new\n properties."
+  summary: "Set the shouldUpdateRepository property: Determines whether the repository should be updated with the new properties."
   parameters:
   - description: "the shouldUpdateRepository value to set."
     name: "shouldUpdateRepository"

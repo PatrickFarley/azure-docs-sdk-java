@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.listHandles()"
   name: "listHandles()"
   nameWithType: "ShareFileClient.listHandles()"
-  summary: "List of open handles on a file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>List all handles for the file client.</p>\n\n <pre>\n fileClient.listHandles&#40;&#41;\n     .forEach&#40;handleItem -&gt; System.out.printf&#40;&quot;List handles completed with handleId %s&quot;,\n         handleItem.getHandleId&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles\">Azure Docs</a>.</p>"
+  summary: "List of open handles on a file.\n\n**Code Samples**\n\nList all handles for the file client.\n\n```java\nfileClient.listHandles()\n     .forEach(handleItem -> System.out.printf(\"List handles completed with handleId %s\",\n         handleItem.getHandleId()));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles"
   syntax: "public PagedIterable<HandleItem> listHandles()"
   returns:
     description: "<xref uid=\"com.azure.storage.file.share.models.HandleItem\" data-throw-if-not-resolved=\"false\">handles</xref> in the files that satisfy the requirements"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.listHandles(Integer maxResultsPerPage, Duration timeout, Context context)"
   name: "listHandles(Integer maxResultsPerPage, Duration timeout, Context context)"
   nameWithType: "ShareFileClient.listHandles(Integer maxResultsPerPage, Duration timeout, Context context)"
-  summary: "List of open handles on a file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>List 10 handles for the file client.</p>\n\n <pre>\n fileClient.listHandles&#40;10, Duration.ofSeconds&#40;1&#41;, new Context&#40;key1, value1&#41;&#41;\n     .forEach&#40;handleItem -&gt; System.out.printf&#40;&quot;List handles completed with handleId %s&quot;,\n         handleItem.getHandleId&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles\">Azure Docs</a>.</p>"
+  summary: "List of open handles on a file.\n\n**Code Samples**\n\nList 10 handles for the file client.\n\n```java\nfileClient.listHandles(10, Duration.ofSeconds(1), new Context(key1, value1))\n     .forEach(handleItem -> System.out.printf(\"List handles completed with handleId %s\",\n         handleItem.getHandleId()));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/list-handles"
   parameters:
   - description: "Optional max number of results returned per page"
     name: "maxResultsPerPage"

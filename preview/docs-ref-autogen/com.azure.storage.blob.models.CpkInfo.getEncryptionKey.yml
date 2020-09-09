@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.CpkInfo.getEncryptionKey()"
   name: "getEncryptionKey()"
   nameWithType: "CpkInfo.getEncryptionKey()"
-  summary: "Get the encryptionKey property: Optional. Specifies the encryption key\n to use to encrypt the data provided in the request. If not specified,\n encryption is performed with the root account encryption key.  For more\n information, see Encryption at Rest for Azure Storage Services."
+  summary: "Get the encryptionKey property: Optional. Specifies the encryption key to use to encrypt the data provided in the request. If not specified, encryption is performed with the root account encryption key. For more information, see Encryption at Rest for Azure Storage Services."
   syntax: "public String getEncryptionKey()"
   returns:
     description: "the encryptionKey value."

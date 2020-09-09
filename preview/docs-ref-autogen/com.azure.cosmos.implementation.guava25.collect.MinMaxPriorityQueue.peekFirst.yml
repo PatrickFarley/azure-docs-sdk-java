@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MinMaxPriorityQueue<E>.peekFirst()"
   name: "peekFirst()"
   nameWithType: "MinMaxPriorityQueue<E>.peekFirst()"
-  summary: "Retrieves, but does not remove, the least element of this queue, or returns <code>null</code> if the\n queue is empty."
+  summary: "Retrieves, but does not remove, the least element of this queue, or returns `null` if the queue is empty."
   syntax: "public E peekFirst()"
   returns:
     type: "<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />"

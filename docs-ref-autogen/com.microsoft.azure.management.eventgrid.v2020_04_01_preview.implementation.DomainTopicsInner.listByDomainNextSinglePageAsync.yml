@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.listByDomainNextSinglePageAsync(String nextPageLink)"
   name: "listByDomainNextSinglePageAsync(String nextPageLink)"
   nameWithType: "DomainTopicsInner.listByDomainNextSinglePageAsync(String nextPageLink)"
-  summary: "List domain topics.\n List all the topics in a domain.\n\n    ServiceResponse<PageImpl<DomainTopicInner>> * @param nextPageLink The NextLink from the previous successful call to List operation."
+  summary: "List domain topics. List all the topics in a domain. ServiceResponse> \\* @param nextPageLink The NextLink from the previous successful call to List operation."
   parameters:
   - name: "nextPageLink"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

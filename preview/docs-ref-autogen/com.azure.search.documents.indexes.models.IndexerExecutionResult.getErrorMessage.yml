@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexerExecutionResult.getErrorMessage()"
   name: "getErrorMessage()"
   nameWithType: "IndexerExecutionResult.getErrorMessage()"
-  summary: "Get the errorMessage property: The error message indicating the\n top-level error, if any."
+  summary: "Get the errorMessage property: The error message indicating the top-level error, if any."
   syntax: "public String getErrorMessage()"
   returns:
     description: "the errorMessage value."

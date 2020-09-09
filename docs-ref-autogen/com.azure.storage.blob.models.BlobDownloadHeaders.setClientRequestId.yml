@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.setClientRequestId(String clientRequestId)"
   name: "setClientRequestId(String clientRequestId)"
   nameWithType: "BlobDownloadHeaders.setClientRequestId(String clientRequestId)"
-  summary: "Set the clientRequestId property: If a client request id header is sent\n in the request, this header will be present in the response with the\n same value."
+  summary: "Set the clientRequestId property: If a client request id header is sent in the request, this header will be present in the response with the same value."
   parameters:
   - description: "the clientRequestId value to set."
     name: "clientRequestId"

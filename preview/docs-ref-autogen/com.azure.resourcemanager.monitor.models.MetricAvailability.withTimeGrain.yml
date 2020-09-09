@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAvailability.withTimeGrain(Duration timeGrain)"
   name: "withTimeGrain(Duration timeGrain)"
   nameWithType: "MetricAvailability.withTimeGrain(Duration timeGrain)"
-  summary: "Set the timeGrain property: the time grain specifies the aggregation interval for the metric. Expressed as a\n duration 'PT1M', 'P1D', etc."
+  summary: "Set the timeGrain property: the time grain specifies the aggregation interval for the metric. Expressed as a duration 'PT1M', 'P1D', etc."
   parameters:
   - description: "the timeGrain value to set."
     name: "timeGrain"

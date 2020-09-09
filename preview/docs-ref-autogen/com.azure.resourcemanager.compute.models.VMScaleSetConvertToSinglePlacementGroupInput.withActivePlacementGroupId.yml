@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VMScaleSetConvertToSinglePlacementGroupInput.withActivePlacementGroupId(String activePlacementGroupId)"
   name: "withActivePlacementGroupId(String activePlacementGroupId)"
   nameWithType: "VMScaleSetConvertToSinglePlacementGroupInput.withActivePlacementGroupId(String activePlacementGroupId)"
-  summary: "Set the activePlacementGroupId property: Id of the placement group in which you want future virtual machine\n instances to be placed. To query placement group Id, please use Virtual Machine Scale Set VMs - Get API. If not\n provided, the platform will choose one with maximum number of virtual machine instances."
+  summary: "Set the activePlacementGroupId property: Id of the placement group in which you want future virtual machine instances to be placed. To query placement group Id, please use Virtual Machine Scale Set VMs - Get API. If not provided, the platform will choose one with maximum number of virtual machine instances."
   parameters:
   - description: "the activePlacementGroupId value to set."
     name: "activePlacementGroupId"

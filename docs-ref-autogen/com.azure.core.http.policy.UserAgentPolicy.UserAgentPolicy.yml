@@ -8,13 +8,13 @@ members:
   fullName: "com.azure.core.http.policy.UserAgentPolicy.UserAgentPolicy()"
   name: "UserAgentPolicy()"
   nameWithType: "UserAgentPolicy.UserAgentPolicy()"
-  summary: "Creates a <xref uid=\"UserAgentPolicy\" data-throw-if-not-resolved=\"false\">UserAgentPolicy</xref> with a default user agent string."
+  summary: "Creates a <xref uid=\"com.azure.core.http.policy.UserAgentPolicy\" data-throw-if-not-resolved=\"false\">UserAgentPolicy</xref> with a default user agent string."
   syntax: "public UserAgentPolicy()"
 - uid: "com.azure.core.http.policy.UserAgentPolicy.UserAgentPolicy(java.lang.String)"
   fullName: "com.azure.core.http.policy.UserAgentPolicy.UserAgentPolicy(String userAgent)"
   name: "UserAgentPolicy(String userAgent)"
   nameWithType: "UserAgentPolicy.UserAgentPolicy(String userAgent)"
-  summary: "Creates a UserAgentPolicy with <code>userAgent</code> as the header value. If <code>userAgent</code> is <code>null</code>, then\n the default user agent value is used."
+  summary: "Creates a UserAgentPolicy with `userAgent` as the header value. If `userAgent` is `null`, then the default user agent value is used."
   parameters:
   - description: "The user agent string to add to request headers."
     name: "userAgent"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.core.http.policy.UserAgentPolicy.UserAgentPolicy(String sdkName, String sdkVersion, Configuration configuration, ServiceVersion version)"
   name: "UserAgentPolicy(String sdkName, String sdkVersion, Configuration configuration, ServiceVersion version)"
   nameWithType: "UserAgentPolicy.UserAgentPolicy(String sdkName, String sdkVersion, Configuration configuration, ServiceVersion version)"
-  summary: "Creates a UserAgentPolicy with the <code>sdkName</code> and <code>sdkVersion</code> in the User-Agent header value.\n\n <p>If the passed configuration contains true for AZURE_TELEMETRY_DISABLED the platform information won't be\n included in the user agent.</p>"
+  summary: "Creates a UserAgentPolicy with the `sdkName` and `sdkVersion` in the User-Agent header value.\n\nIf the passed configuration contains true for AZURE\\_TELEMETRY\\_DISABLED the platform information won't be included in the user agent."
   parameters:
   - description: "Name of the client library."
     name: "sdkName"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.core.http.policy.UserAgentPolicy.UserAgentPolicy(String applicationId, String sdkName, String sdkVersion, Configuration configuration)"
   name: "UserAgentPolicy(String applicationId, String sdkName, String sdkVersion, Configuration configuration)"
   nameWithType: "UserAgentPolicy.UserAgentPolicy(String applicationId, String sdkName, String sdkVersion, Configuration configuration)"
-  summary: "Creates a UserAgentPolicy with the <code>sdkName</code> and <code>sdkVersion</code> in the User-Agent header value.\n\n <p>If the passed configuration contains true for AZURE_TELEMETRY_DISABLED the platform information won't be\n included in the user agent.</p>"
+  summary: "Creates a UserAgentPolicy with the `sdkName` and `sdkVersion` in the User-Agent header value.\n\nIf the passed configuration contains true for AZURE\\_TELEMETRY\\_DISABLED the platform information won't be included in the user agent."
   parameters:
   - description: "User specified application Id."
     name: "applicationId"

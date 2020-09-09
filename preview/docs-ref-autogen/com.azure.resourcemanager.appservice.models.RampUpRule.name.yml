@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.RampUpRule.name()"
   name: "name()"
   nameWithType: "RampUpRule.name()"
-  summary: "Get the name property: Name of the routing rule. The recommended name would be to point to the slot which will\n receive the traffic in the experiment."
+  summary: "Get the name property: Name of the routing rule. The recommended name would be to point to the slot which will receive the traffic in the experiment."
   syntax: "public String name()"
   returns:
     description: "the name value."

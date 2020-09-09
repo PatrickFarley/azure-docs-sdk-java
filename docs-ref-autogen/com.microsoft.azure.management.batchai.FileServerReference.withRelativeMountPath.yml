@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.FileServerReference.withRelativeMountPath(String relativeMountPath)"
   name: "withRelativeMountPath(String relativeMountPath)"
   nameWithType: "FileServerReference.withRelativeMountPath(String relativeMountPath)"
-  summary: "Set the relative path on the compute node where the File Server will be mounted. Note that all cluster level file servers will be mounted under $AZ_BATCHAI_MOUNT_ROOT location and all job level file servers will be mounted under $AZ_BATCHAI_JOB_MOUNT_ROOT."
+  summary: "Set the relative path on the compute node where the File Server will be mounted. Note that all cluster level file servers will be mounted under $AZ\\_BATCHAI\\_MOUNT\\_ROOT location and all job level file servers will be mounted under $AZ\\_BATCHAI\\_JOB\\_MOUNT\\_ROOT."
   parameters:
   - description: "the relativeMountPath value to set"
     name: "relativeMountPath"

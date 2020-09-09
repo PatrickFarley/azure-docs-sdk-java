@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.UserInner.withUserType(UserType userType)"
   name: "withUserType(UserType userType)"
   nameWithType: "UserInner.withUserType(UserType userType)"
-  summary: "Set the userType property: A string value that can be used to classify user types in your directory, such as\n 'Member' and 'Guest'."
+  summary: "Set the userType property: A string value that can be used to classify user types in your directory, such as 'Member' and 'Guest'."
   parameters:
   - description: "the userType value to set."
     name: "userType"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_DS4"
   name: "STANDARD_DS4"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_DS4"
-  summary: "Static value Standard_DS4 for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_DS4 for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_DS4"
 type: "field"
 metadata: {}

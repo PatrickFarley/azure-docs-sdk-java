@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetIdentity.type()"
   name: "type()"
   nameWithType: "VirtualMachineScaleSetIdentity.type()"
-  summary: "Get the type property: The type of identity used for the virtual machine scale set. The type 'SystemAssigned,\n UserAssigned' includes both an implicitly created identity and a set of user assigned identities. The type 'None'\n will remove any identities from the virtual machine scale set."
+  summary: "Get the type property: The type of identity used for the virtual machine scale set. The type 'SystemAssigned, UserAssigned' includes both an implicitly created identity and a set of user assigned identities. The type 'None' will remove any identities from the virtual machine scale set."
   syntax: "public ResourceIdentityType type()"
   returns:
     description: "the type value."

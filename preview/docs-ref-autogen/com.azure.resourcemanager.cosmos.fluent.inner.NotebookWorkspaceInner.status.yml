@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.inner.NotebookWorkspaceInner.status()"
   name: "status()"
   nameWithType: "NotebookWorkspaceInner.status()"
-  summary: "Get the status property: Status of the notebook workspace. Possible values are: Creating, Online, Deleting,\n Failed, Updating."
+  summary: "Get the status property: Status of the notebook workspace. Possible values are: Creating, Online, Deleting, Failed, Updating."
   syntax: "public String status()"
   returns:
     description: "the status value."

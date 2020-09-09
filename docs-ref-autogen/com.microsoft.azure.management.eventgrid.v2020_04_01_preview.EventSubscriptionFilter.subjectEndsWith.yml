@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventSubscriptionFilter.subjectEndsWith()"
   name: "subjectEndsWith()"
   nameWithType: "EventSubscriptionFilter.subjectEndsWith()"
-  summary: "Get an optional string to filter events for an event subscription based on a resource path suffix.\n     Wildcard characters are not supported in this path."
+  summary: "Get an optional string to filter events for an event subscription based on a resource path suffix. Wildcard characters are not supported in this path."
   syntax: "public String subjectEndsWith()"
   returns:
     description: "the subjectEndsWith value"

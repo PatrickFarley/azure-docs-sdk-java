@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClientBuilder.snapshot(String snapshot)"
   name: "snapshot(String snapshot)"
   nameWithType: "ShareClientBuilder.snapshot(String snapshot)"
-  summary: "Sets the snapshot that the constructed clients will interact with. This snapshot must be linked to the share that\n has been specified in the builder."
+  summary: "Sets the snapshot that the constructed clients will interact with. This snapshot must be linked to the share that has been specified in the builder."
   parameters:
   - description: "Identifier of the snapshot"
     name: "snapshot"

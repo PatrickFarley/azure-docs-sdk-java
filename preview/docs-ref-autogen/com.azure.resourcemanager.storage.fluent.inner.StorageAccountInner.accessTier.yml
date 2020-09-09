@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.accessTier()"
   name: "accessTier()"
   nameWithType: "StorageAccountInner.accessTier()"
-  summary: "Get the accessTier property: Required for storage accounts where kind = BlobStorage. The access tier used for\n billing."
+  summary: "Get the accessTier property: Required for storage accounts where kind = BlobStorage. The access tier used for billing."
   syntax: "public AccessTier accessTier()"
   returns:
     description: "the accessTier value."

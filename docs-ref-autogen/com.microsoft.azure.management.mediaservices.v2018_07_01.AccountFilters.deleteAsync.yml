@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.AccountFilters.deleteAsync(String resourceGroupName, String accountName, String filterName)"
   name: "deleteAsync(String resourceGroupName, String accountName, String filterName)"
   nameWithType: "AccountFilters.deleteAsync(String resourceGroupName, String accountName, String filterName)"
-  summary: "Delete an Account Filter.\n Deletes an Account Filter in the Media Services account."
+  summary: "Delete an Account Filter. Deletes an Account Filter in the Media Services account."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

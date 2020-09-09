@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusClientBuilder.ServiceBusReceiverClientBuilder.subscriptionName(String subscriptionName)"
   name: "subscriptionName(String subscriptionName)"
   nameWithType: "ServiceBusClientBuilder.ServiceBusReceiverClientBuilder.subscriptionName(String subscriptionName)"
-  summary: "Sets the name of the subscription in the topic to listen to. <b><xref uid=\"#topicName(String)\" data-throw-if-not-resolved=\"false\">#topicName(String)</xref> must also be set.\n </b>"
+  summary: "Sets the name of the subscription in the topic to listen to. **<xref uid=\"com.azure.messaging.servicebus.ServiceBusClientBuilder.ServiceBusReceiverClientBuilder.topicName(java.lang.String)\" data-throw-if-not-resolved=\"false\">#topicName(String)</xref> must also be set.** "
   parameters:
   - description: "Name of the subscription."
     name: "subscriptionName"

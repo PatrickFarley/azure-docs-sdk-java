@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromAllNetworks()"
   name: "withAccessFromAllNetworks()"
   nameWithType: "StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromAllNetworks()"
-  summary: "Specifies that by default access to storage account should be allowed from\n all networks."
+  summary: "Specifies that by default access to storage account should be allowed from all networks."
   syntax: "public abstract StorageAccount.Update withAccessFromAllNetworks()"
   returns:
     description: "the next stage of storage account update"

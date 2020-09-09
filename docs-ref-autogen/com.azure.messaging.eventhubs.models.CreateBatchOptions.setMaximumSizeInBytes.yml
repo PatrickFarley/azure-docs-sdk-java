@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.models.CreateBatchOptions.setMaximumSizeInBytes(int maximumSizeInBytes)"
   name: "setMaximumSizeInBytes(int maximumSizeInBytes)"
   nameWithType: "CreateBatchOptions.setMaximumSizeInBytes(int maximumSizeInBytes)"
-  summary: "Sets the maximum size for the <xref uid=\"EventDataBatch\" data-throw-if-not-resolved=\"false\">batch of events</xref>, in bytes."
+  summary: "Sets the maximum size for the <xref uid=\"com.azure.messaging.eventhubs.EventDataBatch\" data-throw-if-not-resolved=\"false\">batch of events</xref>, in bytes."
   parameters:
   - description: "The maximum size to allow for the <xref uid=\"com.azure.messaging.eventhubs.EventDataBatch\" data-throw-if-not-resolved=\"false\">batch of events</xref>."
     name: "maximumSizeInBytes"

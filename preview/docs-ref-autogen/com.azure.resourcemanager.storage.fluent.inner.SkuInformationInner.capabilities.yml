@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.SkuInformationInner.capabilities()"
   name: "capabilities()"
   nameWithType: "SkuInformationInner.capabilities()"
-  summary: "Get the capabilities property: The capability information in the specified SKU, including file encryption,\n network ACLs, change notification, etc."
+  summary: "Get the capabilities property: The capability information in the specified SKU, including file encryption, network ACLs, change notification, etc."
   syntax: "public List<SkuCapability> capabilities()"
   returns:
     description: "the capabilities value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.language.spellcheck.BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withDocId(String docId)"
   name: "withDocId(String docId)"
   nameWithType: "BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withDocId(String docId)"
-  summary: "A unique ID that identifies the document that the text belongs to. Generate a unique value for each document\n   (the value is unimportant). The service uses the ID to help debug issues and improve the quality of\n   corrections."
+  summary: "A unique ID that identifies the document that the text belongs to. Generate a unique value for each document (the value is unimportant). The service uses the ID to help debug issues and improve the quality of corrections."
   parameters:
   - name: "docId"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

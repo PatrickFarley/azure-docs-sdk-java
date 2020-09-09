@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.OAuth2Permission.withIsEnabled(Boolean isEnabled)"
   name: "withIsEnabled(Boolean isEnabled)"
   nameWithType: "OAuth2Permission.withIsEnabled(Boolean isEnabled)"
-  summary: "Set the isEnabled property: When creating or updating a permission, this property must be set to true (which is\n the default). To delete a permission, this property must first be set to false. At that point, in a subsequent\n call, the permission may be removed."
+  summary: "Set the isEnabled property: When creating or updating a permission, this property must be set to true (which is the default). To delete a permission, this property must first be set to false. At that point, in a subsequent call, the permission may be removed."
   parameters:
   - description: "the isEnabled value to set."
     name: "isEnabled"

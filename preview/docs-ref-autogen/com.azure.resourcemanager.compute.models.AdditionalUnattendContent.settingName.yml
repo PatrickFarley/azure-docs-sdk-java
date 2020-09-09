@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.AdditionalUnattendContent.settingName()"
   name: "settingName()"
   nameWithType: "AdditionalUnattendContent.settingName()"
-  summary: "Get the settingName property: Specifies the name of the setting to which the content applies. Possible values\n are: FirstLogonCommands and AutoLogon."
+  summary: "Get the settingName property: Specifies the name of the setting to which the content applies. Possible values are: FirstLogonCommands and AutoLogon."
   syntax: "public SettingNames settingName()"
   returns:
     description: "the settingName value."

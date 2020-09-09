@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.updatePoolProperties(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata)"
   name: "updatePoolProperties(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata)"
   nameWithType: "PoolOperations.updatePoolProperties(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata)"
-  summary: "Updates the specified pool. This method fully replaces all the updatable\n properties of the pool. For example, if the startTask parameter is null and\n the pool has a start task associated with it, then the Batch service will\n remove the existing start task."
+  summary: "Updates the specified pool. This method fully replaces all the updatable properties of the pool. For example, if the startTask parameter is null and the pool has a start task associated with it, then the Batch service will remove the existing start task."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"
@@ -35,7 +35,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.updatePoolProperties(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "updatePoolProperties(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "PoolOperations.updatePoolProperties(String poolId, StartTask startTask, Collection<CertificateReference> certificateReferences, Collection<ApplicationPackageReference> applicationPackageReferences, Collection<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Updates the specified pool. This method fully replaces all the updatable\n properties of the pool. For example, if the startTask parameter is null and\n the pool has a start task associated with it, then the Batch service will\n remove the existing start task."
+  summary: "Updates the specified pool. This method fully replaces all the updatable properties of the pool. For example, if the startTask parameter is null and the pool has a start task associated with it, then the Batch service will remove the existing start task."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"

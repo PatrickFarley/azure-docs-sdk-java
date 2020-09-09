@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileAsyncClient.download()"
   name: "download()"
   nameWithType: "ShareFileAsyncClient.download()"
-  summary: "Downloads a file from the system, including its metadata and properties\n\n <p><strong>Code Samples</strong></p>\n\n <p>Download the file with its metadata and properties. </p>\n\n <pre>\n shareFileAsyncClient.download&#40;&#41;.subscribe&#40;\n     response -&gt; &#123; &#125;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Complete downloading the data!&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-file\">Azure Docs</a>.</p>"
+  summary: "Downloads a file from the system, including its metadata and properties\n\n**Code Samples**\n\nDownload the file with its metadata and properties.\n\n```java\nshareFileAsyncClient.download().subscribe(\n     response -> { },\n     error -> System.err.print(error.toString()),\n     () -> System.out.println(\"Complete downloading the data!\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-file"
   syntax: "public Flux<ByteBuffer> download()"
   returns:
     description: "A reactive response containing the file data."

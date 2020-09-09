@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName)"
   name: "listByDomainAsync(String resourceGroupName, String domainName)"
   nameWithType: "DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName)"
-  summary: "List domain topics.\n List all the topics in a domain."
+  summary: "List domain topics. List all the topics in a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName, ListOperationCallback<DomainTopicInner> serviceCallback)"
   name: "listByDomainAsync(String resourceGroupName, String domainName, ListOperationCallback<DomainTopicInner> serviceCallback)"
   nameWithType: "DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName, ListOperationCallback<DomainTopicInner> serviceCallback)"
-  summary: "List domain topics.\n List all the topics in a domain."
+  summary: "List domain topics. List all the topics in a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName, String filter, Integer top)"
   name: "listByDomainAsync(String resourceGroupName, String domainName, String filter, Integer top)"
   nameWithType: "DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName, String filter, Integer top)"
-  summary: "List domain topics.\n List all the topics in a domain."
+  summary: "List domain topics. List all the topics in a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName, String filter, Integer top, ListOperationCallback<DomainTopicInner> serviceCallback)"
   name: "listByDomainAsync(String resourceGroupName, String domainName, String filter, Integer top, ListOperationCallback<DomainTopicInner> serviceCallback)"
   nameWithType: "DomainTopicsInner.listByDomainAsync(String resourceGroupName, String domainName, String filter, Integer top, ListOperationCallback<DomainTopicInner> serviceCallback)"
-  summary: "List domain topics.\n List all the topics in a domain."
+  summary: "List domain topics. List all the topics in a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

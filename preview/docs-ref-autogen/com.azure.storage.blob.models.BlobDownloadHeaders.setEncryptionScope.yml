@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.setEncryptionScope(String encryptionScope)"
   name: "setEncryptionScope(String encryptionScope)"
   nameWithType: "BlobDownloadHeaders.setEncryptionScope(String encryptionScope)"
-  summary: "Set the encryptionScope property: Returns the name of the encryption\n scope used to encrypt the blob contents and application metadata.  Note\n that the absence of this header implies use of the default account\n encryption scope."
+  summary: "Set the encryptionScope property: Returns the name of the encryption scope used to encrypt the blob contents and application metadata. Note that the absence of this header implies use of the default account encryption scope."
   parameters:
   - description: "the encryptionScope value to set."
     name: "encryptionScope"

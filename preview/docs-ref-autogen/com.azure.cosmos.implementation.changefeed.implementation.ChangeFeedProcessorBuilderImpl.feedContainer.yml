@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedProcessorBuilderImpl.feedContainer(CosmosAsyncContainer feedDocumentClient)"
   name: "feedContainer(CosmosAsyncContainer feedDocumentClient)"
   nameWithType: "ChangeFeedProcessorBuilderImpl.feedContainer(CosmosAsyncContainer feedDocumentClient)"
-  summary: "Sets and existing <xref uid=\"CosmosAsyncContainer\" data-throw-if-not-resolved=\"false\">CosmosAsyncContainer</xref> to be used to read from the monitored collection."
+  summary: "Sets and existing <xref uid=\"com.azure.cosmos.CosmosAsyncContainer\" data-throw-if-not-resolved=\"false\">CosmosAsyncContainer</xref> to be used to read from the monitored collection."
   parameters:
   - description: "the instance of <xref uid=\"com.azure.cosmos.CosmosAsyncContainer\" data-throw-if-not-resolved=\"false\">CosmosAsyncContainer</xref> to be used."
     name: "feedDocumentClient"

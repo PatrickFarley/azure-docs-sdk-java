@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StackMajorVersion.withIsPreview(Boolean isPreview)"
   name: "withIsPreview(Boolean isPreview)"
   nameWithType: "StackMajorVersion.withIsPreview(Boolean isPreview)"
-  summary: "Set the isPreview property: &lt;code&gt;true&lt;/code&gt; if this stack is in Preview, otherwise\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the isPreview property: <code>true</code> if this stack is in Preview, otherwise <code>false</code>."
   parameters:
   - description: "the isPreview value to set."
     name: "isPreview"

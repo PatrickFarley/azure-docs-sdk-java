@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.implementation.ExternalChildResourceImpl<FluentModelT,InnerModelT,ParentImplT,ParentT>.clear()"
   name: "clear()"
   nameWithType: "ExternalChildResourceImpl<FluentModelT,InnerModelT,ParentImplT,ParentT>.clear()"
-  summary: "Mark that there is no action pending on this child resource and clear\n any cached result, i.e. the output produced by the invocation of last\n action."
+  summary: "Mark that there is no action pending on this child resource and clear any cached result, i.e. the output produced by the invocation of last action."
   syntax: "public void clear()"
 type: "method"
 metadata: {}

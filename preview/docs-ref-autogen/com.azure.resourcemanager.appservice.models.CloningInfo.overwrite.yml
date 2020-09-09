@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.overwrite()"
   name: "overwrite()"
   nameWithType: "CloningInfo.overwrite()"
-  summary: "Get the overwrite property: &lt;code&gt;true&lt;/code&gt; to overwrite destination app; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the overwrite property: <code>true</code> to overwrite destination app; otherwise, <code>false</code>."
   syntax: "public Boolean overwrite()"
   returns:
     description: "the overwrite value."

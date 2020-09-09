@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ExpressRouteCircuitPeering.DefinitionStages.WithAdvertisedPublicPrefixes.withAdvertisedPublicPrefixes(String publicPrefixes)"
   name: "withAdvertisedPublicPrefixes(String publicPrefixes)"
   nameWithType: "ExpressRouteCircuitPeering.DefinitionStages.WithAdvertisedPublicPrefixes.withAdvertisedPublicPrefixes(String publicPrefixes)"
-  summary: "Specify advertised prefixes: sets a list of all prefixes that are planned to advertise over the BGP\n session. Only public IP address prefixes are accepted. A set of prefixes can be sent as a comma-separated\n list. These prefixes must be registered to you in an RIR / IRR."
+  summary: "Specify advertised prefixes: sets a list of all prefixes that are planned to advertise over the BGP session. Only public IP address prefixes are accepted. A set of prefixes can be sent as a comma-separated list. These prefixes must be registered to you in an RIR / IRR."
   parameters:
   - description: "advertised prefixes"
     name: "publicPrefixes"

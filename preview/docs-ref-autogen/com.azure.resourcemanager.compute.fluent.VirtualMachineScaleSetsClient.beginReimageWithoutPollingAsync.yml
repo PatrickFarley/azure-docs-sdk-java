@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName)"
   name: "beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName)"
   nameWithType: "VirtualMachineScaleSetsClient.beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName)"
-  summary: "Reimages (upgrade the operating system) one or more virtual machines in a VM scale set which don't have a\n ephemeral OS disk, for virtual machines who have a ephemeral OS disk the virtual machine is reset to initial\n state."
+  summary: "Reimages (upgrade the operating system) one or more virtual machines in a VM scale set which don't have a ephemeral OS disk, for virtual machines who have a ephemeral OS disk the virtual machine is reset to initial state."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, VirtualMachineScaleSetReimageParameters vmScaleSetReimageInput)"
   name: "beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, VirtualMachineScaleSetReimageParameters vmScaleSetReimageInput)"
   nameWithType: "VirtualMachineScaleSetsClient.beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, VirtualMachineScaleSetReimageParameters vmScaleSetReimageInput)"
-  summary: "Reimages (upgrade the operating system) one or more virtual machines in a VM scale set which don't have a\n ephemeral OS disk, for virtual machines who have a ephemeral OS disk the virtual machine is reset to initial\n state."
+  summary: "Reimages (upgrade the operating system) one or more virtual machines in a VM scale set which don't have a ephemeral OS disk, for virtual machines who have a ephemeral OS disk the virtual machine is reset to initial state."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, VirtualMachineScaleSetReimageParameters vmScaleSetReimageInput, Context context)"
   name: "beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, VirtualMachineScaleSetReimageParameters vmScaleSetReimageInput, Context context)"
   nameWithType: "VirtualMachineScaleSetsClient.beginReimageWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, VirtualMachineScaleSetReimageParameters vmScaleSetReimageInput, Context context)"
-  summary: "Reimages (upgrade the operating system) one or more virtual machines in a VM scale set which don't have a\n ephemeral OS disk, for virtual machines who have a ephemeral OS disk the virtual machine is reset to initial\n state."
+  summary: "Reimages (upgrade the operating system) one or more virtual machines in a VM scale set which don't have a ephemeral OS disk, for virtual machines who have a ephemeral OS disk the virtual machine is reset to initial state."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

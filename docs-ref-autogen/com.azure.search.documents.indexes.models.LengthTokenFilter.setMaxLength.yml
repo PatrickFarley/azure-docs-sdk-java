@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LengthTokenFilter.setMaxLength(Integer maxLength)"
   name: "setMaxLength(Integer maxLength)"
   nameWithType: "LengthTokenFilter.setMaxLength(Integer maxLength)"
-  summary: "Set the maxLength property: The maximum length in characters. Default\n and maximum is 300."
+  summary: "Set the maxLength property: The maximum length in characters. Default and maximum is 300."
   parameters:
   - description: "the maxLength value to set."
     name: "maxLength"

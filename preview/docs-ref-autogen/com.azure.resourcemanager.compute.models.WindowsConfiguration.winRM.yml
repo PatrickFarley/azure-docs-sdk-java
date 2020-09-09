@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.WindowsConfiguration.winRM()"
   name: "winRM()"
   nameWithType: "WindowsConfiguration.winRM()"
-  summary: "Get the winRM property: Specifies the Windows Remote Management listeners. This enables remote Windows\n PowerShell."
+  summary: "Get the winRM property: Specifies the Windows Remote Management listeners. This enables remote Windows PowerShell."
   syntax: "public WinRMConfiguration winRM()"
   returns:
     description: "the winRM value."

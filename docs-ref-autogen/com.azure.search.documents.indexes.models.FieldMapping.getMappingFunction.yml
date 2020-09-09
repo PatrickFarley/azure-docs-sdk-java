@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.FieldMapping.getMappingFunction()"
   name: "getMappingFunction()"
   nameWithType: "FieldMapping.getMappingFunction()"
-  summary: "Get the mappingFunction property: A function to apply to each source\n field value before indexing."
+  summary: "Get the mappingFunction property: A function to apply to each source field value before indexing."
   syntax: "public FieldMappingFunction getMappingFunction()"
   returns:
     description: "the mappingFunction value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MapMaker.<K,V>makeMap()"
   name: "<K,V>makeMap()"
   nameWithType: "MapMaker.<K,V>makeMap()"
-  summary: "Builds a thread-safe map. This method does not alter the state of this <code>MapMaker</code>\n instance, so it can be invoked again to create multiple independent maps.\n\n <p>The bulk operations <code>putAll</code>, <code>equals</code>, and <code>clear</code> are not guaranteed to\n be performed atomically on the returned map. Additionally, <code>size</code> and <code>\n containsValue</code> are implemented as bulk read operations, and thus may fail to observe concurrent\n writes."
+  summary: "Builds a thread-safe map. This method does not alter the state of this `MapMaker` instance, so it can be invoked again to create multiple independent maps.\n\nThe bulk operations `putAll`, `equals`, and `clear` are not guaranteed to be performed atomically on the returned map. Additionally, `size` and `containsValue` are implemented as bulk read operations, and thus may fail to observe concurrent writes."
   syntax: "public ConcurrentMap<K,V> <K,V>makeMap()"
   returns:
     description: "a serializable concurrent map having the requested features"

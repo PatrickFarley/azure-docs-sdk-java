@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexer.setTargetIndexName(String targetIndexName)"
   name: "setTargetIndexName(String targetIndexName)"
   nameWithType: "SearchIndexer.setTargetIndexName(String targetIndexName)"
-  summary: "Set the targetIndexName property: The name of the index to which this\n indexer writes data."
+  summary: "Set the targetIndexName property: The name of the index to which this indexer writes data."
   parameters:
   - description: "the targetIndexName value."
     name: "targetIndexName"

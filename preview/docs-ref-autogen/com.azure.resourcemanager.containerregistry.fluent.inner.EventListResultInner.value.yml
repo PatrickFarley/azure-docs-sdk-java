@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.EventListResultInner.value()"
   name: "value()"
   nameWithType: "EventListResultInner.value()"
-  summary: "Get the value property: The list of events. Since this list may be incomplete, the nextLink field should be used\n to request the next list of events."
+  summary: "Get the value property: The list of events. Since this list may be incomplete, the nextLink field should be used to request the next list of events."
   syntax: "public List<EventInner> value()"
   returns:
     description: "the value value."

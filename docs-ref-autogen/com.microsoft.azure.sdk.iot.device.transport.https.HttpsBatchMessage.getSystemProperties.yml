@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsBatchMessage.getSystemProperties()"
   name: "getSystemProperties()"
   nameWithType: "HttpsBatchMessage.getSystemProperties()"
-  summary: "It is part of the HttpsMessage interface to get the collection of system message\n properties. For batch, it just returns a empty Map."
+  summary: "It is part of the HttpsMessage interface to get the collection of system message properties. For batch, it just returns a empty Map."
   syntax: "public Map<String,String> getSystemProperties()"
   returns:
     description: "an empty Map."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ActivityLogAlertLeafCondition.withEquals(String equals)"
   name: "withEquals(String equals)"
   nameWithType: "ActivityLogAlertLeafCondition.withEquals(String equals)"
-  summary: "Set the equals property: The field value will be compared to this value (case-insensitive) to determine if the\n condition is met."
+  summary: "Set the equals property: The field value will be compared to this value (case-insensitive) to determine if the condition is met."
   parameters:
   - description: "the equals value to set."
     name: "equals"

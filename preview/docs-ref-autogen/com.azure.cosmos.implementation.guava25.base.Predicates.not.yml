@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicates.<T>not(Predicate<T> predicate)"
   name: "<T>not(Predicate<T> predicate)"
   nameWithType: "Predicates.<T>not(Predicate<T> predicate)"
-  summary: "Returns a predicate that evaluates to <code>true</code> if the given predicate evaluates to <code>\n false</code>."
+  summary: "Returns a predicate that evaluates to `true` if the given predicate evaluates to `false`."
   parameters:
   - name: "predicate"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.Predicate?alt=com.azure.cosmos.implementation.guava25.base.Predicate&text=Predicate\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

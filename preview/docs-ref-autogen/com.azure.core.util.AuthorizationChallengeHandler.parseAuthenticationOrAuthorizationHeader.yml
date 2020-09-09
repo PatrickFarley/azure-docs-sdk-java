@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.AuthorizationChallengeHandler.parseAuthenticationOrAuthorizationHeader(String header)"
   name: "parseAuthenticationOrAuthorizationHeader(String header)"
   nameWithType: "AuthorizationChallengeHandler.parseAuthenticationOrAuthorizationHeader(String header)"
-  summary: "Parses the <code>Authorization</code> or <code>Authentication</code> header into its key-value pairs.\n <p>\n This will remove quotes on quoted string values."
+  summary: "Parses the `Authorization` or `Authentication` header into its key-value pairs.\n\nThis will remove quotes on quoted string values."
   parameters:
   - description: "Authorization or Authentication header."
     name: "header"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.SqlDatabaseThreatDetectionPolicy.DefinitionStages.WithRetentionDays.withRetentionDays(int retentionDays)"
   name: "withRetentionDays(int retentionDays)"
   nameWithType: "SqlDatabaseThreatDetectionPolicy.DefinitionStages.WithRetentionDays.withRetentionDays(int retentionDays)"
-  summary: "Sets the security alert policy email addresses.\n <p>\n Specifies the number of days to keep in the Threat Detection audit logs."
+  summary: "Sets the security alert policy email addresses.\n\nSpecifies the number of days to keep in the Threat Detection audit logs."
   parameters:
   - description: "the number of days to keep in the Threat Detection audit logs"
     name: "retentionDays"

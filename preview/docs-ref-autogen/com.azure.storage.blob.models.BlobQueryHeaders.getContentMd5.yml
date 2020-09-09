@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobQueryHeaders.getContentMd5()"
   name: "getContentMd5()"
   nameWithType: "BlobQueryHeaders.getContentMd5()"
-  summary: "Get the contentMd5 property: If the blob has an MD5 hash and this\n operation is to read the full blob, this response header is returned so\n that the client can check for message content integrity."
+  summary: "Get the contentMd5 property: If the blob has an MD5 hash and this operation is to read the full blob, this response header is returned so that the client can check for message content integrity."
   syntax: "public byte[] getContentMd5()"
   returns:
     description: "the contentMd5 value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.equals(Object obj)"
   name: "equals(Object obj)"
   nameWithType: "Pair<L,R>.equals(Object obj)"
-  summary: "<p>Compares this pair to another based on the two elements.</p>"
+  summary: "Compares this pair to another based on the two elements."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - description: "the object to compare to, null returns false"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.usageBasedRecommendationServiceLevelObjective()"
   name: "usageBasedRecommendationServiceLevelObjective()"
   nameWithType: "ServiceTierAdvisorInner.usageBasedRecommendationServiceLevelObjective()"
-  summary: "Get the usageBasedRecommendationServiceLevelObjective property: Gets or sets\n usageBasedRecommendationServiceLevelObjective for service tier advisor."
+  summary: "Get the usageBasedRecommendationServiceLevelObjective property: Gets or sets usageBasedRecommendationServiceLevelObjective for service tier advisor."
   syntax: "public String usageBasedRecommendationServiceLevelObjective()"
   returns:
     description: "the usageBasedRecommendationServiceLevelObjective value."

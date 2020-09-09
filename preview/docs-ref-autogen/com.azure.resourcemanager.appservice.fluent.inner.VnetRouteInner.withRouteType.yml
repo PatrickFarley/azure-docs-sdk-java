@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.VnetRouteInner.withRouteType(RouteType routeType)"
   name: "withRouteType(RouteType routeType)"
   nameWithType: "VnetRouteInner.withRouteType(RouteType routeType)"
-  summary: "Set the routeType property: The type of route this is: DEFAULT - By default, every app has routes to the local\n address ranges specified by RFC1918 INHERITED - Routes inherited from the real Virtual Network routes STATIC -\n Static route set on the app only\n\n <p>These values will be used for syncing an app's routes with those from a Virtual Network."
+  summary: "Set the routeType property: The type of route this is: DEFAULT - By default, every app has routes to the local address ranges specified by RFC1918 INHERITED - Routes inherited from the real Virtual Network routes STATIC - Static route set on the app only\n\nThese values will be used for syncing an app's routes with those from a Virtual Network."
   parameters:
   - description: "the routeType value to set."
     name: "routeType"

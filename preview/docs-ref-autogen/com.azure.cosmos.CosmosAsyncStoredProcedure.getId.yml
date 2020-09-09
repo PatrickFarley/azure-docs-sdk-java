@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncStoredProcedure.getId()"
   name: "getId()"
   nameWithType: "CosmosAsyncStoredProcedure.getId()"
-  summary: "Get the id of the <xref uid=\"CosmosAsyncStoredProcedure\" data-throw-if-not-resolved=\"false\">CosmosAsyncStoredProcedure</xref>"
+  summary: "Get the id of the <xref uid=\"com.azure.cosmos.CosmosAsyncStoredProcedure\" data-throw-if-not-resolved=\"false\">CosmosAsyncStoredProcedure</xref>"
   syntax: "public String getId()"
   returns:
     description: "the id of the <xref uid=\"com.azure.cosmos.CosmosAsyncStoredProcedure\" data-throw-if-not-resolved=\"false\">CosmosAsyncStoredProcedure</xref>"

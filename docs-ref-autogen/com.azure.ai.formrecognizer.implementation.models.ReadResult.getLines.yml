@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.ReadResult.getLines()"
   name: "getLines()"
   nameWithType: "ReadResult.getLines()"
-  summary: "Get the lines property: When includeTextDetails is set to true, a list of recognized text lines. The maximum\n number of lines returned is 300 per page. The lines are sorted top to bottom, left to right, although in certain\n cases proximity is treated with higher priority. As the sorting order depends on the detected text, it may change\n across images and OCR version updates. Thus, business logic should be built upon the actual line location instead\n of order."
+  summary: "Get the lines property: When includeTextDetails is set to true, a list of recognized text lines. The maximum number of lines returned is 300 per page. The lines are sorted top to bottom, left to right, although in certain cases proximity is treated with higher priority. As the sorting order depends on the detected text, it may change across images and OCR version updates. Thus, business logic should be built upon the actual line location instead of order."
   syntax: "public List<TextLine> getLines()"
   returns:
     description: "the lines value."

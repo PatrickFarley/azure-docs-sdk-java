@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.convertKey(Object key)"
   name: "convertKey(Object key)"
   nameWithType: "AbstractHashedMap<K,V>.convertKey(Object key)"
-  summary: "Converts input keys to another object for storage in the map.\n This implementation masks nulls.\n Subclasses can override this to perform alternate key conversions.\n <p>\n The reverse conversion can be changed, if required, by overriding the\n getKey() method in the hash entry."
+  summary: "Converts input keys to another object for storage in the map. This implementation masks nulls. Subclasses can override this to perform alternate key conversions.\n\nThe reverse conversion can be changed, if required, by overriding the getKey() method in the hash entry."
   parameters:
   - description: "the key convert"
     name: "key"

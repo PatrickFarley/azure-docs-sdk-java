@@ -8,13 +8,13 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.VerifyException.VerifyException()"
   name: "VerifyException()"
   nameWithType: "VerifyException.VerifyException()"
-  summary: "Constructs a <code>VerifyException</code> with no message."
+  summary: "Constructs a `VerifyException` with no message."
   syntax: "public VerifyException()"
 - uid: "com.azure.cosmos.implementation.guava25.base.VerifyException.VerifyException(java.lang.String)"
   fullName: "com.azure.cosmos.implementation.guava25.base.VerifyException.VerifyException(String message)"
   name: "VerifyException(String message)"
   nameWithType: "VerifyException.VerifyException(String message)"
-  summary: "Constructs a <code>VerifyException</code> with the message <code>message</code>."
+  summary: "Constructs a `VerifyException` with the message `message`."
   parameters:
   - name: "message"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
@@ -23,7 +23,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.VerifyException.VerifyException(String message, Throwable cause)"
   name: "VerifyException(String message, Throwable cause)"
   nameWithType: "VerifyException.VerifyException(String message, Throwable cause)"
-  summary: "Constructs a <code>VerifyException</code> with the message <code>message</code> and the cause <code>\n cause</code>."
+  summary: "Constructs a `VerifyException` with the message `message` and the cause `cause`."
   parameters:
   - name: "message"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
@@ -34,7 +34,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.VerifyException.VerifyException(Throwable cause)"
   name: "VerifyException(Throwable cause)"
   nameWithType: "VerifyException.VerifyException(Throwable cause)"
-  summary: "Constructs a <code>VerifyException</code> with the cause <code>cause</code> and a message that is <code>\n null</code> if <code>cause</code> is null, and <code>cause.toString()</code> otherwise."
+  summary: "Constructs a `VerifyException` with the cause `cause` and a message that is `null` if `cause` is null, and `cause.toString()` otherwise."
   parameters:
   - name: "cause"
     type: "<xref href=\"java.lang.Throwable?alt=java.lang.Throwable&text=Throwable\" data-throw-if-not-resolved=\"False\" />"

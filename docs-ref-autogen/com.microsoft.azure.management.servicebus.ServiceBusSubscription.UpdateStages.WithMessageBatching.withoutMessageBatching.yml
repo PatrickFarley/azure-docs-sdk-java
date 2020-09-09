@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.ServiceBusSubscription.UpdateStages.WithMessageBatching.withoutMessageBatching()"
   name: "withoutMessageBatching()"
   nameWithType: "ServiceBusSubscription.UpdateStages.WithMessageBatching.withoutMessageBatching()"
-  summary: "Specifies that batching of messages should be disabled when service bus write messages to\n or delete messages from it's internal store."
+  summary: "Specifies that batching of messages should be disabled when service bus write messages to or delete messages from it's internal store."
   syntax: "public abstract ServiceBusSubscription.Update withoutMessageBatching()"
   returns:
     description: "the next stage of subscription update"

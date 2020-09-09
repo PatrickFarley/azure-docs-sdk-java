@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.createAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer)"
   name: "createAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer)"
   nameWithType: "BlobContainersClient.createAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer)"
-  summary: "Creates a new container under the specified account as described by request body. The container resource includes\n metadata and properties for that container. It does not include a list of the blobs contained by the container."
+  summary: "Creates a new container under the specified account as described by request body. The container resource includes metadata and properties for that container. It does not include a list of the blobs contained by the container."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.createAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer, Context context)"
   name: "createAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer, Context context)"
   nameWithType: "BlobContainersClient.createAsync(String resourceGroupName, String accountName, String containerName, BlobContainerInner blobContainer, Context context)"
-  summary: "Creates a new container under the specified account as described by request body. The container resource includes\n metadata and properties for that container. It does not include a list of the blobs contained by the container."
+  summary: "Creates a new container under the specified account as described by request body. The container resource includes metadata and properties for that container. It does not include a list of the blobs contained by the container."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

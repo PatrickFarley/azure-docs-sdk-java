@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.core.http.HttpPipeline.send(HttpRequest request)"
   name: "send(HttpRequest request)"
   nameWithType: "HttpPipeline.send(HttpRequest request)"
-  summary: "Wraps the <code>request</code> in a context and sends it through pipeline."
+  summary: "Wraps the `request` in a context and sends it through pipeline."
   parameters:
   - description: "The HTTP request to send."
     name: "request"

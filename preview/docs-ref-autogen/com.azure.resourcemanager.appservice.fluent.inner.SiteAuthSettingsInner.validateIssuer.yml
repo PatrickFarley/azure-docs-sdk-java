@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.validateIssuer()"
   name: "validateIssuer()"
   nameWithType: "SiteAuthSettingsInner.validateIssuer()"
-  summary: "Get the validateIssuer property: Gets a value indicating whether the issuer should be a valid HTTPS url and be\n validated as such."
+  summary: "Get the validateIssuer property: Gets a value indicating whether the issuer should be a valid HTTPS url and be validated as such."
   syntax: "public Boolean validateIssuer()"
   returns:
     description: "the validateIssuer value."

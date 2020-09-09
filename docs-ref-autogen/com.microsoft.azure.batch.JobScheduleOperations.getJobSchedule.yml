@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.getJobSchedule(String jobScheduleId)"
   name: "getJobSchedule(String jobScheduleId)"
   nameWithType: "JobScheduleOperations.getJobSchedule(String jobScheduleId)"
-  summary: "Gets the specified <xref uid=\"CloudJobSchedule\" data-throw-if-not-resolved=\"false\">CloudJobSchedule</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJobSchedule\" data-throw-if-not-resolved=\"false\">CloudJobSchedule</xref>."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.getJobSchedule(String jobScheduleId, DetailLevel detailLevel)"
   name: "getJobSchedule(String jobScheduleId, DetailLevel detailLevel)"
   nameWithType: "JobScheduleOperations.getJobSchedule(String jobScheduleId, DetailLevel detailLevel)"
-  summary: "Gets the specified <xref uid=\"CloudJobSchedule\" data-throw-if-not-resolved=\"false\">CloudJobSchedule</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJobSchedule\" data-throw-if-not-resolved=\"false\">CloudJobSchedule</xref>."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"
@@ -47,7 +47,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.getJobSchedule(String jobScheduleId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "getJobSchedule(String jobScheduleId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobScheduleOperations.getJobSchedule(String jobScheduleId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Gets the specified <xref uid=\"CloudJobSchedule\" data-throw-if-not-resolved=\"false\">CloudJobSchedule</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJobSchedule\" data-throw-if-not-resolved=\"false\">CloudJobSchedule</xref>."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"

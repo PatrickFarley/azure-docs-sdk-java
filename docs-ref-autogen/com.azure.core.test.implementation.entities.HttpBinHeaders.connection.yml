@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.implementation.entities.HttpBinHeaders.connection()"
   name: "connection()"
   nameWithType: "HttpBinHeaders.connection()"
-  summary: "Gets information about the connection status after this message is received.\n https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection"
+  summary: "Gets information about the connection status after this message is received. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection"
   syntax: "public String connection()"
   returns:
     description: "Information whether to keep network connection open or not."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.core.test.implementation.entities.HttpBinHeaders.connection(String connection)"
   name: "connection(String connection)"
   nameWithType: "HttpBinHeaders.connection(String connection)"
-  summary: "Sets information about the connection status after this message is received.\n https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection"
+  summary: "Sets information about the connection status after this message is received. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection"
   parameters:
   - description: "Information whether to keep network connection open or not."
     name: "connection"

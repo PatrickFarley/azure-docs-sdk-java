@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.setFilePermissionKey(String filePermissionKey)"
   name: "setFilePermissionKey(String filePermissionKey)"
   nameWithType: "ShareFileDownloadHeaders.setFilePermissionKey(String filePermissionKey)"
-  summary: "Set the filePermissionKey property: Key of the permission set for the\n file."
+  summary: "Set the filePermissionKey property: Key of the permission set for the file."
   parameters:
   - description: "the filePermissionKey value to set."
     name: "filePermissionKey"

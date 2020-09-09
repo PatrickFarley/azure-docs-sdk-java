@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.ProximityPlacementGroupInner.availabilitySets()"
   name: "availabilitySets()"
   nameWithType: "ProximityPlacementGroupInner.availabilitySets()"
-  summary: "Get the availabilitySets property: A list of references to all availability sets in the proximity placement\n group."
+  summary: "Get the availabilitySets property: A list of references to all availability sets in the proximity placement group."
   syntax: "public List<SubResource> availabilitySets()"
   returns:
     description: "the availabilitySets value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithOS.withStoredWindowsImage(String imageUrl)"
   name: "withStoredWindowsImage(String imageUrl)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithOS.withStoredWindowsImage(String imageUrl)"
-  summary: "Specifies the user (custom) Windows image to be used as the operating system for the virtual machines in\n the scale set."
+  summary: "Specifies the user (custom) Windows image to be used as the operating system for the virtual machines in the scale set."
   parameters:
   - description: "the URL of the VHD"
     name: "imageUrl"

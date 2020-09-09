@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineExtensionImageInner.withHandlerSchema(String handlerSchema)"
   name: "withHandlerSchema(String handlerSchema)"
   nameWithType: "VirtualMachineExtensionImageInner.withHandlerSchema(String handlerSchema)"
-  summary: "Set the handlerSchema property: The schema defined by publisher, where extension consumers should provide\n settings in a matching schema."
+  summary: "Set the handlerSchema property: The schema defined by publisher, where extension consumers should provide settings in a matching schema."
   parameters:
   - description: "the handlerSchema value to set."
     name: "handlerSchema"

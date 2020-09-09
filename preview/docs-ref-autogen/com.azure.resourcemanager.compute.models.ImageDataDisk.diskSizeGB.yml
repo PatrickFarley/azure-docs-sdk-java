@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageDataDisk.diskSizeGB()"
   name: "diskSizeGB()"
   nameWithType: "ImageDataDisk.diskSizeGB()"
-  summary: "Get the diskSizeGB property: Specifies the size of empty data disks in gigabytes. This element can be used to\n overwrite the name of the disk in a virtual machine image. &lt;br&gt;&lt;br&gt; This value cannot be larger than\n 1023 GB."
+  summary: "Get the diskSizeGB property: Specifies the size of empty data disks in gigabytes. This element can be used to overwrite the name of the disk in a virtual machine image. <br><br> This value cannot be larger than 1023 GB."
   syntax: "public Integer diskSizeGB()"
   returns:
     description: "the diskSizeGB value."

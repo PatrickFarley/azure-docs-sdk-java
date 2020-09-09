@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClientBuilder.pipeline(HttpPipeline pipeline)"
   name: "pipeline(HttpPipeline pipeline)"
   nameWithType: "ServiceBusManagementClientBuilder.pipeline(HttpPipeline pipeline)"
-  summary: "Sets the HTTP pipeline to use for the service client.\n\n If <code>pipeline</code> is set, all other settings are ignored, aside from <xref uid=\"ServiceBusManagementClientBuilder#endpoint(String)\" data-throw-if-not-resolved=\"false\">endpoint</xref> to build <xref uid=\"ServiceBusManagementClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementClient</xref> or\n <xref uid=\"ServiceBusManagementAsyncClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementAsyncClient</xref>."
+  summary: "Sets the HTTP pipeline to use for the service client. If `pipeline` is set, all other settings are ignored, aside from <xref uid=\"com.azure.messaging.servicebus.ServiceBusManagementClientBuilder.endpoint(java.lang.String)\" data-throw-if-not-resolved=\"false\">endpoint</xref> to build <xref uid=\"com.azure.messaging.servicebus.ServiceBusManagementClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementClient</xref> or <xref uid=\"com.azure.messaging.servicebus.ServiceBusManagementAsyncClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementAsyncClient</xref>."
   parameters:
   - description: "The HTTP pipeline to use for sending service requests and receiving responses."
     name: "pipeline"

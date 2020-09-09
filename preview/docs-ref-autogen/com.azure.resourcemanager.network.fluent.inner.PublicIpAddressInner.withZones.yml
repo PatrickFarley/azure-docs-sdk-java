@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PublicIpAddressInner.withZones(List<String> zones)"
   name: "withZones(List<String> zones)"
   nameWithType: "PublicIpAddressInner.withZones(List<String> zones)"
-  summary: "Set the zones property: A list of availability zones denoting the IP allocated for the resource needs to come\n from."
+  summary: "Set the zones property: A list of availability zones denoting the IP allocated for the resource needs to come from."
   parameters:
   - description: "the zones value to set."
     name: "zones"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.KeepTokenFilter.areLowerCaseKeepWords()"
   name: "areLowerCaseKeepWords()"
   nameWithType: "KeepTokenFilter.areLowerCaseKeepWords()"
-  summary: "Get the lowerCaseKeepWords property: A value indicating whether to lower\n case all words first. Default is false."
+  summary: "Get the lowerCaseKeepWords property: A value indicating whether to lower case all words first. Default is false."
   syntax: "public Boolean areLowerCaseKeepWords()"
   returns:
     description: "the lowerCaseKeepWords value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteSourceControlInner.isManualIntegration()"
   name: "isManualIntegration()"
   nameWithType: "SiteSourceControlInner.isManualIntegration()"
-  summary: "Get the isManualIntegration property: &lt;code&gt;true&lt;/code&gt; to limit to manual integration;\n &lt;code&gt;false&lt;/code&gt; to enable continuous integration (which configures webhooks into online repos like\n GitHub)."
+  summary: "Get the isManualIntegration property: <code>true</code> to limit to manual integration; <code>false</code> to enable continuous integration (which configures webhooks into online repos like GitHub)."
   syntax: "public Boolean isManualIntegration()"
   returns:
     description: "the isManualIntegration value."

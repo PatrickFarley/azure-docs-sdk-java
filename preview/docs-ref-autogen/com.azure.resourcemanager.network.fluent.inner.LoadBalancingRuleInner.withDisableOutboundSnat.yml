@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.LoadBalancingRuleInner.withDisableOutboundSnat(Boolean disableOutboundSnat)"
   name: "withDisableOutboundSnat(Boolean disableOutboundSnat)"
   nameWithType: "LoadBalancingRuleInner.withDisableOutboundSnat(Boolean disableOutboundSnat)"
-  summary: "Set the disableOutboundSnat property: Configures SNAT for the VMs in the backend pool to use the publicIP address\n specified in the frontend of the load balancing rule."
+  summary: "Set the disableOutboundSnat property: Configures SNAT for the VMs in the backend pool to use the publicIP address specified in the frontend of the load balancing rule."
   parameters:
   - description: "the disableOutboundSnat value to set."
     name: "disableOutboundSnat"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.getCustomerProvidedKeySha256()"
   name: "getCustomerProvidedKeySha256()"
   nameWithType: "BlobItemProperties.getCustomerProvidedKeySha256()"
-  summary: "Get the customerProvidedKeySha256 property: The\n customerProvidedKeySha256 property."
+  summary: "Get the customerProvidedKeySha256 property: The customerProvidedKeySha256 property."
   syntax: "public String getCustomerProvidedKeySha256()"
   returns:
     description: "the customerProvidedKeySha256 value."

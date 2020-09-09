@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.leaseWithResponseAsync(String resourceGroupName, String accountName, String containerName, LeaseContainerRequest parameters)"
   name: "leaseWithResponseAsync(String resourceGroupName, String accountName, String containerName, LeaseContainerRequest parameters)"
   nameWithType: "BlobContainersClient.leaseWithResponseAsync(String resourceGroupName, String accountName, String containerName, LeaseContainerRequest parameters)"
-  summary: "The Lease Container operation establishes and manages a lock on a container for delete operations. The lock\n duration can be 15 to 60 seconds, or can be infinite."
+  summary: "The Lease Container operation establishes and manages a lock on a container for delete operations. The lock duration can be 15 to 60 seconds, or can be infinite."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.leaseWithResponseAsync(String resourceGroupName, String accountName, String containerName, LeaseContainerRequest parameters, Context context)"
   name: "leaseWithResponseAsync(String resourceGroupName, String accountName, String containerName, LeaseContainerRequest parameters, Context context)"
   nameWithType: "BlobContainersClient.leaseWithResponseAsync(String resourceGroupName, String accountName, String containerName, LeaseContainerRequest parameters, Context context)"
-  summary: "The Lease Container operation establishes and manages a lock on a container for delete operations. The lock\n duration can be 15 to 60 seconds, or can be infinite."
+  summary: "The Lease Container operation establishes and manages a lock on a container for delete operations. The lock duration can be 15 to 60 seconds, or can be infinite."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

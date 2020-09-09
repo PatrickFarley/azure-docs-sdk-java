@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryFileTaskStep.DefinitionStages.FileTaskStepAttachable.withOverridingValues(Map<String,OverridingValue> overridingValues)"
   name: "withOverridingValues(Map<String,OverridingValue> overridingValues)"
   nameWithType: "RegistryFileTaskStep.DefinitionStages.FileTaskStepAttachable.withOverridingValues(Map<String,OverridingValue> overridingValues)"
-  summary: "The function that specifies the values that override the corresponding values specified under the\n function withValuesPath()."
+  summary: "The function that specifies the values that override the corresponding values specified under the function withValuesPath()."
   parameters:
   - description: "a map which contains the values that will override the corresponding values\n     specified under the function withValuesPath()."
     name: "overridingValues"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.StopwordsTokenFilter.getStopwords()"
   name: "getStopwords()"
   nameWithType: "StopwordsTokenFilter.getStopwords()"
-  summary: "Get the stopwords property: The list of stopwords. This property and the\n stopwords list property cannot both be set."
+  summary: "Get the stopwords property: The list of stopwords. This property and the stopwords list property cannot both be set."
   syntax: "public List<String> getStopwords()"
   returns:
     description: "the stopwords value."

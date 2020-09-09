@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.PremierAddOnOfferInner.promoCodeRequired()"
   name: "promoCodeRequired()"
   nameWithType: "PremierAddOnOfferInner.promoCodeRequired()"
-  summary: "Get the promoCodeRequired property: &lt;code&gt;true&lt;/code&gt; if promotion code is required; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the promoCodeRequired property: <code>true</code> if promotion code is required; otherwise, <code>false</code>."
   syntax: "public Boolean promoCodeRequired()"
   returns:
     description: "the promoCodeRequired value."

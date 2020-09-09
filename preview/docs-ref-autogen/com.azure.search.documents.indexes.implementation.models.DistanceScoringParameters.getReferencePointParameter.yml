@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters.getReferencePointParameter()"
   name: "getReferencePointParameter()"
   nameWithType: "DistanceScoringParameters.getReferencePointParameter()"
-  summary: "Get the referencePointParameter property: The name of the parameter passed in search queries to specify the\n reference location."
+  summary: "Get the referencePointParameter property: The name of the parameter passed in search queries to specify the reference location."
   syntax: "public String getReferencePointParameter()"
   returns:
     description: "the referencePointParameter value."

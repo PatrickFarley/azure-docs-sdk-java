@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchServiceLimits.getMaxFieldsPerIndex()"
   name: "getMaxFieldsPerIndex()"
   nameWithType: "SearchServiceLimits.getMaxFieldsPerIndex()"
-  summary: "Get the maxFieldsPerIndex property: The maximum allowed fields per\n index."
+  summary: "Get the maxFieldsPerIndex property: The maximum allowed fields per index."
   syntax: "public Integer getMaxFieldsPerIndex()"
   returns:
     description: "the maxFieldsPerIndex value."

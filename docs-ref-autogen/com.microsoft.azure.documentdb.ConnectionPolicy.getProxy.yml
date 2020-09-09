@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ConnectionPolicy.getProxy()"
   name: "getProxy()"
   nameWithType: "ConnectionPolicy.getProxy()"
-  summary: "Gets a proxy which will be used when making a request. Default is <code>null</code>."
+  summary: "Gets a proxy which will be used when making a request. Default is `null`."
   syntax: "public HttpHost getProxy()"
   returns:
     description: "A proxy to use when making a request."

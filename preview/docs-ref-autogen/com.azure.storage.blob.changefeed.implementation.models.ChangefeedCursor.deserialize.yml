@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.implementation.models.ChangefeedCursor.deserialize(String cursor, ClientLogger logger)"
   name: "deserialize(String cursor, ClientLogger logger)"
   nameWithType: "ChangefeedCursor.deserialize(String cursor, ClientLogger logger)"
-  summary: "Deserializes a String into a <xref uid=\"ChangefeedCursor\" data-throw-if-not-resolved=\"false\">ChangefeedCursor</xref>."
+  summary: "Deserializes a String into a <xref uid=\"com.azure.storage.blob.changefeed.implementation.models.ChangefeedCursor\" data-throw-if-not-resolved=\"false\">ChangefeedCursor</xref>."
   parameters:
   - description: "The cursor to deserialize."
     name: "cursor"

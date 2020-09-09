@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventChannelsInner.createOrUpdateWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName, String eventChannelName, EventChannelInner eventChannelInfo)"
   name: "createOrUpdateWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName, String eventChannelName, EventChannelInner eventChannelInfo)"
   nameWithType: "EventChannelsInner.createOrUpdateWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName, String eventChannelName, EventChannelInner eventChannelInfo)"
-  summary: "Create an event channel.\n Asynchronously creates a new event channel with the specified parameters."
+  summary: "Create an event channel. Asynchronously creates a new event channel with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

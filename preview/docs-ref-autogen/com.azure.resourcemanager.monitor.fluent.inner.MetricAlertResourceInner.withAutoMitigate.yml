@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.MetricAlertResourceInner.withAutoMitigate(Boolean autoMitigate)"
   name: "withAutoMitigate(Boolean autoMitigate)"
   nameWithType: "MetricAlertResourceInner.withAutoMitigate(Boolean autoMitigate)"
-  summary: "Set the autoMitigate property: the flag that indicates whether the alert should be auto resolved or not. The\n default is true."
+  summary: "Set the autoMitigate property: the flag that indicates whether the alert should be auto resolved or not. The default is true."
   parameters:
   - description: "the autoMitigate value to set."
     name: "autoMitigate"

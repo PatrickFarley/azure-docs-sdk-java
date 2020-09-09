@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveOutputs.deleteAsync(String resourceGroupName, String accountName, String liveEventName, String liveOutputName)"
   name: "deleteAsync(String resourceGroupName, String accountName, String liveEventName, String liveOutputName)"
   nameWithType: "LiveOutputs.deleteAsync(String resourceGroupName, String accountName, String liveEventName, String liveOutputName)"
-  summary: "Delete Live Output.\n Deletes a Live Output."
+  summary: "Delete Live Output. Deletes a Live Output."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

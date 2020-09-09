@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileSystem.close()"
   name: "close()"
   nameWithType: "AzureFileSystem.close()"
-  summary: "Closes this file system.\n <p>\n After a file system is closed then all subsequent access to the file system, either by methods defined by this\n class or on objects associated with this file system, throw ClosedFileSystemException. If the file system is\n already closed then invoking this method has no effect.\n <p>\n Closing the file system will not block on outstanding operations. Any operations in progress will be allowed to\n terminate naturally after the file system is closed, though no further operations may be started after the\n parent file system is closed.\n <p>\n Once closed, a file system with the same identifier as the one closed may be re-opened."
+  summary: "Closes this file system.\n\nAfter a file system is closed then all subsequent access to the file system, either by methods defined by this class or on objects associated with this file system, throw ClosedFileSystemException. If the file system is already closed then invoking this method has no effect.\n\nClosing the file system will not block on outstanding operations. Any operations in progress will be allowed to terminate naturally after the file system is closed, though no further operations may be started after the parent file system is closed.\n\nOnce closed, a file system with the same identifier as the one closed may be re-opened."
   overridden: "java.nio.file.FileSystem.close()"
   syntax: "public void close()"
   exceptions:

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.correlationId()"
   name: "correlationId()"
   nameWithType: "EventDataInner.correlationId()"
-  summary: "Get the correlationId property: the correlation Id, usually a GUID in the string format. The correlation Id is\n shared among the events that belong to the same uber operation."
+  summary: "Get the correlationId property: the correlation Id, usually a GUID in the string format. The correlation Id is shared among the events that belong to the same uber operation."
   syntax: "public String correlationId()"
   returns:
     description: "the correlationId value."

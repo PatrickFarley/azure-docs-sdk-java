@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.listPreparationAndReleaseTaskStatusWithServiceResponseAsync(String jobId)"
   name: "listPreparationAndReleaseTaskStatusWithServiceResponseAsync(String jobId)"
   nameWithType: "Jobs.listPreparationAndReleaseTaskStatusWithServiceResponseAsync(String jobId)"
-  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run.\n This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
+  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run. This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
   parameters:
   - description: "The ID of the Job."
     name: "jobId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.listPreparationAndReleaseTaskStatusWithServiceResponseAsync(String jobId, JobListPreparationAndReleaseTaskStatusOptions jobListPreparationAndReleaseTaskStatusOptions)"
   name: "listPreparationAndReleaseTaskStatusWithServiceResponseAsync(String jobId, JobListPreparationAndReleaseTaskStatusOptions jobListPreparationAndReleaseTaskStatusOptions)"
   nameWithType: "Jobs.listPreparationAndReleaseTaskStatusWithServiceResponseAsync(String jobId, JobListPreparationAndReleaseTaskStatusOptions jobListPreparationAndReleaseTaskStatusOptions)"
-  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run.\n This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
+  summary: "Lists the execution status of the Job Preparation and Job Release Task for the specified Job across the Compute Nodes where the Job has run. This API returns the Job Preparation and Job Release Task status on all Compute Nodes that have run the Job Preparation or Job Release Task. This includes Compute Nodes which have since been removed from the Pool. If this API is invoked on a Job which has no Job Preparation or Job Release Task, the Batch service returns HTTP status code 409 (Conflict) with an error code of JobPreparationTaskNotSpecified."
   parameters:
   - description: "The ID of the Job."
     name: "jobId"

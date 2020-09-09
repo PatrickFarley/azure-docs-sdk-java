@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.FieldMapping.getTargetFieldName()"
   name: "getTargetFieldName()"
   nameWithType: "FieldMapping.getTargetFieldName()"
-  summary: "Get the targetFieldName property: The name of the target field in the\n index. Same as the source field name by default."
+  summary: "Get the targetFieldName property: The name of the target field in the index. Same as the source field name by default."
   syntax: "public String getTargetFieldName()"
   returns:
     description: "the targetFieldName value."

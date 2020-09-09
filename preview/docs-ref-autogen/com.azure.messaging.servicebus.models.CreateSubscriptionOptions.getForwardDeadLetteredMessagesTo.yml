@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateSubscriptionOptions.getForwardDeadLetteredMessagesTo()"
   name: "getForwardDeadLetteredMessagesTo()"
   nameWithType: "CreateSubscriptionOptions.getForwardDeadLetteredMessagesTo()"
-  summary: "Get the forwardDeadLetteredMessagesTo property: The name of the recipient entity to which all the messages sent\n to the subscription are forwarded to."
+  summary: "Get the forwardDeadLetteredMessagesTo property: The name of the recipient entity to which all the messages sent to the subscription are forwarded to."
   syntax: "public String getForwardDeadLetteredMessagesTo()"
   returns:
     description: "the forwardDeadLetteredMessagesTo value."

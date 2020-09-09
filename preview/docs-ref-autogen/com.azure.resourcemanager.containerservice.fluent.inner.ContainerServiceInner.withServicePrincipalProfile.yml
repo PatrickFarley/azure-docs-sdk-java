@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.ContainerServiceInner.withServicePrincipalProfile(ContainerServicePrincipalProfile servicePrincipalProfile)"
   name: "withServicePrincipalProfile(ContainerServicePrincipalProfile servicePrincipalProfile)"
   nameWithType: "ContainerServiceInner.withServicePrincipalProfile(ContainerServicePrincipalProfile servicePrincipalProfile)"
-  summary: "Set the servicePrincipalProfile property: Information about a service principal identity for the cluster to use\n for manipulating Azure APIs. Exact one of secret or keyVaultSecretRef need to be specified."
+  summary: "Set the servicePrincipalProfile property: Information about a service principal identity for the cluster to use for manipulating Azure APIs. Exact one of secret or keyVaultSecretRef need to be specified."
   parameters:
   - description: "the servicePrincipalProfile value to set."
     name: "servicePrincipalProfile"

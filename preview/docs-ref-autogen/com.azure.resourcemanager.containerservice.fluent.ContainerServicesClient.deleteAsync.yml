@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ContainerServicesClient.deleteAsync(String resourceGroupName, String containerServiceName)"
   name: "deleteAsync(String resourceGroupName, String containerServiceName)"
   nameWithType: "ContainerServicesClient.deleteAsync(String resourceGroupName, String containerServiceName)"
-  summary: "Deletes the specified container service in the specified subscription and resource group. The operation does not\n delete other resources created as part of creating a container service, including storage accounts, VMs, and\n availability sets. All the other resources created with the container service are part of the same resource group\n and can be deleted individually."
+  summary: "Deletes the specified container service in the specified subscription and resource group. The operation does not delete other resources created as part of creating a container service, including storage accounts, VMs, and availability sets. All the other resources created with the container service are part of the same resource group and can be deleted individually."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ContainerServicesClient.deleteAsync(String resourceGroupName, String containerServiceName, Context context)"
   name: "deleteAsync(String resourceGroupName, String containerServiceName, Context context)"
   nameWithType: "ContainerServicesClient.deleteAsync(String resourceGroupName, String containerServiceName, Context context)"
-  summary: "Deletes the specified container service in the specified subscription and resource group. The operation does not\n delete other resources created as part of creating a container service, including storage accounts, VMs, and\n availability sets. All the other resources created with the container service are part of the same resource group\n and can be deleted individually."
+  summary: "Deletes the specified container service in the specified subscription and resource group. The operation does not delete other resources created as part of creating a container service, including storage accounts, VMs, and availability sets. All the other resources created with the container service are part of the same resource group and can be deleted individually."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

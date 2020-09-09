@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.isLocallyAdministeredAddress()"
   name: "isLocallyAdministeredAddress()"
   nameWithType: "EthernetAddress.isLocallyAdministeredAddress()"
-  summary: "Method that can be used to check if this address refers\n to a \"locally administered address\"\n (see [http://en.wikipedia.org/wiki/MAC_address] for details).\n Such addresses are not assigned to individual network\n cards."
+  summary: "Method that can be used to check if this address refers to a \"locally administered address\" (see \\[http://en.wikipedia.org/wiki/MAC\\_address\\] for details). Such addresses are not assigned to individual network cards."
   syntax: "public boolean isLocallyAdministeredAddress()"
   returns:
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

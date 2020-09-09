@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.EnumBiMap<K,V>.<K,V>create(Class<K> keyType, Class<V> valueType)"
   name: "<K,V>create(Class<K> keyType, Class<V> valueType)"
   nameWithType: "EnumBiMap<K,V>.<K,V>create(Class<K> keyType, Class<V> valueType)"
-  summary: "Returns a new, empty <code>EnumBiMap</code> using the specified key and value types."
+  summary: "Returns a new, empty `EnumBiMap` using the specified key and value types."
   parameters:
   - description: "the key type"
     name: "keyType"
@@ -23,7 +23,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.EnumBiMap<K,V>.<K,V>create(Map<K,V> map)"
   name: "<K,V>create(Map<K,V> map)"
   nameWithType: "EnumBiMap<K,V>.<K,V>create(Map<K,V> map)"
-  summary: "Returns a new bimap with the same mappings as the specified map. If the specified map is an\n <code>EnumBiMap</code>, the new bimap has the same types as the provided map. Otherwise, the\n specified map must contain at least one mapping, in order to determine the key and value types."
+  summary: "Returns a new bimap with the same mappings as the specified map. If the specified map is an `EnumBiMap`, the new bimap has the same types as the provided map. Otherwise, the specified map must contain at least one mapping, in order to determine the key and value types."
   parameters:
   - description: "the map whose mappings are to be placed in this map"
     name: "map"

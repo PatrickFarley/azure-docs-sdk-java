@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.RouteFilterRuleInner.withCommunities(List<String> communities)"
   name: "withCommunities(List<String> communities)"
   nameWithType: "RouteFilterRuleInner.withCommunities(List<String> communities)"
-  summary: "Set the communities property: The collection for bgp community values to filter on. e.g.\n ['12076:5010','12076:5020']."
+  summary: "Set the communities property: The collection for bgp community values to filter on. e.g. \\['12076:5010','12076:5020'\\]."
   parameters:
   - description: "the communities value to set."
     name: "communities"

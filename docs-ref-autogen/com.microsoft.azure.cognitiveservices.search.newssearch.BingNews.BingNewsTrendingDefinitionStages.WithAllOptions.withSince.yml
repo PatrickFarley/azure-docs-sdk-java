@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.newssearch.BingNews.BingNewsTrendingDefinitionStages.WithAllOptions.withSince(Long since)"
   name: "withSince(Long since)"
   nameWithType: "BingNews.BingNewsTrendingDefinitionStages.WithAllOptions.withSince(Long since)"
-  summary: "The Unix epoch time (Unix timestamp) that Bing uses to select the trending topics. Bing returns trending\n   topics that it discovered on or after the specified date and time, not the date the topic was published. To\n   use this parameter, also specify the sortBy parameter. Use this parameter only with the News Trending Topics\n   API. Do not specify this parameter when calling the News Search API or News Category API."
+  summary: "The Unix epoch time (Unix timestamp) that Bing uses to select the trending topics. Bing returns trending topics that it discovered on or after the specified date and time, not the date the topic was published. To use this parameter, also specify the sortBy parameter. Use this parameter only with the News Trending Topics API. Do not specify this parameter when calling the News Search API or News Category API."
   parameters:
   - name: "since"
     type: "<xref href=\"java.lang.Long?alt=java.lang.Long&text=Long\" data-throw-if-not-resolved=\"False\" />"

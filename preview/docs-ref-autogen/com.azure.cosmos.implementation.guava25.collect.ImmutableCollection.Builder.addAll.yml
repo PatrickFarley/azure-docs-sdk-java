@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder<E>.addAll(Iterable<? extends E> elements)"
   name: "addAll(Iterable<? extends E> elements)"
   nameWithType: "ImmutableCollection.Builder<E>.addAll(Iterable<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableCollection</code> being built.\n\n <p>Note that each builder class overrides this method in order to covariantly return its own\n type."
+  summary: "Adds each element of `elements` to the `ImmutableCollection` being built.\n\nNote that each builder class overrides this method in order to covariantly return its own type."
   parameters:
   - description: "the elements to add"
     name: "elements"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder<E>.addAll(Iterator<? extends E> elements)"
   name: "addAll(Iterator<? extends E> elements)"
   nameWithType: "ImmutableCollection.Builder<E>.addAll(Iterator<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableCollection</code> being built.\n\n <p>Note that each builder class overrides this method in order to covariantly return its own\n type."
+  summary: "Adds each element of `elements` to the `ImmutableCollection` being built.\n\nNote that each builder class overrides this method in order to covariantly return its own type."
   parameters:
   - description: "the elements to add"
     name: "elements"

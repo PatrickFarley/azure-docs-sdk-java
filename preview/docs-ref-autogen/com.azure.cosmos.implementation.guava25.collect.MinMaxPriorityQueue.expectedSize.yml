@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MinMaxPriorityQueue<E>.expectedSize(int expectedSize)"
   name: "expectedSize(int expectedSize)"
   nameWithType: "MinMaxPriorityQueue<E>.expectedSize(int expectedSize)"
-  summary: "Creates and returns a new builder, configured to build <code>MinMaxPriorityQueue</code> instances\n sized appropriately to hold <code>expectedSize</code> elements."
+  summary: "Creates and returns a new builder, configured to build `MinMaxPriorityQueue` instances sized appropriately to hold `expectedSize` elements."
   parameters:
   - name: "expectedSize"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

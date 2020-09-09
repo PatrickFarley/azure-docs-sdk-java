@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrder.DefinitionStages.WithDomainVerificationFromWebApp.withWebAppVerification(WebAppBase webApp)"
   name: "withWebAppVerification(WebAppBase webApp)"
   nameWithType: "AppServiceCertificateOrder.DefinitionStages.WithDomainVerificationFromWebApp.withWebAppVerification(WebAppBase webApp)"
-  summary: "Specifies the web app to verify the ownership of the domain. The web app needs to be bound to the\n hostname for the certificate."
+  summary: "Specifies the web app to verify the ownership of the domain. The web app needs to be bound to the hostname for the certificate."
   parameters:
   - description: "the web app bound to the hostname"
     name: "webApp"

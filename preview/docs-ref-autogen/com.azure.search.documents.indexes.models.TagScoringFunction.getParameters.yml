@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TagScoringFunction.getParameters()"
   name: "getParameters()"
   nameWithType: "TagScoringFunction.getParameters()"
-  summary: "Get the parameters property: Parameter values for the tag scoring\n function."
+  summary: "Get the parameters property: Parameter values for the tag scoring function."
   syntax: "public TagScoringParameters getParameters()"
   returns:
     description: "the parameters value."

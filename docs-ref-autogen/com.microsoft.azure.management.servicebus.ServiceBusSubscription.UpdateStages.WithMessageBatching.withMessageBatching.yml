@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.ServiceBusSubscription.UpdateStages.WithMessageBatching.withMessageBatching()"
   name: "withMessageBatching()"
   nameWithType: "ServiceBusSubscription.UpdateStages.WithMessageBatching.withMessageBatching()"
-  summary: "Specifies that service bus can batch multiple message when it write messages to or delete\n messages from it's internal store. This increases the throughput."
+  summary: "Specifies that service bus can batch multiple message when it write messages to or delete messages from it's internal store. This increases the throughput."
   syntax: "public abstract ServiceBusSubscription.Update withMessageBatching()"
   returns:
     description: "the next stage of subscription update"

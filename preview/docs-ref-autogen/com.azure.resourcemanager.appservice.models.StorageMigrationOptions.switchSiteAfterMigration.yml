@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StorageMigrationOptions.switchSiteAfterMigration()"
   name: "switchSiteAfterMigration()"
   nameWithType: "StorageMigrationOptions.switchSiteAfterMigration()"
-  summary: "Get the switchSiteAfterMigration property: &lt;code&gt;true&lt;/code&gt;if the app should be switched over;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the switchSiteAfterMigration property: <code>true</code>if the app should be switched over; otherwise, <code>false</code>."
   syntax: "public Boolean switchSiteAfterMigration()"
   returns:
     description: "the switchSiteAfterMigration value."

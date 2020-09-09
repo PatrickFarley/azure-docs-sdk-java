@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.getPrimaryPublicIPAddress()"
   name: "getPrimaryPublicIPAddress()"
   nameWithType: "VirtualMachine.getPrimaryPublicIPAddress()"
-  summary: "Gets the public IP address associated with this virtual machine's primary network interface.\n\n <p>Note that this method makes a rest API call to fetch the resource."
+  summary: "Gets the public IP address associated with this virtual machine's primary network interface.\n\nNote that this method makes a rest API call to fetch the resource."
   syntax: "public abstract PublicIpAddress getPrimaryPublicIPAddress()"
   returns:
     description: "the public IP of the primary network interface"

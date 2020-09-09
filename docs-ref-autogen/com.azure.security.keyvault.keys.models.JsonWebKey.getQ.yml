@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.models.JsonWebKey.getQ()"
   name: "getQ()"
   nameWithType: "JsonWebKey.getQ()"
-  summary: "Get RSA secret prime, with p &lt; q value."
+  summary: "Get RSA secret prime, with p < q value."
   syntax: "public byte[] getQ()"
   returns:
     description: "the RSA secret prime, with p &lt; q value."

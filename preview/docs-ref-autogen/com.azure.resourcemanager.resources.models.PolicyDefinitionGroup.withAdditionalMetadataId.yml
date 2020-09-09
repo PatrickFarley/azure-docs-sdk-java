@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.models.PolicyDefinitionGroup.withAdditionalMetadataId(String additionalMetadataId)"
   name: "withAdditionalMetadataId(String additionalMetadataId)"
   nameWithType: "PolicyDefinitionGroup.withAdditionalMetadataId(String additionalMetadataId)"
-  summary: "Set the additionalMetadataId property: A resource ID of a resource that contains additional metadata about the\n group."
+  summary: "Set the additionalMetadataId property: A resource ID of a resource that contains additional metadata about the group."
   parameters:
   - description: "the additionalMetadataId value to set."
     name: "additionalMetadataId"

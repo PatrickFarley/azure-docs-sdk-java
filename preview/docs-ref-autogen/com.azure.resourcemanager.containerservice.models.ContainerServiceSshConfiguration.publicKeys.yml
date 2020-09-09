@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceSshConfiguration.publicKeys()"
   name: "publicKeys()"
   nameWithType: "ContainerServiceSshConfiguration.publicKeys()"
-  summary: "Get the publicKeys property: The list of SSH public keys used to authenticate with Linux-based VMs. Only expect\n one key specified."
+  summary: "Get the publicKeys property: The list of SSH public keys used to authenticate with Linux-based VMs. Only expect one key specified."
   syntax: "public List<ContainerServiceSshPublicKey> publicKeys()"
   returns:
     description: "the publicKeys value."

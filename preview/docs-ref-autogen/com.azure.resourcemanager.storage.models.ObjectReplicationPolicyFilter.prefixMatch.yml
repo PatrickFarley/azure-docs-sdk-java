@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ObjectReplicationPolicyFilter.prefixMatch()"
   name: "prefixMatch()"
   nameWithType: "ObjectReplicationPolicyFilter.prefixMatch()"
-  summary: "Get the prefixMatch property: Optional. Filters the results to replicate only blobs whose names begin with the\n specified prefix."
+  summary: "Get the prefixMatch property: Optional. Filters the results to replicate only blobs whose names begin with the specified prefix."
   syntax: "public List<String> prefixMatch()"
   returns:
     description: "the prefixMatch value."

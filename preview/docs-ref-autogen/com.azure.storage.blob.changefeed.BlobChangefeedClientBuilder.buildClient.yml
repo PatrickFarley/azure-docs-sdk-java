@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.BlobChangefeedClientBuilder.buildClient()"
   name: "buildClient()"
   nameWithType: "BlobChangefeedClientBuilder.buildClient()"
-  summary: "Creates a <xref uid=\"BlobChangefeedClient\" data-throw-if-not-resolved=\"false\">BlobChangefeedClient</xref>.\n\n <p><strong>Code sample</strong></p>\n\n <pre>\n BlobChangefeedClient changefeedClient = new BlobChangefeedClientBuilder&#40;blobServiceClient&#41;.buildClient&#40;&#41;;\n </pre>\nF"
+  summary: "Creates a <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedClient\" data-throw-if-not-resolved=\"false\">BlobChangefeedClient</xref>.\n\n**Code sample**\n\n```java\nBlobChangefeedClient changefeedClient = new BlobChangefeedClientBuilder(blobServiceClient).buildClient();\n```\n\nF"
   syntax: "public BlobChangefeedClient buildClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedClient\" data-throw-if-not-resolved=\"false\">BlobChangefeedClient</xref> created from the configurations in this builder."

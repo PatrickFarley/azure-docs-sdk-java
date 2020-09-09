@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileSystemItemProperties.setLeaseStatus(LeaseStatusType leaseStatus)"
   name: "setLeaseStatus(LeaseStatusType leaseStatus)"
   nameWithType: "FileSystemItemProperties.setLeaseStatus(LeaseStatusType leaseStatus)"
-  summary: "Set the leaseStatus property: Possible values include: 'locked',\n 'unlocked'."
+  summary: "Set the leaseStatus property: Possible values include: 'locked', 'unlocked'."
   parameters:
   - description: "the leaseStatus value to set."
     name: "leaseStatus"

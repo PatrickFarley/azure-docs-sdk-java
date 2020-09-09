@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MapMaker.initialCapacity(int initialCapacity)"
   name: "initialCapacity(int initialCapacity)"
   nameWithType: "MapMaker.initialCapacity(int initialCapacity)"
-  summary: "Sets the minimum total size for the internal hash tables. For example, if the initial capacity\n is <code>60</code>, and the concurrency level is <code>8</code>, then eight segments are created, each\n having a hash table of size eight. Providing a large enough estimate at construction time\n avoids the need for expensive resizing operations later, but setting this value unnecessarily\n high wastes memory."
+  summary: "Sets the minimum total size for the internal hash tables. For example, if the initial capacity is `60`, and the concurrency level is `8`, then eight segments are created, each having a hash table of size eight. Providing a large enough estimate at construction time avoids the need for expensive resizing operations later, but setting this value unnecessarily high wastes memory."
   parameters:
   - name: "initialCapacity"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

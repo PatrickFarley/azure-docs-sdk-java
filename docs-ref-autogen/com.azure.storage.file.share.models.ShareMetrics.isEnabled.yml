@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareMetrics.isEnabled()"
   name: "isEnabled()"
   nameWithType: "ShareMetrics.isEnabled()"
-  summary: "Get the enabled property: Indicates whether metrics are enabled for the\n File service."
+  summary: "Get the enabled property: Indicates whether metrics are enabled for the File service."
   syntax: "public boolean isEnabled()"
   returns:
     description: "the enabled value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.PageBlobAsyncClient.create(long size)"
   name: "create(long size)"
   nameWithType: "PageBlobAsyncClient.create(long size)"
-  summary: "Creates a page blob of the specified length. By default this method will not overwrite an existing blob.\n Call PutPage to upload data data to a page blob. For more information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/put-blob\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.create&#40;size&#41;.subscribe&#40;response -&gt; System.out.printf&#40;\n     &quot;Created page blob with sequence number %s%n&quot;, response.getBlobSequenceNumber&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a page blob of the specified length. By default this method will not overwrite an existing blob. Call PutPage to upload data data to a page blob. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.create(size).subscribe(response -> System.out.printf(\n     \"Created page blob with sequence number %s%n\", response.getBlobSequenceNumber()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/put-blob"
   parameters:
   - description: "Specifies the maximum size for the page blob, up to 8 TB. The page blob size must be aligned to a\n 512-byte boundary."
     name: "size"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.PageBlobAsyncClient.create(long size, boolean overwrite)"
   name: "create(long size, boolean overwrite)"
   nameWithType: "PageBlobAsyncClient.create(long size, boolean overwrite)"
-  summary: "Creates a page blob of the specified length. Call PutPage to upload data data to a page blob. For more\n information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/put-blob\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n boolean overwrite = false; &#47;&#47; Default behavior\n client.create&#40;size, overwrite&#41;.subscribe&#40;response -&gt; System.out.printf&#40;\n     &quot;Created page blob with sequence number %s%n&quot;, response.getBlobSequenceNumber&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a page blob of the specified length. Call PutPage to upload data data to a page blob. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nboolean overwrite = false; // Default behavior\n client.create(size, overwrite).subscribe(response -> System.out.printf(\n     \"Created page blob with sequence number %s%n\", response.getBlobSequenceNumber()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/put-blob"
   parameters:
   - description: "Specifies the maximum size for the page blob, up to 8 TB. The page blob size must be aligned to a\n 512-byte boundary."
     name: "size"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.HttpRequest.copy()"
   name: "copy()"
   nameWithType: "HttpRequest.copy()"
-  summary: "Creates a copy of the request.\n\n The main purpose of this is so that this HttpRequest can be changed and the resulting\n HttpRequest can be a backup. This means that the cloned HttpHeaders and body must\n not be able to change from side effects of this HttpRequest."
+  summary: "Creates a copy of the request. The main purpose of this is so that this HttpRequest can be changed and the resulting HttpRequest can be a backup. This means that the cloned HttpHeaders and body must not be able to change from side effects of this HttpRequest."
   syntax: "public HttpRequest copy()"
   returns:
     description: "a new HTTP request instance with cloned instances of all mutable properties."

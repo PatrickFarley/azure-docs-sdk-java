@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RegistryListResultInner.withValue(List<RegistryInner> value)"
   name: "withValue(List<RegistryInner> value)"
   nameWithType: "RegistryListResultInner.withValue(List<RegistryInner> value)"
-  summary: "Set the value property: The list of container registries. Since this list may be incomplete, the nextLink field\n should be used to request the next list of container registries."
+  summary: "Set the value property: The list of container registries. Since this list may be incomplete, the nextLink field should be used to request the next list of container registries."
   parameters:
   - description: "the value value to set."
     name: "value"

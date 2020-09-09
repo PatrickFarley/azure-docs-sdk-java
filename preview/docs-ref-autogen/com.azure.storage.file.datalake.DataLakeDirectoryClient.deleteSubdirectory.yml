@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeDirectoryClient.deleteSubdirectory(String subdirectoryName)"
   name: "deleteSubdirectory(String subdirectoryName)"
   nameWithType: "DataLakeDirectoryClient.deleteSubdirectory(String subdirectoryName)"
-  summary: "Deletes the specified sub-directory in the directory. If the sub-directory doesn't exist or is not empty the\n operation fails.\n For more information see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/delete\">Azure\n Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.deleteSubdirectory&#40;directoryName&#41;;\n System.out.println&#40;&quot;Delete request completed&quot;&#41;;\n </pre>"
+  summary: "Deletes the specified sub-directory in the directory. If the sub-directory doesn't exist or is not empty the operation fails. For more information see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.deleteSubdirectory(directoryName);\n System.out.println(\"Delete request completed\");\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/delete"
   parameters:
   - description: "Name of the sub-directory to delete."
     name: "subdirectoryName"

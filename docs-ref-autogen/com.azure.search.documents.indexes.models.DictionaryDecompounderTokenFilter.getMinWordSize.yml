@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.DictionaryDecompounderTokenFilter.getMinWordSize()"
   name: "getMinWordSize()"
   nameWithType: "DictionaryDecompounderTokenFilter.getMinWordSize()"
-  summary: "Get the minWordSize property: The minimum word size. Only words longer\n than this get processed. Default is 5. Maximum is 300."
+  summary: "Get the minWordSize property: The minimum word size. Only words longer than this get processed. Default is 5. Maximum is 300."
   syntax: "public Integer getMinWordSize()"
   returns:
     description: "the minWordSize value."

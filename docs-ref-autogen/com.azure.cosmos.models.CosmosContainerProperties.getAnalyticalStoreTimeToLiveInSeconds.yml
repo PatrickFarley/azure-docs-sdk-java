@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosContainerProperties.getAnalyticalStoreTimeToLiveInSeconds()"
   name: "getAnalyticalStoreTimeToLiveInSeconds()"
   nameWithType: "CosmosContainerProperties.getAnalyticalStoreTimeToLiveInSeconds()"
-  summary: "Gets the analytical store time to live in seconds for items in a container from the Azure Cosmos DB service.\n\n It is an optional property. A valid value must be either a nonzero positive integer, '-1', or 0.\n By default, AnalyticalStoreTimeToLive is set to 0 meaning the analytical store is turned off for the container;\n -1 means items in analytical store never expire.\n The unit of measurement is seconds. The maximum allowed value is 2147483647."
+  summary: "Gets the analytical store time to live in seconds for items in a container from the Azure Cosmos DB service. It is an optional property. A valid value must be either a nonzero positive integer, '-1', or 0. By default, AnalyticalStoreTimeToLive is set to 0 meaning the analytical store is turned off for the container; -1 means items in analytical store never expire. The unit of measurement is seconds. The maximum allowed value is 2147483647."
   syntax: "public Integer getAnalyticalStoreTimeToLiveInSeconds()"
   returns:
     description: "analytical ttl"

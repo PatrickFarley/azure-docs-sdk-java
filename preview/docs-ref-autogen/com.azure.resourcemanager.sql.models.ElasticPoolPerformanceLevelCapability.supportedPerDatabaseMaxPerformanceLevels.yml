@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ElasticPoolPerformanceLevelCapability.supportedPerDatabaseMaxPerformanceLevels()"
   name: "supportedPerDatabaseMaxPerformanceLevels()"
   nameWithType: "ElasticPoolPerformanceLevelCapability.supportedPerDatabaseMaxPerformanceLevels()"
-  summary: "Get the supportedPerDatabaseMaxPerformanceLevels property: The list of supported per database max performance\n levels."
+  summary: "Get the supportedPerDatabaseMaxPerformanceLevels property: The list of supported per database max performance levels."
   syntax: "public List<ElasticPoolPerDatabaseMaxPerformanceLevelCapability> supportedPerDatabaseMaxPerformanceLevels()"
   returns:
     description: "the supportedPerDatabaseMaxPerformanceLevels value."

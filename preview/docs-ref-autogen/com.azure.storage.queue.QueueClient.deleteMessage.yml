@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueClient.deleteMessage(String messageId, String popReceipt)"
   name: "deleteMessage(String messageId, String popReceipt)"
   nameWithType: "QueueClient.deleteMessage(String messageId, String popReceipt)"
-  summary: "Deletes the specified message in the queue\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the first message</p>\n\n <pre>\n QueueMessageItem queueMessageItem = client.receiveMessage&#40;&#41;;\n client.deleteMessage&#40;queueMessageItem.getMessageId&#40;&#41;, queueMessageItem.getPopReceipt&#40;&#41;&#41;;\n System.out.println&#40;&quot;Complete deleting the message.&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-message2\">Azure Docs</a>.</p>"
+  summary: "Deletes the specified message in the queue\n\n**Code Samples**\n\nDelete the first message\n\n```java\nQueueMessageItem queueMessageItem = client.receiveMessage();\n client.deleteMessage(queueMessageItem.getMessageId(), queueMessageItem.getPopReceipt());\n System.out.println(\"Complete deleting the message.\");\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-message2"
   parameters:
   - description: "Id of the message to deleted"
     name: "messageId"

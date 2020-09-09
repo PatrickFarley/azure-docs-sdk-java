@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewayConnectionsClient.listByResourceGroupSinglePageAsync(String resourceGroupName)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName)"
   nameWithType: "VirtualNetworkGatewayConnectionsClient.listByResourceGroupSinglePageAsync(String resourceGroupName)"
-  summary: "The List VirtualNetworkGatewayConnections operation retrieves all the virtual network gateways connections\n created."
+  summary: "The List VirtualNetworkGatewayConnections operation retrieves all the virtual network gateways connections created."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewayConnectionsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
   nameWithType: "VirtualNetworkGatewayConnectionsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Context context)"
-  summary: "The List VirtualNetworkGatewayConnections operation retrieves all the virtual network gateways connections\n created."
+  summary: "The List VirtualNetworkGatewayConnections operation retrieves all the virtual network gateways connections created."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

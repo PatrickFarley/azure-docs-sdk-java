@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DataMaskingPolicyInner.exemptPrincipals()"
   name: "exemptPrincipals()"
   nameWithType: "DataMaskingPolicyInner.exemptPrincipals()"
-  summary: "Get the exemptPrincipals property: The list of the exempt principals. Specifies the semicolon-separated list of\n database users for which the data masking policy does not apply. The specified users receive data results without\n masking for all of the database queries."
+  summary: "Get the exemptPrincipals property: The list of the exempt principals. Specifies the semicolon-separated list of database users for which the data masking policy does not apply. The specified users receive data results without masking for all of the database queries."
   syntax: "public String exemptPrincipals()"
   returns:
     description: "the exemptPrincipals value."

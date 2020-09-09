@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ResourceAccess.withType(String type)"
   name: "withType(String type)"
   nameWithType: "ResourceAccess.withType(String type)"
-  summary: "Set the type property: Specifies whether the id property references an OAuth2Permission or an AppRole. Possible\n values are \"scope\" or \"role\"."
+  summary: "Set the type property: Specifies whether the id property references an OAuth2Permission or an AppRole. Possible values are \"scope\" or \"role\"."
   parameters:
   - description: "the type value to set."
     name: "type"

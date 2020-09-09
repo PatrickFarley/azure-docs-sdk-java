@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.getIndexerWithResponse(String indexerName)"
   name: "getIndexerWithResponse(String indexerName)"
   nameWithType: "SearchIndexerAsyncClient.getIndexerWithResponse(String indexerName)"
-  summary: "Retrieves an indexer definition.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search indexer with name \"searchIndexer\". </p>\n\n <pre>\n searchIndexerAsyncClient.getIndexerWithResponse&#40;&quot;searchIndexer&quot;&#41;\n     .subscribe&#40;indexerFromServiceResponse -&gt;\n         System.out.printf&#40;&quot;The status code of the response is %s. The indexer name is %s.%n&quot;,\n         indexerFromServiceResponse.getStatusCode&#40;&#41;, indexerFromServiceResponse.getValue&#40;&#41;.getName&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Retrieves an indexer definition.\n\n**Code Sample**\n\nGet search indexer with name \"searchIndexer\".\n\n```java\nsearchIndexerAsyncClient.getIndexerWithResponse(\"searchIndexer\")\n     .subscribe(indexerFromServiceResponse ->\n         System.out.printf(\"The status code of the response is %s. The indexer name is %s.%n\",\n         indexerFromServiceResponse.getStatusCode(), indexerFromServiceResponse.getValue().getName()));\n```"
   parameters:
   - description: "the name of the indexer to retrieve"
     name: "indexerName"

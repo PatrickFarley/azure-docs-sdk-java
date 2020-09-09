@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkGatewayInner.sku()"
   name: "sku()"
   nameWithType: "VirtualNetworkGatewayInner.sku()"
-  summary: "Get the sku property: The reference of the VirtualNetworkGatewaySku resource which represents the SKU selected\n for Virtual network gateway."
+  summary: "Get the sku property: The reference of the VirtualNetworkGatewaySku resource which represents the SKU selected for Virtual network gateway."
   syntax: "public VirtualNetworkGatewaySku sku()"
   returns:
     description: "the sku value."

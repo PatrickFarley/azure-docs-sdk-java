@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.LeaseCheckpointer.checkpoint(Lease lease, String continuationToken)"
   name: "checkpoint(Lease lease, String continuationToken)"
   nameWithType: "LeaseCheckpointer.checkpoint(Lease lease, String continuationToken)"
-  summary: "Check-points the lease.\n <p>\n Throws LeaseLostException if other host acquired the lease or lease was deleted."
+  summary: "Check-points the lease.\n\nThrows LeaseLostException if other host acquired the lease or lease was deleted."
   parameters:
   - description: "the lease to renew."
     name: "lease"

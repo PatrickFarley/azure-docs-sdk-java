@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnGatewayInner.p2SVpnServerConfiguration()"
   name: "p2SVpnServerConfiguration()"
   nameWithType: "P2SVpnGatewayInner.p2SVpnServerConfiguration()"
-  summary: "Get the p2SVpnServerConfiguration property: The P2SVpnServerConfiguration to which the p2sVpnGateway is attached\n to."
+  summary: "Get the p2SVpnServerConfiguration property: The P2SVpnServerConfiguration to which the p2sVpnGateway is attached to."
   syntax: "public SubResource p2SVpnServerConfiguration()"
   returns:
     description: "the p2SVpnServerConfiguration value."

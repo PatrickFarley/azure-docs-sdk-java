@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ProductTagResourceContractProperties.id()"
   name: "id()"
   nameWithType: "ProductTagResourceContractProperties.id()"
-  summary: "Get identifier of the product in the form of /products/{productId}."
+  summary: "Get identifier of the product in the form of /products/\\{productId\\}."
   syntax: "public String id()"
   returns:
     description: "the id value"

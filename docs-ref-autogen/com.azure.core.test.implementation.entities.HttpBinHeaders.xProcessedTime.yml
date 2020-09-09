@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.implementation.entities.HttpBinHeaders.xProcessedTime()"
   name: "xProcessedTime()"
   nameWithType: "HttpBinHeaders.xProcessedTime()"
-  summary: "Gets the time it took to process this request.\n https://github.com/kennethreitz/flask-common/blob/master/flask_common.py#L129"
+  summary: "Gets the time it took to process this request. https://github.com/kennethreitz/flask-common/blob/master/flask\\_common.py\\#L129"
   syntax: "public double xProcessedTime()"
   returns:
     description: "Time to process this request in seconds."

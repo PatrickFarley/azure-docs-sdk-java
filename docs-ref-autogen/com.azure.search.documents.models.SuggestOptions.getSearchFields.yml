@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SuggestOptions.getSearchFields()"
   name: "getSearchFields()"
   nameWithType: "SuggestOptions.getSearchFields()"
-  summary: "Get the searchFields property: The list of field names to search for the\n specified search text. Target fields must be included in the specified\n suggester."
+  summary: "Get the searchFields property: The list of field names to search for the specified search text. Target fields must be included in the specified suggester."
   syntax: "public List<String> getSearchFields()"
   returns:
     description: "the searchFields value."

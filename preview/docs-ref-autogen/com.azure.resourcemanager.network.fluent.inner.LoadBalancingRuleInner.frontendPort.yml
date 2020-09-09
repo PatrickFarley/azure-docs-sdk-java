@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.LoadBalancingRuleInner.frontendPort()"
   name: "frontendPort()"
   nameWithType: "LoadBalancingRuleInner.frontendPort()"
-  summary: "Get the frontendPort property: The port for the external endpoint. Port numbers for each rule must be unique\n within the Load Balancer. Acceptable values are between 0 and 65534. Note that value 0 enables \"Any Port\"."
+  summary: "Get the frontendPort property: The port for the external endpoint. Port numbers for each rule must be unique within the Load Balancer. Acceptable values are between 0 and 65534. Note that value 0 enables \"Any Port\"."
   syntax: "public Integer frontendPort()"
   returns:
     description: "the frontendPort value."

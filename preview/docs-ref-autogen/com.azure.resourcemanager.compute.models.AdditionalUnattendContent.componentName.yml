@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.AdditionalUnattendContent.componentName()"
   name: "componentName()"
   nameWithType: "AdditionalUnattendContent.componentName()"
-  summary: "Get the componentName property: The component name. Currently, the only allowable value is\n Microsoft-Windows-Shell-Setup."
+  summary: "Get the componentName property: The component name. Currently, the only allowable value is Microsoft-Windows-Shell-Setup."
   syntax: "public ComponentNames componentName()"
   returns:
     description: "the componentName value."

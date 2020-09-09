@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.Network.UpdateStages.WithDnsServer.withDnsServer(String ipAddress)"
   name: "withDnsServer(String ipAddress)"
   nameWithType: "Network.UpdateStages.WithDnsServer.withDnsServer(String ipAddress)"
-  summary: "Specifies the IP address of the DNS server to associate with the virtual network.\n <p>\n Note this method's effect is additive, i.e. each time it is used, a new DNS server is\n added to the network"
+  summary: "Specifies the IP address of the DNS server to associate with the virtual network.\n\nNote this method's effect is additive, i.e. each time it is used, a new DNS server is added to the network"
   parameters:
   - description: "the IP address of the DNS server"
     name: "ipAddress"

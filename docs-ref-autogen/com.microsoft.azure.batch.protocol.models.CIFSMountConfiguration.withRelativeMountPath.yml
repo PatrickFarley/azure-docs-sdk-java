@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.models.CIFSMountConfiguration.withRelativeMountPath(String relativeMountPath)"
   name: "withRelativeMountPath(String relativeMountPath)"
   nameWithType: "CIFSMountConfiguration.withRelativeMountPath(String relativeMountPath)"
-  summary: "Set all file systems are mounted relative to the Batch mounts directory, accessible via the AZ_BATCH_NODE_MOUNTS_DIR environment variable."
+  summary: "Set all file systems are mounted relative to the Batch mounts directory, accessible via the AZ\\_BATCH\\_NODE\\_MOUNTS\\_DIR environment variable."
   parameters:
   - description: "the relativeMountPath value to set"
     name: "relativeMountPath"

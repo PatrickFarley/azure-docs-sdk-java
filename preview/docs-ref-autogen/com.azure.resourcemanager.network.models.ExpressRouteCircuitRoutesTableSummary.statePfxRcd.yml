@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ExpressRouteCircuitRoutesTableSummary.statePfxRcd()"
   name: "statePfxRcd()"
   nameWithType: "ExpressRouteCircuitRoutesTableSummary.statePfxRcd()"
-  summary: "Get the statePfxRcd property: Current state of the BGP session, and the number of prefixes that have been\n received from a neighbor or peer group."
+  summary: "Get the statePfxRcd property: Current state of the BGP session, and the number of prefixes that have been received from a neighbor or peer group."
   syntax: "public String statePfxRcd()"
   returns:
     description: "the statePfxRcd value."

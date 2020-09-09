@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.options.BlobParallelUploadOptions.setHeaders(BlobHttpHeaders headers)"
   name: "setHeaders(BlobHttpHeaders headers)"
   nameWithType: "BlobParallelUploadOptions.setHeaders(BlobHttpHeaders headers)"
-  summary: "Sets the <xref uid=\"BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref>."
+  summary: "Sets the <xref uid=\"com.azure.storage.blob.models.BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.models.BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref>"
     name: "headers"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.SqlDatabaseGetPropertiesResource.colls()"
   name: "colls()"
   nameWithType: "SqlDatabaseGetPropertiesResource.colls()"
-  summary: "Get the colls property: A system generated property that specified the addressable path of the collections\n resource."
+  summary: "Get the colls property: A system generated property that specified the addressable path of the collections resource."
   syntax: "public String colls()"
   returns:
     description: "the colls value."

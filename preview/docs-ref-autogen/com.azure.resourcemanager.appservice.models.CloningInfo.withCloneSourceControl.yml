@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.withCloneSourceControl(Boolean cloneSourceControl)"
   name: "withCloneSourceControl(Boolean cloneSourceControl)"
   nameWithType: "CloningInfo.withCloneSourceControl(Boolean cloneSourceControl)"
-  summary: "Set the cloneSourceControl property: &lt;code&gt;true&lt;/code&gt; to clone source control from source app;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the cloneSourceControl property: <code>true</code> to clone source control from source app; otherwise, <code>false</code>."
   parameters:
   - description: "the cloneSourceControl value to set."
     name: "cloneSourceControl"

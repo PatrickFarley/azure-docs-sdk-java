@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.getOpenTime()"
   name: "getOpenTime()"
   nameWithType: "HandleItem.getOpenTime()"
-  summary: "Get the openTime property: Time when the session that previously opened\n the handle has last been reconnected. (UTC)."
+  summary: "Get the openTime property: Time when the session that previously opened the handle has last been reconnected. (UTC)."
   syntax: "public OffsetDateTime getOpenTime()"
   returns:
     description: "the openTime value."

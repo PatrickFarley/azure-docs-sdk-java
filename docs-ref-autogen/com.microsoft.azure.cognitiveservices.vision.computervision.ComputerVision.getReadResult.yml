@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.getReadResult(UUID operationId)"
   name: "getReadResult(UUID operationId)"
   nameWithType: "ComputerVision.getReadResult(UUID operationId)"
-  summary: "This interface is used for getting OCR results of Read operation. The URL to this interface should\n  be retrieved from 'Operation-Location' field returned from Read interface."
+  summary: "This interface is used for getting OCR results of Read operation. The URL to this interface should be retrieved from 'Operation-Location' field returned from Read interface."
   parameters:
   - description: "Id of read operation returned in the response of the 'Read' interface."
     name: "operationId"

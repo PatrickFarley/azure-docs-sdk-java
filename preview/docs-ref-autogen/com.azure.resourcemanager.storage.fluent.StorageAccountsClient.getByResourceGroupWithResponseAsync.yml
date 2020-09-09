@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.getByResourceGroupWithResponseAsync(String resourceGroupName, String accountName, StorageAccountExpand expand)"
   name: "getByResourceGroupWithResponseAsync(String resourceGroupName, String accountName, StorageAccountExpand expand)"
   nameWithType: "StorageAccountsClient.getByResourceGroupWithResponseAsync(String resourceGroupName, String accountName, StorageAccountExpand expand)"
-  summary: "Returns the properties for the specified storage account including but not limited to name, SKU name, location,\n and account status. The ListKeys operation should be used to retrieve storage keys."
+  summary: "Returns the properties for the specified storage account including but not limited to name, SKU name, location, and account status. The ListKeys operation should be used to retrieve storage keys."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.getByResourceGroupWithResponseAsync(String resourceGroupName, String accountName, StorageAccountExpand expand, Context context)"
   name: "getByResourceGroupWithResponseAsync(String resourceGroupName, String accountName, StorageAccountExpand expand, Context context)"
   nameWithType: "StorageAccountsClient.getByResourceGroupWithResponseAsync(String resourceGroupName, String accountName, StorageAccountExpand expand, Context context)"
-  summary: "Returns the properties for the specified storage account including but not limited to name, SKU name, location,\n and account status. The ListKeys operation should be used to retrieve storage keys."
+  summary: "Returns the properties for the specified storage account including but not limited to name, SKU name, location, and account status. The ListKeys operation should be used to retrieve storage keys."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

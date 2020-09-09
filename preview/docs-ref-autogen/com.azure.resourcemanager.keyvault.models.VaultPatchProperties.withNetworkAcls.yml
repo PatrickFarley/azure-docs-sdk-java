@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.VaultPatchProperties.withNetworkAcls(NetworkRuleSet networkAcls)"
   name: "withNetworkAcls(NetworkRuleSet networkAcls)"
   nameWithType: "VaultPatchProperties.withNetworkAcls(NetworkRuleSet networkAcls)"
-  summary: "Set the networkAcls property: A collection of rules governing the accessibility of the vault from specific\n network locations."
+  summary: "Set the networkAcls property: A collection of rules governing the accessibility of the vault from specific network locations."
   parameters:
   - description: "the networkAcls value to set."
     name: "networkAcls"

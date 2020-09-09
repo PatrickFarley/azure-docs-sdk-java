@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.PORTER_STEM"
   name: "PORTER_STEM"
   nameWithType: "TokenFilterName.PORTER_STEM"
-  summary: "Static value porter_stem for TokenFilterName."
+  summary: "Static value porter\\_stem for TokenFilterName."
   syntax: "public static final TokenFilterName PORTER_STEM"
 type: "field"
 metadata: {}

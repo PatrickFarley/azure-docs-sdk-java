@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerEndpoint.DefinitionStages.WithRoutingWeight<ParentT>.withRoutingWeight(int weight)"
   name: "withRoutingWeight(int weight)"
   nameWithType: "TrafficManagerEndpoint.DefinitionStages.WithRoutingWeight<ParentT>.withRoutingWeight(int weight)"
-  summary: "Specifies the weight for the endpoint that will be used when the parent profile is configured with\n Weighted routing method <xref uid=\"TrafficRoutingMethod#WEIGHTED\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#WEIGHTED</xref>."
+  summary: "Specifies the weight for the endpoint that will be used when the parent profile is configured with Weighted routing method <xref uid=\"com.microsoft.azure.management.trafficmanager.TrafficRoutingMethod.WEIGHTED\" data-throw-if-not-resolved=\"false\">TrafficRoutingMethod#WEIGHTED</xref>."
   parameters:
   - description: "the endpoint weight"
     name: "weight"

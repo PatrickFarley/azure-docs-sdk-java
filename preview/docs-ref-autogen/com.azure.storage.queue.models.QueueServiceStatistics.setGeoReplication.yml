@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueServiceStatistics.setGeoReplication(GeoReplication geoReplication)"
   name: "setGeoReplication(GeoReplication geoReplication)"
   nameWithType: "QueueServiceStatistics.setGeoReplication(GeoReplication geoReplication)"
-  summary: "Set the geoReplication property: Geo-Replication information for the\n Secondary Storage Service."
+  summary: "Set the geoReplication property: Geo-Replication information for the Secondary Storage Service."
   parameters:
   - description: "the geoReplication value to set."
     name: "geoReplication"

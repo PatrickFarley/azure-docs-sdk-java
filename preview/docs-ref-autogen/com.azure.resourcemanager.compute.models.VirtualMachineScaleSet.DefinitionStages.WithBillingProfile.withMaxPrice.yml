@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithBillingProfile.withMaxPrice(Double maxPrice)"
   name: "withMaxPrice(Double maxPrice)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithBillingProfile.withMaxPrice(Double maxPrice)"
-  summary: "Set the billing related details of the low priority virtual machines in the scale set. This price is in\n US Dollars."
+  summary: "Set the billing related details of the low priority virtual machines in the scale set. This price is in US Dollars."
   parameters:
   - description: "the maxPrice value to set"
     name: "maxPrice"

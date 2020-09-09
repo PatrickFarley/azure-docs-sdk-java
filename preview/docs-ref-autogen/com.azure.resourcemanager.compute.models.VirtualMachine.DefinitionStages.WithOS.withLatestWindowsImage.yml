@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithOS.withLatestWindowsImage(String publisher, String offer, String sku)"
   name: "withLatestWindowsImage(String publisher, String offer, String sku)"
   nameWithType: "VirtualMachine.DefinitionStages.WithOS.withLatestWindowsImage(String publisher, String offer, String sku)"
-  summary: "Specifies that the latest version of a marketplace Windows image should to be used as the virtual\n machine's OS."
+  summary: "Specifies that the latest version of a marketplace Windows image should to be used as the virtual machine's OS."
   parameters:
   - description: "specifies the publisher of the image"
     name: "publisher"

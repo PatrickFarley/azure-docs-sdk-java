@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.DedicatedHostGroupsClient.listAsync()"
   name: "listAsync()"
   nameWithType: "DedicatedHostGroupsClient.listAsync()"
-  summary: "Lists all of the dedicated host groups in the subscription. Use the nextLink property in the response to get the\n next page of dedicated host groups."
+  summary: "Lists all of the dedicated host groups in the subscription. Use the nextLink property in the response to get the next page of dedicated host groups."
   syntax: "public PagedFlux<DedicatedHostGroupInner> listAsync()"
   returns:
     description: "the List Dedicated Host Group with resource group response."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.DedicatedHostGroupsClient.listAsync(Context context)"
   name: "listAsync(Context context)"
   nameWithType: "DedicatedHostGroupsClient.listAsync(Context context)"
-  summary: "Lists all of the dedicated host groups in the subscription. Use the nextLink property in the response to get the\n next page of dedicated host groups."
+  summary: "Lists all of the dedicated host groups in the subscription. Use the nextLink property in the response to get the next page of dedicated host groups."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

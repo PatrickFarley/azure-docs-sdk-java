@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeLayoutAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength)"
   name: "analyzeLayoutAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength)"
   nameWithType: "FormRecognizerClientImpl.analyzeLayoutAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength)"
-  summary: "Extract text and layout information from a given document. The input document must be of one of the supported\n content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract text and layout information from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Content type for upload."
     name: "contentType"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeLayoutAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Context context)"
   name: "analyzeLayoutAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Context context)"
   nameWithType: "FormRecognizerClientImpl.analyzeLayoutAsync(ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Context context)"
-  summary: "Extract text and layout information from a given document. The input document must be of one of the supported\n content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract text and layout information from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Content type for upload."
     name: "contentType"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeLayoutAsync(SourcePath fileStream)"
   name: "analyzeLayoutAsync(SourcePath fileStream)"
   nameWithType: "FormRecognizerClientImpl.analyzeLayoutAsync(SourcePath fileStream)"
-  summary: "Extract text and layout information from a given document. The input document must be of one of the supported\n content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract text and layout information from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Uri or local path to source data."
     name: "fileStream"
@@ -53,7 +53,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeLayoutAsync(SourcePath fileStream, Context context)"
   name: "analyzeLayoutAsync(SourcePath fileStream, Context context)"
   nameWithType: "FormRecognizerClientImpl.analyzeLayoutAsync(SourcePath fileStream, Context context)"
-  summary: "Extract text and layout information from a given document. The input document must be of one of the supported\n content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract text and layout information from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Uri or local path to source data."
     name: "fileStream"

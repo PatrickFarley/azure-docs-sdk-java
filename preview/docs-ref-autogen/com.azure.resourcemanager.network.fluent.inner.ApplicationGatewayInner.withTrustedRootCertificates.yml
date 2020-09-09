@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayInner.withTrustedRootCertificates(List<ApplicationGatewayTrustedRootCertificate> trustedRootCertificates)"
   name: "withTrustedRootCertificates(List<ApplicationGatewayTrustedRootCertificate> trustedRootCertificates)"
   nameWithType: "ApplicationGatewayInner.withTrustedRootCertificates(List<ApplicationGatewayTrustedRootCertificate> trustedRootCertificates)"
-  summary: "Set the trustedRootCertificates property: Trusted Root certificates of the application gateway resource. For\n default limits, see [Application Gateway\n limits](https://docs.microsoft.com/azure/azure-subscription-service-limits#application-gateway-limits)."
+  summary: "Set the trustedRootCertificates property: Trusted Root certificates of the application gateway resource. For default limits, see \\[Application Gateway limits\\](https://docs.microsoft.com/azure/azure-subscription-service-limits\\#application-gateway-limits)."
   parameters:
   - description: "the trustedRootCertificates value to set."
     name: "trustedRootCertificates"

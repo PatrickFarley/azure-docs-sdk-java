@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.KubernetesCluster.DefinitionStages.NetworkProfileDefinitionStages.WithServiceCidr<ParentT>.withServiceCidr(String serviceCidr)"
   name: "withServiceCidr(String serviceCidr)"
   nameWithType: "KubernetesCluster.DefinitionStages.NetworkProfileDefinitionStages.WithServiceCidr<ParentT>.withServiceCidr(String serviceCidr)"
-  summary: "Specifies a CIDR notation IP range from which to assign service cluster IPs; must not overlap with\n   any subnet IP ranges."
+  summary: "Specifies a CIDR notation IP range from which to assign service cluster IPs; must not overlap with any subnet IP ranges."
   parameters:
   - description: "the CIDR notation IP range from which to assign service cluster IPs; it must not\n                    overlap with any Subnet IP ranges"
     name: "serviceCidr"

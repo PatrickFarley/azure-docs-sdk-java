@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.FacetResultConverter.map(FacetResult obj)"
   name: "map(FacetResult obj)"
   nameWithType: "FacetResultConverter.map(FacetResult obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.implementation.models.FacetResult\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.FacetResult</xref> to <xref uid=\"FacetResult\" data-throw-if-not-resolved=\"false\">FacetResult</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.implementation.models.FacetResult\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.FacetResult</xref> to <xref uid=\"com.azure.search.documents.models.FacetResult\" data-throw-if-not-resolved=\"false\">FacetResult</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.implementation.models.FacetResult?alt=com.azure.search.documents.implementation.models.FacetResult&text=FacetResult\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.FacetResultConverter.map(FacetResult obj)"
   name: "map(FacetResult obj)"
   nameWithType: "FacetResultConverter.map(FacetResult obj)"
-  summary: "Maps from <xref uid=\"FacetResult\" data-throw-if-not-resolved=\"false\">FacetResult</xref> to <xref uid=\"com.azure.search.documents.implementation.models.FacetResult\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.FacetResult</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.models.FacetResult\" data-throw-if-not-resolved=\"false\">FacetResult</xref> to <xref uid=\"com.azure.search.documents.implementation.models.FacetResult\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.FacetResult</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.models.FacetResult?alt=com.azure.search.documents.models.FacetResult&text=FacetResult\" data-throw-if-not-resolved=\"False\" />"

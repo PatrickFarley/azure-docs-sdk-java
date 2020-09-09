@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventHubProducerAsyncClient.getPartitionProperties(String partitionId)"
   name: "getPartitionProperties(String partitionId)"
   nameWithType: "EventHubProducerAsyncClient.getPartitionProperties(String partitionId)"
-  summary: "Retrieves information about a specific partition for an Event Hub, including elements that describe the available\n events in the partition event stream."
+  summary: "Retrieves information about a specific partition for an Event Hub, including elements that describe the available events in the partition event stream."
   parameters:
   - description: "The unique identifier of a partition associated with the Event Hub."
     name: "partitionId"

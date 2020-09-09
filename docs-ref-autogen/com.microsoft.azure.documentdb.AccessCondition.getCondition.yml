@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.AccessCondition.getCondition()"
   name: "getCondition()"
   nameWithType: "AccessCondition.getCondition()"
-  summary: "Gets the value of the condition - for AccessConditionType IfMatchs and IfNotMatch, this is the ETag that has to\n be compared to."
+  summary: "Gets the value of the condition - for AccessConditionType IfMatchs and IfNotMatch, this is the ETag that has to be compared to."
   syntax: "public String getCondition()"
   returns:
     description: "the condition."

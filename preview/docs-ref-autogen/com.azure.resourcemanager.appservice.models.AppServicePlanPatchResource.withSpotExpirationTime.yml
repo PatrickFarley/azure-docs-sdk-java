@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServicePlanPatchResource.withSpotExpirationTime(OffsetDateTime spotExpirationTime)"
   name: "withSpotExpirationTime(OffsetDateTime spotExpirationTime)"
   nameWithType: "AppServicePlanPatchResource.withSpotExpirationTime(OffsetDateTime spotExpirationTime)"
-  summary: "Set the spotExpirationTime property: The time when the server farm expires. Valid only if it is a spot server\n farm."
+  summary: "Set the spotExpirationTime property: The time when the server farm expires. Valid only if it is a spot server farm."
   parameters:
   - description: "the spotExpirationTime value to set."
     name: "spotExpirationTime"

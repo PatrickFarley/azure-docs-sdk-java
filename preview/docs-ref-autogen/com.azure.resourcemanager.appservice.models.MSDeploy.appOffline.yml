@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.MSDeploy.appOffline()"
   name: "appOffline()"
   nameWithType: "MSDeploy.appOffline()"
-  summary: "Get the appOffline property: Sets the AppOffline rule while the MSDeploy operation executes. Setting is\n &lt;code&gt;false&lt;/code&gt; by default."
+  summary: "Get the appOffline property: Sets the AppOffline rule while the MSDeploy operation executes. Setting is <code>false</code> by default."
   syntax: "public Boolean appOffline()"
   returns:
     description: "the appOffline value."

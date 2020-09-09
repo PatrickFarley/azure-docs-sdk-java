@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.polling.SyncPoller<T,U>.waitUntil(LongRunningOperationStatus statusToWaitFor)"
   name: "waitUntil(LongRunningOperationStatus statusToWaitFor)"
   nameWithType: "SyncPoller<T,U>.waitUntil(LongRunningOperationStatus statusToWaitFor)"
-  summary: "Wait for the given <xref uid=\"LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref> to receive."
+  summary: "Wait for the given <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref> to receive."
   parameters:
   - description: "the desired <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref> to block for."
     name: "statusToWaitFor"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.core.util.polling.SyncPoller<T,U>.waitUntil(Duration timeout, LongRunningOperationStatus statusToWaitFor)"
   name: "waitUntil(Duration timeout, LongRunningOperationStatus statusToWaitFor)"
   nameWithType: "SyncPoller<T,U>.waitUntil(Duration timeout, LongRunningOperationStatus statusToWaitFor)"
-  summary: "Wait for the given <xref uid=\"LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref>."
+  summary: "Wait for the given <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref>."
   parameters:
   - description: "the duration to waits for the polling."
     name: "timeout"

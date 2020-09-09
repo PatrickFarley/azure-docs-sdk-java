@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServerBlobAuditingPolicyInner.state()"
   name: "state()"
   nameWithType: "ServerBlobAuditingPolicyInner.state()"
-  summary: "Get the state property: Specifies the state of the policy. If state is Enabled, storageEndpoint or\n isAzureMonitorTargetEnabled are required."
+  summary: "Get the state property: Specifies the state of the policy. If state is Enabled, storageEndpoint or isAzureMonitorTargetEnabled are required."
   syntax: "public BlobAuditingPolicyState state()"
   returns:
     description: "the state value."

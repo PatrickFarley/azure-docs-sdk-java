@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.RunCommandInput.script()"
   name: "script()"
   nameWithType: "RunCommandInput.script()"
-  summary: "Get the script property: Optional. The script to be executed. When this value is given, the given script will\n override the default script of the command."
+  summary: "Get the script property: Optional. The script to be executed. When this value is given, the given script will override the default script of the command."
   syntax: "public List<String> script()"
   returns:
     description: "the script value."

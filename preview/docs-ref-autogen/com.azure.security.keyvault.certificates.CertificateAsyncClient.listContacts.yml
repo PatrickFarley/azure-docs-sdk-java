@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.certificates.CertificateAsyncClient.listContacts()"
   name: "listContacts()"
   nameWithType: "CertificateAsyncClient.listContacts()"
-  summary: "Lists the certificate contacts in the key vault. This operation requires the certificates/managecontacts permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Lists the certificate contacts in the Azure Key Vault. Prints out the\n returned contacts details.</p>\n\n <pre>\n certificateAsyncClient.listContacts&#40;&#41;.subscribe&#40;contact -&gt;\n     System.out.printf&#40;&quot;Contact name %s and email %s&quot;, contact.getName&#40;&#41;, contact.getEmail&#40;&#41;&#41;\n &#41;;\n </pre>"
+  summary: "Lists the certificate contacts in the key vault. This operation requires the certificates/managecontacts permission.\n\n**Code Samples**\n\nLists the certificate contacts in the Azure Key Vault. Prints out the returned contacts details.\n\n```java\ncertificateAsyncClient.listContacts().subscribe(contact ->\n     System.out.printf(\"Contact name %s and email %s\", contact.getName(), contact.getEmail())\n );\n```"
   syntax: "public PagedFlux<CertificateContact> listContacts()"
   returns:
     description: "A <xref uid=\"com.azure.core.http.rest.PagedFlux\" data-throw-if-not-resolved=\"false\">PagedFlux</xref> containing all of the <xref uid=\"com.azure.security.keyvault.certificates.models.CertificateContact\" data-throw-if-not-resolved=\"false\">certificate contacts</xref> in the vault."

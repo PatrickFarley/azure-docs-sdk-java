@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexerExecutionResult.getFailedItemCount()"
   name: "getFailedItemCount()"
   nameWithType: "IndexerExecutionResult.getFailedItemCount()"
-  summary: "Get the failedItemCount property: The number of items that failed to be\n indexed during this indexer execution."
+  summary: "Get the failedItemCount property: The number of items that failed to be indexed during this indexer execution."
   syntax: "public int getFailedItemCount()"
   returns:
     description: "the failedItemCount value."

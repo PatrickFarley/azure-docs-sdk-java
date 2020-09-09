@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.JobStepExecutionOptions.retryAttempts()"
   name: "retryAttempts()"
   nameWithType: "JobStepExecutionOptions.retryAttempts()"
-  summary: "Get the retryAttempts property: Maximum number of times the job step will be reattempted if the first attempt\n fails."
+  summary: "Get the retryAttempts property: Maximum number of times the job step will be reattempted if the first attempt fails."
   syntax: "public Integer retryAttempts()"
   returns:
     description: "the retryAttempts value."

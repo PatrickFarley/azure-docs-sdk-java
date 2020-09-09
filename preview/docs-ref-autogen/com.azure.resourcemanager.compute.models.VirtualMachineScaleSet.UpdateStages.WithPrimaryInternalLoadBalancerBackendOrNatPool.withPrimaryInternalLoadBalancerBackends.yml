@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.UpdateStages.WithPrimaryInternalLoadBalancerBackendOrNatPool.withPrimaryInternalLoadBalancerBackends(String[] backendNames)"
   name: "withPrimaryInternalLoadBalancerBackends(String[] backendNames)"
   nameWithType: "VirtualMachineScaleSet.UpdateStages.WithPrimaryInternalLoadBalancerBackendOrNatPool.withPrimaryInternalLoadBalancerBackends(String[] backendNames)"
-  summary: "Associates the specified internal load balancer backends with the primary network interface of the\n virtual machines in the scale set."
+  summary: "Associates the specified internal load balancer backends with the primary network interface of the virtual machines in the scale set."
   parameters:
   - description: "the names of existing backends on the selected load balancer"
     name: "backendNames"

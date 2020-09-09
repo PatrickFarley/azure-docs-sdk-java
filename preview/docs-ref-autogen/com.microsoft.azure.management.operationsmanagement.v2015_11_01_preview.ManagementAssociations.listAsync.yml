@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.operationsmanagement.v2015_11_01_preview.ManagementAssociations.listAsync()"
   name: "listAsync()"
   nameWithType: "ManagementAssociations.listAsync()"
-  summary: "Retrieves the ManagementAssociations list for the subscription.\n Retrieves the ManagementAssociations list."
+  summary: "Retrieves the ManagementAssociations list for the subscription. Retrieves the ManagementAssociations list."
   syntax: "public abstract Observable<ManagementAssociation> listAsync()"
   returns:
     description: "the observable for the request"

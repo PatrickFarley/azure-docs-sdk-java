@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.StorageAccountTypes.PREMIUM_LRS"
   name: "PREMIUM_LRS"
   nameWithType: "StorageAccountTypes.PREMIUM_LRS"
-  summary: "Static value Premium_LRS for StorageAccountTypes."
+  summary: "Static value Premium\\_LRS for StorageAccountTypes."
   syntax: "public static final StorageAccountTypes PREMIUM_LRS"
 type: "field"
 metadata: {}

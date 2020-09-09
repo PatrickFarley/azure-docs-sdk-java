@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ContainerServiceVMSizeTypes.STANDARD_A6"
   name: "STANDARD_A6"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_A6"
-  summary: "Static value Standard_A6 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_A6 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_A6"
 type: "field"
 metadata: {}

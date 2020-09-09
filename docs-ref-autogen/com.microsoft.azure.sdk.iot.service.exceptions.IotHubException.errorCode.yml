@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.exceptions.IotHubException.errorCode"
   name: "errorCode"
   nameWithType: "IotHubException.errorCode"
-  summary: "<p>Provides the HTTP error code, if applicable.</p>\n\n <p>This value will be a 6 digital error code such as 404001 if the service provided one in response message to the HTTP request.\n Otherwise it will be a 3 digit status code such as 404.</p>\n\n <p>For AMQP operations such as sending cloud to device messages,\n receiving message feedback, and getting file upload notifications, this field will not be populated.</p>"
+  summary: "Provides the HTTP error code, if applicable.\n\nThis value will be a 6 digital error code such as 404001 if the service provided one in response message to the HTTP request. Otherwise it will be a 3 digit status code such as 404.\n\nFor AMQP operations such as sending cloud to device messages, receiving message feedback, and getting file upload notifications, this field will not be populated."
   syntax: "protected int errorCode"
 type: "field"
 metadata: {}

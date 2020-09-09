@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.UpdateStages.WithFrontend.definePrivateFrontend()"
   name: "definePrivateFrontend()"
   nameWithType: "ApplicationGateway.UpdateStages.WithFrontend.definePrivateFrontend()"
-  summary: "Begins the definition of the default private front end IP configuration, creating one if it does not\n already exist."
+  summary: "Begins the definition of the default private front end IP configuration, creating one if it does not already exist."
   syntax: "public abstract ApplicationGatewayFrontend.UpdateDefinitionStages.Blank<ApplicationGateway.Update> definePrivateFrontend()"
   returns:
     description: "the first stage of a front end definition"

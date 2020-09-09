@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.LoadBalancerSkuType.fromSku(LoadBalancerSku lbSku)"
   name: "fromSku(LoadBalancerSku lbSku)"
   nameWithType: "LoadBalancerSkuType.fromSku(LoadBalancerSku lbSku)"
-  summary: "Parses a value into a SKU type and creates a new LoadBalancerSkuType instance if not found among the existing\n ones."
+  summary: "Parses a value into a SKU type and creates a new LoadBalancerSkuType instance if not found among the existing ones."
   parameters:
   - description: "a sku"
     name: "lbSku"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.JobStepExecutionOptions.withMaximumRetryIntervalSeconds(Integer maximumRetryIntervalSeconds)"
   name: "withMaximumRetryIntervalSeconds(Integer maximumRetryIntervalSeconds)"
   nameWithType: "JobStepExecutionOptions.withMaximumRetryIntervalSeconds(Integer maximumRetryIntervalSeconds)"
-  summary: "Set the maximumRetryIntervalSeconds property: The maximum amount of time to wait between retries for job step\n execution."
+  summary: "Set the maximumRetryIntervalSeconds property: The maximum amount of time to wait between retries for job step execution."
   parameters:
   - description: "the maximumRetryIntervalSeconds value to set."
     name: "maximumRetryIntervalSeconds"

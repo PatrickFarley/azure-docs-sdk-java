@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeServiceAsyncClient.createFileSystem(String fileSystemName)"
   name: "createFileSystem(String fileSystemName)"
   nameWithType: "DataLakeServiceAsyncClient.createFileSystem(String fileSystemName)"
-  summary: "Creates a new file system within a storage account. If a file system with the same name already exists, the\n operation fails. For more information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/create-container\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n DataLakeFileSystemAsyncClient dataLakeFileSystemAsyncClient =\n     client.createFileSystem&#40;&quot;fileSystemName&quot;&#41;.block&#40;&#41;;\n </pre>"
+  summary: "Creates a new file system within a storage account. If a file system with the same name already exists, the operation fails. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nDataLakeFileSystemAsyncClient dataLakeFileSystemAsyncClient =\n     client.createFileSystem(\"fileSystemName\").block();\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/create-container"
   parameters:
   - description: "Name of the file system to create"
     name: "fileSystemName"

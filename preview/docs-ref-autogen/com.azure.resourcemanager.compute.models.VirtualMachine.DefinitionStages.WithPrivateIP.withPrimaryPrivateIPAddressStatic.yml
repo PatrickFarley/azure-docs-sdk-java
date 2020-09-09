@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithPrivateIP.withPrimaryPrivateIPAddressStatic(String staticPrivateIPAddress)"
   name: "withPrimaryPrivateIPAddressStatic(String staticPrivateIPAddress)"
   nameWithType: "VirtualMachine.DefinitionStages.WithPrivateIP.withPrimaryPrivateIPAddressStatic(String staticPrivateIPAddress)"
-  summary: "Assigns the specified static private IP address within the specified existing virtual network subnet to\n the VM's primary network interface."
+  summary: "Assigns the specified static private IP address within the specified existing virtual network subnet to the VM's primary network interface."
   parameters:
   - description: "a static IP address within the specified subnet"
     name: "staticPrivateIPAddress"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.Operations.listAsync()"
   name: "listAsync()"
   nameWithType: "Operations.listAsync()"
-  summary: "List Operations.\n Lists all the Media Services operations."
+  summary: "List Operations. Lists all the Media Services operations."
   syntax: "public abstract Observable<Operation> listAsync()"
   returns:
     description: "the observable for the request"

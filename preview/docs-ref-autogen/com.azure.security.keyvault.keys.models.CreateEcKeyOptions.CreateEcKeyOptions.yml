@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.models.CreateEcKeyOptions.CreateEcKeyOptions(String name)"
   name: "CreateEcKeyOptions(String name)"
   nameWithType: "CreateEcKeyOptions.CreateEcKeyOptions(String name)"
-  summary: "Creates a EcKeyCreateOptions with <code>name</code> as name of the Ec key."
+  summary: "Creates a EcKeyCreateOptions with `name` as name of the Ec key."
   parameters:
   - description: "The name of the Ec key."
     name: "name"

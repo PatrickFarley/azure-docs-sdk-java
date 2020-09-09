@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cosmosdb.VirtualNetworkRule.withId(String id)"
   name: "withId(String id)"
   nameWithType: "VirtualNetworkRule.withId(String id)"
-  summary: "Set resource ID of a subnet, for example: /subscriptions/{subscriptionId}/resourceGroups/{groupName}/providers/Microsoft.Network/virtualNetworks/{virtualNetworkName}/subnets/{subnetName}."
+  summary: "Set resource ID of a subnet, for example: /subscriptions/\\{subscriptionId\\}/resourceGroups/\\{groupName\\}/providers/Microsoft.Network/virtualNetworks/\\{virtualNetworkName\\}/subnets/\\{subnetName\\}."
   parameters:
   - description: "the id value to set"
     name: "id"

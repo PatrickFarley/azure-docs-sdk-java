@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayIpConfigurationInner.subnet()"
   name: "subnet()"
   nameWithType: "ApplicationGatewayIpConfigurationInner.subnet()"
-  summary: "Get the subnet property: Reference of the subnet resource. A subnet from where application gateway gets its\n private address."
+  summary: "Get the subnet property: Reference of the subnet resource. A subnet from where application gateway gets its private address."
   syntax: "public SubResource subnet()"
   returns:
     description: "the subnet value."

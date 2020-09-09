@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentStatistics.getGraphemeCount()"
   name: "getGraphemeCount()"
   nameWithType: "TextDocumentStatistics.getGraphemeCount()"
-  summary: "Get the <code>graphemeCount</code> property: Number of text elements recognized in the document."
+  summary: "Get the `graphemeCount` property: Number of text elements recognized in the document."
   syntax: "public int getGraphemeCount()"
   returns:
     description: "The <code>graphemeCount</code> value."

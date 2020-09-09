@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.EffectiveNetworkSecurityRule.destinationAddressPrefixes()"
   name: "destinationAddressPrefixes()"
   nameWithType: "EffectiveNetworkSecurityRule.destinationAddressPrefixes()"
-  summary: "Get the destinationAddressPrefixes property: The destination address prefixes. Expected values include CIDR IP\n ranges, Default Tags (VirtualNetwork, AzureLoadBalancer, Internet), System Tags, and the asterisk (*)."
+  summary: "Get the destinationAddressPrefixes property: The destination address prefixes. Expected values include CIDR IP ranges, Default Tags (VirtualNetwork, AzureLoadBalancer, Internet), System Tags, and the asterisk (\\*)."
   syntax: "public List<String> destinationAddressPrefixes()"
   returns:
     description: "the destinationAddressPrefixes value."

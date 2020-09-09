@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableList.Builder<E>.add(E element)"
   name: "add(E element)"
   nameWithType: "ImmutableList.Builder<E>.add(E element)"
-  summary: "Adds <code>element</code> to the <code>ImmutableList</code>."
+  summary: "Adds `element` to the `ImmutableList`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.add(E)"
   parameters:
   - description: "the element to add"
@@ -22,7 +22,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableList.Builder<E>.add(E[] elements)"
   name: "add(E[] elements)"
   nameWithType: "ImmutableList.Builder<E>.add(E[] elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableList</code>."
+  summary: "Adds each element of `elements` to the `ImmutableList`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.add(E...)"
   parameters:
   - description: "the <code>Iterable</code> to add to the <code>ImmutableList</code>"

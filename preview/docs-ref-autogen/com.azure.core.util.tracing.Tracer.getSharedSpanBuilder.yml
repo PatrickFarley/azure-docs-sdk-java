@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.tracing.Tracer.getSharedSpanBuilder(String spanName, Context context)"
   name: "getSharedSpanBuilder(String spanName, Context context)"
   nameWithType: "Tracer.getSharedSpanBuilder(String spanName, Context context)"
-  summary: "Returns a span builder with the provided name in <xref uid=\"Context\" data-throw-if-not-resolved=\"false\">Context</xref>.\n\n <p><strong>Code samples</strong></p>\n\n <p>Returns a builder with the provided span name.</p>\n {@codesnippet com.azure.core.util.tracing.getSpanBuilder#string-context}"
+  summary: "Returns a span builder with the provided name in <xref uid=\"com.azure.core.util.Context\" data-throw-if-not-resolved=\"false\">Context</xref>.\n\n**Code samples**\n\nReturns a builder with the provided span name.\n\n\\{@codesnippet com.azure.core.util.tracing.getSpanBuilder\\#string-context\\}"
   parameters:
   - description: "Name to give the span for the created builder."
     name: "spanName"

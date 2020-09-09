@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FieldValue.asFloat()"
   name: "asFloat()"
   nameWithType: "FieldValue.asFloat()"
-  summary: "Gets the value of the field as a <xref uid=\"Float\" data-throw-if-not-resolved=\"false\">Float</xref>."
+  summary: "Gets the value of the field as a <xref uid=\"java.lang.Float\" data-throw-if-not-resolved=\"false\">Float</xref>."
   syntax: "public Float asFloat()"
   returns:
     description: "the value of the field as a <xref uid=\"java.lang.Float\" data-throw-if-not-resolved=\"false\">Float</xref>."

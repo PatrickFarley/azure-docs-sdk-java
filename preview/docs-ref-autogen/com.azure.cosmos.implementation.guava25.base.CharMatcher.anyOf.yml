@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.anyOf(CharSequence sequence)"
   name: "anyOf(CharSequence sequence)"
   nameWithType: "CharMatcher.anyOf(CharSequence sequence)"
-  summary: "Returns a <code>char</code> matcher that matches any BMP character present in the given character\n sequence. Returns a bogus matcher if the sequence contains supplementary characters."
+  summary: "Returns a `char` matcher that matches any BMP character present in the given character sequence. Returns a bogus matcher if the sequence contains supplementary characters."
   parameters:
   - name: "sequence"
     type: "<xref href=\"java.lang.CharSequence?alt=java.lang.CharSequence&text=CharSequence\" data-throw-if-not-resolved=\"False\" />"

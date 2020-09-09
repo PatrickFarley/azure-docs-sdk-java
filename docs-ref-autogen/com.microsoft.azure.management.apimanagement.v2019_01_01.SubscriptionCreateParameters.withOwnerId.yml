@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.SubscriptionCreateParameters.withOwnerId(String ownerId)"
   name: "withOwnerId(String ownerId)"
   nameWithType: "SubscriptionCreateParameters.withOwnerId(String ownerId)"
-  summary: "Set user (user id path) for whom subscription is being created in form /users/{userId}."
+  summary: "Set user (user id path) for whom subscription is being created in form /users/\\{userId\\}."
   parameters:
   - description: "the ownerId value to set"
     name: "ownerId"

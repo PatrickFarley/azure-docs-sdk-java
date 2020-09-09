@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.SqlContainerResource.uniqueKeyPolicy()"
   name: "uniqueKeyPolicy()"
   nameWithType: "SqlContainerResource.uniqueKeyPolicy()"
-  summary: "Get the uniqueKeyPolicy property: The unique key policy configuration for specifying uniqueness constraints on\n documents in the collection in the Azure Cosmos DB service."
+  summary: "Get the uniqueKeyPolicy property: The unique key policy configuration for specifying uniqueness constraints on documents in the collection in the Azure Cosmos DB service."
   syntax: "public UniqueKeyPolicy uniqueKeyPolicy()"
   returns:
     description: "the uniqueKeyPolicy value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.RetryOptions.getMaxRetryAttemptsOnThrottledRequests()"
   name: "getMaxRetryAttemptsOnThrottledRequests()"
   nameWithType: "RetryOptions.getMaxRetryAttemptsOnThrottledRequests()"
-  summary: "Gets the maximum number of retries in the case where the request fails\n because the service has applied rate limiting on the client."
+  summary: "Gets the maximum number of retries in the case where the request fails because the service has applied rate limiting on the client."
   syntax: "public int getMaxRetryAttemptsOnThrottledRequests()"
   returns:
     description: "the maximum number of retries."

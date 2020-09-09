@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.BackendAddressPoolInner.backendIpConfigurations()"
   name: "backendIpConfigurations()"
   nameWithType: "BackendAddressPoolInner.backendIpConfigurations()"
-  summary: "Get the backendIpConfigurations property: Gets collection of references to IP addresses defined in network\n interfaces."
+  summary: "Get the backendIpConfigurations property: Gets collection of references to IP addresses defined in network interfaces."
   syntax: "public List<NetworkInterfaceIpConfigurationInner> backendIpConfigurations()"
   returns:
     description: "the backendIpConfigurations value."

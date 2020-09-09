@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileHttpHeaders.setContentDisposition(String contentDisposition)"
   name: "setContentDisposition(String contentDisposition)"
   nameWithType: "ShareFileHttpHeaders.setContentDisposition(String contentDisposition)"
-  summary: "Set the contentDisposition property: Sets the file's Content-Disposition\n header."
+  summary: "Set the contentDisposition property: Sets the file's Content-Disposition header."
   parameters:
   - description: "the contentDisposition value to set."
     name: "contentDisposition"

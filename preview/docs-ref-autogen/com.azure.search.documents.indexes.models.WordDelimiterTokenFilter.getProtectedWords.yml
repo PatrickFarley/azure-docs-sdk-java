@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WordDelimiterTokenFilter.getProtectedWords()"
   name: "getProtectedWords()"
   nameWithType: "WordDelimiterTokenFilter.getProtectedWords()"
-  summary: "Get the protectedWords property: A list of tokens to protect from being\n delimited."
+  summary: "Get the protectedWords property: A list of tokens to protect from being delimited."
   syntax: "public List<String> getProtectedWords()"
   returns:
     description: "the protectedWords value."

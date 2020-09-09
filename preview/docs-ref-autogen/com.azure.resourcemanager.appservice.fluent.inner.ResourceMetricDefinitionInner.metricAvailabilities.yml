@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.ResourceMetricDefinitionInner.metricAvailabilities()"
   name: "metricAvailabilities()"
   nameWithType: "ResourceMetricDefinitionInner.metricAvailabilities()"
-  summary: "Get the metricAvailabilities property: List of time grains supported for the metric together with retention\n period."
+  summary: "Get the metricAvailabilities property: List of time grains supported for the metric together with retention period."
   syntax: "public List<ResourceMetricAvailability> metricAvailabilities()"
   returns:
     description: "the metricAvailabilities value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.rest.PagedFlux<T>.<S>mapPage(Function<T,S> mapper)"
   name: "<S>mapPage(Function<T,S> mapper)"
   nameWithType: "PagedFlux<T>.<S>mapPage(Function<T,S> mapper)"
-  summary: "Maps this PagedFlux instance of T to a PagedFlux instance of type S as per the provided mapper\n function."
+  summary: "Maps this PagedFlux instance of T to a PagedFlux instance of type S as per the provided mapper function."
   parameters:
   - description: "The mapper function to convert from type T to type S."
     name: "mapper"

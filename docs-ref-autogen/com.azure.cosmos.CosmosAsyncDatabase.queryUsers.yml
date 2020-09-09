@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryUsers(SqlQuerySpec querySpec)"
   name: "queryUsers(SqlQuerySpec querySpec)"
   nameWithType: "CosmosAsyncDatabase.queryUsers(SqlQuerySpec querySpec)"
-  summary: "Query for cosmos users in a database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained users. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos users in a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained users. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the SQL query specification."
     name: "querySpec"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryUsers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   name: "queryUsers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncDatabase.queryUsers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
-  summary: "Query for cosmos users in a database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained users. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos users in a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained users. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the SQL query specification."
     name: "querySpec"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryUsers(String query)"
   name: "queryUsers(String query)"
   nameWithType: "CosmosAsyncDatabase.queryUsers(String query)"
-  summary: "Query for cosmos users in a database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained users. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos users in a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained users. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "query as string."
     name: "query"
@@ -50,7 +50,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryUsers(String query, CosmosQueryRequestOptions options)"
   name: "queryUsers(String query, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncDatabase.queryUsers(String query, CosmosQueryRequestOptions options)"
-  summary: "Query for cosmos users in a database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained users. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos users in a database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained users. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "query as string."
     name: "query"

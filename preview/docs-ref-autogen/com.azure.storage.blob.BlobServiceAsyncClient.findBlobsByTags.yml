@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobServiceAsyncClient.findBlobsByTags(FindBlobsOptions options)"
   name: "findBlobsByTags(FindBlobsOptions options)"
   nameWithType: "BlobServiceAsyncClient.findBlobsByTags(FindBlobsOptions options)"
-  summary: "Returns a reactive Publisher emitting the blobs in this account whose tags match the query expression. For more\n information, including information on the query syntax, see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/find-blobs-by-tags\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.findBlobsByTags&#40;new FindBlobsOptions&#40;&quot;where=tag=value&quot;&#41;.setMaxResultsPerPage&#40;10&#41;&#41;\n     .subscribe&#40;blob -&gt; System.out.printf&#40;&quot;Name: %s%n&quot;, blob.getName&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Returns a reactive Publisher emitting the blobs in this account whose tags match the query expression. For more information, including information on the query syntax, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.findBlobsByTags(new FindBlobsOptions(\"where=tag=value\").setMaxResultsPerPage(10))\n     .subscribe(blob -> System.out.printf(\"Name: %s%n\", blob.getName()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/find-blobs-by-tags"
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.options.FindBlobsOptions\" data-throw-if-not-resolved=\"false\">FindBlobsOptions</xref>"
     name: "options"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.blob.BlobServiceAsyncClient.findBlobsByTags(String query)"
   name: "findBlobsByTags(String query)"
   nameWithType: "BlobServiceAsyncClient.findBlobsByTags(String query)"
-  summary: "Returns a reactive Publisher emitting the blobs in this account whose tags match the query expression. For more\n information, including information on the query syntax, see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/find-blobs-by-tags\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.findBlobsByTags&#40;&quot;where=tag=value&quot;&#41;.subscribe&#40;blob -&gt; System.out.printf&#40;&quot;Name: %s%n&quot;, blob.getName&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Returns a reactive Publisher emitting the blobs in this account whose tags match the query expression. For more information, including information on the query syntax, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.findBlobsByTags(\"where=tag=value\").subscribe(blob -> System.out.printf(\"Name: %s%n\", blob.getName()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/find-blobs-by-tags"
   parameters:
   - description: "Filters the results to return only blobs whose tags match the specified expression."
     name: "query"

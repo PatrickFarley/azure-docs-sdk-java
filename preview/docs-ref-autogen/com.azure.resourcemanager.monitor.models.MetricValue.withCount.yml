@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricValue.withCount(Double count)"
   name: "withCount(Double count)"
   nameWithType: "MetricValue.withCount(Double count)"
-  summary: "Set the count property: the number of samples in the time range. Can be used to determine the number of values\n that contributed to the average value."
+  summary: "Set the count property: the number of samples in the time range. Can be used to determine the number of values that contributed to the average value."
   parameters:
   - description: "the count value to set."
     name: "count"

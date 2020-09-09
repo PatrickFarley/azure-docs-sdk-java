@@ -35,7 +35,7 @@ fields:
   fullName: "com.microsoft.azure.management.batch.CertificateFormat.PFX"
   name: "PFX"
   nameWithType: "CertificateFormat.PFX"
-  summary: "The certificate is a PFX (PKCS#12) formatted certificate or certificate chain."
+  summary: "The certificate is a PFX (PKCS\\#12) formatted certificate or certificate chain."
 methods:
 - uid: "com.microsoft.azure.management.batch.CertificateFormat.fromString(java.lang.String)"
   fullName: "com.microsoft.azure.management.batch.CertificateFormat.fromString(String value)"

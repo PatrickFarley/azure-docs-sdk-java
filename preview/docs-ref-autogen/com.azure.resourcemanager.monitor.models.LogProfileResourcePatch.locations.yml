@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.LogProfileResourcePatch.locations()"
   name: "locations()"
   nameWithType: "LogProfileResourcePatch.locations()"
-  summary: "Get the locations property: List of regions for which Activity Log events should be stored or streamed. It is a\n comma separated list of valid ARM locations including the 'global' location."
+  summary: "Get the locations property: List of regions for which Activity Log events should be stored or streamed. It is a comma separated list of valid ARM locations including the 'global' location."
   syntax: "public List<String> locations()"
   returns:
     description: "the locations value."

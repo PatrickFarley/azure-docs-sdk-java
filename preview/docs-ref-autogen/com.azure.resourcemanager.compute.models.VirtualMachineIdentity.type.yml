@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineIdentity.type()"
   name: "type()"
   nameWithType: "VirtualMachineIdentity.type()"
-  summary: "Get the type property: The type of identity used for the virtual machine. The type 'SystemAssigned, UserAssigned'\n includes both an implicitly created identity and a set of user assigned identities. The type 'None' will remove\n any identities from the virtual machine."
+  summary: "Get the type property: The type of identity used for the virtual machine. The type 'SystemAssigned, UserAssigned' includes both an implicitly created identity and a set of user assigned identities. The type 'None' will remove any identities from the virtual machine."
   syntax: "public ResourceIdentityType type()"
   returns:
     description: "the type value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationInner.authorizedAzureSubscriptionIds()"
   name: "authorizedAzureSubscriptionIds()"
   nameWithType: "PartnerRegistrationInner.authorizedAzureSubscriptionIds()"
-  summary: "Get list of Azure subscription Ids that are authorized to create a partner namespace\n     associated with this partner registration. This is an optional property. Creating\n     partner namespaces is always permitted under the same Azure subscription as the one used\n     for creating the partner registration."
+  summary: "Get list of Azure subscription Ids that are authorized to create a partner namespace associated with this partner registration. This is an optional property. Creating partner namespaces is always permitted under the same Azure subscription as the one used for creating the partner registration."
   syntax: "public List<String> authorizedAzureSubscriptionIds()"
   returns:
     description: "the authorizedAzureSubscriptionIds value"

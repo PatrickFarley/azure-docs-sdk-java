@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PrivateLinkServiceConnection.privateLinkServiceConnectionState()"
   name: "privateLinkServiceConnectionState()"
   nameWithType: "PrivateLinkServiceConnection.privateLinkServiceConnectionState()"
-  summary: "Get the privateLinkServiceConnectionState property: A collection of read-only information about the state of the\n connection to the remote resource."
+  summary: "Get the privateLinkServiceConnectionState property: A collection of read-only information about the state of the connection to the remote resource."
   syntax: "public PrivateLinkServiceConnectionState privateLinkServiceConnectionState()"
   returns:
     description: "the privateLinkServiceConnectionState value."

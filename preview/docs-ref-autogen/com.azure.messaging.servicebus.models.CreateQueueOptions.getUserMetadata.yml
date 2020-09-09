@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateQueueOptions.getUserMetadata()"
   name: "getUserMetadata()"
   nameWithType: "CreateQueueOptions.getUserMetadata()"
-  summary: "Get the userMetadata property: Custom metdata that user can associate with the description. Max length is 1024\n chars."
+  summary: "Get the userMetadata property: Custom metdata that user can associate with the description. Max length is 1024 chars."
   syntax: "public String getUserMetadata()"
   returns:
     description: "the userMetadata value."

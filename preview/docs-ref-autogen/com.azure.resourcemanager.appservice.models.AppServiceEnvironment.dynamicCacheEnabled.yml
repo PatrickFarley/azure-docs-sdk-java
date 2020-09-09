@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceEnvironment.dynamicCacheEnabled()"
   name: "dynamicCacheEnabled()"
   nameWithType: "AppServiceEnvironment.dynamicCacheEnabled()"
-  summary: "Get the dynamicCacheEnabled property: True/false indicating whether the App Service Environment is suspended. The\n environment can be suspended e.g. when the management endpoint is no longer available (most likely because NSG\n blocked the incoming traffic)."
+  summary: "Get the dynamicCacheEnabled property: True/false indicating whether the App Service Environment is suspended. The environment can be suspended e.g. when the management endpoint is no longer available (most likely because NSG blocked the incoming traffic)."
   syntax: "public Boolean dynamicCacheEnabled()"
   returns:
     description: "the dynamicCacheEnabled value."

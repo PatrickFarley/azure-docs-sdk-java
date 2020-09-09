@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.list1Async()"
   name: "list1Async()"
   nameWithType: "PartnerRegistrationsInner.list1Async()"
-  summary: "List all available partners registrations.\n List all partners registrations."
+  summary: "List all available partners registrations. List all partners registrations."
   syntax: "public Observable<List<PartnerRegistrationInner>> list1Async()"
   returns:
     description: "the observable to the List&lt;PartnerRegistrationInner&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.list1Async(ServiceCallback<List<PartnerRegistrationInner>> serviceCallback)"
   name: "list1Async(ServiceCallback<List<PartnerRegistrationInner>> serviceCallback)"
   nameWithType: "PartnerRegistrationsInner.list1Async(ServiceCallback<List<PartnerRegistrationInner>> serviceCallback)"
-  summary: "List all available partners registrations.\n List all partners registrations."
+  summary: "List all available partners registrations. List all partners registrations."
   parameters:
   - description: "the async ServiceCallback to handle successful and failed responses."
     name: "serviceCallback"

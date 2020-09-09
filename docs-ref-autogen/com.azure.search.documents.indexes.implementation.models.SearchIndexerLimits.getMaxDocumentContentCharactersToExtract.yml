@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexerLimits.getMaxDocumentContentCharactersToExtract()"
   name: "getMaxDocumentContentCharactersToExtract()"
   nameWithType: "SearchIndexerLimits.getMaxDocumentContentCharactersToExtract()"
-  summary: "Get the maxDocumentContentCharactersToExtract property: The maximum number of characters that will be extracted\n from a document picked up for indexing."
+  summary: "Get the maxDocumentContentCharactersToExtract property: The maximum number of characters that will be extracted from a document picked up for indexing."
   syntax: "public Long getMaxDocumentContentCharactersToExtract()"
   returns:
     description: "the maxDocumentContentCharactersToExtract value."

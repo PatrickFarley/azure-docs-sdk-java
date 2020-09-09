@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationSecurityGroupInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ApplicationSecurityGroupInner.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the application security group resource. Possible\n values are: 'Succeeded', 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: The provisioning state of the application security group resource. Possible values are: 'Succeeded', 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

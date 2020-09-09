@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestRequest.setSearchFields(String searchFields)"
   name: "setSearchFields(String searchFields)"
   nameWithType: "SuggestRequest.setSearchFields(String searchFields)"
-  summary: "Set the searchFields property: The comma-separated list of field names to search for the specified search text.\n Target fields must be included in the specified suggester."
+  summary: "Set the searchFields property: The comma-separated list of field names to search for the specified search text. Target fields must be included in the specified suggester."
   parameters:
   - description: "the searchFields value to set."
     name: "searchFields"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.BackupItemInner.correlationId()"
   name: "correlationId()"
   nameWithType: "BackupItemInner.correlationId()"
-  summary: "Get the correlationId property: Unique correlation identifier. Please use this along with the timestamp while\n communicating with Azure support."
+  summary: "Get the correlationId property: Unique correlation identifier. Please use this along with the timestamp while communicating with Azure support."
   syntax: "public String correlationId()"
   returns:
     description: "the correlationId value."

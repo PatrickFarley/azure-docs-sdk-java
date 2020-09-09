@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.text.translate.CharSequenceTranslator.hex(int codepoint)"
   name: "hex(int codepoint)"
   nameWithType: "CharSequenceTranslator.hex(int codepoint)"
-  summary: "<p>Returns an upper case hexadecimal <code>String</code> for the given\n character.</p>"
+  summary: "Returns an upper case hexadecimal `String` for the given character."
   parameters:
   - description: "The codepoint to convert."
     name: "codepoint"

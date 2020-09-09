@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteInner.isDefaultContainer()"
   name: "isDefaultContainer()"
   nameWithType: "SiteInner.isDefaultContainer()"
-  summary: "Get the isDefaultContainer property: &lt;code&gt;true&lt;/code&gt; if the app is a default container; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the isDefaultContainer property: <code>true</code> if the app is a default container; otherwise, <code>false</code>."
   syntax: "public Boolean isDefaultContainer()"
   returns:
     description: "the isDefaultContainer value."

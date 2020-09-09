@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Ordering<T>.Ordering()"
   name: "Ordering()"
   nameWithType: "Ordering<T>.Ordering()"
-  summary: "Constructs a new instance of this class (only invokable by the subclass constructor, typically\n implicit)."
+  summary: "Constructs a new instance of this class (only invokable by the subclass constructor, typically implicit)."
   syntax: "protected Ordering()"
 type: "constructor"
 metadata: {}

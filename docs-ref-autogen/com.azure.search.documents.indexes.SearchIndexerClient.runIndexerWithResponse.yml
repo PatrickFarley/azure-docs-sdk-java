@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.runIndexerWithResponse(String indexerName, Context context)"
   name: "runIndexerWithResponse(String indexerName, Context context)"
   nameWithType: "SearchIndexerClient.runIndexerWithResponse(String indexerName, Context context)"
-  summary: "Runs an indexer on-demand.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Run search indexer named \"searchIndexer\".  </p>\n\n <pre>\n Response&lt;Void&gt; response = searchIndexerClient.runIndexerWithResponse&#40;&quot;searchIndexer&quot;,\n     new Context&#40;key1, value1&#41;&#41;;\n System.out.println&#40;&quot;The status code of the response is &quot; + response.getStatusCode&#40;&#41;&#41;;\n </pre>"
+  summary: "Runs an indexer on-demand.\n\n**Code Sample**\n\nRun search indexer named \"searchIndexer\".\n\n```java\nResponse<Void> response = searchIndexerClient.runIndexerWithResponse(\"searchIndexer\",\n     new Context(key1, value1));\n System.out.println(\"The status code of the response is \" + response.getStatusCode());\n```"
   parameters:
   - description: "the name of the indexer to run"
     name: "indexerName"

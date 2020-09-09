@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.EntityRecognitionSkill.getCategories()"
   name: "getCategories()"
   nameWithType: "EntityRecognitionSkill.getCategories()"
-  summary: "Get the categories property: A list of entity categories that should be\n extracted."
+  summary: "Get the categories property: A list of entity categories that should be extracted."
   syntax: "public List<EntityCategory> getCategories()"
   returns:
     description: "the categories value."

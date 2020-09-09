@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ExpressRouteCrossConnectionRoutesTableSummary.stateOrPrefixesReceived()"
   name: "stateOrPrefixesReceived()"
   nameWithType: "ExpressRouteCrossConnectionRoutesTableSummary.stateOrPrefixesReceived()"
-  summary: "Get the stateOrPrefixesReceived property: Current state of the BGP session, and the number of prefixes that have\n been received from a neighbor or peer group."
+  summary: "Get the stateOrPrefixesReceived property: Current state of the BGP session, and the number of prefixes that have been received from a neighbor or peer group."
   syntax: "public String stateOrPrefixesReceived()"
   returns:
     description: "the stateOrPrefixesReceived value."

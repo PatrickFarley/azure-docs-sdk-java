@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRouteCircuitPeeringInner.withConnections(List<ExpressRouteCircuitConnectionInner> connections)"
   name: "withConnections(List<ExpressRouteCircuitConnectionInner> connections)"
   nameWithType: "ExpressRouteCircuitPeeringInner.withConnections(List<ExpressRouteCircuitConnectionInner> connections)"
-  summary: "Set the connections property: The list of circuit connections associated with Azure Private Peering for this\n circuit."
+  summary: "Set the connections property: The list of circuit connections associated with Azure Private Peering for this circuit."
   parameters:
   - description: "the connections value to set."
     name: "connections"

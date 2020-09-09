@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.WordDelimiterTokenFilter.isPreserveOriginal()"
   name: "isPreserveOriginal()"
   nameWithType: "WordDelimiterTokenFilter.isPreserveOriginal()"
-  summary: "Get the preserveOriginal property: A value indicating whether original words will be preserved and added to the\n subword list. Default is false."
+  summary: "Get the preserveOriginal property: A value indicating whether original words will be preserved and added to the subword list. Default is false."
   syntax: "public Boolean isPreserveOriginal()"
   returns:
     description: "the preserveOriginal value."

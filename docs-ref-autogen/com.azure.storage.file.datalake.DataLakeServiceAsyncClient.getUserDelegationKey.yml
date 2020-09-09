@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeServiceAsyncClient.getUserDelegationKey(OffsetDateTime start, OffsetDateTime expiry)"
   name: "getUserDelegationKey(OffsetDateTime start, OffsetDateTime expiry)"
   nameWithType: "DataLakeServiceAsyncClient.getUserDelegationKey(OffsetDateTime start, OffsetDateTime expiry)"
-  summary: "Gets a user delegation key for use with this account's data lake storage. Note: This method call is only valid\n when using <xref uid=\"TokenCredential\" data-throw-if-not-resolved=\"false\">TokenCredential</xref> in this object's <xref uid=\"HttpPipeline\" data-throw-if-not-resolved=\"false\">HttpPipeline</xref>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.getUserDelegationKey&#40;delegationKeyStartTime, delegationKeyExpiryTime&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;User delegation key: %s%n&quot;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Gets a user delegation key for use with this account's data lake storage. Note: This method call is only valid when using <xref uid=\"\" data-throw-if-not-resolved=\"false\">TokenCredential</xref> in this object's <xref uid=\"com.azure.core.http.HttpPipeline\" data-throw-if-not-resolved=\"false\">HttpPipeline</xref>.\n\n**Code Samples**\n\n```java\nclient.getUserDelegationKey(delegationKeyStartTime, delegationKeyExpiryTime).subscribe(response ->\n     System.out.printf(\"User delegation key: %s%n\", response.getValue()));\n```"
   parameters:
   - description: "Start time for the key's validity. Null indicates immediate start."
     name: "start"

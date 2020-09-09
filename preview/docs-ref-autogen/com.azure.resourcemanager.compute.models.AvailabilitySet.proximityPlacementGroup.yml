@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.AvailabilitySet.proximityPlacementGroup()"
   name: "proximityPlacementGroup()"
   nameWithType: "AvailabilitySet.proximityPlacementGroup()"
-  summary: "Get specifies information about the proximity placement group that the virtual machine scale set should be\n assigned to."
+  summary: "Get specifies information about the proximity placement group that the virtual machine scale set should be assigned to."
   syntax: "public abstract ProximityPlacementGroup proximityPlacementGroup()"
   returns:
     description: "the proximityPlacementGroup."

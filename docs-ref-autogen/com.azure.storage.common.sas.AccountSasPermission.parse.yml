@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.sas.AccountSasPermission.parse(String permString)"
   name: "parse(String permString)"
   nameWithType: "AccountSasPermission.parse(String permString)"
-  summary: "Creates an <xref uid=\"AccountSasPermission\" data-throw-if-not-resolved=\"false\">AccountSasPermission</xref> from the specified permissions string. This method will throw an <xref uid=\"IllegalArgumentException\" data-throw-if-not-resolved=\"false\">IllegalArgumentException</xref> if it encounters a character that does not correspond to a valid permission."
+  summary: "Creates an <xref uid=\"com.azure.storage.common.sas.AccountSasPermission\" data-throw-if-not-resolved=\"false\">AccountSasPermission</xref> from the specified permissions string. This method will throw an <xref uid=\"\" data-throw-if-not-resolved=\"false\">IllegalArgumentException</xref> if it encounters a character that does not correspond to a valid permission."
   parameters:
   - description: "A <code>String</code> which represents the <xref uid=\"com.azure.storage.common.sas.AccountSasPermission\" data-throw-if-not-resolved=\"false\">AccountSasPermission</xref>."
     name: "permString"

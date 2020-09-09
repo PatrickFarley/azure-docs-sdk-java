@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.policy.ResponseValidationPolicyBuilder.addOptionalEcho(String headerName)"
   name: "addOptionalEcho(String headerName)"
   nameWithType: "ResponseValidationPolicyBuilder.addOptionalEcho(String headerName)"
-  summary: "Fluently applies an optional validation to this policy where, if the response contains the given header, asserts\n its value is an echo of the value provided in the request."
+  summary: "Fluently applies an optional validation to this policy where, if the response contains the given header, asserts its value is an echo of the value provided in the request."
   parameters:
   - description: "The header to validate."
     name: "headerName"

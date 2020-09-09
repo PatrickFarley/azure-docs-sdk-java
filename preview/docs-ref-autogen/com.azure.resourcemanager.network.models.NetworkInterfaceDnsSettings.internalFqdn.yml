@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterfaceDnsSettings.internalFqdn()"
   name: "internalFqdn()"
   nameWithType: "NetworkInterfaceDnsSettings.internalFqdn()"
-  summary: "Get the internalFqdn property: Fully qualified DNS name supporting internal communications between VMs in the\n same virtual network."
+  summary: "Get the internalFqdn property: Fully qualified DNS name supporting internal communications between VMs in the same virtual network."
   syntax: "public String internalFqdn()"
   returns:
     description: "the internalFqdn value."

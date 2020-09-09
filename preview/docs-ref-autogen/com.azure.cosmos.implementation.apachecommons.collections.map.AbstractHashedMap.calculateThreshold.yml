@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.calculateThreshold(int newCapacity, float factor)"
   name: "calculateThreshold(int newCapacity, float factor)"
   nameWithType: "AbstractHashedMap<K,V>.calculateThreshold(int newCapacity, float factor)"
-  summary: "Calculates the new threshold of the map, where it will be resized.\n This implementation uses the load factor."
+  summary: "Calculates the new threshold of the map, where it will be resized. This implementation uses the load factor."
   parameters:
   - description: "the new capacity"
     name: "newCapacity"

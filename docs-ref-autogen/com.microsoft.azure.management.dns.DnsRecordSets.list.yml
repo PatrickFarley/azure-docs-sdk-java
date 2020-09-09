@@ -34,7 +34,7 @@ members:
   fullName: "com.microsoft.azure.management.dns.DnsRecordSets<RecordSetT>.list(String recordSetNameSuffix, int pageSize)"
   name: "list(String recordSetNameSuffix, int pageSize)"
   nameWithType: "DnsRecordSets<RecordSetT>.list(String recordSetNameSuffix, int pageSize)"
-  summary: "Lists all the record sets with the given suffix, also limits the number of entries\n per page to the given page size."
+  summary: "Lists all the record sets with the given suffix, also limits the number of entries per page to the given page size."
   parameters:
   - description: "the record set name suffix"
     name: "recordSetNameSuffix"

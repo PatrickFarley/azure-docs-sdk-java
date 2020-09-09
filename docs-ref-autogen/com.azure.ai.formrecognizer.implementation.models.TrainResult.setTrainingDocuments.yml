@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.TrainResult.setTrainingDocuments(List<TrainingDocumentInfo> trainingDocuments)"
   name: "setTrainingDocuments(List<TrainingDocumentInfo> trainingDocuments)"
   nameWithType: "TrainResult.setTrainingDocuments(List<TrainingDocumentInfo> trainingDocuments)"
-  summary: "Set the trainingDocuments property: List of the documents used to train the model and any errors reported in each\n document."
+  summary: "Set the trainingDocuments property: List of the documents used to train the model and any errors reported in each document."
   parameters:
   - description: "the trainingDocuments value to set."
     name: "trainingDocuments"

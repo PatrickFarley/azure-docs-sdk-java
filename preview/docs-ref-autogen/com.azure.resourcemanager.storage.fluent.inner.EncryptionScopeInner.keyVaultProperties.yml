@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.EncryptionScopeInner.keyVaultProperties()"
   name: "keyVaultProperties()"
   nameWithType: "EncryptionScopeInner.keyVaultProperties()"
-  summary: "Get the keyVaultProperties property: The key vault properties for the encryption scope. This is a required field\n if encryption scope 'source' attribute is set to 'Microsoft.KeyVault'."
+  summary: "Get the keyVaultProperties property: The key vault properties for the encryption scope. This is a required field if encryption scope 'source' attribute is set to 'Microsoft.KeyVault'."
   syntax: "public EncryptionScopeKeyVaultProperties keyVaultProperties()"
   returns:
     description: "the keyVaultProperties value."

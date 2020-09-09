@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.TopicDescription.isEnableBatchedOperations()"
   name: "isEnableBatchedOperations()"
   nameWithType: "TopicDescription.isEnableBatchedOperations()"
-  summary: "Get the enableBatchedOperations property: Value that indicates whether server-side batched operations are\n enabled."
+  summary: "Get the enableBatchedOperations property: Value that indicates whether server-side batched operations are enabled."
   syntax: "public Boolean isEnableBatchedOperations()"
   returns:
     description: "the enableBatchedOperations value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueMessageItem.getTimeNextVisible()"
   name: "getTimeNextVisible()"
   nameWithType: "QueueMessageItem.getTimeNextVisible()"
-  summary: "Get the timeNextVisible property: The time that the message will again\n become visible in the Queue."
+  summary: "Get the timeNextVisible property: The time that the message will again become visible in the Queue."
   syntax: "public OffsetDateTime getTimeNextVisible()"
   returns:
     description: "the timeNextVisible value."

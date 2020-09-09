@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedFlux<C,T,P>.byPage(C continuationToken)"
   name: "byPage(C continuationToken)"
   nameWithType: "ContinuablePagedFlux<C,T,P>.byPage(C continuationToken)"
-  summary: "Get a Flux <xref uid=\"ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> identified by the given continuation token."
+  summary: "Get a Flux <xref uid=\"com.azure.core.util.paging.ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> identified by the given continuation token."
   parameters:
   - description: "the continuation token"
     name: "continuationToken"
@@ -29,7 +29,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedFlux<C,T,P>.byPage(C continuationToken, int preferredPageSize)"
   name: "byPage(C continuationToken, int preferredPageSize)"
   nameWithType: "ContinuablePagedFlux<C,T,P>.byPage(C continuationToken, int preferredPageSize)"
-  summary: "Get a Flux of <xref uid=\"ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> identified by the given continuation token, with each\n page containing number of elements equal to the preferred page size."
+  summary: "Get a Flux of <xref uid=\"com.azure.core.util.paging.ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> identified by the given continuation token, with each page containing number of elements equal to the preferred page size."
   parameters:
   - description: "the continuation token"
     name: "continuationToken"
@@ -45,7 +45,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedFlux<C,T,P>.byPage(int preferredPageSize)"
   name: "byPage(int preferredPageSize)"
   nameWithType: "ContinuablePagedFlux<C,T,P>.byPage(int preferredPageSize)"
-  summary: "Get a Flux of <xref uid=\"ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> in this Paged Flux, with each page containing\n number of elements equal to the preferred page size."
+  summary: "Get a Flux of <xref uid=\"com.azure.core.util.paging.ContinuablePage\" data-throw-if-not-resolved=\"false\">ContinuablePage</xref> in this Paged Flux, with each page containing number of elements equal to the preferred page size."
   parameters:
   - description: "the preferred page size, service may or may not honor the page\n                          size preference hence client MUST be prepared to handle pages\n                          with different page size."
     name: "preferredPageSize"

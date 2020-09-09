@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RunInner.imageUpdateTrigger()"
   name: "imageUpdateTrigger()"
   nameWithType: "RunInner.imageUpdateTrigger()"
-  summary: "Get the imageUpdateTrigger property: The image update trigger that caused the run. This is applicable if the task\n has base image trigger configured."
+  summary: "Get the imageUpdateTrigger property: The image update trigger that caused the run. This is applicable if the task has base image trigger configured."
   syntax: "public ImageUpdateTrigger imageUpdateTrigger()"
   returns:
     description: "the imageUpdateTrigger value."

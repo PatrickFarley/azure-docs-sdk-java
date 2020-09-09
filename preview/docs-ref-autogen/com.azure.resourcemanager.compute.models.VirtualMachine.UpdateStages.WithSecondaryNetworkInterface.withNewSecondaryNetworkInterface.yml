@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.UpdateStages.WithSecondaryNetworkInterface.withNewSecondaryNetworkInterface(Creatable<NetworkInterface> creatable)"
   name: "withNewSecondaryNetworkInterface(Creatable<NetworkInterface> creatable)"
   nameWithType: "VirtualMachine.UpdateStages.WithSecondaryNetworkInterface.withNewSecondaryNetworkInterface(Creatable<NetworkInterface> creatable)"
-  summary: "Creates a new network interface to associate with the virtual machine.\n\n <p>Note this method's effect is additive, i.e. each time it is used, the new secondary network interface\n added to the virtual machine."
+  summary: "Creates a new network interface to associate with the virtual machine.\n\nNote this method's effect is additive, i.e. each time it is used, the new secondary network interface added to the virtual machine."
   parameters:
   - description: "a creatable definition for a new network interface"
     name: "creatable"

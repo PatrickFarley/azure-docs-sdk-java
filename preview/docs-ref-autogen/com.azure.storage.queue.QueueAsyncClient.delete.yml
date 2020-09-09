@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueAsyncClient.delete()"
   name: "delete()"
   nameWithType: "QueueAsyncClient.delete()"
-  summary: "Permanently deletes the queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete a queue</p>\n\n <pre>\n client.delete&#40;&#41;.doOnSuccess&#40;\n     response -&gt; System.out.println&#40;&quot;Deleting the queue completed.&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-queue3\">Azure Docs</a>.</p>"
+  summary: "Permanently deletes the queue.\n\n**Code Samples**\n\nDelete a queue\n\n```java\nclient.delete().doOnSuccess(\n     response -> System.out.println(\"Deleting the queue completed.\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-queue3"
   syntax: "public Mono<Void> delete()"
   returns:
     description: "An empty response"

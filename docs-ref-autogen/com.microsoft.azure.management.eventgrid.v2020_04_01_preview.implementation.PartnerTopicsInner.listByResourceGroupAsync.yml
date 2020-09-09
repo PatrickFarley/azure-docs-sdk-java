@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName)"
   name: "listByResourceGroupAsync(String resourceGroupName)"
   nameWithType: "PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName)"
-  summary: "List partner topics under a resource group.\n List all the partner topics under a resource group."
+  summary: "List partner topics under a resource group. List all the partner topics under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName, ListOperationCallback<PartnerTopicInner> serviceCallback)"
   name: "listByResourceGroupAsync(String resourceGroupName, ListOperationCallback<PartnerTopicInner> serviceCallback)"
   nameWithType: "PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName, ListOperationCallback<PartnerTopicInner> serviceCallback)"
-  summary: "List partner topics under a resource group.\n List all the partner topics under a resource group."
+  summary: "List partner topics under a resource group. List all the partner topics under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -37,7 +37,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top)"
   name: "listByResourceGroupAsync(String resourceGroupName, String filter, Integer top)"
   nameWithType: "PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top)"
-  summary: "List partner topics under a resource group.\n List all the partner topics under a resource group."
+  summary: "List partner topics under a resource group. List all the partner topics under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -56,7 +56,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top, ListOperationCallback<PartnerTopicInner> serviceCallback)"
   name: "listByResourceGroupAsync(String resourceGroupName, String filter, Integer top, ListOperationCallback<PartnerTopicInner> serviceCallback)"
   nameWithType: "PartnerTopicsInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top, ListOperationCallback<PartnerTopicInner> serviceCallback)"
-  summary: "List partner topics under a resource group.\n List all the partner topics under a resource group."
+  summary: "List partner topics under a resource group. List all the partner topics under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

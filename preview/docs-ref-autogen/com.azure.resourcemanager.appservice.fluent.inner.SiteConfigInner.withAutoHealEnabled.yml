@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigInner.withAutoHealEnabled(Boolean autoHealEnabled)"
   name: "withAutoHealEnabled(Boolean autoHealEnabled)"
   nameWithType: "SiteConfigInner.withAutoHealEnabled(Boolean autoHealEnabled)"
-  summary: "Set the autoHealEnabled property: &lt;code&gt;true&lt;/code&gt; if Auto Heal is enabled; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the autoHealEnabled property: <code>true</code> if Auto Heal is enabled; otherwise, <code>false</code>."
   parameters:
   - description: "the autoHealEnabled value to set."
     name: "autoHealEnabled"

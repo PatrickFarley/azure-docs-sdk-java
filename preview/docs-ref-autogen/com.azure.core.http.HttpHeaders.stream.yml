@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.HttpHeaders.stream()"
   name: "stream()"
   nameWithType: "HttpHeaders.stream()"
-  summary: "Get a <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> representation of the HttpHeader values in this instance."
+  summary: "Get a <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> representation of the HttpHeader values in this instance."
   syntax: "public Stream<HttpHeader> stream()"
   returns:
     description: "A <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of all header values in this instance."

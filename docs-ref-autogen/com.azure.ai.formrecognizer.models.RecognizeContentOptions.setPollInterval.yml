@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.RecognizeContentOptions.setPollInterval(Duration pollInterval)"
   name: "setPollInterval(Duration pollInterval)"
   nameWithType: "RecognizeContentOptions.setPollInterval(Duration pollInterval)"
-  summary: "Set the duration between each poll for the operation status. If none is specified, a default of\n 5 seconds is used."
+  summary: "Set the duration between each poll for the operation status. If none is specified, a default of 5 seconds is used."
   parameters:
   - description: "the duration to specify between each poll for the operation status."
     name: "pollInterval"

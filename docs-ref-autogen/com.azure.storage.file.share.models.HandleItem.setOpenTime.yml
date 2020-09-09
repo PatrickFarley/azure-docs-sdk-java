@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.setOpenTime(OffsetDateTime openTime)"
   name: "setOpenTime(OffsetDateTime openTime)"
   nameWithType: "HandleItem.setOpenTime(OffsetDateTime openTime)"
-  summary: "Set the openTime property: Time when the session that previously opened\n the handle has last been reconnected. (UTC)."
+  summary: "Set the openTime property: Time when the session that previously opened the handle has last been reconnected. (UTC)."
   parameters:
   - description: "the openTime value to set."
     name: "openTime"

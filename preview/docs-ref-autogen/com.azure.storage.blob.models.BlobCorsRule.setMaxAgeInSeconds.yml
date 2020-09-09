@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobCorsRule.setMaxAgeInSeconds(int maxAgeInSeconds)"
   name: "setMaxAgeInSeconds(int maxAgeInSeconds)"
   nameWithType: "BlobCorsRule.setMaxAgeInSeconds(int maxAgeInSeconds)"
-  summary: "Set the maxAgeInSeconds property: The maximum amount time that a browser\n should cache the preflight OPTIONS request."
+  summary: "Set the maxAgeInSeconds property: The maximum amount time that a browser should cache the preflight OPTIONS request."
   parameters:
   - description: "the maxAgeInSeconds value to set."
     name: "maxAgeInSeconds"

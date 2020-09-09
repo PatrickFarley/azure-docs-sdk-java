@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.operationId()"
   name: "operationId()"
   nameWithType: "EventDataInner.operationId()"
-  summary: "Get the operationId property: It is usually a GUID shared among the events corresponding to single operation.\n This value should not be confused with EventName."
+  summary: "Get the operationId property: It is usually a GUID shared among the events corresponding to single operation. This value should not be confused with EventName."
   syntax: "public String operationId()"
   returns:
     description: "the operationId value."

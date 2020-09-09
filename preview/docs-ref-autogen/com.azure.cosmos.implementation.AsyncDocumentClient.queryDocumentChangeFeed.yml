@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.queryDocumentChangeFeed(String collectionLink, ChangeFeedOptions changeFeedOptions)"
   name: "queryDocumentChangeFeed(String collectionLink, ChangeFeedOptions changeFeedOptions)"
   nameWithType: "AsyncDocumentClient.queryDocumentChangeFeed(String collectionLink, ChangeFeedOptions changeFeedOptions)"
-  summary: "Query for documents change feed in a document collection.\n After subscription the operation will be performed.\n The <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the obtained documents.\n In case of failure the <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
+  summary: "Query for documents change feed in a document collection. After subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the obtained documents. In case of failure the <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
   parameters:
   - description: "the link to the parent document collection."
     name: "collectionLink"

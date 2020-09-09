@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.replaceThroughput(ThroughputProperties throughputProperties)"
   name: "replaceThroughput(ThroughputProperties throughputProperties)"
   nameWithType: "CosmosAsyncDatabase.replaceThroughput(ThroughputProperties throughputProperties)"
-  summary: "Sets throughput provisioned for a container in measurement of\n Requests-per-Unit in the Azure Cosmos service."
+  summary: "Sets throughput provisioned for a container in measurement of Requests-per-Unit in the Azure Cosmos service."
   parameters:
   - description: "the throughput properties."
     name: "throughputProperties"

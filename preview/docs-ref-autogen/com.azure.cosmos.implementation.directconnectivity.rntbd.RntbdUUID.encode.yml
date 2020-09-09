@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdUUID.encode(UUID uuid)"
   name: "encode(UUID uuid)"
   nameWithType: "RntbdUUID.encode(UUID uuid)"
-  summary: "Encodes a <xref uid=\"UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> as serialized by Microsoft APIs like <code>System.Guid.ToByteArray</code>"
+  summary: "Encodes a <xref uid=\"java.util.UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> as serialized by Microsoft APIs like `System.Guid.ToByteArray`"
   parameters:
   - description: "a <xref uid=\"java.util.UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> to be encoded"
     name: "uuid"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdUUID.encode(UUID uuid, ByteBuf out)"
   name: "encode(UUID uuid, ByteBuf out)"
   nameWithType: "RntbdUUID.encode(UUID uuid, ByteBuf out)"
-  summary: "Encodes a <xref uid=\"UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> as serialized by Microsoft APIs like <code>System.Guid.ToByteArray</code>"
+  summary: "Encodes a <xref uid=\"java.util.UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> as serialized by Microsoft APIs like `System.Guid.ToByteArray`"
   parameters:
   - description: "a <xref uid=\"java.util.UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> to be encoded"
     name: "uuid"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RuleManagementEventDataSource.withOperationName(String operationName)"
   name: "withOperationName(String operationName)"
   nameWithType: "RuleManagementEventDataSource.withOperationName(String operationName)"
-  summary: "Set the operationName property: The name of the operation that should be checked for. If no name is provided, any\n operation will match."
+  summary: "Set the operationName property: The name of the operation that should be checked for. If no name is provided, any operation will match."
   parameters:
   - description: "the operationName value to set."
     name: "operationName"

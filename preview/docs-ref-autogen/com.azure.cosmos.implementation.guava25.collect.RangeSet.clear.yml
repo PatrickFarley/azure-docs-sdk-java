@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.RangeSet<C>.clear()"
   name: "clear()"
   nameWithType: "RangeSet<C>.clear()"
-  summary: "Removes all ranges from this <code>RangeSet</code> (optional operation). After this operation,\n <code>this.contains(c)</code> will return false for all <code>c</code>.\n\n <p>This is equivalent to <code>remove(Range.all())</code>."
+  summary: "Removes all ranges from this `RangeSet` (optional operation). After this operation, `this.contains(c)` will return false for all `c`.\n\nThis is equivalent to `remove(Range.all())`."
   syntax: "public abstract void clear()"
 type: "method"
 metadata: {}

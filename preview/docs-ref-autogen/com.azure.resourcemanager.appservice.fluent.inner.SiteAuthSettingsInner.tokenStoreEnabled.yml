@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.tokenStoreEnabled()"
   name: "tokenStoreEnabled()"
   nameWithType: "SiteAuthSettingsInner.tokenStoreEnabled()"
-  summary: "Get the tokenStoreEnabled property: &lt;code&gt;true&lt;/code&gt; to durably store platform-specific security\n tokens that are obtained during login flows; otherwise, &lt;code&gt;false&lt;/code&gt;. The default is\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the tokenStoreEnabled property: <code>true</code> to durably store platform-specific security tokens that are obtained during login flows; otherwise, <code>false</code>. The default is <code>false</code>."
   syntax: "public Boolean tokenStoreEnabled()"
   returns:
     description: "the tokenStoreEnabled value."

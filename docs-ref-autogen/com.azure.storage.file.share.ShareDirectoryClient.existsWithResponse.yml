@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryClient.existsWithResponse(Duration timeout, Context context)"
   name: "existsWithResponse(Duration timeout, Context context)"
   nameWithType: "ShareDirectoryClient.existsWithResponse(Duration timeout, Context context)"
-  summary: "Determines if the directory this client represents exists in the cloud.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Context context = new Context&#40;&quot;Key&quot;, &quot;Value&quot;&#41;;\n System.out.printf&#40;&quot;Exists? %b%n&quot;, client.existsWithResponse&#40;timeout, context&#41;.getValue&#40;&#41;&#41;;\n </pre>"
+  summary: "Determines if the directory this client represents exists in the cloud.\n\n**Code Samples**\n\n```java\nContext context = new Context(\"Key\", \"Value\");\n System.out.printf(\"Exists? %b%n\", client.existsWithResponse(timeout, context).getValue());\n```"
   parameters:
   - description: "An optional timeout value beyond which a <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> will be raised."
     name: "timeout"

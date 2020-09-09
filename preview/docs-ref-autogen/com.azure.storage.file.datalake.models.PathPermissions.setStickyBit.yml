@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathPermissions.setStickyBit(boolean hasStickyBit)"
   name: "setStickyBit(boolean hasStickyBit)"
   nameWithType: "PathPermissions.setStickyBit(boolean hasStickyBit)"
-  summary: "Sets the value of the sticky bit. The sticky bit may be set on directories, the files in that\n directory may only be renamed or deleted by the file's owner, the directory's owner, or the root user."
+  summary: "Sets the value of the sticky bit. The sticky bit may be set on directories, the files in that directory may only be renamed or deleted by the file's owner, the directory's owner, or the root user."
   parameters:
   - description: "<code>True</code> to set the sticky bit and <code>false</code> to clear it."
     name: "hasStickyBit"

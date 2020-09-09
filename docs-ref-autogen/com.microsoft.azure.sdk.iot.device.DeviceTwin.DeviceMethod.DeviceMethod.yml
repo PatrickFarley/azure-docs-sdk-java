@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.DeviceTwin.DeviceMethod.DeviceMethod(DeviceIO deviceIO, DeviceClientConfig config, IotHubEventCallback deviceMethodStatusCallback, Object deviceMethodStatusCallbackContext)"
   name: "DeviceMethod(DeviceIO deviceIO, DeviceClientConfig config, IotHubEventCallback deviceMethodStatusCallback, Object deviceMethodStatusCallbackContext)"
   nameWithType: "DeviceMethod.DeviceMethod(DeviceIO deviceIO, DeviceClientConfig config, IotHubEventCallback deviceMethodStatusCallback, Object deviceMethodStatusCallbackContext)"
-  summary: "This constructor creates an instance of device method class which helps facilitate the interation for device methods\n between the user and IotHub."
+  summary: "This constructor creates an instance of device method class which helps facilitate the interation for device methods between the user and IotHub."
   parameters:
   - description: "Device client  object for this connection instance for the device. Cannot be <code>null</code>"
     name: "deviceIO"

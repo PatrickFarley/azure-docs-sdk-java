@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listByResourceGroupNext(String nextPageLink)"
   name: "listByResourceGroupNext(String nextPageLink)"
   nameWithType: "PartnerNamespacesInner.listByResourceGroupNext(String nextPageLink)"
-  summary: "List partner namespaces under a resource group.\n List all the partner namespaces under a resource group."
+  summary: "List partner namespaces under a resource group. List all the partner namespaces under a resource group."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

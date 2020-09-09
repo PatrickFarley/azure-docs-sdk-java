@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.EdgeNGramTokenFilter.setSide(EdgeNGramTokenFilterSide side)"
   name: "setSide(EdgeNGramTokenFilterSide side)"
   nameWithType: "EdgeNGramTokenFilter.setSide(EdgeNGramTokenFilterSide side)"
-  summary: "Set the side property: Specifies which side of the input the n-gram\n should be generated from. Default is \"front\". Possible values include:\n 'Front', 'Back'."
+  summary: "Set the side property: Specifies which side of the input the n-gram should be generated from. Default is \"front\". Possible values include: 'Front', 'Back'."
   parameters:
   - description: "the side value to set."
     name: "side"

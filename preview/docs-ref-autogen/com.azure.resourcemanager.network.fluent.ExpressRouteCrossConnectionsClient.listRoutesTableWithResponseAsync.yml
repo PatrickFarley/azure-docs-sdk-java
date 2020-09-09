@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRouteCrossConnectionsClient.listRoutesTableWithResponseAsync(String resourceGroupName, String crossConnectionName, String peeringName, String devicePath)"
   name: "listRoutesTableWithResponseAsync(String resourceGroupName, String crossConnectionName, String peeringName, String devicePath)"
   nameWithType: "ExpressRouteCrossConnectionsClient.listRoutesTableWithResponseAsync(String resourceGroupName, String crossConnectionName, String peeringName, String devicePath)"
-  summary: "Gets the currently advertised routes table associated with the express route cross connection in a resource\n group."
+  summary: "Gets the currently advertised routes table associated with the express route cross connection in a resource group."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRouteCrossConnectionsClient.listRoutesTableWithResponseAsync(String resourceGroupName, String crossConnectionName, String peeringName, String devicePath, Context context)"
   name: "listRoutesTableWithResponseAsync(String resourceGroupName, String crossConnectionName, String peeringName, String devicePath, Context context)"
   nameWithType: "ExpressRouteCrossConnectionsClient.listRoutesTableWithResponseAsync(String resourceGroupName, String crossConnectionName, String peeringName, String devicePath, Context context)"
-  summary: "Gets the currently advertised routes table associated with the express route cross connection in a resource\n group."
+  summary: "Gets the currently advertised routes table associated with the express route cross connection in a resource group."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

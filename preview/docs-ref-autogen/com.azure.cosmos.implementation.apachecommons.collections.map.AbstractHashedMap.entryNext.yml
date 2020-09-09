@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.entryNext(AbstractHashedMap.HashEntry<K,V> entry)"
   name: "entryNext(AbstractHashedMap.HashEntry<K,V> entry)"
   nameWithType: "AbstractHashedMap<K,V>.entryNext(AbstractHashedMap.HashEntry<K,V> entry)"
-  summary: "Gets the <code>next</code> field from a <code>HashEntry</code>.\n Used in subclasses that have no visibility of the field."
+  summary: "Gets the `next` field from a `HashEntry`. Used in subclasses that have no visibility of the field."
   parameters:
   - description: "the entry to query, must not be null"
     name: "entry"

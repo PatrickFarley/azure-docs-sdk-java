@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.BEL"
   name: "BEL"
   nameWithType: "Ascii.BEL"
-  summary: "Bell ('\\a'): A character for use when there is a need to call for human attention. It may\n control alarm or attention devices."
+  summary: "Bell ('\\\\a'): A character for use when there is a need to call for human attention. It may control alarm or attention devices."
   syntax: "public static final byte BEL"
 type: "field"
 metadata: {}

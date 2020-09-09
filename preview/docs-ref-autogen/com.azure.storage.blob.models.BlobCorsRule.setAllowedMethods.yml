@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobCorsRule.setAllowedMethods(String allowedMethods)"
   name: "setAllowedMethods(String allowedMethods)"
   nameWithType: "BlobCorsRule.setAllowedMethods(String allowedMethods)"
-  summary: "Set the allowedMethods property: The methods (HTTP request verbs) that\n the origin domain may use for a CORS request. (comma separated)."
+  summary: "Set the allowedMethods property: The methods (HTTP request verbs) that the origin domain may use for a CORS request. (comma separated)."
   parameters:
   - description: "the allowedMethods value to set."
     name: "allowedMethods"

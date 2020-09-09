@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.SearchAsyncClient.getDocumentCountWithResponse()"
   name: "getDocumentCountWithResponse()"
   nameWithType: "SearchAsyncClient.getDocumentCountWithResponse()"
-  summary: "Queries the number of documents in the search index.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get document count. </p>\n\n <pre>\n searchAsyncClient.getDocumentCountWithResponse&#40;&#41;\n     .subscribe&#40;countResponse -&gt; &#123;\n         System.out.println&#40;&quot;The status code of the response is &quot; + countResponse.getStatusCode&#40;&#41;&#41;;\n         System.out.printf&#40;&quot;There are %d documents in service.&quot;, countResponse.getValue&#40;&#41;&#41;;\n     &#125;&#41;;\n </pre>"
+  summary: "Queries the number of documents in the search index.\n\n**Code Sample**\n\nGet document count.\n\n```java\nsearchAsyncClient.getDocumentCountWithResponse()\n     .subscribe(countResponse -> {\n         System.out.println(\"The status code of the response is \" + countResponse.getStatusCode());\n         System.out.printf(\"There are %d documents in service.\", countResponse.getValue());\n     });\n```"
   syntax: "public Mono<Response<Long>> getDocumentCountWithResponse()"
   returns:
     description: "response containing the number of documents."

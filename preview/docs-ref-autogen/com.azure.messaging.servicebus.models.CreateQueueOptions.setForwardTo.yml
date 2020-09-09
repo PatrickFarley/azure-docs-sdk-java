@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateQueueOptions.setForwardTo(String forwardTo)"
   name: "setForwardTo(String forwardTo)"
   nameWithType: "CreateQueueOptions.setForwardTo(String forwardTo)"
-  summary: "Set the forwardTo property: The name of the recipient entity to which all the messages sent to the queue are\n forwarded to."
+  summary: "Set the forwardTo property: The name of the recipient entity to which all the messages sent to the queue are forwarded to."
   parameters:
   - description: "the forwardTo value to set."
     name: "forwardTo"

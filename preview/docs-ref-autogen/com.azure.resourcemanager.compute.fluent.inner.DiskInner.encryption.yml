@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DiskInner.encryption()"
   name: "encryption()"
   nameWithType: "DiskInner.encryption()"
-  summary: "Get the encryption property: Encryption property can be used to encrypt data at rest with customer managed keys\n or platform managed keys."
+  summary: "Get the encryption property: Encryption property can be used to encrypt data at rest with customer managed keys or platform managed keys."
   syntax: "public Encryption encryption()"
   returns:
     description: "the encryption value."

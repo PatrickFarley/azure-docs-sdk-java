@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.tracing.Tracer.extractContext(String diagnosticId, Context context)"
   name: "extractContext(String diagnosticId, Context context)"
   nameWithType: "Tracer.extractContext(String diagnosticId, Context context)"
-  summary: "Extracts the span's context as <xref uid=\"Context\" data-throw-if-not-resolved=\"false\">Context</xref> from upstream.\n\n <p><strong>Code samples</strong></p>\n\n <p>Extracts the corresponding span context information from a valid diagnostic id</p>\n <pre>\n &#47;&#47; Extracts the span context information from the passed diagnostic Id that can be used for linking spans.\n String spanImplContext = &quot;span-context&quot;;\n Context spanContext = tracer.extractContext&#40;&quot;valid-diagnostic-id&quot;, Context.NONE&#41;;\n System.out.printf&#40;&quot;Span context of the current tracing span: %s%n&quot;, spanContext.getData&#40;spanImplContext&#41;.get&#40;&#41;&#41;;\n </pre>"
+  summary: "Extracts the span's context as <xref uid=\"com.azure.core.util.Context\" data-throw-if-not-resolved=\"false\">Context</xref> from upstream.\n\n**Code samples**\n\nExtracts the corresponding span context information from a valid diagnostic id\n\n```java\n// Extracts the span context information from the passed diagnostic Id that can be used for linking spans.\n String spanImplContext = \"span-context\";\n Context spanContext = tracer.extractContext(\"valid-diagnostic-id\", Context.NONE);\n System.out.printf(\"Span context of the current tracing span: %s%n\", spanContext.getData(spanImplContext).get());\n```"
   parameters:
   - description: "Unique identifier for the trace information of the span."
     name: "diagnosticId"

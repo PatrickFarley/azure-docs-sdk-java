@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelHealthChecker.writeDelayLimitInNanos()"
   name: "writeDelayLimitInNanos()"
   nameWithType: "RntbdClientChannelHealthChecker.writeDelayLimitInNanos()"
-  summary: "Returns the write delay limit in nanoseconds.\n <p>\n A channel will be declared unhealthy if the gap between the last channel write attempt and the last channel write\n grows beyond this value.\n <p>\n Constraint: <xref uid=\"#writeDelayLimitInNanos\" data-throw-if-not-resolved=\"false\">#writeDelayLimitInNanos</xref> > <xref uid=\"#writeHangGracePeriodInNanos\" data-throw-if-not-resolved=\"false\">#writeHangGracePeriodInNanos</xref>"
+  summary: "Returns the write delay limit in nanoseconds.\n\nA channel will be declared unhealthy if the gap between the last channel write attempt and the last channel write grows beyond this value.\n\nConstraint: <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelHealthChecker.writeDelayLimitInNanos*\" data-throw-if-not-resolved=\"false\">#writeDelayLimitInNanos</xref> > <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelHealthChecker.writeHangGracePeriodInNanos\" data-throw-if-not-resolved=\"false\">#writeHangGracePeriodInNanos</xref>"
   syntax: "public long writeDelayLimitInNanos()"
   returns:
     description: "Write delay limit in nanoseconds."

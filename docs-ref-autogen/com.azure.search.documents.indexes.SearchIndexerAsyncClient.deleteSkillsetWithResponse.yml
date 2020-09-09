@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.deleteSkillsetWithResponse(SearchIndexerSkillset skillset, boolean onlyIfUnchanged)"
   name: "deleteSkillsetWithResponse(SearchIndexerSkillset skillset, boolean onlyIfUnchanged)"
   nameWithType: "SearchIndexerAsyncClient.deleteSkillsetWithResponse(SearchIndexerSkillset skillset, boolean onlyIfUnchanged)"
-  summary: "Deletes a cognitive skillset in an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete search indexer skillset \"searchIndexerSkillset\". </p>\n\n <pre>\n searchIndexerAsyncClient.getSkillset&#40;&quot;searchIndexerSkilset&quot;&#41;\n     .flatMap&#40;searchIndexerSkilset -&gt;\n         searchIndexerAsyncClient.deleteSkillsetWithResponse&#40;searchIndexerSkilset, true&#41;&#41;\n     .subscribe&#40;deleteResponse -&gt;\n         System.out.printf&#40;&quot;The status code of the response is %d.%n&quot;, deleteResponse.getStatusCode&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Deletes a cognitive skillset in an Azure Cognitive Search service.\n\n**Code Sample**\n\nDelete search indexer skillset \"searchIndexerSkillset\".\n\n```java\nsearchIndexerAsyncClient.getSkillset(\"searchIndexerSkilset\")\n     .flatMap(searchIndexerSkilset ->\n         searchIndexerAsyncClient.deleteSkillsetWithResponse(searchIndexerSkilset, true))\n     .subscribe(deleteResponse ->\n         System.out.printf(\"The status code of the response is %d.%n\", deleteResponse.getStatusCode()));\n```"
   parameters:
   - description: "the <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerSkillset\" data-throw-if-not-resolved=\"false\">SearchIndexerSkillset</xref> to delete."
     name: "skillset"

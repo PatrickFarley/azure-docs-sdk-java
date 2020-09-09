@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.ServiceBusSubscription.DefinitionStages.WithMessageBatching.withoutMessageBatching()"
   name: "withoutMessageBatching()"
   nameWithType: "ServiceBusSubscription.DefinitionStages.WithMessageBatching.withoutMessageBatching()"
-  summary: "Specifies that the default batching should be disabled on this subscription.\n With batching service bus can batch multiple message when it write or delete messages\n from it's internal store."
+  summary: "Specifies that the default batching should be disabled on this subscription. With batching service bus can batch multiple message when it write or delete messages from it's internal store."
   syntax: "public abstract ServiceBusSubscription.DefinitionStages.WithCreate withoutMessageBatching()"
   returns:
     description: "the next stage of subscription definition"

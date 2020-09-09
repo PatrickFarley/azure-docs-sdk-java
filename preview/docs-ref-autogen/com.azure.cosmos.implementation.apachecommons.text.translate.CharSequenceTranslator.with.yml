@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.text.translate.CharSequenceTranslator.with(CharSequenceTranslator[] translators)"
   name: "with(CharSequenceTranslator[] translators)"
   nameWithType: "CharSequenceTranslator.with(CharSequenceTranslator[] translators)"
-  summary: "Helper method to create a merger of this translator with another set of\n translators. Useful in customizing the standard functionality."
+  summary: "Helper method to create a merger of this translator with another set of translators. Useful in customizing the standard functionality."
   parameters:
   - description: "CharSequenceTranslator array of translators to merge with this one"
     name: "translators"

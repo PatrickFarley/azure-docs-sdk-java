@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.fluent.VaultsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Integer top)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName, Integer top)"
   nameWithType: "VaultsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Integer top)"
-  summary: "The List operation gets information about the vaults associated with the subscription and within the specified\n resource group."
+  summary: "The List operation gets information about the vaults associated with the subscription and within the specified resource group."
   parameters:
   - description: "The name of the Resource Group to which the vault belongs."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.fluent.VaultsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Integer top, Context context)"
   name: "listByResourceGroupSinglePageAsync(String resourceGroupName, Integer top, Context context)"
   nameWithType: "VaultsClient.listByResourceGroupSinglePageAsync(String resourceGroupName, Integer top, Context context)"
-  summary: "The List operation gets information about the vaults associated with the subscription and within the specified\n resource group."
+  summary: "The List operation gets information about the vaults associated with the subscription and within the specified resource group."
   parameters:
   - description: "The name of the Resource Group to which the vault belongs."
     name: "resourceGroupName"

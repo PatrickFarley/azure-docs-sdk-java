@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.EndpointDetail.withLatency(Double latency)"
   name: "withLatency(Double latency)"
   nameWithType: "EndpointDetail.withLatency(Double latency)"
-  summary: "Set the latency property: The time in milliseconds it takes for a TCP connection to be created from the App\n Service Environment to this IpAddress at this Port."
+  summary: "Set the latency property: The time in milliseconds it takes for a TCP connection to be created from the App Service Environment to this IpAddress at this Port."
   parameters:
   - description: "the latency value to set."
     name: "latency"

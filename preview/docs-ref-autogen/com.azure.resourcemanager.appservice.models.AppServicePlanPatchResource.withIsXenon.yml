@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServicePlanPatchResource.withIsXenon(Boolean isXenon)"
   name: "withIsXenon(Boolean isXenon)"
   nameWithType: "AppServicePlanPatchResource.withIsXenon(Boolean isXenon)"
-  summary: "Set the isXenon property: Obsolete: If Hyper-V container app service plan &lt;code&gt;true&lt;/code&gt;,\n &lt;code&gt;false&lt;/code&gt; otherwise."
+  summary: "Set the isXenon property: Obsolete: If Hyper-V container app service plan <code>true</code>, <code>false</code> otherwise."
   parameters:
   - description: "the isXenon value to set."
     name: "isXenon"

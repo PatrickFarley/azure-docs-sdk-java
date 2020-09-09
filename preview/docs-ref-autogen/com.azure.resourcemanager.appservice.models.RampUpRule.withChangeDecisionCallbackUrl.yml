@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.RampUpRule.withChangeDecisionCallbackUrl(String changeDecisionCallbackUrl)"
   name: "withChangeDecisionCallbackUrl(String changeDecisionCallbackUrl)"
   nameWithType: "RampUpRule.withChangeDecisionCallbackUrl(String changeDecisionCallbackUrl)"
-  summary: "Set the changeDecisionCallbackUrl property: Custom decision algorithm can be provided in TiPCallback site\n extension which URL can be specified. See TiPCallback site extension for the scaffold and contracts.\n https://www.siteextensions.net/packages/TiPCallback/."
+  summary: "Set the changeDecisionCallbackUrl property: Custom decision algorithm can be provided in TiPCallback site extension which URL can be specified. See TiPCallback site extension for the scaffold and contracts. https://www.siteextensions.net/packages/TiPCallback/."
   parameters:
   - description: "the changeDecisionCallbackUrl value to set."
     name: "changeDecisionCallbackUrl"

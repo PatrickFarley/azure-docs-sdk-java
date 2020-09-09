@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PublicIpAddress.DefinitionStages.WithReverseFQDN.withReverseFqdn(String reverseFQDN)"
   name: "withReverseFqdn(String reverseFQDN)"
   nameWithType: "PublicIpAddress.DefinitionStages.WithReverseFQDN.withReverseFqdn(String reverseFQDN)"
-  summary: "Specifies the reverse FQDN to assign to this public IP address.\n\n <p>"
+  summary: "Specifies the reverse FQDN to assign to this public IP address."
   parameters:
   - description: "the reverse FQDN to assign"
     name: "reverseFQDN"

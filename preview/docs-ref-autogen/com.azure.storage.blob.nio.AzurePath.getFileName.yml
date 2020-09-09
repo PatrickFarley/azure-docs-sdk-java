@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzurePath.getFileName()"
   name: "getFileName()"
   nameWithType: "AzurePath.getFileName()"
-  summary: "Returns the name of the file or directory denoted by this path as a Path object. The file name is the farthest\n element from the root in the directory hierarchy."
+  summary: "Returns the name of the file or directory denoted by this path as a Path object. The file name is the farthest element from the root in the directory hierarchy."
   syntax: "public Path getFileName()"
   returns:
     description: "a path representing the name of the file or directory, or null if this path has zero elements"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.ExecuteTask.Executor<T>.afterPostRunAsync(boolean isGroupFaulted)"
   name: "afterPostRunAsync(boolean isGroupFaulted)"
   nameWithType: "ExecuteTask.Executor<T>.afterPostRunAsync(boolean isGroupFaulted)"
-  summary: "Perform any action followed by the processing of work scheduled to be invoked\n (i.e. \"post run\") after {@link this#executeWorkAsync()}."
+  summary: "Perform any action followed by the processing of work scheduled to be invoked (i.e. \"post run\") after \\{@link this\\#executeWorkAsync()\\}."
   parameters:
   - description: "true if one or more tasks in the group this work belongs\n                       to are in faulted state."
     name: "isGroupFaulted"

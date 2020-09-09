@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.PacketCaptureStorageLocation.withFilePath(String filePath)"
   name: "withFilePath(String filePath)"
   nameWithType: "PacketCaptureStorageLocation.withFilePath(String filePath)"
-  summary: "Set a valid local path on the targeting VM. Must include the name of the capture file (*.cap). For linux virtual machine it must start with /var/captures. Required if no storage ID is provided, otherwise optional."
+  summary: "Set a valid local path on the targeting VM. Must include the name of the capture file (\\*.cap). For linux virtual machine it must start with /var/captures. Required if no storage ID is provided, otherwise optional."
   parameters:
   - description: "the filePath value to set"
     name: "filePath"

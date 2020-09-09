@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobAnalyticsLogging.isRead()"
   name: "isRead()"
   nameWithType: "BlobAnalyticsLogging.isRead()"
-  summary: "Get the read property: Indicates whether all read requests should be\n logged."
+  summary: "Get the read property: Indicates whether all read requests should be logged."
   syntax: "public boolean isRead()"
   returns:
     description: "the read value."

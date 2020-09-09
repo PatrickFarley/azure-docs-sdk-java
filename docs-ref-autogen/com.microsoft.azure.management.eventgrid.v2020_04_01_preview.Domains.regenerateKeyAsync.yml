@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.Domains.regenerateKeyAsync(String resourceGroupName, String domainName, String keyName)"
   name: "regenerateKeyAsync(String resourceGroupName, String domainName, String keyName)"
   nameWithType: "Domains.regenerateKeyAsync(String resourceGroupName, String domainName, String keyName)"
-  summary: "Regenerate key for a domain.\n Regenerate a shared access key for a domain."
+  summary: "Regenerate key for a domain. Regenerate a shared access key for a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

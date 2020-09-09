@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.ImportExtensionRequest.storageKey()"
   name: "storageKey()"
   nameWithType: "ImportExtensionRequest.storageKey()"
-  summary: "Get the storage key to use.  If storage key type is SharedAccessKey, it must be preceded with a \"?.\"."
+  summary: "Get the storage key to use. If storage key type is SharedAccessKey, it must be preceded with a \"?.\"."
   syntax: "public String storageKey()"
   returns:
     description: "the storageKey value"

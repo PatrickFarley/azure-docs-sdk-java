@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.listJobSchedules()"
   name: "listJobSchedules()"
   nameWithType: "JobScheduleOperations.listJobSchedules()"
-  summary: "Lists the <xref uid=\"CloudJobSchedule\" data-throw-if-not-resolved=\"false\">job schedules</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJobSchedule\" data-throw-if-not-resolved=\"false\">job schedules</xref> in the Batch account."
   syntax: "public PagedList<CloudJobSchedule> listJobSchedules()"
   exceptions:
   - description: "Exception thrown when an error response is received from the Batch service."
@@ -22,7 +22,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.listJobSchedules(DetailLevel detailLevel)"
   name: "listJobSchedules(DetailLevel detailLevel)"
   nameWithType: "JobScheduleOperations.listJobSchedules(DetailLevel detailLevel)"
-  summary: "Lists the <xref uid=\"CloudJobSchedule\" data-throw-if-not-resolved=\"false\">job schedules</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJobSchedule\" data-throw-if-not-resolved=\"false\">job schedules</xref> in the Batch account."
   parameters:
   - description: "A <xref uid=\"com.microsoft.azure.batch.DetailLevel\" data-throw-if-not-resolved=\"false\">DetailLevel</xref> used for filtering the list and for controlling which properties are retrieved from the service."
     name: "detailLevel"
@@ -40,7 +40,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.listJobSchedules(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listJobSchedules(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobScheduleOperations.listJobSchedules(DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"CloudJobSchedule\" data-throw-if-not-resolved=\"false\">job schedules</xref> in the Batch account."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.CloudJobSchedule\" data-throw-if-not-resolved=\"false\">job schedules</xref> in the Batch account."
   parameters:
   - description: "A <xref uid=\"com.microsoft.azure.batch.DetailLevel\" data-throw-if-not-resolved=\"false\">DetailLevel</xref> used for filtering the list and for controlling which properties are retrieved from the service."
     name: "detailLevel"

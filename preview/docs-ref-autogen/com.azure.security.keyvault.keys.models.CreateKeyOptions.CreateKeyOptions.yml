@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.models.CreateKeyOptions.CreateKeyOptions(String name, KeyType keyType)"
   name: "CreateKeyOptions(String name, KeyType keyType)"
   nameWithType: "CreateKeyOptions.CreateKeyOptions(String name, KeyType keyType)"
-  summary: "Creates instance of KeyCreateOptions with <code>name</code> as key name and <code>keyType</code> as type of the key."
+  summary: "Creates instance of KeyCreateOptions with `name` as key name and `keyType` as type of the key."
   parameters:
   - description: "The name of the key to create."
     name: "name"

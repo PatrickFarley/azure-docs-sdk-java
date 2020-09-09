@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.DdosCustomPolicyInner.publicIpAddresses()"
   name: "publicIpAddresses()"
   nameWithType: "DdosCustomPolicyInner.publicIpAddresses()"
-  summary: "Get the publicIpAddresses property: The list of public IPs associated with the DDoS custom policy resource. This\n list is read-only."
+  summary: "Get the publicIpAddresses property: The list of public IPs associated with the DDoS custom policy resource. This list is read-only."
   syntax: "public List<SubResource> publicIpAddresses()"
   returns:
     description: "the publicIpAddresses value."

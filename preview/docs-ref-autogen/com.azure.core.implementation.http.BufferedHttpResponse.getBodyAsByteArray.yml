@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.http.BufferedHttpResponse.getBodyAsByteArray()"
   name: "getBodyAsByteArray()"
   nameWithType: "BufferedHttpResponse.getBodyAsByteArray()"
-  summary: "Get the response content as a byte[]."
+  summary: "Get the response content as a byte\\[\\]."
   overridden: "com.azure.core.http.HttpResponse.getBodyAsByteArray()"
   syntax: "public Mono<byte[]> getBodyAsByteArray()"
   returns:

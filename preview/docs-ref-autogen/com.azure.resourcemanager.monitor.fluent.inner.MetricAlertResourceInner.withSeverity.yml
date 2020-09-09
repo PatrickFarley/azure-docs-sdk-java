@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.MetricAlertResourceInner.withSeverity(int severity)"
   name: "withSeverity(int severity)"
   nameWithType: "MetricAlertResourceInner.withSeverity(int severity)"
-  summary: "Set the severity property: Alert severity {0, 1, 2, 3, 4}."
+  summary: "Set the severity property: Alert severity \\{0, 1, 2, 3, 4\\}."
   parameters:
   - description: "the severity value to set."
     name: "severity"

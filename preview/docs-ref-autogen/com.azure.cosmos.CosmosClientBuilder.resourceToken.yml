@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosClientBuilder.resourceToken(String resourceToken)"
   name: "resourceToken(String resourceToken)"
   nameWithType: "CosmosClientBuilder.resourceToken(String resourceToken)"
-  summary: "Sets a resource token used to perform authentication\n for accessing resource."
+  summary: "Sets a resource token used to perform authentication for accessing resource."
   parameters:
   - description: "resourceToken for authentication"
     name: "resourceToken"

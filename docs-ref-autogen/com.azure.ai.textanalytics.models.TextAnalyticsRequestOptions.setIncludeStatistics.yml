@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextAnalyticsRequestOptions.setIncludeStatistics(boolean includeStatistics)"
   name: "setIncludeStatistics(boolean includeStatistics)"
   nameWithType: "TextAnalyticsRequestOptions.setIncludeStatistics(boolean includeStatistics)"
-  summary: "Set the value of <code>includeStatistics</code>."
+  summary: "Set the value of `includeStatistics`."
   parameters:
   - description: "If a boolean value was specified in the request this field will contain\n information about the document payload."
     name: "includeStatistics"

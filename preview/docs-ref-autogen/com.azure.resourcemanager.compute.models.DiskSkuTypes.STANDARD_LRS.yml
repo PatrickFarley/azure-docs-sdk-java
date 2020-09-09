@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskSkuTypes.STANDARD_LRS"
   name: "STANDARD_LRS"
   nameWithType: "DiskSkuTypes.STANDARD_LRS"
-  summary: "Static value STANDARD_LRS for DiskSkuTypes."
+  summary: "Static value STANDARD\\_LRS for DiskSkuTypes."
   syntax: "public static final DiskSkuTypes STANDARD_LRS"
 type: "field"
 metadata: {}

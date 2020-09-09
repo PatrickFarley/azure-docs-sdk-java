@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetOSDisk.withVhdContainers(List<String> vhdContainers)"
   name: "withVhdContainers(List<String> vhdContainers)"
   nameWithType: "VirtualMachineScaleSetOSDisk.withVhdContainers(List<String> vhdContainers)"
-  summary: "Set the vhdContainers property: Specifies the container urls that are used to store operating system disks for\n the scale set."
+  summary: "Set the vhdContainers property: Specifies the container urls that are used to store operating system disks for the scale set."
   parameters:
   - description: "the vhdContainers value to set."
     name: "vhdContainers"

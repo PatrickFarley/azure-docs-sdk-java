@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileSystemProvider.getPath(URI uri)"
   name: "getPath(URI uri)"
   nameWithType: "AzureFileSystemProvider.getPath(URI uri)"
-  summary: "Return a Path object by converting the given URI. The resulting Path is associated with a FileSystem that already\n exists."
+  summary: "Return a Path object by converting the given URI. The resulting Path is associated with a FileSystem that already exists."
   overridden: "java.nio.file.spi.FileSystemProvider.getPath(java.net.URI)"
   parameters:
   - description: "The URI to convert"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>any(Iterator<T> iterator, Predicate<? super T> predicate)"
   name: "<T>any(Iterator<T> iterator, Predicate<? super T> predicate)"
   nameWithType: "Iterators.<T>any(Iterator<T> iterator, Predicate<? super T> predicate)"
-  summary: "Returns <code>true</code> if one or more elements returned by <code>iterator</code> satisfy the given\n predicate."
+  summary: "Returns `true` if one or more elements returned by `iterator` satisfy the given predicate."
   parameters:
   - name: "iterator"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ConcurrentHashMultiset<E>.setCount(E element, int count)"
   name: "setCount(E element, int count)"
   nameWithType: "ConcurrentHashMultiset<E>.setCount(E element, int count)"
-  summary: "Adds or removes occurrences of <code>element</code> such that the <xref uid=\"#count\" data-throw-if-not-resolved=\"false\">#count</xref> of the element\n becomes <code>count</code>."
+  summary: "Adds or removes occurrences of `element` such that the <xref uid=\"com.azure.cosmos.implementation.guava25.collect.ConcurrentHashMultiset.count\" data-throw-if-not-resolved=\"false\">#count</xref> of the element becomes `count`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractMultiset.setCount(E,int)"
   parameters:
   - name: "element"
@@ -23,7 +23,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ConcurrentHashMultiset<E>.setCount(E element, int expectedOldCount, int newCount)"
   name: "setCount(E element, int expectedOldCount, int newCount)"
   nameWithType: "ConcurrentHashMultiset<E>.setCount(E element, int expectedOldCount, int newCount)"
-  summary: "Sets the number of occurrences of <code>element</code> to <code>newCount</code>, but only if the count is\n currently <code>expectedOldCount</code>. If <code>element</code> does not appear in the multiset exactly\n <code>expectedOldCount</code> times, no changes will be made."
+  summary: "Sets the number of occurrences of `element` to `newCount`, but only if the count is currently `expectedOldCount`. If `element` does not appear in the multiset exactly `expectedOldCount` times, no changes will be made."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractMultiset.setCount(E,int,int)"
   parameters:
   - name: "element"

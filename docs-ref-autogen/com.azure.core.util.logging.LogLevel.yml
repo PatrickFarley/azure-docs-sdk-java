@@ -56,7 +56,7 @@ methods:
   fullName: "com.azure.core.util.logging.LogLevel.fromString(String logLevelVal)"
   name: "fromString(String logLevelVal)"
   nameWithType: "LogLevel.fromString(String logLevelVal)"
-  summary: "Converts the passed log level string to the corresponding <xref uid=\"LogLevel\" data-throw-if-not-resolved=\"false\">LogLevel</xref>."
+  summary: "Converts the passed log level string to the corresponding <xref uid=\"com.azure.core.util.logging.LogLevel\" data-throw-if-not-resolved=\"false\">LogLevel</xref>."
   parameters:
   - description: "The log level value which needs to convert"
     name: "logLevelVal"

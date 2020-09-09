@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.FieldBuilderOptions.setConverter(JsonSerializer jsonSerializer)"
   name: "setConverter(JsonSerializer jsonSerializer)"
   nameWithType: "FieldBuilderOptions.setConverter(JsonSerializer jsonSerializer)"
-  summary: "Sets the serializer.\n <p>\n For building <xref uid=\"SearchField\" data-throw-if-not-resolved=\"false\">SearchFields</xref> it is expected that the <xref uid=\"JsonSerializer\" data-throw-if-not-resolved=\"false\">JsonSerializer</xref> passed also\n implements the <xref uid=\"MemberNameConverter\" data-throw-if-not-resolved=\"false\">MemberNameConverter</xref> interface. If it doesn't <xref uid=\"MemberNameConverterProviders#createInstance()\" data-throw-if-not-resolved=\"false\">MemberNameConverterProviders#createInstance()</xref> will be used to provide a converter from the classpath."
+  summary: "Sets the serializer.\n\nFor building <xref uid=\"com.azure.search.documents.indexes.models.SearchField\" data-throw-if-not-resolved=\"false\">SearchFields</xref> it is expected that the <xref uid=\"com.azure.core.util.serializer.JsonSerializer\" data-throw-if-not-resolved=\"false\">JsonSerializer</xref> passed also implements the <xref uid=\"\" data-throw-if-not-resolved=\"false\">MemberNameConverter</xref> interface. If it doesn't <xref uid=\"\" data-throw-if-not-resolved=\"false\">MemberNameConverterProviders#createInstance()</xref> will be used to provide a converter from the classpath."
   parameters:
   - description: "The custom serializer."
     name: "jsonSerializer"

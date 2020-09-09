@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.addMapping(int hashIndex, int hashCode, K key, V value)"
   name: "addMapping(int hashIndex, int hashCode, K key, V value)"
   nameWithType: "AbstractHashedMap<K,V>.addMapping(int hashIndex, int hashCode, K key, V value)"
-  summary: "Adds a new key-value mapping into this map.\n <p>\n This implementation calls <code>createEntry()</code>, <code>addEntry()</code>\n and <code>checkCapacity()</code>.\n It also handles changes to <code>modCount</code> and <code>size</code>.\n Subclasses could override to fully control adds to the map."
+  summary: "Adds a new key-value mapping into this map.\n\nThis implementation calls `createEntry()`, `addEntry()` and `checkCapacity()`. It also handles changes to `modCount` and `size`. Subclasses could override to fully control adds to the map."
   parameters:
   - description: "the index into the data array to store at"
     name: "hashIndex"

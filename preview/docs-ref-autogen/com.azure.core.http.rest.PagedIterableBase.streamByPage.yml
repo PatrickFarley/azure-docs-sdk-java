@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.rest.PagedIterableBase<T,P>.streamByPage()"
   name: "streamByPage()"
   nameWithType: "PagedIterableBase<T,P>.streamByPage()"
-  summary: "Retrieve the <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time.\n It will provide same <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of T values from starting if called multiple times."
+  summary: "Retrieve the <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time. It will provide same <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of T values from starting if called multiple times."
   syntax: "public Stream<P> streamByPage()"
   returns:
     description: "<xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of a Response that extends <xref uid=\"com.azure.core.http.rest.PagedResponse\" data-throw-if-not-resolved=\"false\">PagedResponse</xref>"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.core.http.rest.PagedIterableBase<T,P>.streamByPage(String continuationToken)"
   name: "streamByPage(String continuationToken)"
   nameWithType: "PagedIterableBase<T,P>.streamByPage(String continuationToken)"
-  summary: "Retrieve the <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, starting from the next page associated with the given\n continuation token. To start from first page, use <xref uid=\"#streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead."
+  summary: "Retrieve the <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.core.http.rest.PagedIterableBase.streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead."
   parameters:
   - description: "The continuation token used to fetch the next page"
     name: "continuationToken"

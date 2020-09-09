@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.DeletedAppRestoreRequest.withDeletedSiteId(String deletedSiteId)"
   name: "withDeletedSiteId(String deletedSiteId)"
   nameWithType: "DeletedAppRestoreRequest.withDeletedSiteId(String deletedSiteId)"
-  summary: "Set the deletedSiteId property: ARM resource ID of the deleted app. Example:\n /subscriptions/{subId}/providers/Microsoft.Web/deletedSites/{deletedSiteId}."
+  summary: "Set the deletedSiteId property: ARM resource ID of the deleted app. Example: /subscriptions/\\{subId\\}/providers/Microsoft.Web/deletedSites/\\{deletedSiteId\\}."
   parameters:
   - description: "the deletedSiteId value to set."
     name: "deletedSiteId"

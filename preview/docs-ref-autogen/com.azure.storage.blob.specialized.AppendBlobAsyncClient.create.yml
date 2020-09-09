@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.AppendBlobAsyncClient.create()"
   name: "create()"
   nameWithType: "AppendBlobAsyncClient.create()"
-  summary: "Creates a 0-length append blob. Call appendBlock to append data to an append blob. By default this method will\n not overwrite an existing blob.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.create&#40;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Created AppendBlob at %s%n&quot;, response.getLastModified&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a 0-length append blob. Call appendBlock to append data to an append blob. By default this method will not overwrite an existing blob.\n\n**Code Samples**\n\n```java\nclient.create().subscribe(response ->\n     System.out.printf(\"Created AppendBlob at %s%n\", response.getLastModified()));\n```"
   syntax: "public Mono<AppendBlobItem> create()"
   returns:
     description: "A <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> containing the information of the created appended blob."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.AppendBlobAsyncClient.create(boolean overwrite)"
   name: "create(boolean overwrite)"
   nameWithType: "AppendBlobAsyncClient.create(boolean overwrite)"
-  summary: "Creates a 0-length append blob. Call appendBlock to append data to an append blob.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n boolean overwrite = false; &#47;&#47; Default behavior\n client.create&#40;overwrite&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Created AppendBlob at %s%n&quot;, response.getLastModified&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a 0-length append blob. Call appendBlock to append data to an append blob.\n\n**Code Samples**\n\n```java\nboolean overwrite = false; // Default behavior\n client.create(overwrite).subscribe(response ->\n     System.out.printf(\"Created AppendBlob at %s%n\", response.getLastModified()));\n```"
   parameters:
   - description: "Whether or not to overwrite, should data exist on the blob."
     name: "overwrite"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.AppRole.withAllowedMemberTypes(List<String> allowedMemberTypes)"
   name: "withAllowedMemberTypes(List<String> allowedMemberTypes)"
   nameWithType: "AppRole.withAllowedMemberTypes(List<String> allowedMemberTypes)"
-  summary: "Set the allowedMemberTypes property: Specifies whether this app role definition can be assigned to users and\n groups by setting to 'User', or to other applications (that are accessing this application in daemon service\n scenarios) by setting to 'Application', or to both."
+  summary: "Set the allowedMemberTypes property: Specifies whether this app role definition can be assigned to users and groups by setting to 'User', or to other applications (that are accessing this application in daemon service scenarios) by setting to 'Application', or to both."
   parameters:
   - description: "the allowedMemberTypes value to set."
     name: "allowedMemberTypes"

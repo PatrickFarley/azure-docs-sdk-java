@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkTapInner.networkInterfaceTapConfigurations()"
   name: "networkInterfaceTapConfigurations()"
   nameWithType: "VirtualNetworkTapInner.networkInterfaceTapConfigurations()"
-  summary: "Get the networkInterfaceTapConfigurations property: Specifies the list of resource IDs for the network interface\n IP configuration that needs to be tapped."
+  summary: "Get the networkInterfaceTapConfigurations property: Specifies the list of resource IDs for the network interface IP configuration that needs to be tapped."
   syntax: "public List<NetworkInterfaceTapConfigurationInner> networkInterfaceTapConfigurations()"
   returns:
     description: "the networkInterfaceTapConfigurations value."

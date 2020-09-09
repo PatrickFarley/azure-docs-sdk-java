@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.utils.ReactorMapper<T>.<T>map(Mono<?> fromObservable, T toValue)"
   name: "<T>map(Mono<?> fromObservable, T toValue)"
   nameWithType: "ReactorMapper<T>.<T>map(Mono<?> fromObservable, T toValue)"
-  summary: "Shortcut for mapping the output of an arbitrary observable to one returning an instance of a specific type,\n using the IO scheduler."
+  summary: "Shortcut for mapping the output of an arbitrary observable to one returning an instance of a specific type, using the IO scheduler."
   parameters:
   - description: "the source observable"
     name: "fromObservable"

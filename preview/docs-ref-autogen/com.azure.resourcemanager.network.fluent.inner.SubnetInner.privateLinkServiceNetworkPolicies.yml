@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.SubnetInner.privateLinkServiceNetworkPolicies()"
   name: "privateLinkServiceNetworkPolicies()"
   nameWithType: "SubnetInner.privateLinkServiceNetworkPolicies()"
-  summary: "Get the privateLinkServiceNetworkPolicies property: Enable or Disable apply network policies on private link\n service in the subnet."
+  summary: "Get the privateLinkServiceNetworkPolicies property: Enable or Disable apply network policies on private link service in the subnet."
   syntax: "public String privateLinkServiceNetworkPolicies()"
   returns:
     description: "the privateLinkServiceNetworkPolicies value."

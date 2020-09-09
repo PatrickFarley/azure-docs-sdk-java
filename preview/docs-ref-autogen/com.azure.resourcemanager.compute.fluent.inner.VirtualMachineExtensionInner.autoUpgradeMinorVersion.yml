@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineExtensionInner.autoUpgradeMinorVersion()"
   name: "autoUpgradeMinorVersion()"
   nameWithType: "VirtualMachineExtensionInner.autoUpgradeMinorVersion()"
-  summary: "Get the autoUpgradeMinorVersion property: Indicates whether the extension should use a newer minor version if one\n is available at deployment time. Once deployed, however, the extension will not upgrade minor versions unless\n redeployed, even with this property set to true."
+  summary: "Get the autoUpgradeMinorVersion property: Indicates whether the extension should use a newer minor version if one is available at deployment time. Once deployed, however, the extension will not upgrade minor versions unless redeployed, even with this property set to true."
   syntax: "public Boolean autoUpgradeMinorVersion()"
   returns:
     description: "the autoUpgradeMinorVersion value."

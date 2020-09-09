@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRouteCircuitInner.expressRoutePort()"
   name: "expressRoutePort()"
   nameWithType: "ExpressRouteCircuitInner.expressRoutePort()"
-  summary: "Get the expressRoutePort property: The reference to the ExpressRoutePort resource when the circuit is provisioned\n on an ExpressRoutePort resource."
+  summary: "Get the expressRoutePort property: The reference to the ExpressRoutePort resource when the circuit is provisioned on an ExpressRoutePort resource."
   syntax: "public SubResource expressRoutePort()"
   returns:
     description: "the expressRoutePort value."

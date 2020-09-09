@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigResourceInner.webSocketsEnabled()"
   name: "webSocketsEnabled()"
   nameWithType: "SiteConfigResourceInner.webSocketsEnabled()"
-  summary: "Get the webSocketsEnabled property: &lt;code&gt;true&lt;/code&gt; if WebSocket is enabled; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the webSocketsEnabled property: <code>true</code> if WebSocket is enabled; otherwise, <code>false</code>."
   syntax: "public Boolean webSocketsEnabled()"
   returns:
     description: "the webSocketsEnabled value."

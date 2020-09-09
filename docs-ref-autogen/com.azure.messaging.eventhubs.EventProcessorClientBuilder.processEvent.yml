@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.processEvent(Consumer<EventContext> processEvent)"
   name: "processEvent(Consumer<EventContext> processEvent)"
   nameWithType: "EventProcessorClientBuilder.processEvent(Consumer<EventContext> processEvent)"
-  summary: "The function that is called for each event received by this <xref uid=\"EventProcessorClient\" data-throw-if-not-resolved=\"false\">EventProcessorClient</xref>. The input contains the\n partition context and the event data."
+  summary: "The function that is called for each event received by this <xref uid=\"com.azure.messaging.eventhubs.EventProcessorClient\" data-throw-if-not-resolved=\"false\">EventProcessorClient</xref>. The input contains the partition context and the event data."
   parameters:
   - description: "The callback that's called when an event is received by this <xref uid=\"com.azure.messaging.eventhubs.EventProcessorClient\" data-throw-if-not-resolved=\"false\">EventProcessorClient</xref>."
     name: "processEvent"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.processEvent(Consumer<EventContext> processEvent, Duration maxWaitTime)"
   name: "processEvent(Consumer<EventContext> processEvent, Duration maxWaitTime)"
   nameWithType: "EventProcessorClientBuilder.processEvent(Consumer<EventContext> processEvent, Duration maxWaitTime)"
-  summary: "The function that is called for each event received by this <xref uid=\"EventProcessorClient\" data-throw-if-not-resolved=\"false\">EventProcessorClient</xref>. The input contains the\n partition context and the event data. If the max wait time is set, the receive will wait for that duration to\n receive an event and if is no event received, the consumer will be invoked with a null event data."
+  summary: "The function that is called for each event received by this <xref uid=\"com.azure.messaging.eventhubs.EventProcessorClient\" data-throw-if-not-resolved=\"false\">EventProcessorClient</xref>. The input contains the partition context and the event data. If the max wait time is set, the receive will wait for that duration to receive an event and if is no event received, the consumer will be invoked with a null event data."
   parameters:
   - description: "The callback that's called when an event is received by this <xref uid=\"com.azure.messaging.eventhubs.EventProcessorClient\" data-throw-if-not-resolved=\"false\">EventProcessorClient</xref> or\n when the max wait duration has expired."
     name: "processEvent"

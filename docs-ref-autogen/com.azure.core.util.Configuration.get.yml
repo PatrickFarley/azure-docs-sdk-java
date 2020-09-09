@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.Configuration.<T>get(String name, T defaultValue)"
   name: "<T>get(String name, T defaultValue)"
   nameWithType: "Configuration.<T>get(String name, T defaultValue)"
-  summary: "Gets the value of the configuration converted to <code>T</code>.\n\n If no configuration is found, the <code>defaultValue</code> is returned."
+  summary: "Gets the value of the configuration converted to `T`. If no configuration is found, the `defaultValue` is returned."
   parameters:
   - description: "Name of the configuration."
     name: "name"

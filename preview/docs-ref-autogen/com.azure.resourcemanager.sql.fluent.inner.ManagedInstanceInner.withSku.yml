@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedInstanceInner.withSku(Sku sku)"
   name: "withSku(Sku sku)"
   nameWithType: "ManagedInstanceInner.withSku(Sku sku)"
-  summary: "Set the sku property: Managed instance SKU. Allowed values for sku.name: GP_Gen4, GP_Gen5, BC_Gen4, BC_Gen5."
+  summary: "Set the sku property: Managed instance SKU. Allowed values for sku.name: GP\\_Gen4, GP\\_Gen5, BC\\_Gen4, BC\\_Gen5."
   parameters:
   - description: "the sku value to set."
     name: "sku"

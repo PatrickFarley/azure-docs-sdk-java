@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.AmqpRetryOptions.getDelay()"
   name: "getDelay()"
   nameWithType: "AmqpRetryOptions.getDelay()"
-  summary: "Gets the delay between retry attempts for a fixed approach or the delay on which to base calculations for a\n backoff-approach."
+  summary: "Gets the delay between retry attempts for a fixed approach or the delay on which to base calculations for a backoff-approach."
   syntax: "public Duration getDelay()"
   returns:
     description: "The delay between retry attempts."

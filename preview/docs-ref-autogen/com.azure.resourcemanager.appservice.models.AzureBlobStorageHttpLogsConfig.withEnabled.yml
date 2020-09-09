@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AzureBlobStorageHttpLogsConfig.withEnabled(Boolean enabled)"
   name: "withEnabled(Boolean enabled)"
   nameWithType: "AzureBlobStorageHttpLogsConfig.withEnabled(Boolean enabled)"
-  summary: "Set the enabled property: True if configuration is enabled, false if it is disabled and null if configuration is\n not set."
+  summary: "Set the enabled property: True if configuration is enabled, false if it is disabled and null if configuration is not set."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

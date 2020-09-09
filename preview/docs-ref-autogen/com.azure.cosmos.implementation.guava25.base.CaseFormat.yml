@@ -40,7 +40,7 @@ fields:
   fullName: "com.azure.cosmos.implementation.guava25.base.CaseFormat.LOWER_UNDERSCORE"
   name: "LOWER_UNDERSCORE"
   nameWithType: "CaseFormat.LOWER_UNDERSCORE"
-  summary: "C++ variable naming convention, e.g., \"lower_underscore\"."
+  summary: "C++ variable naming convention, e.g., \"lower\\_underscore\"."
 - uid: "com.azure.cosmos.implementation.guava25.base.CaseFormat.UPPER_CAMEL"
   fullName: "com.azure.cosmos.implementation.guava25.base.CaseFormat.UPPER_CAMEL"
   name: "UPPER_CAMEL"
@@ -50,13 +50,13 @@ fields:
   fullName: "com.azure.cosmos.implementation.guava25.base.CaseFormat.UPPER_UNDERSCORE"
   name: "UPPER_UNDERSCORE"
   nameWithType: "CaseFormat.UPPER_UNDERSCORE"
-  summary: "Java and C++ constant naming convention, e.g., \"UPPER_UNDERSCORE\"."
+  summary: "Java and C++ constant naming convention, e.g., \"UPPER\\_UNDERSCORE\"."
 methods:
 - uid: "com.azure.cosmos.implementation.guava25.base.CaseFormat.converterTo(com.azure.cosmos.implementation.guava25.base.CaseFormat)"
   fullName: "com.azure.cosmos.implementation.guava25.base.CaseFormat.converterTo(CaseFormat targetFormat)"
   name: "converterTo(CaseFormat targetFormat)"
   nameWithType: "CaseFormat.converterTo(CaseFormat targetFormat)"
-  summary: "Returns a <code>Converter</code> that converts strings from this format to <code>targetFormat</code>."
+  summary: "Returns a `Converter` that converts strings from this format to `targetFormat`."
   parameters:
   - name: "targetFormat"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.CaseFormat?alt=com.azure.cosmos.implementation.guava25.base.CaseFormat&text=CaseFormat\" data-throw-if-not-resolved=\"False\" />"
@@ -67,7 +67,7 @@ methods:
   fullName: "com.azure.cosmos.implementation.guava25.base.CaseFormat.to(CaseFormat format, String str)"
   name: "to(CaseFormat format, String str)"
   nameWithType: "CaseFormat.to(CaseFormat format, String str)"
-  summary: "Converts the specified <code>String str</code> from this format to the specified <code>format</code>. A\n \"best effort\" approach is taken; if <code>str</code> does not conform to the assumed format, then\n the behavior of this method is undefined but we make a reasonable effort at converting anyway."
+  summary: "Converts the specified `String str` from this format to the specified `format`. A \"best effort\" approach is taken; if `str` does not conform to the assumed format, then the behavior of this method is undefined but we make a reasonable effort at converting anyway."
   parameters:
   - name: "format"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.CaseFormat?alt=com.azure.cosmos.implementation.guava25.base.CaseFormat&text=CaseFormat\" data-throw-if-not-resolved=\"False\" />"

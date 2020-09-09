@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.AzureFirewallNatRule.destinationAddresses()"
   name: "destinationAddresses()"
   nameWithType: "AzureFirewallNatRule.destinationAddresses()"
-  summary: "Get the destinationAddresses property: List of destination IP addresses for this rule. Supports IP ranges,\n prefixes, and service tags."
+  summary: "Get the destinationAddresses property: List of destination IP addresses for this rule. Supports IP ranges, prefixes, and service tags."
   syntax: "public List<String> destinationAddresses()"
   returns:
     description: "the destinationAddresses value."

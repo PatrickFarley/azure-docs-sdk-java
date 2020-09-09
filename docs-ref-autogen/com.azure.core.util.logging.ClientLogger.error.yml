@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.error(String message)"
   name: "error(String message)"
   nameWithType: "ClientLogger.error(String message)"
-  summary: "Logs a message at <code>error</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging a message at verbose log level.</p>\n\n <pre>\n try &#123;\n     upload&#40;resource&#41;;\n &#125; catch &#40;IOException ex&#41; &#123;\n     logger.error&#40;ex.getMessage&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Logs a message at `error` log level.\n\n**Code samples**\n\nLogging a message at verbose log level.\n\n```java\ntry {\n     upload(resource);\n } catch (IOException ex) {\n     logger.error(ex.getMessage());\n }\n```"
   parameters:
   - description: "The message to log."
     name: "message"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.core.util.logging.ClientLogger.error(String format, Object[] args)"
   name: "error(String format, Object[] args)"
   nameWithType: "ClientLogger.error(String format, Object[] args)"
-  summary: "Logs a formattable message that uses <code>{}</code> as the placeholder at <code>error</code> log level.\n\n <p><strong>Code samples</strong></p>\n\n <p>Logging an error with stack trace.</p>\n\n <pre>\n try &#123;\n     upload&#40;resource&#41;;\n &#125; catch &#40;IOException ex&#41; &#123;\n     logger.error&#40;&quot;A formattable message. Hello, &#123;&#125;&quot;, name, ex&#41;;\n &#125;\n </pre>"
+  summary: "Logs a formattable message that uses `{}` as the placeholder at `error` log level.\n\n**Code samples**\n\nLogging an error with stack trace.\n\n```java\ntry {\n     upload(resource);\n } catch (IOException ex) {\n     logger.error(\"A formattable message. Hello, {}\", name, ex);\n }\n```"
   parameters:
   - description: "The formattable message to log."
     name: "format"

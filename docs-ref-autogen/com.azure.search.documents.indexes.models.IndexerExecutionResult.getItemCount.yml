@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexerExecutionResult.getItemCount()"
   name: "getItemCount()"
   nameWithType: "IndexerExecutionResult.getItemCount()"
-  summary: "Get the itemCount property: The number of items that were processed\n during this indexer execution. This includes both successfully processed\n items and items where indexing was attempted but failed."
+  summary: "Get the itemCount property: The number of items that were processed during this indexer execution. This includes both successfully processed items and items where indexing was attempted but failed."
   syntax: "public int getItemCount()"
   returns:
     description: "the itemCount value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.models.EncryptionAlgorithm.RSA_OAEP"
   name: "RSA_OAEP"
   nameWithType: "EncryptionAlgorithm.RSA_OAEP"
-  summary: "Static value RSA_OAEP for EncryptionAlgorithm."
+  summary: "Static value RSA\\_OAEP for EncryptionAlgorithm."
   syntax: "public static final EncryptionAlgorithm RSA_OAEP"
 type: "field"
 metadata: {}

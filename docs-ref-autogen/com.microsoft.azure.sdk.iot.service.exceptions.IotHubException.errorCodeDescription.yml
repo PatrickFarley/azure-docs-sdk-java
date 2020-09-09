@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.exceptions.IotHubException.errorCodeDescription"
   name: "errorCodeDescription"
   nameWithType: "IotHubException.errorCodeDescription"
-  summary: "<p>Provides the HTTP error code description, if applicable.</p>\n\n <p>For AMQP operations such as sending cloud to device messages,\n receiving message feedback, and getting file upload notifications, this field will not be populated.</p>"
+  summary: "Provides the HTTP error code description, if applicable.\n\nFor AMQP operations such as sending cloud to device messages, receiving message feedback, and getting file upload notifications, this field will not be populated."
   syntax: "protected ErrorCodeDescription errorCodeDescription"
 type: "field"
 metadata: {}

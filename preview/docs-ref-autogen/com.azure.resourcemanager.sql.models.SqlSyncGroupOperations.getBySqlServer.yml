@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlSyncGroupOperations.getBySqlServer(String resourceGroupName, String sqlServerName, String databaseName, String name)"
   name: "getBySqlServer(String resourceGroupName, String sqlServerName, String databaseName, String name)"
   nameWithType: "SqlSyncGroupOperations.getBySqlServer(String resourceGroupName, String sqlServerName, String databaseName, String name)"
-  summary: "Gets the information about a child resource from Azure SQL server, identifying it by its name and its resource\n group."
+  summary: "Gets the information about a child resource from Azure SQL server, identifying it by its name and its resource group."
   parameters:
   - description: "the name of resource group"
     name: "resourceGroupName"

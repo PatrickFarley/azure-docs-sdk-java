@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.CryptographyClient.getKey()"
   name: "getKey()"
   nameWithType: "CryptographyClient.getKey()"
-  summary: "Gets the public part of the configured key. The get key operation is applicable to all key types and it requires\n the <code>keys/get</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Gets the key configured in the client. Prints out the returned key details.</p>\n <pre>\n KeyVaultKey key = cryptographyClient.getKey&#40;&#41;;\n System.out.printf&#40;&quot;Key is returned with name %s and id %s &#92;n&quot;, key.getName&#40;&#41;, key.getId&#40;&#41;&#41;;\n </pre>"
+  summary: "Gets the public part of the configured key. The get key operation is applicable to all key types and it requires the `keys/get` permission.\n\n**Code Samples**\n\nGets the key configured in the client. Prints out the returned key details.\n\n```java\nKeyVaultKey key = cryptographyClient.getKey();\n System.out.printf(\"Key is returned with name %s and id %s \\n\", key.getName(), key.getId());\n```"
   syntax: "public KeyVaultKey getKey()"
   returns:
     description: "The requested <xref uid=\"com.azure.security.keyvault.keys.models.KeyVaultKey\" data-throw-if-not-resolved=\"false\">key</xref>."

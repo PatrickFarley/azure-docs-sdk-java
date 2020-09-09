@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.LogProfileResourceInner.categories()"
   name: "categories()"
   nameWithType: "LogProfileResourceInner.categories()"
-  summary: "Get the categories property: the categories of the logs. These categories are created as is convenient to the\n user. Some values are: 'Write', 'Delete', and/or 'Action.'."
+  summary: "Get the categories property: the categories of the logs. These categories are created as is convenient to the user. Some values are: 'Write', 'Delete', and/or 'Action.'."
   syntax: "public List<String> categories()"
   returns:
     description: "the categories value."

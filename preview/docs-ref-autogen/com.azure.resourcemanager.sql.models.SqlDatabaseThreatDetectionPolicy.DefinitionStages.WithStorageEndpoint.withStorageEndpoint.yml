@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlDatabaseThreatDetectionPolicy.DefinitionStages.WithStorageEndpoint.withStorageEndpoint(String storageEndpoint)"
   name: "withStorageEndpoint(String storageEndpoint)"
   nameWithType: "SqlDatabaseThreatDetectionPolicy.DefinitionStages.WithStorageEndpoint.withStorageEndpoint(String storageEndpoint)"
-  summary: "Sets the security alert policy storage endpoint.\n\n <p>"
+  summary: "Sets the security alert policy storage endpoint."
   parameters:
   - description: "the blob storage endpoint (e.g. https://MyAccount.blob.core.windows.net); this\n     blob storage will hold all Threat Detection audit logs."
     name: "storageEndpoint"

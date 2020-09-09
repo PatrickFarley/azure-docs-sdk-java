@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.DatabaseAccountUpdateParameters.locations()"
   name: "locations()"
   nameWithType: "DatabaseAccountUpdateParameters.locations()"
-  summary: "Get the locations property: An array that contains the georeplication locations enabled for the Cosmos DB\n account."
+  summary: "Get the locations property: An array that contains the georeplication locations enabled for the Cosmos DB account."
   syntax: "public List<Location> locations()"
   returns:
     description: "the locations value."

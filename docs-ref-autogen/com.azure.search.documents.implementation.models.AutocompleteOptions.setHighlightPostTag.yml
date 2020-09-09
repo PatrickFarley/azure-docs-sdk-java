@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.AutocompleteOptions.setHighlightPostTag(String highlightPostTag)"
   name: "setHighlightPostTag(String highlightPostTag)"
   nameWithType: "AutocompleteOptions.setHighlightPostTag(String highlightPostTag)"
-  summary: "Set the highlightPostTag property: A string tag that is appended to hit highlights. Must be set with\n highlightPreTag. If omitted, hit highlighting is disabled."
+  summary: "Set the highlightPostTag property: A string tag that is appended to hit highlights. Must be set with highlightPreTag. If omitted, hit highlighting is disabled."
   parameters:
   - description: "the highlightPostTag value to set."
     name: "highlightPostTag"

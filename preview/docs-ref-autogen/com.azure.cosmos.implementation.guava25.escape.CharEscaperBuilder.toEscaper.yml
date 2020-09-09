@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.escape.CharEscaperBuilder.toEscaper()"
   name: "toEscaper()"
   nameWithType: "CharEscaperBuilder.toEscaper()"
-  summary: "Convert this builder into a char escaper which is just a decorator around the underlying array\n of replacement char[]s."
+  summary: "Convert this builder into a char escaper which is just a decorator around the underlying array of replacement char\\[\\]s."
   syntax: "public Escaper toEscaper()"
   returns:
     description: "an escaper that escapes based on the underlying array."

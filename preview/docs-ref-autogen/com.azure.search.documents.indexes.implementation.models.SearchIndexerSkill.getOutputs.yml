@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexerSkill.getOutputs()"
   name: "getOutputs()"
   nameWithType: "SearchIndexerSkill.getOutputs()"
-  summary: "Get the outputs property: The output of a skill is either a field in a search index, or a value that can be\n consumed as an input by another skill."
+  summary: "Get the outputs property: The output of a skill is either a field in a search index, or a value that can be consumed as an input by another skill."
   syntax: "public List<OutputFieldMappingEntry> getOutputs()"
   returns:
     description: "the outputs value."

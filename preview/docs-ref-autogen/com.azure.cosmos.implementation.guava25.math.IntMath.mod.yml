@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.IntMath.mod(int x, int m)"
   name: "mod(int x, int m)"
   nameWithType: "IntMath.mod(int x, int m)"
-  summary: "Returns <code>x mod m</code>, a non-negative value less than <code>m</code>. This differs from <code>x %\n m</code>, which might be negative.\n\n <p>For example:\n\n <pre><code>\n mod(7, 4) == 3\n mod(-7, 4) == 1\n mod(-1, 4) == 3\n mod(-8, 4) == 0\n mod(8, 4) == 0\n </code></pre>"
+  summary: "Returns `x mod m`, a non-negative value less than `m`. This differs from `x % m`, which might be negative.\n\nFor example:\n\n```java\nmod(7, 4) == 3\n mod(-7, 4) == 1\n mod(-1, 4) == 3\n mod(-8, 4) == 0\n mod(8, 4) == 0\n```"
   parameters:
   - name: "x"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

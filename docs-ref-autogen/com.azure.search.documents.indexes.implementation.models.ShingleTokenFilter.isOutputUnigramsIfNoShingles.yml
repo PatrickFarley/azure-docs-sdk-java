@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ShingleTokenFilter.isOutputUnigramsIfNoShingles()"
   name: "isOutputUnigramsIfNoShingles()"
   nameWithType: "ShingleTokenFilter.isOutputUnigramsIfNoShingles()"
-  summary: "Get the outputUnigramsIfNoShingles property: A value indicating whether to output unigrams for those times when\n no shingles are available. This property takes precedence when outputUnigrams is set to false. Default is false."
+  summary: "Get the outputUnigramsIfNoShingles property: A value indicating whether to output unigrams for those times when no shingles are available. This property takes precedence when outputUnigrams is set to false. Default is false."
   syntax: "public Boolean isOutputUnigramsIfNoShingles()"
   returns:
     description: "the outputUnigramsIfNoShingles value."

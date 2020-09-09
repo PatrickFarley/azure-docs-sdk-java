@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountCreateParameters.tags()"
   name: "tags()"
   nameWithType: "StorageAccountCreateParameters.tags()"
-  summary: "Get the tags property: Gets or sets a list of key value pairs that describe the resource. These tags can be used\n for viewing and grouping this resource (across resource groups). A maximum of 15 tags can be provided for a\n resource. Each tag must have a key with a length no greater than 128 characters and a value with a length no\n greater than 256 characters."
+  summary: "Get the tags property: Gets or sets a list of key value pairs that describe the resource. These tags can be used for viewing and grouping this resource (across resource groups). A maximum of 15 tags can be provided for a resource. Each tag must have a key with a length no greater than 128 characters and a value with a length no greater than 256 characters."
   syntax: "public Map<String,String> tags()"
   returns:
     description: "the tags value."

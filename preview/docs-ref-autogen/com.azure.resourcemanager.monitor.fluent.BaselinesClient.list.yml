@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.BaselinesClient.list(String resourceUri)"
   name: "list(String resourceUri)"
   nameWithType: "BaselinesClient.list(String resourceUri)"
-  summary: "**Lists the metric baseline values for a resource**."
+  summary: "\\*\\*Lists the metric baseline values for a resource\\*\\*."
   parameters:
   - description: "The identifier of the resource."
     name: "resourceUri"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.BaselinesClient.list(String resourceUri, String metricnames, String metricnamespace, String timespan, Duration interval, String aggregation, String sensitivities, String filter, ResultType resultType)"
   name: "list(String resourceUri, String metricnames, String metricnamespace, String timespan, Duration interval, String aggregation, String sensitivities, String filter, ResultType resultType)"
   nameWithType: "BaselinesClient.list(String resourceUri, String metricnames, String metricnamespace, String timespan, Duration interval, String aggregation, String sensitivities, String filter, ResultType resultType)"
-  summary: "**Lists the metric baseline values for a resource**."
+  summary: "\\*\\*Lists the metric baseline values for a resource\\*\\*."
   parameters:
   - description: "The identifier of the resource."
     name: "resourceUri"
@@ -58,7 +58,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.BaselinesClient.list(String resourceUri, String metricnames, String metricnamespace, String timespan, Duration interval, String aggregation, String sensitivities, String filter, ResultType resultType, Context context)"
   name: "list(String resourceUri, String metricnames, String metricnamespace, String timespan, Duration interval, String aggregation, String sensitivities, String filter, ResultType resultType, Context context)"
   nameWithType: "BaselinesClient.list(String resourceUri, String metricnames, String metricnamespace, String timespan, Duration interval, String aggregation, String sensitivities, String filter, ResultType resultType, Context context)"
-  summary: "**Lists the metric baseline values for a resource**."
+  summary: "\\*\\*Lists the metric baseline values for a resource\\*\\*."
   parameters:
   - description: "The identifier of the resource."
     name: "resourceUri"

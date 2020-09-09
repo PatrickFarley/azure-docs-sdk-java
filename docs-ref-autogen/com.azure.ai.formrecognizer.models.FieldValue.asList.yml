@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FieldValue.asList()"
   name: "asList()"
   nameWithType: "FieldValue.asList()"
-  summary: "Gets the value of the field as a <xref uid=\"List\" data-throw-if-not-resolved=\"false\">List</xref>."
+  summary: "Gets the value of the field as a <xref uid=\"java.util.List\" data-throw-if-not-resolved=\"false\">List</xref>."
   syntax: "public List<FormField> asList()"
   returns:
     description: "the value of the field as an unmodifiable <xref uid=\"java.util.List\" data-throw-if-not-resolved=\"false\">List</xref>."

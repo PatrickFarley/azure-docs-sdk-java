@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TextTranslationSkill.setDefaultFromLanguageCode(TextTranslationSkillLanguage defaultFromLanguageCode)"
   name: "setDefaultFromLanguageCode(TextTranslationSkillLanguage defaultFromLanguageCode)"
   nameWithType: "TextTranslationSkill.setDefaultFromLanguageCode(TextTranslationSkillLanguage defaultFromLanguageCode)"
-  summary: "Set the defaultFromLanguageCode property: The language code to translate\n documents from for documents that don't specify the from language\n explicitly. Possible values include: 'af', 'ar', 'bn', 'bs', 'bg',\n 'yue', 'ca', 'zh-Hans', 'zh-Hant', 'hr', 'cs', 'da', 'nl', 'en', 'et',\n 'fj', 'fil', 'fi', 'fr', 'de', 'el', 'ht', 'he', 'hi', 'mww', 'hu',\n 'is', 'id', 'it', 'ja', 'sw', 'tlh', 'ko', 'lv', 'lt', 'mg', 'ms', 'mt',\n 'nb', 'fa', 'pl', 'pt', 'otq', 'ro', 'ru', 'sm', 'sr-Cyrl', 'sr-Latn',\n 'sk', 'sl', 'es', 'sv', 'ty', 'ta', 'te', 'th', 'to', 'tr', 'uk', 'ur',\n 'vi', 'cy', 'yua'."
+  summary: "Set the defaultFromLanguageCode property: The language code to translate documents from for documents that don't specify the from language explicitly. Possible values include: 'af', 'ar', 'bn', 'bs', 'bg', 'yue', 'ca', 'zh-Hans', 'zh-Hant', 'hr', 'cs', 'da', 'nl', 'en', 'et', 'fj', 'fil', 'fi', 'fr', 'de', 'el', 'ht', 'he', 'hi', 'mww', 'hu', 'is', 'id', 'it', 'ja', 'sw', 'tlh', 'ko', 'lv', 'lt', 'mg', 'ms', 'mt', 'nb', 'fa', 'pl', 'pt', 'otq', 'ro', 'ru', 'sm', 'sr-Cyrl', 'sr-Latn', 'sk', 'sl', 'es', 'sv', 'ty', 'ta', 'te', 'th', 'to', 'tr', 'uk', 'ur', 'vi', 'cy', 'yua'."
   parameters:
   - description: "the defaultFromLanguageCode value to set."
     name: "defaultFromLanguageCode"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.HasPublicIpAddress.UpdateDefinitionStages.WithNewPublicIPAddressNoDnsLabel<ReturnT>.withNewPublicIpAddress()"
   name: "withNewPublicIpAddress()"
   nameWithType: "HasPublicIpAddress.UpdateDefinitionStages.WithNewPublicIPAddressNoDnsLabel<ReturnT>.withNewPublicIpAddress()"
-  summary: "Creates a new public IP address in the same region and group as the resource and associates it with the\n resource.\n\n <p>The internal name and DNS label for the public IP address will be derived from the resource's name."
+  summary: "Creates a new public IP address in the same region and group as the resource and associates it with the resource.\n\nThe internal name and DNS label for the public IP address will be derived from the resource's name."
   syntax: "public abstract ReturnT withNewPublicIpAddress()"
   returns:
     description: "the next stage of the definition"

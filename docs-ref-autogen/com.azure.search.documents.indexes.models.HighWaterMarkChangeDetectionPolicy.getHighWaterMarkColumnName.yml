@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.HighWaterMarkChangeDetectionPolicy.getHighWaterMarkColumnName()"
   name: "getHighWaterMarkColumnName()"
   nameWithType: "HighWaterMarkChangeDetectionPolicy.getHighWaterMarkColumnName()"
-  summary: "Get the highWaterMarkColumnName property: The name of the high water\n mark column."
+  summary: "Get the highWaterMarkColumnName property: The name of the high water mark column."
   syntax: "public String getHighWaterMarkColumnName()"
   returns:
     description: "the highWaterMarkColumnName value."

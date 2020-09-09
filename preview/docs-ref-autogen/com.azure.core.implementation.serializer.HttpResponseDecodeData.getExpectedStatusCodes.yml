@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.serializer.HttpResponseDecodeData.getExpectedStatusCodes()"
   name: "getExpectedStatusCodes()"
   nameWithType: "HttpResponseDecodeData.getExpectedStatusCodes()"
-  summary: "Get the expected HTTP response status codes.\n\n 1. If the returned int[] is null, then all 2XX status codes are considered as success code.\n 2. If the returned int[] is not-null, only the codes in the array are considered as success code."
+  summary: "Get the expected HTTP response status codes. 1. If the returned int\\[\\] is null, then all 2XX status codes are considered as success code. 2. If the returned int\\[\\] is not-null, only the codes in the array are considered as success code."
   syntax: "public default int[] getExpectedStatusCodes()"
   returns:
     description: "the expected HTTP response status codes"

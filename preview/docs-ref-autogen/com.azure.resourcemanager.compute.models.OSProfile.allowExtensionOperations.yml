@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.OSProfile.allowExtensionOperations()"
   name: "allowExtensionOperations()"
   nameWithType: "OSProfile.allowExtensionOperations()"
-  summary: "Get the allowExtensionOperations property: Specifies whether extension operations should be allowed on the\n virtual machine. &lt;br&gt;&lt;br&gt;This may only be set to False when no extensions are present on the virtual\n machine."
+  summary: "Get the allowExtensionOperations property: Specifies whether extension operations should be allowed on the virtual machine. <br><br>This may only be set to False when no extensions are present on the virtual machine."
   syntax: "public Boolean allowExtensionOperations()"
   returns:
     description: "the allowExtensionOperations value."

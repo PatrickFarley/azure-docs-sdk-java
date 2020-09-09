@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.GatewayConnectionConfig.getIdleConnectionTimeout()"
   name: "getIdleConnectionTimeout()"
   nameWithType: "GatewayConnectionConfig.getIdleConnectionTimeout()"
-  summary: "Gets the value of the timeout for an idle connection, the default is 60\n seconds."
+  summary: "Gets the value of the timeout for an idle connection, the default is 60 seconds."
   syntax: "public Duration getIdleConnectionTimeout()"
   returns:
     description: "Idle connection timeout duration."

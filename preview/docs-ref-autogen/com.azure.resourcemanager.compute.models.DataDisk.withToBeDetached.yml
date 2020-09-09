@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DataDisk.withToBeDetached(Boolean toBeDetached)"
   name: "withToBeDetached(Boolean toBeDetached)"
   nameWithType: "DataDisk.withToBeDetached(Boolean toBeDetached)"
-  summary: "Set the toBeDetached property: Specifies whether the data disk is in process of detachment from the\n VirtualMachine/VirtualMachineScaleset."
+  summary: "Set the toBeDetached property: Specifies whether the data disk is in process of detachment from the VirtualMachine/VirtualMachineScaleset."
   parameters:
   - description: "the toBeDetached value to set."
     name: "toBeDetached"

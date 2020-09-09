@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MagnitudeScoringParameters.getBoostingRangeEnd()"
   name: "getBoostingRangeEnd()"
   nameWithType: "MagnitudeScoringParameters.getBoostingRangeEnd()"
-  summary: "Get the boostingRangeEnd property: The field value at which boosting\n ends."
+  summary: "Get the boostingRangeEnd property: The field value at which boosting ends."
   syntax: "public double getBoostingRangeEnd()"
   returns:
     description: "the boostingRangeEnd value."

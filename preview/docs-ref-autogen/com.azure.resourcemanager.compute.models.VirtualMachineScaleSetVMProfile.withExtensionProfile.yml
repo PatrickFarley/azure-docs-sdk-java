@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetVMProfile.withExtensionProfile(VirtualMachineScaleSetExtensionProfile extensionProfile)"
   name: "withExtensionProfile(VirtualMachineScaleSetExtensionProfile extensionProfile)"
   nameWithType: "VirtualMachineScaleSetVMProfile.withExtensionProfile(VirtualMachineScaleSetExtensionProfile extensionProfile)"
-  summary: "Set the extensionProfile property: Specifies a collection of settings for extensions installed on virtual\n machines in the scale set."
+  summary: "Set the extensionProfile property: Specifies a collection of settings for extensions installed on virtual machines in the scale set."
   parameters:
   - description: "the extensionProfile value to set."
     name: "extensionProfile"

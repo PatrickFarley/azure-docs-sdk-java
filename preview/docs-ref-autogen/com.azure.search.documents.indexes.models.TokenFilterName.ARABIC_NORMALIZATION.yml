@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TokenFilterName.ARABIC_NORMALIZATION"
   name: "ARABIC_NORMALIZATION"
   nameWithType: "TokenFilterName.ARABIC_NORMALIZATION"
-  summary: "Static value arabic_normalization for TokenFilterName."
+  summary: "Static value arabic\\_normalization for TokenFilterName."
   syntax: "public static final TokenFilterName ARABIC_NORMALIZATION"
 type: "field"
 metadata: {}

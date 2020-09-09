@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchOptions.getScoringProfile()"
   name: "getScoringProfile()"
   nameWithType: "SearchOptions.getScoringProfile()"
-  summary: "Get the scoringProfile property: The name of a scoring profile to evaluate match scores for matching documents in\n order to sort the results."
+  summary: "Get the scoringProfile property: The name of a scoring profile to evaluate match scores for matching documents in order to sort the results."
   syntax: "public String getScoringProfile()"
   returns:
     description: "the scoringProfile value."

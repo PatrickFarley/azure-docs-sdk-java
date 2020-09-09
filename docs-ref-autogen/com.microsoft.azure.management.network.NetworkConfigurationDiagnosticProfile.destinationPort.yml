@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkConfigurationDiagnosticProfile.destinationPort()"
   name: "destinationPort()"
   nameWithType: "NetworkConfigurationDiagnosticProfile.destinationPort()"
-  summary: "Get traffic destination port. Accepted values are '*' and a single port in the range (0 - 65535)."
+  summary: "Get traffic destination port. Accepted values are '\\*' and a single port in the range (0 - 65535)."
   syntax: "public String destinationPort()"
   returns:
     description: "the destinationPort value"

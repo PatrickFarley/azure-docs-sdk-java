@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.DeploymentsClient.validateAtTenantScopeWithResponseAsync(String deploymentName, ScopedDeployment parameters)"
   name: "validateAtTenantScopeWithResponseAsync(String deploymentName, ScopedDeployment parameters)"
   nameWithType: "DeploymentsClient.validateAtTenantScopeWithResponseAsync(String deploymentName, ScopedDeployment parameters)"
-  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource\n Manager.."
+  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource Manager.."
   parameters:
   - description: "The name of the deployment."
     name: "deploymentName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.DeploymentsClient.validateAtTenantScopeWithResponseAsync(String deploymentName, ScopedDeployment parameters, Context context)"
   name: "validateAtTenantScopeWithResponseAsync(String deploymentName, ScopedDeployment parameters, Context context)"
   nameWithType: "DeploymentsClient.validateAtTenantScopeWithResponseAsync(String deploymentName, ScopedDeployment parameters, Context context)"
-  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource\n Manager.."
+  summary: "Validates whether the specified template is syntactically correct and will be accepted by Azure Resource Manager.."
   parameters:
   - description: "The name of the deployment."
     name: "deploymentName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerNamespaceName, PartnerNamespaceInner partnerNamespaceInfo)"
   name: "beginCreateOrUpdateAsync(String resourceGroupName, String partnerNamespaceName, PartnerNamespaceInner partnerNamespaceInfo)"
   nameWithType: "PartnerNamespacesInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerNamespaceName, PartnerNamespaceInner partnerNamespaceInfo)"
-  summary: "Create a partner namespace.\n Asynchronously creates a new partner namespace with the specified parameters."
+  summary: "Create a partner namespace. Asynchronously creates a new partner namespace with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerNamespaceName, PartnerNamespaceInner partnerNamespaceInfo, ServiceCallback<PartnerNamespaceInner> serviceCallback)"
   name: "beginCreateOrUpdateAsync(String resourceGroupName, String partnerNamespaceName, PartnerNamespaceInner partnerNamespaceInfo, ServiceCallback<PartnerNamespaceInner> serviceCallback)"
   nameWithType: "PartnerNamespacesInner.beginCreateOrUpdateAsync(String resourceGroupName, String partnerNamespaceName, PartnerNamespaceInner partnerNamespaceInfo, ServiceCallback<PartnerNamespaceInner> serviceCallback)"
-  summary: "Create a partner namespace.\n Asynchronously creates a new partner namespace with the specified parameters."
+  summary: "Create a partner namespace. Asynchronously creates a new partner namespace with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

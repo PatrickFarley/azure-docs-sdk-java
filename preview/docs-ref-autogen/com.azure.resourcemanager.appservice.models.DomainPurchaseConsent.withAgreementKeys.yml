@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.DomainPurchaseConsent.withAgreementKeys(List<String> agreementKeys)"
   name: "withAgreementKeys(List<String> agreementKeys)"
   nameWithType: "DomainPurchaseConsent.withAgreementKeys(List<String> agreementKeys)"
-  summary: "Set the agreementKeys property: List of applicable legal agreement keys. This list can be retrieved using\n ListLegalAgreements API under &lt;code&gt;TopLevelDomain&lt;/code&gt; resource."
+  summary: "Set the agreementKeys property: List of applicable legal agreement keys. This list can be retrieved using ListLegalAgreements API under <code>TopLevelDomain</code> resource."
   parameters:
   - description: "the agreementKeys value to set."
     name: "agreementKeys"

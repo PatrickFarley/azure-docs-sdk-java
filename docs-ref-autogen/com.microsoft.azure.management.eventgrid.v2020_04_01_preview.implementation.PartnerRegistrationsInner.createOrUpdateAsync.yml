@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.createOrUpdateAsync(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo)"
   name: "createOrUpdateAsync(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo)"
   nameWithType: "PartnerRegistrationsInner.createOrUpdateAsync(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo)"
-  summary: "Create a partner registration.\n Creates a new partner registration with the specified parameters."
+  summary: "Create a partner registration. Creates a new partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.createOrUpdateAsync(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo, ServiceCallback<PartnerRegistrationInner> serviceCallback)"
   name: "createOrUpdateAsync(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo, ServiceCallback<PartnerRegistrationInner> serviceCallback)"
   nameWithType: "PartnerRegistrationsInner.createOrUpdateAsync(String resourceGroupName, String partnerRegistrationName, PartnerRegistrationInner partnerRegistrationInfo, ServiceCallback<PartnerRegistrationInner> serviceCallback)"
-  summary: "Create a partner registration.\n Creates a new partner registration with the specified parameters."
+  summary: "Create a partner registration. Creates a new partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

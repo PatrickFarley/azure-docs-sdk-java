@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.Utility.mapToHttpResponseExceptionIfExist(Throwable throwable)"
   name: "mapToHttpResponseExceptionIfExist(Throwable throwable)"
   nameWithType: "Utility.mapToHttpResponseExceptionIfExist(Throwable throwable)"
-  summary: "Mapping a <xref uid=\"ErrorResponseException\" data-throw-if-not-resolved=\"false\">ErrorResponseException</xref> to <xref uid=\"HttpResponseException\" data-throw-if-not-resolved=\"false\">HttpResponseException</xref> if exist. Otherwise, return\n original <xref uid=\"Throwable\" data-throw-if-not-resolved=\"false\">Throwable</xref>."
+  summary: "Mapping a <xref uid=\"com.azure.ai.formrecognizer.implementation.models.ErrorResponseException\" data-throw-if-not-resolved=\"false\">ErrorResponseException</xref> to <xref uid=\"com.azure.core.exception.HttpResponseException\" data-throw-if-not-resolved=\"false\">HttpResponseException</xref> if exist. Otherwise, return original <xref uid=\"java.lang.Throwable\" data-throw-if-not-resolved=\"false\">Throwable</xref>."
   parameters:
   - description: "A <xref uid=\"java.lang.Throwable\" data-throw-if-not-resolved=\"false\">Throwable</xref>."
     name: "throwable"

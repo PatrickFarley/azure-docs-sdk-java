@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkPeering.UpdateStages.WithAccess.withAccessBetweenBothNetworks()"
   name: "withAccessBetweenBothNetworks()"
   nameWithType: "NetworkPeering.UpdateStages.WithAccess.withAccessBetweenBothNetworks()"
-  summary: "Enables access to either peered virtual network from the other.\n <p>\n This setting will have effect on the remote network only if the remote network is in the same subscription. Otherwise, it will be ignored and you need to change\n the corresponding access setting on the remote network's matching peering explicitly."
+  summary: "Enables access to either peered virtual network from the other.\n\nThis setting will have effect on the remote network only if the remote network is in the same subscription. Otherwise, it will be ignored and you need to change the corresponding access setting on the remote network's matching peering explicitly."
   syntax: "public abstract NetworkPeering.Update withAccessBetweenBothNetworks()"
   returns:
     description: "the next stage of the update"

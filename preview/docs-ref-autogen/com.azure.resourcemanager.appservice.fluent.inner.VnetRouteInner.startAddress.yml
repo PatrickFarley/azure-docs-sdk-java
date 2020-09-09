@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.VnetRouteInner.startAddress()"
   name: "startAddress()"
   nameWithType: "VnetRouteInner.startAddress()"
-  summary: "Get the startAddress property: The starting address for this route. This may also include a CIDR notation, in\n which case the end address must not be specified."
+  summary: "Get the startAddress property: The starting address for this route. This may also include a CIDR notation, in which case the end address must not be specified."
   syntax: "public String startAddress()"
   returns:
     description: "the startAddress value."

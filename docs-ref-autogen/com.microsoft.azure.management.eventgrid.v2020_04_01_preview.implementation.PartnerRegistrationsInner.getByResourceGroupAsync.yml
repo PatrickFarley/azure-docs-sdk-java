@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.getByResourceGroupAsync(String resourceGroupName, String partnerRegistrationName)"
   name: "getByResourceGroupAsync(String resourceGroupName, String partnerRegistrationName)"
   nameWithType: "PartnerRegistrationsInner.getByResourceGroupAsync(String resourceGroupName, String partnerRegistrationName)"
-  summary: "Get a partner registration.\n Gets a partner registration with the specified parameters."
+  summary: "Get a partner registration. Gets a partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.getByResourceGroupAsync(String resourceGroupName, String partnerRegistrationName, ServiceCallback<PartnerRegistrationInner> serviceCallback)"
   name: "getByResourceGroupAsync(String resourceGroupName, String partnerRegistrationName, ServiceCallback<PartnerRegistrationInner> serviceCallback)"
   nameWithType: "PartnerRegistrationsInner.getByResourceGroupAsync(String resourceGroupName, String partnerRegistrationName, ServiceCallback<PartnerRegistrationInner> serviceCallback)"
-  summary: "Get a partner registration.\n Gets a partner registration with the specified parameters."
+  summary: "Get a partner registration. Gets a partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

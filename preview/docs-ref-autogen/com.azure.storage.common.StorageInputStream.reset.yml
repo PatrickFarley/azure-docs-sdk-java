@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.StorageInputStream.reset()"
   name: "reset()"
   nameWithType: "StorageInputStream.reset()"
-  summary: "Repositions this stream to the position at the time the mark method was last called on this input stream. Note\n repositioning the blob read stream will disable blob MD5 checking."
+  summary: "Repositions this stream to the position at the time the mark method was last called on this input stream. Note repositioning the blob read stream will disable blob MD5 checking."
   overridden: "java.io.InputStream.reset()"
   syntax: "public synchronized void reset()"
 type: "method"

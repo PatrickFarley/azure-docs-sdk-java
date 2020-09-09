@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayBackendHttpSettings.withRequestTimeout(Integer requestTimeout)"
   name: "withRequestTimeout(Integer requestTimeout)"
   nameWithType: "ApplicationGatewayBackendHttpSettings.withRequestTimeout(Integer requestTimeout)"
-  summary: "Set the requestTimeout property: Request timeout in seconds. Application Gateway will fail the request if\n response is not received within RequestTimeout. Acceptable values are from 1 second to 86400 seconds."
+  summary: "Set the requestTimeout property: Request timeout in seconds. Application Gateway will fail the request if response is not received within RequestTimeout. Acceptable values are from 1 second to 86400 seconds."
   parameters:
   - description: "the requestTimeout value to set."
     name: "requestTimeout"

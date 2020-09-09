@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.ReadResult.getUnit()"
   name: "getUnit()"
   nameWithType: "ReadResult.getUnit()"
-  summary: "Get the unit property: The unit used by the width, height and boundingBox properties. For images, the unit is\n \"pixel\". For PDF, the unit is \"inch\"."
+  summary: "Get the unit property: The unit used by the width, height and boundingBox properties. For images, the unit is \"pixel\". For PDF, the unit is \"inch\"."
   syntax: "public LengthUnit getUnit()"
   returns:
     description: "the unit value."

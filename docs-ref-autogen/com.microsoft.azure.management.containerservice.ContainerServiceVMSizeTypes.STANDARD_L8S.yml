@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_L8S"
   name: "STANDARD_L8S"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_L8S"
-  summary: "Static value Standard_L8s for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_L8s for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_L8S"
 type: "field"
 metadata: {}

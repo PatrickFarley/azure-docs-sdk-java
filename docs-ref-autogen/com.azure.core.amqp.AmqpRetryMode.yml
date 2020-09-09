@@ -30,7 +30,7 @@ fields:
   fullName: "com.azure.core.amqp.AmqpRetryMode.EXPONENTIAL"
   name: "EXPONENTIAL"
   nameWithType: "AmqpRetryMode.EXPONENTIAL"
-  summary: "Retry attempts will delay based on a backoff strategy, where each attempt will increase the duration that it\n waits before retrying."
+  summary: "Retry attempts will delay based on a backoff strategy, where each attempt will increase the duration that it waits before retrying."
 - uid: "com.azure.core.amqp.AmqpRetryMode.FIXED"
   fullName: "com.azure.core.amqp.AmqpRetryMode.FIXED"
   name: "FIXED"

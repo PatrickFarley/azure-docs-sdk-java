@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.MetricAlert.DefinitionStages.WithSeverityMultipleResource.withAlertDetails(int severity, String description)"
   name: "withAlertDetails(int severity, String description)"
   nameWithType: "MetricAlert.DefinitionStages.WithSeverityMultipleResource.withAlertDetails(int severity, String description)"
-  summary: "Sets alert severity {0, 1, 2, 3, 4} and description."
+  summary: "Sets alert severity \\{0, 1, 2, 3, 4\\} and description."
   parameters:
   - description: "the severity value to set"
     name: "severity"

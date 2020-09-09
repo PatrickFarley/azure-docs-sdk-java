@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryContainers(SqlQuerySpec querySpec)"
   name: "queryContainers(SqlQuerySpec querySpec)"
   nameWithType: "CosmosAsyncDatabase.queryContainers(SqlQuerySpec querySpec)"
-  summary: "Query for cosmos containers in a cosmos database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained containers. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos containers in a cosmos database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained containers. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the SQL query specification."
     name: "querySpec"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryContainers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   name: "queryContainers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncDatabase.queryContainers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
-  summary: "Query for cosmos containers in a cosmos database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained containers. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos containers in a cosmos database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained containers. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the SQL query specification."
     name: "querySpec"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryContainers(String query)"
   name: "queryContainers(String query)"
   nameWithType: "CosmosAsyncDatabase.queryContainers(String query)"
-  summary: "Query for cosmos containers in a cosmos database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained containers. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos containers in a cosmos database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained containers. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the query."
     name: "query"
@@ -50,7 +50,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.queryContainers(String query, CosmosQueryRequestOptions options)"
   name: "queryContainers(String query, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncDatabase.queryContainers(String query, CosmosQueryRequestOptions options)"
-  summary: "Query for cosmos containers in a cosmos database.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the obtained containers. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for cosmos containers in a cosmos database.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the obtained containers. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the query."
     name: "query"

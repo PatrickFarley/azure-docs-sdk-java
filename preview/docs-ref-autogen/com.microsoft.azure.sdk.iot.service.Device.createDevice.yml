@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.Device.createDevice(String deviceId, AuthenticationType authenticationType)"
   name: "createDevice(String deviceId, AuthenticationType authenticationType)"
   nameWithType: "Device.createDevice(String deviceId, AuthenticationType authenticationType)"
-  summary: "Static create function\n Creates device object using the given name that will use a Certificate Authority signed certificate for authentication.\n If input device status is null then it will be auto generated."
+  summary: "Static create function Creates device object using the given name that will use a Certificate Authority signed certificate for authentication. If input device status is null then it will be auto generated."
   parameters:
   - description: "- String containing the device name"
     name: "deviceId"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileAsyncClient.delete()"
   name: "delete()"
   nameWithType: "ShareFileAsyncClient.delete()"
-  summary: "Deletes the file associate with the client.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the file</p>\n\n <pre>\n shareFileAsyncClient.delete&#40;&#41;.subscribe&#40;\n     response -&gt; &#123; &#125;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Complete deleting the file!&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2\">Azure Docs</a>.</p>"
+  summary: "Deletes the file associate with the client.\n\n**Code Samples**\n\nDelete the file\n\n```java\nshareFileAsyncClient.delete().subscribe(\n     response -> { },\n     error -> System.err.print(error.toString()),\n     () -> System.out.println(\"Complete deleting the file!\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2"
   syntax: "public Mono<Void> delete()"
   returns:
     description: "An empty response"

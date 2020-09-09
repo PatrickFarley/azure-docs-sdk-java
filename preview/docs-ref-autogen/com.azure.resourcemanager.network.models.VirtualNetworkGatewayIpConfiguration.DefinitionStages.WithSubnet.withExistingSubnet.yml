@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VirtualNetworkGatewayIpConfiguration.DefinitionStages.WithSubnet<ParentT>.withExistingSubnet(Network network, String subnetName)"
   name: "withExistingSubnet(Network network, String subnetName)"
   nameWithType: "VirtualNetworkGatewayIpConfiguration.DefinitionStages.WithSubnet<ParentT>.withExistingSubnet(Network network, String subnetName)"
-  summary: "Specifies an existing subnet the virtual network gateway should be part of and get its private IP address\n from."
+  summary: "Specifies an existing subnet the virtual network gateway should be part of and get its private IP address from."
   parameters:
   - description: "an existing virtual network"
     name: "network"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VirtualNetworkGatewayIpConfiguration.DefinitionStages.WithSubnet<ParentT>.withExistingSubnet(Subnet subnet)"
   name: "withExistingSubnet(Subnet subnet)"
   nameWithType: "VirtualNetworkGatewayIpConfiguration.DefinitionStages.WithSubnet<ParentT>.withExistingSubnet(Subnet subnet)"
-  summary: "Specifies an existing subnet the virtual network gateway should be part of and get its private IP address\n from."
+  summary: "Specifies an existing subnet the virtual network gateway should be part of and get its private IP address from."
   parameters:
   - description: "an existing subnet"
     name: "subnet"

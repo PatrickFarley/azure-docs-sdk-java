@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueMessageItem.setTimeNextVisible(OffsetDateTime timeNextVisible)"
   name: "setTimeNextVisible(OffsetDateTime timeNextVisible)"
   nameWithType: "QueueMessageItem.setTimeNextVisible(OffsetDateTime timeNextVisible)"
-  summary: "Set the timeNextVisible property: The time that the message will again\n become visible in the Queue."
+  summary: "Set the timeNextVisible property: The time that the message will again become visible in the Queue."
   parameters:
   - description: "the timeNextVisible value to set."
     name: "timeNextVisible"

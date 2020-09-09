@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromAzureServices()"
   name: "withAccessFromAzureServices()"
   nameWithType: "StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromAzureServices()"
-  summary: "Specifies that access to the storage account should be allowed from applications running on\n Microsoft Azure services."
+  summary: "Specifies that access to the storage account should be allowed from applications running on Microsoft Azure services."
   syntax: "public abstract StorageAccount.Update withAccessFromAzureServices()"
   returns:
     description: "the next stage of storage account definition"

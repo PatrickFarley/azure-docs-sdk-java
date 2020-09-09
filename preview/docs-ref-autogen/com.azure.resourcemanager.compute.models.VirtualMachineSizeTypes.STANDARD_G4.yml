@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_G4"
   name: "STANDARD_G4"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_G4"
-  summary: "Static value Standard_G4 for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_G4 for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_G4"
 type: "field"
 metadata: {}

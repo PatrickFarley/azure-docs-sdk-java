@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineUpdateInner.additionalCapabilities()"
   name: "additionalCapabilities()"
   nameWithType: "VirtualMachineUpdateInner.additionalCapabilities()"
-  summary: "Get the additionalCapabilities property: Specifies additional capabilities enabled or disabled on the virtual\n machine."
+  summary: "Get the additionalCapabilities property: Specifies additional capabilities enabled or disabled on the virtual machine."
   syntax: "public AdditionalCapabilities additionalCapabilities()"
   returns:
     description: "the additionalCapabilities value."

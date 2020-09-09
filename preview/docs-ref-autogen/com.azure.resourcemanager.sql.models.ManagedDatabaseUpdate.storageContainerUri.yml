@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedDatabaseUpdate.storageContainerUri()"
   name: "storageContainerUri()"
   nameWithType: "ManagedDatabaseUpdate.storageContainerUri()"
-  summary: "Get the storageContainerUri property: Conditional. If createMode is RestoreExternalBackup, this value is\n required. Specifies the uri of the storage container where backups for this restore are stored."
+  summary: "Get the storageContainerUri property: Conditional. If createMode is RestoreExternalBackup, this value is required. Specifies the uri of the storage container where backups for this restore are stored."
   syntax: "public String storageContainerUri()"
   returns:
     description: "the storageContainerUri value."

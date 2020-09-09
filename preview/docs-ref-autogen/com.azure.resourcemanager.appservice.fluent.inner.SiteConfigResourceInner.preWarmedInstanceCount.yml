@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigResourceInner.preWarmedInstanceCount()"
   name: "preWarmedInstanceCount()"
   nameWithType: "SiteConfigResourceInner.preWarmedInstanceCount()"
-  summary: "Get the preWarmedInstanceCount property: Number of preWarmed instances. This setting only applies to the\n Consumption and Elastic Plans."
+  summary: "Get the preWarmedInstanceCount property: Number of preWarmed instances. This setting only applies to the Consumption and Elastic Plans."
   syntax: "public Integer preWarmedInstanceCount()"
   returns:
     description: "the preWarmedInstanceCount value."

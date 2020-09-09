@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileClient.read(OutputStream stream)"
   name: "read(OutputStream stream)"
   nameWithType: "DataLakeFileClient.read(OutputStream stream)"
-  summary: "Reads the entire file into an output stream.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.read&#40;new ByteArrayOutputStream&#40;&#41;&#41;;\n System.out.println&#40;&quot;Download completed.&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob\">Azure Docs</a></p>"
+  summary: "Reads the entire file into an output stream.\n\n**Code Samples**\n\n```java\nclient.read(new ByteArrayOutputStream());\n System.out.println(\"Download completed.\");\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob"
   parameters:
   - description: "A non-null <xref uid=\"java.io.OutputStream\" data-throw-if-not-resolved=\"false\">OutputStream</xref> instance where the downloaded data will be written."
     name: "stream"

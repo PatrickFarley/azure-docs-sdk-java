@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.updateTags(Map<String,Object> tagsMap)"
   name: "updateTags(Map<String,Object> tagsMap)"
   nameWithType: "TwinParser.updateTags(Map<String,Object> tagsMap)"
-  summary: "Update the `tags` information in the collection, and return a string with a json that contains a\n sub-collection of added tags, or tags with new value."
+  summary: "Update the \\`tags\\` information in the collection, and return a string with a json that contains a sub-collection of added tags, or tags with new value."
   parameters:
   - description: "- Map of `tags` to change the collection."
     name: "tagsMap"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_A9"
   name: "STANDARD_A9"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_A9"
-  summary: "Static value Standard_A9 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_A9 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_A9"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.getReceiveMode()"
   name: "getReceiveMode()"
   nameWithType: "IMessageReceiver.getReceiveMode()"
-  summary: "Get current receiver's <xref uid=\"ReceiveMode\" data-throw-if-not-resolved=\"false\">ReceiveMode</xref>."
+  summary: "Get current receiver's <xref uid=\"com.microsoft.azure.servicebus.ReceiveMode\" data-throw-if-not-resolved=\"false\">ReceiveMode</xref>."
   syntax: "public abstract ReceiveMode getReceiveMode()"
   returns:
     description: "<xref uid=\"com.microsoft.azure.servicebus.ReceiveMode\" data-throw-if-not-resolved=\"false\">ReceiveMode</xref>"

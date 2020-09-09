@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountListKeysResultInner.keys()"
   name: "keys()"
   nameWithType: "StorageAccountListKeysResultInner.keys()"
-  summary: "Get the keys property: Gets the list of storage account keys and their properties for the specified storage\n account."
+  summary: "Get the keys property: Gets the list of storage account keys and their properties for the specified storage account."
   syntax: "public List<StorageAccountKey> keys()"
   returns:
     description: "the keys value."

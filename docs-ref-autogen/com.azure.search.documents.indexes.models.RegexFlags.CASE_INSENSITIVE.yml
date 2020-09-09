@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.RegexFlags.CASE_INSENSITIVE"
   name: "CASE_INSENSITIVE"
   nameWithType: "RegexFlags.CASE_INSENSITIVE"
-  summary: "Static value CASE_INSENSITIVE for RegexFlags."
+  summary: "Static value CASE\\_INSENSITIVE for RegexFlags."
   syntax: "public static final RegexFlags CASE_INSENSITIVE"
 type: "field"
 metadata: {}

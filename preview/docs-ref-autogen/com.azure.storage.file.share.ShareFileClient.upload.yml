@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.upload(InputStream data, long length)"
   name: "upload(InputStream data, long length)"
   nameWithType: "ShareFileClient.upload(InputStream data, long length)"
-  summary: "Uploads a range of bytes to the beginning of a file in storage file service. Upload operations performs an\n in-place write on the specified file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Upload data \"default\" to the file in Storage File Service. </p>\n\n <pre>\n InputStream uploadData = new ByteArrayInputStream&#40;data&#41;;\n ShareFileUploadInfo response = fileClient.upload&#40;uploadData, data.length&#41;;\n System.out.println&#40;&quot;Complete uploading the data with eTag: &quot; + response.getETag&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/put-range\">Azure Docs</a>.</p>"
+  summary: "Uploads a range of bytes to the beginning of a file in storage file service. Upload operations performs an in-place write on the specified file.\n\n**Code Samples**\n\nUpload data \"default\" to the file in Storage File Service.\n\n```java\nInputStream uploadData = new ByteArrayInputStream(data);\n ShareFileUploadInfo response = fileClient.upload(uploadData, data.length);\n System.out.println(\"Complete uploading the data with eTag: \" + response.getETag());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/put-range"
   parameters:
   - description: "The data which will upload to the storage file."
     name: "data"

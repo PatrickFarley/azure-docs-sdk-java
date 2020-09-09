@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.serializer.JsonArray.get(int index)"
   name: "get(int index)"
   nameWithType: "JsonArray.get(int index)"
-  summary: "Gets the <xref uid=\"JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> at the given index of the array."
+  summary: "Gets the <xref uid=\"com.azure.core.experimental.serializer.JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> at the given index of the array."
   parameters:
   - description: "Index of the array."
     name: "index"

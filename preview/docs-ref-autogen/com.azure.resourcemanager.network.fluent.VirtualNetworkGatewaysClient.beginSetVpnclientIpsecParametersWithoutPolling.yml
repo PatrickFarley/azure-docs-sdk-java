@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.beginSetVpnclientIpsecParametersWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, VpnClientIPsecParametersInner vpnclientIpsecParams)"
   name: "beginSetVpnclientIpsecParametersWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, VpnClientIPsecParametersInner vpnclientIpsecParams)"
   nameWithType: "VirtualNetworkGatewaysClient.beginSetVpnclientIpsecParametersWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, VpnClientIPsecParametersInner vpnclientIpsecParams)"
-  summary: "The Set VpnclientIpsecParameters operation sets the vpnclient ipsec policy for P2S client of virtual network\n gateway in the specified resource group through Network resource provider."
+  summary: "The Set VpnclientIpsecParameters operation sets the vpnclient ipsec policy for P2S client of virtual network gateway in the specified resource group through Network resource provider."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.beginSetVpnclientIpsecParametersWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, VpnClientIPsecParametersInner vpnclientIpsecParams, Context context)"
   name: "beginSetVpnclientIpsecParametersWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, VpnClientIPsecParametersInner vpnclientIpsecParams, Context context)"
   nameWithType: "VirtualNetworkGatewaysClient.beginSetVpnclientIpsecParametersWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, VpnClientIPsecParametersInner vpnclientIpsecParams, Context context)"
-  summary: "The Set VpnclientIpsecParameters operation sets the vpnclient ipsec policy for P2S client of virtual network\n gateway in the specified resource group through Network resource provider."
+  summary: "The Set VpnclientIpsecParameters operation sets the vpnclient ipsec policy for P2S client of virtual network gateway in the specified resource group through Network resource provider."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.DeletedAppRestoreRequest.withRecoverConfiguration(Boolean recoverConfiguration)"
   name: "withRecoverConfiguration(Boolean recoverConfiguration)"
   nameWithType: "DeletedAppRestoreRequest.withRecoverConfiguration(Boolean recoverConfiguration)"
-  summary: "Set the recoverConfiguration property: If true, deleted site configuration, in addition to content, will be\n restored."
+  summary: "Set the recoverConfiguration property: If true, deleted site configuration, in addition to content, will be restored."
   parameters:
   - description: "the recoverConfiguration value to set."
     name: "recoverConfiguration"

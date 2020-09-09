@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TruncateTokenFilter.getLength()"
   name: "getLength()"
   nameWithType: "TruncateTokenFilter.getLength()"
-  summary: "Get the length property: The length at which terms will be truncated.\n Default and maximum is 300."
+  summary: "Get the length property: The length at which terms will be truncated. Default and maximum is 300."
   syntax: "public Integer getLength()"
   returns:
     description: "the length value."

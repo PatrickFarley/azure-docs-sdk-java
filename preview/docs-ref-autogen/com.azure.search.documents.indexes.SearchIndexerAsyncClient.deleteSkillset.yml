@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.deleteSkillset(String skillsetName)"
   name: "deleteSkillset(String skillsetName)"
   nameWithType: "SearchIndexerAsyncClient.deleteSkillset(String skillsetName)"
-  summary: "Deletes a cognitive skillset in an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete search indexer skillset \"searchIndexerSkillset\". </p>\n\n <pre>\n searchIndexerAsyncClient.deleteSkillset&#40;&quot;searchIndexerSkillset&quot;&#41;\n     .subscribe&#40;&#41;;\n </pre>"
+  summary: "Deletes a cognitive skillset in an Azure Cognitive Search service.\n\n**Code Sample**\n\nDelete search indexer skillset \"searchIndexerSkillset\".\n\n```java\nsearchIndexerAsyncClient.deleteSkillset(\"searchIndexerSkillset\")\n     .subscribe();\n```"
   parameters:
   - description: "the name of the skillset to delete"
     name: "skillsetName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.getByResourceGroup(String resourceGroupName, String partnerNamespaceName)"
   name: "getByResourceGroup(String resourceGroupName, String partnerNamespaceName)"
   nameWithType: "PartnerNamespacesInner.getByResourceGroup(String resourceGroupName, String partnerNamespaceName)"
-  summary: "Get a partner namespace.\n Get properties of a partner namespace."
+  summary: "Get a partner namespace. Get properties of a partner namespace."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.UnmanagedFileSystemReference.relativeMountPath()"
   name: "relativeMountPath()"
   nameWithType: "UnmanagedFileSystemReference.relativeMountPath()"
-  summary: "Get the relative path on the compute node where the unmanaged file system will be mounted. Note that all cluster level unmanaged file systems will be mounted under $AZ_BATCHAI_MOUNT_ROOT location and all job level unmanaged file systems will be mounted under $AZ_BATCHAI_JOB_MOUNT_ROOT."
+  summary: "Get the relative path on the compute node where the unmanaged file system will be mounted. Note that all cluster level unmanaged file systems will be mounted under $AZ\\_BATCHAI\\_MOUNT\\_ROOT location and all job level unmanaged file systems will be mounted under $AZ\\_BATCHAI\\_JOB\\_MOUNT\\_ROOT."
   syntax: "public String relativeMountPath()"
   returns:
     description: "the relativeMountPath value"

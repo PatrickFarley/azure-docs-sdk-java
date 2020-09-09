@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.DefinitionStages.WithAppSettings<FluentT>.withAppSettings(Map<String,String> settings)"
   name: "withAppSettings(Map<String,String> settings)"
   nameWithType: "WebAppBase.DefinitionStages.WithAppSettings<FluentT>.withAppSettings(Map<String,String> settings)"
-  summary: "Specifies the app settings for the web app as a <xref uid=\"Map\" data-throw-if-not-resolved=\"false\">Map</xref>."
+  summary: "Specifies the app settings for the web app as a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref>."
   parameters:
   - description: "a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref> of app settings"
     name: "settings"

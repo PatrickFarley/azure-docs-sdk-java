@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicEventSubscriptionsInner.listByPartnerTopicNextSinglePageAsync(String nextPageLink)"
   name: "listByPartnerTopicNextSinglePageAsync(String nextPageLink)"
   nameWithType: "PartnerTopicEventSubscriptionsInner.listByPartnerTopicNextSinglePageAsync(String nextPageLink)"
-  summary: "List event subscriptions of a partner topic.\n List event subscriptions that belong to a specific partner topic.\n\n    ServiceResponse<PageImpl<EventSubscriptionInner>> * @param nextPageLink The NextLink from the previous successful call to List operation."
+  summary: "List event subscriptions of a partner topic. List event subscriptions that belong to a specific partner topic. ServiceResponse> \\* @param nextPageLink The NextLink from the previous successful call to List operation."
   parameters:
   - name: "nextPageLink"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

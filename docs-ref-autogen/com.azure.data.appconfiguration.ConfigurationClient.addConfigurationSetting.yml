@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.appconfiguration.ConfigurationClient.addConfigurationSetting(String key, String label, String value)"
   name: "addConfigurationSetting(String key, String label, String value)"
   nameWithType: "ConfigurationClient.addConfigurationSetting(String key, String label, String value)"
-  summary: "Adds a configuration value in the service if that key does not exist. The <code>label</code> is optional.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Add a setting with the key \"prodDBConnection\", label \"westUS\" and value \"db_connection\".</p>\n\n <pre>\n ConfigurationSetting result = configurationClient\n     .addConfigurationSetting&#40;&quot;prodDBConnection&quot;, &quot;westUS&quot;, &quot;db_connection&quot;&#41;;\n System.out.printf&#40;&quot;Key: %s, Label: %s, Value: %s&quot;, result.getKey&#40;&#41;, result.getLabel&#40;&#41;, result.getValue&#40;&#41;&#41;;\n </pre>"
+  summary: "Adds a configuration value in the service if that key does not exist. The `label` is optional.\n\n**Code Samples**\n\nAdd a setting with the key \"prodDBConnection\", label \"westUS\" and value \"db\\_connection\".\n\n```java\nConfigurationSetting result = configurationClient\n     .addConfigurationSetting(\"prodDBConnection\", \"westUS\", \"db_connection\");\n System.out.printf(\"Key: %s, Label: %s, Value: %s\", result.getKey(), result.getLabel(), result.getValue());\n```"
   parameters:
   - description: "The key of the configuration setting to add."
     name: "key"

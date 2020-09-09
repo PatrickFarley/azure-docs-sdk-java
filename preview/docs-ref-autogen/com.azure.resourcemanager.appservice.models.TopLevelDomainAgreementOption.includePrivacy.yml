@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.TopLevelDomainAgreementOption.includePrivacy()"
   name: "includePrivacy()"
   nameWithType: "TopLevelDomainAgreementOption.includePrivacy()"
-  summary: "Get the includePrivacy property: If &lt;code&gt;true&lt;/code&gt;, then the list of agreements will include\n agreements for domain privacy as well; otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the includePrivacy property: If <code>true</code>, then the list of agreements will include agreements for domain privacy as well; otherwise, <code>false</code>."
   syntax: "public Boolean includePrivacy()"
   returns:
     description: "the includePrivacy value."

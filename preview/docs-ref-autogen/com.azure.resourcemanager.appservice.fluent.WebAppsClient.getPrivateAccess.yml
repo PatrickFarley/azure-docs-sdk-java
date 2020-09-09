@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getPrivateAccess(String resourceGroupName, String name)"
   name: "getPrivateAccess(String resourceGroupName, String name)"
   nameWithType: "WebAppsClient.getPrivateAccess(String resourceGroupName, String name)"
-  summary: "Description for Gets data around private site access enablement and authorized Virtual Networks that can access\n the site."
+  summary: "Description for Gets data around private site access enablement and authorized Virtual Networks that can access the site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.getPrivateAccess(String resourceGroupName, String name, Context context)"
   name: "getPrivateAccess(String resourceGroupName, String name, Context context)"
   nameWithType: "WebAppsClient.getPrivateAccess(String resourceGroupName, String name, Context context)"
-  summary: "Description for Gets data around private site access enablement and authorized Virtual Networks that can access\n the site."
+  summary: "Description for Gets data around private site access enablement and authorized Virtual Networks that can access the site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

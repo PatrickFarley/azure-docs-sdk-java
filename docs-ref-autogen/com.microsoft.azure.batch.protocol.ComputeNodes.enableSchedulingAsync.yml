@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.enableSchedulingAsync(String poolId, String nodeId)"
   name: "enableSchedulingAsync(String poolId, String nodeId)"
   nameWithType: "ComputeNodes.enableSchedulingAsync(String poolId, String nodeId)"
-  summary: "Enables Task scheduling on the specified Compute Node.\n You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
+  summary: "Enables Task scheduling on the specified Compute Node. You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.enableSchedulingAsync(String poolId, String nodeId, ComputeNodeEnableSchedulingOptions computeNodeEnableSchedulingOptions)"
   name: "enableSchedulingAsync(String poolId, String nodeId, ComputeNodeEnableSchedulingOptions computeNodeEnableSchedulingOptions)"
   nameWithType: "ComputeNodes.enableSchedulingAsync(String poolId, String nodeId, ComputeNodeEnableSchedulingOptions computeNodeEnableSchedulingOptions)"
-  summary: "Enables Task scheduling on the specified Compute Node.\n You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
+  summary: "Enables Task scheduling on the specified Compute Node. You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.enableSchedulingAsync(String poolId, String nodeId, ComputeNodeEnableSchedulingOptions computeNodeEnableSchedulingOptions, ServiceCallback<Void> serviceCallback)"
   name: "enableSchedulingAsync(String poolId, String nodeId, ComputeNodeEnableSchedulingOptions computeNodeEnableSchedulingOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.enableSchedulingAsync(String poolId, String nodeId, ComputeNodeEnableSchedulingOptions computeNodeEnableSchedulingOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Enables Task scheduling on the specified Compute Node.\n You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
+  summary: "Enables Task scheduling on the specified Compute Node. You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.enableSchedulingAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   name: "enableSchedulingAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.enableSchedulingAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
-  summary: "Enables Task scheduling on the specified Compute Node.\n You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
+  summary: "Enables Task scheduling on the specified Compute Node. You can enable Task scheduling on a Compute Node only if its current scheduling state is disabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"

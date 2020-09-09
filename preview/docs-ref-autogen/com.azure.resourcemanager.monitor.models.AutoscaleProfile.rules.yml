@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.AutoscaleProfile.rules()"
   name: "rules()"
   nameWithType: "AutoscaleProfile.rules()"
-  summary: "Get the collection of rules that provide the triggers and parameters for the scaling action. A maximum of 10\n rules can be specified."
+  summary: "Get the collection of rules that provide the triggers and parameters for the scaling action. A maximum of 10 rules can be specified."
   syntax: "public abstract List<ScaleRule> rules()"
   returns:
     description: "the rules value."

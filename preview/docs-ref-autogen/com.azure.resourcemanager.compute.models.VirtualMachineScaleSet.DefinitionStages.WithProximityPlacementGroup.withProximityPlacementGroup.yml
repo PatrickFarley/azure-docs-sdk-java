@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithProximityPlacementGroup.withProximityPlacementGroup(String proximityPlacementGroupId)"
   name: "withProximityPlacementGroup(String proximityPlacementGroupId)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithProximityPlacementGroup.withProximityPlacementGroup(String proximityPlacementGroupId)"
-  summary: "Set information about the proximity placement group that the virtual machine scale set should be assigned\n to."
+  summary: "Set information about the proximity placement group that the virtual machine scale set should be assigned to."
   parameters:
   - description: "The Id of the proximity placement group subResource."
     name: "proximityPlacementGroupId"

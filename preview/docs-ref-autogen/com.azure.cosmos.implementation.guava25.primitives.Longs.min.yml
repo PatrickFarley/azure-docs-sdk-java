@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Longs.min(long[] array)"
   name: "min(long[] array)"
   nameWithType: "Longs.min(long[] array)"
-  summary: "Returns the least value present in <code>array</code>."
+  summary: "Returns the least value present in `array`."
   parameters:
   - description: "a <i>nonempty</i> array of <code>long</code> values"
     name: "array"

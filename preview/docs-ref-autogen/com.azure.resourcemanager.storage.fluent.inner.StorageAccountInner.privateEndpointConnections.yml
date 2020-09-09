@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.privateEndpointConnections()"
   name: "privateEndpointConnections()"
   nameWithType: "StorageAccountInner.privateEndpointConnections()"
-  summary: "Get the privateEndpointConnections property: List of private endpoint connection associated with the specified\n storage account."
+  summary: "Get the privateEndpointConnections property: List of private endpoint connection associated with the specified storage account."
   syntax: "public List<PrivateEndpointConnectionInner> privateEndpointConnections()"
   returns:
     description: "the privateEndpointConnections value."

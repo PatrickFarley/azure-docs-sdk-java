@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.StopwordsTokenFilter.getStopwordsList()"
   name: "getStopwordsList()"
   nameWithType: "StopwordsTokenFilter.getStopwordsList()"
-  summary: "Get the stopwordsList property: A predefined list of stopwords to use.\n This property and the stopwords property cannot both be set. Default is\n English. Possible values include: 'Arabic', 'Armenian', 'Basque',\n 'Brazilian', 'Bulgarian', 'Catalan', 'Czech', 'Danish', 'Dutch',\n 'English', 'Finnish', 'French', 'Galician', 'German', 'Greek', 'Hindi',\n 'Hungarian', 'Indonesian', 'Irish', 'Italian', 'Latvian', 'Norwegian',\n 'Persian', 'Portuguese', 'Romanian', 'Russian', 'Sorani', 'Spanish',\n 'Swedish', 'Thai', 'Turkish'."
+  summary: "Get the stopwordsList property: A predefined list of stopwords to use. This property and the stopwords property cannot both be set. Default is English. Possible values include: 'Arabic', 'Armenian', 'Basque', 'Brazilian', 'Bulgarian', 'Catalan', 'Czech', 'Danish', 'Dutch', 'English', 'Finnish', 'French', 'Galician', 'German', 'Greek', 'Hindi', 'Hungarian', 'Indonesian', 'Irish', 'Italian', 'Latvian', 'Norwegian', 'Persian', 'Portuguese', 'Romanian', 'Russian', 'Sorani', 'Spanish', 'Swedish', 'Thai', 'Turkish'."
   syntax: "public StopwordsList getStopwordsList()"
   returns:
     description: "the stopwordsList value."

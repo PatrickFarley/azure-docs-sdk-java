@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PrivateEndpointInner.networkInterfaces()"
   name: "networkInterfaces()"
   nameWithType: "PrivateEndpointInner.networkInterfaces()"
-  summary: "Get the networkInterfaces property: Gets an array of references to the network interfaces created for this\n private endpoint."
+  summary: "Get the networkInterfaces property: Gets an array of references to the network interfaces created for this private endpoint."
   syntax: "public List<NetworkInterfaceInner> networkInterfaces()"
   returns:
     description: "the networkInterfaces value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.getEncryptionScope()"
   name: "getEncryptionScope()"
   nameWithType: "BlobAsyncClientBase.getEncryptionScope()"
-  summary: "Gets the <code>encryption scope</code> used to encrypt this blob's content on the server."
+  summary: "Gets the `encryption scope` used to encrypt this blob's content on the server."
   syntax: "protected String getEncryptionScope()"
   returns:
     description: "the encryption scope used for encryption."

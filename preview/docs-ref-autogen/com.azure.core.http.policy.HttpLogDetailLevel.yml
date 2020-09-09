@@ -35,7 +35,7 @@ fields:
   fullName: "com.azure.core.http.policy.HttpLogDetailLevel.BODY"
   name: "BODY"
   nameWithType: "HttpLogDetailLevel.BODY"
-  summary: "Logs everything in BASIC, plus all the request and response body.\n Note that only payloads in plain text or plain text encoded in GZIP\n will be logged."
+  summary: "Logs everything in BASIC, plus all the request and response body. Note that only payloads in plain text or plain text encoded in GZIP will be logged."
 - uid: "com.azure.core.http.policy.HttpLogDetailLevel.BODY_AND_HEADERS"
   fullName: "com.azure.core.http.policy.HttpLogDetailLevel.BODY_AND_HEADERS"
   name: "BODY_AND_HEADERS"

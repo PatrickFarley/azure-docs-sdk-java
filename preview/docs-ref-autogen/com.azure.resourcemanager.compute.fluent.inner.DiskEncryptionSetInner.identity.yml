@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DiskEncryptionSetInner.identity()"
   name: "identity()"
   nameWithType: "DiskEncryptionSetInner.identity()"
-  summary: "Get the identity property: The managed identity for the disk encryption set. It should be given permission on the\n key vault before it can be used to encrypt disks."
+  summary: "Get the identity property: The managed identity for the disk encryption set. It should be given permission on the key vault before it can be used to encrypt disks."
   syntax: "public EncryptionSetIdentity identity()"
   returns:
     description: "the identity value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsConnection.setReadTimeout(int timeout)"
   name: "setReadTimeout(int timeout)"
   nameWithType: "HttpsConnection.setReadTimeout(int timeout)"
-  summary: "Sets the read timeout in milliseconds. The read timeout is the number of\n milliseconds after the server receives a request and before the server\n sends data back."
+  summary: "Sets the read timeout in milliseconds. The read timeout is the number of milliseconds after the server receives a request and before the server sends data back."
   parameters:
   - description: "the read timeout."
     name: "timeout"

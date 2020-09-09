@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigInner.detailedErrorLoggingEnabled()"
   name: "detailedErrorLoggingEnabled()"
   nameWithType: "SiteConfigInner.detailedErrorLoggingEnabled()"
-  summary: "Get the detailedErrorLoggingEnabled property: &lt;code&gt;true&lt;/code&gt; if detailed error logging is enabled;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the detailedErrorLoggingEnabled property: <code>true</code> if detailed error logging is enabled; otherwise, <code>false</code>."
   syntax: "public Boolean detailedErrorLoggingEnabled()"
   returns:
     description: "the detailedErrorLoggingEnabled value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.sas.AccountSasResourceType.setContainer(boolean container)"
   name: "setContainer(boolean container)"
   nameWithType: "AccountSasResourceType.setContainer(boolean container)"
-  summary: "Sets the access status for container level APIs, this grants access to Blob Containers, Tables, Queues, and File\n Shares."
+  summary: "Sets the access status for container level APIs, this grants access to Blob Containers, Tables, Queues, and File Shares."
   parameters:
   - description: "Access status to set"
     name: "container"

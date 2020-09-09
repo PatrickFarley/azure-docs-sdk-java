@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.CustomHostnameAnalysisResultInner.hasConflictOnScaleUnit()"
   name: "hasConflictOnScaleUnit()"
   nameWithType: "CustomHostnameAnalysisResultInner.hasConflictOnScaleUnit()"
-  summary: "Get the hasConflictOnScaleUnit property: &lt;code&gt;true&lt;/code&gt; if there is a conflict on a scale unit;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the hasConflictOnScaleUnit property: <code>true</code> if there is a conflict on a scale unit; otherwise, <code>false</code>."
   syntax: "public Boolean hasConflictOnScaleUnit()"
   returns:
     description: "the hasConflictOnScaleUnit value."

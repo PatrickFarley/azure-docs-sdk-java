@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.EntityRecognitionSkill.setTypelessEntitiesIncluded(Boolean typelessEntitiesIncluded)"
   name: "setTypelessEntitiesIncluded(Boolean typelessEntitiesIncluded)"
   nameWithType: "EntityRecognitionSkill.setTypelessEntitiesIncluded(Boolean typelessEntitiesIncluded)"
-  summary: "Set the includeTypelessEntities property: Determines whether or not to\n include entities which are well known but don't conform to a pre-defined\n type. If this configuration is not set (default), set to null or set to\n false, entities which don't conform to one of the pre-defined types will\n not be surfaced."
+  summary: "Set the includeTypelessEntities property: Determines whether or not to include entities which are well known but don't conform to a pre-defined type. If this configuration is not set (default), set to null or set to false, entities which don't conform to one of the pre-defined types will not be surfaced."
   parameters:
   - description: "the includeTypelessEntities value to set."
     name: "typelessEntitiesIncluded"

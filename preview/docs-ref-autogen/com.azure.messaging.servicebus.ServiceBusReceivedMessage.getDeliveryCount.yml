@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceivedMessage.getDeliveryCount()"
   name: "getDeliveryCount()"
   nameWithType: "ServiceBusReceivedMessage.getDeliveryCount()"
-  summary: "Gets the number of the times this message was delivered to clients.\n <p>\n The count is incremented when a message lock expires, or the message is explicitly abandoned by\n the receiver. This property is read-only."
+  summary: "Gets the number of the times this message was delivered to clients.\n\nThe count is incremented when a message lock expires, or the message is explicitly abandoned by the receiver. This property is read-only."
   syntax: "public long getDeliveryCount()"
   returns:
     description: "delivery count of this message."

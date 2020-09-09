@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.OpenShiftManagedClustersClient.list()"
   name: "list()"
   nameWithType: "OpenShiftManagedClustersClient.list()"
-  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each\n OpenShift managed cluster."
+  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each OpenShift managed cluster."
   syntax: "public PagedIterable<OpenShiftManagedClusterInner> list()"
   returns:
     description: "a list of OpenShift managed clusters in the specified subscription."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.OpenShiftManagedClustersClient.list(Context context)"
   name: "list(Context context)"
   nameWithType: "OpenShiftManagedClustersClient.list(Context context)"
-  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each\n OpenShift managed cluster."
+  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each OpenShift managed cluster."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

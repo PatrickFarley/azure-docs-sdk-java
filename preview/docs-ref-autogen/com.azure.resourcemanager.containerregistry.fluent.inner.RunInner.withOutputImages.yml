@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RunInner.withOutputImages(List<ImageDescriptor> outputImages)"
   name: "withOutputImages(List<ImageDescriptor> outputImages)"
   nameWithType: "RunInner.withOutputImages(List<ImageDescriptor> outputImages)"
-  summary: "Set the outputImages property: The list of all images that were generated from the run. This is applicable if the\n run generates base image dependencies."
+  summary: "Set the outputImages property: The list of all images that were generated from the run. This is applicable if the run generates base image dependencies."
   parameters:
   - description: "the outputImages value to set."
     name: "outputImages"

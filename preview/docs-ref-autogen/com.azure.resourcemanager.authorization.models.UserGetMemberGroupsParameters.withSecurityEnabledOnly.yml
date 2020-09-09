@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.UserGetMemberGroupsParameters.withSecurityEnabledOnly(boolean securityEnabledOnly)"
   name: "withSecurityEnabledOnly(boolean securityEnabledOnly)"
   nameWithType: "UserGetMemberGroupsParameters.withSecurityEnabledOnly(boolean securityEnabledOnly)"
-  summary: "Set the securityEnabledOnly property: If true, only membership in security-enabled groups should be checked.\n Otherwise, membership in all groups should be checked."
+  summary: "Set the securityEnabledOnly property: If true, only membership in security-enabled groups should be checked. Otherwise, membership in all groups should be checked."
   parameters:
   - description: "the securityEnabledOnly value to set."
     name: "securityEnabledOnly"

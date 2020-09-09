@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.resetReportedProperty(Map<String,Object> propertyMap)"
   name: "resetReportedProperty(Map<String,Object> propertyMap)"
   nameWithType: "TwinParser.resetReportedProperty(Map<String,Object> propertyMap)"
-  summary: "Reset the `reported` properties information in the collection, deleting all old properties and add all the new provided ones.\n Return a string with a json that contains a sub-collection of added properties."
+  summary: "Reset the \\`reported\\` properties information in the collection, deleting all old properties and add all the new provided ones. Return a string with a json that contains a sub-collection of added properties."
   parameters:
   - description: "- Map of `reported` property to change the collection."
     name: "propertyMap"

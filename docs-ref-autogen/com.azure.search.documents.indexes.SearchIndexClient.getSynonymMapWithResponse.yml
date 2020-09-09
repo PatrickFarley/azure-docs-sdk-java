@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.getSynonymMapWithResponse(String synonymMapName, Context context)"
   name: "getSynonymMapWithResponse(String synonymMapName, Context context)"
   nameWithType: "SearchIndexClient.getSynonymMapWithResponse(String synonymMapName, Context context)"
-  summary: "Retrieves a synonym map definition.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get synonym map with name \"synonymMap\". </p>\n\n <pre>\n Response&lt;SynonymMap&gt; synonymMapFromService =\n     searchIndexClient.getSynonymMapWithResponse&#40;&quot;synonymMap&quot;, new Context&#40;key1, value1&#41;&#41;;\n System.out.printf&#40;&quot;The status code of the response is %d.%n&quot;\n         + &quot;The synonym map name is %s. The etag of synonym map is %s.%n&quot;, synonymMapFromService.getStatusCode&#40;&#41;,\n     synonymMapFromService.getValue&#40;&#41;.getName&#40;&#41;, synonymMapFromService.getValue&#40;&#41;.getETag&#40;&#41;&#41;;\n </pre>"
+  summary: "Retrieves a synonym map definition.\n\n**Code Sample**\n\nGet synonym map with name \"synonymMap\".\n\n```java\nResponse<SynonymMap> synonymMapFromService =\n     searchIndexClient.getSynonymMapWithResponse(\"synonymMap\", new Context(key1, value1));\n System.out.printf(\"The status code of the response is %d.%n\"\n         + \"The synonym map name is %s. The etag of synonym map is %s.%n\", synonymMapFromService.getStatusCode(),\n     synonymMapFromService.getValue().getName(), synonymMapFromService.getValue().getETag());\n```"
   parameters:
   - description: "name of the synonym map to retrieve"
     name: "synonymMapName"

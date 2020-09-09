@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.renewMessageLock(String lockToken)"
   name: "renewMessageLock(String lockToken)"
   nameWithType: "ServiceBusReceiverAsyncClient.renewMessageLock(String lockToken)"
-  summary: "Asynchronously renews the lock on the specified message. The lock will be renewed based on the setting specified\n on the entity. When a message is received in <xref uid=\"ReceiveMode#PEEK_LOCK\" data-throw-if-not-resolved=\"false\">ReceiveMode#PEEK_LOCK</xref> mode, the message is locked on the\n server for this receiver instance for a duration as specified during the Queue creation (LockDuration). If\n processing of the message requires longer than this duration, the lock needs to be renewed. For each renewal, the\n lock is reset to the entity's LockDuration value."
+  summary: "Asynchronously renews the lock on the specified message. The lock will be renewed based on the setting specified on the entity. When a message is received in <xref uid=\"com.azure.messaging.servicebus.models.ReceiveMode.PEEK_LOCK\" data-throw-if-not-resolved=\"false\">ReceiveMode#PEEK_LOCK</xref> mode, the message is locked on the server for this receiver instance for a duration as specified during the Queue creation (LockDuration). If processing of the message requires longer than this duration, the lock needs to be renewed. For each renewal, the lock is reset to the entity's LockDuration value."
   parameters:
   - description: "Lock token of the message to renew."
     name: "lockToken"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.models.DnsZone.DefinitionStages.WithETagCheck.withETagCheck()"
   name: "withETagCheck()"
   nameWithType: "DnsZone.DefinitionStages.WithETagCheck.withETagCheck()"
-  summary: "Specifies that If-None-Match header needs to set to * to prevent updating an existing DNS zone."
+  summary: "Specifies that If-None-Match header needs to set to \\* to prevent updating an existing DNS zone."
   syntax: "public abstract DnsZone.DefinitionStages.WithCreate withETagCheck()"
   returns:
     description: "the next stage of the definition"

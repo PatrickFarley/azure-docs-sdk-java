@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.beginUpdate(String resourceGroupName, String topicName, TopicUpdateParameters topicUpdateParameters)"
   name: "beginUpdate(String resourceGroupName, String topicName, TopicUpdateParameters topicUpdateParameters)"
   nameWithType: "TopicsInner.beginUpdate(String resourceGroupName, String topicName, TopicUpdateParameters topicUpdateParameters)"
-  summary: "Update a topic.\n Asynchronously updates a topic with the specified parameters."
+  summary: "Update a topic. Asynchronously updates a topic with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

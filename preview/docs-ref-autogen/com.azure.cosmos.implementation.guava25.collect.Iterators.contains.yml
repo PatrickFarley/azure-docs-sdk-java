@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.contains(Iterator<?> iterator, Object element)"
   name: "contains(Iterator<?> iterator, Object element)"
   nameWithType: "Iterators.contains(Iterator<?> iterator, Object element)"
-  summary: "Returns <code>true</code> if <code>iterator</code> contains <code>element</code>."
+  summary: "Returns `true` if `iterator` contains `element`."
   parameters:
   - name: "iterator"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

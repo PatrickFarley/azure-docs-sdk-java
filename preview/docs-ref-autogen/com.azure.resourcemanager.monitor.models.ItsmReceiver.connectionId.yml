@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ItsmReceiver.connectionId()"
   name: "connectionId()"
   nameWithType: "ItsmReceiver.connectionId()"
-  summary: "Get the connectionId property: Unique identification of ITSM connection among multiple defined in above\n workspace."
+  summary: "Get the connectionId property: Unique identification of ITSM connection among multiple defined in above workspace."
   syntax: "public String connectionId()"
   returns:
     description: "the connectionId value."

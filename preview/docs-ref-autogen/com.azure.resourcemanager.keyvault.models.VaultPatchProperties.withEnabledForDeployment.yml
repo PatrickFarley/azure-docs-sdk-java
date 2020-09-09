@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.VaultPatchProperties.withEnabledForDeployment(Boolean enabledForDeployment)"
   name: "withEnabledForDeployment(Boolean enabledForDeployment)"
   nameWithType: "VaultPatchProperties.withEnabledForDeployment(Boolean enabledForDeployment)"
-  summary: "Set the enabledForDeployment property: Property to specify whether Azure Virtual Machines are permitted to\n retrieve certificates stored as secrets from the key vault."
+  summary: "Set the enabledForDeployment property: Property to specify whether Azure Virtual Machines are permitted to retrieve certificates stored as secrets from the key vault."
   parameters:
   - description: "the enabledForDeployment value to set."
     name: "enabledForDeployment"

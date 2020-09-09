@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.Accepted<T>.getSyncPoller()"
   name: "getSyncPoller()"
   nameWithType: "Accepted<T>.getSyncPoller()"
-  summary: "Gets the <xref uid=\"SyncPoller\" data-throw-if-not-resolved=\"false\">SyncPoller</xref> of LRO."
+  summary: "Gets the <xref uid=\"com.azure.core.util.polling.SyncPoller\" data-throw-if-not-resolved=\"false\">SyncPoller</xref> of LRO."
   syntax: "public abstract SyncPoller<Void,T> getSyncPoller()"
   returns:
     description: "the sync poller."

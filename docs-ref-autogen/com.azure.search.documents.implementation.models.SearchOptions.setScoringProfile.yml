@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchOptions.setScoringProfile(String scoringProfile)"
   name: "setScoringProfile(String scoringProfile)"
   nameWithType: "SearchOptions.setScoringProfile(String scoringProfile)"
-  summary: "Set the scoringProfile property: The name of a scoring profile to evaluate match scores for matching documents in\n order to sort the results."
+  summary: "Set the scoringProfile property: The name of a scoring profile to evaluate match scores for matching documents in order to sort the results."
   parameters:
   - description: "the scoringProfile value to set."
     name: "scoringProfile"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification)"
   name: "updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification)"
   nameWithType: "JobScheduleOperations.updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification)"
-  summary: "Updates the specified job schedule.\n This method performs a full replace of all the updatable properties of the job schedule. For example, if the schedule parameter is null, then the Batch service removes the job schedule\\u2019s existing schedule and replaces it with the default schedule."
+  summary: "Updates the specified job schedule. This method performs a full replace of all the updatable properties of the job schedule. For example, if the schedule parameter is null, then the Batch service removes the job schedule\\\\u2019s existing schedule and replaces it with the default schedule."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"
@@ -29,7 +29,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata)"
   name: "updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata)"
   nameWithType: "JobScheduleOperations.updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata)"
-  summary: "Updates the specified job schedule.\n This method performs a full replace of all the updatable properties of the job schedule. For example, if the schedule parameter is null, then the Batch service removes the job schedule\\u2019s existing schedule and replaces it with the default schedule."
+  summary: "Updates the specified job schedule. This method performs a full replace of all the updatable properties of the job schedule. For example, if the schedule parameter is null, then the Batch service removes the job schedule\\\\u2019s existing schedule and replaces it with the default schedule."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"
@@ -53,7 +53,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobScheduleOperations.updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobScheduleOperations.updateJobSchedule(String jobScheduleId, Schedule schedule, JobSpecification jobSpecification, List<MetadataItem> metadata, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Updates the specified job schedule.\n This method performs a full replace of all the updatable properties of the job schedule. For example, if the schedule parameter is null, then the Batch service removes the job schedule\\u2019s existing schedule and replaces it with the default schedule."
+  summary: "Updates the specified job schedule. This method performs a full replace of all the updatable properties of the job schedule. For example, if the schedule parameter is null, then the Batch service removes the job schedule\\\\u2019s existing schedule and replaces it with the default schedule."
   parameters:
   - description: "The ID of the job schedule."
     name: "jobScheduleId"

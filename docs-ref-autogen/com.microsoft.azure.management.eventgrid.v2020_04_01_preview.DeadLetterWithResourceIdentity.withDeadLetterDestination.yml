@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.DeadLetterWithResourceIdentity.withDeadLetterDestination(DeadLetterDestination deadLetterDestination)"
   name: "withDeadLetterDestination(DeadLetterDestination deadLetterDestination)"
   nameWithType: "DeadLetterWithResourceIdentity.withDeadLetterDestination(DeadLetterDestination deadLetterDestination)"
-  summary: "Set information about the destination where events have to be delivered for the event subscription.\n     Uses the managed identity setup on the parent resource (namely, topic or domain) to acquire the authentication tokens being used during delivery / dead-lettering."
+  summary: "Set information about the destination where events have to be delivered for the event subscription. Uses the managed identity setup on the parent resource (namely, topic or domain) to acquire the authentication tokens being used during delivery / dead-lettering."
   parameters:
   - description: "the deadLetterDestination value to set"
     name: "deadLetterDestination"

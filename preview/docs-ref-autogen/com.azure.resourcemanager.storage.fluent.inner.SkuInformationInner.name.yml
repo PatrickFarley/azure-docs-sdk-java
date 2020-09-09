@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.SkuInformationInner.name()"
   name: "name()"
   nameWithType: "SkuInformationInner.name()"
-  summary: "Get the name property: The SKU name. Required for account creation; optional for update. Note that in older\n versions, SKU name was called accountType."
+  summary: "Get the name property: The SKU name. Required for account creation; optional for update. Note that in older versions, SKU name was called accountType."
   syntax: "public SkuName name()"
   returns:
     description: "the name value."

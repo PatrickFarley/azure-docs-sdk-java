@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DedicatedHostUpdate.autoReplaceOnFailure()"
   name: "autoReplaceOnFailure()"
   nameWithType: "DedicatedHostUpdate.autoReplaceOnFailure()"
-  summary: "Get the autoReplaceOnFailure property: Specifies whether the dedicated host should be replaced automatically in\n case of a failure. The value is defaulted to 'true' when not provided."
+  summary: "Get the autoReplaceOnFailure property: Specifies whether the dedicated host should be replaced automatically in case of a failure. The value is defaulted to 'true' when not provided."
   syntax: "public Boolean autoReplaceOnFailure()"
   returns:
     description: "the autoReplaceOnFailure value."

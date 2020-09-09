@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.IntMath.binomial(int n, int k)"
   name: "binomial(int n, int k)"
   nameWithType: "IntMath.binomial(int n, int k)"
-  summary: "Returns <code>n</code> choose <code>k</code>, also known as the binomial coefficient of <code>n</code> and\n <code>k</code>, or <xref uid=\"Integer#MAX_VALUE\" data-throw-if-not-resolved=\"false\">Integer#MAX_VALUE</xref> if the result does not fit in an <code>int</code>."
+  summary: "Returns `n` choose `k`, also known as the binomial coefficient of `n` and `k`, or <xref uid=\"java.lang.Integer.MAX_VALUE\" data-throw-if-not-resolved=\"false\">Integer#MAX_VALUE</xref> if the result does not fit in an `int`."
   parameters:
   - name: "n"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

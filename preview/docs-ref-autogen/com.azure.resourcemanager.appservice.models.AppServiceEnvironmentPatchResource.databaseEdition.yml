@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceEnvironmentPatchResource.databaseEdition()"
   name: "databaseEdition()"
   nameWithType: "AppServiceEnvironmentPatchResource.databaseEdition()"
-  summary: "Get the databaseEdition property: Edition of the metadata database for the App Service Environment, e.g.\n \"Standard\"."
+  summary: "Get the databaseEdition property: Edition of the metadata database for the App Service Environment, e.g. \"Standard\"."
   syntax: "public String databaseEdition()"
   returns:
     description: "the databaseEdition value."

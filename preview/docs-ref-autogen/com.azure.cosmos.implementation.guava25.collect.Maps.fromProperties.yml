@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Maps.fromProperties(Properties properties)"
   name: "fromProperties(Properties properties)"
   nameWithType: "Maps.fromProperties(Properties properties)"
-  summary: "Creates an <code>ImmutableMap<String, String></code> from a <code>Properties</code> instance. Properties\n normally derive from <code>Map<Object, Object></code>, but they typically contain strings, which is\n awkward. This method lets you get a plain-old-<code>Map</code> out of a <code>Properties</code>."
+  summary: "Creates an `ImmutableMap` from a `Properties` instance. Properties normally derive from `Map`, but they typically contain strings, which is awkward. This method lets you get a plain-old-`Map` out of a `Properties`."
   parameters:
   - description: "a <code>Properties</code> object to be converted"
     name: "properties"

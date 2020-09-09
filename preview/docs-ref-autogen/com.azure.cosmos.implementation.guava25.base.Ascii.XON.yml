@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.XON"
   name: "XON"
   nameWithType: "Ascii.XON"
-  summary: "Transmission On: Although originally defined as DC1, this ASCII control character is now better\n known as the XON code used for software flow control in serial communications. The main use is\n restarting the transmission after the communication has been stopped by the XOFF control code."
+  summary: "Transmission On: Although originally defined as DC1, this ASCII control character is now better known as the XON code used for software flow control in serial communications. The main use is restarting the transmission after the communication has been stopped by the XOFF control code."
   syntax: "public static final byte XON"
 type: "field"
 metadata: {}

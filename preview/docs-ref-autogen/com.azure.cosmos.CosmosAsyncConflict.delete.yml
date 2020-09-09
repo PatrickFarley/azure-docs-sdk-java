@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncConflict.delete(CosmosConflictRequestOptions options)"
   name: "delete(CosmosConflictRequestOptions options)"
   nameWithType: "CosmosAsyncConflict.delete(CosmosConflictRequestOptions options)"
-  summary: "Reads all conflicts in a container.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will\n contain one or several feed response pages of the read conflicts. In case of\n failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Reads all conflicts in a container.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will contain one or several feed response pages of the read conflicts. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the feed options."
     name: "options"

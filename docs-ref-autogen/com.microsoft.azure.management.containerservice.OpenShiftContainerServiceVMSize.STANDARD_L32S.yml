@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.OpenShiftContainerServiceVMSize.STANDARD_L32S"
   name: "STANDARD_L32S"
   nameWithType: "OpenShiftContainerServiceVMSize.STANDARD_L32S"
-  summary: "Static value Standard_L32s for OpenShiftContainerServiceVMSize."
+  summary: "Static value Standard\\_L32s for OpenShiftContainerServiceVMSize."
   syntax: "public static final OpenShiftContainerServiceVMSize STANDARD_L32S"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchOptions.getHighlightFields()"
   name: "getHighlightFields()"
   nameWithType: "SearchOptions.getHighlightFields()"
-  summary: "Get the highlightFields property: The list of field names to use for hit\n highlights. Only searchable fields can be used for hit highlighting."
+  summary: "Get the highlightFields property: The list of field names to use for hit highlights. Only searchable fields can be used for hit highlighting."
   syntax: "public List<String> getHighlightFields()"
   returns:
     description: "the highlightFields value."

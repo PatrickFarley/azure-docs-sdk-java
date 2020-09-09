@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.hashCode()"
   name: "hashCode()"
   nameWithType: "Multiset<E>.hashCode()"
-  summary: "Returns the hash code for this multiset. This is defined as the sum of\n\n <pre><code>\n ((element == null) ? 0 : element.hashCode()) ^ count(element)\n </code></pre>\n\n <p>over all distinct elements in the multiset. It follows that a multiset and its entry set\n always have the same hash code."
+  summary: "Returns the hash code for this multiset. This is defined as the sum of\n\n```java\n((element == null) ? 0 : element.hashCode()) ^ count(element)\n```\n\nover all distinct elements in the multiset. It follows that a multiset and its entry set always have the same hash code."
   overridden: "java.lang.Object.hashCode()"
   syntax: "public abstract int hashCode()"
   returns:

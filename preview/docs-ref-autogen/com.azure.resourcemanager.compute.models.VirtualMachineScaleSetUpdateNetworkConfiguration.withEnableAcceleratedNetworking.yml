@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetUpdateNetworkConfiguration.withEnableAcceleratedNetworking(Boolean enableAcceleratedNetworking)"
   name: "withEnableAcceleratedNetworking(Boolean enableAcceleratedNetworking)"
   nameWithType: "VirtualMachineScaleSetUpdateNetworkConfiguration.withEnableAcceleratedNetworking(Boolean enableAcceleratedNetworking)"
-  summary: "Set the enableAcceleratedNetworking property: Specifies whether the network interface is accelerated\n networking-enabled."
+  summary: "Set the enableAcceleratedNetworking property: Specifies whether the network interface is accelerated networking-enabled."
   parameters:
   - description: "the enableAcceleratedNetworking value to set."
     name: "enableAcceleratedNetworking"

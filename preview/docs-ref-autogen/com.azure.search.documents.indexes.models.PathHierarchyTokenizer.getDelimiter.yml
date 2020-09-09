@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PathHierarchyTokenizer.getDelimiter()"
   name: "getDelimiter()"
   nameWithType: "PathHierarchyTokenizer.getDelimiter()"
-  summary: "Get the delimiter property: The delimiter character to use. Default is\n \"/\"."
+  summary: "Get the delimiter property: The delimiter character to use. Default is \"/\"."
   syntax: "public Character getDelimiter()"
   returns:
     description: "the delimiter value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricDefinition.MetricsQueryDefinitionStages.WithMetricsQueryExecute.orderBy(String orderBy)"
   name: "orderBy(String orderBy)"
   nameWithType: "MetricDefinition.MetricsQueryDefinitionStages.WithMetricsQueryExecute.orderBy(String orderBy)"
-  summary: "Sets the aggregation to use for sorting results and the direction of the sort. Only one order can be\n specified. Examples: sum asc."
+  summary: "Sets the aggregation to use for sorting results and the direction of the sort. Only one order can be specified. Examples: sum asc."
   parameters:
   - description: "the aggregation to use for sorting results and the direction of the sort."
     name: "orderBy"

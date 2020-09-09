@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerDataSources.createFromAzureSql(String dataSourceName, String sqlConnectionString, String tableOrViewName)"
   name: "createFromAzureSql(String dataSourceName, String sqlConnectionString, String tableOrViewName)"
   nameWithType: "SearchIndexerDataSources.createFromAzureSql(String dataSourceName, String sqlConnectionString, String tableOrViewName)"
-  summary: "Creates a new <xref uid=\"SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure SQL database."
+  summary: "Creates a new <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure SQL database."
   parameters:
   - description: "The name of the data source."
     name: "dataSourceName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerDataSources.createFromAzureSql(String dataSourceName, String sqlConnectionString, String tableOrViewName, String description, DataChangeDetectionPolicy changeDetectionPolicy, DataDeletionDetectionPolicy deletionDetectionPolicy)"
   name: "createFromAzureSql(String dataSourceName, String sqlConnectionString, String tableOrViewName, String description, DataChangeDetectionPolicy changeDetectionPolicy, DataDeletionDetectionPolicy deletionDetectionPolicy)"
   nameWithType: "SearchIndexerDataSources.createFromAzureSql(String dataSourceName, String sqlConnectionString, String tableOrViewName, String description, DataChangeDetectionPolicy changeDetectionPolicy, DataDeletionDetectionPolicy deletionDetectionPolicy)"
-  summary: "Creates a new <xref uid=\"SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure SQL database."
+  summary: "Creates a new <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to an Azure SQL database."
   parameters:
   - description: "The name of the data source."
     name: "dataSourceName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails)"
   name: "analyzeWithCustomModelAsync(UUID modelId, ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails)"
   nameWithType: "FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails)"
-  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of\n the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Model identifier."
     name: "modelId"
@@ -33,7 +33,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails, Context context)"
   name: "analyzeWithCustomModelAsync(UUID modelId, ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails, Context context)"
   nameWithType: "FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, ContentType contentType, Flux<ByteBuffer> fileStream, long contentLength, Boolean includeTextDetails, Context context)"
-  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of\n the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Model identifier."
     name: "modelId"
@@ -61,7 +61,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, Boolean includeTextDetails, SourcePath fileStream)"
   name: "analyzeWithCustomModelAsync(UUID modelId, Boolean includeTextDetails, SourcePath fileStream)"
   nameWithType: "FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, Boolean includeTextDetails, SourcePath fileStream)"
-  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of\n the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Model identifier."
     name: "modelId"
@@ -80,7 +80,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, Boolean includeTextDetails, SourcePath fileStream, Context context)"
   name: "analyzeWithCustomModelAsync(UUID modelId, Boolean includeTextDetails, SourcePath fileStream, Context context)"
   nameWithType: "FormRecognizerClientImpl.analyzeWithCustomModelAsync(UUID modelId, Boolean includeTextDetails, SourcePath fileStream, Context context)"
-  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of\n the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use\n 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
+  summary: "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the location (Uri or local path) of the document to be analyzed."
   parameters:
   - description: "Model identifier."
     name: "modelId"

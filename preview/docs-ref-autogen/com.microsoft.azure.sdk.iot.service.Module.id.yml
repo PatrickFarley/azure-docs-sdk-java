@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.Module.id"
   name: "id"
   nameWithType: "Module.id"
-  summary: "Module name\n A case-sensitive string (up to 128 char long)\n of ASCII 7-bit alphanumeric chars\n + {'-', ':', '.', '+', '%', '_', '#', '*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''}."
+  summary: "Module name A case-sensitive string (up to 128 char long) of ASCII 7-bit alphanumeric chars + \\{'-', ':', '.', '+', '%', '\\_', '\\#', '\\*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''\\}."
   syntax: "protected String id"
 type: "field"
 metadata: {}

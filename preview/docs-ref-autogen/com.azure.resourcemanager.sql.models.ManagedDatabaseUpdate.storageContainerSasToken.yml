@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedDatabaseUpdate.storageContainerSasToken()"
   name: "storageContainerSasToken()"
   nameWithType: "ManagedDatabaseUpdate.storageContainerSasToken()"
-  summary: "Get the storageContainerSasToken property: Conditional. If createMode is RestoreExternalBackup, this value is\n required. Specifies the storage container sas token."
+  summary: "Get the storageContainerSasToken property: Conditional. If createMode is RestoreExternalBackup, this value is required. Specifies the storage container sas token."
   syntax: "public String storageContainerSasToken()"
   returns:
     description: "the storageContainerSasToken value."

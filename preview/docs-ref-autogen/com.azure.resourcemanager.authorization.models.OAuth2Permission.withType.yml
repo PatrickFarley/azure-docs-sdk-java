@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.OAuth2Permission.withType(String type)"
   name: "withType(String type)"
   nameWithType: "OAuth2Permission.withType(String type)"
-  summary: "Set the type property: Specifies whether this scope permission can be consented to by an end user, or whether it\n is a tenant-wide permission that must be consented to by a Company Administrator. Possible values are \"User\" or\n \"Admin\"."
+  summary: "Set the type property: Specifies whether this scope permission can be consented to by an end user, or whether it is a tenant-wide permission that must be consented to by a Company Administrator. Possible values are \"User\" or \"Admin\"."
   parameters:
   - description: "the type value to set."
     name: "type"

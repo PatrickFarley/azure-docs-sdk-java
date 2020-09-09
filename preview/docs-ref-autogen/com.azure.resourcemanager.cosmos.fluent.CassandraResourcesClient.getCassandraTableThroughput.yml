@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.CassandraResourcesClient.getCassandraTableThroughput(String resourceGroupName, String accountName, String keyspaceName, String tableName)"
   name: "getCassandraTableThroughput(String resourceGroupName, String accountName, String keyspaceName, String tableName)"
   nameWithType: "CassandraResourcesClient.getCassandraTableThroughput(String resourceGroupName, String accountName, String keyspaceName, String tableName)"
-  summary: "Gets the RUs per second of the Cassandra table under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the Cassandra table under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.CassandraResourcesClient.getCassandraTableThroughput(String resourceGroupName, String accountName, String keyspaceName, String tableName, Context context)"
   name: "getCassandraTableThroughput(String resourceGroupName, String accountName, String keyspaceName, String tableName, Context context)"
   nameWithType: "CassandraResourcesClient.getCassandraTableThroughput(String resourceGroupName, String accountName, String keyspaceName, String tableName, Context context)"
-  summary: "Gets the RUs per second of the Cassandra table under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the Cassandra table under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"

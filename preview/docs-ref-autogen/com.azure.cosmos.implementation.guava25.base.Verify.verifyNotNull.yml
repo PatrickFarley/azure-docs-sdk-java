@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Verify.<T>verifyNotNull(T reference)"
   name: "<T>verifyNotNull(T reference)"
   nameWithType: "Verify.<T>verifyNotNull(T reference)"
-  summary: "Ensures that <code>reference</code> is non-null, throwing a <code>VerifyException</code> with a default\n message otherwise."
+  summary: "Ensures that `reference` is non-null, throwing a `VerifyException` with a default message otherwise."
   parameters:
   - name: "reference"
     type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"
@@ -20,7 +20,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Verify.<T>verifyNotNull(T reference, String errorMessageTemplate, Object[] errorMessageArgs)"
   name: "<T>verifyNotNull(T reference, String errorMessageTemplate, Object[] errorMessageArgs)"
   nameWithType: "Verify.<T>verifyNotNull(T reference, String errorMessageTemplate, Object[] errorMessageArgs)"
-  summary: "Ensures that <code>reference</code> is non-null, throwing a <code>VerifyException</code> with a custom\n message otherwise."
+  summary: "Ensures that `reference` is non-null, throwing a `VerifyException` with a custom message otherwise."
   parameters:
   - name: "reference"
     type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"

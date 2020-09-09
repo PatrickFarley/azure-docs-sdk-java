@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithNetworkSubnet.withExistingPrimaryNetworkSubnet(Network network, String subnetName)"
   name: "withExistingPrimaryNetworkSubnet(Network network, String subnetName)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithNetworkSubnet.withExistingPrimaryNetworkSubnet(Network network, String subnetName)"
-  summary: "Associate an existing virtual network subnet with the primary network interface of the virtual machines\n in the scale set."
+  summary: "Associate an existing virtual network subnet with the primary network interface of the virtual machines in the scale set."
   parameters:
   - description: "an existing virtual network"
     name: "network"

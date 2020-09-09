@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.GalleryImageInner.osState()"
   name: "osState()"
   nameWithType: "GalleryImageInner.osState()"
-  summary: "Get the osState property: This property allows the user to specify whether the virtual machines created under\n this image are 'Generalized' or 'Specialized'."
+  summary: "Get the osState property: This property allows the user to specify whether the virtual machines created under this image are 'Generalized' or 'Specialized'."
   syntax: "public OperatingSystemStateTypes osState()"
   returns:
     description: "the osState value."

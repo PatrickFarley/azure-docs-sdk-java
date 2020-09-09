@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseInner.withZoneRedundant(Boolean zoneRedundant)"
   name: "withZoneRedundant(Boolean zoneRedundant)"
   nameWithType: "DatabaseInner.withZoneRedundant(Boolean zoneRedundant)"
-  summary: "Set the zoneRedundant property: Whether or not this database is zone redundant, which means the replicas of this\n database will be spread across multiple availability zones."
+  summary: "Set the zoneRedundant property: Whether or not this database is zone redundant, which means the replicas of this database will be spread across multiple availability zones."
   parameters:
   - description: "the zoneRedundant value to set."
     name: "zoneRedundant"

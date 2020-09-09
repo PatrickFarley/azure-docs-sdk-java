@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.setPath(String path)"
   name: "setPath(String path)"
   nameWithType: "HandleItem.setPath(String path)"
-  summary: "Set the path property: File or directory name including full path\n starting from share root."
+  summary: "Set the path property: File or directory name including full path starting from share root."
   parameters:
   - description: "the path value to set."
     name: "path"

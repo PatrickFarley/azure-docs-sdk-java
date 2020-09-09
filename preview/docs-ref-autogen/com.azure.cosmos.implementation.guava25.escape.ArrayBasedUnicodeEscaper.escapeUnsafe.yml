@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.escape.ArrayBasedUnicodeEscaper.escapeUnsafe(int cp)"
   name: "escapeUnsafe(int cp)"
   nameWithType: "ArrayBasedUnicodeEscaper.escapeUnsafe(int cp)"
-  summary: "Escapes a code point that has no direct explicit value in the replacement array and lies\n outside the stated safe range. Subclasses should override this method to provide generalized\n escaping for code points if required.\n\n <p>Note that arrays returned by this method must not be modified once they have been returned.\n However it is acceptable to return the same array multiple times (even for different input\n characters)."
+  summary: "Escapes a code point that has no direct explicit value in the replacement array and lies outside the stated safe range. Subclasses should override this method to provide generalized escaping for code points if required.\n\nNote that arrays returned by this method must not be modified once they have been returned. However it is acceptable to return the same array multiple times (even for different input characters)."
   parameters:
   - description: "the Unicode code point to escape"
     name: "cp"

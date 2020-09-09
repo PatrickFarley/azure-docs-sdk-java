@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.signInAudience()"
   name: "signInAudience()"
   nameWithType: "ApplicationInner.signInAudience()"
-  summary: "Get the signInAudience property: Audience for signing in to the application (AzureADMyOrganization,\n AzureADAllOrganizations, AzureADAndMicrosoftAccounts)."
+  summary: "Get the signInAudience property: Audience for signing in to the application (AzureADMyOrganization, AzureADAllOrganizations, AzureADAndMicrosoftAccounts)."
   syntax: "public String signInAudience()"
   returns:
     description: "the signInAudience value."

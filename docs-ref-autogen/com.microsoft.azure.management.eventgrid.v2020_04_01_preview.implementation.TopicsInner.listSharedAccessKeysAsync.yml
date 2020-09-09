@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listSharedAccessKeysAsync(String resourceGroupName, String topicName)"
   name: "listSharedAccessKeysAsync(String resourceGroupName, String topicName)"
   nameWithType: "TopicsInner.listSharedAccessKeysAsync(String resourceGroupName, String topicName)"
-  summary: "List keys for a topic.\n List the two keys used to publish to a topic."
+  summary: "List keys for a topic. List the two keys used to publish to a topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listSharedAccessKeysAsync(String resourceGroupName, String topicName, ServiceCallback<TopicSharedAccessKeysInner> serviceCallback)"
   name: "listSharedAccessKeysAsync(String resourceGroupName, String topicName, ServiceCallback<TopicSharedAccessKeysInner> serviceCallback)"
   nameWithType: "TopicsInner.listSharedAccessKeysAsync(String resourceGroupName, String topicName, ServiceCallback<TopicSharedAccessKeysInner> serviceCallback)"
-  summary: "List keys for a topic.\n List the two keys used to publish to a topic."
+  summary: "List keys for a topic. List the two keys used to publish to a topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

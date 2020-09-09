@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseInner.withSourceDatabaseId(String sourceDatabaseId)"
   name: "withSourceDatabaseId(String sourceDatabaseId)"
   nameWithType: "DatabaseInner.withSourceDatabaseId(String sourceDatabaseId)"
-  summary: "Set the sourceDatabaseId property: The resource identifier of the source database associated with create\n operation of this database."
+  summary: "Set the sourceDatabaseId property: The resource identifier of the source database associated with create operation of this database."
   parameters:
   - description: "the sourceDatabaseId value to set."
     name: "sourceDatabaseId"

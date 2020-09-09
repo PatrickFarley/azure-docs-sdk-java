@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.models.EncryptionAlgorithm.A192CBC_HS384"
   name: "A192CBC_HS384"
   nameWithType: "EncryptionAlgorithm.A192CBC_HS384"
-  summary: "Static value A192CBC_HS384 for EncryptionAlgorithm."
+  summary: "Static value A192CBC\\_HS384 for EncryptionAlgorithm."
   syntax: "public static final EncryptionAlgorithm A192CBC_HS384"
 type: "field"
 metadata: {}

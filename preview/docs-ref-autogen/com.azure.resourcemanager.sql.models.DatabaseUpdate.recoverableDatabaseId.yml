@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.DatabaseUpdate.recoverableDatabaseId()"
   name: "recoverableDatabaseId()"
   nameWithType: "DatabaseUpdate.recoverableDatabaseId()"
-  summary: "Get the recoverableDatabaseId property: The resource identifier of the recoverable database associated with\n create operation of this database."
+  summary: "Get the recoverableDatabaseId property: The resource identifier of the recoverable database associated with create operation of this database."
   syntax: "public String recoverableDatabaseId()"
   returns:
     description: "the recoverableDatabaseId value."

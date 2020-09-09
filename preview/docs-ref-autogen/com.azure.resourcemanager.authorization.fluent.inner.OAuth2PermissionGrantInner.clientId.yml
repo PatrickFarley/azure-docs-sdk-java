@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.OAuth2PermissionGrantInner.clientId()"
   name: "clientId()"
   nameWithType: "OAuth2PermissionGrantInner.clientId()"
-  summary: "Get the clientId property: The id of the resource's service principal granted consent to impersonate the user\n when accessing the resource (represented by the resourceId property)."
+  summary: "Get the clientId property: The id of the resource's service principal granted consent to impersonate the user when accessing the resource (represented by the resourceId property)."
   syntax: "public String clientId()"
   returns:
     description: "the clientId value."

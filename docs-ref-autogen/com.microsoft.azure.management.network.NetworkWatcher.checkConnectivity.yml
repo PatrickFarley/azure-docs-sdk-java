@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkWatcher.checkConnectivity()"
   name: "checkConnectivity()"
   nameWithType: "NetworkWatcher.checkConnectivity()"
-  summary: "Verifies the possibility of establishing a direct TCP connection from a virtual machine to a given endpoint\n including another virtual machine or an arbitrary remote server."
+  summary: "Verifies the possibility of establishing a direct TCP connection from a virtual machine to a given endpoint including another virtual machine or an arbitrary remote server."
   syntax: "public abstract ConnectivityCheck.DefinitionStages.ToDestination checkConnectivity()"
   returns:
     description: "a stage to specify parameters for connectivity check"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.getPermissionWithResponse(String filePermissionKey)"
   name: "getPermissionWithResponse(String filePermissionKey)"
   nameWithType: "ShareAsyncClient.getPermissionWithResponse(String filePermissionKey)"
-  summary: "Gets a permission for a given key.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n shareAsyncClient.getPermissionWithResponse&#40;&quot;filePermissionKey&quot;&#41;.subscribe&#40;\n     response -&gt; System.out.printf&#40;&quot;The file permission is %s&quot;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Gets a permission for a given key.\n\n**Code Samples**\n\n```java\nshareAsyncClient.getPermissionWithResponse(\"filePermissionKey\").subscribe(\n     response -> System.out.printf(\"The file permission is %s\", response.getValue()));\n```"
   parameters:
   - description: "The file permission key."
     name: "filePermissionKey"

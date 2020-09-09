@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.getKey()"
   name: "getKey()"
   nameWithType: "Pair<L,R>.getKey()"
-  summary: "<p>Gets the key from this pair.</p>\n\n <p>This method implements the <code>Map.Entry</code> interface returning the\n left element as the key.</p>"
+  summary: "Gets the key from this pair.\n\nThis method implements the `Map.Entry` interface returning the left element as the key."
   syntax: "public final L getKey()"
   returns:
     description: "the left element as the key, may be null"

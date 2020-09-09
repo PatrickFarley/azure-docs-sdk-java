@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.appconfiguration.models.SettingFields.fromString(String name)"
   name: "fromString(String name)"
   nameWithType: "SettingFields.fromString(String name)"
-  summary: "Creates or finds a <xref uid=\"SettingFields\" data-throw-if-not-resolved=\"false\">SettingFields</xref> from its string representation."
+  summary: "Creates or finds a <xref uid=\"com.azure.data.appconfiguration.models.SettingFields\" data-throw-if-not-resolved=\"false\">SettingFields</xref> from its string representation."
   parameters:
   - description: "a name to look for"
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.ListBlobsOptions.getPrefix()"
   name: "getPrefix()"
   nameWithType: "ListBlobsOptions.getPrefix()"
-  summary: "Filters the results to return only blobs whose names begin with the specified prefix. May be null to return all\n blobs."
+  summary: "Filters the results to return only blobs whose names begin with the specified prefix. May be null to return all blobs."
   syntax: "public String getPrefix()"
   returns:
     description: "the prefix that a blob must match to be returned in the listing"

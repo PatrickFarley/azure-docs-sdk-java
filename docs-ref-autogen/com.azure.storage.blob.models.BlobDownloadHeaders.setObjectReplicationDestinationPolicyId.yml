@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.setObjectReplicationDestinationPolicyId(String objectReplicationDestinationPolicyId)"
   name: "setObjectReplicationDestinationPolicyId(String objectReplicationDestinationPolicyId)"
   nameWithType: "BlobDownloadHeaders.setObjectReplicationDestinationPolicyId(String objectReplicationDestinationPolicyId)"
-  summary: "Set the objectReplicationDestinationPolicyId property: Optional. Only\n valid when Object Replication is enabled for the storage container and\n on the destination blob of the replication."
+  summary: "Set the objectReplicationDestinationPolicyId property: Optional. Only valid when Object Replication is enabled for the storage container and on the destination blob of the replication."
   parameters:
   - description: "the\n objectReplicationDestinationPolicyId value to set."
     name: "objectReplicationDestinationPolicyId"

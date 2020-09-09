@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.training.FormTrainingAsyncClient.getFormRecognizerAsyncClient()"
   name: "getFormRecognizerAsyncClient()"
   nameWithType: "FormTrainingAsyncClient.getFormRecognizerAsyncClient()"
-  summary: "Creates a new <xref uid=\"FormRecognizerAsyncClient\" data-throw-if-not-resolved=\"false\">FormRecognizerAsyncClient</xref> object. The new <code>FormTrainingAsyncClient</code>\n uses the same request policy pipeline as the <code>FormTrainingAsyncClient</code>."
+  summary: "Creates a new <xref uid=\"com.azure.ai.formrecognizer.FormRecognizerAsyncClient\" data-throw-if-not-resolved=\"false\">FormRecognizerAsyncClient</xref> object. The new `FormTrainingAsyncClient` uses the same request policy pipeline as the `FormTrainingAsyncClient`."
   syntax: "public FormRecognizerAsyncClient getFormRecognizerAsyncClient()"
   returns:
     description: "A new <xref uid=\"com.azure.ai.formrecognizer.FormRecognizerAsyncClient\" data-throw-if-not-resolved=\"false\">FormRecognizerAsyncClient</xref> object."

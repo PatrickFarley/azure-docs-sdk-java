@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.oauth2Permissions()"
   name: "oauth2Permissions()"
   nameWithType: "ApplicationInner.oauth2Permissions()"
-  summary: "Get the oauth2Permissions property: The collection of OAuth 2.0 permission scopes that the web API (resource)\n application exposes to client applications. These permission scopes may be granted to client applications during\n consent."
+  summary: "Get the oauth2Permissions property: The collection of OAuth 2.0 permission scopes that the web API (resource) application exposes to client applications. These permission scopes may be granted to client applications during consent."
   syntax: "public List<OAuth2Permission> oauth2Permissions()"
   returns:
     description: "the oauth2Permissions value."

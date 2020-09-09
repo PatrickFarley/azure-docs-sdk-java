@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.specialized.ShareLeaseAsyncClient.acquireLeaseWithResponse()"
   name: "acquireLeaseWithResponse()"
   nameWithType: "ShareLeaseAsyncClient.acquireLeaseWithResponse()"
-  summary: "Acquires a lease for write and delete operations. All leases are infinite.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.acquireLeaseWithResponse&#40;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Lease ID is %s%n&quot;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Acquires a lease for write and delete operations. All leases are infinite.\n\n**Code Samples**\n\n```java\nclient.acquireLeaseWithResponse().subscribe(response ->\n     System.out.printf(\"Lease ID is %s%n\", response.getValue()));\n```"
   syntax: "public Mono<Response<String>> acquireLeaseWithResponse()"
   returns:
     description: "A reactive response containing the lease ID."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.implementation.models.SchemaGroup.getGroupProperties()"
   name: "getGroupProperties()"
   nameWithType: "SchemaGroup.getGroupProperties()"
-  summary: "Get the groupProperties property: Dictionary of &lt;string&gt;."
+  summary: "Get the groupProperties property: Dictionary of <string>."
   syntax: "public Map<String,String> getGroupProperties()"
   returns:
     description: "the groupProperties value."

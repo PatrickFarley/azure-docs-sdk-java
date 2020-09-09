@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetOSProfile.withComputerNamePrefix(String computerNamePrefix)"
   name: "withComputerNamePrefix(String computerNamePrefix)"
   nameWithType: "VirtualMachineScaleSetOSProfile.withComputerNamePrefix(String computerNamePrefix)"
-  summary: "Set the computerNamePrefix property: Specifies the computer name prefix for all of the virtual machines in the\n scale set. Computer name prefixes must be 1 to 15 characters long."
+  summary: "Set the computerNamePrefix property: Specifies the computer name prefix for all of the virtual machines in the scale set. Computer name prefixes must be 1 to 15 characters long."
   parameters:
   - description: "the computerNamePrefix value to set."
     name: "computerNamePrefix"

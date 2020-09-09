@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.CollectionUtils.<T>emptyCollection()"
   name: "<T>emptyCollection()"
   nameWithType: "CollectionUtils.<T>emptyCollection()"
-  summary: "Returns the immutable EMPTY_COLLECTION with generic type safety."
+  summary: "Returns the immutable EMPTY\\_COLLECTION with generic type safety."
   syntax: "public static Collection<T> <T>emptyCollection()"
   returns:
     description: "immutable empty collection"

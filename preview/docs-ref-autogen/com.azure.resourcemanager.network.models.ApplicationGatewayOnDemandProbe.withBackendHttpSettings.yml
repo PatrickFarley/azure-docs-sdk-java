@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayOnDemandProbe.withBackendHttpSettings(SubResource backendHttpSettings)"
   name: "withBackendHttpSettings(SubResource backendHttpSettings)"
   nameWithType: "ApplicationGatewayOnDemandProbe.withBackendHttpSettings(SubResource backendHttpSettings)"
-  summary: "Set the backendHttpSettings property: Reference of backend http setting of application gateway to be used for\n test probe."
+  summary: "Set the backendHttpSettings property: Reference of backend http setting of application gateway to be used for test probe."
   parameters:
   - description: "the backendHttpSettings value to set."
     name: "backendHttpSettings"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClient.getFileSystemName()"
   name: "getFileSystemName()"
   nameWithType: "DataLakeFileSystemClient.getFileSystemName()"
-  summary: "Get the file system name.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n String fileSystemName = client.getFileSystemName&#40;&#41;;\n System.out.println&#40;&quot;The name of the file system is &quot; + fileSystemName&#41;;\n </pre>"
+  summary: "Get the file system name.\n\n**Code Samples**\n\n```java\nString fileSystemName = client.getFileSystemName();\n System.out.println(\"The name of the file system is \" + fileSystemName);\n```"
   syntax: "public String getFileSystemName()"
   returns:
     description: "The name of file system."

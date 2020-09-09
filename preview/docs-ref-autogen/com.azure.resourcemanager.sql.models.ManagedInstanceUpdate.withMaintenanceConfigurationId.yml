@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedInstanceUpdate.withMaintenanceConfigurationId(String maintenanceConfigurationId)"
   name: "withMaintenanceConfigurationId(String maintenanceConfigurationId)"
   nameWithType: "ManagedInstanceUpdate.withMaintenanceConfigurationId(String maintenanceConfigurationId)"
-  summary: "Set the maintenanceConfigurationId property: Specifies maintenance configuration id to apply to this managed\n instance."
+  summary: "Set the maintenanceConfigurationId property: Specifies maintenance configuration id to apply to this managed instance."
   parameters:
   - description: "the maintenanceConfigurationId value to set."
     name: "maintenanceConfigurationId"

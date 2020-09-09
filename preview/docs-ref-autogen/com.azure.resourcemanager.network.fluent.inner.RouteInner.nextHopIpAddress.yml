@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.RouteInner.nextHopIpAddress()"
   name: "nextHopIpAddress()"
   nameWithType: "RouteInner.nextHopIpAddress()"
-  summary: "Get the nextHopIpAddress property: The IP address packets should be forwarded to. Next hop values are only\n allowed in routes where the next hop type is VirtualAppliance."
+  summary: "Get the nextHopIpAddress property: The IP address packets should be forwarded to. Next hop values are only allowed in routes where the next hop type is VirtualAppliance."
   syntax: "public String nextHopIpAddress()"
   returns:
     description: "the nextHopIpAddress value."

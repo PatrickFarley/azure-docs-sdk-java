@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.ResourceSkuInner.locationInfo()"
   name: "locationInfo()"
   nameWithType: "ResourceSkuInner.locationInfo()"
-  summary: "Get the locationInfo property: A list of locations and availability zones in those locations where the SKU is\n available."
+  summary: "Get the locationInfo property: A list of locations and availability zones in those locations where the SKU is available."
   syntax: "public List<ResourceSkuLocationInfo> locationInfo()"
   returns:
     description: "the locationInfo value."

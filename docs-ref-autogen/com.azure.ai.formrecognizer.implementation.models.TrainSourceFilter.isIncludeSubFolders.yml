@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.TrainSourceFilter.isIncludeSubFolders()"
   name: "isIncludeSubFolders()"
   nameWithType: "TrainSourceFilter.isIncludeSubFolders()"
-  summary: "Get the includeSubFolders property: A flag to indicate if sub folders within the set of prefix folders will also\n need to be included when searching for content to be preprocessed."
+  summary: "Get the includeSubFolders property: A flag to indicate if sub folders within the set of prefix folders will also need to be included when searching for content to be preprocessed."
   syntax: "public Boolean isIncludeSubFolders()"
   returns:
     description: "the includeSubFolders value."

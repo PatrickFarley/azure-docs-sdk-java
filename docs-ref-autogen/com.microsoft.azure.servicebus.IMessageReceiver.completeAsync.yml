@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.completeAsync(UUID lockToken)"
   name: "completeAsync(UUID lockToken)"
   nameWithType: "IMessageReceiver.completeAsync(UUID lockToken)"
-  summary: "Asynchronously completes a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
+  summary: "Asynchronously completes a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageReceiver.completeAsync(UUID lockToken, TransactionContext transaction)"
   name: "completeAsync(UUID lockToken, TransactionContext transaction)"
   nameWithType: "IMessageReceiver.completeAsync(UUID lockToken, TransactionContext transaction)"
-  summary: "Asynchronously completes a <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
+  summary: "Asynchronously completes a <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Message lock token <xref uid=\"com.microsoft.azure.servicebus.Message.getLockToken()\" data-throw-if-not-resolved=\"false\">Message#getLockToken()</xref>"
     name: "lockToken"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayBackendHttpSettings.path()"
   name: "path()"
   nameWithType: "ApplicationGatewayBackendHttpSettings.path()"
-  summary: "Get the path property: Path which should be used as a prefix for all HTTP requests. Null means no path will be\n prefixed. Default value is null."
+  summary: "Get the path property: Path which should be used as a prefix for all HTTP requests. Null means no path will be prefixed. Default value is null."
   syntax: "public String path()"
   returns:
     description: "the path value."

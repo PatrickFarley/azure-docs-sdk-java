@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosDatabase.createContainerIfNotExists(CosmosContainerProperties containerProperties, ThroughputProperties throughputProperties)"
   name: "createContainerIfNotExists(CosmosContainerProperties containerProperties, ThroughputProperties throughputProperties)"
   nameWithType: "CosmosDatabase.createContainerIfNotExists(CosmosContainerProperties containerProperties, ThroughputProperties throughputProperties)"
-  summary: "Creates a Cosmos container if one matching the id in the properties object does not exist.\n <p>\n The throughput properties will only be used if the specified container\n does not exist and therefor a new container will be created."
+  summary: "Creates a Cosmos container if one matching the id in the properties object does not exist.\n\nThe throughput properties will only be used if the specified container does not exist and therefor a new container will be created."
   parameters:
   - description: "the container properties."
     name: "containerProperties"
@@ -53,7 +53,7 @@ members:
   fullName: "com.azure.cosmos.CosmosDatabase.createContainerIfNotExists(String id, String partitionKeyPath, ThroughputProperties throughputProperties)"
   name: "createContainerIfNotExists(String id, String partitionKeyPath, ThroughputProperties throughputProperties)"
   nameWithType: "CosmosDatabase.createContainerIfNotExists(String id, String partitionKeyPath, ThroughputProperties throughputProperties)"
-  summary: "Creates a Cosmos container if one matching the id does not exist.\n <p>\n The throughput properties will only be used if the specified container\n does not exist and therefor a new container will be created."
+  summary: "Creates a Cosmos container if one matching the id does not exist.\n\nThe throughput properties will only be used if the specified container does not exist and therefor a new container will be created."
   parameters:
   - description: "the id."
     name: "id"

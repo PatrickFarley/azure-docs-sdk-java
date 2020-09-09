@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.getSynonymMap(String synonymMapName)"
   name: "getSynonymMap(String synonymMapName)"
   nameWithType: "SearchIndexClient.getSynonymMap(String synonymMapName)"
-  summary: "Retrieves a synonym map definition.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get synonym map with name \"synonymMap\". </p>\n\n <pre>\n SynonymMap synonymMapFromService =\n     searchIndexClient.getSynonymMap&#40;&quot;synonymMap&quot;&#41;;\n System.out.printf&#40;&quot;The synonym map is %s. The etag of synonym map is %s.%n&quot;, synonymMapFromService.getName&#40;&#41;,\n     synonymMapFromService.getETag&#40;&#41;&#41;;\n </pre>"
+  summary: "Retrieves a synonym map definition.\n\n**Code Sample**\n\nGet synonym map with name \"synonymMap\".\n\n```java\nSynonymMap synonymMapFromService =\n     searchIndexClient.getSynonymMap(\"synonymMap\");\n System.out.printf(\"The synonym map is %s. The etag of synonym map is %s.%n\", synonymMapFromService.getName(),\n     synonymMapFromService.getETag());\n```"
   parameters:
   - description: "name of the synonym map to retrieve"
     name: "synonymMapName"

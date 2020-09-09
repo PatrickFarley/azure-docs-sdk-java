@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StackMajorVersion.isHidden()"
   name: "isHidden()"
   nameWithType: "StackMajorVersion.isHidden()"
-  summary: "Get the isHidden property: &lt;code&gt;true&lt;/code&gt; if this stack should be hidden for new customers on\n portal, otherwise &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the isHidden property: <code>true</code> if this stack should be hidden for new customers on portal, otherwise <code>false</code>."
   syntax: "public Boolean isHidden()"
   returns:
     description: "the isHidden value."

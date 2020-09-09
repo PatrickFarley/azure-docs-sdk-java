@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.queryUserDefinedFunctions(String collectionLink, SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   name: "queryUserDefinedFunctions(String collectionLink, SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   nameWithType: "AsyncDocumentClient.queryUserDefinedFunctions(String collectionLink, SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
-  summary: "Query for user defined functions.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the obtained user defined functions.\n In case of failure the <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
+  summary: "Query for user defined functions.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the obtained user defined functions. In case of failure the <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
   parameters:
   - description: "the collection link."
     name: "collectionLink"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.queryUserDefinedFunctions(String collectionLink, String query, CosmosQueryRequestOptions options)"
   name: "queryUserDefinedFunctions(String collectionLink, String query, CosmosQueryRequestOptions options)"
   nameWithType: "AsyncDocumentClient.queryUserDefinedFunctions(String collectionLink, String query, CosmosQueryRequestOptions options)"
-  summary: "Query for user defined functions.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the obtained user defined functions.\n In case of failure the <xref uid=\"Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
+  summary: "Query for user defined functions.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will contain one or several feed response pages of the obtained user defined functions. In case of failure the <xref uid=\"reactor.core.publisher.Flux\" data-throw-if-not-resolved=\"false\">Flux</xref> will error."
   parameters:
   - description: "the collection link."
     name: "collectionLink"

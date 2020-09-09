@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseInner.pausedDate()"
   name: "pausedDate()"
   nameWithType: "DatabaseInner.pausedDate()"
-  summary: "Get the pausedDate property: The date when database was paused by user configuration or action (ISO8601 format).\n Null if the database is ready."
+  summary: "Get the pausedDate property: The date when database was paused by user configuration or action (ISO8601 format). Null if the database is ready."
   syntax: "public OffsetDateTime pausedDate()"
   returns:
     description: "the pausedDate value."

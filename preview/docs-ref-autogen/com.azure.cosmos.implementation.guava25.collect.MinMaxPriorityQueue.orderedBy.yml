@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MinMaxPriorityQueue<E>.<B>orderedBy(Comparator<B> comparator)"
   name: "<B>orderedBy(Comparator<B> comparator)"
   nameWithType: "MinMaxPriorityQueue<E>.<B>orderedBy(Comparator<B> comparator)"
-  summary: "Creates and returns a new builder, configured to build <code>MinMaxPriorityQueue</code> instances\n that use <code>comparator</code> to determine the least and greatest elements."
+  summary: "Creates and returns a new builder, configured to build `MinMaxPriorityQueue` instances that use `comparator` to determine the least and greatest elements."
   parameters:
   - name: "comparator"
     type: "<xref href=\"java.util.Comparator?alt=java.util.Comparator&text=Comparator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"B?alt=B&text=B\" data-throw-if-not-resolved=\"False\" />&gt;"

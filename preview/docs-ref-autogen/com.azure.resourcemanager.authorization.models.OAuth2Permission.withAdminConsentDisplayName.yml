@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.OAuth2Permission.withAdminConsentDisplayName(String adminConsentDisplayName)"
   name: "withAdminConsentDisplayName(String adminConsentDisplayName)"
   nameWithType: "OAuth2Permission.withAdminConsentDisplayName(String adminConsentDisplayName)"
-  summary: "Set the adminConsentDisplayName property: Display name for the permission that appears in the admin consent and\n app assignment experiences."
+  summary: "Set the adminConsentDisplayName property: Display name for the permission that appears in the admin consent and app assignment experiences."
   parameters:
   - description: "the adminConsentDisplayName value to set."
     name: "adminConsentDisplayName"

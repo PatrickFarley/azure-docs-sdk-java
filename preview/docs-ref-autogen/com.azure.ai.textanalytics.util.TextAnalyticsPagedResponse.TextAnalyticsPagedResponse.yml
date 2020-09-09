@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.util.TextAnalyticsPagedResponse<T>.TextAnalyticsPagedResponse(HttpRequest request, int statusCode, HttpHeaders headers, List<T> items, String continuationToken, String modelVersion, TextDocumentBatchStatistics statistics)"
   name: "TextAnalyticsPagedResponse(HttpRequest request, int statusCode, HttpHeaders headers, List<T> items, String continuationToken, String modelVersion, TextDocumentBatchStatistics statistics)"
   nameWithType: "TextAnalyticsPagedResponse<T>.TextAnalyticsPagedResponse(HttpRequest request, int statusCode, HttpHeaders headers, List<T> items, String continuationToken, String modelVersion, TextDocumentBatchStatistics statistics)"
-  summary: "Create a new instance of the <xref uid=\"TextAnalyticsPagedResponse\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedResponse</xref>."
+  summary: "Create a new instance of the <xref uid=\"com.azure.ai.textanalytics.util.TextAnalyticsPagedResponse\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedResponse</xref>."
   parameters:
   - description: "The HttpRequest that was sent to the service whose response resulted in this response."
     name: "request"

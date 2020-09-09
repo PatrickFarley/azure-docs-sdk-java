@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.serializer.HttpResponseDecoder.HttpDecodedResponse.getDecodedHeaders()"
   name: "getDecodedHeaders()"
   nameWithType: "HttpResponseDecoder.HttpDecodedResponse.getDecodedHeaders()"
-  summary: "Gets the publisher when subscribed the http header gets decoded and emitted.\n <code>Mono.empty()</code> gets emitted if the headers are not decodable."
+  summary: "Gets the publisher when subscribed the http header gets decoded and emitted. `Mono.empty()` gets emitted if the headers are not decodable."
   syntax: "public Mono<Object> getDecodedHeaders()"
   returns:
     description: "publisher that emits entity instance representing decoded http headers"

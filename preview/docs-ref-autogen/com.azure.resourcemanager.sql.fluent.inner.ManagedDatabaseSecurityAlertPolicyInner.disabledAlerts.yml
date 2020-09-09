@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedDatabaseSecurityAlertPolicyInner.disabledAlerts()"
   name: "disabledAlerts()"
   nameWithType: "ManagedDatabaseSecurityAlertPolicyInner.disabledAlerts()"
-  summary: "Get the disabledAlerts property: Specifies an array of alerts that are disabled. Allowed values are:\n Sql_Injection, Sql_Injection_Vulnerability, Access_Anomaly, Data_Exfiltration, Unsafe_Action."
+  summary: "Get the disabledAlerts property: Specifies an array of alerts that are disabled. Allowed values are: Sql\\_Injection, Sql\\_Injection\\_Vulnerability, Access\\_Anomaly, Data\\_Exfiltration, Unsafe\\_Action."
   syntax: "public List<String> disabledAlerts()"
   returns:
     description: "the disabledAlerts value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobQueryHeaders.setBlobType(BlobType blobType)"
   name: "setBlobType(BlobType blobType)"
   nameWithType: "BlobQueryHeaders.setBlobType(BlobType blobType)"
-  summary: "Set the blobType property: The blob's type. Possible values include:\n 'BlockBlob', 'PageBlob', 'AppendBlob'."
+  summary: "Set the blobType property: The blob's type. Possible values include: 'BlockBlob', 'PageBlob', 'AppendBlob'."
   parameters:
   - description: "the blobType value to set."
     name: "blobType"

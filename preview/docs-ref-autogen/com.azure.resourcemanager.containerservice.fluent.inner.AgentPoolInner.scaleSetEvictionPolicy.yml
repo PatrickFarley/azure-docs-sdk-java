@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.AgentPoolInner.scaleSetEvictionPolicy()"
   name: "scaleSetEvictionPolicy()"
   nameWithType: "AgentPoolInner.scaleSetEvictionPolicy()"
-  summary: "Get the scaleSetEvictionPolicy property: ScaleSetEvictionPolicy to be used to specify eviction policy for low\n priority virtual machine scale set. Default to Delete."
+  summary: "Get the scaleSetEvictionPolicy property: ScaleSetEvictionPolicy to be used to specify eviction policy for low priority virtual machine scale set. Default to Delete."
   syntax: "public ScaleSetEvictionPolicy scaleSetEvictionPolicy()"
   returns:
     description: "the scaleSetEvictionPolicy value."

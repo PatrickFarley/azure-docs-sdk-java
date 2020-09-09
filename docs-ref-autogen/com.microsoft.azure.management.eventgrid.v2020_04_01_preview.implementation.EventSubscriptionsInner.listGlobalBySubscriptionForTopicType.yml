@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalBySubscriptionForTopicType(String topicTypeName)"
   name: "listGlobalBySubscriptionForTopicType(String topicTypeName)"
   nameWithType: "EventSubscriptionsInner.listGlobalBySubscriptionForTopicType(String topicTypeName)"
-  summary: "List all global event subscriptions for a topic type.\n List all global event subscriptions under an Azure subscription for a topic type."
+  summary: "List all global event subscriptions for a topic type. List all global event subscriptions under an Azure subscription for a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalBySubscriptionForTopicType(String topicTypeName, String filter, Integer top)"
   name: "listGlobalBySubscriptionForTopicType(String topicTypeName, String filter, Integer top)"
   nameWithType: "EventSubscriptionsInner.listGlobalBySubscriptionForTopicType(String topicTypeName, String filter, Integer top)"
-  summary: "List all global event subscriptions for a topic type.\n List all global event subscriptions under an Azure subscription for a topic type."
+  summary: "List all global event subscriptions for a topic type. List all global event subscriptions under an Azure subscription for a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"

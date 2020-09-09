@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.DockerBuildStepUpdateParameters.withIsPushEnabled(Boolean isPushEnabled)"
   name: "withIsPushEnabled(Boolean isPushEnabled)"
   nameWithType: "DockerBuildStepUpdateParameters.withIsPushEnabled(Boolean isPushEnabled)"
-  summary: "Set the isPushEnabled property: The value of this property indicates whether the image built should be pushed to\n the registry or not."
+  summary: "Set the isPushEnabled property: The value of this property indicates whether the image built should be pushed to the registry or not."
   parameters:
   - description: "the isPushEnabled value to set."
     name: "isPushEnabled"

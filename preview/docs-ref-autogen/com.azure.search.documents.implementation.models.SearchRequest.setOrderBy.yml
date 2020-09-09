@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.setOrderBy(String orderBy)"
   name: "setOrderBy(String orderBy)"
   nameWithType: "SearchRequest.setOrderBy(String orderBy)"
-  summary: "Set the orderBy property: The comma-separated list of OData $orderby expressions by which to sort the results.\n Each expression can be either a field name or a call to either the geo.distance() or the search.score()\n functions. Each expression can be followed by asc to indicate ascending, or desc to indicate descending. The\n default is ascending order. Ties will be broken by the match scores of documents. If no $orderby is specified,\n the default sort order is descending by document match score. There can be at most 32 $orderby clauses."
+  summary: "Set the orderBy property: The comma-separated list of OData $orderby expressions by which to sort the results. Each expression can be either a field name or a call to either the geo.distance() or the search.score() functions. Each expression can be followed by asc to indicate ascending, or desc to indicate descending. The default is ascending order. Ties will be broken by the match scores of documents. If no $orderby is specified, the default sort order is descending by document match score. There can be at most 32 $orderby clauses."
   parameters:
   - description: "the orderBy value to set."
     name: "orderBy"

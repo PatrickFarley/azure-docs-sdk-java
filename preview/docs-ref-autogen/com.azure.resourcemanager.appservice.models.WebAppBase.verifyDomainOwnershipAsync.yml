@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.verifyDomainOwnershipAsync(String certificateOrderName, String domainVerificationToken)"
   name: "verifyDomainOwnershipAsync(String certificateOrderName, String domainVerificationToken)"
   nameWithType: "WebAppBase.verifyDomainOwnershipAsync(String certificateOrderName, String domainVerificationToken)"
-  summary: "Verifies the ownership of the domain for a certificate order by verifying a hostname of the domain is bound to\n this web app."
+  summary: "Verifies the ownership of the domain for a certificate order by verifying a hostname of the domain is bound to this web app."
   parameters:
   - description: "the name of the certificate order"
     name: "certificateOrderName"

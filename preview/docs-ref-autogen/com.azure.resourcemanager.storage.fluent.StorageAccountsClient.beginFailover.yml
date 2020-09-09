@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.beginFailover(String resourceGroupName, String accountName)"
   name: "beginFailover(String resourceGroupName, String accountName)"
   nameWithType: "StorageAccountsClient.beginFailover(String resourceGroupName, String accountName)"
-  summary: "Failover request can be triggered for a storage account in case of availability issues. The failover occurs from\n the storage account's primary cluster to secondary cluster for RA-GRS accounts. The secondary cluster will become\n primary after failover."
+  summary: "Failover request can be triggered for a storage account in case of availability issues. The failover occurs from the storage account's primary cluster to secondary cluster for RA-GRS accounts. The secondary cluster will become primary after failover."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.StorageAccountsClient.beginFailover(String resourceGroupName, String accountName, Context context)"
   name: "beginFailover(String resourceGroupName, String accountName, Context context)"
   nameWithType: "StorageAccountsClient.beginFailover(String resourceGroupName, String accountName, Context context)"
-  summary: "Failover request can be triggered for a storage account in case of availability issues. The failover occurs from\n the storage account's primary cluster to secondary cluster for RA-GRS accounts. The secondary cluster will become\n primary after failover."
+  summary: "Failover request can be triggered for a storage account in case of availability issues. The failover occurs from the storage account's primary cluster to secondary cluster for RA-GRS accounts. The secondary cluster will become primary after failover."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

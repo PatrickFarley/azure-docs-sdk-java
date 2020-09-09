@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueServiceAsyncClient.createQueueWithResponse(String queueName, Map<String,String> metadata)"
   name: "createQueueWithResponse(String queueName, Map<String,String> metadata)"
   nameWithType: "QueueServiceAsyncClient.createQueueWithResponse(String queueName, Map<String,String> metadata)"
-  summary: "Creates a queue in the storage account with the specified name and metadata and returns a QueueAsyncClient to\n interact with it.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the queue \"test\" with metadata \"queue:metadata\"</p>\n\n <pre>\n client.createQueueWithResponse&#40;&quot;myqueue&quot;, Collections.singletonMap&#40;&quot;queue&quot;, &quot;metadata&quot;&#41;&#41;\n     .subscribe&#40;\n         response -&gt; System.out.printf&#40;&quot;Creating the queue with status code %d&quot;, response.getStatusCode&#40;&#41;&#41;,\n         error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n         &#40;&#41; -&gt; System.out.println&#40;&quot;Complete creating the queue!&quot;&#41;\n     &#41;;\n </pre>"
+  summary: "Creates a queue in the storage account with the specified name and metadata and returns a QueueAsyncClient to interact with it.\n\n**Code Samples**\n\nCreate the queue \"test\" with metadata \"queue:metadata\"\n\n```java\nclient.createQueueWithResponse(\"myqueue\", Collections.singletonMap(\"queue\", \"metadata\"))\n     .subscribe(\n         response -> System.out.printf(\"Creating the queue with status code %d\", response.getStatusCode()),\n         error -> System.err.print(error.toString()),\n         () -> System.out.println(\"Complete creating the queue!\")\n     );\n```"
   parameters:
   - description: "Name of the queue"
     name: "queueName"

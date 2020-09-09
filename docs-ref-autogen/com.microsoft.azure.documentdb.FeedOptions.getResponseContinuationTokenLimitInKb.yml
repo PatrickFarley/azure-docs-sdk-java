@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.FeedOptions.getResponseContinuationTokenLimitInKb()"
   name: "getResponseContinuationTokenLimitInKb()"
   nameWithType: "FeedOptions.getResponseContinuationTokenLimitInKb()"
-  summary: "Gets the ResponseContinuationTokenLimitInKb request option for document query requests\n in the Azure Cosmos DB service. If not already set returns 0.\n\n ResponseContinuationTokenLimitInKb is used to limit the length of continuation token in the query response.\n Valid values are &gt;= 1."
+  summary: "Gets the ResponseContinuationTokenLimitInKb request option for document query requests in the Azure Cosmos DB service. If not already set returns 0. ResponseContinuationTokenLimitInKb is used to limit the length of continuation token in the query response. Valid values are >= 1."
   syntax: "public int getResponseContinuationTokenLimitInKb()"
   returns:
     description: "return set ResponseContinuationTokenLimitInKb, or 0 if not set"

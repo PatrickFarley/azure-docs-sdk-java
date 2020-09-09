@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerSkill.getDescription()"
   name: "getDescription()"
   nameWithType: "SearchIndexerSkill.getDescription()"
-  summary: "Get the description property: The description of the skill which\n describes the inputs, outputs, and usage of the skill."
+  summary: "Get the description property: The description of the skill which describes the inputs, outputs, and usage of the skill."
   syntax: "public String getDescription()"
   returns:
     description: "the description value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getLastModified()"
   name: "getLastModified()"
   nameWithType: "ShareFileDownloadHeaders.getLastModified()"
-  summary: "Get the lastModified property: Returns the date and time the file was\n last modified. Any operation that modifies the file or its properties\n updates the last modified time."
+  summary: "Get the lastModified property: Returns the date and time the file was last modified. Any operation that modifies the file or its properties updates the last modified time."
   syntax: "public OffsetDateTime getLastModified()"
   returns:
     description: "the lastModified value."

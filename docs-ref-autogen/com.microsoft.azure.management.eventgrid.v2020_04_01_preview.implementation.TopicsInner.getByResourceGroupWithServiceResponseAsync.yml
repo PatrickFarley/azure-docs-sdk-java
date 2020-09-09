@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.getByResourceGroupWithServiceResponseAsync(String resourceGroupName, String topicName)"
   name: "getByResourceGroupWithServiceResponseAsync(String resourceGroupName, String topicName)"
   nameWithType: "TopicsInner.getByResourceGroupWithServiceResponseAsync(String resourceGroupName, String topicName)"
-  summary: "Get a topic.\n Get properties of a topic."
+  summary: "Get a topic. Get properties of a topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

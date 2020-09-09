@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerProfile.DefinitionStages.WithLeafDomainLabel.withLeafDomainLabel(String dnsLabel)"
   name: "withLeafDomainLabel(String dnsLabel)"
   nameWithType: "TrafficManagerProfile.DefinitionStages.WithLeafDomainLabel.withLeafDomainLabel(String dnsLabel)"
-  summary: "Specify the relative DNS name of the profile.\n <p>\n The fully qualified domain name (FQDN)\n will be constructed automatically by appending the rest of the domain to this label."
+  summary: "Specify the relative DNS name of the profile.\n\nThe fully qualified domain name (FQDN) will be constructed automatically by appending the rest of the domain to this label."
   parameters:
   - description: "the relative DNS name of the profile"
     name: "dnsLabel"

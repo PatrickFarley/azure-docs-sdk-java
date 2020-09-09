@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.transport.amqps.AmqpFeedbackReceivedHandler.AmqpFeedbackReceivedHandler(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, AmqpFeedbackReceivedEvent amqpFeedbackReceivedEvent)"
   name: "AmqpFeedbackReceivedHandler(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, AmqpFeedbackReceivedEvent amqpFeedbackReceivedEvent)"
   nameWithType: "AmqpFeedbackReceivedHandler.AmqpFeedbackReceivedHandler(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, AmqpFeedbackReceivedEvent amqpFeedbackReceivedEvent)"
-  summary: "Constructor to set up connection parameters and initialize\n handshaker and flow controller for transport"
+  summary: "Constructor to set up connection parameters and initialize handshaker and flow controller for transport"
   parameters:
   - description: "The address string of the service (example: AAA.BBB.CCC)"
     name: "hostName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.transport.amqps.AmqpFeedbackReceivedHandler.AmqpFeedbackReceivedHandler(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, AmqpFeedbackReceivedEvent amqpFeedbackReceivedEvent, ProxyOptions proxyOptions)"
   name: "AmqpFeedbackReceivedHandler(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, AmqpFeedbackReceivedEvent amqpFeedbackReceivedEvent, ProxyOptions proxyOptions)"
   nameWithType: "AmqpFeedbackReceivedHandler.AmqpFeedbackReceivedHandler(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, AmqpFeedbackReceivedEvent amqpFeedbackReceivedEvent, ProxyOptions proxyOptions)"
-  summary: "Constructor to set up connection parameters and initialize\n handshaker and flow controller for transport"
+  summary: "Constructor to set up connection parameters and initialize handshaker and flow controller for transport"
   parameters:
   - description: "The address string of the service (example: AAA.BBB.CCC)"
     name: "hostName"

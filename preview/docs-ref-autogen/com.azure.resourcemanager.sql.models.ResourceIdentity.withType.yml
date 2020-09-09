@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ResourceIdentity.withType(IdentityType type)"
   name: "withType(IdentityType type)"
   nameWithType: "ResourceIdentity.withType(IdentityType type)"
-  summary: "Set the type property: The identity type. Set this to 'SystemAssigned' in order to automatically create and\n assign an Azure Active Directory principal for the resource."
+  summary: "Set the type property: The identity type. Set this to 'SystemAssigned' in order to automatically create and assign an Azure Active Directory principal for the resource."
   parameters:
   - description: "the type value to set."
     name: "type"

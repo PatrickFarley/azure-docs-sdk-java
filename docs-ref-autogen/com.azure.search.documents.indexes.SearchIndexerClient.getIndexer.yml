@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.getIndexer(String indexerName)"
   name: "getIndexer(String indexerName)"
   nameWithType: "SearchIndexerClient.getIndexer(String indexerName)"
-  summary: "Retrieves an indexer definition.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search indexer with name \"searchIndexer\". </p>\n\n <pre>\n SearchIndexer indexerFromService =\n     searchIndexerClient.getIndexer&#40;&quot;searchIndexer&quot;&#41;;\n System.out.printf&#40;&quot;The indexer name is %s. The etag of indexer is %s.%n&quot;, indexerFromService.getName&#40;&#41;,\n     indexerFromService.getETag&#40;&#41;&#41;;\n </pre>"
+  summary: "Retrieves an indexer definition.\n\n**Code Sample**\n\nGet search indexer with name \"searchIndexer\".\n\n```java\nSearchIndexer indexerFromService =\n     searchIndexerClient.getIndexer(\"searchIndexer\");\n System.out.printf(\"The indexer name is %s. The etag of indexer is %s.%n\", indexerFromService.getName(),\n     indexerFromService.getETag());\n```"
   parameters:
   - description: "the name of the indexer to retrieve"
     name: "indexerName"

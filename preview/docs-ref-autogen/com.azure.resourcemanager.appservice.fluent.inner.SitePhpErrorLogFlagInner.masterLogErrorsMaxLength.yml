@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SitePhpErrorLogFlagInner.masterLogErrorsMaxLength()"
   name: "masterLogErrorsMaxLength()"
   nameWithType: "SitePhpErrorLogFlagInner.masterLogErrorsMaxLength()"
-  summary: "Get the masterLogErrorsMaxLength property: Master log_errors_max_len setting."
+  summary: "Get the masterLogErrorsMaxLength property: Master log\\_errors\\_max\\_len setting."
   syntax: "public String masterLogErrorsMaxLength()"
   returns:
     description: "the masterLogErrorsMaxLength value."

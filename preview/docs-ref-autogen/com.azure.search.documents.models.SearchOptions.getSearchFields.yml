@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchOptions.getSearchFields()"
   name: "getSearchFields()"
   nameWithType: "SearchOptions.getSearchFields()"
-  summary: "Get the searchFields property: The list of field names to which to scope\n the full-text search. When using fielded search\n (fieldName:searchExpression) in a full Lucene query, the field names of\n each fielded search expression take precedence over any field names\n listed in this parameter."
+  summary: "Get the searchFields property: The list of field names to which to scope the full-text search. When using fielded search (fieldName:searchExpression) in a full Lucene query, the field names of each fielded search expression take precedence over any field names listed in this parameter."
   syntax: "public List<String> getSearchFields()"
   returns:
     description: "the searchFields value."

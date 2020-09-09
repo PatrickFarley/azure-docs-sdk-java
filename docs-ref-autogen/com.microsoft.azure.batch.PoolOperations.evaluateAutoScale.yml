@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.evaluateAutoScale(String poolId, String autoScaleFormula)"
   name: "evaluateAutoScale(String poolId, String autoScaleFormula)"
   nameWithType: "PoolOperations.evaluateAutoScale(String poolId, String autoScaleFormula)"
-  summary: "Gets the result of evaluating an automatic scaling formula on the specified\n pool. This is primarily for validating an autoscale formula, as it simply\n returns the result without applying the formula to the pool."
+  summary: "Gets the result of evaluating an automatic scaling formula on the specified pool. This is primarily for validating an autoscale formula, as it simply returns the result without applying the formula to the pool."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"
@@ -29,7 +29,7 @@ members:
   fullName: "com.microsoft.azure.batch.PoolOperations.evaluateAutoScale(String poolId, String autoScaleFormula, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "evaluateAutoScale(String poolId, String autoScaleFormula, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "PoolOperations.evaluateAutoScale(String poolId, String autoScaleFormula, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Gets the result of evaluating an automatic scaling formula on the specified\n pool. This is primarily for validating an autoscale formula, as it simply\n returns the result without applying the formula to the pool."
+  summary: "Gets the result of evaluating an automatic scaling formula on the specified pool. This is primarily for validating an autoscale formula, as it simply returns the result without applying the formula to the pool."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"

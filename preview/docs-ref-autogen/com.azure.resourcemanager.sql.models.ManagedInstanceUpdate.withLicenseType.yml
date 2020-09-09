@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedInstanceUpdate.withLicenseType(ManagedInstanceLicenseType licenseType)"
   name: "withLicenseType(ManagedInstanceLicenseType licenseType)"
   nameWithType: "ManagedInstanceUpdate.withLicenseType(ManagedInstanceLicenseType licenseType)"
-  summary: "Set the licenseType property: The license type. Possible values are 'LicenseIncluded' (regular price inclusive of\n a new SQL license) and 'BasePrice' (discounted AHB price for bringing your own SQL licenses)."
+  summary: "Set the licenseType property: The license type. Possible values are 'LicenseIncluded' (regular price inclusive of a new SQL license) and 'BasePrice' (discounted AHB price for bringing your own SQL licenses)."
   parameters:
   - description: "the licenseType value to set."
     name: "licenseType"

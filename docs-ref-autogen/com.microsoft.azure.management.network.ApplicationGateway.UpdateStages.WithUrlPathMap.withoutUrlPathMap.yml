@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGateway.UpdateStages.WithUrlPathMap.withoutUrlPathMap(String name)"
   name: "withoutUrlPathMap(String name)"
   nameWithType: "ApplicationGateway.UpdateStages.WithUrlPathMap.withoutUrlPathMap(String name)"
-  summary: "Removes a URL path map from the application gateway.\n <p>\n Note that removing a URL path map referenced by other settings may break the application gateway."
+  summary: "Removes a URL path map from the application gateway.\n\nNote that removing a URL path map referenced by other settings may break the application gateway."
   parameters:
   - description: "the name of the URL path map to remove (case sensitive)"
     name: "name"

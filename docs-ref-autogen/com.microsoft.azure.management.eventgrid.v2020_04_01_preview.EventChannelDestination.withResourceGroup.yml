@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventChannelDestination.withResourceGroup(String resourceGroup)"
   name: "withResourceGroup(String resourceGroup)"
   nameWithType: "EventChannelDestination.withResourceGroup(String resourceGroup)"
-  summary: "Set azure Resource Group of the customer creating the event channel. The partner topic\n     associated with the event channel will be created under this resource group."
+  summary: "Set azure Resource Group of the customer creating the event channel. The partner topic associated with the event channel will be created under this resource group."
   parameters:
   - description: "the resourceGroup value to set"
     name: "resourceGroup"

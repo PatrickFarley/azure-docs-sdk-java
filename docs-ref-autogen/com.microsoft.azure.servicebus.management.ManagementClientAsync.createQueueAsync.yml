@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.ManagementClientAsync.createQueueAsync(QueueDescription queueDescription)"
   name: "createQueueAsync(QueueDescription queueDescription)"
   nameWithType: "ManagementClientAsync.createQueueAsync(QueueDescription queueDescription)"
-  summary: "Creates a new queue in the service namespace with the given name.\n See <xref uid=\"QueueDescription\" data-throw-if-not-resolved=\"false\">QueueDescription</xref> for default values of queue properties."
+  summary: "Creates a new queue in the service namespace with the given name. See <xref uid=\"com.microsoft.azure.servicebus.management.QueueDescription\" data-throw-if-not-resolved=\"false\">QueueDescription</xref> for default values of queue properties."
   parameters:
   - description: "- A <xref uid=\"com.microsoft.azure.servicebus.management.QueueDescription\" data-throw-if-not-resolved=\"false\">QueueDescription</xref> object describing the attributes with which the new queue will be created."
     name: "queueDescription"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.ManagementClientAsync.createQueueAsync(String queuePath)"
   name: "createQueueAsync(String queuePath)"
   nameWithType: "ManagementClientAsync.createQueueAsync(String queuePath)"
-  summary: "Creates a new queue in the service namespace with the given name.\n See <xref uid=\"QueueDescription\" data-throw-if-not-resolved=\"false\">QueueDescription</xref> for default values of queue properties."
+  summary: "Creates a new queue in the service namespace with the given name. See <xref uid=\"com.microsoft.azure.servicebus.management.QueueDescription\" data-throw-if-not-resolved=\"false\">QueueDescription</xref> for default values of queue properties."
   parameters:
   - description: "- The name of the queue relative to the service namespace base address."
     name: "queuePath"

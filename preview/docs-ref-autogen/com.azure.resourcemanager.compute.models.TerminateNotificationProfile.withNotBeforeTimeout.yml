@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.TerminateNotificationProfile.withNotBeforeTimeout(String notBeforeTimeout)"
   name: "withNotBeforeTimeout(String notBeforeTimeout)"
   nameWithType: "TerminateNotificationProfile.withNotBeforeTimeout(String notBeforeTimeout)"
-  summary: "Set the notBeforeTimeout property: Configurable length of time a Virtual Machine being deleted will have to\n potentially approve the Terminate Scheduled Event before the event is auto approved (timed out). The\n configuration must be specified in ISO 8601 format, the default value is 5 minutes (PT5M)."
+  summary: "Set the notBeforeTimeout property: Configurable length of time a Virtual Machine being deleted will have to potentially approve the Terminate Scheduled Event before the event is auto approved (timed out). The configuration must be specified in ISO 8601 format, the default value is 5 minutes (PT5M)."
   parameters:
   - description: "the notBeforeTimeout value to set."
     name: "notBeforeTimeout"

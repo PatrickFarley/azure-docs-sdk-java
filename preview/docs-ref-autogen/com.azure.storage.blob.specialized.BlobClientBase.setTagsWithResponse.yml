@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.setTagsWithResponse(Map<String,String> tags, Duration timeout, Context context)"
   name: "setTagsWithResponse(Map<String,String> tags, Duration timeout, Context context)"
   nameWithType: "BlobClientBase.setTagsWithResponse(Map<String,String> tags, Duration timeout, Context context)"
-  summary: "Sets user defined tags. The specified tags in this method will replace existing tags. If old values\n must be preserved, they must be downloaded and included in the call to this method.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n System.out.printf&#40;&quot;Set metadata completed with status %d%n&quot;,\n     client.setTagsWithResponse&#40;Collections.singletonMap&#40;&quot;tag&quot;, &quot;value&quot;&#41;, timeout, new Context&#40;key1, value1&#41;&#41;\n         .getStatusCode&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/set-blob-tags\">Azure Docs</a></p>"
+  summary: "Sets user defined tags. The specified tags in this method will replace existing tags. If old values must be preserved, they must be downloaded and included in the call to this method.\n\n**Code Samples**\n\n```java\nSystem.out.printf(\"Set metadata completed with status %d%n\",\n     client.setTagsWithResponse(Collections.singletonMap(\"tag\", \"value\"), timeout, new Context(key1, value1))\n         .getStatusCode());\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/set-blob-tags"
   parameters:
   - description: "Tags to associate with the blob."
     name: "tags"

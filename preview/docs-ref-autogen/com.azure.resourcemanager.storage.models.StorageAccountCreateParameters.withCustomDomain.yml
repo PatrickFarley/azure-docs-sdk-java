@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountCreateParameters.withCustomDomain(CustomDomain customDomain)"
   name: "withCustomDomain(CustomDomain customDomain)"
   nameWithType: "StorageAccountCreateParameters.withCustomDomain(CustomDomain customDomain)"
-  summary: "Set the customDomain property: User domain assigned to the storage account. Name is the CNAME source. Only one\n custom domain is supported per storage account at this time. To clear the existing custom domain, use an empty\n string for the custom domain name property."
+  summary: "Set the customDomain property: User domain assigned to the storage account. Name is the CNAME source. Only one custom domain is supported per storage account at this time. To clear the existing custom domain, use an empty string for the custom domain name property."
   parameters:
   - description: "the customDomain value to set."
     name: "customDomain"

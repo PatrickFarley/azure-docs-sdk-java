@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextAnalyticsRequestOptions.setModelVersion(String modelVersion)"
   name: "setModelVersion(String modelVersion)"
   nameWithType: "TextAnalyticsRequestOptions.setModelVersion(String modelVersion)"
-  summary: "Set the model version. This value indicates which model will be used for scoring, e.g. \"latest\", \"2019-10-01\".\n If a model-version is not specified, the API will default to the latest, non-preview version."
+  summary: "Set the model version. This value indicates which model will be used for scoring, e.g. \"latest\", \"2019-10-01\". If a model-version is not specified, the API will default to the latest, non-preview version."
   parameters:
   - description: "The model version."
     name: "modelVersion"

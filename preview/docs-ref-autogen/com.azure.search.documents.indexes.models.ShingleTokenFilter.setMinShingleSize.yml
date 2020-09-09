@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ShingleTokenFilter.setMinShingleSize(Integer minShingleSize)"
   name: "setMinShingleSize(Integer minShingleSize)"
   nameWithType: "ShingleTokenFilter.setMinShingleSize(Integer minShingleSize)"
-  summary: "Set the minShingleSize property: The minimum shingle size. Default and\n minimum value is 2. Must be less than the value of maxShingleSize."
+  summary: "Set the minShingleSize property: The minimum shingle size. Default and minimum value is 2. Must be less than the value of maxShingleSize."
   parameters:
   - description: "the minShingleSize value to set."
     name: "minShingleSize"

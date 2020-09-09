@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.CassandraResourcesClient.getCassandraKeyspaceThroughputWithResponseAsync(String resourceGroupName, String accountName, String keyspaceName)"
   name: "getCassandraKeyspaceThroughputWithResponseAsync(String resourceGroupName, String accountName, String keyspaceName)"
   nameWithType: "CassandraResourcesClient.getCassandraKeyspaceThroughputWithResponseAsync(String resourceGroupName, String accountName, String keyspaceName)"
-  summary: "Gets the RUs per second of the Cassandra Keyspace under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the Cassandra Keyspace under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.CassandraResourcesClient.getCassandraKeyspaceThroughputWithResponseAsync(String resourceGroupName, String accountName, String keyspaceName, Context context)"
   name: "getCassandraKeyspaceThroughputWithResponseAsync(String resourceGroupName, String accountName, String keyspaceName, Context context)"
   nameWithType: "CassandraResourcesClient.getCassandraKeyspaceThroughputWithResponseAsync(String resourceGroupName, String accountName, String keyspaceName, Context context)"
-  summary: "Gets the RUs per second of the Cassandra Keyspace under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the Cassandra Keyspace under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"

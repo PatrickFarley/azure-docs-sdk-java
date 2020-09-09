@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PatternCaptureTokenFilter.isPreserveOriginal()"
   name: "isPreserveOriginal()"
   nameWithType: "PatternCaptureTokenFilter.isPreserveOriginal()"
-  summary: "Get the preserveOriginal property: A value indicating whether to return\n the original token even if one of the patterns matches. Default is true."
+  summary: "Get the preserveOriginal property: A value indicating whether to return the original token even if one of the patterns matches. Default is true."
   syntax: "public Boolean isPreserveOriginal()"
   returns:
     description: "the preserveOriginal value."

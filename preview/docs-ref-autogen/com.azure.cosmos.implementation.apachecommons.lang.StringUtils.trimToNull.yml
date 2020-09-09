@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.trimToNull(String str)"
   name: "trimToNull(String str)"
   nameWithType: "StringUtils.trimToNull(String str)"
-  summary: "<p>Removes control characters (char &lt;= 32) from both\n ends of this String returning <code>null</code> if the String is\n empty (\"\") after the trim or if it is <code>null</code>."
+  summary: "Removes control characters (char <= 32) from both ends of this String returning `null` if the String is empty (\"\") after the trim or if it is `null`."
   parameters:
   - description: "the String to be trimmed, may be null"
     name: "str"

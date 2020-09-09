@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileSystemItemProperties.hasImmutabilityPolicy()"
   name: "hasImmutabilityPolicy()"
   nameWithType: "FileSystemItemProperties.hasImmutabilityPolicy()"
-  summary: "Get the hasImmutabilityPolicy property: The hasImmutabilityPolicy\n property."
+  summary: "Get the hasImmutabilityPolicy property: The hasImmutabilityPolicy property."
   syntax: "public Boolean hasImmutabilityPolicy()"
   returns:
     description: "the hasImmutabilityPolicy value."

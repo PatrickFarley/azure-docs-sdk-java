@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.Transforms.listAsync(String resourceGroupName, String accountName)"
   name: "listAsync(String resourceGroupName, String accountName)"
   nameWithType: "Transforms.listAsync(String resourceGroupName, String accountName)"
-  summary: "List Transforms.\n Lists the Transforms in the account."
+  summary: "List Transforms. Lists the Transforms in the account."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

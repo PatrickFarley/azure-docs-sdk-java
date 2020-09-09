@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.processPartitionClose(Consumer<CloseContext> closePartition)"
   name: "processPartitionClose(Consumer<CloseContext> closePartition)"
   nameWithType: "EventProcessorClientBuilder.processPartitionClose(Consumer<CloseContext> closePartition)"
-  summary: "The function that is called when a processing for a partition stops. The input contains the partition information\n along with the reason for stopping the event processing for this partition."
+  summary: "The function that is called when a processing for a partition stops. The input contains the partition information along with the reason for stopping the event processing for this partition."
   parameters:
   - description: "The callback that's called after processing for a partition stops."
     name: "closePartition"

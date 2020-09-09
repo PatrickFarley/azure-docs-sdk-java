@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.VMInsightsOnboardingStatusInner.withOnboardingStatus(OnboardingStatus onboardingStatus)"
   name: "withOnboardingStatus(OnboardingStatus onboardingStatus)"
   nameWithType: "VMInsightsOnboardingStatusInner.withOnboardingStatus(OnboardingStatus onboardingStatus)"
-  summary: "Set the onboardingStatus property: The onboarding status for the resource. Note that, a higher level scope, e.g.,\n resource group or subscription, is considered onboarded if at least one resource under it is onboarded."
+  summary: "Set the onboardingStatus property: The onboarding status for the resource. Note that, a higher level scope, e.g., resource group or subscription, is considered onboarded if at least one resource under it is onboarded."
   parameters:
   - description: "the onboardingStatus value to set."
     name: "onboardingStatus"

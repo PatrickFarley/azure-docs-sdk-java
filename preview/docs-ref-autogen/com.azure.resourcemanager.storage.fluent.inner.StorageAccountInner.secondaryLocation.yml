@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.secondaryLocation()"
   name: "secondaryLocation()"
   nameWithType: "StorageAccountInner.secondaryLocation()"
-  summary: "Get the secondaryLocation property: Gets the location of the geo-replicated secondary for the storage account.\n Only available if the accountType is Standard_GRS or Standard_RAGRS."
+  summary: "Get the secondaryLocation property: Gets the location of the geo-replicated secondary for the storage account. Only available if the accountType is Standard\\_GRS or Standard\\_RAGRS."
   syntax: "public String secondaryLocation()"
   returns:
     description: "the secondaryLocation value."

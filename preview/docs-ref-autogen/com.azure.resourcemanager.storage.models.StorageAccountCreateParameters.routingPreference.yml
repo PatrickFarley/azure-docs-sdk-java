@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountCreateParameters.routingPreference()"
   name: "routingPreference()"
   nameWithType: "StorageAccountCreateParameters.routingPreference()"
-  summary: "Get the routingPreference property: Maintains information about the network routing choice opted by the user for\n data transfer."
+  summary: "Get the routingPreference property: Maintains information about the network routing choice opted by the user for data transfer."
   syntax: "public RoutingPreference routingPreference()"
   returns:
     description: "the routingPreference value."

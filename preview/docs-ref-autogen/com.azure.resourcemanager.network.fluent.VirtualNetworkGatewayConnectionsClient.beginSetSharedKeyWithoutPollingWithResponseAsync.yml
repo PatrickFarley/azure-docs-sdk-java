@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewayConnectionsClient.beginSetSharedKeyWithoutPollingWithResponseAsync(String resourceGroupName, String virtualNetworkGatewayConnectionName, ConnectionSharedKeyInner parameters)"
   name: "beginSetSharedKeyWithoutPollingWithResponseAsync(String resourceGroupName, String virtualNetworkGatewayConnectionName, ConnectionSharedKeyInner parameters)"
   nameWithType: "VirtualNetworkGatewayConnectionsClient.beginSetSharedKeyWithoutPollingWithResponseAsync(String resourceGroupName, String virtualNetworkGatewayConnectionName, ConnectionSharedKeyInner parameters)"
-  summary: "The Put VirtualNetworkGatewayConnectionSharedKey operation sets the virtual network gateway connection shared key\n for passed virtual network gateway connection in the specified resource group through Network resource provider."
+  summary: "The Put VirtualNetworkGatewayConnectionSharedKey operation sets the virtual network gateway connection shared key for passed virtual network gateway connection in the specified resource group through Network resource provider."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewayConnectionsClient.beginSetSharedKeyWithoutPollingWithResponseAsync(String resourceGroupName, String virtualNetworkGatewayConnectionName, ConnectionSharedKeyInner parameters, Context context)"
   name: "beginSetSharedKeyWithoutPollingWithResponseAsync(String resourceGroupName, String virtualNetworkGatewayConnectionName, ConnectionSharedKeyInner parameters, Context context)"
   nameWithType: "VirtualNetworkGatewayConnectionsClient.beginSetSharedKeyWithoutPollingWithResponseAsync(String resourceGroupName, String virtualNetworkGatewayConnectionName, ConnectionSharedKeyInner parameters, Context context)"
-  summary: "The Put VirtualNetworkGatewayConnectionSharedKey operation sets the virtual network gateway connection shared key\n for passed virtual network gateway connection in the specified resource group through Network resource provider."
+  summary: "The Put VirtualNetworkGatewayConnectionSharedKey operation sets the virtual network gateway connection shared key for passed virtual network gateway connection in the specified resource group through Network resource provider."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

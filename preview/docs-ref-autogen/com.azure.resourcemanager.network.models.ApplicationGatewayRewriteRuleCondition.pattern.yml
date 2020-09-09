@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayRewriteRuleCondition.pattern()"
   name: "pattern()"
   nameWithType: "ApplicationGatewayRewriteRuleCondition.pattern()"
-  summary: "Get the pattern property: The pattern, either fixed string or regular expression, that evaluates the truthfulness\n of the condition."
+  summary: "Get the pattern property: The pattern, either fixed string or regular expression, that evaluates the truthfulness of the condition."
   syntax: "public String pattern()"
   returns:
     description: "the pattern value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueServiceAsyncClient.getStatisticsWithResponse()"
   name: "getStatisticsWithResponse()"
   nameWithType: "QueueServiceAsyncClient.getStatisticsWithResponse()"
-  summary: "Retrieves the geo replication information about the Queue service.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Retrieve the geo replication information</p>\n\n <pre>\n client.getStatisticsWithResponse&#40;&#41;\n     .subscribe&#40;response -&gt; &#123;\n         QueueServiceStatistics stats = response.getValue&#40;&#41;;\n         System.out.printf&#40;&quot;Geo replication status: %s, Last synced: %s&quot;,\n             stats.getGeoReplication&#40;&#41;.getStatus&#40;&#41;, stats.getGeoReplication&#40;&#41;.getLastSyncTime&#40;&#41;&#41;;\n     &#125;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-service-stats\">Azure Docs</a>.</p>"
+  summary: "Retrieves the geo replication information about the Queue service.\n\n**Code Samples**\n\nRetrieve the geo replication information\n\n```java\nclient.getStatisticsWithResponse()\n     .subscribe(response -> {\n         QueueServiceStatistics stats = response.getValue();\n         System.out.printf(\"Geo replication status: %s, Last synced: %s\",\n             stats.getGeoReplication().getStatus(), stats.getGeoReplication().getLastSyncTime());\n     });\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-service-stats"
   syntax: "public Mono<Response<QueueServiceStatistics>> getStatisticsWithResponse()"
   returns:
     description: "A response containing the geo replication information about the Queue service"

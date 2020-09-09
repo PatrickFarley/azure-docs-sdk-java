@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.VirtualClusterInner.family()"
   name: "family()"
   nameWithType: "VirtualClusterInner.family()"
-  summary: "Get the family property: If the service has different generations of hardware, for the same SKU, then that can be\n captured here."
+  summary: "Get the family property: If the service has different generations of hardware, for the same SKU, then that can be captured here."
   syntax: "public String family()"
   returns:
     description: "the family value."

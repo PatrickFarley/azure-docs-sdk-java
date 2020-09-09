@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.InternalClient.setOperationTimeout(long timeout)"
   name: "setOperationTimeout(long timeout)"
   nameWithType: "InternalClient.setOperationTimeout(long timeout)"
-  summary: "Set the length of time, in milliseconds, that any given operation will expire in. These operations include\n reconnecting upon a connection drop and sending a message."
+  summary: "Set the length of time, in milliseconds, that any given operation will expire in. These operations include reconnecting upon a connection drop and sending a message."
   parameters:
   - description: "the length in time, in milliseconds, until a given operation shall expire"
     name: "timeout"

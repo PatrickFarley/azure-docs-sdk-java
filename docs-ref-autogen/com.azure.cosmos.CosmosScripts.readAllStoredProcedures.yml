@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosScripts.readAllStoredProcedures()"
   name: "readAllStoredProcedures()"
   nameWithType: "CosmosScripts.readAllStoredProcedures()"
-  summary: "Read all stored procedures <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Read all stored procedures <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   syntax: "public CosmosPagedIterable<CosmosStoredProcedureProperties> readAllStoredProcedures()"
   returns:
     description: "the <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>"

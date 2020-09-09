@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetNetworkConfiguration.enableAcceleratedNetworking()"
   name: "enableAcceleratedNetworking()"
   nameWithType: "VirtualMachineScaleSetNetworkConfiguration.enableAcceleratedNetworking()"
-  summary: "Get the enableAcceleratedNetworking property: Specifies whether the network interface is accelerated\n networking-enabled."
+  summary: "Get the enableAcceleratedNetworking property: Specifies whether the network interface is accelerated networking-enabled."
   syntax: "public Boolean enableAcceleratedNetworking()"
   returns:
     description: "the enableAcceleratedNetworking value."

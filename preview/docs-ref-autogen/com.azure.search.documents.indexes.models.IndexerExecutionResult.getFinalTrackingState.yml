@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexerExecutionResult.getFinalTrackingState()"
   name: "getFinalTrackingState()"
   nameWithType: "IndexerExecutionResult.getFinalTrackingState()"
-  summary: "Get the finalTrackingState property: Change tracking state with which an\n indexer execution finished."
+  summary: "Get the finalTrackingState property: Change tracking state with which an indexer execution finished."
   syntax: "public String getFinalTrackingState()"
   returns:
     description: "the finalTrackingState value."

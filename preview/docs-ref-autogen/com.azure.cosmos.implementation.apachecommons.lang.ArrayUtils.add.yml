@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.ArrayUtils.<T>add(T[] array, T element)"
   name: "<T>add(T[] array, T element)"
   nameWithType: "ArrayUtils.<T>add(T[] array, T element)"
-  summary: "<p>Copies the given array and adds the given element at the end of the new array."
+  summary: "Copies the given array and adds the given element at the end of the new array."
   parameters:
   - description: "the array to \"add\" the element to, may be <code>null</code>"
     name: "array"

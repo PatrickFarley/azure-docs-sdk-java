@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.TextAnalyticsClientBuilder.apiKey(AzureKeyCredential keyCredential)"
   name: "apiKey(AzureKeyCredential keyCredential)"
   nameWithType: "TextAnalyticsClientBuilder.apiKey(AzureKeyCredential keyCredential)"
-  summary: "Sets the credential to use when authenticating HTTP requests for this <xref uid=\"TextAnalyticsClientBuilder\" data-throw-if-not-resolved=\"false\">TextAnalyticsClientBuilder</xref>."
+  summary: "Sets the credential to use when authenticating HTTP requests for this <xref uid=\"com.azure.ai.textanalytics.TextAnalyticsClientBuilder\" data-throw-if-not-resolved=\"false\">TextAnalyticsClientBuilder</xref>."
   parameters:
   - description: "API key credential"
     name: "keyCredential"

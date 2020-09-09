@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.IndexingParameters.setConfiguration(Map<String,Object> configuration)"
   name: "setConfiguration(Map<String,Object> configuration)"
   nameWithType: "IndexingParameters.setConfiguration(Map<String,Object> configuration)"
-  summary: "Set the configuration property: A dictionary of indexer-specific configuration properties. Each name is the name\n of a specific property. Each value must be of a primitive type."
+  summary: "Set the configuration property: A dictionary of indexer-specific configuration properties. Each name is the name of a specific property. Each value must be of a primitive type."
   parameters:
   - description: "the configuration value to set."
     name: "configuration"

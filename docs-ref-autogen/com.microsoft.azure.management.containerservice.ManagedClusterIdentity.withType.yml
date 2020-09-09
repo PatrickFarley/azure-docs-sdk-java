@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ManagedClusterIdentity.withType(ResourceIdentityType type)"
   name: "withType(ResourceIdentityType type)"
   nameWithType: "ManagedClusterIdentity.withType(ResourceIdentityType type)"
-  summary: "Set the type of identity used for the managed cluster. Type 'SystemAssigned' will use an implicitly created identity in master components and an auto-created user assigned identity in MC_ resource group in agent nodes. Type 'None' will not use MSI for the managed cluster, service principal will be used instead. Possible values include: 'SystemAssigned', 'None'."
+  summary: "Set the type of identity used for the managed cluster. Type 'SystemAssigned' will use an implicitly created identity in master components and an auto-created user assigned identity in MC\\_ resource group in agent nodes. Type 'None' will not use MSI for the managed cluster, service principal will be used instead. Possible values include: 'SystemAssigned', 'None'."
   parameters:
   - description: "the type value to set"
     name: "type"

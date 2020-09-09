@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayTrustedRootCertificate.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ApplicationGatewayTrustedRootCertificate.provisioningState()"
-  summary: "Get the provisioningState property: Provisioning state of the trusted root certificate resource. Possible values\n are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: Provisioning state of the trusted root certificate resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

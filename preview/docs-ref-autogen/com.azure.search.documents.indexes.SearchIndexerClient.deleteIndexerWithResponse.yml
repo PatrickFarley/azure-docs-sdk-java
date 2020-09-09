@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerClient.deleteIndexerWithResponse(SearchIndexer indexer, boolean onlyIfUnchanged, Context context)"
   name: "deleteIndexerWithResponse(SearchIndexer indexer, boolean onlyIfUnchanged, Context context)"
   nameWithType: "SearchIndexerClient.deleteIndexerWithResponse(SearchIndexer indexer, boolean onlyIfUnchanged, Context context)"
-  summary: "Deletes an Azure Cognitive Search indexer.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete search indexe named \"searchIndexer\".  </p>\n\n <pre>\n SearchIndexer searchIndexer = searchIndexerClient.getIndexer&#40;&quot;searchIndexer&quot;&#41;;\n Response&lt;Void&gt; deleteResponse = searchIndexerClient.deleteIndexerWithResponse&#40;searchIndexer, true,\n     new Context&#40;key1, value1&#41;&#41;;\n System.out.printf&#40;&quot;The status code of the response is %d.%n&quot;, deleteResponse.getStatusCode&#40;&#41;&#41;;\n </pre>"
+  summary: "Deletes an Azure Cognitive Search indexer.\n\n**Code Sample**\n\nDelete search indexe named \"searchIndexer\".\n\n```java\nSearchIndexer searchIndexer = searchIndexerClient.getIndexer(\"searchIndexer\");\n Response<Void> deleteResponse = searchIndexerClient.deleteIndexerWithResponse(searchIndexer, true,\n     new Context(key1, value1));\n System.out.printf(\"The status code of the response is %d.%n\", deleteResponse.getStatusCode());\n```"
   parameters:
   - description: "the search <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexer\" data-throw-if-not-resolved=\"false\">SearchIndexer</xref>"
     name: "indexer"

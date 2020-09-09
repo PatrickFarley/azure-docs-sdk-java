@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigResourceInner.withPreWarmedInstanceCount(Integer preWarmedInstanceCount)"
   name: "withPreWarmedInstanceCount(Integer preWarmedInstanceCount)"
   nameWithType: "SiteConfigResourceInner.withPreWarmedInstanceCount(Integer preWarmedInstanceCount)"
-  summary: "Set the preWarmedInstanceCount property: Number of preWarmed instances. This setting only applies to the\n Consumption and Elastic Plans."
+  summary: "Set the preWarmedInstanceCount property: Number of preWarmed instances. This setting only applies to the Consumption and Elastic Plans."
   parameters:
   - description: "the preWarmedInstanceCount value to set."
     name: "preWarmedInstanceCount"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.MyAzureException.MyAzureException(String message, HttpResponse response, HttpBinJSON body)"
   name: "MyAzureException(String message, HttpResponse response, HttpBinJSON body)"
   nameWithType: "MyAzureException.MyAzureException(String message, HttpResponse response, HttpBinJSON body)"
-  summary: "Creates an exception with the <code>message</code>, <code>response</code>, and <code>body</code>."
+  summary: "Creates an exception with the `message`, `response`, and `body`."
   parameters:
   - description: "Message for the exception."
     name: "message"

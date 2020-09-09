@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRoutePortsLocationsClient.getWithResponseAsync(String locationName)"
   name: "getWithResponseAsync(String locationName)"
   nameWithType: "ExpressRoutePortsLocationsClient.getWithResponseAsync(String locationName)"
-  summary: "Retrieves a single ExpressRoutePort peering location, including the list of available bandwidths available at\n said peering location."
+  summary: "Retrieves a single ExpressRoutePort peering location, including the list of available bandwidths available at said peering location."
   parameters:
   - description: "Name of the requested ExpressRoutePort peering location."
     name: "locationName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRoutePortsLocationsClient.getWithResponseAsync(String locationName, Context context)"
   name: "getWithResponseAsync(String locationName, Context context)"
   nameWithType: "ExpressRoutePortsLocationsClient.getWithResponseAsync(String locationName, Context context)"
-  summary: "Retrieves a single ExpressRoutePort peering location, including the list of available bandwidths available at\n said peering location."
+  summary: "Retrieves a single ExpressRoutePort peering location, including the list of available bandwidths available at said peering location."
   parameters:
   - description: "Name of the requested ExpressRoutePort peering location."
     name: "locationName"

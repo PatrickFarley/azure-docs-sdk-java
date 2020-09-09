@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName.STANDARD_V2"
   name: "STANDARD_V2"
   nameWithType: "LexicalTokenizerName.STANDARD_V2"
-  summary: "Static value standard_v2 for LexicalTokenizerName."
+  summary: "Static value standard\\_v2 for LexicalTokenizerName."
   syntax: "public static final LexicalTokenizerName STANDARD_V2"
 type: "field"
 metadata: {}

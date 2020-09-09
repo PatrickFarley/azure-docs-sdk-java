@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.NotImplementedException.getCode()"
   name: "getCode()"
   nameWithType: "NotImplementedException.getCode()"
-  summary: "Obtain the not implemented code. This is an unformatted piece of text intended to point to\n further information regarding the lack of implementation. It might, for example, be an issue\n tracker ID or a URL."
+  summary: "Obtain the not implemented code. This is an unformatted piece of text intended to point to further information regarding the lack of implementation. It might, for example, be an issue tracker ID or a URL."
   syntax: "public String getCode()"
   returns:
     description: "a code indicating a resource for more information regarding the lack of implementation"

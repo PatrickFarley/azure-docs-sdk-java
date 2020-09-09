@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventDataBatch.tryAdd(EventData eventData)"
   name: "tryAdd(EventData eventData)"
   nameWithType: "EventDataBatch.tryAdd(EventData eventData)"
-  summary: "Tries to add an <xref uid=\"EventData\" data-throw-if-not-resolved=\"false\">event</xref> to the batch."
+  summary: "Tries to add an <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">event</xref> to the batch."
   overridden: "com.azure.messaging.eventhubs.EventDataBatchBase.tryAdd(com.azure.messaging.eventhubs.EventData)"
   parameters:
   - description: "The <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">EventData</xref> to add to the batch."

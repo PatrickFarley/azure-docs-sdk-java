@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.VisualFeatureConverter.map(VisualFeature obj)"
   name: "map(VisualFeature obj)"
   nameWithType: "VisualFeatureConverter.map(VisualFeature obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.VisualFeature\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.VisualFeature</xref> to enum\n <xref uid=\"VisualFeature\" data-throw-if-not-resolved=\"false\">VisualFeature</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.VisualFeature\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.VisualFeature</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.VisualFeature\" data-throw-if-not-resolved=\"false\">VisualFeature</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.VisualFeature?alt=com.azure.search.documents.indexes.implementation.models.VisualFeature&text=VisualFeature\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.VisualFeatureConverter.map(VisualFeature obj)"
   name: "map(VisualFeature obj)"
   nameWithType: "VisualFeatureConverter.map(VisualFeature obj)"
-  summary: "Maps from enum <xref uid=\"VisualFeature\" data-throw-if-not-resolved=\"false\">VisualFeature</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.VisualFeature\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.VisualFeature</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.VisualFeature\" data-throw-if-not-resolved=\"false\">VisualFeature</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.VisualFeature\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.VisualFeature</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.VisualFeature?alt=com.azure.search.documents.indexes.models.VisualFeature&text=VisualFeature\" data-throw-if-not-resolved=\"False\" />"

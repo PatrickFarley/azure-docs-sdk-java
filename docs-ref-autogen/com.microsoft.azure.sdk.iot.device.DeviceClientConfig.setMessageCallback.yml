@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.DeviceClientConfig.setMessageCallback(MessageCallback callback, Object context)"
   name: "setMessageCallback(MessageCallback callback, Object context)"
   nameWithType: "DeviceClientConfig.setMessageCallback(MessageCallback callback, Object context)"
-  summary: "Setter for the message callback. Can be <code>null</code>."
+  summary: "Setter for the message callback. Can be `null`."
   parameters:
   - description: "the message callback. Can be <code>null</code>."
     name: "callback"

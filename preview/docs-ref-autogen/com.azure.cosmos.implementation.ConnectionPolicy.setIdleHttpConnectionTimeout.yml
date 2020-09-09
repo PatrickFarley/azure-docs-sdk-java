@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ConnectionPolicy.setIdleHttpConnectionTimeout(Duration idleHttpConnectionTimeout)"
   name: "setIdleHttpConnectionTimeout(Duration idleHttpConnectionTimeout)"
   nameWithType: "ConnectionPolicy.setIdleHttpConnectionTimeout(Duration idleHttpConnectionTimeout)"
-  summary: "sets the value of the timeout for an idle http connection. After that time,\n the connection will be automatically closed."
+  summary: "sets the value of the timeout for an idle http connection. After that time, the connection will be automatically closed."
   parameters:
   - description: "the duration for an idle connection."
     name: "idleHttpConnectionTimeout"

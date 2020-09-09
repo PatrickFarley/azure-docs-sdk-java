@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.PrivateLinkServicesClient.listAutoApprovedPrivateLinkServicesByResourceGroupAsync(String location, String resourceGroupName)"
   name: "listAutoApprovedPrivateLinkServicesByResourceGroupAsync(String location, String resourceGroupName)"
   nameWithType: "PrivateLinkServicesClient.listAutoApprovedPrivateLinkServicesByResourceGroupAsync(String location, String resourceGroupName)"
-  summary: "Returns all of the private link service ids that can be linked to a Private Endpoint with auto approved in this\n subscription in this region."
+  summary: "Returns all of the private link service ids that can be linked to a Private Endpoint with auto approved in this subscription in this region."
   parameters:
   - description: "The location of the domain name."
     name: "location"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.PrivateLinkServicesClient.listAutoApprovedPrivateLinkServicesByResourceGroupAsync(String location, String resourceGroupName, Context context)"
   name: "listAutoApprovedPrivateLinkServicesByResourceGroupAsync(String location, String resourceGroupName, Context context)"
   nameWithType: "PrivateLinkServicesClient.listAutoApprovedPrivateLinkServicesByResourceGroupAsync(String location, String resourceGroupName, Context context)"
-  summary: "Returns all of the private link service ids that can be linked to a Private Endpoint with auto approved in this\n subscription in this region."
+  summary: "Returns all of the private link service ids that can be linked to a Private Endpoint with auto approved in this subscription in this region."
   parameters:
   - description: "The location of the domain name."
     name: "location"

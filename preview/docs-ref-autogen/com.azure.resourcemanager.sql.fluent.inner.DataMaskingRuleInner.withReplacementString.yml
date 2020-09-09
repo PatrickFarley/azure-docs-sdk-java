@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DataMaskingRuleInner.withReplacementString(String replacementString)"
   name: "withReplacementString(String replacementString)"
   nameWithType: "DataMaskingRuleInner.withReplacementString(String replacementString)"
-  summary: "Set the replacementString property: If maskingFunction is set to Text, the character to use for masking the\n unexposed part of the string. Otherwise, this parameter will be ignored."
+  summary: "Set the replacementString property: If maskingFunction is set to Text, the character to use for masking the unexposed part of the string. Otherwise, this parameter will be ignored."
   parameters:
   - description: "the replacementString value to set."
     name: "replacementString"

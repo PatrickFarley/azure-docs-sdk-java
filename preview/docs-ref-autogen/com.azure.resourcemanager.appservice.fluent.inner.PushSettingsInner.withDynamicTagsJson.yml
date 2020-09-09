@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.PushSettingsInner.withDynamicTagsJson(String dynamicTagsJson)"
   name: "withDynamicTagsJson(String dynamicTagsJson)"
   nameWithType: "PushSettingsInner.withDynamicTagsJson(String dynamicTagsJson)"
-  summary: "Set the dynamicTagsJson property: Gets or sets a JSON string containing a list of dynamic tags that will be\n evaluated from user claims in the push registration endpoint."
+  summary: "Set the dynamicTagsJson property: Gets or sets a JSON string containing a list of dynamic tags that will be evaluated from user claims in the push registration endpoint."
   parameters:
   - description: "the dynamicTagsJson value to set."
     name: "dynamicTagsJson"

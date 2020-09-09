@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ExpressRouteCircuitRoutesTable.withLocPrf(String locPrf)"
   name: "withLocPrf(String locPrf)"
   nameWithType: "ExpressRouteCircuitRoutesTable.withLocPrf(String locPrf)"
-  summary: "Set the locPrf property: Local preference value as set with the set local-preference route-map configuration\n command."
+  summary: "Set the locPrf property: Local preference value as set with the set local-preference route-map configuration command."
   parameters:
   - description: "the locPrf value to set."
     name: "locPrf"

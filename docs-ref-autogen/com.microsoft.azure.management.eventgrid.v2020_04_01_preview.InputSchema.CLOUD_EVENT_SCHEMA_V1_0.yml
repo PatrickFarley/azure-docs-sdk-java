@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.InputSchema.CLOUD_EVENT_SCHEMA_V1_0"
   name: "CLOUD_EVENT_SCHEMA_V1_0"
   nameWithType: "InputSchema.CLOUD_EVENT_SCHEMA_V1_0"
-  summary: "Static value CloudEventSchemaV1_0 for InputSchema."
+  summary: "Static value CloudEventSchemaV1\\_0 for InputSchema."
   syntax: "public static final InputSchema CLOUD_EVENT_SCHEMA_V1_0"
 type: "field"
 metadata: {}

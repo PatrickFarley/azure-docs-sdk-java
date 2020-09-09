@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareProperties.setProvisionedEgressMBps(Integer provisionedEgressMBps)"
   name: "setProvisionedEgressMBps(Integer provisionedEgressMBps)"
   nameWithType: "ShareProperties.setProvisionedEgressMBps(Integer provisionedEgressMBps)"
-  summary: "Set the provisionedEgressMBps property: The provisionedEgressMBps\n property."
+  summary: "Set the provisionedEgressMBps property: The provisionedEgressMBps property."
   parameters:
   - description: "the provisionedEgressMBps value to set."
     name: "provisionedEgressMBps"

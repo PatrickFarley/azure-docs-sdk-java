@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.models.SendOptions.getPartitionKey()"
   name: "getPartitionKey()"
   nameWithType: "SendOptions.getPartitionKey()"
-  summary: "Gets the hashing key on an event batch. If specified, tells the Event Hubs service that these events\n belong to the same group and should belong to the same partition."
+  summary: "Gets the hashing key on an event batch. If specified, tells the Event Hubs service that these events belong to the same group and should belong to the same partition."
   syntax: "public String getPartitionKey()"
   returns:
     description: "The partition hashing key to associate with the event or batch of events."

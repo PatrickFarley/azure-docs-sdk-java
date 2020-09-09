@@ -34,7 +34,7 @@ fields:
   fullName: "com.azure.cosmos.implementation.guava25.collect.BoundType.OPEN"
   name: "OPEN"
   nameWithType: "BoundType.OPEN"
-  summary: "The endpoint value <i>is not</i> considered part of the set (\"exclusive\")."
+  summary: "The endpoint value *is not* considered part of the set (\"exclusive\")."
 methods:
 - uid: "com.azure.cosmos.implementation.guava25.collect.BoundType.valueOf(java.lang.String)"
   fullName: "com.azure.cosmos.implementation.guava25.collect.BoundType.valueOf(String name)"

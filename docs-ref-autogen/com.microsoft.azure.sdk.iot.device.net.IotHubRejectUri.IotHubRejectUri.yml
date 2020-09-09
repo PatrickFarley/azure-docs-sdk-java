@@ -13,7 +13,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.net.IotHubRejectUri.IotHubRejectUri(String iotHubHostname, String deviceId, String eTag, String moduleId)"
   name: "IotHubRejectUri(String iotHubHostname, String deviceId, String eTag, String moduleId)"
   nameWithType: "IotHubRejectUri.IotHubRejectUri(String iotHubHostname, String deviceId, String eTag, String moduleId)"
-  summary: "Constructor. Returns a URI for a device to instruct an IoT Hub to mark a\n message as being rejected. The URI does not include a protocol."
+  summary: "Constructor. Returns a URI for a device to instruct an IoT Hub to mark a message as being rejected. The URI does not include a protocol."
   parameters:
   - description: "the IoT Hub name."
     name: "iotHubHostname"

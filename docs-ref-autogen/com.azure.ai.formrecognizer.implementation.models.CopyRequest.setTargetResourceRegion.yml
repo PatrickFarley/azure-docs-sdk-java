@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.CopyRequest.setTargetResourceRegion(String targetResourceRegion)"
   name: "setTargetResourceRegion(String targetResourceRegion)"
   nameWithType: "CopyRequest.setTargetResourceRegion(String targetResourceRegion)"
-  summary: "Set the targetResourceRegion property: Location of the target Azure resource. A valid Azure region name supported\n by Cognitive Services."
+  summary: "Set the targetResourceRegion property: Location of the target Azure resource. A valid Azure region name supported by Cognitive Services."
   parameters:
   - description: "the targetResourceRegion value to set."
     name: "targetResourceRegion"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.deleteSynonymMapWithResponse(SynonymMap synonymMap, boolean onlyIfUnchanged)"
   name: "deleteSynonymMapWithResponse(SynonymMap synonymMap, boolean onlyIfUnchanged)"
   nameWithType: "SearchIndexAsyncClient.deleteSynonymMapWithResponse(SynonymMap synonymMap, boolean onlyIfUnchanged)"
-  summary: "Deletes an Azure Cognitive Search synonym map.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete synonym map with name \"synonymMap\". </p>\n\n <pre>\n searchIndexAsyncClient.getSynonymMap&#40;&quot;synonymMap&quot;&#41;\n     .flatMap&#40;synonymMap -&gt; searchIndexAsyncClient.deleteSynonymMapWithResponse&#40;synonymMap, true&#41;&#41;\n     .subscribe&#40;response -&gt; System.out.println&#40;&quot;The status code of the response is&quot; + response.getStatusCode&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Deletes an Azure Cognitive Search synonym map.\n\n**Code Sample**\n\nDelete synonym map with name \"synonymMap\".\n\n```java\nsearchIndexAsyncClient.getSynonymMap(\"synonymMap\")\n     .flatMap(synonymMap -> searchIndexAsyncClient.deleteSynonymMapWithResponse(synonymMap, true))\n     .subscribe(response -> System.out.println(\"The status code of the response is\" + response.getStatusCode()));\n```"
   parameters:
   - description: "the <xref uid=\"com.azure.search.documents.indexes.models.SynonymMap\" data-throw-if-not-resolved=\"false\">SynonymMap</xref> to delete."
     name: "synonymMap"

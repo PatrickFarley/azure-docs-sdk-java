@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterface.UpdateStages.WithLoadBalancer.withExistingLoadBalancerInboundNatRule(LoadBalancer loadBalancer, String inboundNatRuleName)"
   name: "withExistingLoadBalancerInboundNatRule(LoadBalancer loadBalancer, String inboundNatRuleName)"
   nameWithType: "NetworkInterface.UpdateStages.WithLoadBalancer.withExistingLoadBalancerInboundNatRule(LoadBalancer loadBalancer, String inboundNatRuleName)"
-  summary: "Associates the network interface's primary IP configuration with an inbound NAT rule of an existing load\n balancer."
+  summary: "Associates the network interface's primary IP configuration with an inbound NAT rule of an existing load balancer."
   parameters:
   - description: "an existing load balancer"
     name: "loadBalancer"

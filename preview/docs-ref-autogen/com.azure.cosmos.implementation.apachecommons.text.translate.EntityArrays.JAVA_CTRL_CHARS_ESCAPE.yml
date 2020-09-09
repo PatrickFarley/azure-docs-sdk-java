@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.text.translate.EntityArrays.JAVA_CTRL_CHARS_ESCAPE"
   name: "JAVA_CTRL_CHARS_ESCAPE"
   nameWithType: "EntityArrays.JAVA_CTRL_CHARS_ESCAPE"
-  summary: "A Map&lt;CharSequence, CharSequence&gt; to escape the Java\n control characters.\n\n Namely: <code>\\b \\n \\t \\f \\r</code>"
+  summary: "A Map<CharSequence, CharSequence> to escape the Java control characters. Namely: `\\b \\n \\t \\f \\r`"
   syntax: "public static final Map<CharSequence,CharSequence> JAVA_CTRL_CHARS_ESCAPE"
 type: "field"
 metadata: {}

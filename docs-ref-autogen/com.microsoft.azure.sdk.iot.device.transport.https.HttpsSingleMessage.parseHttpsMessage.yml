@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsSingleMessage.parseHttpsMessage(Message message)"
   name: "parseHttpsMessage(Message message)"
   nameWithType: "HttpsSingleMessage.parseHttpsMessage(Message message)"
-  summary: "Returns the HTTPS message represented by the service-bound message for\n binary octets.  Content type \"binary/octet-stream\""
+  summary: "Returns the HTTPS message represented by the service-bound message for binary octets. Content type \"binary/octet-stream\""
   parameters:
   - description: "the service-bound message to be mapped to its HTTPS message\n equivalent."
     name: "message"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TextTranslationSkill.getDefaultToLanguageCode()"
   name: "getDefaultToLanguageCode()"
   nameWithType: "TextTranslationSkill.getDefaultToLanguageCode()"
-  summary: "Get the defaultToLanguageCode property: The language code to translate documents into for documents that don't\n specify the to language explicitly."
+  summary: "Get the defaultToLanguageCode property: The language code to translate documents into for documents that don't specify the to language explicitly."
   syntax: "public TextTranslationSkillLanguage getDefaultToLanguageCode()"
   returns:
     description: "the defaultToLanguageCode value."

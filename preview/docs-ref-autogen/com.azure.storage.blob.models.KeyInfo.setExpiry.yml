@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.KeyInfo.setExpiry(String expiry)"
   name: "setExpiry(String expiry)"
   nameWithType: "KeyInfo.setExpiry(String expiry)"
-  summary: "Set the expiry property: The date-time the key expires in ISO 8601 UTC\n time."
+  summary: "Set the expiry property: The date-time the key expires in ISO 8601 UTC time."
   parameters:
   - description: "the expiry value to set."
     name: "expiry"

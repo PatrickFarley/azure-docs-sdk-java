@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Comparators.<T>isInOrder(Iterable<? extends T> iterable, Comparator<T> comparator)"
   name: "<T>isInOrder(Iterable<? extends T> iterable, Comparator<T> comparator)"
   nameWithType: "Comparators.<T>isInOrder(Iterable<? extends T> iterable, Comparator<T> comparator)"
-  summary: "Returns <code>true</code> if each element in <code>iterable</code> after the first is greater than or\n equal to the element that preceded it, according to the specified comparator. Note that this is\n always true when the iterable has fewer than two elements."
+  summary: "Returns `true` if each element in `iterable` after the first is greater than or equal to the element that preceded it, according to the specified comparator. Note that this is always true when the iterable has fewer than two elements."
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends T?alt=? extends T&text=? extends T\" data-throw-if-not-resolved=\"False\" />&gt;"

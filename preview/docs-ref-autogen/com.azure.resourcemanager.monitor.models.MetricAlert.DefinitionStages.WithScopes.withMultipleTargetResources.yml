@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlert.DefinitionStages.WithScopes.withMultipleTargetResources(Collection<? extends Resource> resources)"
   name: "withMultipleTargetResources(Collection<? extends Resource> resources)"
   nameWithType: "MetricAlert.DefinitionStages.WithScopes.withMultipleTargetResources(Collection<? extends Resource> resources)"
-  summary: "Sets specified resources as target to alert on metric. All resources must be of the same type and in the\n same region."
+  summary: "Sets specified resources as target to alert on metric. All resources must be of the same type and in the same region."
   parameters:
   - description: "collection of resources to alert on metric, which must be of the same type and in the\n     same region."
     name: "resources"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlert.DefinitionStages.WithScopes.withMultipleTargetResources(Collection<String> resourceIds, String type, String regionName)"
   name: "withMultipleTargetResources(Collection<String> resourceIds, String type, String regionName)"
   nameWithType: "MetricAlert.DefinitionStages.WithScopes.withMultipleTargetResources(Collection<String> resourceIds, String type, String regionName)"
-  summary: "Sets specified resources as target to alert on metric. All resources must be of the same type and in the\n same region."
+  summary: "Sets specified resources as target to alert on metric. All resources must be of the same type and in the same region."
   parameters:
   - description: "collection of resource id to alert on metric."
     name: "resourceIds"

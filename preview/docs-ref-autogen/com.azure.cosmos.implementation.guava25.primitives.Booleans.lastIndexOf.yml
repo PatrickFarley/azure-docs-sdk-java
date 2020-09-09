@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Booleans.lastIndexOf(boolean[] array, boolean target)"
   name: "lastIndexOf(boolean[] array, boolean target)"
   nameWithType: "Booleans.lastIndexOf(boolean[] array, boolean target)"
-  summary: "Returns the index of the last appearance of the value <code>target</code> in <code>array</code>."
+  summary: "Returns the index of the last appearance of the value `target` in `array`."
   parameters:
   - description: "an array of <code>boolean</code> values, possibly empty"
     name: "array"

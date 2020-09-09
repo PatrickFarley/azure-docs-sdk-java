@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.ReadResult.setAngle(float angle)"
   name: "setAngle(float angle)"
   nameWithType: "ReadResult.setAngle(float angle)"
-  summary: "Set the angle property: The general orientation of the text in clockwise direction, measured in degrees between\n (-180, 180]."
+  summary: "Set the angle property: The general orientation of the text in clockwise direction, measured in degrees between (-180, 180\\]."
   parameters:
   - description: "the angle value to set."
     name: "angle"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listAsync()"
   name: "listAsync()"
   nameWithType: "DomainsInner.listAsync()"
-  summary: "List domains under an Azure subscription.\n List all the domains under an Azure subscription."
+  summary: "List domains under an Azure subscription. List all the domains under an Azure subscription."
   syntax: "public Observable<Page<DomainInner>> listAsync()"
   returns:
     description: "the observable to the PagedList&lt;DomainInner&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listAsync(ListOperationCallback<DomainInner> serviceCallback)"
   name: "listAsync(ListOperationCallback<DomainInner> serviceCallback)"
   nameWithType: "DomainsInner.listAsync(ListOperationCallback<DomainInner> serviceCallback)"
-  summary: "List domains under an Azure subscription.\n List all the domains under an Azure subscription."
+  summary: "List domains under an Azure subscription. List all the domains under an Azure subscription."
   parameters:
   - description: "the async ServiceCallback to handle successful and failed responses."
     name: "serviceCallback"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listAsync(String filter, Integer top)"
   name: "listAsync(String filter, Integer top)"
   nameWithType: "DomainsInner.listAsync(String filter, Integer top)"
-  summary: "List domains under an Azure subscription.\n List all the domains under an Azure subscription."
+  summary: "List domains under an Azure subscription. List all the domains under an Azure subscription."
   parameters:
   - description: "The query used to filter the search results using OData syntax. Filtering is permitted on the 'name' property only and with limited number of OData operations. These operations are: the 'contains' function as well as the following logical operations: not, and, or, eq (for equal), and ne (for not equal). No arithmetic operations are supported. The following is a valid filter example: $filter=contains(namE, 'PATTERN') and name ne 'PATTERN-1'. The following is not a valid filter example: $filter=location eq 'westus'."
     name: "filter"
@@ -46,7 +46,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listAsync(String filter, Integer top, ListOperationCallback<DomainInner> serviceCallback)"
   name: "listAsync(String filter, Integer top, ListOperationCallback<DomainInner> serviceCallback)"
   nameWithType: "DomainsInner.listAsync(String filter, Integer top, ListOperationCallback<DomainInner> serviceCallback)"
-  summary: "List domains under an Azure subscription.\n List all the domains under an Azure subscription."
+  summary: "List domains under an Azure subscription. List all the domains under an Azure subscription."
   parameters:
   - description: "The query used to filter the search results using OData syntax. Filtering is permitted on the 'name' property only and with limited number of OData operations. These operations are: the 'contains' function as well as the following logical operations: not, and, or, eq (for equal), and ne (for not equal). No arithmetic operations are supported. The following is a valid filter example: $filter=contains(namE, 'PATTERN') and name ne 'PATTERN-1'. The following is not a valid filter example: $filter=location eq 'westus'."
     name: "filter"

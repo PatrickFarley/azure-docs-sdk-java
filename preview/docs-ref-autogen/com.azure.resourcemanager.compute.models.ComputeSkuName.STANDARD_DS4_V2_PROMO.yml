@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_DS4_V2_PROMO"
   name: "STANDARD_DS4_V2_PROMO"
   nameWithType: "ComputeSkuName.STANDARD_DS4_V2_PROMO"
-  summary: "Static value Standard_DS4_v2_Promo for ComputeSkuName."
+  summary: "Static value Standard\\_DS4\\_v2\\_Promo for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_DS4_V2_PROMO"
 type: "field"
 metadata: {}

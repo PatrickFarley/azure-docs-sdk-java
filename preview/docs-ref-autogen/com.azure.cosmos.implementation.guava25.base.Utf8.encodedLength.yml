@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Utf8.encodedLength(CharSequence sequence)"
   name: "encodedLength(CharSequence sequence)"
   nameWithType: "Utf8.encodedLength(CharSequence sequence)"
-  summary: "Returns the number of bytes in the UTF-8-encoded form of <code>sequence</code>. For a string, this\n method is equivalent to <code>string.getBytes(UTF_8).length</code>, but is more efficient in both\n time and space."
+  summary: "Returns the number of bytes in the UTF-8-encoded form of `sequence`. For a string, this method is equivalent to `string.getBytes(UTF_8).length`, but is more efficient in both time and space."
   parameters:
   - name: "sequence"
     type: "<xref href=\"java.lang.CharSequence?alt=java.lang.CharSequence&text=CharSequence\" data-throw-if-not-resolved=\"False\" />"

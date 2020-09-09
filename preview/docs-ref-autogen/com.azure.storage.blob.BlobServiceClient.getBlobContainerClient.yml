@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobServiceClient.getBlobContainerClient(String containerName)"
   name: "getBlobContainerClient(String containerName)"
   nameWithType: "BlobServiceClient.getBlobContainerClient(String containerName)"
-  summary: "Initializes a <xref uid=\"BlobContainerClient\" data-throw-if-not-resolved=\"false\">BlobContainerClient</xref> object pointing to the specified container. This method does not create\n a container. It simply constructs the URL to the container and offers access to methods relevant to containers.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n BlobContainerClient blobContainerClient = client.getBlobContainerClient&#40;&quot;containerName&quot;&#41;;\n </pre>"
+  summary: "Initializes a <xref uid=\"com.azure.storage.blob.BlobContainerClient\" data-throw-if-not-resolved=\"false\">BlobContainerClient</xref> object pointing to the specified container. This method does not create a container. It simply constructs the URL to the container and offers access to methods relevant to containers.\n\n**Code Samples**\n\n```java\nBlobContainerClient blobContainerClient = client.getBlobContainerClient(\"containerName\");\n```"
   parameters:
   - description: "The name of the container to point to."
     name: "containerName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RestoreRequestInner.withOverwrite(Boolean overwrite)"
   name: "withOverwrite(Boolean overwrite)"
   nameWithType: "RestoreRequestInner.withOverwrite(Boolean overwrite)"
-  summary: "Set the overwrite property: &lt;code&gt;true&lt;/code&gt; if the restore operation can overwrite target app;\n otherwise, &lt;code&gt;false&lt;/code&gt;. &lt;code&gt;true&lt;/code&gt; is needed if trying to restore over an\n existing app."
+  summary: "Set the overwrite property: <code>true</code> if the restore operation can overwrite target app; otherwise, <code>false</code>. <code>true</code> is needed if trying to restore over an existing app."
   parameters:
   - description: "the overwrite value to set."
     name: "overwrite"

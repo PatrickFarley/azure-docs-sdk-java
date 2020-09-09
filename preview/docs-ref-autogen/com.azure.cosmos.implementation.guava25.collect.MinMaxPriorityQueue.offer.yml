@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MinMaxPriorityQueue<E>.offer(E element)"
   name: "offer(E element)"
   nameWithType: "MinMaxPriorityQueue<E>.offer(E element)"
-  summary: "Adds the given element to this queue. If this queue has a maximum size, after adding <code>\n element</code> the queue will automatically evict its greatest element (according to its comparator),\n which may be <code>element</code> itself."
+  summary: "Adds the given element to this queue. If this queue has a maximum size, after adding `element` the queue will automatically evict its greatest element (according to its comparator), which may be `element` itself."
   parameters:
   - name: "element"
     type: "<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />"

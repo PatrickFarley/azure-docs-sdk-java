@@ -14,7 +14,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.implementation.models.ChangefeedCursor.ChangefeedCursor(int cursorVersion, String urlHost, OffsetDateTime endTime, SegmentCursor currentSegmentCursor)"
   name: "ChangefeedCursor(int cursorVersion, String urlHost, OffsetDateTime endTime, SegmentCursor currentSegmentCursor)"
   nameWithType: "ChangefeedCursor.ChangefeedCursor(int cursorVersion, String urlHost, OffsetDateTime endTime, SegmentCursor currentSegmentCursor)"
-  summary: "Constructor for use by to*Cursor methods."
+  summary: "Constructor for use by to\\*Cursor methods."
   parameters:
   - name: "cursorVersion"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

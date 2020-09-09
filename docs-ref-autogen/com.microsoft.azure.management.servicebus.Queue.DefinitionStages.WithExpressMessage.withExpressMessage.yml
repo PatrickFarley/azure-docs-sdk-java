@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.Queue.DefinitionStages.WithExpressMessage.withExpressMessage()"
   name: "withExpressMessage()"
   nameWithType: "Queue.DefinitionStages.WithExpressMessage.withExpressMessage()"
-  summary: "Specifies that messages in this queue are express hence they can be cached in memory\n for some time before storing it in messaging store.\n Note: By default queue is not express."
+  summary: "Specifies that messages in this queue are express hence they can be cached in memory for some time before storing it in messaging store. Note: By default queue is not express."
   syntax: "public abstract Queue.DefinitionStages.WithCreate withExpressMessage()"
   returns:
     description: "the next stage of queue definition"

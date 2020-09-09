@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineCustomImage.DefinitionStages.WithSourceVirtualMachine.fromVirtualMachine(VirtualMachine virtualMachine)"
   name: "fromVirtualMachine(VirtualMachine virtualMachine)"
   nameWithType: "VirtualMachineCustomImage.DefinitionStages.WithSourceVirtualMachine.fromVirtualMachine(VirtualMachine virtualMachine)"
-  summary: "Uses the virtual machine's OS and data disks as the sources for OS disk image and data disk images of\n this image."
+  summary: "Uses the virtual machine's OS and data disks as the sources for OS disk image and data disk images of this image."
   parameters:
   - description: "source virtual machine"
     name: "virtualMachine"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineCustomImage.DefinitionStages.WithSourceVirtualMachine.fromVirtualMachine(String virtualMachineId)"
   name: "fromVirtualMachine(String virtualMachineId)"
   nameWithType: "VirtualMachineCustomImage.DefinitionStages.WithSourceVirtualMachine.fromVirtualMachine(String virtualMachineId)"
-  summary: "Uses the virtual machine's OS disk and data disks as the source for OS disk image and data disk images of\n this image."
+  summary: "Uses the virtual machine's OS disk and data disks as the source for OS disk image and data disk images of this image."
   parameters:
   - description: "source virtual machine resource ID"
     name: "virtualMachineId"

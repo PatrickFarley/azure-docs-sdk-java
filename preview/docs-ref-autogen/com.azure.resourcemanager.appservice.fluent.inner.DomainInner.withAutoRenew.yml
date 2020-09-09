@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DomainInner.withAutoRenew(Boolean autoRenew)"
   name: "withAutoRenew(Boolean autoRenew)"
   nameWithType: "DomainInner.withAutoRenew(Boolean autoRenew)"
-  summary: "Set the autoRenew property: &lt;code&gt;true&lt;/code&gt; if the domain should be automatically renewed;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the autoRenew property: <code>true</code> if the domain should be automatically renewed; otherwise, <code>false</code>."
   parameters:
   - description: "the autoRenew value to set."
     name: "autoRenew"

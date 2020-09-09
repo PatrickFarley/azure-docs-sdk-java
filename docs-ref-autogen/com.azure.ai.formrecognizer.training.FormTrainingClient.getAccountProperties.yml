@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.training.FormTrainingClient.getAccountProperties()"
   name: "getAccountProperties()"
   nameWithType: "FormTrainingClient.getAccountProperties()"
-  summary: "Get account information of the form recognizer account.\n\n <p><strong>Code sample</strong></p>\n <pre>\n AccountProperties accountProperties = formTrainingClient.getAccountProperties&#40;&#41;;\n System.out.printf&#40;&quot;Max number of models that can be trained for this account: %d%n&quot;,\n     accountProperties.getCustomModelLimit&#40;&#41;&#41;;\n System.out.printf&#40;&quot;Current count of trained custom models: %d%n&quot;, accountProperties.getCustomModelCount&#40;&#41;&#41;;\n </pre>"
+  summary: "Get account information of the form recognizer account.\n\n**Code sample**\n\n```java\nAccountProperties accountProperties = formTrainingClient.getAccountProperties();\n System.out.printf(\"Max number of models that can be trained for this account: %d%n\",\n     accountProperties.getCustomModelLimit());\n System.out.printf(\"Current count of trained custom models: %d%n\", accountProperties.getCustomModelCount());\n```"
   syntax: "public AccountProperties getAccountProperties()"
   returns:
     description: "The requested account information of the form recognizer account."

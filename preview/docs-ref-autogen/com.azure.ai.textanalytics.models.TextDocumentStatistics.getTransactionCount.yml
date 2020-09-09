@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentStatistics.getTransactionCount()"
   name: "getTransactionCount()"
   nameWithType: "TextDocumentStatistics.getTransactionCount()"
-  summary: "Get the <code>transactionsCount</code> property: Number of transactions for the document."
+  summary: "Get the `transactionsCount` property: Number of transactions for the document."
   syntax: "public int getTransactionCount()"
   returns:
     description: "The <code>transactionsCount</code> value."

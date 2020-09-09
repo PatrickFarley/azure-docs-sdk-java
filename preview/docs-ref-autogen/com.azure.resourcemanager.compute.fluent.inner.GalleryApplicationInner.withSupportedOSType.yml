@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.GalleryApplicationInner.withSupportedOSType(OperatingSystemTypes supportedOSType)"
   name: "withSupportedOSType(OperatingSystemTypes supportedOSType)"
   nameWithType: "GalleryApplicationInner.withSupportedOSType(OperatingSystemTypes supportedOSType)"
-  summary: "Set the supportedOSType property: This property allows you to specify the supported type of the OS that\n application is built for. &lt;br&gt;&lt;br&gt; Possible values are: &lt;br&gt;&lt;br&gt; **Windows**\n &lt;br&gt;&lt;br&gt; **Linux**."
+  summary: "Set the supportedOSType property: This property allows you to specify the supported type of the OS that application is built for. <br><br> Possible values are: <br><br> \\*\\*Windows\\*\\* <br><br> \\*\\*Linux\\*\\*."
   parameters:
   - description: "the supportedOSType value to set."
     name: "supportedOSType"

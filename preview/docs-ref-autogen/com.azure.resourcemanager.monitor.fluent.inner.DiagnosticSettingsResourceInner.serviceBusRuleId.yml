@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.DiagnosticSettingsResourceInner.serviceBusRuleId()"
   name: "serviceBusRuleId()"
   nameWithType: "DiagnosticSettingsResourceInner.serviceBusRuleId()"
-  summary: "Get the serviceBusRuleId property: The service bus rule Id of the diagnostic setting. This is here to maintain\n backwards compatibility."
+  summary: "Get the serviceBusRuleId property: The service bus rule Id of the diagnostic setting. This is here to maintain backwards compatibility."
   syntax: "public String serviceBusRuleId()"
   returns:
     description: "the serviceBusRuleId value."

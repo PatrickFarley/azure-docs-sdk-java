@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.refreshInstanceView()"
   name: "refreshInstanceView()"
   nameWithType: "VirtualMachine.refreshInstanceView()"
-  summary: "Refreshes the virtual machine instance view to sync with Azure.\n\n <p>The instance view will be cached for later retrieval using <code>instanceView</code>."
+  summary: "Refreshes the virtual machine instance view to sync with Azure.\n\nThe instance view will be cached for later retrieval using `instanceView`."
   syntax: "public abstract VirtualMachineInstanceView refreshInstanceView()"
   returns:
     description: "the refreshed instance view"

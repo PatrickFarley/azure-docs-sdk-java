@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.AzureFirewallIpConfiguration.withPublicIpAddress(SubResource publicIpAddress)"
   name: "withPublicIpAddress(SubResource publicIpAddress)"
   nameWithType: "AzureFirewallIpConfiguration.withPublicIpAddress(SubResource publicIpAddress)"
-  summary: "Set the publicIpAddress property: Reference of the PublicIP resource. This field is a mandatory input if subnet\n is not null."
+  summary: "Set the publicIpAddress property: Reference of the PublicIP resource. This field is a mandatory input if subnet is not null."
   parameters:
   - description: "the publicIpAddress value to set."
     name: "publicIpAddress"

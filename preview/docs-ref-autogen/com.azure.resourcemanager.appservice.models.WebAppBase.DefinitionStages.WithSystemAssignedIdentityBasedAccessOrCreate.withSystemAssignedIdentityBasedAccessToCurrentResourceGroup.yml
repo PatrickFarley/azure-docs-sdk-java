@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate<FluentT>.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(BuiltInRole role)"
   name: "withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(BuiltInRole role)"
   nameWithType: "WebAppBase.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate<FluentT>.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(BuiltInRole role)"
-  summary: "Specifies that web app's system assigned (local) identity should have the given access (described by the\n role) on the resource group that web app resides. Applications running on the web app will have the same\n permission (role) on the resource group."
+  summary: "Specifies that web app's system assigned (local) identity should have the given access (described by the role) on the resource group that web app resides. Applications running on the web app will have the same permission (role) on the resource group."
   parameters:
   - description: "access role to assigned to the web app's local identity"
     name: "role"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate<FluentT>.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(String roleDefinitionId)"
   name: "withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(String roleDefinitionId)"
   nameWithType: "WebAppBase.DefinitionStages.WithSystemAssignedIdentityBasedAccessOrCreate<FluentT>.withSystemAssignedIdentityBasedAccessToCurrentResourceGroup(String roleDefinitionId)"
-  summary: "Specifies that web app's system assigned (local) identity should have the access (described by the role\n definition) on the resource group that web app resides. Applications running on the web app will have the\n same permission (role) on the resource group."
+  summary: "Specifies that web app's system assigned (local) identity should have the access (described by the role definition) on the resource group that web app resides. Applications running on the web app will have the same permission (role) on the resource group."
   parameters:
   - description: "access role definition to assigned to the web app's local identity"
     name: "roleDefinitionId"

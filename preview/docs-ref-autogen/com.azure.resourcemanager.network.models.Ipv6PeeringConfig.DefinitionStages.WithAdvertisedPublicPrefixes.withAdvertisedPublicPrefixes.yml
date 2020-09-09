@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.Ipv6PeeringConfig.DefinitionStages.WithAdvertisedPublicPrefixes<ParentT>.withAdvertisedPublicPrefixes(List<String> publicPrefixes)"
   name: "withAdvertisedPublicPrefixes(List<String> publicPrefixes)"
   nameWithType: "Ipv6PeeringConfig.DefinitionStages.WithAdvertisedPublicPrefixes<ParentT>.withAdvertisedPublicPrefixes(List<String> publicPrefixes)"
-  summary: "Specify advertised prefixes: sets a list of all prefixes that are planned to advertise over the BGP\n session. Method will overwrite existing list. Only public IP address prefixes are accepted. A set of\n prefixes can be sent as a comma-separated list. These prefixes must be registered to you in an RIR / IRR."
+  summary: "Specify advertised prefixes: sets a list of all prefixes that are planned to advertise over the BGP session. Method will overwrite existing list. Only public IP address prefixes are accepted. A set of prefixes can be sent as a comma-separated list. These prefixes must be registered to you in an RIR / IRR."
   parameters:
   - description: "advertised prefixes"
     name: "publicPrefixes"

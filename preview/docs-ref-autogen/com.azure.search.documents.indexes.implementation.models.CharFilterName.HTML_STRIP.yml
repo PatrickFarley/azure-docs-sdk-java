@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.CharFilterName.HTML_STRIP"
   name: "HTML_STRIP"
   nameWithType: "CharFilterName.HTML_STRIP"
-  summary: "Static value html_strip for CharFilterName."
+  summary: "Static value html\\_strip for CharFilterName."
   syntax: "public static final CharFilterName HTML_STRIP"
 type: "field"
 metadata: {}

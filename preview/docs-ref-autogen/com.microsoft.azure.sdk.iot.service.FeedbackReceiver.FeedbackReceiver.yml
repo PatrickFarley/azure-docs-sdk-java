@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.FeedbackReceiver.FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol)"
   name: "FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol)"
   nameWithType: "FeedbackReceiver.FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol)"
-  summary: "Constructor to verify initialization parameters\n Create instance of AmqpReceive"
+  summary: "Constructor to verify initialization parameters Create instance of AmqpReceive"
   parameters:
   - description: "The iot hub host name"
     name: "hostName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.FeedbackReceiver.FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, ProxyOptions proxyOptions)"
   name: "FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, ProxyOptions proxyOptions)"
   nameWithType: "FeedbackReceiver.FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, ProxyOptions proxyOptions)"
-  summary: "Constructor to verify initialization parameters\n Create instance of AmqpReceive"
+  summary: "Constructor to verify initialization parameters Create instance of AmqpReceive"
   parameters:
   - description: "The iot hub host name"
     name: "hostName"
@@ -49,7 +49,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.FeedbackReceiver.FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, String deviceId)"
   name: "FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, String deviceId)"
   nameWithType: "FeedbackReceiver.FeedbackReceiver(String hostName, String userName, String sasToken, IotHubServiceClientProtocol iotHubServiceClientProtocol, String deviceId)"
-  summary: "Constructor to verify initialization parameters\n Create instance of AmqpReceive"
+  summary: "Constructor to verify initialization parameters Create instance of AmqpReceive"
   parameters:
   - description: "The iot hub host name"
     name: "hostName"

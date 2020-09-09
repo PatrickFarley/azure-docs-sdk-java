@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.models.RecordedData.findFirstAndRemoveNetworkCall(Predicate<NetworkCallRecord> isMatch)"
   name: "findFirstAndRemoveNetworkCall(Predicate<NetworkCallRecord> isMatch)"
   nameWithType: "RecordedData.findFirstAndRemoveNetworkCall(Predicate<NetworkCallRecord> isMatch)"
-  summary: "Finds the first matching <xref uid=\"NetworkCallRecord\" data-throw-if-not-resolved=\"false\">NetworkCallRecord</xref> based on the predicate, removes it from the current network\n calls, and returns it. <code>null</code> is returned if network call could not be matched."
+  summary: "Finds the first matching <xref uid=\"com.azure.core.test.models.NetworkCallRecord\" data-throw-if-not-resolved=\"false\">NetworkCallRecord</xref> based on the predicate, removes it from the current network calls, and returns it. `null` is returned if network call could not be matched."
   parameters:
   - description: "Predicate to match for a given network call."
     name: "isMatch"

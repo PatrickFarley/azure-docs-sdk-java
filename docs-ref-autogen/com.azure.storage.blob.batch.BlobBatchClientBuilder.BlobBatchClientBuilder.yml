@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatchClientBuilder.BlobBatchClientBuilder(BlobServiceAsyncClient client)"
   name: "BlobBatchClientBuilder(BlobServiceAsyncClient client)"
   nameWithType: "BlobBatchClientBuilder.BlobBatchClientBuilder(BlobServiceAsyncClient client)"
-  summary: "Constructs the <xref uid=\"BlobBatchClientBuilder\" data-throw-if-not-resolved=\"false\">BlobBatchClientBuilder</xref> using the <xref uid=\"BlobServiceAsyncClient#getAccountUrl()\" data-throw-if-not-resolved=\"false\">account\n URL</xref> and <xref uid=\"BlobServiceAsyncClient#getHttpPipeline()\" data-throw-if-not-resolved=\"false\">HttpPipeline</xref> properties of the passed <xref uid=\"BlobServiceAsyncClient\" data-throw-if-not-resolved=\"false\">BlobServiceAsyncClient</xref>."
+  summary: "Constructs the <xref uid=\"com.azure.storage.blob.batch.BlobBatchClientBuilder\" data-throw-if-not-resolved=\"false\">BlobBatchClientBuilder</xref> using the <xref uid=\"BlobServiceAsyncClient#getAccountUrl()\" data-throw-if-not-resolved=\"false\">account\n URL</xref> and <xref uid=\"com.azure.storage.blob.BlobServiceAsyncClient.getHttpPipeline*\" data-throw-if-not-resolved=\"false\">HttpPipeline</xref> properties of the passed <xref uid=\"com.azure.storage.blob.BlobServiceAsyncClient\" data-throw-if-not-resolved=\"false\">BlobServiceAsyncClient</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref> whose properties are used to configure the builder."
     name: "client"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.storage.blob.batch.BlobBatchClientBuilder.BlobBatchClientBuilder(BlobServiceClient client)"
   name: "BlobBatchClientBuilder(BlobServiceClient client)"
   nameWithType: "BlobBatchClientBuilder.BlobBatchClientBuilder(BlobServiceClient client)"
-  summary: "Constructs the <xref uid=\"BlobBatchClientBuilder\" data-throw-if-not-resolved=\"false\">BlobBatchClientBuilder</xref> using the <xref uid=\"BlobServiceClient#getAccountUrl()\" data-throw-if-not-resolved=\"false\">account URL</xref> and\n <xref uid=\"BlobServiceClient#getHttpPipeline()\" data-throw-if-not-resolved=\"false\">HttpPipeline</xref> properties of the passed <xref uid=\"BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref>."
+  summary: "Constructs the <xref uid=\"com.azure.storage.blob.batch.BlobBatchClientBuilder\" data-throw-if-not-resolved=\"false\">BlobBatchClientBuilder</xref> using the <xref uid=\"com.azure.storage.blob.BlobServiceClient.getAccountUrl*\" data-throw-if-not-resolved=\"false\">account URL</xref> and <xref uid=\"com.azure.storage.blob.BlobServiceClient.getHttpPipeline*\" data-throw-if-not-resolved=\"false\">HttpPipeline</xref> properties of the passed <xref uid=\"com.azure.storage.blob.BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref> whose properties are used to configure the builder."
     name: "client"

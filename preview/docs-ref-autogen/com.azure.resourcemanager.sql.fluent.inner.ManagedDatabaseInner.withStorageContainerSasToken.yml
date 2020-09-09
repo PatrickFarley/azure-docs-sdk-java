@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedDatabaseInner.withStorageContainerSasToken(String storageContainerSasToken)"
   name: "withStorageContainerSasToken(String storageContainerSasToken)"
   nameWithType: "ManagedDatabaseInner.withStorageContainerSasToken(String storageContainerSasToken)"
-  summary: "Set the storageContainerSasToken property: Conditional. If createMode is RestoreExternalBackup, this value is\n required. Specifies the storage container sas token."
+  summary: "Set the storageContainerSasToken property: Conditional. If createMode is RestoreExternalBackup, this value is required. Specifies the storage container sas token."
   parameters:
   - description: "the storageContainerSasToken value to set."
     name: "storageContainerSasToken"

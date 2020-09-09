@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.IntMath.saturatedPow(int b, int k)"
   name: "saturatedPow(int b, int k)"
   nameWithType: "IntMath.saturatedPow(int b, int k)"
-  summary: "Returns the <code>b</code> to the <code>k</code>th power, unless it would overflow or underflow in which\n case <code>Integer.MAX_VALUE</code> or <code>Integer.MIN_VALUE</code> is returned, respectively."
+  summary: "Returns the `b` to the `k`th power, unless it would overflow or underflow in which case `Integer.MAX_VALUE` or `Integer.MIN_VALUE` is returned, respectively."
   parameters:
   - name: "b"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

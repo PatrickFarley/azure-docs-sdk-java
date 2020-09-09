@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset<E>.<E>toImmutableMultiset()"
   name: "<E>toImmutableMultiset()"
   nameWithType: "ImmutableMultiset<E>.<E>toImmutableMultiset()"
-  summary: "Returns a <code>Collector</code> that accumulates the input elements into a new <code>\n ImmutableMultiset</code>. Elements iterate in order by the <i>first</i> appearance of that element in\n encounter order."
+  summary: "Returns a `Collector` that accumulates the input elements into a new `ImmutableMultiset`. Elements iterate in order by the *first* appearance of that element in encounter order."
   syntax: "public static Collector<E,?,ImmutableMultiset<E>> <E>toImmutableMultiset()"
   returns:
     type: "<xref href=\"java.util.stream.Collector?alt=java.util.stream.Collector&text=Collector\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />,?,<xref href=\"com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset?alt=com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset&text=ImmutableMultiset\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"
@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset<E>.<T,E>toImmutableMultiset(Function<? super T,? extends E> elementFunction, ToIntFunction<? super T> countFunction)"
   name: "<T,E>toImmutableMultiset(Function<? super T,? extends E> elementFunction, ToIntFunction<? super T> countFunction)"
   nameWithType: "ImmutableMultiset<E>.<T,E>toImmutableMultiset(Function<? super T,? extends E> elementFunction, ToIntFunction<? super T> countFunction)"
-  summary: "Returns a <code>Collector</code> that accumulates elements into an <code>ImmutableMultiset</code> whose\n elements are the result of applying <code>elementFunction</code> to the inputs, with counts equal to\n the result of applying <code>countFunction</code> to the inputs.\n\n <p>If the mapped elements contain duplicates (according to <xref uid=\"Object#equals\" data-throw-if-not-resolved=\"false\">Object#equals</xref>), the first\n occurrence in encounter order appears in the resulting multiset, with count equal to the sum of\n the outputs of <code>countFunction.applyAsInt(t)</code> for each <code>t</code> mapped to that element."
+  summary: "Returns a `Collector` that accumulates elements into an `ImmutableMultiset` whose elements are the result of applying `elementFunction` to the inputs, with counts equal to the result of applying `countFunction` to the inputs.\n\nIf the mapped elements contain duplicates (according to <xref uid=\"java.lang.Object.equals\" data-throw-if-not-resolved=\"false\">Object#equals</xref>), the first occurrence in encounter order appears in the resulting multiset, with count equal to the sum of the outputs of `countFunction.applyAsInt(t)` for each `t` mapped to that element."
   parameters:
   - name: "elementFunction"
     type: "<xref href=\"java.util.function.Function?alt=java.util.function.Function&text=Function\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super T?alt=? super T&text=? super T\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends E?alt=? extends E&text=? extends E\" data-throw-if-not-resolved=\"False\" />&gt;"

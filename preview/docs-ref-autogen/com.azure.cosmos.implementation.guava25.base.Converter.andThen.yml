@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Converter<A,B>.<C>andThen(Converter<B,C> secondConverter)"
   name: "<C>andThen(Converter<B,C> secondConverter)"
   nameWithType: "Converter<A,B>.<C>andThen(Converter<B,C> secondConverter)"
-  summary: "Returns a converter whose <code>convert</code> method applies <code>secondConverter</code> to the result\n of this converter. Its <code>reverse</code> method applies the converters in reverse order.\n\n <p>The returned converter is serializable if <code>this</code> converter and <code>secondConverter</code>\n are."
+  summary: "Returns a converter whose `convert` method applies `secondConverter` to the result of this converter. Its `reverse` method applies the converters in reverse order.\n\nThe returned converter is serializable if `this` converter and `secondConverter` are."
   parameters:
   - name: "secondConverter"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.Converter?alt=com.azure.cosmos.implementation.guava25.base.Converter&text=Converter\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"B?alt=B&text=B\" data-throw-if-not-resolved=\"False\" />,<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.StorageOutputStream.write(byte[] data)"
   name: "write(byte[] data)"
   nameWithType: "StorageOutputStream.write(byte[] data)"
-  summary: "Writes <code>b.length</code> bytes from the specified byte array to this output stream.\n <p>"
+  summary: "Writes `b.length` bytes from the specified byte array to this output stream."
   overridden: "java.io.OutputStream.write(byte[])"
   parameters:
   - description: "A <code>byte</code> array which represents the data to write."
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.storage.common.StorageOutputStream.write(byte[] data, int offset, int length)"
   name: "write(byte[] data, int offset, int length)"
   nameWithType: "StorageOutputStream.write(byte[] data, int offset, int length)"
-  summary: "Writes length bytes from the specified byte array starting at offset to this output stream.\n <p>"
+  summary: "Writes length bytes from the specified byte array starting at offset to this output stream."
   overridden: "java.io.OutputStream.write(byte[],int,int)"
   parameters:
   - description: "A <code>byte</code> array which represents the data to write."
@@ -36,7 +36,7 @@ members:
   fullName: "com.azure.storage.common.StorageOutputStream.write(int byteVal)"
   name: "write(int byteVal)"
   nameWithType: "StorageOutputStream.write(int byteVal)"
-  summary: "Writes the specified byte to this output stream. The general contract for write is that one byte is written to\n the output stream. The byte to be written is the eight low-order bits of the argument b. The 24 high-order bits\n of b are ignored.\n <p>\n <code>true</code> is acceptable for you."
+  summary: "Writes the specified byte to this output stream. The general contract for write is that one byte is written to the output stream. The byte to be written is the eight low-order bits of the argument b. The 24 high-order bits of b are ignored.\n\n`true` is acceptable for you."
   overridden: "java.io.OutputStream.write(int)"
   parameters:
   - description: "An <code>int</code> which represents the byte value to write."

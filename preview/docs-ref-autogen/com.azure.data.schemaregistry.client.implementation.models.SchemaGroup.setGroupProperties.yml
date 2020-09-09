@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.implementation.models.SchemaGroup.setGroupProperties(Map<String,String> groupProperties)"
   name: "setGroupProperties(Map<String,String> groupProperties)"
   nameWithType: "SchemaGroup.setGroupProperties(Map<String,String> groupProperties)"
-  summary: "Set the groupProperties property: Dictionary of &lt;string&gt;."
+  summary: "Set the groupProperties property: Dictionary of <string>."
   parameters:
   - description: "the groupProperties value to set."
     name: "groupProperties"

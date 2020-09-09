@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventChannelsInner.listByPartnerNamespaceWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName)"
   name: "listByPartnerNamespaceWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName)"
   nameWithType: "EventChannelsInner.listByPartnerNamespaceWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName)"
-  summary: "List event channels.\n List all the event channels in a partner namespace."
+  summary: "List event channels. List all the event channels in a partner namespace."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventChannelsInner.listByPartnerNamespaceWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName, String filter, Integer top)"
   name: "listByPartnerNamespaceWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName, String filter, Integer top)"
   nameWithType: "EventChannelsInner.listByPartnerNamespaceWithServiceResponseAsync(String resourceGroupName, String partnerNamespaceName, String filter, Integer top)"
-  summary: "List event channels.\n List all the event channels in a partner namespace."
+  summary: "List event channels. List all the event channels in a partner namespace."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

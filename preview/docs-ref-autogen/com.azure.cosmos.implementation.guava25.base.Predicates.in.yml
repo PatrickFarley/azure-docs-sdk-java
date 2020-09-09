@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicates.<T>in(Collection<? extends T> target)"
   name: "<T>in(Collection<? extends T> target)"
   nameWithType: "Predicates.<T>in(Collection<? extends T> target)"
-  summary: "Returns a predicate that evaluates to <code>true</code> if the object reference being tested is a\n member of the given collection. It does not defensively copy the collection passed in, so\n future changes to it will alter the behavior of the predicate.\n\n <p>This method can technically accept any <code>Collection<?></code>, but using a typed collection\n helps prevent bugs. This approach doesn't block any potential users since it is always possible\n to use <code>Predicates.<Object>in()</code>."
+  summary: "Returns a predicate that evaluates to `true` if the object reference being tested is a member of the given collection. It does not defensively copy the collection passed in, so future changes to it will alter the behavior of the predicate.\n\nThis method can technically accept any `Collection`, but using a typed collection helps prevent bugs. This approach doesn't block any potential users since it is always possible to use `Predicates.in().`"
   parameters:
   - description: "the collection that may contain the function input"
     name: "target"

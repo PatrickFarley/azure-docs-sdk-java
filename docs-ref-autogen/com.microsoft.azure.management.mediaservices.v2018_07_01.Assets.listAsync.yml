@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.Assets.listAsync(String resourceGroupName, String accountName)"
   name: "listAsync(String resourceGroupName, String accountName)"
   nameWithType: "Assets.listAsync(String resourceGroupName, String accountName)"
-  summary: "List Assets.\n List Assets in the Media Services account with optional filtering and ordering."
+  summary: "List Assets. List Assets in the Media Services account with optional filtering and ordering."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

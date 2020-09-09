@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Doubles.ensureCapacity(double[] array, int minLength, int padding)"
   name: "ensureCapacity(double[] array, int minLength, int padding)"
   nameWithType: "Doubles.ensureCapacity(double[] array, int minLength, int padding)"
-  summary: "Returns an array containing the same values as <code>array</code>, but guaranteed to be of a\n specified minimum length. If <code>array</code> already has a length of at least <code>minLength</code>,\n it is returned directly. Otherwise, a new array of size <code>minLength + padding</code> is\n returned, containing the values of <code>array</code>, and zeroes in the remaining places."
+  summary: "Returns an array containing the same values as `array`, but guaranteed to be of a specified minimum length. If `array` already has a length of at least `minLength`, it is returned directly. Otherwise, a new array of size `minLength + padding` is returned, containing the values of `array`, and zeroes in the remaining places."
   parameters:
   - description: "the source array"
     name: "array"

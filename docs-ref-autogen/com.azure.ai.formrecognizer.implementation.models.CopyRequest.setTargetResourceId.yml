@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.CopyRequest.setTargetResourceId(String targetResourceId)"
   name: "setTargetResourceId(String targetResourceId)"
   nameWithType: "CopyRequest.setTargetResourceId(String targetResourceId)"
-  summary: "Set the targetResourceId property: Azure Resource Id of the target Form Recognizer resource where the model is\n copied to."
+  summary: "Set the targetResourceId property: Azure Resource Id of the target Form Recognizer resource where the model is copied to."
   parameters:
   - description: "the targetResourceId value to set."
     name: "targetResourceId"

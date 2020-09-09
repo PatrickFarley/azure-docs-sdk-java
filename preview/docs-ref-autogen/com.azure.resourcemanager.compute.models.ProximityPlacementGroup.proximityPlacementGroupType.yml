@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ProximityPlacementGroup.proximityPlacementGroupType()"
   name: "proximityPlacementGroupType()"
   nameWithType: "ProximityPlacementGroup.proximityPlacementGroupType()"
-  summary: "Get specifies the type of the proximity placement group. &lt;br&gt;&lt;br&gt; Possible values are:\n &lt;br&gt;&lt;br&gt; **Standard** &lt;br&gt;&lt;br&gt; **Ultra**. Possible values include: 'Standard', 'Ultra'."
+  summary: "Get specifies the type of the proximity placement group. <br><br> Possible values are: <br><br> \\*\\*Standard\\*\\* <br><br> \\*\\*Ultra\\*\\*. Possible values include: 'Standard', 'Ultra'."
   syntax: "public abstract ProximityPlacementGroupType proximityPlacementGroupType()"
   returns:
     description: "the proximityPlacementGroupType value"

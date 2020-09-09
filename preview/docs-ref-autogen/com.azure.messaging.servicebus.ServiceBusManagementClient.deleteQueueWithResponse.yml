@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClient.deleteQueueWithResponse(String queueName, Context context)"
   name: "deleteQueueWithResponse(String queueName, Context context)"
   nameWithType: "ServiceBusManagementClient.deleteQueueWithResponse(String queueName, Context context)"
-  summary: "Deletes a queue the matching <code>queueName</code> and returns the HTTP response."
+  summary: "Deletes a queue the matching `queueName` and returns the HTTP response."
   parameters:
   - description: "Name of queue to delete."
     name: "queueName"

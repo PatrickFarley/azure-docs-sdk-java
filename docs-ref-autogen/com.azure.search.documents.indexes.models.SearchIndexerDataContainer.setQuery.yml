@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerDataContainer.setQuery(String query)"
   name: "setQuery(String query)"
   nameWithType: "SearchIndexerDataContainer.setQuery(String query)"
-  summary: "Set the query property: A query that is applied to this data container.\n The syntax and meaning of this parameter is datasource-specific. Not\n supported by Azure SQL datasources."
+  summary: "Set the query property: A query that is applied to this data container. The syntax and meaning of this parameter is datasource-specific. Not supported by Azure SQL datasources."
   parameters:
   - description: "the query value to set."
     name: "query"

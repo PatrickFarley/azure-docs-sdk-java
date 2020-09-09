@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ADGroupInner.withMailEnabled(Boolean mailEnabled)"
   name: "withMailEnabled(Boolean mailEnabled)"
   nameWithType: "ADGroupInner.withMailEnabled(Boolean mailEnabled)"
-  summary: "Set the mailEnabled property: Whether the group is mail-enabled. Must be false. This is because only pure\n security groups can be created using the Graph API."
+  summary: "Set the mailEnabled property: Whether the group is mail-enabled. Must be false. This is because only pure security groups can be created using the Graph API."
   parameters:
   - description: "the mailEnabled value to set."
     name: "mailEnabled"

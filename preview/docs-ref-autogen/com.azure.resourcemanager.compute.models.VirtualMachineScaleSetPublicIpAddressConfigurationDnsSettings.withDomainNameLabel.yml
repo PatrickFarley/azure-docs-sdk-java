@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetPublicIpAddressConfigurationDnsSettings.withDomainNameLabel(String domainNameLabel)"
   name: "withDomainNameLabel(String domainNameLabel)"
   nameWithType: "VirtualMachineScaleSetPublicIpAddressConfigurationDnsSettings.withDomainNameLabel(String domainNameLabel)"
-  summary: "Set the domainNameLabel property: The Domain name label.The concatenation of the domain name label and vm index\n will be the domain name labels of the PublicIPAddress resources that will be created."
+  summary: "Set the domainNameLabel property: The Domain name label.The concatenation of the domain name label and vm index will be the domain name labels of the PublicIPAddress resources that will be created."
   parameters:
   - description: "the domainNameLabel value to set."
     name: "domainNameLabel"

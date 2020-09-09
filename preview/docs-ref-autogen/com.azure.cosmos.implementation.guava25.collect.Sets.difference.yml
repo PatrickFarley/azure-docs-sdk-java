@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Sets.<E>difference(Set<E> set1, Set<?> set2)"
   name: "<E>difference(Set<E> set1, Set<?> set2)"
   nameWithType: "Sets.<E>difference(Set<E> set1, Set<?> set2)"
-  summary: "Returns an unmodifiable <b>view</b> of the difference of two sets. The returned set contains\n all elements that are contained by <code>set1</code> and not contained by <code>set2</code>. <code>set2</code>\n may also contain elements not present in <code>set1</code>; these are simply ignored. The iteration\n order of the returned set matches that of <code>set1</code>.\n\n <p>Results are undefined if <code>set1</code> and <code>set2</code> are sets based on different\n equivalence relations (as <code>HashSet</code>, <code>TreeSet</code>, and the keySet of an <code>\n IdentityHashMap</code> all are)."
+  summary: "Returns an unmodifiable **view** of the difference of two sets. The returned set contains all elements that are contained by `set1` and not contained by `set2`. `set2` may also contain elements not present in `set1`; these are simply ignored. The iteration order of the returned set matches that of `set1`.\n\nResults are undefined if `set1` and `set2` are sets based on different equivalence relations (as `HashSet`, `TreeSet`, and the keySet of an `IdentityHashMap` all are)."
   parameters:
   - name: "set1"
     type: "<xref href=\"java.util.Set?alt=java.util.Set&text=Set\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;"

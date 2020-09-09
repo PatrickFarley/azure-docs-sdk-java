@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.Source.withAuthorizedResources(List<String> authorizedResources)"
   name: "withAuthorizedResources(List<String> authorizedResources)"
   nameWithType: "Source.withAuthorizedResources(List<String> authorizedResources)"
-  summary: "Set list of  Resource referred into query."
+  summary: "Set list of Resource referred into query."
   parameters:
   - description: "the authorizedResources value to set"
     name: "authorizedResources"

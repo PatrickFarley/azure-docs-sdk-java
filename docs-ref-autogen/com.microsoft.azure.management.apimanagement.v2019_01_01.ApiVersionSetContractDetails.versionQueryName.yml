@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiVersionSetContractDetails.versionQueryName()"
   name: "versionQueryName()"
   nameWithType: "ApiVersionSetContractDetails.versionQueryName()"
-  summary: "Get name of query parameter that indicates the API Version if versioningScheme is set to `query`."
+  summary: "Get name of query parameter that indicates the API Version if versioningScheme is set to \\`query\\`."
   syntax: "public String versionQueryName()"
   returns:
     description: "the versionQueryName value"

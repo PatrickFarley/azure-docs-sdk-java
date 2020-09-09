@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RecurrentSchedule.withHours(List<Integer> hours)"
   name: "withHours(List<Integer> hours)"
   nameWithType: "RecurrentSchedule.withHours(List<Integer> hours)"
-  summary: "Set the hours property: A collection of hours that the profile takes effect on. Values supported are 0 to 23 on\n the 24-hour clock (AM/PM times are not supported)."
+  summary: "Set the hours property: A collection of hours that the profile takes effect on. Values supported are 0 to 23 on the 24-hour clock (AM/PM times are not supported)."
   parameters:
   - description: "the hours value to set."
     name: "hours"

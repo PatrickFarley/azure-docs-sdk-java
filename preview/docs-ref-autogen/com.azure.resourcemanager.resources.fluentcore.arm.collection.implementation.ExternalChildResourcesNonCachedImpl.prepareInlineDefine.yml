@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.collection.implementation.ExternalChildResourcesNonCachedImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.prepareInlineDefine(FluentModelTImpl model)"
   name: "prepareInlineDefine(FluentModelTImpl model)"
   nameWithType: "ExternalChildResourcesNonCachedImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.prepareInlineDefine(FluentModelTImpl model)"
-  summary: "Prepare the given model of an external child resource for inline create\n (along with the definition or update of parent resource)."
+  summary: "Prepare the given model of an external child resource for inline create (along with the definition or update of parent resource)."
   parameters:
   - description: "the model to track create changes"
     name: "model"

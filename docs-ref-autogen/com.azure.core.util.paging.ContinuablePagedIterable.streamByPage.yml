@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.streamByPage()"
   name: "streamByPage()"
   nameWithType: "ContinuablePagedIterable<C,T,P>.streamByPage()"
-  summary: "Retrieve the <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time.\n It will provide same <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of T values from starting if called multiple times."
+  summary: "Retrieve the <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time. It will provide same <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of T values from starting if called multiple times."
   syntax: "public Stream<P> streamByPage()"
   returns:
     description: "<xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of a pages"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.streamByPage(C continuationToken)"
   name: "streamByPage(C continuationToken)"
   nameWithType: "ContinuablePagedIterable<C,T,P>.streamByPage(C continuationToken)"
-  summary: "Retrieve the <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, starting from the next page associated with the given\n continuation token. To start from first page, use <xref uid=\"#streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead."
+  summary: "Retrieve the <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.core.util.paging.ContinuablePagedIterable.streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead."
   parameters:
   - description: "The continuation token used to fetch the next page"
     name: "continuationToken"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.streamByPage(C continuationToken, int preferredPageSize)"
   name: "streamByPage(C continuationToken, int preferredPageSize)"
   nameWithType: "ContinuablePagedIterable<C,T,P>.streamByPage(C continuationToken, int preferredPageSize)"
-  summary: "Retrieve the <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, with each page containing <code>preferredPageSize</code>\n items, starting from the next page associated with the given continuation token.\n To start from first page, use <xref uid=\"#streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> or <xref uid=\"#streamByPage(int)\" data-throw-if-not-resolved=\"false\">#streamByPage(int)</xref> instead."
+  summary: "Retrieve the <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, with each page containing `preferredPageSize` items, starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.core.util.paging.ContinuablePagedIterable.streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> or <xref uid=\"com.azure.core.util.paging.ContinuablePagedIterable.streamByPage(int)\" data-throw-if-not-resolved=\"false\">#streamByPage(int)</xref> instead."
   parameters:
   - description: "The continuation token used to fetch the next page"
     name: "continuationToken"
@@ -46,7 +46,7 @@ members:
   fullName: "com.azure.core.util.paging.ContinuablePagedIterable<C,T,P>.streamByPage(int preferredPageSize)"
   name: "streamByPage(int preferredPageSize)"
   nameWithType: "ContinuablePagedIterable<C,T,P>.streamByPage(int preferredPageSize)"
-  summary: "Retrieve the <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, with each page containing <code>preferredPageSize</code>\n items.\n\n It will provide same <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of T values from starting if called multiple times."
+  summary: "Retrieve the <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, with each page containing `preferredPageSize` items. It will provide same <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of T values from starting if called multiple times."
   parameters:
   - description: "the preferred page size, service may or may not honor the page\n                          size preference hence client MUST be prepared to handle pages\n                          with different page size."
     name: "preferredPageSize"

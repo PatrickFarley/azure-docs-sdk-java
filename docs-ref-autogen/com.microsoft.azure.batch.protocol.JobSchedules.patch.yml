@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.patch(String jobScheduleId, JobSchedulePatchParameter jobSchedulePatchParameter)"
   name: "patch(String jobScheduleId, JobSchedulePatchParameter jobSchedulePatchParameter)"
   nameWithType: "JobSchedules.patch(String jobScheduleId, JobSchedulePatchParameter jobSchedulePatchParameter)"
-  summary: "Updates the properties of the specified Job Schedule.\n This replaces only the Job Schedule properties specified in the request. For example, if the schedule property is not specified with this request, then the Batch service will keep the existing schedule. Changes to a Job Schedule only impact Jobs created by the schedule after the update has taken place; currently running Jobs are unaffected."
+  summary: "Updates the properties of the specified Job Schedule. This replaces only the Job Schedule properties specified in the request. For example, if the schedule property is not specified with this request, then the Batch service will keep the existing schedule. Changes to a Job Schedule only impact Jobs created by the schedule after the update has taken place; currently running Jobs are unaffected."
   parameters:
   - description: "The ID of the Job Schedule to update."
     name: "jobScheduleId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.JobSchedules.patch(String jobScheduleId, JobSchedulePatchParameter jobSchedulePatchParameter, JobSchedulePatchOptions jobSchedulePatchOptions)"
   name: "patch(String jobScheduleId, JobSchedulePatchParameter jobSchedulePatchParameter, JobSchedulePatchOptions jobSchedulePatchOptions)"
   nameWithType: "JobSchedules.patch(String jobScheduleId, JobSchedulePatchParameter jobSchedulePatchParameter, JobSchedulePatchOptions jobSchedulePatchOptions)"
-  summary: "Updates the properties of the specified Job Schedule.\n This replaces only the Job Schedule properties specified in the request. For example, if the schedule property is not specified with this request, then the Batch service will keep the existing schedule. Changes to a Job Schedule only impact Jobs created by the schedule after the update has taken place; currently running Jobs are unaffected."
+  summary: "Updates the properties of the specified Job Schedule. This replaces only the Job Schedule properties specified in the request. For example, if the schedule property is not specified with this request, then the Batch service will keep the existing schedule. Changes to a Job Schedule only impact Jobs created by the schedule after the update has taken place; currently running Jobs are unaffected."
   parameters:
   - description: "The ID of the Job Schedule to update."
     name: "jobScheduleId"

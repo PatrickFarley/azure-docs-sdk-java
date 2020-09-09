@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ImageDetailConverter.map(ImageDetail obj)"
   name: "map(ImageDetail obj)"
   nameWithType: "ImageDetailConverter.map(ImageDetail obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageDetail\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageDetail</xref> to enum <xref uid=\"ImageDetail\" data-throw-if-not-resolved=\"false\">ImageDetail</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageDetail\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageDetail</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.ImageDetail\" data-throw-if-not-resolved=\"false\">ImageDetail</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.ImageDetail?alt=com.azure.search.documents.indexes.implementation.models.ImageDetail&text=ImageDetail\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ImageDetailConverter.map(ImageDetail obj)"
   name: "map(ImageDetail obj)"
   nameWithType: "ImageDetailConverter.map(ImageDetail obj)"
-  summary: "Maps from enum <xref uid=\"ImageDetail\" data-throw-if-not-resolved=\"false\">ImageDetail</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageDetail\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageDetail</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.ImageDetail\" data-throw-if-not-resolved=\"false\">ImageDetail</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.ImageDetail\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ImageDetail</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.ImageDetail?alt=com.azure.search.documents.indexes.models.ImageDetail&text=ImageDetail\" data-throw-if-not-resolved=\"False\" />"

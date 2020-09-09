@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileReadHeaders.getVersion()"
   name: "getVersion()"
   nameWithType: "FileReadHeaders.getVersion()"
-  summary: "Get the version property: Indicates the version of the Blob service used\n to execute the request. This header is returned for requests made\n against version 2009-09-19 and above."
+  summary: "Get the version property: Indicates the version of the Blob service used to execute the request. This header is returned for requests made against version 2009-09-19 and above."
   syntax: "public String getVersion()"
   returns:
     description: "the version value."

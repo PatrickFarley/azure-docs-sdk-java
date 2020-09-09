@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.BootDiagnosticsInstanceView.status()"
   name: "status()"
   nameWithType: "BootDiagnosticsInstanceView.status()"
-  summary: "Get the status property: The boot diagnostics status information for the VM. &lt;br&gt;&lt;br&gt; NOTE: It will\n be set only if there are errors encountered in enabling boot diagnostics."
+  summary: "Get the status property: The boot diagnostics status information for the VM. <br><br> NOTE: It will be set only if there are errors encountered in enabling boot diagnostics."
   syntax: "public InstanceViewStatus status()"
   returns:
     description: "the status value."

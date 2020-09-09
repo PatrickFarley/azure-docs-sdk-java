@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.JobSchedule.withInterval(String interval)"
   name: "withInterval(String interval)"
   nameWithType: "JobSchedule.withInterval(String interval)"
-  summary: "Set the interval property: Value of the schedule's recurring interval, if the schedule type is recurring. ISO8601\n duration format."
+  summary: "Set the interval property: Value of the schedule's recurring interval, if the schedule type is recurring. ISO8601 duration format."
   parameters:
   - description: "the interval value to set."
     name: "interval"

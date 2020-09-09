@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.StorageProfile.withImageReference(ImageReference imageReference)"
   name: "withImageReference(ImageReference imageReference)"
   nameWithType: "StorageProfile.withImageReference(ImageReference imageReference)"
-  summary: "Set the imageReference property: Specifies information about the image to use. You can specify information about\n platform images, marketplace images, or virtual machine images. This element is required when you want to use a\n platform image, marketplace image, or virtual machine image, but is not used in other creation operations."
+  summary: "Set the imageReference property: Specifies information about the image to use. You can specify information about platform images, marketplace images, or virtual machine images. This element is required when you want to use a platform image, marketplace image, or virtual machine image, but is not used in other creation operations."
   parameters:
   - description: "the imageReference value to set."
     name: "imageReference"

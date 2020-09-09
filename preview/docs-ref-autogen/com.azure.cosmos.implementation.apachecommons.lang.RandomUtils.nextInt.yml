@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.RandomUtils.nextInt()"
   name: "nextInt()"
   nameWithType: "RandomUtils.nextInt()"
-  summary: "<p> Returns a random int within 0 - Integer.MAX_VALUE </p>"
+  summary: "Returns a random int within 0 - Integer.MAX\\_VALUE"
   syntax: "public static int nextInt()"
   returns:
     description: "the random integer"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.RandomUtils.nextInt(int startInclusive, int endExclusive)"
   name: "nextInt(int startInclusive, int endExclusive)"
   nameWithType: "RandomUtils.nextInt(int startInclusive, int endExclusive)"
-  summary: "<p>\n Returns a random integer within the specified range.\n </p>"
+  summary: "Returns a random integer within the specified range."
   parameters:
   - description: "the smallest value that can be returned, must be non-negative"
     name: "startInclusive"

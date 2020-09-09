@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listRegionalByResourceGroupNextWithServiceResponseAsync(String nextPageLink)"
   name: "listRegionalByResourceGroupNextWithServiceResponseAsync(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listRegionalByResourceGroupNextWithServiceResponseAsync(String nextPageLink)"
-  summary: "List all regional event subscriptions under an Azure subscription and resource group.\n List all event subscriptions from the given location under a specific Azure subscription and resource group."
+  summary: "List all regional event subscriptions under an Azure subscription and resource group. List all event subscriptions from the given location under a specific Azure subscription and resource group."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

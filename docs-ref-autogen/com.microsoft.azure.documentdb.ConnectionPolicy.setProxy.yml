@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ConnectionPolicy.setProxy(HttpHost proxy)"
   name: "setProxy(HttpHost proxy)"
   nameWithType: "ConnectionPolicy.setProxy(HttpHost proxy)"
-  summary: "Sets a proxy which will be used when making a request. Default is <code>null</code>."
+  summary: "Sets a proxy which will be used when making a request. Default is `null`."
   parameters:
   - description: "A proxy to use when making a request."
     name: "proxy"

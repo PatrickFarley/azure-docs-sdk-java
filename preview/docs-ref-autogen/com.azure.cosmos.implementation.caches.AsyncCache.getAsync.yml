@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.caches.AsyncCache<TKey,TValue>.getAsync(TKey key, TValue obsoleteValue, Callable<Mono<TValue>> singleValueInitFunc)"
   name: "getAsync(TKey key, TValue obsoleteValue, Callable<Mono<TValue>> singleValueInitFunc)"
   nameWithType: "AsyncCache<TKey,TValue>.getAsync(TKey key, TValue obsoleteValue, Callable<Mono<TValue>> singleValueInitFunc)"
-  summary: "Gets value corresponding to <code>key</code>\n\n <p>\n If another initialization function is already running, new initialization function will not be started.\n The result will be result of currently running initialization function.\n </p>\n\n <p>\n If previous initialization function is successfully completed - value returned by it will be returned unless\n it is equal to <code>obsoleteValue</code>, in which case new initialization function will be started.\n </p>\n <p>\n If previous initialization function failed - new one will be launched.\n </p>"
+  summary: "Gets value corresponding to `key`\n\nIf another initialization function is already running, new initialization function will not be started. The result will be result of currently running initialization function.\n\nIf previous initialization function is successfully completed - value returned by it will be returned unless it is equal to `obsoleteValue`, in which case new initialization function will be started.\n\nIf previous initialization function failed - new one will be launched."
   parameters:
   - description: "Key for which to get a value."
     name: "key"

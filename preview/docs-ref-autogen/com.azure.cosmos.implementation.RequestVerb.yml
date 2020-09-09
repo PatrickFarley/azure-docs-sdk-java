@@ -51,7 +51,7 @@ methods:
   fullName: "com.azure.cosmos.implementation.RequestVerb.toLowerCase()"
   name: "toLowerCase()"
   nameWithType: "RequestVerb.toLowerCase()"
-  summary: "Provides lower case name of the verb.\n e.g, get, put, post, delete, head"
+  summary: "Provides lower case name of the verb. e.g, get, put, post, delete, head"
   syntax: "public String toLowerCase()"
   returns:
     description: "lower case form of the verb"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceAgentPoolProfile.withPorts(List<Integer> ports)"
   name: "withPorts(List<Integer> ports)"
   nameWithType: "ContainerServiceAgentPoolProfile.withPorts(List<Integer> ports)"
-  summary: "Set the ports property: Ports number array used to expose on this agent pool. The default opened ports are\n different based on your choice of orchestrator."
+  summary: "Set the ports property: Ports number array used to expose on this agent pool. The default opened ports are different based on your choice of orchestrator."
   parameters:
   - description: "the ports value to set."
     name: "ports"

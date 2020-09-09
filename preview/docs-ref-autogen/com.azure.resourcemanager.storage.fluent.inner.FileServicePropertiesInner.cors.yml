@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.FileServicePropertiesInner.cors()"
   name: "cors()"
   nameWithType: "FileServicePropertiesInner.cors()"
-  summary: "Get the cors property: Specifies CORS rules for the File service. You can include up to five CorsRule elements in\n the request. If no CorsRule elements are included in the request body, all CORS rules will be deleted, and CORS\n will be disabled for the File service."
+  summary: "Get the cors property: Specifies CORS rules for the File service. You can include up to five CorsRule elements in the request. If no CorsRule elements are included in the request body, all CORS rules will be deleted, and CORS will be disabled for the File service."
   syntax: "public CorsRules cors()"
   returns:
     description: "the cors value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.time.StopWatch.toString()"
   name: "toString()"
   nameWithType: "StopWatch.toString()"
-  summary: "<p>\n Gets a summary of the time that the stopwatch recorded as a string.\n </p>\n\n <p>\n The format used is ISO 8601-like, <i>hours</i>:<i>minutes</i>:<i>seconds</i>.<i>milliseconds</i>.\n </p>"
+  summary: "Gets a summary of the time that the stopwatch recorded as a string.\n\nThe format used is ISO 8601-like, *hours*:*minutes*:*seconds*.*milliseconds*."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:

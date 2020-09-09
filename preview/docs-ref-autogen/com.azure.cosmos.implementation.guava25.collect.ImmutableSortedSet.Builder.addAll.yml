@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedSet.Builder<E>.addAll(Iterable<? extends E> elements)"
   name: "addAll(Iterable<? extends E> elements)"
   nameWithType: "ImmutableSortedSet.Builder<E>.addAll(Iterable<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableSortedSet</code>, ignoring duplicate\n elements (only the first duplicate element is added)."
+  summary: "Adds each element of `elements` to the `ImmutableSortedSet`, ignoring duplicate elements (only the first duplicate element is added)."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableSet.Builder.addAll(java.lang.Iterable<? extends E>)"
   parameters:
   - description: "the elements to add to the <code>ImmutableSortedSet</code>"
@@ -22,7 +22,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedSet.Builder<E>.addAll(Iterator<? extends E> elements)"
   name: "addAll(Iterator<? extends E> elements)"
   nameWithType: "ImmutableSortedSet.Builder<E>.addAll(Iterator<? extends E> elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableSortedSet</code>, ignoring duplicate\n elements (only the first duplicate element is added)."
+  summary: "Adds each element of `elements` to the `ImmutableSortedSet`, ignoring duplicate elements (only the first duplicate element is added)."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableSet.Builder.addAll(java.util.Iterator<? extends E>)"
   parameters:
   - description: "the elements to add to the <code>ImmutableSortedSet</code>"

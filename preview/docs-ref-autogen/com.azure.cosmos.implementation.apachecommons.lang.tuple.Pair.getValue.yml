@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.getValue()"
   name: "getValue()"
   nameWithType: "Pair<L,R>.getValue()"
-  summary: "<p>Gets the value from this pair.</p>\n\n <p>This method implements the <code>Map.Entry</code> interface returning the\n right element as the value.</p>"
+  summary: "Gets the value from this pair.\n\nThis method implements the `Map.Entry` interface returning the right element as the value."
   syntax: "public R getValue()"
   returns:
     description: "the right element as the value, may be null"

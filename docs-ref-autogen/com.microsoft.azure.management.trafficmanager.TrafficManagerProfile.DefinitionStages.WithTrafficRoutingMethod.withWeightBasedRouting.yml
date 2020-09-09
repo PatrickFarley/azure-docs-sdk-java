@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerProfile.DefinitionStages.WithTrafficRoutingMethod.withWeightBasedRouting()"
   name: "withWeightBasedRouting()"
   nameWithType: "TrafficManagerProfile.DefinitionStages.WithTrafficRoutingMethod.withWeightBasedRouting()"
-  summary: "Specifies that end user traffic should be distributed to the endpoints based on the weight assigned\n to the endpoint."
+  summary: "Specifies that end user traffic should be distributed to the endpoints based on the weight assigned to the endpoint."
   syntax: "public abstract TrafficManagerProfile.DefinitionStages.WithEndpoint withWeightBasedRouting()"
   returns:
     description: "the next stage of the definition"

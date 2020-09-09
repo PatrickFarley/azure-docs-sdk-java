@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.AutocompleteOptions.getHighlightPreTag()"
   name: "getHighlightPreTag()"
   nameWithType: "AutocompleteOptions.getHighlightPreTag()"
-  summary: "Get the highlightPreTag property: A string tag that is prepended to hit\n highlights. Must be set with highlightPostTag. If omitted, hit\n highlighting is disabled."
+  summary: "Get the highlightPreTag property: A string tag that is prepended to hit highlights. Must be set with highlightPostTag. If omitted, hit highlighting is disabled."
   syntax: "public String getHighlightPreTag()"
   returns:
     description: "the highlightPreTag value."

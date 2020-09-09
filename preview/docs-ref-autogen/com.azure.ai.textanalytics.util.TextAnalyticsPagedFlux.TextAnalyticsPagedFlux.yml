@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.util.TextAnalyticsPagedFlux<T>.TextAnalyticsPagedFlux(Supplier<PageRetriever<String,TextAnalyticsPagedResponse<T>>> pageRetrieverProvider)"
   name: "TextAnalyticsPagedFlux(Supplier<PageRetriever<String,TextAnalyticsPagedResponse<T>>> pageRetrieverProvider)"
   nameWithType: "TextAnalyticsPagedFlux<T>.TextAnalyticsPagedFlux(Supplier<PageRetriever<String,TextAnalyticsPagedResponse<T>>> pageRetrieverProvider)"
-  summary: "Create an instance of <xref uid=\"TextAnalyticsPagedFlux\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedFlux</xref>"
+  summary: "Create an instance of <xref uid=\"com.azure.ai.textanalytics.util.TextAnalyticsPagedFlux\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedFlux</xref>"
   parameters:
   - description: "a provider that returns <xref uid=\"com.azure.core.util.paging.PageRetriever\" data-throw-if-not-resolved=\"false\">PageRetriever</xref>"
     name: "pageRetrieverProvider"

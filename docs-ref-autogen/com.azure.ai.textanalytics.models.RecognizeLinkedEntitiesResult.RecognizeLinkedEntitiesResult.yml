@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.RecognizeLinkedEntitiesResult.RecognizeLinkedEntitiesResult(String id, TextDocumentStatistics textDocumentStatistics, TextAnalyticsError error, LinkedEntityCollection entities)"
   name: "RecognizeLinkedEntitiesResult(String id, TextDocumentStatistics textDocumentStatistics, TextAnalyticsError error, LinkedEntityCollection entities)"
   nameWithType: "RecognizeLinkedEntitiesResult.RecognizeLinkedEntitiesResult(String id, TextDocumentStatistics textDocumentStatistics, TextAnalyticsError error, LinkedEntityCollection entities)"
-  summary: "Creates a <xref uid=\"RecognizeLinkedEntitiesResult\" data-throw-if-not-resolved=\"false\">RecognizeLinkedEntitiesResult</xref> model that describes recognized linked entities result."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.RecognizeLinkedEntitiesResult\" data-throw-if-not-resolved=\"false\">RecognizeLinkedEntitiesResult</xref> model that describes recognized linked entities result."
   parameters:
   - description: "Unique, non-empty document identifier."
     name: "id"

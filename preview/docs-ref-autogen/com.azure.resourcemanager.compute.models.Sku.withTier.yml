@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.Sku.withTier(String tier)"
   name: "withTier(String tier)"
   nameWithType: "Sku.withTier(String tier)"
-  summary: "Set the tier property: Specifies the tier of virtual machines in a scale set.&lt;br /&gt;&lt;br /&gt; Possible\n Values:&lt;br /&gt;&lt;br /&gt; **Standard**&lt;br /&gt;&lt;br /&gt; **Basic**."
+  summary: "Set the tier property: Specifies the tier of virtual machines in a scale set.<br /><br /> Possible Values:<br /><br /> \\*\\*Standard\\*\\*<br /><br /> \\*\\*Basic\\*\\*."
   parameters:
   - description: "the tier value to set."
     name: "tier"

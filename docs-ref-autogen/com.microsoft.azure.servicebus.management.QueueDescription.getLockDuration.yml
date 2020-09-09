@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.QueueDescription.getLockDuration()"
   name: "getLockDuration()"
   nameWithType: "QueueDescription.getLockDuration()"
-  summary: "The amount of time that the message is locked by a given receiver\n so that no other receiver receives the same message."
+  summary: "The amount of time that the message is locked by a given receiver so that no other receiver receives the same message."
   syntax: "public Duration getLockDuration()"
   returns:
     description: "The duration of a peek lock. Default value is 60 seconds."

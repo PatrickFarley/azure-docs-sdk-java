@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.AutomationRunbookReceiver.automationAccountId()"
   name: "automationAccountId()"
   nameWithType: "AutomationRunbookReceiver.automationAccountId()"
-  summary: "Get the automationAccountId property: The Azure automation account Id which holds this runbook and authenticate\n to Azure resource."
+  summary: "Get the automationAccountId property: The Azure automation account Id which holds this runbook and authenticate to Azure resource."
   syntax: "public String automationAccountId()"
   returns:
     description: "the automationAccountId value."

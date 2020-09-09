@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.time.DurationFormatUtils.DurationFormatUtils()"
   name: "DurationFormatUtils()"
   nameWithType: "DurationFormatUtils.DurationFormatUtils()"
-  summary: "<p>DurationFormatUtils instances should NOT be constructed in standard programming.</p>\n\n <p>This constructor is public to permit tools that require a JavaBean instance\n to operate.</p>"
+  summary: "DurationFormatUtils instances should NOT be constructed in standard programming.\n\nThis constructor is public to permit tools that require a JavaBean instance to operate."
   syntax: "public DurationFormatUtils()"
 type: "constructor"
 metadata: {}

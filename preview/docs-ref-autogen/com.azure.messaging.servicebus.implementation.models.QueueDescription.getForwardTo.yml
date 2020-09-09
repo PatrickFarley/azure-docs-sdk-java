@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.QueueDescription.getForwardTo()"
   name: "getForwardTo()"
   nameWithType: "QueueDescription.getForwardTo()"
-  summary: "Get the forwardTo property: The name of the recipient entity to which all the messages sent to the queue are\n forwarded to."
+  summary: "Get the forwardTo property: The name of the recipient entity to which all the messages sent to the queue are forwarded to."
   syntax: "public String getForwardTo()"
   returns:
     description: "the forwardTo value."

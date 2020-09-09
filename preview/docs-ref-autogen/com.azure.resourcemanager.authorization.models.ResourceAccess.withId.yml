@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ResourceAccess.withId(String id)"
   name: "withId(String id)"
   nameWithType: "ResourceAccess.withId(String id)"
-  summary: "Set the id property: The unique identifier for one of the OAuth2Permission or AppRole instances that the resource\n application exposes."
+  summary: "Set the id property: The unique identifier for one of the OAuth2Permission or AppRole instances that the resource application exposes."
   parameters:
   - description: "the id value to set."
     name: "id"

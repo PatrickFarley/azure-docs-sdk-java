@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventData.getEnqueuedTime()"
   name: "getEnqueuedTime()"
   nameWithType: "EventData.getEnqueuedTime()"
-  summary: "Gets the instant, in UTC, of when the event was enqueued in the Event Hub partition. This is only present on a\n <b>received</b> <xref uid=\"EventData\" data-throw-if-not-resolved=\"false\">EventData</xref>."
+  summary: "Gets the instant, in UTC, of when the event was enqueued in the Event Hub partition. This is only present on a **received** <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">EventData</xref>."
   syntax: "public Instant getEnqueuedTime()"
   returns:
     description: "The instant, in UTC, this was enqueued in the Event Hub partition. <code>null</code> if the <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">EventData</xref>\n     was not received from Event Hubs service."

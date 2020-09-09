@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ImmutabilityPolicyProperties.state()"
   name: "state()"
   nameWithType: "ImmutabilityPolicyProperties.state()"
-  summary: "Get the state property: The ImmutabilityPolicy state of a blob container, possible values include: Locked and\n Unlocked."
+  summary: "Get the state property: The ImmutabilityPolicy state of a blob container, possible values include: Locked and Unlocked."
   syntax: "public ImmutabilityPolicyState state()"
   returns:
     description: "the state value."

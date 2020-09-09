@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerError.getErrorMessage()"
   name: "getErrorMessage()"
   nameWithType: "SearchIndexerError.getErrorMessage()"
-  summary: "Get the errorMessage property: The message describing the error that\n occurred while processing the item."
+  summary: "Get the errorMessage property: The message describing the error that occurred while processing the item."
   syntax: "public String getErrorMessage()"
   returns:
     description: "the errorMessage value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.Hostname.siteNames()"
   name: "siteNames()"
   nameWithType: "Hostname.siteNames()"
-  summary: "Get the siteNames property: List of apps the hostname is assigned to. This list will have more than one app only\n if the hostname is pointing to a Traffic Manager."
+  summary: "Get the siteNames property: List of apps the hostname is assigned to. This list will have more than one app only if the hostname is pointing to a Traffic Manager."
   syntax: "public List<String> siteNames()"
   returns:
     description: "the siteNames value."

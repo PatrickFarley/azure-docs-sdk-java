@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.RoutingPreference.publishInternetEndpoints()"
   name: "publishInternetEndpoints()"
   nameWithType: "RoutingPreference.publishInternetEndpoints()"
-  summary: "Get the publishInternetEndpoints property: A boolean flag which indicates whether internet routing storage\n endpoints are to be published."
+  summary: "Get the publishInternetEndpoints property: A boolean flag which indicates whether internet routing storage endpoints are to be published."
   syntax: "public Boolean publishInternetEndpoints()"
   returns:
     description: "the publishInternetEndpoints value."

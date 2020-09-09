@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterfaceDnsSettings.withInternalDnsNameLabel(String internalDnsNameLabel)"
   name: "withInternalDnsNameLabel(String internalDnsNameLabel)"
   nameWithType: "NetworkInterfaceDnsSettings.withInternalDnsNameLabel(String internalDnsNameLabel)"
-  summary: "Set the internalDnsNameLabel property: Relative DNS name for this NIC used for internal communications between\n VMs in the same virtual network."
+  summary: "Set the internalDnsNameLabel property: Relative DNS name for this NIC used for internal communications between VMs in the same virtual network."
   parameters:
   - description: "the internalDnsNameLabel value to set."
     name: "internalDnsNameLabel"

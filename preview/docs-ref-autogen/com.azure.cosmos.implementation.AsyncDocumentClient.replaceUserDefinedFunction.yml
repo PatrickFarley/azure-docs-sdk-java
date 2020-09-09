@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.replaceUserDefinedFunction(UserDefinedFunction udf, RequestOptions options)"
   name: "replaceUserDefinedFunction(UserDefinedFunction udf, RequestOptions options)"
   nameWithType: "AsyncDocumentClient.replaceUserDefinedFunction(UserDefinedFunction udf, RequestOptions options)"
-  summary: "Replaces a user defined function.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the replaced user defined function.\n In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Replaces a user defined function.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the replaced user defined function. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the user defined function."
     name: "udf"

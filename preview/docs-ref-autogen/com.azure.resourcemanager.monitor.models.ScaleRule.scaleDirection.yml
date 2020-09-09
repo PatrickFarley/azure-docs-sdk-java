@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleRule.scaleDirection()"
   name: "scaleDirection()"
   nameWithType: "ScaleRule.scaleDirection()"
-  summary: "Get the scale direction. Whether the scaling action increases or decreases the number of instances. Possible\n values include: 'None', 'Increase', 'Decrease'."
+  summary: "Get the scale direction. Whether the scaling action increases or decreases the number of instances. Possible values include: 'None', 'Increase', 'Decrease'."
   syntax: "public abstract ScaleDirection scaleDirection()"
   returns:
     description: "the direction value"

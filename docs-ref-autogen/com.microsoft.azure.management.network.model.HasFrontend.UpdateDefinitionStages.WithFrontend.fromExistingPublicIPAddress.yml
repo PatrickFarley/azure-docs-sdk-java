@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.model.HasFrontend.UpdateDefinitionStages.WithFrontend<ReturnT>.fromExistingPublicIPAddress(PublicIPAddress publicIPAddress)"
   name: "fromExistingPublicIPAddress(PublicIPAddress publicIPAddress)"
   nameWithType: "HasFrontend.UpdateDefinitionStages.WithFrontend<ReturnT>.fromExistingPublicIPAddress(PublicIPAddress publicIPAddress)"
-  summary: "Specifies an existing public IP address to receive network traffic from.\n <p>\n If this load balancer already has a frontend referencing this public IP address, that is the frontend that will be used.\n Else, an automatically named new public frontend will be created implicitly on the load balancer."
+  summary: "Specifies an existing public IP address to receive network traffic from.\n\nIf this load balancer already has a frontend referencing this public IP address, that is the frontend that will be used. Else, an automatically named new public frontend will be created implicitly on the load balancer."
   parameters:
   - description: "an existing public IP address"
     name: "publicIPAddress"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.network.model.HasFrontend.UpdateDefinitionStages.WithFrontend<ReturnT>.fromExistingPublicIPAddress(String resourceId)"
   name: "fromExistingPublicIPAddress(String resourceId)"
   nameWithType: "HasFrontend.UpdateDefinitionStages.WithFrontend<ReturnT>.fromExistingPublicIPAddress(String resourceId)"
-  summary: "Specifies an existing public IP address to receive network traffic from.\n <p>\n If this load balancer already has a frontend referencing this public IP address, that is the frontend that will be used.\n Else, an automatically named new public frontend will be created implicitly on the load balancer."
+  summary: "Specifies an existing public IP address to receive network traffic from.\n\nIf this load balancer already has a frontend referencing this public IP address, that is the frontend that will be used. Else, an automatically named new public frontend will be created implicitly on the load balancer."
   parameters:
   - description: "the resource ID of an existing public IP address"
     name: "resourceId"

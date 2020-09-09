@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusMessage.getProperties()"
   name: "getProperties()"
   nameWithType: "ServiceBusMessage.getProperties()"
-  summary: "Gets the set of free-form <xref uid=\"ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref> properties which may be used for passing metadata associated\n with the <xref uid=\"ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref> during Service Bus operations. A common use-case for <code>properties()</code> is\n to associate serialization hints for the <xref uid=\"#getBody()\" data-throw-if-not-resolved=\"false\">#getBody()</xref> as an aid to consumers who wish to deserialize the\n binary data."
+  summary: "Gets the set of free-form <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref> properties which may be used for passing metadata associated with the <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref> during Service Bus operations. A common use-case for `properties()` is to associate serialization hints for the <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage.getBody()\" data-throw-if-not-resolved=\"false\">#getBody()</xref> as an aid to consumers who wish to deserialize the binary data."
   syntax: "public Map<String,Object> getProperties()"
   returns:
     description: "Application properties associated with this <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref>."

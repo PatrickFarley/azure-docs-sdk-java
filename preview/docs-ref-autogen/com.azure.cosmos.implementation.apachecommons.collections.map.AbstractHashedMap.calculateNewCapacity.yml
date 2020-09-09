@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.calculateNewCapacity(int proposedCapacity)"
   name: "calculateNewCapacity(int proposedCapacity)"
   nameWithType: "AbstractHashedMap<K,V>.calculateNewCapacity(int proposedCapacity)"
-  summary: "Calculates the new capacity of the map.\n This implementation normalizes the capacity to a power of two."
+  summary: "Calculates the new capacity of the map. This implementation normalizes the capacity to a power of two."
   parameters:
   - description: "the proposed capacity"
     name: "proposedCapacity"

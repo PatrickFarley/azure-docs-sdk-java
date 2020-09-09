@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClient.createDirectory(String directoryName)"
   name: "createDirectory(String directoryName)"
   nameWithType: "ShareClient.createDirectory(String directoryName)"
-  summary: "Creates the directory in the share with the given name.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the directory \"documents\"</p>\n\n <pre>\n ShareDirectoryClient response = shareClient.createDirectory&#40;&quot;mydirectory&quot;&#41;;\n System.out.println&#40;&quot;Complete creating the directory.&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory\">Azure Docs</a>.</p>"
+  summary: "Creates the directory in the share with the given name.\n\n**Code Samples**\n\nCreate the directory \"documents\"\n\n```java\nShareDirectoryClient response = shareClient.createDirectory(\"mydirectory\");\n System.out.println(\"Complete creating the directory.\");\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory"
   parameters:
   - description: "Name of the directory"
     name: "directoryName"

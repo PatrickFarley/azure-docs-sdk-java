@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.DynamicThresholdFailingPeriods.minFailingPeriodsToAlert()"
   name: "minFailingPeriodsToAlert()"
   nameWithType: "DynamicThresholdFailingPeriods.minFailingPeriodsToAlert()"
-  summary: "Get the minFailingPeriodsToAlert property: The number of violations to trigger an alert. Should be smaller or\n equal to numberOfEvaluationPeriods."
+  summary: "Get the minFailingPeriodsToAlert property: The number of violations to trigger an alert. Should be smaller or equal to numberOfEvaluationPeriods."
   syntax: "public float minFailingPeriodsToAlert()"
   returns:
     description: "the minFailingPeriodsToAlert value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ShingleTokenFilter.setFilterToken(String filterToken)"
   name: "setFilterToken(String filterToken)"
   nameWithType: "ShingleTokenFilter.setFilterToken(String filterToken)"
-  summary: "Set the filterToken property: The string to insert for each position at which there is no token. Default is an\n underscore (\"_\")."
+  summary: "Set the filterToken property: The string to insert for each position at which there is no token. Default is an underscore (\"\\_\")."
   parameters:
   - description: "the filterToken value to set."
     name: "filterToken"

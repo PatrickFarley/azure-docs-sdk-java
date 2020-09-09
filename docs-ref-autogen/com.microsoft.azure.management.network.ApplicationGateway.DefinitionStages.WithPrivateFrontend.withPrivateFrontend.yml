@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGateway.DefinitionStages.WithPrivateFrontend.withPrivateFrontend()"
   name: "withPrivateFrontend()"
   nameWithType: "ApplicationGateway.DefinitionStages.WithPrivateFrontend.withPrivateFrontend()"
-  summary: "Enables a private (internal) default frontend within the subnet containing the application gateway.\n <p>\n A frontend with an automatically generated name will be created if none exists."
+  summary: "Enables a private (internal) default frontend within the subnet containing the application gateway.\n\nA frontend with an automatically generated name will be created if none exists."
   syntax: "public abstract ApplicationGateway.DefinitionStages.WithCreate withPrivateFrontend()"
   returns:
     description: "the next stage of the definition"

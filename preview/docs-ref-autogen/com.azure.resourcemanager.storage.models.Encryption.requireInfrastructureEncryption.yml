@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.Encryption.requireInfrastructureEncryption()"
   name: "requireInfrastructureEncryption()"
   nameWithType: "Encryption.requireInfrastructureEncryption()"
-  summary: "Get the requireInfrastructureEncryption property: A boolean indicating whether or not the service applies a\n secondary layer of encryption with platform managed keys for data at rest."
+  summary: "Get the requireInfrastructureEncryption property: A boolean indicating whether or not the service applies a secondary layer of encryption with platform managed keys for data at rest."
   syntax: "public Boolean requireInfrastructureEncryption()"
   returns:
     description: "the requireInfrastructureEncryption value."

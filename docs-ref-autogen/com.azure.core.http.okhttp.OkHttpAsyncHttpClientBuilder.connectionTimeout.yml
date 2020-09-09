@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.okhttp.OkHttpAsyncHttpClientBuilder.connectionTimeout(Duration connectionTimeout)"
   name: "connectionTimeout(Duration connectionTimeout)"
   nameWithType: "OkHttpAsyncHttpClientBuilder.connectionTimeout(Duration connectionTimeout)"
-  summary: "Sets the connection timeout.\n\n The default connection timeout is 60 seconds."
+  summary: "Sets the connection timeout. The default connection timeout is 60 seconds."
   parameters:
   - description: "the connection timeout"
     name: "connectionTimeout"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.spatial.PolygonGeometry.getRings()"
   name: "getRings()"
   nameWithType: "PolygonGeometry.getRings()"
-  summary: "Unmodifiable representation of the <xref uid=\"LineGeometry\" data-throw-if-not-resolved=\"false\">geometric lines</xref> representing this polygon."
+  summary: "Unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.LineGeometry\" data-throw-if-not-resolved=\"false\">geometric lines</xref> representing this polygon."
   syntax: "public List<LineGeometry> getRings()"
   returns:
     description: "An unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.LineGeometry\" data-throw-if-not-resolved=\"false\">geometric lines</xref> representing this polygon."

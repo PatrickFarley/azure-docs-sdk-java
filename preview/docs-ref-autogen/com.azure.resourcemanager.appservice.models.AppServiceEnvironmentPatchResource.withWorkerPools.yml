@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceEnvironmentPatchResource.withWorkerPools(List<WorkerPool> workerPools)"
   name: "withWorkerPools(List<WorkerPool> workerPools)"
   nameWithType: "AppServiceEnvironmentPatchResource.withWorkerPools(List<WorkerPool> workerPools)"
-  summary: "Set the workerPools property: Description of worker pools with worker size IDs, VM sizes, and number of workers\n in each pool."
+  summary: "Set the workerPools property: Description of worker pools with worker size IDs, VM sizes, and number of workers in each pool."
   parameters:
   - description: "the workerPools value to set."
     name: "workerPools"

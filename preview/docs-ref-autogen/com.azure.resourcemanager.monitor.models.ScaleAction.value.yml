@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleAction.value()"
   name: "value()"
   nameWithType: "ScaleAction.value()"
-  summary: "Get the value property: the number of instances that are involved in the scaling action. This value must be 1 or\n greater. The default value is 1."
+  summary: "Get the value property: the number of instances that are involved in the scaling action. This value must be 1 or greater. The default value is 1."
   syntax: "public String value()"
   returns:
     description: "the value value."

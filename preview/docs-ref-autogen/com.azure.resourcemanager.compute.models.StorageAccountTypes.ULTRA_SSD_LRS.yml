@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.StorageAccountTypes.ULTRA_SSD_LRS"
   name: "ULTRA_SSD_LRS"
   nameWithType: "StorageAccountTypes.ULTRA_SSD_LRS"
-  summary: "Static value UltraSSD_LRS for StorageAccountTypes."
+  summary: "Static value UltraSSD\\_LRS for StorageAccountTypes."
   syntax: "public static final StorageAccountTypes ULTRA_SSD_LRS"
 type: "field"
 metadata: {}

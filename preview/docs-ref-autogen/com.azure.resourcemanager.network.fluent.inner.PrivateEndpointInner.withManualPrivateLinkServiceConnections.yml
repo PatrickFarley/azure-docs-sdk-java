@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PrivateEndpointInner.withManualPrivateLinkServiceConnections(List<PrivateLinkServiceConnection> manualPrivateLinkServiceConnections)"
   name: "withManualPrivateLinkServiceConnections(List<PrivateLinkServiceConnection> manualPrivateLinkServiceConnections)"
   nameWithType: "PrivateEndpointInner.withManualPrivateLinkServiceConnections(List<PrivateLinkServiceConnection> manualPrivateLinkServiceConnections)"
-  summary: "Set the manualPrivateLinkServiceConnections property: A grouping of information about the connection to the\n remote resource. Used when the network admin does not have access to approve connections to the remote resource."
+  summary: "Set the manualPrivateLinkServiceConnections property: A grouping of information about the connection to the remote resource. Used when the network admin does not have access to approve connections to the remote resource."
   parameters:
   - description: "the manualPrivateLinkServiceConnections value to set."
     name: "manualPrivateLinkServiceConnections"

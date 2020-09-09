@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.mapIterator()"
   name: "mapIterator()"
   nameWithType: "AbstractHashedMap<K,V>.mapIterator()"
-  summary: "Gets an iterator over the map.\n Changes made to the iterator affect this map.\n <p>\n A MapIterator returns the keys in the map. It also provides convenient\n methods to get the key and value, and set the value.\n It avoids the need to create an entrySet/keySet/values object.\n It also avoids creating the Map.Entry object."
+  summary: "Gets an iterator over the map. Changes made to the iterator affect this map.\n\nA MapIterator returns the keys in the map. It also provides convenient methods to get the key and value, and set the value. It avoids the need to create an entrySet/keySet/values object. It also avoids creating the Map.Entry object."
   syntax: "public MapIterator<K,V> mapIterator()"
   returns:
     description: "the map iterator"

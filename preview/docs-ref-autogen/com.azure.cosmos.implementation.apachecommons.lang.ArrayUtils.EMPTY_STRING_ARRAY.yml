@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.ArrayUtils.EMPTY_STRING_ARRAY"
   name: "EMPTY_STRING_ARRAY"
   nameWithType: "ArrayUtils.EMPTY_STRING_ARRAY"
-  summary: "An empty immutable <code>String</code> array."
+  summary: "An empty immutable `String` array."
   syntax: "public static final String[] EMPTY_STRING_ARRAY"
 type: "field"
 metadata: {}

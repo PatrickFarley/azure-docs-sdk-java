@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.DeletedAppRestoreRequest.deletedSiteId()"
   name: "deletedSiteId()"
   nameWithType: "DeletedAppRestoreRequest.deletedSiteId()"
-  summary: "Get the deletedSiteId property: ARM resource ID of the deleted app. Example:\n /subscriptions/{subId}/providers/Microsoft.Web/deletedSites/{deletedSiteId}."
+  summary: "Get the deletedSiteId property: ARM resource ID of the deleted app. Example: /subscriptions/\\{subId\\}/providers/Microsoft.Web/deletedSites/\\{deletedSiteId\\}."
   syntax: "public String deletedSiteId()"
   returns:
     description: "the deletedSiteId value."

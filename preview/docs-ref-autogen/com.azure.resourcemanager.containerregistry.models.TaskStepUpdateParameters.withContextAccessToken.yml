@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.TaskStepUpdateParameters.withContextAccessToken(String contextAccessToken)"
   name: "withContextAccessToken(String contextAccessToken)"
   nameWithType: "TaskStepUpdateParameters.withContextAccessToken(String contextAccessToken)"
-  summary: "Set the contextAccessToken property: The token (git PAT or SAS token of storage account blob) associated with the\n context for a step."
+  summary: "Set the contextAccessToken property: The token (git PAT or SAS token of storage account blob) associated with the context for a step."
   parameters:
   - description: "the contextAccessToken value to set."
     name: "contextAccessToken"

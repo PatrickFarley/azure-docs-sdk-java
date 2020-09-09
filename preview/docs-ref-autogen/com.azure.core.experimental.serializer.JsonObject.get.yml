@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.serializer.JsonObject.get(String name)"
   name: "get(String name)"
   nameWithType: "JsonObject.get(String name)"
-  summary: "Gets the <xref uid=\"JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> field with the specified name in the object."
+  summary: "Gets the <xref uid=\"com.azure.core.experimental.serializer.JsonNode\" data-throw-if-not-resolved=\"false\">JsonNode</xref> field with the specified name in the object."
   parameters:
   - description: "Name of the node."
     name: "name"

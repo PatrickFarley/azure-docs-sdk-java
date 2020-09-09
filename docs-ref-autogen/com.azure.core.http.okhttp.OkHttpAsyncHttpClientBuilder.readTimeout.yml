@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.okhttp.OkHttpAsyncHttpClientBuilder.readTimeout(Duration readTimeout)"
   name: "readTimeout(Duration readTimeout)"
   nameWithType: "OkHttpAsyncHttpClientBuilder.readTimeout(Duration readTimeout)"
-  summary: "Sets the read timeout.\n\n The default read timeout is 120 seconds."
+  summary: "Sets the read timeout. The default read timeout is 120 seconds."
   parameters:
   - description: "the read timeout"
     name: "readTimeout"

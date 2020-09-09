@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.UpdateStages.WithFrontend.definePublicFrontend()"
   name: "definePublicFrontend()"
   nameWithType: "ApplicationGateway.UpdateStages.WithFrontend.definePublicFrontend()"
-  summary: "Begins the definition of the default public front end IP configuration, creating one if it does not\n already exist."
+  summary: "Begins the definition of the default public front end IP configuration, creating one if it does not already exist."
   syntax: "public abstract ApplicationGatewayFrontend.UpdateDefinitionStages.Blank<ApplicationGateway.Update> definePublicFrontend()"
   returns:
     description: "the first stage of a front end definition"

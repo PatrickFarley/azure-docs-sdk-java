@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.GeoReplication.getStatus()"
   name: "getStatus()"
   nameWithType: "GeoReplication.getStatus()"
-  summary: "Get the status property: The status of the secondary location. Possible\n values include: 'live', 'bootstrap', 'unavailable'."
+  summary: "Get the status property: The status of the secondary location. Possible values include: 'live', 'bootstrap', 'unavailable'."
   syntax: "public GeoReplicationStatus getStatus()"
   returns:
     description: "the status value."

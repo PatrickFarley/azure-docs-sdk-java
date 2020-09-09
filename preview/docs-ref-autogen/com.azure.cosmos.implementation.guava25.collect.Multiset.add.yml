@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.add(E element)"
   name: "add(E element)"
   nameWithType: "Multiset<E>.add(E element)"
-  summary: "Adds a single occurrence of the specified element to this multiset.\n\n <p>This method refines <xref uid=\"Collection#add\" data-throw-if-not-resolved=\"false\">Collection#add</xref>, which only <i>ensures</i> the presence of the\n element, to further specify that a successful call must always increment the count of the\n element, and the overall size of the collection, by one.\n\n <p>To both add the element and obtain the previous count of that element, use <xref uid=\"#add(Object, int)\" data-throw-if-not-resolved=\"false\">add</xref><code>(element, 1)</code> instead."
+  summary: "Adds a single occurrence of the specified element to this multiset.\n\nThis method refines <xref uid=\"java.util.Collection.add\" data-throw-if-not-resolved=\"false\">Collection#add</xref>, which only *ensures* the presence of the element, to further specify that a successful call must always increment the count of the element, and the overall size of the collection, by one.\n\nTo both add the element and obtain the previous count of that element, use <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Multiset.add*\" data-throw-if-not-resolved=\"false\">add</xref>`(element, 1)` instead."
   parameters:
   - description: "the element to add one occurrence of; may be null only if explicitly allowed by\n     the implementation"
     name: "element"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.add(E element, int occurrences)"
   name: "add(E element, int occurrences)"
   nameWithType: "Multiset<E>.add(E element, int occurrences)"
-  summary: "Adds a number of occurrences of an element to this multiset. Note that if <code>occurrences ==\n 1</code>, this method has the identical effect to <xref uid=\"#add(Object)\" data-throw-if-not-resolved=\"false\">#add(Object)</xref>. This method is functionally\n equivalent (except in the case of overflow) to the call <code>\n addAll(Collections.nCopies(element, occurrences))</code>, which would presumably perform much more\n poorly."
+  summary: "Adds a number of occurrences of an element to this multiset. Note that if `occurrences == 1`, this method has the identical effect to <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Multiset.add*\" data-throw-if-not-resolved=\"false\">#add(Object)</xref>. This method is functionally equivalent (except in the case of overflow) to the call `addAll(Collections.nCopies(element, occurrences))`, which would presumably perform much more poorly."
   parameters:
   - description: "the element to add occurrences of; may be null only if explicitly allowed by the\n     implementation"
     name: "element"

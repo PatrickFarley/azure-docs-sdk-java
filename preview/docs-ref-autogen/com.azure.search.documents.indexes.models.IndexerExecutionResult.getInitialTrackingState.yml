@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexerExecutionResult.getInitialTrackingState()"
   name: "getInitialTrackingState()"
   nameWithType: "IndexerExecutionResult.getInitialTrackingState()"
-  summary: "Get the initialTrackingState property: Change tracking state with which\n an indexer execution started."
+  summary: "Get the initialTrackingState property: Change tracking state with which an indexer execution started."
   syntax: "public String getInitialTrackingState()"
   returns:
     description: "the initialTrackingState value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.TopicClient.scheduleMessageAsync(IMessage message, Instant scheduledEnqueueTimeUtc)"
   name: "scheduleMessageAsync(IMessage message, Instant scheduledEnqueueTimeUtc)"
   nameWithType: "TopicClient.scheduleMessageAsync(IMessage message, Instant scheduledEnqueueTimeUtc)"
-  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is enqueued and made available to receivers only at the scheduled enqueue time.\n This is an asynchronous method returning a CompletableFuture which completes when the message is sent to the entity. The CompletableFuture, on completion, returns the sequence number of the scheduled message\n which can be used to cancel the scheduling of the message."
+  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is enqueued and made available to receivers only at the scheduled enqueue time. This is an asynchronous method returning a CompletableFuture which completes when the message is sent to the entity. The CompletableFuture, on completion, returns the sequence number of the scheduled message which can be used to cancel the scheduling of the message."
   parameters:
   - name: "message"
     type: "<xref href=\"com.microsoft.azure.servicebus.IMessage?alt=com.microsoft.azure.servicebus.IMessage&text=IMessage\" data-throw-if-not-resolved=\"False\" />"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.TopicClient.scheduleMessageAsync(IMessage message, Instant scheduledEnqueueTimeUtc, TransactionContext transaction)"
   name: "scheduleMessageAsync(IMessage message, Instant scheduledEnqueueTimeUtc, TransactionContext transaction)"
   nameWithType: "TopicClient.scheduleMessageAsync(IMessage message, Instant scheduledEnqueueTimeUtc, TransactionContext transaction)"
-  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is enqueued and made available to receivers only at the scheduled enqueue time.\n This is an asynchronous method returning a CompletableFuture which completes when the message is sent to the entity. The CompletableFuture, on completion, returns the sequence number of the scheduled message\n which can be used to cancel the scheduling of the message."
+  summary: "Sends a scheduled message to the Azure Service Bus entity this sender is connected to. A scheduled message is enqueued and made available to receivers only at the scheduled enqueue time. This is an asynchronous method returning a CompletableFuture which completes when the message is sent to the entity. The CompletableFuture, on completion, returns the sequence number of the scheduled message which can be used to cancel the scheduling of the message."
   parameters:
   - name: "message"
     type: "<xref href=\"com.microsoft.azure.servicebus.IMessage?alt=com.microsoft.azure.servicebus.IMessage&text=IMessage\" data-throw-if-not-resolved=\"False\" />"

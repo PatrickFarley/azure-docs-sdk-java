@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.StreamingLocators.listAsync(String resourceGroupName, String accountName)"
   name: "listAsync(String resourceGroupName, String accountName)"
   nameWithType: "StreamingLocators.listAsync(String resourceGroupName, String accountName)"
-  summary: "List Streaming Locators.\n Lists the Streaming Locators in the account."
+  summary: "List Streaming Locators. Lists the Streaming Locators in the account."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

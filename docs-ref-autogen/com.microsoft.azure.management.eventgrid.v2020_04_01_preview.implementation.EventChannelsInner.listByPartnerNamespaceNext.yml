@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventChannelsInner.listByPartnerNamespaceNext(String nextPageLink)"
   name: "listByPartnerNamespaceNext(String nextPageLink)"
   nameWithType: "EventChannelsInner.listByPartnerNamespaceNext(String nextPageLink)"
-  summary: "List event channels.\n List all the event channels in a partner namespace."
+  summary: "List event channels. List all the event channels in a partner namespace."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

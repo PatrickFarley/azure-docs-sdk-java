@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetSkuTypes.STANDARD_D13"
   name: "STANDARD_D13"
   nameWithType: "VirtualMachineScaleSetSkuTypes.STANDARD_D13"
-  summary: "Static value Standard_D13 for VirtualMachineScaleSetSkuTypes."
+  summary: "Static value Standard\\_D13 for VirtualMachineScaleSetSkuTypes."
   syntax: "public static final VirtualMachineScaleSetSkuTypes STANDARD_D13"
 type: "field"
 metadata: {}

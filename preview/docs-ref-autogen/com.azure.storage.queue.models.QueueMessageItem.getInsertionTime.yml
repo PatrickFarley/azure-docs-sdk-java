@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueMessageItem.getInsertionTime()"
   name: "getInsertionTime()"
   nameWithType: "QueueMessageItem.getInsertionTime()"
-  summary: "Get the insertionTime property: The time the Message was inserted into\n the Queue."
+  summary: "Get the insertionTime property: The time the Message was inserted into the Queue."
   syntax: "public OffsetDateTime getInsertionTime()"
   returns:
     description: "the insertionTime value."

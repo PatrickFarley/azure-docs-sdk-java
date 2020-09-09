@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.isEqualKey(Object key1, Object key2)"
   name: "isEqualKey(Object key1, Object key2)"
   nameWithType: "AbstractHashedMap<K,V>.isEqualKey(Object key1, Object key2)"
-  summary: "Compares two keys, in internal converted form, to see if they are equal.\n This implementation uses the equals method and assumes neither key is null.\n Subclasses can override this to match differently."
+  summary: "Compares two keys, in internal converted form, to see if they are equal. This implementation uses the equals method and assumes neither key is null. Subclasses can override this to match differently."
   parameters:
   - description: "the first key to compare passed in from outside"
     name: "key1"

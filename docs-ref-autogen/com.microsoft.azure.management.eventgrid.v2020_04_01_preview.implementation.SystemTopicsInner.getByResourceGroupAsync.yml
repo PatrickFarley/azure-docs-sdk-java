@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicsInner.getByResourceGroupAsync(String resourceGroupName, String systemTopicName)"
   name: "getByResourceGroupAsync(String resourceGroupName, String systemTopicName)"
   nameWithType: "SystemTopicsInner.getByResourceGroupAsync(String resourceGroupName, String systemTopicName)"
-  summary: "Get a system topic.\n Get properties of a system topic."
+  summary: "Get a system topic. Get properties of a system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicsInner.getByResourceGroupAsync(String resourceGroupName, String systemTopicName, ServiceCallback<SystemTopicInner> serviceCallback)"
   name: "getByResourceGroupAsync(String resourceGroupName, String systemTopicName, ServiceCallback<SystemTopicInner> serviceCallback)"
   nameWithType: "SystemTopicsInner.getByResourceGroupAsync(String resourceGroupName, String systemTopicName, ServiceCallback<SystemTopicInner> serviceCallback)"
-  summary: "Get a system topic.\n Get properties of a system topic."
+  summary: "Get a system topic. Get properties of a system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

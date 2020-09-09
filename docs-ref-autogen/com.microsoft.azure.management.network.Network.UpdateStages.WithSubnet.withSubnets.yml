@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.Network.UpdateStages.WithSubnet.withSubnets(Map<String,String> nameCidrPairs)"
   name: "withSubnets(Map<String,String> nameCidrPairs)"
   nameWithType: "Network.UpdateStages.WithSubnet.withSubnets(Map<String,String> nameCidrPairs)"
-  summary: "Explicitly defines all the subnets in the virtual network based on the provided map.\n <p>\n This replaces any previously existing subnets."
+  summary: "Explicitly defines all the subnets in the virtual network based on the provided map.\n\nThis replaces any previously existing subnets."
   parameters:
   - description: "a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref> of CIDR addresses for the subnets, indexed by the name of each subnet to be added"
     name: "nameCidrPairs"

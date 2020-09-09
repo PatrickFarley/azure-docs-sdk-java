@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsSingleMessage.parseHttpsJsonMessage(Message message)"
   name: "parseHttpsJsonMessage(Message message)"
   nameWithType: "HttpsSingleMessage.parseHttpsJsonMessage(Message message)"
-  summary: "Returns the HTTPS message represented by the service-bound message for\n application json format. Content type \"application/json;charset=utf-8\""
+  summary: "Returns the HTTPS message represented by the service-bound message for application json format. Content type \"application/json;charset=utf-8\""
   parameters:
   - description: "the service-bound message to be mapped to its HTTPS message\n equivalent."
     name: "message"

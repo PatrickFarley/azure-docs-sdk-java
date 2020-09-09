@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.utils.Utils.<U>rootResource(Mono<Indexable> stream)"
   name: "<U>rootResource(Mono<Indexable> stream)"
   nameWithType: "Utils.<U>rootResource(Mono<Indexable> stream)"
-  summary: "Gets a Mono of type <code>U</code>, where U extends <xref uid=\"Indexable\" data-throw-if-not-resolved=\"false\">Indexable</xref>, that emits only the root\n resource from a given Mono of <xref uid=\"Indexable\" data-throw-if-not-resolved=\"false\">Indexable</xref>."
+  summary: "Gets a Mono of type `U`, where U extends <xref uid=\"com.azure.resourcemanager.resources.fluentcore.model.Indexable\" data-throw-if-not-resolved=\"false\">Indexable</xref>, that emits only the root resource from a given Mono of <xref uid=\"com.azure.resourcemanager.resources.fluentcore.model.Indexable\" data-throw-if-not-resolved=\"false\">Indexable</xref>."
   parameters:
   - description: "the input Mono of <xref uid=\"com.azure.resourcemanager.resources.fluentcore.model.Indexable\" data-throw-if-not-resolved=\"false\">Indexable</xref>"
     name: "stream"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexer.getSkillsetName()"
   name: "getSkillsetName()"
   nameWithType: "SearchIndexer.getSkillsetName()"
-  summary: "Get the skillsetName property: The name of the skillset executing with\n this indexer."
+  summary: "Get the skillsetName property: The name of the skillset executing with this indexer."
   syntax: "public String getSkillsetName()"
   returns:
     description: "the skillsetName value."

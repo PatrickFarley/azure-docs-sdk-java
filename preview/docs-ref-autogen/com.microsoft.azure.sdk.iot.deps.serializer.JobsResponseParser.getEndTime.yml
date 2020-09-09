@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.JobsResponseParser.getEndTime()"
   name: "getEndTime()"
   nameWithType: "JobsResponseParser.getEndTime()"
-  summary: "Getter for the end time UTC\n Represents the time the job stopped processing"
+  summary: "Getter for the end time UTC Represents the time the job stopped processing"
   syntax: "public Date getEndTime()"
   returns:
     description: "the system generated end time in UTC. It can be <code>null</code>"

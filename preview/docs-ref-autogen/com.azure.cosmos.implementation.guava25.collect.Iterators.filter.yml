@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>filter(Iterator<?> unfiltered, Class<T> desiredType)"
   name: "<T>filter(Iterator<?> unfiltered, Class<T> desiredType)"
   nameWithType: "Iterators.<T>filter(Iterator<?> unfiltered, Class<T> desiredType)"
-  summary: "Returns a view of <code>unfiltered</code> containing all elements that are of the type <code>\n desiredType</code>."
+  summary: "Returns a view of `unfiltered` containing all elements that are of the type `desiredType`."
   parameters:
   - name: "unfiltered"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>filter(Iterator<T> unfiltered, Predicate<? super T> retainIfTrue)"
   name: "<T>filter(Iterator<T> unfiltered, Predicate<? super T> retainIfTrue)"
   nameWithType: "Iterators.<T>filter(Iterator<T> unfiltered, Predicate<? super T> retainIfTrue)"
-  summary: "Returns a view of <code>unfiltered</code> containing all elements that satisfy the input predicate\n <code>retainIfTrue</code>."
+  summary: "Returns a view of `unfiltered` containing all elements that satisfy the input predicate `retainIfTrue`."
   parameters:
   - name: "unfiltered"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.elementsEqual(Iterator<?> iterator1, Iterator<?> iterator2)"
   name: "elementsEqual(Iterator<?> iterator1, Iterator<?> iterator2)"
   nameWithType: "Iterators.elementsEqual(Iterator<?> iterator1, Iterator<?> iterator2)"
-  summary: "Determines whether two iterators contain equal elements in the same order. More specifically,\n this method returns <code>true</code> if <code>iterator1</code> and <code>iterator2</code> contain the same\n number of elements and every element of <code>iterator1</code> is equal to the corresponding element\n of <code>iterator2</code>.\n\n <p>Note that this will modify the supplied iterators, since they will have been advanced some\n number of elements forward."
+  summary: "Determines whether two iterators contain equal elements in the same order. More specifically, this method returns `true` if `iterator1` and `iterator2` contain the same number of elements and every element of `iterator1` is equal to the corresponding element of `iterator2`.\n\nNote that this will modify the supplied iterators, since they will have been advanced some number of elements forward."
   parameters:
   - name: "iterator1"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

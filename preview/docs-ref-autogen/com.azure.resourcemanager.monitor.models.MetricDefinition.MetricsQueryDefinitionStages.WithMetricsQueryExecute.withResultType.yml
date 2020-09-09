@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricDefinition.MetricsQueryDefinitionStages.WithMetricsQueryExecute.withResultType(ResultType resultType)"
   name: "withResultType(ResultType resultType)"
   nameWithType: "MetricDefinition.MetricsQueryDefinitionStages.WithMetricsQueryExecute.withResultType(ResultType resultType)"
-  summary: "Reduces the set of data collected. The syntax allowed depends on the operation. See the operation's\n description for details. Possible values include: 'Data', 'Metadata'"
+  summary: "Reduces the set of data collected. The syntax allowed depends on the operation. See the operation's description for details. Possible values include: 'Data', 'Metadata'"
   parameters:
   - description: "the type of metric to retrieve."
     name: "resultType"

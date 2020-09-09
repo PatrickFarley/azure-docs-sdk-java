@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.SearchClient.deleteDocuments(Iterable<?> documents)"
   name: "deleteDocuments(Iterable<?> documents)"
   nameWithType: "SearchClient.deleteDocuments(Iterable<?> documents)"
-  summary: "Deletes a collection of documents from the target index.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Delete dynamic SearchDocument. </p>\n\n <pre>\n SearchDocument searchDocument = new SearchDocument&#40;&#41;;\n searchDocument.put&#40;&quot;hotelId&quot;, &quot;1&quot;&#41;;\n searchDocument.put&#40;&quot;hotelName&quot;, &quot;test&quot;&#41;;\n IndexDocumentsResult result = searchClient.deleteDocuments&#40;Collections.singletonList&#40;searchDocument&#41;&#41;;\n for &#40;IndexingResult indexingResult : result.getResults&#40;&#41;&#41; &#123;\n     System.out.printf&#40;&quot;Does document with key %s delete successfully? %b%n&quot;, indexingResult.getKey&#40;&#41;,\n         indexingResult.isSucceeded&#40;&#41;&#41;;\n &#125;\n </pre>"
+  summary: "Deletes a collection of documents from the target index.\n\n**Code Sample**\n\nDelete dynamic SearchDocument.\n\n```java\nSearchDocument searchDocument = new SearchDocument();\n searchDocument.put(\"hotelId\", \"1\");\n searchDocument.put(\"hotelName\", \"test\");\n IndexDocumentsResult result = searchClient.deleteDocuments(Collections.singletonList(searchDocument));\n for (IndexingResult indexingResult : result.getResults()) {\n     System.out.printf(\"Does document with key %s delete successfully? %b%n\", indexingResult.getKey(),\n         indexingResult.isSucceeded());\n }\n```"
   parameters:
   - description: "collection of documents to delete from the target Index. Fields other than the key are ignored."
     name: "documents"

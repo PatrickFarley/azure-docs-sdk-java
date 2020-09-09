@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SwiftVirtualNetworkInner.withSwiftSupported(Boolean swiftSupported)"
   name: "withSwiftSupported(Boolean swiftSupported)"
   nameWithType: "SwiftVirtualNetworkInner.withSwiftSupported(Boolean swiftSupported)"
-  summary: "Set the swiftSupported property: A flag that specifies if the scale unit this Web App is on supports Swift\n integration."
+  summary: "Set the swiftSupported property: A flag that specifies if the scale unit this Web App is on supports Swift integration."
   parameters:
   - description: "the swiftSupported value to set."
     name: "swiftSupported"

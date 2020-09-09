@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceNetworkProfile.withServiceCidr(String serviceCidr)"
   name: "withServiceCidr(String serviceCidr)"
   nameWithType: "ContainerServiceNetworkProfile.withServiceCidr(String serviceCidr)"
-  summary: "Set the serviceCidr property: A CIDR notation IP range from which to assign service cluster IPs. It must not\n overlap with any Subnet IP ranges."
+  summary: "Set the serviceCidr property: A CIDR notation IP range from which to assign service cluster IPs. It must not overlap with any Subnet IP ranges."
   parameters:
   - description: "the serviceCidr value to set."
     name: "serviceCidr"

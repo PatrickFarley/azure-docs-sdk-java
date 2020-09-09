@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.dns.DnsZone.UpdateStages.WithETagCheck.withETagCheck()"
   name: "withETagCheck()"
   nameWithType: "DnsZone.UpdateStages.WithETagCheck.withETagCheck()"
-  summary: "Specifies that If-Match header needs to set to the current eTag value associated\n with the DNS Zone."
+  summary: "Specifies that If-Match header needs to set to the current eTag value associated with the DNS Zone."
   syntax: "public abstract DnsZone.Update withETagCheck()"
   returns:
     description: "the next stage of the update"

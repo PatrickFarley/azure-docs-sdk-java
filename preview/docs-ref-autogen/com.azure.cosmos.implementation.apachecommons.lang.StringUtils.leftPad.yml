@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.leftPad(String str, int size, char padChar)"
   name: "leftPad(String str, int size, char padChar)"
   nameWithType: "StringUtils.leftPad(String str, int size, char padChar)"
-  summary: "<p>Left pad a String with a specified character.</p>\n\n <p>Pad to a size of <code>size</code>.</p>\n\n <pre>\n StringUtils.leftPad(null, *, *)     = null\n StringUtils.leftPad(\"\", 3, 'z')     = \"zzz\"\n StringUtils.leftPad(\"bat\", 3, 'z')  = \"bat\"\n StringUtils.leftPad(\"bat\", 5, 'z')  = \"zzbat\"\n StringUtils.leftPad(\"bat\", 1, 'z')  = \"bat\"\n StringUtils.leftPad(\"bat\", -1, 'z') = \"bat\"\n </pre>"
+  summary: "Left pad a String with a specified character.\n\nPad to a size of `size`.\n\n```java\nStringUtils.leftPad(null, *, *)     = null\n StringUtils.leftPad(\"\", 3, 'z')     = \"zzz\"\n StringUtils.leftPad(\"bat\", 3, 'z')  = \"bat\"\n StringUtils.leftPad(\"bat\", 5, 'z')  = \"zzbat\"\n StringUtils.leftPad(\"bat\", 1, 'z')  = \"bat\"\n StringUtils.leftPad(\"bat\", -1, 'z') = \"bat\"\n```"
   parameters:
   - description: "the String to pad out, may be null"
     name: "str"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.leftPad(String str, int size, String padStr)"
   name: "leftPad(String str, int size, String padStr)"
   nameWithType: "StringUtils.leftPad(String str, int size, String padStr)"
-  summary: "<p>Left pad a String with a specified String.</p>\n\n <p>Pad to a size of <code>size</code>.</p>\n\n <pre>\n StringUtils.leftPad(null, *, *)      = null\n StringUtils.leftPad(\"\", 3, \"z\")      = \"zzz\"\n StringUtils.leftPad(\"bat\", 3, \"yz\")  = \"bat\"\n StringUtils.leftPad(\"bat\", 5, \"yz\")  = \"yzbat\"\n StringUtils.leftPad(\"bat\", 8, \"yz\")  = \"yzyzybat\"\n StringUtils.leftPad(\"bat\", 1, \"yz\")  = \"bat\"\n StringUtils.leftPad(\"bat\", -1, \"yz\") = \"bat\"\n StringUtils.leftPad(\"bat\", 5, null)  = \"  bat\"\n StringUtils.leftPad(\"bat\", 5, \"\")    = \"  bat\"\n </pre>"
+  summary: "Left pad a String with a specified String.\n\nPad to a size of `size`.\n\n```java\nStringUtils.leftPad(null, *, *)      = null\n StringUtils.leftPad(\"\", 3, \"z\")      = \"zzz\"\n StringUtils.leftPad(\"bat\", 3, \"yz\")  = \"bat\"\n StringUtils.leftPad(\"bat\", 5, \"yz\")  = \"yzbat\"\n StringUtils.leftPad(\"bat\", 8, \"yz\")  = \"yzyzybat\"\n StringUtils.leftPad(\"bat\", 1, \"yz\")  = \"bat\"\n StringUtils.leftPad(\"bat\", -1, \"yz\") = \"bat\"\n StringUtils.leftPad(\"bat\", 5, null)  = \"  bat\"\n StringUtils.leftPad(\"bat\", 5, \"\")    = \"  bat\"\n```"
   parameters:
   - description: "the String to pad out, may be null"
     name: "str"

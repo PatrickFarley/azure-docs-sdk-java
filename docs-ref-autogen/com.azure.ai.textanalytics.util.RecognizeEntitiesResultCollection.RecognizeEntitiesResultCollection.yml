@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.util.RecognizeEntitiesResultCollection.RecognizeEntitiesResultCollection(Iterable<RecognizeEntitiesResult> documentResults, String modelVersion, TextDocumentBatchStatistics statistics)"
   name: "RecognizeEntitiesResultCollection(Iterable<RecognizeEntitiesResult> documentResults, String modelVersion, TextDocumentBatchStatistics statistics)"
   nameWithType: "RecognizeEntitiesResultCollection.RecognizeEntitiesResultCollection(Iterable<RecognizeEntitiesResult> documentResults, String modelVersion, TextDocumentBatchStatistics statistics)"
-  summary: "Create a <xref uid=\"RecognizeEntitiesResultCollection\" data-throw-if-not-resolved=\"false\">RecognizeEntitiesResultCollection</xref> model that maintains a list of <xref uid=\"RecognizeEntitiesResult\" data-throw-if-not-resolved=\"false\">RecognizeEntitiesResult</xref>\n along with model version and batch's statistics."
+  summary: "Create a <xref uid=\"com.azure.ai.textanalytics.util.RecognizeEntitiesResultCollection\" data-throw-if-not-resolved=\"false\">RecognizeEntitiesResultCollection</xref> model that maintains a list of <xref uid=\"com.azure.ai.textanalytics.models.RecognizeEntitiesResult\" data-throw-if-not-resolved=\"false\">RecognizeEntitiesResult</xref> along with model version and batch's statistics."
   parameters:
   - description: "A list of <xref uid=\"com.azure.ai.textanalytics.models.RecognizeEntitiesResult\" data-throw-if-not-resolved=\"false\">RecognizeEntitiesResult</xref>."
     name: "documentResults"

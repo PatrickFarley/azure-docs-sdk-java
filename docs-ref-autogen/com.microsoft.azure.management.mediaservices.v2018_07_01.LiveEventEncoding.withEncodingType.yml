@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEventEncoding.withEncodingType(LiveEventEncodingType encodingType)"
   name: "withEncodingType(LiveEventEncodingType encodingType)"
   nameWithType: "LiveEventEncoding.withEncodingType(LiveEventEncodingType encodingType)"
-  summary: "Set the encoding type for Live Event.  This value is specified at creation time and cannot be updated. Possible values include: 'None', 'Basic', 'Standard', 'Premium1080p'."
+  summary: "Set the encoding type for Live Event. This value is specified at creation time and cannot be updated. Possible values include: 'None', 'Basic', 'Standard', 'Premium1080p'."
   parameters:
   - description: "the encodingType value to set"
     name: "encodingType"

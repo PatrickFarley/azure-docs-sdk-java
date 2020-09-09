@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.FieldMapping.getSourceFieldName()"
   name: "getSourceFieldName()"
   nameWithType: "FieldMapping.getSourceFieldName()"
-  summary: "Get the sourceFieldName property: The name of the field in the data\n source."
+  summary: "Get the sourceFieldName property: The name of the field in the data source."
   syntax: "public String getSourceFieldName()"
   returns:
     description: "the sourceFieldName value."

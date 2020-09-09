@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.ResourcesClient.beginMoveResourcesWithoutPollingAsync(String sourceResourceGroupName, ResourcesMoveInfo parameters)"
   name: "beginMoveResourcesWithoutPollingAsync(String sourceResourceGroupName, ResourcesMoveInfo parameters)"
   nameWithType: "ResourcesClient.beginMoveResourcesWithoutPollingAsync(String sourceResourceGroupName, ResourcesMoveInfo parameters)"
-  summary: "The resources to move must be in the same source resource group. The target resource group may be in a different\n subscription. When moving resources, both the source group and the target group are locked for the duration of\n the operation. Write and delete operations are blocked on the groups until the move completes."
+  summary: "The resources to move must be in the same source resource group. The target resource group may be in a different subscription. When moving resources, both the source group and the target group are locked for the duration of the operation. Write and delete operations are blocked on the groups until the move completes."
   parameters:
   - description: "The name of the resource group containing the resources to move."
     name: "sourceResourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.ResourcesClient.beginMoveResourcesWithoutPollingAsync(String sourceResourceGroupName, ResourcesMoveInfo parameters, Context context)"
   name: "beginMoveResourcesWithoutPollingAsync(String sourceResourceGroupName, ResourcesMoveInfo parameters, Context context)"
   nameWithType: "ResourcesClient.beginMoveResourcesWithoutPollingAsync(String sourceResourceGroupName, ResourcesMoveInfo parameters, Context context)"
-  summary: "The resources to move must be in the same source resource group. The target resource group may be in a different\n subscription. When moving resources, both the source group and the target group are locked for the duration of\n the operation. Write and delete operations are blocked on the groups until the move completes."
+  summary: "The resources to move must be in the same source resource group. The target resource group may be in a different subscription. When moving resources, both the source group and the target group are locked for the duration of the operation. Write and delete operations are blocked on the groups until the move completes."
   parameters:
   - description: "The name of the resource group containing the resources to move."
     name: "sourceResourceGroupName"

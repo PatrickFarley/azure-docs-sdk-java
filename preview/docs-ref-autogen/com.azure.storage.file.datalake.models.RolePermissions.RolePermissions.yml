@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.RolePermissions.RolePermissions()"
   name: "RolePermissions()"
   nameWithType: "RolePermissions.RolePermissions()"
-  summary: "Initializes an instance of <code>RolePermissions</code> with all values set to false."
+  summary: "Initializes an instance of `RolePermissions` with all values set to false."
   syntax: "public RolePermissions()"
 type: "constructor"
 metadata: {}

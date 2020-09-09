@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.sas.ShareSasPermission.ShareSasPermission()"
   name: "ShareSasPermission()"
   nameWithType: "ShareSasPermission.ShareSasPermission()"
-  summary: "Initializes an <code>ShareSasPermission</code> object with all fields set to false."
+  summary: "Initializes an `ShareSasPermission` object with all fields set to false."
   syntax: "public ShareSasPermission()"
 type: "constructor"
 metadata: {}

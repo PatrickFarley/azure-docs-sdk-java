@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.getDesiredPropertyVersion()"
   name: "getDesiredPropertyVersion()"
   nameWithType: "TwinParser.getDesiredPropertyVersion()"
-  summary: "Return the `desired` property version."
+  summary: "Return the \\`desired\\` property version."
   syntax: "public Integer getDesiredPropertyVersion()"
   returns:
     description: "Integer that contains the `desired` property version (it can be null)."

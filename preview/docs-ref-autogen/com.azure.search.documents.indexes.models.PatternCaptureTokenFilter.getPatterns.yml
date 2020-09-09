@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PatternCaptureTokenFilter.getPatterns()"
   name: "getPatterns()"
   nameWithType: "PatternCaptureTokenFilter.getPatterns()"
-  summary: "Get the patterns property: A list of patterns to match against each\n token."
+  summary: "Get the patterns property: A list of patterns to match against each token."
   syntax: "public List<String> getPatterns()"
   returns:
     description: "the patterns value."

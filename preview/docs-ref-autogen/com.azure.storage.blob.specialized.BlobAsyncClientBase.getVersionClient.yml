@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.getVersionClient(String versionId)"
   name: "getVersionClient(String versionId)"
   nameWithType: "BlobAsyncClientBase.getVersionClient(String versionId)"
-  summary: "Creates a new <xref uid=\"BlobAsyncClientBase\" data-throw-if-not-resolved=\"false\">BlobAsyncClientBase</xref> linked to the <code>versionId</code> of this blob resource."
+  summary: "Creates a new <xref uid=\"com.azure.storage.blob.specialized.BlobAsyncClientBase\" data-throw-if-not-resolved=\"false\">BlobAsyncClientBase</xref> linked to the `versionId` of this blob resource."
   parameters:
   - description: "the identifier for a specific version of this blob,\n pass <code>null</code> to interact with the latest blob version."
     name: "versionId"

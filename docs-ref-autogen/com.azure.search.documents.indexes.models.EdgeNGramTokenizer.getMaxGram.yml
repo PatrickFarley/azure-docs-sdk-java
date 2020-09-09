@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.EdgeNGramTokenizer.getMaxGram()"
   name: "getMaxGram()"
   nameWithType: "EdgeNGramTokenizer.getMaxGram()"
-  summary: "Get the maxGram property: The maximum n-gram length. Default is 2.\n Maximum is 300."
+  summary: "Get the maxGram property: The maximum n-gram length. Default is 2. Maximum is 300."
   syntax: "public Integer getMaxGram()"
   returns:
     description: "the maxGram value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.dag.Graph<DataT,NodeT>.visit(Graph.Visitor visitor)"
   name: "visit(Graph.Visitor visitor)"
   nameWithType: "Graph<DataT,NodeT>.visit(Graph.Visitor visitor)"
-  summary: "Perform DFS visit in this graph.\n <p>\n The directed graph will be traversed in DFS order and the visitor will be notified as\n search explores each node and edge."
+  summary: "Perform DFS visit in this graph.\n\nThe directed graph will be traversed in DFS order and the visitor will be notified as search explores each node and edge."
   parameters:
   - description: "the graph visitor"
     name: "visitor"

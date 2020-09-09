@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobCopyInfo.getETag()"
   name: "getETag()"
   nameWithType: "BlobCopyInfo.getETag()"
-  summary: "If the copy is complete, contains the ETag of the destination blob. If the copy isn't complete, contains the\n ETag of the empty blob created at the start of the copy.\n\n The ETag value will be in quotes."
+  summary: "If the copy is complete, contains the ETag of the destination blob. If the copy isn't complete, contains the ETag of the empty blob created at the start of the copy. The ETag value will be in quotes."
   syntax: "public String getETag()"
   returns:
     description: "The ETag for the copy."

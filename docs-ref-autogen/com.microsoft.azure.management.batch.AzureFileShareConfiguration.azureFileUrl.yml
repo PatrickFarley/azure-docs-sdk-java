@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batch.AzureFileShareConfiguration.azureFileUrl()"
   name: "azureFileUrl()"
   nameWithType: "AzureFileShareConfiguration.azureFileUrl()"
-  summary: "Get this is of the form 'https://{account}.file.core.windows.net/'."
+  summary: "Get this is of the form 'https://\\{account\\}.file.core.windows.net/'."
   syntax: "public String azureFileUrl()"
   returns:
     description: "the azureFileUrl value"

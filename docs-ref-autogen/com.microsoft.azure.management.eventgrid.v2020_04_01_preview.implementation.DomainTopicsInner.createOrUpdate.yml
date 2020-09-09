@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.createOrUpdate(String resourceGroupName, String domainName, String domainTopicName)"
   name: "createOrUpdate(String resourceGroupName, String domainName, String domainTopicName)"
   nameWithType: "DomainTopicsInner.createOrUpdate(String resourceGroupName, String domainName, String domainTopicName)"
-  summary: "Create or update a domain topic.\n Asynchronously creates or updates a new domain topic with the specified parameters."
+  summary: "Create or update a domain topic. Asynchronously creates or updates a new domain topic with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

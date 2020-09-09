@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionInner.withDeadLetterDestination(DeadLetterDestination deadLetterDestination)"
   name: "withDeadLetterDestination(DeadLetterDestination deadLetterDestination)"
   nameWithType: "EventSubscriptionInner.withDeadLetterDestination(DeadLetterDestination deadLetterDestination)"
-  summary: "Set the dead letter destination of the event subscription. Any event that cannot be delivered to its' destination is sent to the dead letter destination.\n     Uses Azure Event Grid's identity to acquire the authentication tokens being used during delivery / dead-lettering."
+  summary: "Set the dead letter destination of the event subscription. Any event that cannot be delivered to its' destination is sent to the dead letter destination. Uses Azure Event Grid's identity to acquire the authentication tokens being used during delivery / dead-lettering."
   parameters:
   - description: "the deadLetterDestination value to set"
     name: "deadLetterDestination"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchClient.open(BatchCredentials credentials)"
   name: "open(BatchCredentials credentials)"
   nameWithType: "BatchClient.open(BatchCredentials credentials)"
-  summary: "Creates an instance of <xref uid=\"BatchClient\" data-throw-if-not-resolved=\"false\">BatchClient</xref> associated with the specified credentials."
+  summary: "Creates an instance of <xref uid=\"com.microsoft.azure.batch.BatchClient\" data-throw-if-not-resolved=\"false\">BatchClient</xref> associated with the specified credentials."
   parameters:
   - description: "A <xref uid=\"com.microsoft.azure.batch.auth.BatchCredentials\" data-throw-if-not-resolved=\"false\">BatchCredentials</xref> object specifying the Batch account credentials."
     name: "credentials"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Strings.repeat(String string, int count)"
   name: "repeat(String string, int count)"
   nameWithType: "Strings.repeat(String string, int count)"
-  summary: "Returns a string consisting of a specific number of concatenated copies of an input string. For\n example, <code>repeat(\"hey\", 3)</code> returns the string <code>\"heyheyhey\"</code>."
+  summary: "Returns a string consisting of a specific number of concatenated copies of an input string. For example, `repeat(\"hey\", 3)` returns the string `\"heyheyhey\"`."
   parameters:
   - description: "any non-null string"
     name: "string"

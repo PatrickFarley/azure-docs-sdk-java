@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryTaskRun.DefinitionStages.RegistryTaskRunRequest.withOverridingValues(Map<String,OverridingValue> overridingValues)"
   name: "withOverridingValues(Map<String,OverridingValue> overridingValues)"
   nameWithType: "RegistryTaskRun.DefinitionStages.RegistryTaskRunRequest.withOverridingValues(Map<String,OverridingValue> overridingValues)"
-  summary: "The function that specifies whether there are any values that will be overridden and what they will be\n overridden by."
+  summary: "The function that specifies whether there are any values that will be overridden and what they will be overridden by."
   parameters:
   - description: "a map that has the name of the value to be overridden as the key and the value is\n     an OverridingValue."
     name: "overridingValues"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Equivalence<T>.equivalentTo(T target)"
   name: "equivalentTo(T target)"
   nameWithType: "Equivalence<T>.equivalentTo(T target)"
-  summary: "Returns a predicate that evaluates to true if and only if the input is equivalent to <code>\n target</code> according to this equivalence relation."
+  summary: "Returns a predicate that evaluates to true if and only if the input is equivalent to `target` according to this equivalence relation."
   parameters:
   - name: "target"
     type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"

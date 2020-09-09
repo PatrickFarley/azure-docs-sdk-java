@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileQueryHeaders.getLeaseState()"
   name: "getLeaseState()"
   nameWithType: "FileQueryHeaders.getLeaseState()"
-  summary: "Get the leaseState property: Lease state of the file. Possible values\n include: 'available', 'leased', 'expired', 'breaking', 'broken'."
+  summary: "Get the leaseState property: Lease state of the file. Possible values include: 'available', 'leased', 'expired', 'breaking', 'broken'."
   syntax: "public LeaseStateType getLeaseState()"
   returns:
     description: "the leaseState value."

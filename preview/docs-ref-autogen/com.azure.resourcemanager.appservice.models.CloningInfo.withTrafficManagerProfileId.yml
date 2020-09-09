@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.withTrafficManagerProfileId(String trafficManagerProfileId)"
   name: "withTrafficManagerProfileId(String trafficManagerProfileId)"
   nameWithType: "CloningInfo.withTrafficManagerProfileId(String trafficManagerProfileId)"
-  summary: "Set the trafficManagerProfileId property: ARM resource ID of the Traffic Manager profile to use, if it exists.\n Traffic Manager resource ID is of the form\n /subscriptions/{subId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/trafficManagerProfiles/{profileName}."
+  summary: "Set the trafficManagerProfileId property: ARM resource ID of the Traffic Manager profile to use, if it exists. Traffic Manager resource ID is of the form /subscriptions/\\{subId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.Network/trafficManagerProfiles/\\{profileName\\}."
   parameters:
   - description: "the trafficManagerProfileId value to set."
     name: "trafficManagerProfileId"

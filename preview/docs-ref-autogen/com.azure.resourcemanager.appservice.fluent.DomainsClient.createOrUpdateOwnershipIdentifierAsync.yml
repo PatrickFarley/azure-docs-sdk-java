@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.DomainsClient.createOrUpdateOwnershipIdentifierAsync(String resourceGroupName, String domainName, String name, DomainOwnershipIdentifierInner domainOwnershipIdentifier)"
   name: "createOrUpdateOwnershipIdentifierAsync(String resourceGroupName, String domainName, String name, DomainOwnershipIdentifierInner domainOwnershipIdentifier)"
   nameWithType: "DomainsClient.createOrUpdateOwnershipIdentifierAsync(String resourceGroupName, String domainName, String name, DomainOwnershipIdentifierInner domainOwnershipIdentifier)"
-  summary: "Description for Creates an ownership identifier for a domain or updates identifier details for an existing\n identifer."
+  summary: "Description for Creates an ownership identifier for a domain or updates identifier details for an existing identifer."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.DomainsClient.createOrUpdateOwnershipIdentifierAsync(String resourceGroupName, String domainName, String name, DomainOwnershipIdentifierInner domainOwnershipIdentifier, Context context)"
   name: "createOrUpdateOwnershipIdentifierAsync(String resourceGroupName, String domainName, String name, DomainOwnershipIdentifierInner domainOwnershipIdentifier, Context context)"
   nameWithType: "DomainsClient.createOrUpdateOwnershipIdentifierAsync(String resourceGroupName, String domainName, String name, DomainOwnershipIdentifierInner domainOwnershipIdentifier, Context context)"
-  summary: "Description for Creates an ownership identifier for a domain or updates identifier details for an existing\n identifer."
+  summary: "Description for Creates an ownership identifier for a domain or updates identifier details for an existing identifer."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

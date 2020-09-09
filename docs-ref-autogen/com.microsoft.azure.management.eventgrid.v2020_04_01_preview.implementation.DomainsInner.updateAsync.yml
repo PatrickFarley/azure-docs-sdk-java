@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.updateAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters)"
   name: "updateAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters)"
   nameWithType: "DomainsInner.updateAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters)"
-  summary: "Update a domain.\n Asynchronously updates a domain with the specified parameters."
+  summary: "Update a domain. Asynchronously updates a domain with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.updateAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters, ServiceCallback<DomainInner> serviceCallback)"
   name: "updateAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters, ServiceCallback<DomainInner> serviceCallback)"
   nameWithType: "DomainsInner.updateAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters, ServiceCallback<DomainInner> serviceCallback)"
-  summary: "Update a domain.\n Asynchronously updates a domain with the specified parameters."
+  summary: "Update a domain. Asynchronously updates a domain with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

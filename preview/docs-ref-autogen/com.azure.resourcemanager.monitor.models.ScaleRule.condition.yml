@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleRule.condition()"
   name: "condition()"
   nameWithType: "ScaleRule.condition()"
-  summary: "Get the operator that is used to compare the metric data and the threshold. Possible values include: 'Equals',\n 'NotEquals', 'GreaterThan', 'GreaterThanOrEqual', 'LessThan', 'LessThanOrEqual'."
+  summary: "Get the operator that is used to compare the metric data and the threshold. Possible values include: 'Equals', 'NotEquals', 'GreaterThan', 'GreaterThanOrEqual', 'LessThan', 'LessThanOrEqual'."
   syntax: "public abstract ComparisonOperationType condition()"
   returns:
     description: "the operator value"

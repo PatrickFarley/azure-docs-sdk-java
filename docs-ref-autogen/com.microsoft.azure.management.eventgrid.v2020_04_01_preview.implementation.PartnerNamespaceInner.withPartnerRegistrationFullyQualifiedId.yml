@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespaceInner.withPartnerRegistrationFullyQualifiedId(String partnerRegistrationFullyQualifiedId)"
   name: "withPartnerRegistrationFullyQualifiedId(String partnerRegistrationFullyQualifiedId)"
   nameWithType: "PartnerNamespaceInner.withPartnerRegistrationFullyQualifiedId(String partnerRegistrationFullyQualifiedId)"
-  summary: "Set the fully qualified ARM Id of the partner registration that should be associated with this partner namespace. This takes the following format:\n     /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.EventGrid/partnerRegistrations/{partnerRegistrationName}."
+  summary: "Set the fully qualified ARM Id of the partner registration that should be associated with this partner namespace. This takes the following format: /subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.EventGrid/partnerRegistrations/\\{partnerRegistrationName\\}."
   parameters:
   - description: "the partnerRegistrationFullyQualifiedId value to set"
     name: "partnerRegistrationFullyQualifiedId"

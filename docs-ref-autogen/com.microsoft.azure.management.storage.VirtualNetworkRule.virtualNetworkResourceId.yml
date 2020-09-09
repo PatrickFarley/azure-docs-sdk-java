@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.VirtualNetworkRule.virtualNetworkResourceId()"
   name: "virtualNetworkResourceId()"
   nameWithType: "VirtualNetworkRule.virtualNetworkResourceId()"
-  summary: "Get resource ID of a subnet, for example: /subscriptions/{subscriptionId}/resourceGroups/{groupName}/providers/Microsoft.Network/virtualNetworks/{vnetName}/subnets/{subnetName}."
+  summary: "Get resource ID of a subnet, for example: /subscriptions/\\{subscriptionId\\}/resourceGroups/\\{groupName\\}/providers/Microsoft.Network/virtualNetworks/\\{vnetName\\}/subnets/\\{subnetName\\}."
   syntax: "public String virtualNetworkResourceId()"
   returns:
     description: "the virtualNetworkResourceId value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WebApiSkill.getHttpHeaders()"
   name: "getHttpHeaders()"
   nameWithType: "WebApiSkill.getHttpHeaders()"
-  summary: "Get the httpHeaders property: The headers required to make the http\n request."
+  summary: "Get the httpHeaders property: The headers required to make the http request."
   syntax: "public Map<String,String> getHttpHeaders()"
   returns:
     description: "the httpHeaders value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.Index.range(DataType dataType)"
   name: "range(DataType dataType)"
   nameWithType: "Index.range(DataType dataType)"
-  summary: "Returns an instance of RangeIndex class with specified DataType.\n <p>\n Here is an example to create RangeIndex instance passing in the DataType:\n <code>RangeIndex rangeIndex = Index.range(DataType.NUMBER); </code>"
+  summary: "Returns an instance of RangeIndex class with specified DataType.\n\nHere is an example to create RangeIndex instance passing in the DataType: `RangeIndex rangeIndex = Index.range(DataType.NUMBER);`"
   parameters:
   - description: "the data type."
     name: "dataType"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.Index.range(DataType dataType, int precision)"
   name: "range(DataType dataType, int precision)"
   nameWithType: "Index.range(DataType dataType, int precision)"
-  summary: "Returns an instance of RangeIndex class with specified DataType and precision.\n <p>\n Here is an example to create RangeIndex instance passing in the DataType and precision:\n <code>RangeIndex rangeIndex = Index.RANGE(DataType.NUMBER, -1);</code>"
+  summary: "Returns an instance of RangeIndex class with specified DataType and precision.\n\nHere is an example to create RangeIndex instance passing in the DataType and precision: `RangeIndex rangeIndex = Index.RANGE(DataType.NUMBER, -1);`"
   parameters:
   - description: "specifies the target data type for the index path specification."
     name: "dataType"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.implementation.SupportTicketsInner.listWithServiceResponseAsync()"
   name: "listWithServiceResponseAsync()"
   nameWithType: "SupportTicketsInner.listWithServiceResponseAsync()"
-  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by _Status_ or _CreatedDate_ using the $filter parameter. Output will be a paged result with _nextLink_, using which you can retrieve the next set of support tickets. &lt;br/&gt;&lt;br/&gt;Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
+  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by \\_Status\\_ or \\_CreatedDate\\_ using the $filter parameter. Output will be a paged result with \\_nextLink\\_, using which you can retrieve the next set of support tickets. <br/><br/>Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
   syntax: "public Observable<ServiceResponse<Page<SupportTicketDetailsInner>>> listWithServiceResponseAsync()"
   returns:
     description: "the observable to the PagedList&lt;SupportTicketDetailsInner&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.implementation.SupportTicketsInner.listWithServiceResponseAsync(Integer top, String filter)"
   name: "listWithServiceResponseAsync(Integer top, String filter)"
   nameWithType: "SupportTicketsInner.listWithServiceResponseAsync(Integer top, String filter)"
-  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by _Status_ or _CreatedDate_ using the $filter parameter. Output will be a paged result with _nextLink_, using which you can retrieve the next set of support tickets. &lt;br/&gt;&lt;br/&gt;Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
+  summary: "Lists all the support tickets for an Azure subscription. You can also filter the support tickets by \\_Status\\_ or \\_CreatedDate\\_ using the $filter parameter. Output will be a paged result with \\_nextLink\\_, using which you can retrieve the next set of support tickets. <br/><br/>Support ticket data is available for 12 months after ticket creation. If a ticket was created more than 12 months ago, a request for data might cause an error."
   parameters:
   - description: "The number of values to return in the collection. Default is 25 and max is 100."
     name: "top"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.EOT"
   name: "EOT"
   nameWithType: "Ascii.EOT"
-  summary: "End of Transmission: A communication control character used to indicate the conclusion of a\n transmission, which may have contained one or more texts and any associated headings."
+  summary: "End of Transmission: A communication control character used to indicate the conclusion of a transmission, which may have contained one or more texts and any associated headings."
   syntax: "public static final byte EOT"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureBlobFileAttributeView.readAttributes()"
   name: "readAttributes()"
   nameWithType: "AzureBlobFileAttributeView.readAttributes()"
-  summary: "Reads the file attributes as a bulk operation.\n <p>\n All file attributes are read as an atomic operation with respect to other file system operations. A fresh copy is\n retrieved every time this method is called."
+  summary: "Reads the file attributes as a bulk operation.\n\nAll file attributes are read as an atomic operation with respect to other file system operations. A fresh copy is retrieved every time this method is called."
   syntax: "public AzureBlobFileAttributes readAttributes()"
   exceptions:
   - description: "if an IOException occurs."

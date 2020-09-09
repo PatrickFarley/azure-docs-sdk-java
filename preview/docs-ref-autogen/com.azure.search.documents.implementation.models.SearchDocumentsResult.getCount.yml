@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchDocumentsResult.getCount()"
   name: "getCount()"
   nameWithType: "SearchDocumentsResult.getCount()"
-  summary: "Get the count property: The total count of results found by the search operation, or null if the count was not\n requested. If present, the count may be greater than the number of results in this response. This can happen if\n you use the $top or $skip parameters, or if Azure Cognitive Search can't return all the requested documents in a\n single Search response."
+  summary: "Get the count property: The total count of results found by the search operation, or null if the count was not requested. If present, the count may be greater than the number of results in this response. This can happen if you use the $top or $skip parameters, or if Azure Cognitive Search can't return all the requested documents in a single Search response."
   syntax: "public Long getCount()"
   returns:
     description: "the count value."

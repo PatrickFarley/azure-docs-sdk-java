@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ArrayListMultimap<K,V>.<K,V>create()"
   name: "<K,V>create()"
   nameWithType: "ArrayListMultimap<K,V>.<K,V>create()"
-  summary: "Creates a new, empty <code>ArrayListMultimap</code> with the default initial capacities.\n\n <p>This method will soon be deprecated in favor of <code>\n MultimapBuilder.hashKeys().arrayListValues().build()</code>."
+  summary: "Creates a new, empty `ArrayListMultimap` with the default initial capacities.\n\nThis method will soon be deprecated in favor of `MultimapBuilder.hashKeys().arrayListValues().build()`."
   syntax: "public static ArrayListMultimap<K,V> <K,V>create()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.ArrayListMultimap?alt=com.azure.cosmos.implementation.guava25.collect.ArrayListMultimap&text=ArrayListMultimap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -16,7 +16,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ArrayListMultimap<K,V>.<K,V>create(Multimap<? extends K,? extends V> multimap)"
   name: "<K,V>create(Multimap<? extends K,? extends V> multimap)"
   nameWithType: "ArrayListMultimap<K,V>.<K,V>create(Multimap<? extends K,? extends V> multimap)"
-  summary: "Constructs an <code>ArrayListMultimap</code> with the same mappings as the specified multimap.\n\n <p>This method will soon be deprecated in favor of <code>\n MultimapBuilder.hashKeys().arrayListValues().build(multimap)</code>."
+  summary: "Constructs an `ArrayListMultimap` with the same mappings as the specified multimap.\n\nThis method will soon be deprecated in favor of `MultimapBuilder.hashKeys().arrayListValues().build(multimap)`."
   parameters:
   - description: "the multimap whose contents are copied to this multimap"
     name: "multimap"
@@ -28,7 +28,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ArrayListMultimap<K,V>.<K,V>create(int expectedKeys, int expectedValuesPerKey)"
   name: "<K,V>create(int expectedKeys, int expectedValuesPerKey)"
   nameWithType: "ArrayListMultimap<K,V>.<K,V>create(int expectedKeys, int expectedValuesPerKey)"
-  summary: "Constructs an empty <code>ArrayListMultimap</code> with enough capacity to hold the specified\n numbers of keys and values without resizing.\n\n <p>This method will soon be deprecated in favor of <code>\n MultimapBuilder.hashKeys(expectedKeys).arrayListValues(expectedValuesPerKey).build()</code>."
+  summary: "Constructs an empty `ArrayListMultimap` with enough capacity to hold the specified numbers of keys and values without resizing.\n\nThis method will soon be deprecated in favor of `MultimapBuilder.hashKeys(expectedKeys).arrayListValues(expectedValuesPerKey).build()`."
   parameters:
   - description: "the expected number of distinct keys"
     name: "expectedKeys"

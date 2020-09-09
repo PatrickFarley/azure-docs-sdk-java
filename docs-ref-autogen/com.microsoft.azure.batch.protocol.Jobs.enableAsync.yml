@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.enableAsync(String jobId)"
   name: "enableAsync(String jobId)"
   nameWithType: "Jobs.enableAsync(String jobId)"
-  summary: "Enables the specified Job, allowing new Tasks to run.\n When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
+  summary: "Enables the specified Job, allowing new Tasks to run. When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
   parameters:
   - description: "The ID of the Job to enable."
     name: "jobId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.enableAsync(String jobId, JobEnableOptions jobEnableOptions)"
   name: "enableAsync(String jobId, JobEnableOptions jobEnableOptions)"
   nameWithType: "Jobs.enableAsync(String jobId, JobEnableOptions jobEnableOptions)"
-  summary: "Enables the specified Job, allowing new Tasks to run.\n When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
+  summary: "Enables the specified Job, allowing new Tasks to run. When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
   parameters:
   - description: "The ID of the Job to enable."
     name: "jobId"
@@ -37,7 +37,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.enableAsync(String jobId, JobEnableOptions jobEnableOptions, ServiceCallback<Void> serviceCallback)"
   name: "enableAsync(String jobId, JobEnableOptions jobEnableOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Jobs.enableAsync(String jobId, JobEnableOptions jobEnableOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Enables the specified Job, allowing new Tasks to run.\n When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
+  summary: "Enables the specified Job, allowing new Tasks to run. When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
   parameters:
   - description: "The ID of the Job to enable."
     name: "jobId"
@@ -56,7 +56,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Jobs.enableAsync(String jobId, ServiceCallback<Void> serviceCallback)"
   name: "enableAsync(String jobId, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Jobs.enableAsync(String jobId, ServiceCallback<Void> serviceCallback)"
-  summary: "Enables the specified Job, allowing new Tasks to run.\n When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
+  summary: "Enables the specified Job, allowing new Tasks to run. When you call this API, the Batch service sets a disabled Job to the enabling state. After the this operation is completed, the Job moves to the active state, and scheduling of new Tasks under the Job resumes. The Batch service does not allow a Task to remain in the active state for more than 180 days. Therefore, if you enable a Job containing active Tasks which were added more than 180 days ago, those Tasks will not run."
   parameters:
   - description: "The ID of the Job to enable."
     name: "jobId"

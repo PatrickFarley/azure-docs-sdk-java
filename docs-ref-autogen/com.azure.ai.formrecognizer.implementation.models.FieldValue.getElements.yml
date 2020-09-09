@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.FieldValue.getElements()"
   name: "getElements()"
   nameWithType: "FieldValue.getElements()"
-  summary: "Get the elements property: When includeTextDetails is set to true, a list of references to the text elements\n constituting this field."
+  summary: "Get the elements property: When includeTextDetails is set to true, a list of references to the text elements constituting this field."
   syntax: "public List<String> getElements()"
   returns:
     description: "the elements value."

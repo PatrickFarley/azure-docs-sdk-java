@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineIdentity.withUserAssignedIdentities(Map<String,VirtualMachineIdentityUserAssignedIdentities> userAssignedIdentities)"
   name: "withUserAssignedIdentities(Map<String,VirtualMachineIdentityUserAssignedIdentities> userAssignedIdentities)"
   nameWithType: "VirtualMachineIdentity.withUserAssignedIdentities(Map<String,VirtualMachineIdentityUserAssignedIdentities> userAssignedIdentities)"
-  summary: "Set the userAssignedIdentities property: The list of user identities associated with the Virtual Machine. The\n user identity dictionary key references will be ARM resource ids in the form:\n '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'."
+  summary: "Set the userAssignedIdentities property: The list of user identities associated with the Virtual Machine. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'."
   parameters:
   - description: "the userAssignedIdentities value to set."
     name: "userAssignedIdentities"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.serializer.json.jackson.JacksonJsonSerializerBuilder.build()"
   name: "build()"
   nameWithType: "JacksonJsonSerializerBuilder.build()"
-  summary: "Constructs a new instance of <xref uid=\"JacksonJsonSerializer\" data-throw-if-not-resolved=\"false\">JacksonJsonSerializer</xref> with the configurations set in this builder."
+  summary: "Constructs a new instance of <xref uid=\"com.azure.core.serializer.json.jackson.JacksonJsonSerializer\" data-throw-if-not-resolved=\"false\">JacksonJsonSerializer</xref> with the configurations set in this builder."
   syntax: "public JacksonJsonSerializer build()"
   returns:
     description: "A new instance of <xref uid=\"com.azure.core.serializer.json.jackson.JacksonJsonSerializer\" data-throw-if-not-resolved=\"false\">JacksonJsonSerializer</xref>."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.v2019_12_01.ContainerState.exitCode()"
   name: "exitCode()"
   nameWithType: "ContainerState.exitCode()"
-  summary: "Get the container instance exit codes correspond to those from the `docker run` command."
+  summary: "Get the container instance exit codes correspond to those from the \\`docker run\\` command."
   syntax: "public Integer exitCode()"
   returns:
     description: "the exitCode value"

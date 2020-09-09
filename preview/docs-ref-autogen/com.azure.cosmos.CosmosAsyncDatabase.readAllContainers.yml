@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.readAllContainers()"
   name: "readAllContainers()"
   nameWithType: "CosmosAsyncDatabase.readAllContainers()"
-  summary: "Reads all cosmos containers.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the read containers. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Reads all cosmos containers.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read containers. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   syntax: "public CosmosPagedFlux<CosmosContainerProperties> readAllContainers()"
   returns:
     description: "a <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> containing one or several feed response pages of read\n containers or an error."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.readAllContainers(CosmosQueryRequestOptions options)"
   name: "readAllContainers(CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncDatabase.readAllContainers(CosmosQueryRequestOptions options)"
-  summary: "Reads all cosmos containers.\n <p>\n After subscription the operation will be performed. The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will\n contain one or several feed response of the read containers. In case of\n failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Reads all cosmos containers.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read containers. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "<xref uid=\"com.azure.cosmos.models.CosmosQueryRequestOptions\" data-throw-if-not-resolved=\"false\">CosmosQueryRequestOptions</xref>"
     name: "options"

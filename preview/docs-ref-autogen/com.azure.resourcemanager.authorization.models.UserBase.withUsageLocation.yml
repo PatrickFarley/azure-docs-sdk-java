@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.UserBase.withUsageLocation(String usageLocation)"
   name: "withUsageLocation(String usageLocation)"
   nameWithType: "UserBase.withUsageLocation(String usageLocation)"
-  summary: "Set the usageLocation property: A two letter country code (ISO standard 3166). Required for users that will be\n assigned licenses due to legal requirement to check for availability of services in countries. Examples include:\n \"US\", \"JP\", and \"GB\"."
+  summary: "Set the usageLocation property: A two letter country code (ISO standard 3166). Required for users that will be assigned licenses due to legal requirement to check for availability of services in countries. Examples include: \"US\", \"JP\", and \"GB\"."
   parameters:
   - description: "the usageLocation value to set."
     name: "usageLocation"

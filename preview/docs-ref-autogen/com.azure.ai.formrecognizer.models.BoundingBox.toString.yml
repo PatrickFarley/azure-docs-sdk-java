@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.BoundingBox.toString()"
   name: "toString()"
   nameWithType: "BoundingBox.toString()"
-  summary: "Returns a string representation of the <xref uid=\"BoundingBox\" data-throw-if-not-resolved=\"false\">BoundingBox</xref>."
+  summary: "Returns a string representation of the <xref uid=\"com.azure.ai.formrecognizer.models.BoundingBox\" data-throw-if-not-resolved=\"false\">BoundingBox</xref>."
   overridden: "java.lang.Object.toString()"
   syntax: "public String toString()"
   returns:

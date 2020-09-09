@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobContainerAsyncClient.getBlobVersionAsyncClient(String blobName, String versionId)"
   name: "getBlobVersionAsyncClient(String blobName, String versionId)"
   nameWithType: "BlobContainerAsyncClient.getBlobVersionAsyncClient(String blobName, String versionId)"
-  summary: "Creates a new BlobAsyncClient object by concatenating blobName to the end of ContainerAsyncClient's URL. The new\n BlobAsyncClient uses the same request policy pipeline as the ContainerAsyncClient."
+  summary: "Creates a new BlobAsyncClient object by concatenating blobName to the end of ContainerAsyncClient's URL. The new BlobAsyncClient uses the same request policy pipeline as the ContainerAsyncClient."
   parameters:
   - description: "A <code>String</code> representing the name of the blob."
     name: "blobName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.CorsRule.withMaxAgeInSeconds(int maxAgeInSeconds)"
   name: "withMaxAgeInSeconds(int maxAgeInSeconds)"
   nameWithType: "CorsRule.withMaxAgeInSeconds(int maxAgeInSeconds)"
-  summary: "Set the maxAgeInSeconds property: Required if CorsRule element is present. The number of seconds that the\n client/browser should cache a preflight response."
+  summary: "Set the maxAgeInSeconds property: Required if CorsRule element is present. The number of seconds that the client/browser should cache a preflight response."
   parameters:
   - description: "the maxAgeInSeconds value to set."
     name: "maxAgeInSeconds"

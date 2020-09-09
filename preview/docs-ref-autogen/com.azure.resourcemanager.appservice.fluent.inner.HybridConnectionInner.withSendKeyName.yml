@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.HybridConnectionInner.withSendKeyName(String sendKeyName)"
   name: "withSendKeyName(String sendKeyName)"
   nameWithType: "HybridConnectionInner.withSendKeyName(String sendKeyName)"
-  summary: "Set the sendKeyName property: The name of the Service Bus key which has Send permissions. This is used to\n authenticate to Service Bus."
+  summary: "Set the sendKeyName property: The name of the Service Bus key which has Send permissions. This is used to authenticate to Service Bus."
   parameters:
   - description: "the sendKeyName value to set."
     name: "sendKeyName"

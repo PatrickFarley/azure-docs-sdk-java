@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileSystemItemProperties.setPublicAccess(PublicAccessType publicAccess)"
   name: "setPublicAccess(PublicAccessType publicAccess)"
   nameWithType: "FileSystemItemProperties.setPublicAccess(PublicAccessType publicAccess)"
-  summary: "Set the publicAccess property: Possible values include: 'container',\n 'blob'."
+  summary: "Set the publicAccess property: Possible values include: 'container', 'blob'."
   parameters:
   - description: "the publicAccess value to set."
     name: "publicAccess"

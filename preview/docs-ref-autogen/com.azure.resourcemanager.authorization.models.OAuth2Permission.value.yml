@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.OAuth2Permission.value()"
   name: "value()"
   nameWithType: "OAuth2Permission.value()"
-  summary: "Get the value property: The value of the scope claim that the resource application should expect in the OAuth 2.0\n access token."
+  summary: "Get the value property: The value of the scope claim that the resource application should expect in the OAuth 2.0 access token."
   syntax: "public String value()"
   returns:
     description: "the value value."

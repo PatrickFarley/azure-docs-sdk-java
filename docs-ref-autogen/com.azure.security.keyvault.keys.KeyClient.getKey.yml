@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.KeyClient.getKey(String name)"
   name: "getKey(String name)"
   nameWithType: "KeyClient.getKey(String name)"
-  summary: "Get the public part of the latest version of the specified key from the key vault. The get key operation is\n applicable to all key types and it requires the <code>keys/get</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Gets the latest version of the key in the key vault. Prints out the details of the returned key.</p>\n <pre>\n KeyVaultKey keyWithVersionValue = keyClient.getKey&#40;&quot;keyName&quot;&#41;;\n System.out.printf&#40;&quot;Key is returned with name %s and id %s %n&quot;, keyWithVersionValue.getName&#40;&#41;,\n     keyWithVersionValue.getId&#40;&#41;&#41;;\n </pre>"
+  summary: "Get the public part of the latest version of the specified key from the key vault. The get key operation is applicable to all key types and it requires the `keys/get` permission.\n\n**Code Samples**\n\nGets the latest version of the key in the key vault. Prints out the details of the returned key.\n\n```java\nKeyVaultKey keyWithVersionValue = keyClient.getKey(\"keyName\");\n System.out.printf(\"Key is returned with name %s and id %s %n\", keyWithVersionValue.getName(),\n     keyWithVersionValue.getId());\n```"
   parameters:
   - description: "The name of the key."
     name: "name"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.KeyClient.getKey(String name, String version)"
   name: "getKey(String name, String version)"
   nameWithType: "KeyClient.getKey(String name, String version)"
-  summary: "Gets the public part of the specified key and key version. The get key operation is applicable to all key types\n and it requires the <code>keys/get</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Gets a specific version of the key in the key vault. Prints out the details of the returned key.</p>\n <pre>\n String keyVersion = &quot;6A385B124DEF4096AF1361A85B16C204&quot;;\n KeyVaultKey keyWithVersion = keyClient.getKey&#40;&quot;keyName&quot;, keyVersion&#41;;\n System.out.printf&#40;&quot;Key is returned with name %s and id %s %n&quot;, keyWithVersion.getName&#40;&#41;,\n     keyWithVersion.getId&#40;&#41;&#41;;\n </pre>"
+  summary: "Gets the public part of the specified key and key version. The get key operation is applicable to all key types and it requires the `keys/get` permission.\n\n**Code Samples**\n\nGets a specific version of the key in the key vault. Prints out the details of the returned key.\n\n```java\nString keyVersion = \"6A385B124DEF4096AF1361A85B16C204\";\n KeyVaultKey keyWithVersion = keyClient.getKey(\"keyName\", keyVersion);\n System.out.printf(\"Key is returned with name %s and id %s %n\", keyWithVersion.getName(),\n     keyWithVersion.getId());\n```"
   parameters:
   - description: "The name of the key, cannot be null"
     name: "name"

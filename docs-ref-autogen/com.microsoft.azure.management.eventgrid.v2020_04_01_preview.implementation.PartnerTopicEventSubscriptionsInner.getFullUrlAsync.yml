@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicEventSubscriptionsInner.getFullUrlAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName)"
   name: "getFullUrlAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName)"
   nameWithType: "PartnerTopicEventSubscriptionsInner.getFullUrlAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName)"
-  summary: "Get full URL of an event subscription of a partner topic.\n Get the full endpoint URL for an event subscription of a partner topic."
+  summary: "Get full URL of an event subscription of a partner topic. Get the full endpoint URL for an event subscription of a partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicEventSubscriptionsInner.getFullUrlAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, ServiceCallback<EventSubscriptionFullUrlInner> serviceCallback)"
   name: "getFullUrlAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, ServiceCallback<EventSubscriptionFullUrlInner> serviceCallback)"
   nameWithType: "PartnerTopicEventSubscriptionsInner.getFullUrlAsync(String resourceGroupName, String partnerTopicName, String eventSubscriptionName, ServiceCallback<EventSubscriptionFullUrlInner> serviceCallback)"
-  summary: "Get full URL of an event subscription of a partner topic.\n Get the full endpoint URL for an event subscription of a partner topic."
+  summary: "Get full URL of an event subscription of a partner topic. Get the full endpoint URL for an event subscription of a partner topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

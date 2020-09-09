@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.TrainResult.getTrainingDocuments()"
   name: "getTrainingDocuments()"
   nameWithType: "TrainResult.getTrainingDocuments()"
-  summary: "Get the trainingDocuments property: List of the documents used to train the model and any errors reported in each\n document."
+  summary: "Get the trainingDocuments property: List of the documents used to train the model and any errors reported in each document."
   syntax: "public List<TrainingDocumentInfo> getTrainingDocuments()"
   returns:
     description: "the trainingDocuments value."

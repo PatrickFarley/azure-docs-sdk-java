@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ISessionContainer.setSessionToken(RxDocumentServiceRequest request, Map<String,String> responseHeaders)"
   name: "setSessionToken(RxDocumentServiceRequest request, Map<String,String> responseHeaders)"
   nameWithType: "ISessionContainer.setSessionToken(RxDocumentServiceRequest request, Map<String,String> responseHeaders)"
-  summary: "Infers collectionFullName using responseHeaders[HttpConstants.HttpHeaders.OwnerFullName] or request.ResourceAddress,\n infers resourceId using responseHeaders[HttpConstants.HttpHeaders.OwnerId] or request.ResourceId,\n and adds responseHeaders[HttpConstants.HttpHeaders.SessionToken] session token to the (collectionFullName, resourceId)'s\n partitionKeyRangeId token map.\n\n NB: Silently does nothing for master queries, or when it's impossible to infer collectionRid and collectionFullName\n from the request, or then SessionToken is missing in responseHeader."
+  summary: "Infers collectionFullName using responseHeaders\\[HttpConstants.HttpHeaders.OwnerFullName\\] or request.ResourceAddress, infers resourceId using responseHeaders\\[HttpConstants.HttpHeaders.OwnerId\\] or request.ResourceId, and adds responseHeaders\\[HttpConstants.HttpHeaders.SessionToken\\] session token to the (collectionFullName, resourceId)'s partitionKeyRangeId token map. NB: Silently does nothing for master queries, or when it's impossible to infer collectionRid and collectionFullName from the request, or then SessionToken is missing in responseHeader."
   parameters:
   - description: "<xref uid=\"com.azure.cosmos.implementation.RxDocumentServiceRequest\" data-throw-if-not-resolved=\"false\">RxDocumentServiceRequest</xref>"
     name: "request"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ISessionContainer.setSessionToken(String collectionRid, String collectionFullName, Map<String,String> responseHeaders)"
   name: "setSessionToken(String collectionRid, String collectionFullName, Map<String,String> responseHeaders)"
   nameWithType: "ISessionContainer.setSessionToken(String collectionRid, String collectionFullName, Map<String,String> responseHeaders)"
-  summary: "Adds responseHeaders[HttpConstants.HttpHeaders.SessionToken] session token to the (collectionFullName, collectionRid)'s partitionKeyRangeId  token map."
+  summary: "Adds responseHeaders\\[HttpConstants.HttpHeaders.SessionToken\\] session token to the (collectionFullName, collectionRid)'s partitionKeyRangeId token map."
   parameters:
   - description: "collectionRid"
     name: "collectionRid"

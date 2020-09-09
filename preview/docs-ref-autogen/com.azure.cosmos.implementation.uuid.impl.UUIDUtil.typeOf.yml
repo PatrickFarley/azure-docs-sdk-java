@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.UUIDUtil.typeOf(UUID uuid)"
   name: "typeOf(UUID uuid)"
   nameWithType: "UUIDUtil.typeOf(UUID uuid)"
-  summary: "Method for determining which type of UUID given UUID is.\n Returns null if type can not be determined."
+  summary: "Method for determining which type of UUID given UUID is. Returns null if type can not be determined."
   parameters:
   - description: "UUID to check"
     name: "uuid"

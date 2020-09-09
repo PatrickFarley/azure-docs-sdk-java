@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.ParserUtility.validateMap(Map<String,Object> map)"
   name: "validateMap(Map<String,Object> map)"
   nameWithType: "ParserUtility.validateMap(Map<String,Object> map)"
-  summary: "Helper to validate if the provided map in terms of maximum\n levels and optionally if the keys ar not metadata."
+  summary: "Helper to validate if the provided map in terms of maximum levels and optionally if the keys ar not metadata."
   parameters:
   - description: "the <code>Map</code> to be validate. It can be <code>null</code>, and it will succeed in this case."
     name: "map"

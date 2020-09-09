@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.ProxyOptions.setNonProxyHosts(String nonProxyHosts)"
   name: "setNonProxyHosts(String nonProxyHosts)"
   nameWithType: "ProxyOptions.setNonProxyHosts(String nonProxyHosts)"
-  summary: "Sets the hosts which bypass the proxy.\n\n <p>\n The expected format of the passed string is a <code>'|'</code> delimited list of hosts which should bypass the proxy.\n Individual host strings may contain regex characters such as <code>'*'</code>."
+  summary: "Sets the hosts which bypass the proxy.\n\nThe expected format of the passed string is a `'|'` delimited list of hosts which should bypass the proxy. Individual host strings may contain regex characters such as `'*'`."
   parameters:
   - description: "Hosts that bypass the proxy."
     name: "nonProxyHosts"

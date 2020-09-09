@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceOrchestratorProfile.withOrchestratorVersion(String orchestratorVersion)"
   name: "withOrchestratorVersion(String orchestratorVersion)"
   nameWithType: "ContainerServiceOrchestratorProfile.withOrchestratorVersion(String orchestratorVersion)"
-  summary: "Set the orchestratorVersion property: The version of the orchestrator to use. You can specify the\n major.minor.patch part of the actual version.For example, you can specify version as \"1.6.11\"."
+  summary: "Set the orchestratorVersion property: The version of the orchestrator to use. You can specify the major.minor.patch part of the actual version.For example, you can specify version as \"1.6.11\"."
   parameters:
   - description: "the orchestratorVersion value to set."
     name: "orchestratorVersion"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrder.DefinitionStages.WithKeyVault.withNewKeyVault(String vaultName, Region region)"
   name: "withNewKeyVault(String vaultName, Region region)"
   nameWithType: "AppServiceCertificateOrder.DefinitionStages.WithKeyVault.withNewKeyVault(String vaultName, Region region)"
-  summary: "Creates a new key vault to store the certificate private key.\n\n <p>DO NOT use this method if you are logged in from an identity without access to the Active Directory\n Graph."
+  summary: "Creates a new key vault to store the certificate private key.\n\nDO NOT use this method if you are logged in from an identity without access to the Active Directory Graph."
   parameters:
   - description: "the name of the new key vault"
     name: "vaultName"

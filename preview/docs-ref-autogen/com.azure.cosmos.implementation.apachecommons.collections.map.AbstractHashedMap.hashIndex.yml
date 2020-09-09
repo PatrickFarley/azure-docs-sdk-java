@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.hashIndex(int hashCode, int dataSize)"
   name: "hashIndex(int hashCode, int dataSize)"
   nameWithType: "AbstractHashedMap<K,V>.hashIndex(int hashCode, int dataSize)"
-  summary: "Gets the index into the data storage for the hashCode specified.\n This implementation uses the least significant bits of the hashCode.\n Subclasses can override this to return alternate bucketing."
+  summary: "Gets the index into the data storage for the hashCode specified. This implementation uses the least significant bits of the hashCode. Subclasses can override this to return alternate bucketing."
   parameters:
   - description: "the hash code to use"
     name: "hashCode"

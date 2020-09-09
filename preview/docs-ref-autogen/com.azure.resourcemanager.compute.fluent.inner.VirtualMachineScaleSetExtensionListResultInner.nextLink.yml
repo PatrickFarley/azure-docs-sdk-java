@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetExtensionListResultInner.nextLink()"
   name: "nextLink()"
   nameWithType: "VirtualMachineScaleSetExtensionListResultInner.nextLink()"
-  summary: "Get the nextLink property: The uri to fetch the next page of VM scale set extensions. Call ListNext() with this\n to fetch the next page of VM scale set extensions."
+  summary: "Get the nextLink property: The uri to fetch the next page of VM scale set extensions. Call ListNext() with this to fetch the next page of VM scale set extensions."
   syntax: "public String nextLink()"
   returns:
     description: "the nextLink value."

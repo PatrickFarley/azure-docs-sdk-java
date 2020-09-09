@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchResult.getScore()"
   name: "getScore()"
   nameWithType: "SearchResult.getScore()"
-  summary: "Get the score property: The relevance score of the document compared to\n other documents returned by the query."
+  summary: "Get the score property: The relevance score of the document compared to other documents returned by the query."
   syntax: "public double getScore()"
   returns:
     description: "the score value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayInner.gatewayIpConfigurations()"
   name: "gatewayIpConfigurations()"
   nameWithType: "ApplicationGatewayInner.gatewayIpConfigurations()"
-  summary: "Get the gatewayIpConfigurations property: Subnets of the application gateway resource. For default limits, see\n [Application Gateway\n limits](https://docs.microsoft.com/azure/azure-subscription-service-limits#application-gateway-limits)."
+  summary: "Get the gatewayIpConfigurations property: Subnets of the application gateway resource. For default limits, see \\[Application Gateway limits\\](https://docs.microsoft.com/azure/azure-subscription-service-limits\\#application-gateway-limits)."
   syntax: "public List<ApplicationGatewayIpConfigurationInner> gatewayIpConfigurations()"
   returns:
     description: "the gatewayIpConfigurations value."

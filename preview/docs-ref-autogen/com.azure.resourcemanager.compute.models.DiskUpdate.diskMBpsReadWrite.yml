@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskUpdate.diskMBpsReadWrite()"
   name: "diskMBpsReadWrite()"
   nameWithType: "DiskUpdate.diskMBpsReadWrite()"
-  summary: "Get the diskMBpsReadWrite property: The bandwidth allowed for this disk; only settable for UltraSSD disks. MBps\n means millions of bytes per second - MB here uses the ISO notation, of powers of 10."
+  summary: "Get the diskMBpsReadWrite property: The bandwidth allowed for this disk; only settable for UltraSSD disks. MBps means millions of bytes per second - MB here uses the ISO notation, of powers of 10."
   syntax: "public Integer diskMBpsReadWrite()"
   returns:
     description: "the diskMBpsReadWrite value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigInner.withLocalMySqlEnabled(Boolean localMySqlEnabled)"
   name: "withLocalMySqlEnabled(Boolean localMySqlEnabled)"
   nameWithType: "SiteConfigInner.withLocalMySqlEnabled(Boolean localMySqlEnabled)"
-  summary: "Set the localMySqlEnabled property: &lt;code&gt;true&lt;/code&gt; to enable local MySQL; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the localMySqlEnabled property: <code>true</code> to enable local MySQL; otherwise, <code>false</code>."
   parameters:
   - description: "the localMySqlEnabled value to set."
     name: "localMySqlEnabled"

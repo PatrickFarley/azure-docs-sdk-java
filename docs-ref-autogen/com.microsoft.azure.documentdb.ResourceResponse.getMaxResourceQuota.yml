@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.ResourceResponse<T>.getMaxResourceQuota()"
   name: "getMaxResourceQuota()"
   nameWithType: "ResourceResponse<T>.getMaxResourceQuota()"
-  summary: "Gets the maximum size limit for this entity (in megabytes (MB) for server resources and in count for master\n resources)."
+  summary: "Gets the maximum size limit for this entity (in megabytes (MB) for server resources and in count for master resources)."
   syntax: "public String getMaxResourceQuota()"
   returns:
     description: "the max resource quota."

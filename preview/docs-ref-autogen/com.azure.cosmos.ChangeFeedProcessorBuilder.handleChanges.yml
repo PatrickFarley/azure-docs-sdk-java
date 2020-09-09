@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.ChangeFeedProcessorBuilder.handleChanges(Consumer<List<JsonNode>> consumer)"
   name: "handleChanges(Consumer<List<JsonNode>> consumer)"
   nameWithType: "ChangeFeedProcessorBuilder.handleChanges(Consumer<List<JsonNode>> consumer)"
-  summary: "Sets a consumer function which will be called to process changes.\n\n <pre>\n .handleChanges&#40;docs -&gt; &#123;\n     for &#40;JsonNode item : docs&#41; &#123;\n         &#47;&#47; Implementation for handling and processing of each JsonNode item goes here\n     &#125;\n &#125;&#41;\n </pre>"
+  summary: "Sets a consumer function which will be called to process changes.\n\n```java\n.handleChanges(docs -> {\n     for (JsonNode item : docs) {\n         // Implementation for handling and processing of each JsonNode item goes here\n     }\n })\n```"
   parameters:
   - description: "the <xref uid=\"java.util.function.Consumer\" data-throw-if-not-resolved=\"false\">Consumer</xref> to call for handling the feeds."
     name: "consumer"

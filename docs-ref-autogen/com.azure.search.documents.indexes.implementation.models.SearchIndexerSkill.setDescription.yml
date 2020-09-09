@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexerSkill.setDescription(String description)"
   name: "setDescription(String description)"
   nameWithType: "SearchIndexerSkill.setDescription(String description)"
-  summary: "Set the description property: The description of the skill which describes the inputs, outputs, and usage of the\n skill."
+  summary: "Set the description property: The description of the skill which describes the inputs, outputs, and usage of the skill."
   parameters:
   - description: "the description value to set."
     name: "description"

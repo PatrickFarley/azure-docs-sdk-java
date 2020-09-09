@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.SshConfiguration.withPublicIPsToAllow(List<String> publicIPsToAllow)"
   name: "withPublicIPsToAllow(List<String> publicIPsToAllow)"
   nameWithType: "SshConfiguration.withPublicIPsToAllow(List<String> publicIPsToAllow)"
-  summary: "Set list of source IP ranges to allow SSH connection from. The default value is '*' (all source IPs are allowed). Maximum number of IP ranges that can be specified is 400."
+  summary: "Set list of source IP ranges to allow SSH connection from. The default value is '\\*' (all source IPs are allowed). Maximum number of IP ranges that can be specified is 400."
   parameters:
   - description: "the publicIPsToAllow value to set"
     name: "publicIPsToAllow"

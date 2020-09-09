@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusMessage.setContentType(String contentType)"
   name: "setContentType(String contentType)"
   nameWithType: "ServiceBusMessage.setContentType(String contentType)"
-  summary: "Sets the content type of the <xref uid=\"ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref>."
+  summary: "Sets the content type of the <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref>."
   parameters:
   - description: "of the message."
     name: "contentType"

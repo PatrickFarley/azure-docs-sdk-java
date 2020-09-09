@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.utils.PagedList<E>.loadNextPage()"
   name: "loadNextPage()"
   nameWithType: "PagedList<E>.loadNextPage()"
-  summary: "Loads a page from next page link.\n The exceptions are wrapped into Java Runtime exceptions."
+  summary: "Loads a page from next page link. The exceptions are wrapped into Java Runtime exceptions."
   syntax: "protected void loadNextPage()"
 type: "method"
 metadata: {}

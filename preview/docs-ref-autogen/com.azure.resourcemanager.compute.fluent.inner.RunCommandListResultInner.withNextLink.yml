@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.RunCommandListResultInner.withNextLink(String nextLink)"
   name: "withNextLink(String nextLink)"
   nameWithType: "RunCommandListResultInner.withNextLink(String nextLink)"
-  summary: "Set the nextLink property: The uri to fetch the next page of run commands. Call ListNext() with this to fetch the\n next page of run commands."
+  summary: "Set the nextLink property: The uri to fetch the next page of run commands. Call ListNext() with this to fetch the next page of run commands."
   parameters:
   - description: "the nextLink value to set."
     name: "nextLink"

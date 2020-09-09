@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_D13"
   name: "STANDARD_D13"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_D13"
-  summary: "Static value Standard_D13 for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_D13 for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_D13"
 type: "field"
 metadata: {}

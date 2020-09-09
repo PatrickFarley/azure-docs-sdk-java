@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.runtimeVersion()"
   name: "runtimeVersion()"
   nameWithType: "SiteAuthSettingsInner.runtimeVersion()"
-  summary: "Get the runtimeVersion property: The RuntimeVersion of the Authentication / Authorization feature in use for the\n current app. The setting in this value can control the behavior of certain features in the Authentication /\n Authorization module."
+  summary: "Get the runtimeVersion property: The RuntimeVersion of the Authentication / Authorization feature in use for the current app. The setting in this value can control the behavior of certain features in the Authentication / Authorization module."
   syntax: "public String runtimeVersion()"
   returns:
     description: "the runtimeVersion value."

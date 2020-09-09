@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.updateSlotConfigurationNames(String resourceGroupName, String name, SlotConfigNamesResourceInner slotConfigNames)"
   name: "updateSlotConfigurationNames(String resourceGroupName, String name, SlotConfigNamesResourceInner slotConfigNames)"
   nameWithType: "WebAppsClient.updateSlotConfigurationNames(String resourceGroupName, String name, SlotConfigNamesResourceInner slotConfigNames)"
-  summary: "Description for Updates the names of application settings and connection string that remain with the slot during\n swap operation."
+  summary: "Description for Updates the names of application settings and connection string that remain with the slot during swap operation."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.updateSlotConfigurationNames(String resourceGroupName, String name, SlotConfigNamesResourceInner slotConfigNames, Context context)"
   name: "updateSlotConfigurationNames(String resourceGroupName, String name, SlotConfigNamesResourceInner slotConfigNames, Context context)"
   nameWithType: "WebAppsClient.updateSlotConfigurationNames(String resourceGroupName, String name, SlotConfigNamesResourceInner slotConfigNames, Context context)"
-  summary: "Description for Updates the names of application settings and connection string that remain with the slot during\n swap operation."
+  summary: "Description for Updates the names of application settings and connection string that remain with the slot during swap operation."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

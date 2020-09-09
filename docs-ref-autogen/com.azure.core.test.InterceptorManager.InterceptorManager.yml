@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.InterceptorManager.InterceptorManager(TestContextManager testContextManager)"
   name: "InterceptorManager(TestContextManager testContextManager)"
   nameWithType: "InterceptorManager.InterceptorManager(TestContextManager testContextManager)"
-  summary: "Creates a new InterceptorManager that either replays test-session records or saves them.\n\n <ul>\n     <li>If <code>testMode</code> is <xref uid=\"TestMode#PLAYBACK\" data-throw-if-not-resolved=\"false\">TestMode#PLAYBACK</xref>, the manager tries to find an existing test session\n     record to read network calls from.</li>\n     <li>If <code>testMode</code> is <xref uid=\"TestMode#RECORD\" data-throw-if-not-resolved=\"false\">TestMode#RECORD</xref>, the manager creates a new test session record and saves\n     all the network calls to it.</li>\n     <li>If <code>testMode</code> is <xref uid=\"TestMode#LIVE\" data-throw-if-not-resolved=\"false\">TestMode#LIVE</xref>, the manager won't attempt to read or create a test session\n     record.</li>\n </ul>\n\n The test session records are persisted in the path: \"<i>session-records/<code>testName</code>.json</i>\""
+  summary: "Creates a new InterceptorManager that either replays test-session records or saves them.\n\n *  If `testMode` is <xref uid=\"com.azure.core.test.TestMode.PLAYBACK\" data-throw-if-not-resolved=\"false\">TestMode#PLAYBACK</xref>, the manager tries to find an existing test session record to read network calls from.\n *  If `testMode` is <xref uid=\"com.azure.core.test.TestMode.RECORD\" data-throw-if-not-resolved=\"false\">TestMode#RECORD</xref>, the manager creates a new test session record and saves all the network calls to it.\n *  If `testMode` is <xref uid=\"com.azure.core.test.TestMode.LIVE\" data-throw-if-not-resolved=\"false\">TestMode#LIVE</xref>, the manager won't attempt to read or create a test session record.\n\nThe test session records are persisted in the path: \"*session-records/`testName`.json*\""
   parameters:
   - description: "Contextual information about the test being ran, such as test name, <xref uid=\"com.azure.core.test.TestMode\" data-throw-if-not-resolved=\"false\">TestMode</xref>,\n and others."
     name: "testContextManager"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.core.test.InterceptorManager.InterceptorManager(String testName, TestMode testMode)"
   name: "InterceptorManager(String testName, TestMode testMode)"
   nameWithType: "InterceptorManager.InterceptorManager(String testName, TestMode testMode)"
-  summary: "Creates a new InterceptorManager that either replays test-session records or saves them.\n\n <ul>\n     <li>If <code>testMode</code> is <xref uid=\"TestMode#PLAYBACK\" data-throw-if-not-resolved=\"false\">TestMode#PLAYBACK</xref>, the manager tries to find an existing test session\n     record to read network calls from.</li>\n     <li>If <code>testMode</code> is <xref uid=\"TestMode#RECORD\" data-throw-if-not-resolved=\"false\">TestMode#RECORD</xref>, the manager creates a new test session record and saves\n     all the network calls to it.</li>\n </ul>\n\n The test session records are persisted in the path: \"<i>session-records/<code>testName</code>.json</i>\""
+  summary: "Creates a new InterceptorManager that either replays test-session records or saves them.\n\n *  If `testMode` is <xref uid=\"com.azure.core.test.TestMode.PLAYBACK\" data-throw-if-not-resolved=\"false\">TestMode#PLAYBACK</xref>, the manager tries to find an existing test session record to read network calls from.\n *  If `testMode` is <xref uid=\"com.azure.core.test.TestMode.RECORD\" data-throw-if-not-resolved=\"false\">TestMode#RECORD</xref>, the manager creates a new test session record and saves all the network calls to it.\n\nThe test session records are persisted in the path: \"*session-records/`testName`.json*\""
   parameters:
   - description: "Name of the test session record."
     name: "testName"
@@ -31,7 +31,7 @@ members:
   fullName: "com.azure.core.test.InterceptorManager.InterceptorManager(String testName, Map<String,String> textReplacementRules)"
   name: "InterceptorManager(String testName, Map<String,String> textReplacementRules)"
   nameWithType: "InterceptorManager.InterceptorManager(String testName, Map<String,String> textReplacementRules)"
-  summary: "Creates a new InterceptorManager that replays test session records. It takes a set of\n <code>textReplacementRules</code>, that can be used by <xref uid=\"PlaybackClient\" data-throw-if-not-resolved=\"false\">PlaybackClient</xref> to replace values in a <xref uid=\"NetworkCallRecord#getResponse()\" data-throw-if-not-resolved=\"false\">NetworkCallRecord#getResponse()</xref>.\n\n The test session records are read from: \"<i>session-records/<code>testName</code>.json</i>\""
+  summary: "Creates a new InterceptorManager that replays test session records. It takes a set of `textReplacementRules`, that can be used by <xref uid=\"com.azure.core.test.http.PlaybackClient\" data-throw-if-not-resolved=\"false\">PlaybackClient</xref> to replace values in a <xref uid=\"com.azure.core.test.models.NetworkCallRecord.getResponse()\" data-throw-if-not-resolved=\"false\">NetworkCallRecord#getResponse()</xref>. The test session records are read from: \"*session-records/`testName`.json*\""
   parameters:
   - description: "Name of the test session record."
     name: "testName"
@@ -44,7 +44,7 @@ members:
   fullName: "com.azure.core.test.InterceptorManager.InterceptorManager(String testName, Map<String,String> textReplacementRules, boolean doNotRecord)"
   name: "InterceptorManager(String testName, Map<String,String> textReplacementRules, boolean doNotRecord)"
   nameWithType: "InterceptorManager.InterceptorManager(String testName, Map<String,String> textReplacementRules, boolean doNotRecord)"
-  summary: "Creates a new InterceptorManager that replays test session records. It takes a set of\n <code>textReplacementRules</code>, that can be used by <xref uid=\"PlaybackClient\" data-throw-if-not-resolved=\"false\">PlaybackClient</xref> to replace values in a <xref uid=\"NetworkCallRecord#getResponse()\" data-throw-if-not-resolved=\"false\">NetworkCallRecord#getResponse()</xref>.\n\n The test session records are read from: \"<i>session-records/<code>testName</code>.json</i>\""
+  summary: "Creates a new InterceptorManager that replays test session records. It takes a set of `textReplacementRules`, that can be used by <xref uid=\"com.azure.core.test.http.PlaybackClient\" data-throw-if-not-resolved=\"false\">PlaybackClient</xref> to replace values in a <xref uid=\"com.azure.core.test.models.NetworkCallRecord.getResponse()\" data-throw-if-not-resolved=\"false\">NetworkCallRecord#getResponse()</xref>. The test session records are read from: \"*session-records/`testName`.json*\""
   parameters:
   - description: "Name of the test session record."
     name: "testName"

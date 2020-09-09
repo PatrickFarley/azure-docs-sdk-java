@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StampCapacityInner.isApplicableForAllComputeModes()"
   name: "isApplicableForAllComputeModes()"
   nameWithType: "StampCapacityInner.isApplicableForAllComputeModes()"
-  summary: "Get the isApplicableForAllComputeModes property: &lt;code&gt;true&lt;/code&gt; if capacity is applicable for all\n apps; otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the isApplicableForAllComputeModes property: <code>true</code> if capacity is applicable for all apps; otherwise, <code>false</code>."
   syntax: "public Boolean isApplicableForAllComputeModes()"
   returns:
     description: "the isApplicableForAllComputeModes value."

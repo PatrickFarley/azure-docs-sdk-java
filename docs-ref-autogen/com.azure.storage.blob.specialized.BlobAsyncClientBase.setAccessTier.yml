@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.setAccessTier(AccessTier tier)"
   name: "setAccessTier(AccessTier tier)"
   nameWithType: "BlobAsyncClientBase.setAccessTier(AccessTier tier)"
-  summary: "Sets the tier on a blob. The operation is allowed on a page blob in a premium storage account or a block blob in\n a blob storage or GPV2 account. A premium page blob's tier determines the allowed size, IOPS, and bandwidth of\n the blob. A block blob's tier determines the Hot/Cool/Archive storage type. This does not update the blob's\n etag.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.setAccessTier&#40;AccessTier.HOT&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/set-blob-tier\">Azure Docs</a></p>"
+  summary: "Sets the tier on a blob. The operation is allowed on a page blob in a premium storage account or a block blob in a blob storage or GPV2 account. A premium page blob's tier determines the allowed size, IOPS, and bandwidth of the blob. A block blob's tier determines the Hot/Cool/Archive storage type. This does not update the blob's etag.\n\n**Code Samples**\n\n```java\nclient.setAccessTier(AccessTier.HOT);\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/set-blob-tier"
   parameters:
   - description: "The new tier for the blob."
     name: "tier"

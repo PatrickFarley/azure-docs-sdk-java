@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getETag()"
   name: "getETag()"
   nameWithType: "ShareFileDownloadHeaders.getETag()"
-  summary: "Get the eTag property: The ETag contains a value that you can use to\n perform operations conditionally, in quotes."
+  summary: "Get the eTag property: The ETag contains a value that you can use to perform operations conditionally, in quotes."
   syntax: "public String getETag()"
   returns:
     description: "the eTag value."

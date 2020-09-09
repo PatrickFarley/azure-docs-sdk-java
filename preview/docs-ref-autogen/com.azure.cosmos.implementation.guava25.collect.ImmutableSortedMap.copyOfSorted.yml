@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMap<K,V>.<K,V>copyOfSorted(SortedMap<K,? extends V> map)"
   name: "<K,V>copyOfSorted(SortedMap<K,? extends V> map)"
   nameWithType: "ImmutableSortedMap<K,V>.<K,V>copyOfSorted(SortedMap<K,? extends V> map)"
-  summary: "Returns an immutable map containing the same entries as the provided sorted map, with the same\n ordering.\n\n <p>Despite the method name, this method attempts to avoid actually copying the data when it is\n safe to do so. The exact circumstances under which a copy will or will not be performed are\n undocumented and subject to change."
+  summary: "Returns an immutable map containing the same entries as the provided sorted map, with the same ordering.\n\nDespite the method name, this method attempts to avoid actually copying the data when it is safe to do so. The exact circumstances under which a copy will or will not be performed are undocumented and subject to change."
   parameters:
   - name: "map"
     type: "<xref href=\"java.util.SortedMap?alt=java.util.SortedMap&text=SortedMap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"K?alt=K&text=K\" data-throw-if-not-resolved=\"False\" />,<xref href=\"? extends V?alt=? extends V&text=? extends V\" data-throw-if-not-resolved=\"False\" />&gt;"

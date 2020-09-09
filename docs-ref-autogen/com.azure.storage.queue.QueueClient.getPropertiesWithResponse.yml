@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueClient.getPropertiesWithResponse(Duration timeout, Context context)"
   name: "getPropertiesWithResponse(Duration timeout, Context context)"
   nameWithType: "QueueClient.getPropertiesWithResponse(Duration timeout, Context context)"
-  summary: "Retrieves metadata and approximate message count of the queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Get the properties of the queue</p>\n\n <pre>\n QueueProperties properties = client.getPropertiesWithResponse&#40;Duration.ofSeconds&#40;1&#41;,\n     new Context&#40;key1, value1&#41;&#41;.getValue&#40;&#41;;\n System.out.printf&#40;&quot;Metadata: %s, Approximate message count: %d&quot;, properties.getMetadata&#40;&#41;,\n     properties.getApproximateMessagesCount&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-metadata\">Azure Docs</a>.</p>"
+  summary: "Retrieves metadata and approximate message count of the queue.\n\n**Code Samples**\n\nGet the properties of the queue\n\n```java\nQueueProperties properties = client.getPropertiesWithResponse(Duration.ofSeconds(1),\n     new Context(key1, value1)).getValue();\n System.out.printf(\"Metadata: %s, Approximate message count: %d\", properties.getMetadata(),\n     properties.getApproximateMessagesCount());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-metadata"
   parameters:
   - description: "An optional timeout applied to the operation. If a response is not returned before the timeout\n concludes a <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> will be thrown."
     name: "timeout"

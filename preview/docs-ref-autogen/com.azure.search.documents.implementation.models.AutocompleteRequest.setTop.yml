@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.AutocompleteRequest.setTop(Integer top)"
   name: "setTop(Integer top)"
   nameWithType: "AutocompleteRequest.setTop(Integer top)"
-  summary: "Set the top property: The number of auto-completed terms to retrieve. This must be a value between 1 and 100. The\n default is 5."
+  summary: "Set the top property: The number of auto-completed terms to retrieve. This must be a value between 1 and 100. The default is 5."
   parameters:
   - description: "the top value to set."
     name: "top"

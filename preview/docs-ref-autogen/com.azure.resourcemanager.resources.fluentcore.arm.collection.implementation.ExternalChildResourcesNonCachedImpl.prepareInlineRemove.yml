@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.collection.implementation.ExternalChildResourcesNonCachedImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.prepareInlineRemove(FluentModelTImpl model)"
   name: "prepareInlineRemove(FluentModelTImpl model)"
   nameWithType: "ExternalChildResourcesNonCachedImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.prepareInlineRemove(FluentModelTImpl model)"
-  summary: "Prepare the given model of an external child resource for inline removal\n (along with the definition or update of parent resource)."
+  summary: "Prepare the given model of an external child resource for inline removal (along with the definition or update of parent resource)."
   parameters:
   - description: "the model representing child resource to remove"
     name: "model"

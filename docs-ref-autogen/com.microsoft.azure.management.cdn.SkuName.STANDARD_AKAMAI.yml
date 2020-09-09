@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cdn.SkuName.STANDARD_AKAMAI"
   name: "STANDARD_AKAMAI"
   nameWithType: "SkuName.STANDARD_AKAMAI"
-  summary: "Static value Standard_Akamai for SkuName."
+  summary: "Static value Standard\\_Akamai for SkuName."
   syntax: "public static final SkuName STANDARD_AKAMAI"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.LoadBalancer.DefinitionStages.WithPublicFrontend.definePublicFrontend(String name)"
   name: "definePublicFrontend(String name)"
   nameWithType: "LoadBalancer.DefinitionStages.WithPublicFrontend.definePublicFrontend(String name)"
-  summary: "Begins an explicit definition of a new public (Internet-facing) load balancer frontend.\n\n <p>(Note that frontends can also be created implicitly as part of a load balancing rule, inbound NAT rule\n or inbound NAT pool definition, by referencing an existing public IP address within those definitions.)"
+  summary: "Begins an explicit definition of a new public (Internet-facing) load balancer frontend.\n\n(Note that frontends can also be created implicitly as part of a load balancing rule, inbound NAT rule or inbound NAT pool definition, by referencing an existing public IP address within those definitions.)"
   parameters:
   - description: "the name for the frontend"
     name: "name"

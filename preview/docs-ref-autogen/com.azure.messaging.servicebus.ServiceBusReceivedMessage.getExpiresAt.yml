@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceivedMessage.getExpiresAt()"
   name: "getExpiresAt()"
   nameWithType: "ServiceBusReceivedMessage.getExpiresAt()"
-  summary: "Gets the instant at which this message will expire.\n <p>\n The value is the UTC instant for when the message is scheduled for removal and will no longer available for\n retrieval from the entity due to expiration. Expiry is controlled by the <xref uid=\"#getTimeToLive()\" data-throw-if-not-resolved=\"false\">TimeToLive</xref>\n property. This property is computed from <xref uid=\"#getEnqueuedTime()\" data-throw-if-not-resolved=\"false\">EnqueuedTime</xref> plus <xref uid=\"#getTimeToLive()\" data-throw-if-not-resolved=\"false\">TimeToLive</xref>."
+  summary: "Gets the instant at which this message will expire.\n\nThe value is the UTC instant for when the message is scheduled for removal and will no longer available for retrieval from the entity due to expiration. Expiry is controlled by the <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage.getTimeToLive()\" data-throw-if-not-resolved=\"false\">TimeToLive</xref> property. This property is computed from <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage.getEnqueuedTime()\" data-throw-if-not-resolved=\"false\">EnqueuedTime</xref> plus <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage.getTimeToLive()\" data-throw-if-not-resolved=\"false\">TimeToLive</xref>."
   syntax: "public Instant getExpiresAt()"
   returns:
     description: "<xref uid=\"java.time.Instant\" data-throw-if-not-resolved=\"false\">Instant</xref> at which this message expires"

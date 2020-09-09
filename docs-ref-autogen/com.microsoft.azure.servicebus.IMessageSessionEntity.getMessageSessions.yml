@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageSessionEntity.getMessageSessions()"
   name: "getMessageSessions()"
   nameWithType: "IMessageSessionEntity.getMessageSessions()"
-  summary: "Gets the message sessions, enabling you to browse sessions on queues.\n Only sessions with active messages in the queue are returned.\n The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
+  summary: "Gets the message sessions, enabling you to browse sessions on queues. Only sessions with active messages in the queue are returned. The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
   syntax: "public abstract Collection<IMessageSession> getMessageSessions()"
   exceptions:
   - description: "if the current thread was interrupted while waiting."
@@ -22,7 +22,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageSessionEntity.getMessageSessions(Instant lastUpdatedTime)"
   name: "getMessageSessions(Instant lastUpdatedTime)"
   nameWithType: "IMessageSessionEntity.getMessageSessions(Instant lastUpdatedTime)"
-  summary: "Retrieves all message sessions whose session state was updated since lastUpdatedTime.\n Only sessions with active messages in the queue are returned.\n The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
+  summary: "Retrieves all message sessions whose session state was updated since lastUpdatedTime. Only sessions with active messages in the queue are returned. The sessions on the deadletter queue or sessions having a SessionState as 'active' and no messages are not returned with this call."
   parameters:
   - description: "The time the session was last updated."
     name: "lastUpdatedTime"

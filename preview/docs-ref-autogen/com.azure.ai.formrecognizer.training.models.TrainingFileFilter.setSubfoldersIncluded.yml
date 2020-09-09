@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.training.models.TrainingFileFilter.setSubfoldersIncluded(boolean includeSubfolders)"
   name: "setSubfoldersIncluded(boolean includeSubfolders)"
   nameWithType: "TrainingFileFilter.setSubfoldersIncluded(boolean includeSubfolders)"
-  summary: "Set the includeSubfolders flag to indicate if sub folders are also to be included when\n searching for content to be preprocessed.\n Not supported if training with labels."
+  summary: "Set the includeSubfolders flag to indicate if sub folders are also to be included when searching for content to be preprocessed. Not supported if training with labels."
   parameters:
   - description: "the includeSubfolders value to set."
     name: "includeSubfolders"

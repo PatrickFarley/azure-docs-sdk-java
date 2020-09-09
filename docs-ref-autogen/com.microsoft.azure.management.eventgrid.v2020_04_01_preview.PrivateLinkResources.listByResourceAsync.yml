@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.PrivateLinkResources.listByResourceAsync(String resourceGroupName, String parentType, String parentName)"
   name: "listByResourceAsync(String resourceGroupName, String parentType, String parentName)"
   nameWithType: "PrivateLinkResources.listByResourceAsync(String resourceGroupName, String parentType, String parentName)"
-  summary: "List private link resources under specific topic or domain.\n List all the private link resources under a topic or domain."
+  summary: "List private link resources under specific topic or domain. List all the private link resources under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

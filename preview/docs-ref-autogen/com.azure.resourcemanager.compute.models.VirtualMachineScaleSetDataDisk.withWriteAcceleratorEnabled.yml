@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetDataDisk.withWriteAcceleratorEnabled(Boolean writeAcceleratorEnabled)"
   name: "withWriteAcceleratorEnabled(Boolean writeAcceleratorEnabled)"
   nameWithType: "VirtualMachineScaleSetDataDisk.withWriteAcceleratorEnabled(Boolean writeAcceleratorEnabled)"
-  summary: "Set the writeAcceleratorEnabled property: Specifies whether writeAccelerator should be enabled or disabled on the\n disk."
+  summary: "Set the writeAcceleratorEnabled property: Specifies whether writeAccelerator should be enabled or disabled on the disk."
   parameters:
   - description: "the writeAcceleratorEnabled value to set."
     name: "writeAcceleratorEnabled"

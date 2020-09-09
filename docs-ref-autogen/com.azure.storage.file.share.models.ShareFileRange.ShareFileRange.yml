@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileRange.ShareFileRange(Range range)"
   name: "ShareFileRange(Range range)"
   nameWithType: "ShareFileRange.ShareFileRange(Range range)"
-  summary: "Creates an instance of the range of a file from the passed <xref uid=\"Range\" data-throw-if-not-resolved=\"false\">Range</xref>."
+  summary: "Creates an instance of the range of a file from the passed <xref uid=\"com.azure.storage.file.share.models.Range\" data-throw-if-not-resolved=\"false\">Range</xref>."
   parameters:
   - description: "Range object containing start and end of the file."
     name: "range"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileRange.ShareFileRange(long start)"
   name: "ShareFileRange(long start)"
   nameWithType: "ShareFileRange.ShareFileRange(long start)"
-  summary: "Create an instance of the range of a file. Specify the start the range\n and the end defaults to the length of the file."
+  summary: "Create an instance of the range of a file. Specify the start the range and the end defaults to the length of the file."
   parameters:
   - description: "Specifies the start of bytes to be written."
     name: "start"
@@ -28,7 +28,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileRange.ShareFileRange(long start, Long end)"
   name: "ShareFileRange(long start, Long end)"
   nameWithType: "ShareFileRange.ShareFileRange(long start, Long end)"
-  summary: "Create an instance of the range of a file.  Both the start and end of the range must be specified."
+  summary: "Create an instance of the range of a file. Both the start and end of the range must be specified."
   parameters:
   - description: "Specifies the start of bytes to be written."
     name: "start"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.DatabaseUpdate.withLicenseType(DatabaseLicenseType licenseType)"
   name: "withLicenseType(DatabaseLicenseType licenseType)"
   nameWithType: "DatabaseUpdate.withLicenseType(DatabaseLicenseType licenseType)"
-  summary: "Set the licenseType property: The license type to apply for this database. `LicenseIncluded` if you need a\n license, or `BasePrice` if you have a license and are eligible for the Azure Hybrid Benefit."
+  summary: "Set the licenseType property: The license type to apply for this database. \\`LicenseIncluded\\` if you need a license, or \\`BasePrice\\` if you have a license and are eligible for the Azure Hybrid Benefit."
   parameters:
   - description: "the licenseType value to set."
     name: "licenseType"

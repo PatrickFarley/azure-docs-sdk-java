@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexerExecutionResult.getEndTime()"
   name: "getEndTime()"
   nameWithType: "IndexerExecutionResult.getEndTime()"
-  summary: "Get the endTime property: The end time of this indexer execution, if the\n execution has already completed."
+  summary: "Get the endTime property: The end time of this indexer execution, if the execution has already completed."
   syntax: "public OffsetDateTime getEndTime()"
   returns:
     description: "the endTime value."

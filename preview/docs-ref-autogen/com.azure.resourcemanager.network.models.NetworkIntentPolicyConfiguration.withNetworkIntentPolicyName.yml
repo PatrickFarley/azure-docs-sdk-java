@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkIntentPolicyConfiguration.withNetworkIntentPolicyName(String networkIntentPolicyName)"
   name: "withNetworkIntentPolicyName(String networkIntentPolicyName)"
   nameWithType: "NetworkIntentPolicyConfiguration.withNetworkIntentPolicyName(String networkIntentPolicyName)"
-  summary: "Set the networkIntentPolicyName property: The name of the Network Intent Policy for storing in target\n subscription."
+  summary: "Set the networkIntentPolicyName property: The name of the Network Intent Policy for storing in target subscription."
   parameters:
   - description: "the networkIntentPolicyName value to set."
     name: "networkIntentPolicyName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkInner.withEnableDdosProtection(Boolean enableDdosProtection)"
   name: "withEnableDdosProtection(Boolean enableDdosProtection)"
   nameWithType: "VirtualNetworkInner.withEnableDdosProtection(Boolean enableDdosProtection)"
-  summary: "Set the enableDdosProtection property: Indicates if DDoS protection is enabled for all the protected resources in\n the virtual network. It requires a DDoS protection plan associated with the resource."
+  summary: "Set the enableDdosProtection property: Indicates if DDoS protection is enabled for all the protected resources in the virtual network. It requires a DDoS protection plan associated with the resource."
   parameters:
   - description: "the enableDdosProtection value to set."
     name: "enableDdosProtection"

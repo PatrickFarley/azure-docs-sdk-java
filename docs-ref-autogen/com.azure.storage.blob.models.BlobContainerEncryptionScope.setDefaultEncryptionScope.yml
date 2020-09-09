@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobContainerEncryptionScope.setDefaultEncryptionScope(String defaultEncryptionScope)"
   name: "setDefaultEncryptionScope(String defaultEncryptionScope)"
   nameWithType: "BlobContainerEncryptionScope.setDefaultEncryptionScope(String defaultEncryptionScope)"
-  summary: "Set the defaultEncryptionScope property: Optional.  Version 2019-07-07\n and later.  Specifies the default encryption scope to set on the\n container and use for all future writes."
+  summary: "Set the defaultEncryptionScope property: Optional. Version 2019-07-07 and later. Specifies the default encryption scope to set on the container and use for all future writes."
   parameters:
   - description: "the defaultEncryptionScope value to set."
     name: "defaultEncryptionScope"

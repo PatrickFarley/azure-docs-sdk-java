@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewaySslProtocol.TLSV1_2"
   name: "TLSV1_2"
   nameWithType: "ApplicationGatewaySslProtocol.TLSV1_2"
-  summary: "Static value TLSv1_2 for ApplicationGatewaySslProtocol."
+  summary: "Static value TLSv1\\_2 for ApplicationGatewaySslProtocol."
   syntax: "public static final ApplicationGatewaySslProtocol TLSV1_2"
 type: "field"
 metadata: {}

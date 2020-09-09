@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RecommendationInner.withNextNotificationTime(OffsetDateTime nextNotificationTime)"
   name: "withNextNotificationTime(OffsetDateTime nextNotificationTime)"
   nameWithType: "RecommendationInner.withNextNotificationTime(OffsetDateTime nextNotificationTime)"
-  summary: "Set the nextNotificationTime property: When to notify this recommendation next in UTC. Null means that this will\n never be notified anymore."
+  summary: "Set the nextNotificationTime property: When to notify this recommendation next in UTC. Null means that this will never be notified anymore."
   parameters:
   - description: "the nextNotificationTime value to set."
     name: "nextNotificationTime"

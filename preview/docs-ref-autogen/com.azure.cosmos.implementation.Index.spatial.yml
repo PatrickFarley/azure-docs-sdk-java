@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.Index.spatial(DataType dataType)"
   name: "spatial(DataType dataType)"
   nameWithType: "Index.spatial(DataType dataType)"
-  summary: "Returns an instance of SpatialIndex class with specified DataType.\n <p>\n Here is an example to create SpatialIndex instance passing in the DataType:\n <p>\n SpatialIndex spatialIndex = Index.SPATIAL(DataType.POINT);"
+  summary: "Returns an instance of SpatialIndex class with specified DataType.\n\nHere is an example to create SpatialIndex instance passing in the DataType:\n\nSpatialIndex spatialIndex = Index.SPATIAL(DataType.POINT);"
   parameters:
   - description: "specifies the target data type for the index path specification."
     name: "dataType"

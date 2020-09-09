@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.TagFilter.op()"
   name: "op()"
   nameWithType: "TagFilter.op()"
-  summary: "Get the op property: This is the comparison operator which is used for object comparison and filtering. Only ==\n (equality operator) is currently supported."
+  summary: "Get the op property: This is the comparison operator which is used for object comparison and filtering. Only == (equality operator) is currently supported."
   syntax: "public String op()"
   returns:
     description: "the op value."

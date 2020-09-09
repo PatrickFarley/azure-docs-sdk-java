@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.MAX_POWER_OF_TWO"
   name: "MAX_POWER_OF_TWO"
   nameWithType: "Ints.MAX_POWER_OF_TWO"
-  summary: "The largest power of two that can be represented as an <code>int</code>."
+  summary: "The largest power of two that can be represented as an `int`."
   syntax: "public static final int MAX_POWER_OF_TWO"
 type: "field"
 metadata: {}

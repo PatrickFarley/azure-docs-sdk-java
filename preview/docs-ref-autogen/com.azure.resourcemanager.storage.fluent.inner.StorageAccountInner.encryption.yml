@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.encryption()"
   name: "encryption()"
   nameWithType: "StorageAccountInner.encryption()"
-  summary: "Get the encryption property: Gets the encryption settings on the account. If unspecified, the account is\n unencrypted."
+  summary: "Get the encryption property: Gets the encryption settings on the account. If unspecified, the account is unencrypted."
   syntax: "public Encryption encryption()"
   returns:
     description: "the encryption value."

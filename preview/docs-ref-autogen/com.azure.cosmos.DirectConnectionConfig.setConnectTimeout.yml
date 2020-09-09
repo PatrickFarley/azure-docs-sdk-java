@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.DirectConnectionConfig.setConnectTimeout(Duration connectTimeout)"
   name: "setConnectTimeout(Duration connectTimeout)"
   nameWithType: "DirectConnectionConfig.setConnectTimeout(Duration connectTimeout)"
-  summary: "Sets the connect timeout for direct client,\n represents timeout for establishing connections with an endpoint.\n\n Configures timeout for underlying Netty Channel <xref uid=\"ChannelOption#CONNECT_TIMEOUT_MILLIS\" data-throw-if-not-resolved=\"false\">ChannelOption#CONNECT_TIMEOUT_MILLIS</xref>\n\n By default, the connect timeout is 5 seconds."
+  summary: "Sets the connect timeout for direct client, represents timeout for establishing connections with an endpoint. Configures timeout for underlying Netty Channel <xref uid=\"\" data-throw-if-not-resolved=\"false\">ChannelOption#CONNECT_TIMEOUT_MILLIS</xref> By default, the connect timeout is 5 seconds."
   parameters:
   - description: "the connection timeout"
     name: "connectTimeout"

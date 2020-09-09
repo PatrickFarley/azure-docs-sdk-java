@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.AutocompleteOptions.setSearchFields(List<String> searchFields)"
   name: "setSearchFields(List<String> searchFields)"
   nameWithType: "AutocompleteOptions.setSearchFields(List<String> searchFields)"
-  summary: "Set the searchFields property: The list of field names to consider when querying for auto-completed terms. Target\n fields must be included in the specified suggester."
+  summary: "Set the searchFields property: The list of field names to consider when querying for auto-completed terms. Target fields must be included in the specified suggester."
   parameters:
   - description: "the searchFields value to set."
     name: "searchFields"

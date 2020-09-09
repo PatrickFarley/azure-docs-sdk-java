@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.FirewallRuleInner.startIpAddress()"
   name: "startIpAddress()"
   nameWithType: "FirewallRuleInner.startIpAddress()"
-  summary: "Get the startIpAddress property: The start IP address of the firewall rule. Must be IPv4 format. Use value\n '0.0.0.0' to represent all Azure-internal IP addresses."
+  summary: "Get the startIpAddress property: The start IP address of the firewall rule. Must be IPv4 format. Use value '0.0.0.0' to represent all Azure-internal IP addresses."
   syntax: "public String startIpAddress()"
   returns:
     description: "the startIpAddress value."

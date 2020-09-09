@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.search.SearchService.regenerateAdminKeys(AdminKeyKind keyKind)"
   name: "regenerateAdminKeys(AdminKeyKind keyKind)"
   nameWithType: "SearchService.regenerateAdminKeys(AdminKeyKind keyKind)"
-  summary: "Regenerates either the primary or secondary admin API key.\n <p>\n You can only regenerate one key at a time."
+  summary: "Regenerates either the primary or secondary admin API key.\n\nYou can only regenerate one key at a time."
   parameters:
   - description: "specifies which key to regenerate"
     name: "keyKind"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryApplicationVersionPublishingProfile.contentType()"
   name: "contentType()"
   nameWithType: "GalleryApplicationVersionPublishingProfile.contentType()"
-  summary: "Get the contentType property: Optional. May be used to help process this file. The type of file contained in the\n source, e.g. zip, json, etc."
+  summary: "Get the contentType property: Optional. May be used to help process this file. The type of file contained in the source, e.g. zip, json, etc."
   syntax: "public String contentType()"
   returns:
     description: "the contentType value."

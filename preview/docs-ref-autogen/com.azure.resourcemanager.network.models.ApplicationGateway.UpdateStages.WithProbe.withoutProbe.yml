@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.UpdateStages.WithProbe.withoutProbe(String name)"
   name: "withoutProbe(String name)"
   nameWithType: "ApplicationGateway.UpdateStages.WithProbe.withoutProbe(String name)"
-  summary: "Removes a probe from the application gateway.\n\n <p>Any references to this probe from backend HTTP configurations will be automatically removed."
+  summary: "Removes a probe from the application gateway.\n\nAny references to this probe from backend HTTP configurations will be automatically removed."
   parameters:
   - description: "the name of an existing probe"
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.KeyAsyncClient.getKey(String name)"
   name: "getKey(String name)"
   nameWithType: "KeyAsyncClient.getKey(String name)"
-  summary: "Get the public part of the latest version of the specified key from the key vault. The get key operation is\n applicable to all key types and it requires the <code>keys/get</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Gets latest version of the key in the key vault. Subscribes to the call asynchronously and prints out the\n returned key details when a response has been received.</p>\n\n <pre>\n keyAsyncClient.getKey&#40;&quot;keyName&quot;&#41;\n     .subscriberContext&#40;Context.of&#40;key1, value1, key2, value2&#41;&#41;\n     .subscribe&#40;keyResponse -&gt;\n         System.out.printf&#40;&quot;Key is created with name %s and id %s %n&quot;, keyResponse.getName&#40;&#41;,\n             keyResponse.getId&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Get the public part of the latest version of the specified key from the key vault. The get key operation is applicable to all key types and it requires the `keys/get` permission.\n\n**Code Samples**\n\nGets latest version of the key in the key vault. Subscribes to the call asynchronously and prints out the returned key details when a response has been received.\n\n```java\nkeyAsyncClient.getKey(\"keyName\")\n     .subscriberContext(Context.of(key1, value1, key2, value2))\n     .subscribe(keyResponse ->\n         System.out.printf(\"Key is created with name %s and id %s %n\", keyResponse.getName(),\n             keyResponse.getId()));\n```"
   parameters:
   - description: "The name of the key."
     name: "name"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.KeyAsyncClient.getKey(String name, String version)"
   name: "getKey(String name, String version)"
   nameWithType: "KeyAsyncClient.getKey(String name, String version)"
-  summary: "Gets the public part of the specified key and key version. The get key operation is applicable to all key types\n and it requires the <code>keys/get</code> permission.\n\n <p><strong>Code Samples</strong></p>\n <p>Gets a specific version of the key in the key vault. Subscribes to the call asynchronously and prints out the\n returned key details when a response has been received.</p>\n\n <pre>\n String keyVersion = &quot;6A385B124DEF4096AF1361A85B16C204&quot;;\n keyAsyncClient.getKey&#40;&quot;keyName&quot;, keyVersion&#41;\n     .subscriberContext&#40;Context.of&#40;key1, value1, key2, value2&#41;&#41;\n     .subscribe&#40;keyResponse -&gt;\n         System.out.printf&#40;&quot;Key is created with name %s and id %s %n&quot;, keyResponse.getName&#40;&#41;,\n             keyResponse.getId&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Gets the public part of the specified key and key version. The get key operation is applicable to all key types and it requires the `keys/get` permission.\n\n**Code Samples**\n\nGets a specific version of the key in the key vault. Subscribes to the call asynchronously and prints out the returned key details when a response has been received.\n\n```java\nString keyVersion = \"6A385B124DEF4096AF1361A85B16C204\";\n keyAsyncClient.getKey(\"keyName\", keyVersion)\n     .subscriberContext(Context.of(key1, value1, key2, value2))\n     .subscribe(keyResponse ->\n         System.out.printf(\"Key is created with name %s and id %s %n\", keyResponse.getName(),\n             keyResponse.getId()));\n```"
   parameters:
   - description: "The name of the key, cannot be null"
     name: "name"

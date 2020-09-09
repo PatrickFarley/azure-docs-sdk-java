@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.Plan.withProduct(String product)"
   name: "withProduct(String product)"
   nameWithType: "Plan.withProduct(String product)"
-  summary: "Set the product property: Specifies the product of the image from the marketplace. This is the same value as\n Offer under the imageReference element."
+  summary: "Set the product property: Specifies the product of the image from the marketplace. This is the same value as Offer under the imageReference element."
   parameters:
   - description: "the product value to set."
     name: "product"

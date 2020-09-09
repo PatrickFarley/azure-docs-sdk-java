@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.UUIDTimer.slowDown(long startTime, long actDiff)"
   name: "slowDown(long startTime, long actDiff)"
   nameWithType: "UUIDTimer.slowDown(long startTime, long actDiff)"
-  summary: "Simple utility method to use to wait for couple of milliseconds,\n to let system clock hopefully advance closer to the virtual\n timestamps used. Delay is kept to just a millisecond or two,\n to prevent excessive blocking; but that should be enough to\n eventually synchronize physical clock with virtual clock values\n used for UUIDs."
+  summary: "Simple utility method to use to wait for couple of milliseconds, to let system clock hopefully advance closer to the virtual timestamps used. Delay is kept to just a millisecond or two, to prevent excessive blocking; but that should be enough to eventually synchronize physical clock with virtual clock values used for UUIDs."
   parameters:
   - name: "startTime"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

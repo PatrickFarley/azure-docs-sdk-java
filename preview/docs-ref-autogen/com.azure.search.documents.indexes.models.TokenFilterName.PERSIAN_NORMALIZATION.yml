@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.TokenFilterName.PERSIAN_NORMALIZATION"
   name: "PERSIAN_NORMALIZATION"
   nameWithType: "TokenFilterName.PERSIAN_NORMALIZATION"
-  summary: "Static value persian_normalization for TokenFilterName."
+  summary: "Static value persian\\_normalization for TokenFilterName."
   syntax: "public static final TokenFilterName PERSIAN_NORMALIZATION"
 type: "field"
 metadata: {}

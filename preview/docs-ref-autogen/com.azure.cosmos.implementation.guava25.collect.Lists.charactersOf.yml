@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Lists.charactersOf(CharSequence sequence)"
   name: "charactersOf(CharSequence sequence)"
   nameWithType: "Lists.charactersOf(CharSequence sequence)"
-  summary: "Returns a view of the specified <code>CharSequence</code> as a <code>List<Character></code>, viewing\n <code>sequence</code> as a sequence of Unicode code units. The view does not support any\n modification operations, but reflects any changes to the underlying character sequence."
+  summary: "Returns a view of the specified `CharSequence` as a `List`, viewing `sequence` as a sequence of Unicode code units. The view does not support any modification operations, but reflects any changes to the underlying character sequence."
   parameters:
   - description: "the character sequence to view as a <code>List</code> of characters"
     name: "sequence"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Lists.charactersOf(String string)"
   name: "charactersOf(String string)"
   nameWithType: "Lists.charactersOf(String string)"
-  summary: "Returns a view of the specified string as an immutable list of <code>Character</code> values."
+  summary: "Returns a view of the specified string as an immutable list of `Character` values."
   parameters:
   - name: "string"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.IpConfigurationInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "IpConfigurationInner.provisioningState()"
-  summary: "Get the provisioningState property: Gets the provisioning state of the public IP resource. Possible values are:\n 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: Gets the provisioning state of the public IP resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

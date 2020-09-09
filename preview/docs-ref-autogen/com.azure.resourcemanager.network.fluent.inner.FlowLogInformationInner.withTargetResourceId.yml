@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.FlowLogInformationInner.withTargetResourceId(String targetResourceId)"
   name: "withTargetResourceId(String targetResourceId)"
   nameWithType: "FlowLogInformationInner.withTargetResourceId(String targetResourceId)"
-  summary: "Set the targetResourceId property: The ID of the resource to configure for flow log and traffic analytics\n (optional) ."
+  summary: "Set the targetResourceId property: The ID of the resource to configure for flow log and traffic analytics (optional) ."
   parameters:
   - description: "the targetResourceId value to set."
     name: "targetResourceId"

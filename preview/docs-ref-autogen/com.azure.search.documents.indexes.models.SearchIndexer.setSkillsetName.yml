@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexer.setSkillsetName(String skillsetName)"
   name: "setSkillsetName(String skillsetName)"
   nameWithType: "SearchIndexer.setSkillsetName(String skillsetName)"
-  summary: "Set the skillsetName property: The name of the skillset executing with\n this indexer."
+  summary: "Set the skillsetName property: The name of the skillset executing with this indexer."
   parameters:
   - description: "the skillsetName value to set."
     name: "skillsetName"

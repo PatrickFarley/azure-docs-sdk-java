@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.<C>range(C lower, BoundType lowerType, C upper, BoundType upperType)"
   name: "<C>range(C lower, BoundType lowerType, C upper, BoundType upperType)"
   nameWithType: "Range<C>.<C>range(C lower, BoundType lowerType, C upper, BoundType upperType)"
-  summary: "Returns a range that contains any value from <code>lower</code> to <code>upper</code>, where each\n endpoint may be either inclusive (closed) or exclusive (open)."
+  summary: "Returns a range that contains any value from `lower` to `upper`, where each endpoint may be either inclusive (closed) or exclusive (open)."
   parameters:
   - name: "lower"
     type: "<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />"

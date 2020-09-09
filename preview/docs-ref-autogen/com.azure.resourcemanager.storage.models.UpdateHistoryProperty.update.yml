@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.UpdateHistoryProperty.update()"
   name: "update()"
   nameWithType: "UpdateHistoryProperty.update()"
-  summary: "Get the update property: The ImmutabilityPolicy update type of a blob container, possible values include: put,\n lock and extend."
+  summary: "Get the update property: The ImmutabilityPolicy update type of a blob container, possible values include: put, lock and extend."
   syntax: "public ImmutabilityPolicyUpdateType update()"
   returns:
     description: "the update value."

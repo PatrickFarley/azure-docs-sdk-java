@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.NamespaceSku.PREMIUM_CAPACITY2"
   name: "PREMIUM_CAPACITY2"
   nameWithType: "NamespaceSku.PREMIUM_CAPACITY2"
-  summary: "Static value NamespaceSku for PREMIUM_CAPACITY2."
+  summary: "Static value NamespaceSku for PREMIUM\\_CAPACITY2."
   syntax: "public static final NamespaceSku PREMIUM_CAPACITY2"
 type: "field"
 metadata: {}

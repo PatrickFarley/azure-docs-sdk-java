@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.SnapshotListInner.nextLink()"
   name: "nextLink()"
   nameWithType: "SnapshotListInner.nextLink()"
-  summary: "Get the nextLink property: The uri to fetch the next page of snapshots. Call ListNext() with this to fetch the\n next page of snapshots."
+  summary: "Get the nextLink property: The uri to fetch the next page of snapshots. Call ListNext() with this to fetch the next page of snapshots."
   syntax: "public String nextLink()"
   returns:
     description: "the nextLink value."

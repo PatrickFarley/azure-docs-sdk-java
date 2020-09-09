@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.SourceProperties.sourceControlAuthProperties()"
   name: "sourceControlAuthProperties()"
   nameWithType: "SourceProperties.sourceControlAuthProperties()"
-  summary: "Get the authorization properties for accessing the source code repository and to set up\n     webhooks for notifications."
+  summary: "Get the authorization properties for accessing the source code repository and to set up webhooks for notifications."
   syntax: "public AuthInfo sourceControlAuthProperties()"
   returns:
     description: "the sourceControlAuthProperties value"

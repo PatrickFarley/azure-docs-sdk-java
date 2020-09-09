@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.AutocompleteOptions.getSearchFields()"
   name: "getSearchFields()"
   nameWithType: "AutocompleteOptions.getSearchFields()"
-  summary: "Get the searchFields property: The list of field names to consider when\n querying for auto-completed terms. Target fields must be included in the\n specified suggester."
+  summary: "Get the searchFields property: The list of field names to consider when querying for auto-completed terms. Target fields must be included in the specified suggester."
   syntax: "public List<String> getSearchFields()"
   returns:
     description: "the searchFields value."

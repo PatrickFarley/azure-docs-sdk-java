@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.beginGetLearnedRoutesWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName)"
   name: "beginGetLearnedRoutesWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName)"
   nameWithType: "VirtualNetworkGatewaysClient.beginGetLearnedRoutesWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName)"
-  summary: "This operation retrieves a list of routes the virtual network gateway has learned, including routes learned from\n BGP peers."
+  summary: "This operation retrieves a list of routes the virtual network gateway has learned, including routes learned from BGP peers."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.beginGetLearnedRoutesWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   name: "beginGetLearnedRoutesWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   nameWithType: "VirtualNetworkGatewaysClient.beginGetLearnedRoutesWithoutPolling(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
-  summary: "This operation retrieves a list of routes the virtual network gateway has learned, including routes learned from\n BGP peers."
+  summary: "This operation retrieves a list of routes the virtual network gateway has learned, including routes learned from BGP peers."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

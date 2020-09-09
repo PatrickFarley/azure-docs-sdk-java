@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClient.getPermission(String filePermissionKey)"
   name: "getPermission(String filePermissionKey)"
   nameWithType: "ShareClient.getPermission(String filePermissionKey)"
-  summary: "Gets a permission for a given key\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n String response = shareClient.getPermission&#40;&quot;filePermissionKey&quot;&#41;;\n System.out.printf&#40;&quot;The file permission is %s&quot;, response&#41;;\n </pre>"
+  summary: "Gets a permission for a given key\n\n**Code Samples**\n\n```java\nString response = shareClient.getPermission(\"filePermissionKey\");\n System.out.printf(\"The file permission is %s\", response);\n```"
   parameters:
   - description: "The file permission key."
     name: "filePermissionKey"

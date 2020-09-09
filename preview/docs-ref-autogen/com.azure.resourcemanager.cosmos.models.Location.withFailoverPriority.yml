@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.Location.withFailoverPriority(Integer failoverPriority)"
   name: "withFailoverPriority(Integer failoverPriority)"
   nameWithType: "Location.withFailoverPriority(Integer failoverPriority)"
-  summary: "Set the failoverPriority property: The failover priority of the region. A failover priority of 0 indicates a\n write region. The maximum value for a failover priority = (total number of regions - 1). Failover priority values\n must be unique for each of the regions in which the database account exists."
+  summary: "Set the failoverPriority property: The failover priority of the region. A failover priority of 0 indicates a write region. The maximum value for a failover priority = (total number of regions - 1). Failover priority values must be unique for each of the regions in which the database account exists."
   parameters:
   - description: "the failoverPriority value to set."
     name: "failoverPriority"

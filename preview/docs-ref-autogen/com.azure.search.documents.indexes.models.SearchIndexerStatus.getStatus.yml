@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerStatus.getStatus()"
   name: "getStatus()"
   nameWithType: "SearchIndexerStatus.getStatus()"
-  summary: "Get the status property: Overall indexer status. Possible values\n include: 'Unknown', 'Error', 'Running'."
+  summary: "Get the status property: Overall indexer status. Possible values include: 'Unknown', 'Error', 'Running'."
   syntax: "public IndexerStatus getStatus()"
   returns:
     description: "the status value."

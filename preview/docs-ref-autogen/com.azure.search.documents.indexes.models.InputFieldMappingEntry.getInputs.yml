@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.InputFieldMappingEntry.getInputs()"
   name: "getInputs()"
   nameWithType: "InputFieldMappingEntry.getInputs()"
-  summary: "Get the inputs property: The recursive inputs used when creating a\n complex type."
+  summary: "Get the inputs property: The recursive inputs used when creating a complex type."
   syntax: "public List<InputFieldMappingEntry> getInputs()"
   returns:
     description: "the inputs value."

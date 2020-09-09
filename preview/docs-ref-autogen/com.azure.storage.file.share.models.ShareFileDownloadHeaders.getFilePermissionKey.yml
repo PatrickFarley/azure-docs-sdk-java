@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getFilePermissionKey()"
   name: "getFilePermissionKey()"
   nameWithType: "ShareFileDownloadHeaders.getFilePermissionKey()"
-  summary: "Get the filePermissionKey property: Key of the permission set for the\n file."
+  summary: "Get the filePermissionKey property: Key of the permission set for the file."
   syntax: "public String getFilePermissionKey()"
   returns:
     description: "the filePermissionKey value."

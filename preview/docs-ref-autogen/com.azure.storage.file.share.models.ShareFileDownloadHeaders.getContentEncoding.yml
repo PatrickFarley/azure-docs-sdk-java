@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getContentEncoding()"
   name: "getContentEncoding()"
   nameWithType: "ShareFileDownloadHeaders.getContentEncoding()"
-  summary: "Get the contentEncoding property: Returns the value that was specified\n for the Content-Encoding request header."
+  summary: "Get the contentEncoding property: Returns the value that was specified for the Content-Encoding request header."
   syntax: "public String getContentEncoding()"
   returns:
     description: "the contentEncoding value."

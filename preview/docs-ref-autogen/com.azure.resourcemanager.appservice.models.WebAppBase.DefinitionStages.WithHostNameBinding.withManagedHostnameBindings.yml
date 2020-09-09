@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.DefinitionStages.WithHostNameBinding<FluentT>.withManagedHostnameBindings(AppServiceDomain domain, String[] hostnames)"
   name: "withManagedHostnameBindings(AppServiceDomain domain, String[] hostnames)"
   nameWithType: "WebAppBase.DefinitionStages.WithHostNameBinding<FluentT>.withManagedHostnameBindings(AppServiceDomain domain, String[] hostnames)"
-  summary: "Defines a list of host names of an Azure managed domain. The DNS record type is defaulted to be CNAME\n except for the root level domain (\"@\")."
+  summary: "Defines a list of host names of an Azure managed domain. The DNS record type is defaulted to be CNAME except for the root level domain (\"@\")."
   parameters:
   - description: "the Azure managed domain"
     name: "domain"

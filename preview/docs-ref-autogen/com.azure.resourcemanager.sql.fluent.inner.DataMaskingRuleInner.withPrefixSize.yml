@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DataMaskingRuleInner.withPrefixSize(String prefixSize)"
   name: "withPrefixSize(String prefixSize)"
   nameWithType: "DataMaskingRuleInner.withPrefixSize(String prefixSize)"
-  summary: "Set the prefixSize property: If maskingFunction is set to Text, the number of characters to show unmasked in the\n beginning of the string. Otherwise, this parameter will be ignored."
+  summary: "Set the prefixSize property: If maskingFunction is set to Text, the number of characters to show unmasked in the beginning of the string. Otherwise, this parameter will be ignored."
   parameters:
   - description: "the prefixSize value to set."
     name: "prefixSize"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.JobSchedule.interval()"
   name: "interval()"
   nameWithType: "JobSchedule.interval()"
-  summary: "Get the interval property: Value of the schedule's recurring interval, if the schedule type is recurring. ISO8601\n duration format."
+  summary: "Get the interval property: Value of the schedule's recurring interval, if the schedule type is recurring. ISO8601 duration format."
   syntax: "public String interval()"
   returns:
     description: "the interval value."

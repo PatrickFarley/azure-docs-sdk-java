@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.InboundNatPool.frontendPortRangeEnd()"
   name: "frontendPortRangeEnd()"
   nameWithType: "InboundNatPool.frontendPortRangeEnd()"
-  summary: "Get the frontendPortRangeEnd property: The last port number in the range of external ports that will be used to\n provide Inbound Nat to NICs associated with a load balancer. Acceptable values range between 1 and 65535."
+  summary: "Get the frontendPortRangeEnd property: The last port number in the range of external ports that will be used to provide Inbound Nat to NICs associated with a load balancer. Acceptable values range between 1 and 65535."
   syntax: "public Integer frontendPortRangeEnd()"
   returns:
     description: "the frontendPortRangeEnd value."

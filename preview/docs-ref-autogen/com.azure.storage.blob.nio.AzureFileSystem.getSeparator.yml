@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileSystem.getSeparator()"
   name: "getSeparator()"
   nameWithType: "AzureFileSystem.getSeparator()"
-  summary: "Returns the name separator, represented as a string.\n <p>\n The separator used in this file system is <code>\"/\"</code>."
+  summary: "Returns the name separator, represented as a string.\n\nThe separator used in this file system is `\"/\"`."
   overridden: "java.nio.file.FileSystem.getSeparator()"
   syntax: "public String getSeparator()"
   returns:

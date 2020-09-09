@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.models.SignatureAlgorithm.RS512"
   name: "RS512"
   nameWithType: "SignatureAlgorithm.RS512"
-  summary: "Static value A192CBC_HS384 for SignatureAlgorithm."
+  summary: "Static value A192CBC\\_HS384 for SignatureAlgorithm."
   syntax: "public static final SignatureAlgorithm RS512"
 type: "field"
 metadata: {}

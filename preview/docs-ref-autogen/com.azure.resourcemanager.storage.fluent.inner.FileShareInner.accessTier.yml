@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.FileShareInner.accessTier()"
   name: "accessTier()"
   nameWithType: "FileShareInner.accessTier()"
-  summary: "Get the accessTier property: Access tier for specific share. GpV2 account can choose between TransactionOptimized\n (default), Hot, and Cool. FileStorage account can choose Premium."
+  summary: "Get the accessTier property: Access tier for specific share. GpV2 account can choose between TransactionOptimized (default), Hot, and Cool. FileStorage account can choose Premium."
   syntax: "public ShareAccessTier accessTier()"
   returns:
     description: "the accessTier value."

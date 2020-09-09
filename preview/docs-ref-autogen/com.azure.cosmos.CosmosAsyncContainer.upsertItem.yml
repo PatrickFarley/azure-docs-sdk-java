@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>upsertItem(T item)"
   name: "<T>upsertItem(T item)"
   nameWithType: "CosmosAsyncContainer.<T>upsertItem(T item)"
-  summary: "Upserts an item.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon\n successful completion will contain a single resource response with the\n upserted item. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Upserts an item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the upserted item. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the item represented as a POJO or Item object to upsert."
     name: "item"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>upsertItem(T item, CosmosItemRequestOptions options)"
   name: "<T>upsertItem(T item, CosmosItemRequestOptions options)"
   nameWithType: "CosmosAsyncContainer.<T>upsertItem(T item, CosmosItemRequestOptions options)"
-  summary: "Upserts an item.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon\n successful completion will contain a single resource response with the\n upserted item. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Upserts an item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the upserted item. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the item represented as a POJO or Item object to upsert."
     name: "item"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>upsertItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   name: "<T>upsertItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   nameWithType: "CosmosAsyncContainer.<T>upsertItem(T item, PartitionKey partitionKey, CosmosItemRequestOptions options)"
-  summary: "Upserts an item.\n <p>\n After subscription the operation will be performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon\n successful completion will contain a single resource response with the\n upserted item. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
+  summary: "Upserts an item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the upserted item. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the item represented as a POJO or Item object to upsert."
     name: "item"

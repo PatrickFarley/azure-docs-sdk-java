@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TextSplitModeConverter.map(TextSplitMode obj)"
   name: "map(TextSplitMode obj)"
   nameWithType: "TextSplitModeConverter.map(TextSplitMode obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextSplitMode\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextSplitMode</xref> to enum\n <xref uid=\"TextSplitMode\" data-throw-if-not-resolved=\"false\">TextSplitMode</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextSplitMode\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextSplitMode</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.TextSplitMode\" data-throw-if-not-resolved=\"false\">TextSplitMode</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.TextSplitMode?alt=com.azure.search.documents.indexes.implementation.models.TextSplitMode&text=TextSplitMode\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TextSplitModeConverter.map(TextSplitMode obj)"
   name: "map(TextSplitMode obj)"
   nameWithType: "TextSplitModeConverter.map(TextSplitMode obj)"
-  summary: "Maps from enum <xref uid=\"TextSplitMode\" data-throw-if-not-resolved=\"false\">TextSplitMode</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextSplitMode\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextSplitMode</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.TextSplitMode\" data-throw-if-not-resolved=\"false\">TextSplitMode</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextSplitMode\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextSplitMode</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.TextSplitMode?alt=com.azure.search.documents.indexes.models.TextSplitMode&text=TextSplitMode\" data-throw-if-not-resolved=\"False\" />"

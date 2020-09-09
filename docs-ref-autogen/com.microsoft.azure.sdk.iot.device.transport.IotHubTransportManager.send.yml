@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.IotHubTransportManager.send(IotHubTransportMessage message, Map<String,String> additionalHeaders)"
   name: "send(IotHubTransportMessage message, Map<String,String> additionalHeaders)"
   nameWithType: "IotHubTransportManager.send(IotHubTransportMessage message, Map<String,String> additionalHeaders)"
-  summary: "Synchronously send a message to the IoT Hub. And return the response\n with the status and message."
+  summary: "Synchronously send a message to the IoT Hub. And return the response with the status and message."
   parameters:
   - description: "is the message to send."
     name: "message"

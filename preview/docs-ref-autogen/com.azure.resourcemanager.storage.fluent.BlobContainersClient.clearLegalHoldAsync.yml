@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.clearLegalHoldAsync(String resourceGroupName, String accountName, String containerName, List<String> tags)"
   name: "clearLegalHoldAsync(String resourceGroupName, String accountName, String containerName, List<String> tags)"
   nameWithType: "BlobContainersClient.clearLegalHoldAsync(String resourceGroupName, String accountName, String containerName, List<String> tags)"
-  summary: "Clears legal hold tags. Clearing the same or non-existent tag results in an idempotent operation. ClearLegalHold\n clears out only the specified tags in the request."
+  summary: "Clears legal hold tags. Clearing the same or non-existent tag results in an idempotent operation. ClearLegalHold clears out only the specified tags in the request."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.clearLegalHoldAsync(String resourceGroupName, String accountName, String containerName, List<String> tags, Context context)"
   name: "clearLegalHoldAsync(String resourceGroupName, String accountName, String containerName, List<String> tags, Context context)"
   nameWithType: "BlobContainersClient.clearLegalHoldAsync(String resourceGroupName, String accountName, String containerName, List<String> tags, Context context)"
-  summary: "Clears legal hold tags. Clearing the same or non-existent tag results in an idempotent operation. ClearLegalHold\n clears out only the specified tags in the request."
+  summary: "Clears legal hold tags. Clearing the same or non-existent tag results in an idempotent operation. ClearLegalHold clears out only the specified tags in the request."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

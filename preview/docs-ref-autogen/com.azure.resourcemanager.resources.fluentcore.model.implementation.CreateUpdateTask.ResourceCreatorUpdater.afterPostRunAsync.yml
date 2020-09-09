@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.CreateUpdateTask.ResourceCreatorUpdater<T>.afterPostRunAsync(boolean isGroupFaulted)"
   name: "afterPostRunAsync(boolean isGroupFaulted)"
   nameWithType: "CreateUpdateTask.ResourceCreatorUpdater<T>.afterPostRunAsync(boolean isGroupFaulted)"
-  summary: "Perform any action followed by the processing of work scheduled to be invoked\n (i.e. \"post run\") after {@link this#createResourceAsync()} or\n {@link this#updateResourceAsync()}."
+  summary: "Perform any action followed by the processing of work scheduled to be invoked (i.e. \"post run\") after \\{@link this\\#createResourceAsync()\\} or \\{@link this\\#updateResourceAsync()\\}."
   parameters:
   - description: "true if one or more tasks in the group this creatorUpdater\n                       belongs to are in faulted state."
     name: "isGroupFaulted"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.QueueServicesClient.setServicePropertiesWithResponseAsync(String resourceGroupName, String accountName, CorsRules cors)"
   name: "setServicePropertiesWithResponseAsync(String resourceGroupName, String accountName, CorsRules cors)"
   nameWithType: "QueueServicesClient.setServicePropertiesWithResponseAsync(String resourceGroupName, String accountName, CorsRules cors)"
-  summary: "Sets the properties of a storage account\\u2019s Queue service, including properties for Storage Analytics and CORS\n (Cross-Origin Resource Sharing) rules."
+  summary: "Sets the properties of a storage account\\\\u2019s Queue service, including properties for Storage Analytics and CORS (Cross-Origin Resource Sharing) rules."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.QueueServicesClient.setServicePropertiesWithResponseAsync(String resourceGroupName, String accountName, CorsRules cors, Context context)"
   name: "setServicePropertiesWithResponseAsync(String resourceGroupName, String accountName, CorsRules cors, Context context)"
   nameWithType: "QueueServicesClient.setServicePropertiesWithResponseAsync(String resourceGroupName, String accountName, CorsRules cors, Context context)"
-  summary: "Sets the properties of a storage account\\u2019s Queue service, including properties for Storage Analytics and CORS\n (Cross-Origin Resource Sharing) rules."
+  summary: "Sets the properties of a storage account\\\\u2019s Queue service, including properties for Storage Analytics and CORS (Cross-Origin Resource Sharing) rules."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

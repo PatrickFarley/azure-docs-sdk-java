@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.Metric.unit()"
   name: "unit()"
   nameWithType: "Metric.unit()"
-  summary: "Get the unit of the metric. Possible values include: 'Count', 'Bytes', 'Seconds', 'CountPerSecond',\n 'BytesPerSecond', 'Percent', 'MilliSeconds', 'ByteSeconds', 'Unspecified'."
+  summary: "Get the unit of the metric. Possible values include: 'Count', 'Bytes', 'Seconds', 'CountPerSecond', 'BytesPerSecond', 'Percent', 'MilliSeconds', 'ByteSeconds', 'Unspecified'."
   syntax: "public abstract Unit unit()"
   returns:
     description: "the unit value"

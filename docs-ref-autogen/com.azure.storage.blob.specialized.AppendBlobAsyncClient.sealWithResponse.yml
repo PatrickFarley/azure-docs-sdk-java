@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.AppendBlobAsyncClient.sealWithResponse(AppendBlobSealOptions options)"
   name: "sealWithResponse(AppendBlobSealOptions options)"
   nameWithType: "AppendBlobAsyncClient.sealWithResponse(AppendBlobSealOptions options)"
-  summary: "Seals an append blob, making it read only. Any subsequent appends will fail.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n AppendBlobRequestConditions requestConditions = new AppendBlobRequestConditions&#40;&#41;.setLeaseId&#40;leaseId&#41;\n     .setIfUnmodifiedSince&#40;OffsetDateTime.now&#40;&#41;.minusDays&#40;3&#41;&#41;;\n \n client.sealWithResponse&#40;new AppendBlobSealOptions&#40;&#41;.setRequestConditions&#40;requestConditions&#41;&#41;\n     .subscribe&#40;response -&gt; System.out.println&#40;&quot;Sealed AppendBlob&quot;&#41;&#41;;\n </pre>"
+  summary: "Seals an append blob, making it read only. Any subsequent appends will fail.\n\n**Code Samples**\n\n```java\nAppendBlobRequestConditions requestConditions = new AppendBlobRequestConditions().setLeaseId(leaseId)\n     .setIfUnmodifiedSince(OffsetDateTime.now().minusDays(3));\n \n client.sealWithResponse(new AppendBlobSealOptions().setRequestConditions(requestConditions))\n     .subscribe(response -> System.out.println(\"Sealed AppendBlob\"));\n```"
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.options.AppendBlobSealOptions\" data-throw-if-not-resolved=\"false\">AppendBlobSealOptions</xref>"
     name: "options"

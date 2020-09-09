@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathAccessControlEntry.parse(String str)"
   name: "parse(String str)"
   nameWithType: "PathAccessControlEntry.parse(String str)"
-  summary: "Parses the provided string into a <code>List&lt{@link PathAccessControlEntry}&gt</code>.\n\n Must be of the format \"[scope:][type]:[id]:[permissions]\"."
+  summary: "Parses the provided string into a `List<{@link PathAccessControlEntry}>`. Must be of the format \"\\[scope:\\]\\[type\\]:\\[id\\]:\\[permissions\\]\"."
   parameters:
   - description: "The string representation of the ACL."
     name: "str"

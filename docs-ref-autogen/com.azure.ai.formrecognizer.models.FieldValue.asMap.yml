@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FieldValue.asMap()"
   name: "asMap()"
   nameWithType: "FieldValue.asMap()"
-  summary: "Gets the value of the field as a <xref uid=\"Map\" data-throw-if-not-resolved=\"false\">Map</xref>."
+  summary: "Gets the value of the field as a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref>."
   syntax: "public Map<String,FormField> asMap()"
   returns:
     description: "the value of the field as an unmodifiable <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref>."

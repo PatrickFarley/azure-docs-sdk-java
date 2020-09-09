@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.dns.DnsRecordSet.UpdateStages.WithSoaRecordAttributes.withRefreshTimeInSeconds(long refreshTimeInSeconds)"
   name: "withRefreshTimeInSeconds(long refreshTimeInSeconds)"
   nameWithType: "DnsRecordSet.UpdateStages.WithSoaRecordAttributes.withRefreshTimeInSeconds(long refreshTimeInSeconds)"
-  summary: "Specifies time in seconds that a secondary name server should wait before trying to contact the\n the primary name server for a zone file update."
+  summary: "Specifies time in seconds that a secondary name server should wait before trying to contact the the primary name server for a zone file update."
   parameters:
   - description: "the refresh time in seconds"
     name: "refreshTimeInSeconds"

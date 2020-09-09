@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.polling.LongRunningOperationStatus.USER_CANCELLED"
   name: "USER_CANCELLED"
   nameWithType: "LongRunningOperationStatus.USER_CANCELLED"
-  summary: "Represents that the long-running operation is cancelled by user, however this is still\n considered as complete long-running operation."
+  summary: "Represents that the long-running operation is cancelled by user, however this is still considered as complete long-running operation."
   syntax: "public static final LongRunningOperationStatus USER_CANCELLED"
 type: "field"
 metadata: {}

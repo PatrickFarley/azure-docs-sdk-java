@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventHubClientBuilder.transportType(AmqpTransportType transport)"
   name: "transportType(AmqpTransportType transport)"
   nameWithType: "EventHubClientBuilder.transportType(AmqpTransportType transport)"
-  summary: "Sets the transport type by which all the communication with Azure Event Hubs occurs. Default value is <xref uid=\"AmqpTransportType#AMQP\" data-throw-if-not-resolved=\"false\">AmqpTransportType#AMQP</xref>."
+  summary: "Sets the transport type by which all the communication with Azure Event Hubs occurs. Default value is <xref uid=\"com.azure.core.amqp.AmqpTransportType.AMQP\" data-throw-if-not-resolved=\"false\">AmqpTransportType#AMQP</xref>."
   parameters:
   - description: "The transport type to use."
     name: "transport"

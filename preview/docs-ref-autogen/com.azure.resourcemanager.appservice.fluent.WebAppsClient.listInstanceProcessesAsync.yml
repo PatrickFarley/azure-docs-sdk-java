@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.listInstanceProcessesAsync(String resourceGroupName, String name, String instanceId)"
   name: "listInstanceProcessesAsync(String resourceGroupName, String name, String instanceId)"
   nameWithType: "WebAppsClient.listInstanceProcessesAsync(String resourceGroupName, String name, String instanceId)"
-  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance\n in a web site."
+  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance in a web site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.listInstanceProcessesAsync(String resourceGroupName, String name, String instanceId, Context context)"
   name: "listInstanceProcessesAsync(String resourceGroupName, String name, String instanceId, Context context)"
   nameWithType: "WebAppsClient.listInstanceProcessesAsync(String resourceGroupName, String name, String instanceId, Context context)"
-  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance\n in a web site."
+  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance in a web site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

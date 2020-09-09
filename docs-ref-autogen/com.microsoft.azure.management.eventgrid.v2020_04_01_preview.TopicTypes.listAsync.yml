@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.TopicTypes.listAsync()"
   name: "listAsync()"
   nameWithType: "TopicTypes.listAsync()"
-  summary: "List topic types.\n List all registered topic types."
+  summary: "List topic types. List all registered topic types."
   syntax: "public abstract Observable<TopicTypeInfo> listAsync()"
   returns:
     description: "the observable for the request"

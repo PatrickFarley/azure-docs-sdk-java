@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.Message.setTo(String to)"
   name: "setTo(String to)"
   nameWithType: "Message.setTo(String to)"
-  summary: "Sets the \"to\" address.\n\n This property is reserved for future use in routing scenarios and presently ignored by the broker itself. \n Applications can use this value in rule-driven \n <a href=\"https://docs.microsoft.com/azure/service-bus-messaging/service-bus-auto-forwarding\">auto-forward chaining</a> scenarios to indicate the \n intended logical destination of the message."
+  summary: "Sets the \"to\" address. This property is reserved for future use in routing scenarios and presently ignored by the broker itself. Applications can use this value in rule-driven [auto-forward chaining][] scenarios to indicate the intended logical destination of the message.\n\n\n[auto-forward chaining]: https://docs.microsoft.com/azure/service-bus-messaging/service-bus-auto-forwarding"
   parameters:
   - name: "to"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

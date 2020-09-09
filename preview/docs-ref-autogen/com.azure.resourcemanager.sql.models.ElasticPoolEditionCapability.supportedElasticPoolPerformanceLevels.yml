@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ElasticPoolEditionCapability.supportedElasticPoolPerformanceLevels()"
   name: "supportedElasticPoolPerformanceLevels()"
   nameWithType: "ElasticPoolEditionCapability.supportedElasticPoolPerformanceLevels()"
-  summary: "Get the supportedElasticPoolPerformanceLevels property: The list of supported elastic pool DTU levels for the\n edition."
+  summary: "Get the supportedElasticPoolPerformanceLevels property: The list of supported elastic pool DTU levels for the edition."
   syntax: "public List<ElasticPoolPerformanceLevelCapability> supportedElasticPoolPerformanceLevels()"
   returns:
     description: "the supportedElasticPoolPerformanceLevels value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.<C>greaterThan(C endpoint)"
   name: "<C>greaterThan(C endpoint)"
   nameWithType: "Range<C>.<C>greaterThan(C endpoint)"
-  summary: "Returns a range that contains all values strictly greater than <code>endpoint</code>."
+  summary: "Returns a range that contains all values strictly greater than `endpoint`."
   parameters:
   - name: "endpoint"
     type: "<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />"

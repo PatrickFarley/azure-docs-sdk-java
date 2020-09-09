@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.v2019_12_01.Locations.listCachedImagesAsync(String location)"
   name: "listCachedImagesAsync(String location)"
   nameWithType: "Locations.listCachedImagesAsync(String location)"
-  summary: "Get the list of cached images.\n Get the list of cached images on specific OS type for a subscription in a region."
+  summary: "Get the list of cached images. Get the list of cached images on specific OS type for a subscription in a region."
   parameters:
   - description: "The identifier for the physical azure location."
     name: "location"

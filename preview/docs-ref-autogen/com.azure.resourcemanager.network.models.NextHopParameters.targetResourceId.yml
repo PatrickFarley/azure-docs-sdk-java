@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NextHopParameters.targetResourceId()"
   name: "targetResourceId()"
   nameWithType: "NextHopParameters.targetResourceId()"
-  summary: "Get the targetResourceId property: The resource identifier of the target resource against which the action is to\n be performed."
+  summary: "Get the targetResourceId property: The resource identifier of the target resource against which the action is to be performed."
   syntax: "public String targetResourceId()"
   returns:
     description: "the targetResourceId value."

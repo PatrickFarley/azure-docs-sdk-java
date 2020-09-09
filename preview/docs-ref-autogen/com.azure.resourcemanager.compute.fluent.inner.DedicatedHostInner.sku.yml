@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DedicatedHostInner.sku()"
   name: "sku()"
   nameWithType: "DedicatedHostInner.sku()"
-  summary: "Get the sku property: SKU of the dedicated host for Hardware Generation and VM family. Only name is required to\n be set. List Microsoft.Compute SKUs for a list of possible values."
+  summary: "Get the sku property: SKU of the dedicated host for Hardware Generation and VM family. Only name is required to be set. List Microsoft.Compute SKUs for a list of possible values."
   syntax: "public Sku sku()"
   returns:
     description: "the sku value."

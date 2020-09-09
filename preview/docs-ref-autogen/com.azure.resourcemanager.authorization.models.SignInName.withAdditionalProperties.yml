@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.SignInName.withAdditionalProperties(Map<String,Object> additionalProperties)"
   name: "withAdditionalProperties(Map<String,Object> additionalProperties)"
   nameWithType: "SignInName.withAdditionalProperties(Map<String,Object> additionalProperties)"
-  summary: "Set the additionalProperties property: Contains information about a sign-in name of a local account user in an\n Azure Active Directory B2C tenant."
+  summary: "Set the additionalProperties property: Contains information about a sign-in name of a local account user in an Azure Active Directory B2C tenant."
   parameters:
   - description: "the additionalProperties value to set."
     name: "additionalProperties"

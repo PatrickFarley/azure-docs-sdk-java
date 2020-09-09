@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.GroupableResource.DefinitionStages.WithNewResourceGroup<T>.withNewResourceGroup()"
   name: "withNewResourceGroup()"
   nameWithType: "GroupableResource.DefinitionStages.WithNewResourceGroup<T>.withNewResourceGroup()"
-  summary: "Creates a new resource group to put the resource in.\n <p>\n The group will be created in the same location as the resource.\n The group's name is automatically derived from the resource's name."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource. The group's name is automatically derived from the resource's name."
   syntax: "public abstract T withNewResourceGroup()"
   returns:
     description: "the next stage of the definition"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.models.GroupableResource.DefinitionStages.WithNewResourceGroup<T>.withNewResourceGroup(String name)"
   name: "withNewResourceGroup(String name)"
   nameWithType: "GroupableResource.DefinitionStages.WithNewResourceGroup<T>.withNewResourceGroup(String name)"
-  summary: "Creates a new resource group to put the resource in.\n <p>\n The group will be created in the same location as the resource."
+  summary: "Creates a new resource group to put the resource in.\n\nThe group will be created in the same location as the resource."
   parameters:
   - description: "the name of the new group"
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateLinkResourcesInner.listByResourceNextSinglePageAsync(String nextPageLink)"
   name: "listByResourceNextSinglePageAsync(String nextPageLink)"
   nameWithType: "PrivateLinkResourcesInner.listByResourceNextSinglePageAsync(String nextPageLink)"
-  summary: "List private link resources under specific topic or domain.\n List all the private link resources under a topic or domain.\n\n    ServiceResponse<PageImpl<PrivateLinkResourceInner>> * @param nextPageLink The NextLink from the previous successful call to List operation."
+  summary: "List private link resources under specific topic or domain. List all the private link resources under a topic or domain. ServiceResponse> \\* @param nextPageLink The NextLink from the previous successful call to List operation."
   parameters:
   - name: "nextPageLink"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

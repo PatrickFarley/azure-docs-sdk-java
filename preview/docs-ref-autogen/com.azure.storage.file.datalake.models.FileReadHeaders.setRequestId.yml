@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileReadHeaders.setRequestId(String requestId)"
   name: "setRequestId(String requestId)"
   nameWithType: "FileReadHeaders.setRequestId(String requestId)"
-  summary: "Set the requestId property: This header uniquely identifies the request\n that was made and can be used for troubleshooting the request."
+  summary: "Set the requestId property: This header uniquely identifies the request that was made and can be used for troubleshooting the request."
   parameters:
   - description: "the requestId value to set."
     name: "requestId"

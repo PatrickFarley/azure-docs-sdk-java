@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithOS.withPopularWindowsImage(KnownWindowsVirtualMachineImage knownImage)"
   name: "withPopularWindowsImage(KnownWindowsVirtualMachineImage knownImage)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithOS.withPopularWindowsImage(KnownWindowsVirtualMachineImage knownImage)"
-  summary: "Specifies a known marketplace Windows image used as the operating system for the virtual machines in the\n scale set."
+  summary: "Specifies a known marketplace Windows image used as the operating system for the virtual machines in the scale set."
   parameters:
   - description: "a known market-place image"
     name: "knownImage"

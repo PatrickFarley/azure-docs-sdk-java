@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchServiceLimits.setMaxFieldsPerIndex(Integer maxFieldsPerIndex)"
   name: "setMaxFieldsPerIndex(Integer maxFieldsPerIndex)"
   nameWithType: "SearchServiceLimits.setMaxFieldsPerIndex(Integer maxFieldsPerIndex)"
-  summary: "Set the maxFieldsPerIndex property: The maximum allowed fields per\n index."
+  summary: "Set the maxFieldsPerIndex property: The maximum allowed fields per index."
   parameters:
   - description: "the maxFieldsPerIndex value to set."
     name: "maxFieldsPerIndex"

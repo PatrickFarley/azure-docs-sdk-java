@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table<R,C,V>.columnKeySet()"
   name: "columnKeySet()"
   nameWithType: "Table<R,C,V>.columnKeySet()"
-  summary: "Returns a set of column keys that have one or more values in the table. Changes to the set will\n update the underlying table, and vice versa."
+  summary: "Returns a set of column keys that have one or more values in the table. Changes to the set will update the underlying table, and vice versa."
   syntax: "public abstract Set<C> columnKeySet()"
   returns:
     description: "set of column keys"

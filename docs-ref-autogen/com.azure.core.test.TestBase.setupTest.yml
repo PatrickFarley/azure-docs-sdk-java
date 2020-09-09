@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.TestBase.setupTest(TestInfo testInfo)"
   name: "setupTest(TestInfo testInfo)"
   nameWithType: "TestBase.setupTest(TestInfo testInfo)"
-  summary: "Sets-up the <xref uid=\"TestBase#testResourceNamer\" data-throw-if-not-resolved=\"false\">TestBase#testResourceNamer</xref> and <xref uid=\"TestBase#interceptorManager\" data-throw-if-not-resolved=\"false\">TestBase#interceptorManager</xref> before each test case is\n run. Then calls its implementing class to perform any other set-up commands."
+  summary: "Sets-up the <xref uid=\"com.azure.core.test.TestBase.testResourceNamer\" data-throw-if-not-resolved=\"false\">TestBase#testResourceNamer</xref> and <xref uid=\"com.azure.core.test.TestBase.interceptorManager\" data-throw-if-not-resolved=\"false\">TestBase#interceptorManager</xref> before each test case is run. Then calls its implementing class to perform any other set-up commands."
   parameters:
   - description: "<xref uid=\"org.junit.jupiter.api.TestInfo\" data-throw-if-not-resolved=\"false\">TestInfo</xref> to retrieve test method name."
     name: "testInfo"

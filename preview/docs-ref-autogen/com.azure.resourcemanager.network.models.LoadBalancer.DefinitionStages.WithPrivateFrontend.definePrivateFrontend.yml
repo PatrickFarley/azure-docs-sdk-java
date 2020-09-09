@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.LoadBalancer.DefinitionStages.WithPrivateFrontend.definePrivateFrontend(String name)"
   name: "definePrivateFrontend(String name)"
   nameWithType: "LoadBalancer.DefinitionStages.WithPrivateFrontend.definePrivateFrontend(String name)"
-  summary: "Begins an explicit definition of a new private (internal) load balancer frontend.\n\n <p>(Note that private frontends can also be created implicitly as part of a load balancing rule, inbound\n NAT rule or inbound NAT pool definition, by referencing an existing subnet within those definitions.)"
+  summary: "Begins an explicit definition of a new private (internal) load balancer frontend.\n\n(Note that private frontends can also be created implicitly as part of a load balancing rule, inbound NAT rule or inbound NAT pool definition, by referencing an existing subnet within those definitions.)"
   parameters:
   - description: "the name for the frontend"
     name: "name"

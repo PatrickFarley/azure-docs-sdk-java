@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.AutoscaleProfileInner.withFixedDate(TimeWindow fixedDate)"
   name: "withFixedDate(TimeWindow fixedDate)"
   nameWithType: "AutoscaleProfileInner.withFixedDate(TimeWindow fixedDate)"
-  summary: "Set the fixedDate property: the specific date-time for the profile. This element is not used if the Recurrence\n element is used."
+  summary: "Set the fixedDate property: the specific date-time for the profile. This element is not used if the Recurrence element is used."
   parameters:
   - description: "the fixedDate value to set."
     name: "fixedDate"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ManagedClusterIdentity.principalId()"
   name: "principalId()"
   nameWithType: "ManagedClusterIdentity.principalId()"
-  summary: "Get the principalId property: The principal id of the system assigned identity which is used by master\n components."
+  summary: "Get the principalId property: The principal id of the system assigned identity which is used by master components."
   syntax: "public String principalId()"
   returns:
     description: "the principalId value."

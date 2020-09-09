@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.videosearch.BingVideos.BingVideosDetailsDefinitionStages.WithAllOptions.withTextDecorations(Boolean textDecorations)"
   name: "withTextDecorations(Boolean textDecorations)"
   nameWithType: "BingVideos.BingVideosDetailsDefinitionStages.WithAllOptions.withTextDecorations(Boolean textDecorations)"
-  summary: "A Boolean value that determines whether display strings contain decoration markers such as hit highlighting\n   characters. If true, the strings may include markers. The default is false. To specify whether to use\n   Unicode characters or HTML tags as the markers, see the\n             [tex*   tFormat](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/bing-video-api-v7-reference#textformat)\n   query parameter. For information about hit highlighting, see [Hit\n   Highlighting](https://docs.microsoft.com/azure/cognitive-services/bing-news-search/hit-highlighting)."
+  summary: "A Boolean value that determines whether display strings contain decoration markers such as hit highlighting characters. If true, the strings may include markers. The default is false. To specify whether to use Unicode characters or HTML tags as the markers, see the \\[tex\\* tFormat\\](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/bing-video-api-v7-reference\\#textformat) query parameter. For information about hit highlighting, see \\[Hit Highlighting\\](https://docs.microsoft.com/azure/cognitive-services/bing-news-search/hit-highlighting)."
   parameters:
   - name: "textDecorations"
     type: "<xref href=\"java.lang.Boolean?alt=java.lang.Boolean&text=Boolean\" data-throw-if-not-resolved=\"False\" />"

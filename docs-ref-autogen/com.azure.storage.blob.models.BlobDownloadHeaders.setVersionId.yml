@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.setVersionId(String versionId)"
   name: "setVersionId(String versionId)"
   nameWithType: "BlobDownloadHeaders.setVersionId(String versionId)"
-  summary: "Set the versionId property: A DateTime value returned by the service\n that uniquely identifies the blob. The value of this header indicates\n the blob version, and may be used in subsequent requests to access this\n version of the blob."
+  summary: "Set the versionId property: A DateTime value returned by the service that uniquely identifies the blob. The value of this header indicates the blob version, and may be used in subsequent requests to access this version of the blob."
   parameters:
   - description: "the versionId value to set."
     name: "versionId"

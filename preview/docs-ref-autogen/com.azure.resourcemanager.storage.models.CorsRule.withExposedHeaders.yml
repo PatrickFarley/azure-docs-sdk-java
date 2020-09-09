@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.CorsRule.withExposedHeaders(List<String> exposedHeaders)"
   name: "withExposedHeaders(List<String> exposedHeaders)"
   nameWithType: "CorsRule.withExposedHeaders(List<String> exposedHeaders)"
-  summary: "Set the exposedHeaders property: Required if CorsRule element is present. A list of response headers to expose to\n CORS clients."
+  summary: "Set the exposedHeaders property: Required if CorsRule element is present. A list of response headers to expose to CORS clients."
   parameters:
   - description: "the exposedHeaders value to set."
     name: "exposedHeaders"

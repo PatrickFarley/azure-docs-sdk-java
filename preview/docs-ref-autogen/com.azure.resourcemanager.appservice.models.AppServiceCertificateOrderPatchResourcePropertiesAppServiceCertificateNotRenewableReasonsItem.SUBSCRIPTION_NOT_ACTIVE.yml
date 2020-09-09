@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem.SUBSCRIPTION_NOT_ACTIVE"
   name: "SUBSCRIPTION_NOT_ACTIVE"
   nameWithType: "AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem.SUBSCRIPTION_NOT_ACTIVE"
-  summary: "Static value SubscriptionNotActive for\n AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem."
+  summary: "Static value SubscriptionNotActive for AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem."
   syntax: "public static final AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem SUBSCRIPTION_NOT_ACTIVE"
 type: "field"
 metadata: {}

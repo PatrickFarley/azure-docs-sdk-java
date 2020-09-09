@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.cdn.CdnProfile.loadEndpointContentAsync(String endpointName, Set<String> contentPaths)"
   name: "loadEndpointContentAsync(String endpointName, Set<String> contentPaths)"
   nameWithType: "CdnProfile.loadEndpointContentAsync(String endpointName, Set<String> contentPaths)"
-  summary: "Forcibly pre-loads CDN endpoint content in the CDN profile asynchronously.\n <p>\n Note, this is Available for Verizon Profiles only."
+  summary: "Forcibly pre-loads CDN endpoint content in the CDN profile asynchronously.\n\nNote, this is Available for Verizon Profiles only."
   parameters:
   - description: "a name of the endpoint under the profile"
     name: "endpointName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.cdn.CdnProfile.loadEndpointContentAsync(String endpointName, Set<String> contentPaths, ServiceCallback<Void> callback)"
   name: "loadEndpointContentAsync(String endpointName, Set<String> contentPaths, ServiceCallback<Void> callback)"
   nameWithType: "CdnProfile.loadEndpointContentAsync(String endpointName, Set<String> contentPaths, ServiceCallback<Void> callback)"
-  summary: "Forcibly pre-loads CDN endpoint content in the CDN profile asynchronously.\n <p>\n Note, this is Available for Verizon Profiles only."
+  summary: "Forcibly pre-loads CDN endpoint content in the CDN profile asynchronously.\n\nNote, this is Available for Verizon Profiles only."
   parameters:
   - description: "a name of the endpoint under the profile"
     name: "endpointName"

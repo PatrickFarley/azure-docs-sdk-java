@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.caller()"
   name: "caller()"
   nameWithType: "EventDataInner.caller()"
-  summary: "Get the caller property: the email address of the user who has performed the operation, the UPN claim or SPN\n claim based on availability."
+  summary: "Get the caller property: the email address of the user who has performed the operation, the UPN claim or SPN claim based on availability."
   syntax: "public String caller()"
   returns:
     description: "the caller value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.OutboundEnvironmentEndpointInner.category()"
   name: "category()"
   nameWithType: "OutboundEnvironmentEndpointInner.category()"
-  summary: "Get the category property: The type of service accessed by the App Service Environment, e.g., Azure Storage,\n Azure SQL Database, and Azure Active Directory."
+  summary: "Get the category property: The type of service accessed by the App Service Environment, e.g., Azure Storage, Azure SQL Database, and Azure Active Directory."
   syntax: "public String category()"
   returns:
     description: "the category value."

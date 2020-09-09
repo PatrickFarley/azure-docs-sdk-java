@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRouteCircuitConnectionInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ExpressRouteCircuitConnectionInner.provisioningState()"
-  summary: "Get the provisioningState property: Provisioning state of the circuit connection resource. Possible values are:\n 'Succeeded', 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: Provisioning state of the circuit connection resource. Possible values are: 'Succeeded', 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

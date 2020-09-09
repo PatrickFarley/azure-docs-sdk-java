@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteInner.outboundIpAddresses()"
   name: "outboundIpAddresses()"
   nameWithType: "SiteInner.outboundIpAddresses()"
-  summary: "Get the outboundIpAddresses property: List of IP addresses that the app uses for outbound connections (e.g.\n database access). Includes VIPs from tenants that site can be hosted with current settings. Read-only."
+  summary: "Get the outboundIpAddresses property: List of IP addresses that the app uses for outbound connections (e.g. database access). Includes VIPs from tenants that site can be hosted with current settings. Read-only."
   syntax: "public String outboundIpAddresses()"
   returns:
     description: "the outboundIpAddresses value."

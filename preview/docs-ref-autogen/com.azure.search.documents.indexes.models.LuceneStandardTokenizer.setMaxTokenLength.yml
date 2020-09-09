@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LuceneStandardTokenizer.setMaxTokenLength(Integer maxTokenLength)"
   name: "setMaxTokenLength(Integer maxTokenLength)"
   nameWithType: "LuceneStandardTokenizer.setMaxTokenLength(Integer maxTokenLength)"
-  summary: "Set the maxTokenLength property: The maximum token length. Default is\n 255. Tokens longer than the maximum length are split."
+  summary: "Set the maxTokenLength property: The maximum token length. Default is 255. Tokens longer than the maximum length are split."
   parameters:
   - description: "the maxTokenLength value to set."
     name: "maxTokenLength"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleRule.frequencyStatistic()"
   name: "frequencyStatistic()"
   nameWithType: "ScaleRule.frequencyStatistic()"
-  summary: "Get the metric statistic type. How the metrics from multiple instances are combined. Possible values include:\n 'Average', 'Min', 'Max', 'Sum'."
+  summary: "Get the metric statistic type. How the metrics from multiple instances are combined. Possible values include: 'Average', 'Min', 'Max', 'Sum'."
   syntax: "public abstract MetricStatisticType frequencyStatistic()"
   returns:
     description: "the statistic value"

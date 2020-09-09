@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.listIndexNames()"
   name: "listIndexNames()"
   nameWithType: "SearchIndexAsyncClient.listIndexNames()"
-  summary: "Lists all indexes names for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexes names. </p>\n\n <pre>\n searchIndexAsyncClient.listIndexNames&#40;&#41;\n     .subscribe&#40;indexName -&gt; System.out.printf&#40;&quot;The index name is %s.%n&quot;, indexName&#41;&#41;;\n </pre>"
+  summary: "Lists all indexes names for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexes names.\n\n```java\nsearchIndexAsyncClient.listIndexNames()\n     .subscribe(indexName -> System.out.printf(\"The index name is %s.%n\", indexName));\n```"
   syntax: "public PagedFlux<String> listIndexNames()"
   returns:
     description: "a reactive response emitting the list of index names."

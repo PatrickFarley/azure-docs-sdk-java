@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEventPreview.withStreamingPolicyName(String streamingPolicyName)"
   name: "withStreamingPolicyName(String streamingPolicyName)"
   nameWithType: "LiveEventPreview.withStreamingPolicyName(String streamingPolicyName)"
-  summary: "Set the name of streaming policy used for the LiveEvent preview.  This value is specified at creation time and cannot be updated."
+  summary: "Set the name of streaming policy used for the LiveEvent preview. This value is specified at creation time and cannot be updated."
   parameters:
   - description: "the streamingPolicyName value to set"
     name: "streamingPolicyName"

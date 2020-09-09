@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.contains(C value)"
   name: "contains(C value)"
   nameWithType: "Range<C>.contains(C value)"
-  summary: "Returns <code>true</code> if <code>value</code> is within the bounds of this range. For example, on the\n range <code>[0..2)</code>, <code>contains(1)</code> returns <code>true</code>, while <code>contains(2)</code>\n returns <code>false</code>."
+  summary: "Returns `true` if `value` is within the bounds of this range. For example, on the range `[0..2)`, `contains(1)` returns `true`, while `contains(2)` returns `false`."
   parameters:
   - name: "value"
     type: "<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />"

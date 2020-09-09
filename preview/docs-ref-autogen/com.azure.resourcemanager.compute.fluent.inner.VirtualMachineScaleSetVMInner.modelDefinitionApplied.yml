@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetVMInner.modelDefinitionApplied()"
   name: "modelDefinitionApplied()"
   nameWithType: "VirtualMachineScaleSetVMInner.modelDefinitionApplied()"
-  summary: "Get the modelDefinitionApplied property: Specifies whether the model applied to the virtual machine is the model\n of the virtual machine scale set or the customized model for the virtual machine."
+  summary: "Get the modelDefinitionApplied property: Specifies whether the model applied to the virtual machine is the model of the virtual machine scale set or the customized model for the virtual machine."
   syntax: "public String modelDefinitionApplied()"
   returns:
     description: "the modelDefinitionApplied value."

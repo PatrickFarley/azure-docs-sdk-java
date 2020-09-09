@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Doubles.lastIndexOf(double[] array, double target)"
   name: "lastIndexOf(double[] array, double target)"
   nameWithType: "Doubles.lastIndexOf(double[] array, double target)"
-  summary: "Returns the index of the last appearance of the value <code>target</code> in <code>array</code>. Note\n that this always returns <code>-1</code> when <code>target</code> is <code>NaN</code>."
+  summary: "Returns the index of the last appearance of the value `target` in `array`. Note that this always returns `-1` when `target` is `NaN`."
   parameters:
   - description: "an array of <code>double</code> values, possibly empty"
     name: "array"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>removeIf(Iterator<T> removeFrom, Predicate<? super T> predicate)"
   name: "<T>removeIf(Iterator<T> removeFrom, Predicate<? super T> predicate)"
   nameWithType: "Iterators.<T>removeIf(Iterator<T> removeFrom, Predicate<? super T> predicate)"
-  summary: "Removes every element that satisfies the provided predicate from the iterator. The iterator\n will be left exhausted: its <code>hasNext()</code> method will return <code>false</code>."
+  summary: "Removes every element that satisfies the provided predicate from the iterator. The iterator will be left exhausted: its `hasNext()` method will return `false`."
   parameters:
   - description: "the iterator to (potentially) remove elements from"
     name: "removeFrom"

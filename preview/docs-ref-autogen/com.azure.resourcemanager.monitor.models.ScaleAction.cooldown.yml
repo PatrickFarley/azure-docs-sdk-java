@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleAction.cooldown()"
   name: "cooldown()"
   nameWithType: "ScaleAction.cooldown()"
-  summary: "Get the cooldown property: the amount of time to wait since the last scaling action before this action occurs. It\n must be between 1 week and 1 minute in ISO 8601 format."
+  summary: "Get the cooldown property: the amount of time to wait since the last scaling action before this action occurs. It must be between 1 week and 1 minute in ISO 8601 format."
   syntax: "public Duration cooldown()"
   returns:
     description: "the cooldown value."

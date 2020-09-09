@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.SetMultimap<K,V>.equals(Object obj)"
   name: "equals(Object obj)"
   nameWithType: "SetMultimap<K,V>.equals(Object obj)"
-  summary: "Compares the specified object to this multimap for equality.\n\n <p>Two <code>SetMultimap</code> instances are equal if, for each key, they contain the same values.\n Equality does not depend on the ordering of keys or values.\n\n <p>An empty <code>SetMultimap</code> is equal to any other empty <code>Multimap</code>, including an\n empty <code>ListMultimap</code>."
+  summary: "Compares the specified object to this multimap for equality.\n\nTwo `SetMultimap` instances are equal if, for each key, they contain the same values. Equality does not depend on the ordering of keys or values.\n\nAn empty `SetMultimap` is equal to any other empty `Multimap`, including an empty `ListMultimap`."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - name: "obj"

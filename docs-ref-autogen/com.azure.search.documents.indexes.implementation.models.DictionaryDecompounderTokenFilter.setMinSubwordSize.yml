@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.DictionaryDecompounderTokenFilter.setMinSubwordSize(Integer minSubwordSize)"
   name: "setMinSubwordSize(Integer minSubwordSize)"
   nameWithType: "DictionaryDecompounderTokenFilter.setMinSubwordSize(Integer minSubwordSize)"
-  summary: "Set the minSubwordSize property: The minimum subword size. Only subwords longer than this are outputted. Default\n is 2. Maximum is 300."
+  summary: "Set the minSubwordSize property: The minimum subword size. Only subwords longer than this are outputted. Default is 2. Maximum is 300."
   parameters:
   - description: "the minSubwordSize value to set."
     name: "minSubwordSize"

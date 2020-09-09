@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.UserDelegationKey.setSignedVersion(String signedVersion)"
   name: "setSignedVersion(String signedVersion)"
   nameWithType: "UserDelegationKey.setSignedVersion(String signedVersion)"
-  summary: "Set the signedVersion property: The service version that created the\n key."
+  summary: "Set the signedVersion property: The service version that created the key."
   parameters:
   - description: "the signedVersion value to set."
     name: "signedVersion"

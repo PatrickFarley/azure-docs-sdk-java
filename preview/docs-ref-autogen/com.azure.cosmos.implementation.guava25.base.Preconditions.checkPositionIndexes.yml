@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkPositionIndexes(int start, int end, int size)"
   name: "checkPositionIndexes(int start, int end, int size)"
   nameWithType: "Preconditions.checkPositionIndexes(int start, int end, int size)"
-  summary: "Ensures that <code>start</code> and <code>end</code> specify a valid <i>positions</i> in an array, list\n or string of size <code>size</code>, and are in order. A position index may range from zero to\n <code>size</code>, inclusive."
+  summary: "Ensures that `start` and `end` specify a valid *positions* in an array, list or string of size `size`, and are in order. A position index may range from zero to `size`, inclusive."
   parameters:
   - description: "a user-supplied index identifying a starting position in an array, list or string"
     name: "start"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PatternAnalyzer.getPattern()"
   name: "getPattern()"
   nameWithType: "PatternAnalyzer.getPattern()"
-  summary: "Get the pattern property: A regular expression pattern to match token\n separators. Default is an expression that matches one or more non-word\n characters."
+  summary: "Get the pattern property: A regular expression pattern to match token separators. Default is an expression that matches one or more non-word characters."
   syntax: "public String getPattern()"
   returns:
     description: "the pattern value."

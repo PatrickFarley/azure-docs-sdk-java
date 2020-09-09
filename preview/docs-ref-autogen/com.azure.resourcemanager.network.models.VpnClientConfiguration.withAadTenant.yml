@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VpnClientConfiguration.withAadTenant(String aadTenant)"
   name: "withAadTenant(String aadTenant)"
   nameWithType: "VpnClientConfiguration.withAadTenant(String aadTenant)"
-  summary: "Set the aadTenant property: The AADTenant property of the VirtualNetworkGateway resource for vpn client\n connection used for AAD authentication."
+  summary: "Set the aadTenant property: The AADTenant property of the VirtualNetworkGateway resource for vpn client connection used for AAD authentication."
   parameters:
   - description: "the aadTenant value to set."
     name: "aadTenant"

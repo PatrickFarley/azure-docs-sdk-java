@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobLeaseClient.changeLease(String proposedId)"
   name: "changeLease(String proposedId)"
   nameWithType: "BlobLeaseClient.changeLease(String proposedId)"
-  summary: "Changes the lease ID.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n System.out.printf&#40;&quot;Changed lease ID is %s%n&quot;, client.changeLease&#40;&quot;proposedId&quot;&#41;&#41;;\n </pre>"
+  summary: "Changes the lease ID.\n\n**Code Samples**\n\n```java\nSystem.out.printf(\"Changed lease ID is %s%n\", client.changeLease(\"proposedId\"));\n```"
   parameters:
   - description: "A new lease ID in a valid GUID format."
     name: "proposedId"

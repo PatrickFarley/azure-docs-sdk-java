@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileAsyncClient.forceCloseAllHandles()"
   name: "forceCloseAllHandles()"
   nameWithType: "ShareFileAsyncClient.forceCloseAllHandles()"
-  summary: "Closes all handles opened on the file at the service.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Force close all handles.</p>\n\n <pre>\n shareFileAsyncClient.forceCloseAllHandles&#40;&#41;.subscribe&#40;handlesClosedInfo -&gt;\n     System.out.printf&#40;&quot;Closed %d open handles on the file.%nFailed to close %d open handles on the file%n&quot;,\n         handlesClosedInfo.getClosedHandles&#40;&#41;, handlesClosedInfo.getFailedHandles&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/force-close-handles\">Azure Docs</a>.</p>"
+  summary: "Closes all handles opened on the file at the service.\n\n**Code Samples**\n\nForce close all handles.\n\n```java\nshareFileAsyncClient.forceCloseAllHandles().subscribe(handlesClosedInfo ->\n     System.out.printf(\"Closed %d open handles on the file.%nFailed to close %d open handles on the file%n\",\n         handlesClosedInfo.getClosedHandles(), handlesClosedInfo.getFailedHandles()));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/force-close-handles"
   syntax: "public Mono<CloseHandlesInfo> forceCloseAllHandles()"
   returns:
     description: "A response that contains information about the closed handles."

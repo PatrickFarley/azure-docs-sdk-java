@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueServiceProperties.setMinuteMetrics(QueueMetrics minuteMetrics)"
   name: "setMinuteMetrics(QueueMetrics minuteMetrics)"
   nameWithType: "QueueServiceProperties.setMinuteMetrics(QueueMetrics minuteMetrics)"
-  summary: "Set the minuteMetrics property: a summary of request statistics grouped\n by API in minute aggregates for queues."
+  summary: "Set the minuteMetrics property: a summary of request statistics grouped by API in minute aggregates for queues."
   parameters:
   - description: "the minuteMetrics value to set."
     name: "minuteMetrics"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.SubscriptionInner.id()"
   name: "id()"
   nameWithType: "SubscriptionInner.id()"
-  summary: "Get the id property: The fully qualified ID for the subscription. For example,\n /subscriptions/00000000-0000-0000-0000-000000000000."
+  summary: "Get the id property: The fully qualified ID for the subscription. For example, /subscriptions/00000000-0000-0000-0000-000000000000."
   syntax: "public String id()"
   returns:
     description: "the id value."

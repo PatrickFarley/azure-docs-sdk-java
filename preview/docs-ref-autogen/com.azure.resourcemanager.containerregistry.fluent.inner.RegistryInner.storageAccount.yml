@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RegistryInner.storageAccount()"
   name: "storageAccount()"
   nameWithType: "RegistryInner.storageAccount()"
-  summary: "Get the storageAccount property: The properties of the storage account for the container registry. Only\n applicable to Classic SKU."
+  summary: "Get the storageAccount property: The properties of the storage account for the container registry. Only applicable to Classic SKU."
   syntax: "public StorageAccountProperties storageAccount()"
   returns:
     description: "the storageAccount value."

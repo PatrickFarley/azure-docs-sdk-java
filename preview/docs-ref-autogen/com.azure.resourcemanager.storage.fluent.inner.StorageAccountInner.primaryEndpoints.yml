@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.primaryEndpoints()"
   name: "primaryEndpoints()"
   nameWithType: "StorageAccountInner.primaryEndpoints()"
-  summary: "Get the primaryEndpoints property: Gets the URLs that are used to perform a retrieval of a public blob, queue, or\n table object. Note that Standard_ZRS and Premium_LRS accounts only return the blob endpoint."
+  summary: "Get the primaryEndpoints property: Gets the URLs that are used to perform a retrieval of a public blob, queue, or table object. Note that Standard\\_ZRS and Premium\\_LRS accounts only return the blob endpoint."
   syntax: "public Endpoints primaryEndpoints()"
   returns:
     description: "the primaryEndpoints value."

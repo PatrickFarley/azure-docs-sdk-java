@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusClientBuilder.ServiceBusSenderClientBuilder.buildAsyncClient()"
   name: "buildAsyncClient()"
   nameWithType: "ServiceBusClientBuilder.ServiceBusSenderClientBuilder.buildAsyncClient()"
-  summary: "Creates an <b>asynchronous</b> <xref uid=\"ServiceBusSenderAsyncClient\" data-throw-if-not-resolved=\"false\">client</xref> for transmitting <xref uid=\"ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref> to a Service Bus queue or topic."
+  summary: "Creates an **asynchronous** <xref uid=\"com.azure.messaging.servicebus.ServiceBusSenderAsyncClient\" data-throw-if-not-resolved=\"false\">client</xref> for transmitting <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessage\" data-throw-if-not-resolved=\"false\">ServiceBusMessage</xref> to a Service Bus queue or topic."
   syntax: "public ServiceBusSenderAsyncClient buildAsyncClient()"
   returns:
     description: "A new <xref uid=\"com.azure.messaging.servicebus.ServiceBusSenderAsyncClient\" data-throw-if-not-resolved=\"false\">ServiceBusSenderAsyncClient</xref> for transmitting to a Service queue or topic."

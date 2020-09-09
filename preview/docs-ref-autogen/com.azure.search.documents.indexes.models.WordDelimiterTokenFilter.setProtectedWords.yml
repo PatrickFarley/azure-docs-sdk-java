@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WordDelimiterTokenFilter.setProtectedWords(String[] protectedWords)"
   name: "setProtectedWords(String[] protectedWords)"
   nameWithType: "WordDelimiterTokenFilter.setProtectedWords(String[] protectedWords)"
-  summary: "Set the protectedWords property: A list of tokens to protect from being\n delimited."
+  summary: "Set the protectedWords property: A list of tokens to protect from being delimited."
   parameters:
   - description: "the protectedWords value to set."
     name: "protectedWords"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WordDelimiterTokenFilter.setProtectedWords(List<String> protectedWords)"
   name: "setProtectedWords(List<String> protectedWords)"
   nameWithType: "WordDelimiterTokenFilter.setProtectedWords(List<String> protectedWords)"
-  summary: "Set the protectedWords property: A list of tokens to protect from being\n delimited."
+  summary: "Set the protectedWords property: A list of tokens to protect from being delimited."
   parameters:
   - description: "the protectedWords value to set."
     name: "protectedWords"

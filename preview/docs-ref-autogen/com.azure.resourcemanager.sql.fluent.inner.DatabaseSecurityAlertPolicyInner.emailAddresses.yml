@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseSecurityAlertPolicyInner.emailAddresses()"
   name: "emailAddresses()"
   nameWithType: "DatabaseSecurityAlertPolicyInner.emailAddresses()"
-  summary: "Get the emailAddresses property: Specifies the semicolon-separated list of e-mail addresses to which the alert is\n sent."
+  summary: "Get the emailAddresses property: Specifies the semicolon-separated list of e-mail addresses to which the alert is sent."
   syntax: "public String emailAddresses()"
   returns:
     description: "the emailAddresses value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.MapIterator<K,V>.getKey()"
   name: "getKey()"
   nameWithType: "MapIterator<K,V>.getKey()"
-  summary: "Gets the current key, which is the key returned by the last call\n to <code>next()</code>."
+  summary: "Gets the current key, which is the key returned by the last call to `next()`."
   syntax: "public abstract K getKey()"
   returns:
     description: "the current key"

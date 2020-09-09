@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchOptions.getSelect()"
   name: "getSelect()"
   nameWithType: "SearchOptions.getSelect()"
-  summary: "Get the select property: The list of fields to retrieve. If unspecified,\n all fields marked as retrievable in the schema are included."
+  summary: "Get the select property: The list of fields to retrieve. If unspecified, all fields marked as retrievable in the schema are included."
   syntax: "public List<String> getSelect()"
   returns:
     description: "the select value."

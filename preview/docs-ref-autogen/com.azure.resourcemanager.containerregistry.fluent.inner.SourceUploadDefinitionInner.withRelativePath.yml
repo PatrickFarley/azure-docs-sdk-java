@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.SourceUploadDefinitionInner.withRelativePath(String relativePath)"
   name: "withRelativePath(String relativePath)"
   nameWithType: "SourceUploadDefinitionInner.withRelativePath(String relativePath)"
-  summary: "Set the relativePath property: The relative path to the source. This is used to submit the subsequent queue build\n request."
+  summary: "Set the relativePath property: The relative path to the source. This is used to submit the subsequent queue build request."
   parameters:
   - description: "the relativePath value to set."
     name: "relativePath"

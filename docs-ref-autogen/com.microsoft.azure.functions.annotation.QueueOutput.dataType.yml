@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.functions.annotation.QueueOutput.dataType()"
   name: "dataType()"
   nameWithType: "QueueOutput.dataType()"
-  summary: "<p>Defines how Functions runtime should treat the parameter value. Possible values are:</p>\n <ul>\n     <li>\"\" or string: treat it as a string whose value is serialized from the parameter</li>\n     <li>binary: treat it as a binary data whose value comes from for example OutputBinding&lt;byte[]&gt;</li>\n </ul>"
+  summary: "Defines how Functions runtime should treat the parameter value. Possible values are:\n\n *  \"\" or string: treat it as a string whose value is serialized from the parameter\n *  binary: treat it as a binary data whose value comes from for example OutputBinding<byte\\[\\]>"
   syntax: "public abstract String dataType()"
   returns:
     description: "The dataType which will be used by the Functions runtime."

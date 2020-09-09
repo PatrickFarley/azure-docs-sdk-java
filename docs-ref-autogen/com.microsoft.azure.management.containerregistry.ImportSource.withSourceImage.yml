@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.ImportSource.withSourceImage(String sourceImage)"
   name: "withSourceImage(String sourceImage)"
   nameWithType: "ImportSource.withSourceImage(String sourceImage)"
-  summary: "Set repository name of the source image.\n     Specify an image by repository ('hello-world'). This will use the 'latest' tag.\n     Specify an image by tag ('hello-world:latest').\n     Specify an image by sha256-based manifest digest ('hello-world@sha256:abc123')."
+  summary: "Set repository name of the source image. Specify an image by repository ('hello-world'). This will use the 'latest' tag. Specify an image by tag ('hello-world:latest'). Specify an image by sha256-based manifest digest ('hello-world@sha256:abc123')."
   parameters:
   - description: "the sourceImage value to set"
     name: "sourceImage"

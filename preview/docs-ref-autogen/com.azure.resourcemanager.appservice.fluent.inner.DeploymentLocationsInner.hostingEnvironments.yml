@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DeploymentLocationsInner.hostingEnvironments()"
   name: "hostingEnvironments()"
   nameWithType: "DeploymentLocationsInner.hostingEnvironments()"
-  summary: "Get the hostingEnvironments property: Available App Service Environments with full descriptions of the\n environments."
+  summary: "Get the hostingEnvironments property: Available App Service Environments with full descriptions of the environments."
   syntax: "public List<AppServiceEnvironment> hostingEnvironments()"
   returns:
     description: "the hostingEnvironments value."

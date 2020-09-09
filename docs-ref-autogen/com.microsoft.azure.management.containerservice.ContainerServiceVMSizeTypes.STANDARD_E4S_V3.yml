@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_E4S_V3"
   name: "STANDARD_E4S_V3"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_E4S_V3"
-  summary: "Static value Standard_E4s_v3 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_E4s\\_v3 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_E4S_V3"
 type: "field"
 metadata: {}

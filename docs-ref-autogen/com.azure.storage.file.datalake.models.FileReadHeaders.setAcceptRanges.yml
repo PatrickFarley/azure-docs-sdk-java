@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileReadHeaders.setAcceptRanges(String acceptRanges)"
   name: "setAcceptRanges(String acceptRanges)"
   nameWithType: "FileReadHeaders.setAcceptRanges(String acceptRanges)"
-  summary: "Set the acceptRanges property: Indicates that the service supports\n requests for partial file content."
+  summary: "Set the acceptRanges property: Indicates that the service supports requests for partial file content."
   parameters:
   - description: "the acceptRanges value to set."
     name: "acceptRanges"

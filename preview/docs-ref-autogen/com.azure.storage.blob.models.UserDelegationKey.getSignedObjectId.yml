@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.UserDelegationKey.getSignedObjectId()"
   name: "getSignedObjectId()"
   nameWithType: "UserDelegationKey.getSignedObjectId()"
-  summary: "Get the signedObjectId property: The Azure Active Directory object ID in\n GUID format."
+  summary: "Get the signedObjectId property: The Azure Active Directory object ID in GUID format."
   syntax: "public String getSignedObjectId()"
   returns:
     description: "the signedObjectId value."

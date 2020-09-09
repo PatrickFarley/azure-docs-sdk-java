@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.RuleDataSource.resourceUri()"
   name: "resourceUri()"
   nameWithType: "RuleDataSource.resourceUri()"
-  summary: "Get the resource identifier of the resource the rule monitors. **NOTE**: this property cannot be updated for an existing rule."
+  summary: "Get the resource identifier of the resource the rule monitors. \\*\\*NOTE\\*\\*: this property cannot be updated for an existing rule."
   syntax: "public String resourceUri()"
   returns:
     description: "the resourceUri value"

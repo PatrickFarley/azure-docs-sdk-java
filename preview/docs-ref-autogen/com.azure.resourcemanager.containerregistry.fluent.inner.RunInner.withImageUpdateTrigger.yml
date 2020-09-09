@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RunInner.withImageUpdateTrigger(ImageUpdateTrigger imageUpdateTrigger)"
   name: "withImageUpdateTrigger(ImageUpdateTrigger imageUpdateTrigger)"
   nameWithType: "RunInner.withImageUpdateTrigger(ImageUpdateTrigger imageUpdateTrigger)"
-  summary: "Set the imageUpdateTrigger property: The image update trigger that caused the run. This is applicable if the task\n has base image trigger configured."
+  summary: "Set the imageUpdateTrigger property: The image update trigger that caused the run. This is applicable if the task has base image trigger configured."
   parameters:
   - description: "the imageUpdateTrigger value to set."
     name: "imageUpdateTrigger"

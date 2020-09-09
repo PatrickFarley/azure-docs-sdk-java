@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.serializer.JsonSerializerProviders.createInstance()"
   name: "createInstance()"
   nameWithType: "JsonSerializerProviders.createInstance()"
-  summary: "Creates an instance of <xref uid=\"JsonSerializer\" data-throw-if-not-resolved=\"false\">JsonSerializer</xref> using the first <xref uid=\"JsonSerializerProvider\" data-throw-if-not-resolved=\"false\">JsonSerializerProvider</xref> found in the\n classpath."
+  summary: "Creates an instance of <xref uid=\"com.azure.core.util.serializer.JsonSerializer\" data-throw-if-not-resolved=\"false\">JsonSerializer</xref> using the first <xref uid=\"com.azure.core.util.serializer.JsonSerializerProvider\" data-throw-if-not-resolved=\"false\">JsonSerializerProvider</xref> found in the classpath."
   syntax: "public static JsonSerializer createInstance()"
   returns:
     description: "A new instance of <xref uid=\"com.azure.core.util.serializer.JsonSerializer\" data-throw-if-not-resolved=\"false\">JsonSerializer</xref>."

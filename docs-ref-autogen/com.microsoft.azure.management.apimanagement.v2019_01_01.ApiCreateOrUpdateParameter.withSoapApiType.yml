@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiCreateOrUpdateParameter.withSoapApiType(SoapApiType soapApiType)"
   name: "withSoapApiType(SoapApiType soapApiType)"
   nameWithType: "ApiCreateOrUpdateParameter.withSoapApiType(SoapApiType soapApiType)"
-  summary: "Set type of Api to create.\n `http` creates a SOAP to REST API\n `soap` creates a SOAP pass-through API. Possible values include: 'SoapToRest', 'SoapPassThrough'."
+  summary: "Set type of Api to create. \\`http\\` creates a SOAP to REST API \\`soap\\` creates a SOAP pass-through API. Possible values include: 'SoapToRest', 'SoapPassThrough'."
   parameters:
   - description: "the soapApiType value to set"
     name: "soapApiType"

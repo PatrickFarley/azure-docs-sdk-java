@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.util.TextAnalyticsPagedIterable<T>.streamByPage()"
   name: "streamByPage()"
   nameWithType: "TextAnalyticsPagedIterable<T>.streamByPage()"
-  summary: "Retrieve the <xref uid=\"Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, starting from the next page associated with the given\n continuation token. To start from first page, use <xref uid=\"#streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead."
+  summary: "Retrieve the <xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref>, one page at a time, starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.ai.textanalytics.util.TextAnalyticsPagedIterable.streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead."
   syntax: "public Stream<TextAnalyticsPagedResponse<T>> streamByPage()"
   returns:
     description: "<xref uid=\"java.util.stream.Stream\" data-throw-if-not-resolved=\"false\">Stream</xref> of a <xref uid=\"com.azure.ai.textanalytics.util.TextAnalyticsPagedResponse\" data-throw-if-not-resolved=\"false\">TextAnalyticsPagedResponse</xref> of <code>T</code>."

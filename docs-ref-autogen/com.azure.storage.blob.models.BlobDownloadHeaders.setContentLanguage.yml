@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.setContentLanguage(String contentLanguage)"
   name: "setContentLanguage(String contentLanguage)"
   nameWithType: "BlobDownloadHeaders.setContentLanguage(String contentLanguage)"
-  summary: "Set the contentLanguage property: This header returns the value that was\n specified for the Content-Language request header."
+  summary: "Set the contentLanguage property: This header returns the value that was specified for the Content-Language request header."
   parameters:
   - description: "the contentLanguage value to set."
     name: "contentLanguage"

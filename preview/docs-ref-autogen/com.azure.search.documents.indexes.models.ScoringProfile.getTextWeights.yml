@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ScoringProfile.getTextWeights()"
   name: "getTextWeights()"
   nameWithType: "ScoringProfile.getTextWeights()"
-  summary: "Get the textWeights property: Parameters that boost scoring based on\n text matches in certain index fields."
+  summary: "Get the textWeights property: Parameters that boost scoring based on text matches in certain index fields."
   syntax: "public TextWeights getTextWeights()"
   returns:
     description: "the textWeights value."

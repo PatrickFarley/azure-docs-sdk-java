@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.PublicIpPrefixInner.loadBalancerFrontendIpConfiguration()"
   name: "loadBalancerFrontendIpConfiguration()"
   nameWithType: "PublicIpPrefixInner.loadBalancerFrontendIpConfiguration()"
-  summary: "Get the loadBalancerFrontendIpConfiguration property: The reference to load balancer frontend IP configuration\n associated with the public IP prefix."
+  summary: "Get the loadBalancerFrontendIpConfiguration property: The reference to load balancer frontend IP configuration associated with the public IP prefix."
   syntax: "public SubResource loadBalancerFrontendIpConfiguration()"
   returns:
     description: "the loadBalancerFrontendIpConfiguration value."

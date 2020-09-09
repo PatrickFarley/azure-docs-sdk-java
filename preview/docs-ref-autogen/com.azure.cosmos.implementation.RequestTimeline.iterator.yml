@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.iterator()"
   name: "iterator()"
   nameWithType: "RequestTimeline.iterator()"
-  summary: "Returns an iterator for enumerating the <xref uid=\"Event\" data-throw-if-not-resolved=\"false\">Event</xref> instances in this <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref>."
+  summary: "Returns an iterator for enumerating the <xref uid=\"com.azure.cosmos.implementation.RequestTimeline.Event\" data-throw-if-not-resolved=\"false\">Event</xref> instances in this <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref>."
   syntax: "public Iterator<RequestTimeline.Event> iterator()"
   returns:
     description: "an iterator for enumerating the <xref uid=\"com.azure.cosmos.implementation.RequestTimeline.Event\" data-throw-if-not-resolved=\"false\">Event</xref> instances in this <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref>."

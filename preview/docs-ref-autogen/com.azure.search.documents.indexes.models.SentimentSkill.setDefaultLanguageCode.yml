@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SentimentSkill.setDefaultLanguageCode(SentimentSkillLanguage defaultLanguageCode)"
   name: "setDefaultLanguageCode(SentimentSkillLanguage defaultLanguageCode)"
   nameWithType: "SentimentSkill.setDefaultLanguageCode(SentimentSkillLanguage defaultLanguageCode)"
-  summary: "Set the defaultLanguageCode property: A value indicating which language\n code to use. Default is en. Possible values include: 'da', 'nl', 'en',\n 'fi', 'fr', 'de', 'el', 'it', 'no', 'pl', 'pt-PT', 'ru', 'es', 'sv',\n 'tr'."
+  summary: "Set the defaultLanguageCode property: A value indicating which language code to use. Default is en. Possible values include: 'da', 'nl', 'en', 'fi', 'fr', 'de', 'el', 'it', 'no', 'pl', 'pt-PT', 'ru', 'es', 'sv', 'tr'."
   parameters:
   - description: "the defaultLanguageCode value to set."
     name: "defaultLanguageCode"

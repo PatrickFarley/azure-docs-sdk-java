@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SynonymTokenFilter.getSynonyms()"
   name: "getSynonyms()"
   nameWithType: "SynonymTokenFilter.getSynonyms()"
-  summary: "Get the synonyms property: A list of synonyms in following one of two\n formats: 1. incredible, unbelievable, fabulous =&gt; amazing - all terms\n on the left side of =&gt; symbol will be replaced with all terms on its\n right side; 2. incredible, unbelievable, fabulous, amazing - comma\n separated list of equivalent words. Set the expand option to change how\n this list is interpreted."
+  summary: "Get the synonyms property: A list of synonyms in following one of two formats: 1. incredible, unbelievable, fabulous => amazing - all terms on the left side of => symbol will be replaced with all terms on its right side; 2. incredible, unbelievable, fabulous, amazing - comma separated list of equivalent words. Set the expand option to change how this list is interpreted."
   syntax: "public List<String> getSynonyms()"
   returns:
     description: "the synonyms value."

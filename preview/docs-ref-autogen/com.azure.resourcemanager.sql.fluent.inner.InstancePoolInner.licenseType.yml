@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.InstancePoolInner.licenseType()"
   name: "licenseType()"
   nameWithType: "InstancePoolInner.licenseType()"
-  summary: "Get the licenseType property: The license type. Possible values are 'LicenseIncluded' (price for SQL license is\n included) and 'BasePrice' (without SQL license price)."
+  summary: "Get the licenseType property: The license type. Possible values are 'LicenseIncluded' (price for SQL license is included) and 'BasePrice' (without SQL license price)."
   syntax: "public InstancePoolLicenseType licenseType()"
   returns:
     description: "the licenseType value."

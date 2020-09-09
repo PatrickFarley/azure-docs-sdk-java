@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureBlobFileAttributes.copySource()"
   name: "copySource()"
   nameWithType: "AzureBlobFileAttributes.copySource()"
-  summary: "Returns the source blob URL from the last copy operation. If this blob hasn't been the target of a copy operation\n or has been modified since this won't be set."
+  summary: "Returns the source blob URL from the last copy operation. If this blob hasn't been the target of a copy operation or has been modified since this won't be set."
   syntax: "public String copySource()"
   returns:
     description: "the source blob URL from the last copy operation."

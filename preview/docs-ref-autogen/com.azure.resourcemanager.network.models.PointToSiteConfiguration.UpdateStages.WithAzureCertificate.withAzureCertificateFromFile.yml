@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PointToSiteConfiguration.UpdateStages.WithAzureCertificate.withAzureCertificateFromFile(String name, File certificateFile)"
   name: "withAzureCertificateFromFile(String name, File certificateFile)"
   nameWithType: "PointToSiteConfiguration.UpdateStages.WithAzureCertificate.withAzureCertificateFromFile(String name, File certificateFile)"
-  summary: "Specifies that azure certificate authentication type will be used and certificate to use for Azure\n authentication."
+  summary: "Specifies that azure certificate authentication type will be used and certificate to use for Azure authentication."
   parameters:
   - description: "name of certificate"
     name: "name"

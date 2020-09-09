@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.SourceUploadDefinitionInner.relativePath()"
   name: "relativePath()"
   nameWithType: "SourceUploadDefinitionInner.relativePath()"
-  summary: "Get the relativePath property: The relative path to the source. This is used to submit the subsequent queue build\n request."
+  summary: "Get the relativePath property: The relative path to the source. This is used to submit the subsequent queue build request."
   syntax: "public String relativePath()"
   returns:
     description: "the relativePath value."

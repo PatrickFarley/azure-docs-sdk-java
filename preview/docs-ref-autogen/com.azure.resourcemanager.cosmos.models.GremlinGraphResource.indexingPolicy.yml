@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.GremlinGraphResource.indexingPolicy()"
   name: "indexingPolicy()"
   nameWithType: "GremlinGraphResource.indexingPolicy()"
-  summary: "Get the indexingPolicy property: The configuration of the indexing policy. By default, the indexing is automatic\n for all document paths within the graph."
+  summary: "Get the indexingPolicy property: The configuration of the indexing policy. By default, the indexing is automatic for all document paths within the graph."
   syntax: "public IndexingPolicy indexingPolicy()"
   returns:
     description: "the indexingPolicy value."

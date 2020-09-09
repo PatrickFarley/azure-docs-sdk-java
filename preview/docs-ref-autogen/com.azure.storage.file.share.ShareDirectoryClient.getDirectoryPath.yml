@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryClient.getDirectoryPath()"
   name: "getDirectoryPath()"
   nameWithType: "ShareDirectoryClient.getDirectoryPath()"
-  summary: "Get the directory path of the client.\n\n <p>Get directory path. </p>\n\n <pre>\n String directoryPath = shareDirectoryClient.getDirectoryPath&#40;&#41;;\n System.out.println&#40;&quot;The name of the directory is &quot; + directoryPath&#41;;\n </pre>"
+  summary: "Get the directory path of the client.\n\nGet directory path.\n\n```java\nString directoryPath = shareDirectoryClient.getDirectoryPath();\n System.out.println(\"The name of the directory is \" + directoryPath);\n```"
   syntax: "public String getDirectoryPath()"
   returns:
     description: "The path of the directory."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown)"
   name: "beginPowerOffWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown)"
   nameWithType: "VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown)"
-  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting\n charged for the resources. Instead, use deallocate to release resources and avoid charges."
+  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting charged for the resources. Instead, use deallocate to release resources and avoid charges."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown, Context context)"
   name: "beginPowerOffWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown, Context context)"
   nameWithType: "VirtualMachineScaleSetVMsClient.beginPowerOffWithoutPollingWithResponseAsync(String resourceGroupName, String vmScaleSetName, String instanceId, Boolean skipShutdown, Context context)"
-  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting\n charged for the resources. Instead, use deallocate to release resources and avoid charges."
+  summary: "Power off (stop) a virtual machine in a VM scale set. Note that resources are still attached and you are getting charged for the resources. Instead, use deallocate to release resources and avoid charges."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

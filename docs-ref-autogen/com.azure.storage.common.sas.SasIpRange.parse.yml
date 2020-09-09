@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.sas.SasIpRange.parse(String rangeStr)"
   name: "parse(String rangeStr)"
   nameWithType: "SasIpRange.parse(String rangeStr)"
-  summary: "Creates a <code>SasIpRange</code> from the specified string."
+  summary: "Creates a `SasIpRange` from the specified string."
   parameters:
   - description: "The <code>String</code> representation of the <code>SasIpRange</code>."
     name: "rangeStr"

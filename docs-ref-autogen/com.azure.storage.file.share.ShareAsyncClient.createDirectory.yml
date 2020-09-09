@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.createDirectory(String directoryName)"
   name: "createDirectory(String directoryName)"
   nameWithType: "ShareAsyncClient.createDirectory(String directoryName)"
-  summary: "Creates the directory in the share with the given name.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the directory \"mydirectory\"</p>\n\n <pre>\n shareAsyncClient.createDirectory&#40;&quot;mydirectory&quot;&#41;.subscribe&#40;\n     response -&gt; &#123;\n     &#125;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Complete creating the directory!&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory\">Azure Docs</a>.</p>"
+  summary: "Creates the directory in the share with the given name.\n\n**Code Samples**\n\nCreate the directory \"mydirectory\"\n\n```java\nshareAsyncClient.createDirectory(\"mydirectory\").subscribe(\n     response -> {\n     },\n     error -> System.err.print(error.toString()),\n     () -> System.out.println(\"Complete creating the directory!\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory"
   parameters:
   - description: "Name of the directory"
     name: "directoryName"

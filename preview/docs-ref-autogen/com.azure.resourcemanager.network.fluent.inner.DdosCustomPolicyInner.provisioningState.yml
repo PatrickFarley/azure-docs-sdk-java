@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.DdosCustomPolicyInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "DdosCustomPolicyInner.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the DDoS custom policy resource. Possible values\n are: 'Succeeded', 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: The provisioning state of the DDoS custom policy resource. Possible values are: 'Succeeded', 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

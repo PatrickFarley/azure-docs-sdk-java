@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.status()"
   name: "status()"
   nameWithType: "EventDataInner.status()"
-  summary: "Get the status property: a string describing the status of the operation. Some typical values are: Started, In\n progress, Succeeded, Failed, Resolved."
+  summary: "Get the status property: a string describing the status of the operation. Some typical values are: Started, In progress, Succeeded, Failed, Resolved."
   syntax: "public LocalizableStringInner status()"
   returns:
     description: "the status value."

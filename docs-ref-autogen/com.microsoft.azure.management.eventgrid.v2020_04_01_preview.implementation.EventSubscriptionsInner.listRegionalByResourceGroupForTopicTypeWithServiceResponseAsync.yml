@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listRegionalByResourceGroupForTopicTypeWithServiceResponseAsync(String resourceGroupName, String location, String topicTypeName)"
   name: "listRegionalByResourceGroupForTopicTypeWithServiceResponseAsync(String resourceGroupName, String location, String topicTypeName)"
   nameWithType: "EventSubscriptionsInner.listRegionalByResourceGroupForTopicTypeWithServiceResponseAsync(String resourceGroupName, String location, String topicTypeName)"
-  summary: "List all regional event subscriptions under an Azure subscription and resource group for a topic type.\n List all event subscriptions from the given location under a specific Azure subscription and resource group and topic type."
+  summary: "List all regional event subscriptions under an Azure subscription and resource group for a topic type. List all event subscriptions from the given location under a specific Azure subscription and resource group and topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listRegionalByResourceGroupForTopicTypeWithServiceResponseAsync(String resourceGroupName, String location, String topicTypeName, String filter, Integer top)"
   name: "listRegionalByResourceGroupForTopicTypeWithServiceResponseAsync(String resourceGroupName, String location, String topicTypeName, String filter, Integer top)"
   nameWithType: "EventSubscriptionsInner.listRegionalByResourceGroupForTopicTypeWithServiceResponseAsync(String resourceGroupName, String location, String topicTypeName, String filter, Integer top)"
-  summary: "List all regional event subscriptions under an Azure subscription and resource group for a topic type.\n List all event subscriptions from the given location under a specific Azure subscription and resource group and topic type."
+  summary: "List all regional event subscriptions under an Azure subscription and resource group for a topic type. List all event subscriptions from the given location under a specific Azure subscription and resource group and topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

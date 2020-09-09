@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ForwardingMultimap<K,V>.values()"
   name: "values()"
   nameWithType: "ForwardingMultimap<K,V>.values()"
-  summary: "Returns a view collection containing the <i>value</i> from each key-value pair contained in\n this multimap, without collapsing duplicates (so <code>values().size() == size()</code>).\n\n <p>Changes to the returned collection will update the underlying multimap, and vice versa.\n However, <i>adding</i> to the returned collection is not possible."
+  summary: "Returns a view collection containing the *value* from each key-value pair contained in this multimap, without collapsing duplicates (so `values().size() == size()`).\n\nChanges to the returned collection will update the underlying multimap, and vice versa. However, *adding* to the returned collection is not possible."
   syntax: "public Collection<V> values()"
   returns:
     type: "<xref href=\"java.util.Collection?alt=java.util.Collection&text=Collection\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"V?alt=V&text=V\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.models.DataTableCell.getElements()"
   name: "getElements()"
   nameWithType: "DataTableCell.getElements()"
-  summary: "Get the elements property: When includeTextDetails is set to true, a list of references to the text elements\n constituting this table cell."
+  summary: "Get the elements property: When includeTextDetails is set to true, a list of references to the text elements constituting this table cell."
   syntax: "public List<String> getElements()"
   returns:
     description: "the elements value."

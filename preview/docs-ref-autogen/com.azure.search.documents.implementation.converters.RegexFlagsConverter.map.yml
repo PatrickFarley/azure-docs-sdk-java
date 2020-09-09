@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.RegexFlagsConverter.map(RegexFlags obj)"
   name: "map(RegexFlags obj)"
   nameWithType: "RegexFlagsConverter.map(RegexFlags obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.RegexFlags\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.RegexFlags</xref> to enum <xref uid=\"RegexFlags\" data-throw-if-not-resolved=\"false\">RegexFlags</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.RegexFlags\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.RegexFlags</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.RegexFlags\" data-throw-if-not-resolved=\"false\">RegexFlags</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.RegexFlags?alt=com.azure.search.documents.indexes.implementation.models.RegexFlags&text=RegexFlags\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.RegexFlagsConverter.map(RegexFlags obj)"
   name: "map(RegexFlags obj)"
   nameWithType: "RegexFlagsConverter.map(RegexFlags obj)"
-  summary: "Maps from enum <xref uid=\"RegexFlags\" data-throw-if-not-resolved=\"false\">RegexFlags</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.RegexFlags\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.RegexFlags</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.RegexFlags\" data-throw-if-not-resolved=\"false\">RegexFlags</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.RegexFlags\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.RegexFlags</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.RegexFlags?alt=com.azure.search.documents.indexes.models.RegexFlags&text=RegexFlags\" data-throw-if-not-resolved=\"False\" />"

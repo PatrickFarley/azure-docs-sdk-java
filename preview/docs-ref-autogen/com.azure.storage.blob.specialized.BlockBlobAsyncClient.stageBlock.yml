@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlockBlobAsyncClient.stageBlock(String base64BlockId, Flux<ByteBuffer> data, long length)"
   name: "stageBlock(String base64BlockId, Flux<ByteBuffer> data, long length)"
   nameWithType: "BlockBlobAsyncClient.stageBlock(String base64BlockId, Flux<ByteBuffer> data, long length)"
-  summary: "Uploads the specified block to the block blob's \"staging area\" to be later committed by a call to\n commitBlockList. For more information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/put-block\">Azure Docs</a>.\n <p>\n Note that the data passed must be replayable if retries are enabled (the default). In other words, the"
+  summary: "Uploads the specified block to the block blob's \"staging area\" to be later committed by a call to commitBlockList. For more information, see the [Azure Docs][].\n\nNote that the data passed must be replayable if retries are enabled (the default). In other words, the\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/put-block"
   parameters:
   - description: "A Base64 encoded <code>String</code> that specifies the ID for this block. Note that all block\n ids for a given blob must be the same length."
     name: "base64BlockId"

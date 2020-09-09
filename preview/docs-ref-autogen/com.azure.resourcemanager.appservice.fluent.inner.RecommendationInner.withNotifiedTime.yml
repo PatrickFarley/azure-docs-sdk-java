@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.RecommendationInner.withNotifiedTime(OffsetDateTime notifiedTime)"
   name: "withNotifiedTime(OffsetDateTime notifiedTime)"
   nameWithType: "RecommendationInner.withNotifiedTime(OffsetDateTime notifiedTime)"
-  summary: "Set the notifiedTime property: Last timestamp in UTC this instance was actually notified. Null means that this\n recommendation hasn't been notified yet."
+  summary: "Set the notifiedTime property: Last timestamp in UTC this instance was actually notified. Null means that this recommendation hasn't been notified yet."
   parameters:
   - description: "the notifiedTime value to set."
     name: "notifiedTime"

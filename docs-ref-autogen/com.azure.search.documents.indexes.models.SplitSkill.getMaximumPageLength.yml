@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SplitSkill.getMaximumPageLength()"
   name: "getMaximumPageLength()"
   nameWithType: "SplitSkill.getMaximumPageLength()"
-  summary: "Get the maximumPageLength property: The desired maximum page length.\n Default is 10000."
+  summary: "Get the maximumPageLength property: The desired maximum page length. Default is 10000."
   syntax: "public Integer getMaximumPageLength()"
   returns:
     description: "the maximumPageLength value."

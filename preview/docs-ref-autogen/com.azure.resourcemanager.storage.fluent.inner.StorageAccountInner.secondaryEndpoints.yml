@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.secondaryEndpoints()"
   name: "secondaryEndpoints()"
   nameWithType: "StorageAccountInner.secondaryEndpoints()"
-  summary: "Get the secondaryEndpoints property: Gets the URLs that are used to perform a retrieval of a public blob, queue,\n or table object from the secondary location of the storage account. Only available if the SKU name is\n Standard_RAGRS."
+  summary: "Get the secondaryEndpoints property: Gets the URLs that are used to perform a retrieval of a public blob, queue, or table object from the secondary location of the storage account. Only available if the SKU name is Standard\\_RAGRS."
   syntax: "public Endpoints secondaryEndpoints()"
   returns:
     description: "the secondaryEndpoints value."

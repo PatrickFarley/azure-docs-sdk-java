@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.support.v2020_04_01.UpdateContactProfile.preferredTimeZone()"
   name: "preferredTimeZone()"
   nameWithType: "UpdateContactProfile.preferredTimeZone()"
-  summary: "Get time zone of the user. This is the name of the time zone from [Microsoft Time Zone Index Values](https://support.microsoft.com/en-us/help/973627/microsoft-time-zone-index-values)."
+  summary: "Get time zone of the user. This is the name of the time zone from \\[Microsoft Time Zone Index Values\\](https://support.microsoft.com/en-us/help/973627/microsoft-time-zone-index-values)."
   syntax: "public String preferredTimeZone()"
   returns:
     description: "the preferredTimeZone value"

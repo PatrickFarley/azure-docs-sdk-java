@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.management.implementation.serializer.ManagementErrorDeserializer.getModule(ObjectMapper mapper)"
   name: "getModule(ObjectMapper mapper)"
   nameWithType: "ManagementErrorDeserializer.getModule(ObjectMapper mapper)"
-  summary: "Gets a module wrapping this serializer as an adapter for the Jackson\n ObjectMapper."
+  summary: "Gets a module wrapping this serializer as an adapter for the Jackson ObjectMapper."
   parameters:
   - description: "the object mapper for default deserializations."
     name: "mapper"

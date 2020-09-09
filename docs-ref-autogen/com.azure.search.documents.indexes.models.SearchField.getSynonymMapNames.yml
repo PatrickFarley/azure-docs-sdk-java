@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchField.getSynonymMapNames()"
   name: "getSynonymMapNames()"
   nameWithType: "SearchField.getSynonymMapNames()"
-  summary: "Get the synonymMaps property: A list of the names of synonym maps to\n associate with this field. This option can be used only with searchable\n fields. Currently only one synonym map per field is supported. Assigning\n a synonym map to a field ensures that query terms targeting that field\n are expanded at query-time using the rules in the synonym map. This\n attribute can be changed on existing fields. Must be null or an empty\n collection for complex fields."
+  summary: "Get the synonymMaps property: A list of the names of synonym maps to associate with this field. This option can be used only with searchable fields. Currently only one synonym map per field is supported. Assigning a synonym map to a field ensures that query terms targeting that field are expanded at query-time using the rules in the synonym map. This attribute can be changed on existing fields. Must be null or an empty collection for complex fields."
   syntax: "public List<String> getSynonymMapNames()"
   returns:
     description: "the synonymMap names."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.DatabaseAccountUpdateParameters.withConnectorOffer(ConnectorOffer connectorOffer)"
   name: "withConnectorOffer(ConnectorOffer connectorOffer)"
   nameWithType: "DatabaseAccountUpdateParameters.withConnectorOffer(ConnectorOffer connectorOffer)"
-  summary: "Set the connectorOffer property: The cassandra connector offer type for the Cosmos DB database C* account."
+  summary: "Set the connectorOffer property: The cassandra connector offer type for the Cosmos DB database C\\* account."
   parameters:
   - description: "the connectorOffer value to set."
     name: "connectorOffer"

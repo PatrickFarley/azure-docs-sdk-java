@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ElasticPoolDatabaseActivityInner.requestedElasticPoolName()"
   name: "requestedElasticPoolName()"
   nameWithType: "ElasticPoolDatabaseActivityInner.requestedElasticPoolName()"
-  summary: "Get the requestedElasticPoolName property: The name for the elastic pool the database is moving into if\n available."
+  summary: "Get the requestedElasticPoolName property: The name for the elastic pool the database is moving into if available."
   syntax: "public String requestedElasticPoolName()"
   returns:
     description: "the requestedElasticPoolName value."

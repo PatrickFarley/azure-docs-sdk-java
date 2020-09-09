@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.get(String resourceGroupName, String domainName, String domainTopicName)"
   name: "get(String resourceGroupName, String domainName, String domainTopicName)"
   nameWithType: "DomainTopicsInner.get(String resourceGroupName, String domainName, String domainTopicName)"
-  summary: "Get a domain topic.\n Get properties of a domain topic."
+  summary: "Get a domain topic. Get properties of a domain topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

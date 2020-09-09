@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetSkuTypes.STANDARD_DS4"
   name: "STANDARD_DS4"
   nameWithType: "VirtualMachineScaleSetSkuTypes.STANDARD_DS4"
-  summary: "Static value Standard_DS4 for VirtualMachineScaleSetSkuTypes."
+  summary: "Static value Standard\\_DS4 for VirtualMachineScaleSetSkuTypes."
   syntax: "public static final VirtualMachineScaleSetSkuTypes STANDARD_DS4"
 type: "field"
 metadata: {}

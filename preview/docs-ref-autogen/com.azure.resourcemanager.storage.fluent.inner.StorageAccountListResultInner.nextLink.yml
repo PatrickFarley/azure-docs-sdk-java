@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountListResultInner.nextLink()"
   name: "nextLink()"
   nameWithType: "StorageAccountListResultInner.nextLink()"
-  summary: "Get the nextLink property: Request URL that can be used to query next page of storage accounts. Returned when\n total number of requested storage accounts exceed maximum page size."
+  summary: "Get the nextLink property: Request URL that can be used to query next page of storage accounts. Returned when total number of requested storage accounts exceed maximum page size."
   syntax: "public String nextLink()"
   returns:
     description: "the nextLink value."

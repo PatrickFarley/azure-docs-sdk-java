@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobServiceProperties.getDefaultServiceVersion()"
   name: "getDefaultServiceVersion()"
   nameWithType: "BlobServiceProperties.getDefaultServiceVersion()"
-  summary: "Get the defaultServiceVersion property: The default version to use for\n requests to the Blob service if an incoming request's version is not\n specified. Possible values include version 2008-10-27 and all more\n recent versions."
+  summary: "Get the defaultServiceVersion property: The default version to use for requests to the Blob service if an incoming request's version is not specified. Possible values include version 2008-10-27 and all more recent versions."
   syntax: "public String getDefaultServiceVersion()"
   returns:
     description: "the defaultServiceVersion value."

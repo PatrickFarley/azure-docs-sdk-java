@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessageHandler.onMessageAsync(IMessage message)"
   name: "onMessageAsync(IMessage message)"
   nameWithType: "IMessageHandler.onMessageAsync(IMessage message)"
-  summary: "The callback for message pump to pass received <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref>s."
+  summary: "The callback for message pump to pass received <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref>s."
   parameters:
   - description: "The received <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref>."
     name: "message"

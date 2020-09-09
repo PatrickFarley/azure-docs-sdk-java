@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.CorsRule.allowedHeaders()"
   name: "allowedHeaders()"
   nameWithType: "CorsRule.allowedHeaders()"
-  summary: "Get the allowedHeaders property: Required if CorsRule element is present. A list of headers allowed to be part of\n the cross-origin request."
+  summary: "Get the allowedHeaders property: Required if CorsRule element is present. A list of headers allowed to be part of the cross-origin request."
   syntax: "public List<String> allowedHeaders()"
   returns:
     description: "the allowedHeaders value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageDiskReference.lun()"
   name: "lun()"
   nameWithType: "ImageDiskReference.lun()"
-  summary: "Get the lun property: If the disk is created from an image's data disk, this is an index that indicates which of\n the data disks in the image to use. For OS disks, this field is null."
+  summary: "Get the lun property: If the disk is created from an image's data disk, this is an index that indicates which of the data disks in the image to use. For OS disks, this field is null."
   syntax: "public Integer lun()"
   returns:
     description: "the lun value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.AnalyzedTokenInfo.getStartOffset()"
   name: "getStartOffset()"
   nameWithType: "AnalyzedTokenInfo.getStartOffset()"
-  summary: "Get the startOffset property: The index of the first character of the\n token in the input text."
+  summary: "Get the startOffset property: The index of the first character of the token in the input text."
   syntax: "public int getStartOffset()"
   returns:
     description: "the startOffset value."

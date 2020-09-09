@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.createOrUpdateVnetConnectionSlotAsync(String resourceGroupName, String name, String vnetName, String slot, VnetInfoInner connectionEnvelope)"
   name: "createOrUpdateVnetConnectionSlotAsync(String resourceGroupName, String name, String vnetName, String slot, VnetInfoInner connectionEnvelope)"
   nameWithType: "WebAppsClient.createOrUpdateVnetConnectionSlotAsync(String resourceGroupName, String name, String vnetName, String slot, VnetInfoInner connectionEnvelope)"
-  summary: "Description for Adds a Virtual Network connection to an app or slot (PUT) or updates the connection properties\n (PATCH)."
+  summary: "Description for Adds a Virtual Network connection to an app or slot (PUT) or updates the connection properties (PATCH)."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -33,7 +33,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.createOrUpdateVnetConnectionSlotAsync(String resourceGroupName, String name, String vnetName, String slot, VnetInfoInner connectionEnvelope, Context context)"
   name: "createOrUpdateVnetConnectionSlotAsync(String resourceGroupName, String name, String vnetName, String slot, VnetInfoInner connectionEnvelope, Context context)"
   nameWithType: "WebAppsClient.createOrUpdateVnetConnectionSlotAsync(String resourceGroupName, String name, String vnetName, String slot, VnetInfoInner connectionEnvelope, Context context)"
-  summary: "Description for Adds a Virtual Network connection to an app or slot (PUT) or updates the connection properties\n (PATCH)."
+  summary: "Description for Adds a Virtual Network connection to an app or slot (PUT) or updates the connection properties (PATCH)."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

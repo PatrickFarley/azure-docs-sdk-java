@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.inner.DatabaseAccountGetResultsInner.enableCassandraConnector()"
   name: "enableCassandraConnector()"
   nameWithType: "DatabaseAccountGetResultsInner.enableCassandraConnector()"
-  summary: "Get the enableCassandraConnector property: Enables the cassandra connector on the Cosmos DB C* account."
+  summary: "Get the enableCassandraConnector property: Enables the cassandra connector on the Cosmos DB C\\* account."
   syntax: "public Boolean enableCassandraConnector()"
   returns:
     description: "the enableCassandraConnector value."

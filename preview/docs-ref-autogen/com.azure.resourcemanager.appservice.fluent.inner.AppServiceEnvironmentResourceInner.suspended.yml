@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServiceEnvironmentResourceInner.suspended()"
   name: "suspended()"
   nameWithType: "AppServiceEnvironmentResourceInner.suspended()"
-  summary: "Get the suspended property: &lt;code&gt;true&lt;/code&gt; if the App Service Environment is suspended; otherwise,\n &lt;code&gt;false&lt;/code&gt;. The environment can be suspended, e.g. when the management endpoint is no longer\n available (most likely because NSG blocked the incoming traffic)."
+  summary: "Get the suspended property: <code>true</code> if the App Service Environment is suspended; otherwise, <code>false</code>. The environment can be suspended, e.g. when the management endpoint is no longer available (most likely because NSG blocked the incoming traffic)."
   syntax: "public Boolean suspended()"
   returns:
     description: "the suspended value."

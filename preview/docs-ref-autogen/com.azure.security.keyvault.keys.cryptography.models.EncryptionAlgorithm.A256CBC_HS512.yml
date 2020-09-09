@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.cryptography.models.EncryptionAlgorithm.A256CBC_HS512"
   name: "A256CBC_HS512"
   nameWithType: "EncryptionAlgorithm.A256CBC_HS512"
-  summary: "Static value A256CBC_HS512 for EncryptionAlgorithm."
+  summary: "Static value A256CBC\\_HS512 for EncryptionAlgorithm."
   syntax: "public static final EncryptionAlgorithm A256CBC_HS512"
 type: "field"
 metadata: {}

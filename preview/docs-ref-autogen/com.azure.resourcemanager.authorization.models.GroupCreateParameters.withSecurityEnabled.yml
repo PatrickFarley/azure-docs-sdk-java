@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.GroupCreateParameters.withSecurityEnabled(boolean securityEnabled)"
   name: "withSecurityEnabled(boolean securityEnabled)"
   nameWithType: "GroupCreateParameters.withSecurityEnabled(boolean securityEnabled)"
-  summary: "Set the securityEnabled property: Whether the group is a security group. Must be true. This is because only pure\n security groups can be created using the Graph API."
+  summary: "Set the securityEnabled property: Whether the group is a security group. Must be true. This is because only pure security groups can be created using the Graph API."
   parameters:
   - description: "the securityEnabled value to set."
     name: "securityEnabled"

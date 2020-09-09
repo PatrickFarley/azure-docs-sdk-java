@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.WordDelimiterTokenFilter.isCatenateAll()"
   name: "isCatenateAll()"
   nameWithType: "WordDelimiterTokenFilter.isCatenateAll()"
-  summary: "Get the catenateAll property: A value indicating whether all subword parts will be catenated. For example, if\n this is set to true, \"Azure-Search-1\" becomes \"AzureSearch1\". Default is false."
+  summary: "Get the catenateAll property: A value indicating whether all subword parts will be catenated. For example, if this is set to true, \"Azure-Search-1\" becomes \"AzureSearch1\". Default is false."
   syntax: "public Boolean isCatenateAll()"
   returns:
     description: "the catenateAll value."

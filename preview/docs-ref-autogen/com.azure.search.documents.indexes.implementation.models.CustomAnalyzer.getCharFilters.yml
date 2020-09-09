@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.CustomAnalyzer.getCharFilters()"
   name: "getCharFilters()"
   nameWithType: "CustomAnalyzer.getCharFilters()"
-  summary: "Get the charFilters property: A list of character filters used to prepare input text before it is processed by\n the tokenizer. For instance, they can replace certain characters or symbols. The filters are run in the order in\n which they are listed."
+  summary: "Get the charFilters property: A list of character filters used to prepare input text before it is processed by the tokenizer. For instance, they can replace certain characters or symbols. The filters are run in the order in which they are listed."
   syntax: "public List<CharFilterName> getCharFilters()"
   returns:
     description: "the charFilters value."

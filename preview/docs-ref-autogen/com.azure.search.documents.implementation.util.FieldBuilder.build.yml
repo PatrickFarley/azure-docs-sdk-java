@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.util.FieldBuilder.<T>build(Class<T> modelClass, FieldBuilderOptions options)"
   name: "<T>build(Class<T> modelClass, FieldBuilderOptions options)"
   nameWithType: "FieldBuilder.<T>build(Class<T> modelClass, FieldBuilderOptions options)"
-  summary: "Creates a collection of <xref uid=\"SearchField\" data-throw-if-not-resolved=\"false\">SearchField</xref> objects corresponding to the properties of the type supplied."
+  summary: "Creates a collection of <xref uid=\"com.azure.search.documents.indexes.models.SearchField\" data-throw-if-not-resolved=\"false\">SearchField</xref> objects corresponding to the properties of the type supplied."
   parameters:
   - description: "The class for which fields will be created, based on its properties."
     name: "modelClass"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.openInputStream()"
   name: "openInputStream()"
   nameWithType: "BlobClientBase.openInputStream()"
-  summary: "Opens a blob input stream to download the blob.\n <p>"
+  summary: "Opens a blob input stream to download the blob."
   syntax: "public final BlobInputStream openInputStream()"
   returns:
     description: "An <code>InputStream</code> object that represents the stream to use for reading from the blob."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.openInputStream(BlobRange range, BlobRequestConditions requestConditions)"
   name: "openInputStream(BlobRange range, BlobRequestConditions requestConditions)"
   nameWithType: "BlobClientBase.openInputStream(BlobRange range, BlobRequestConditions requestConditions)"
-  summary: "Opens a blob input stream to download the specified range of the blob.\n <p>"
+  summary: "Opens a blob input stream to download the specified range of the blob."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.models.BlobRange\" data-throw-if-not-resolved=\"false\">BlobRange</xref>"
     name: "range"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.deleteFile(String fileName)"
   name: "deleteFile(String fileName)"
   nameWithType: "ShareAsyncClient.deleteFile(String fileName)"
-  summary: "Deletes the specified file in the share.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the file \"myfile\"</p>\n\n <pre>\n shareAsyncClient.deleteFile&#40;&quot;myfile&quot;&#41;.subscribe&#40;\n     response -&gt; &#123;\n     &#125;,\n     error -&gt; System.err.println&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Complete deleting the file.&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2\">Azure Docs</a>.</p>"
+  summary: "Deletes the specified file in the share.\n\n**Code Samples**\n\nDelete the file \"myfile\"\n\n```java\nshareAsyncClient.deleteFile(\"myfile\").subscribe(\n     response -> {\n     },\n     error -> System.err.println(error.toString()),\n     () -> System.out.println(\"Complete deleting the file.\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2"
   parameters:
   - description: "Name of the file."
     name: "fileName"

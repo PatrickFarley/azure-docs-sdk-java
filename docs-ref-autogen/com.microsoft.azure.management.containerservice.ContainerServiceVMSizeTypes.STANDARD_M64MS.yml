@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_M64MS"
   name: "STANDARD_M64MS"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_M64MS"
-  summary: "Static value Standard_M64ms for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_M64ms for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_M64MS"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetInner.withZoneBalance(Boolean zoneBalance)"
   name: "withZoneBalance(Boolean zoneBalance)"
   nameWithType: "VirtualMachineScaleSetInner.withZoneBalance(Boolean zoneBalance)"
-  summary: "Set the zoneBalance property: Whether to force strictly even Virtual Machine distribution cross x-zones in case\n there is zone outage."
+  summary: "Set the zoneBalance property: Whether to force strictly even Virtual Machine distribution cross x-zones in case there is zone outage."
   parameters:
   - description: "the zoneBalance value to set."
     name: "zoneBalance"

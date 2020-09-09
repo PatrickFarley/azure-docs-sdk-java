@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.VirtualClusterInner.withFamily(String family)"
   name: "withFamily(String family)"
   nameWithType: "VirtualClusterInner.withFamily(String family)"
-  summary: "Set the family property: If the service has different generations of hardware, for the same SKU, then that can be\n captured here."
+  summary: "Set the family property: If the service has different generations of hardware, for the same SKU, then that can be captured here."
   parameters:
   - description: "the family value to set."
     name: "family"

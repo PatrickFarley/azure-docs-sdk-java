@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.sas.AccountSasSignatureValues.setVersion(String version)"
   name: "setVersion(String version)"
   nameWithType: "AccountSasSignatureValues.setVersion(String version)"
-  summary: "Sets the service version that is targeted. Leave this <code>null</code> or empty to target the version used by the\n library."
+  summary: "Sets the service version that is targeted. Leave this `null` or empty to target the version used by the library."
   parameters:
   - description: "Target version to set"
     name: "version"

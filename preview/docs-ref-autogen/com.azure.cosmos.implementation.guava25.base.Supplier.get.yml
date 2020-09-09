@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Supplier<T>.get()"
   name: "get()"
   nameWithType: "Supplier<T>.get()"
-  summary: "Retrieves an instance of the appropriate type. The returned object may or may not be a new\n instance, depending on the implementation."
+  summary: "Retrieves an instance of the appropriate type. The returned object may or may not be a new instance, depending on the implementation."
   syntax: "public abstract T get()"
   returns:
     description: "an instance of the appropriate type"

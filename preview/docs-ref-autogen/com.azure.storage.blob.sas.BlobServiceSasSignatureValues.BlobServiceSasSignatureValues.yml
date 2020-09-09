@@ -14,7 +14,7 @@ members:
   fullName: "com.azure.storage.blob.sas.BlobServiceSasSignatureValues.BlobServiceSasSignatureValues(String identifier)"
   name: "BlobServiceSasSignatureValues(String identifier)"
   nameWithType: "BlobServiceSasSignatureValues.BlobServiceSasSignatureValues(String identifier)"
-  summary: "Creates an object with the specified identifier.\n NOTE: Identifier can not be used for a <xref uid=\"UserDelegationKey\" data-throw-if-not-resolved=\"false\">UserDelegationKey</xref> SAS."
+  summary: "Creates an object with the specified identifier. NOTE: Identifier can not be used for a <xref uid=\"com.azure.storage.blob.models.UserDelegationKey\" data-throw-if-not-resolved=\"false\">UserDelegationKey</xref> SAS."
   parameters:
   - description: "Name of the access policy"
     name: "identifier"

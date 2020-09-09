@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedInstanceInner.storageSizeInGB()"
   name: "storageSizeInGB()"
   nameWithType: "ManagedInstanceInner.storageSizeInGB()"
-  summary: "Get the storageSizeInGB property: Storage size in GB. Minimum value: 32. Maximum value: 8192. Increments of 32 GB\n allowed only."
+  summary: "Get the storageSizeInGB property: Storage size in GB. Minimum value: 32. Maximum value: 8192. Increments of 32 GB allowed only."
   syntax: "public Integer storageSizeInGB()"
   returns:
     description: "the storageSizeInGB value."

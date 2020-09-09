@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ServiceSasParameters.resource()"
   name: "resource()"
   nameWithType: "ServiceSasParameters.resource()"
-  summary: "Get the resource property: The signed services accessible with the service SAS. Possible values include: Blob\n (b), Container (c), File (f), Share (s)."
+  summary: "Get the resource property: The signed services accessible with the service SAS. Possible values include: Blob (b), Container (c), File (f), Share (s)."
   syntax: "public SignedResource resource()"
   returns:
     description: "the resource value."

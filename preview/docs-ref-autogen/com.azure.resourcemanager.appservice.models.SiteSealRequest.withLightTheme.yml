@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.SiteSealRequest.withLightTheme(Boolean lightTheme)"
   name: "withLightTheme(Boolean lightTheme)"
   nameWithType: "SiteSealRequest.withLightTheme(Boolean lightTheme)"
-  summary: "Set the lightTheme property: If &lt;code&gt;true&lt;/code&gt; use the light color theme for site seal; otherwise,\n use the default color theme."
+  summary: "Set the lightTheme property: If <code>true</code> use the light color theme for site seal; otherwise, use the default color theme."
   parameters:
   - description: "the lightTheme value to set."
     name: "lightTheme"

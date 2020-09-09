@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.sas.ShareFileSasPermission.parse(String permString)"
   name: "parse(String permString)"
   nameWithType: "ShareFileSasPermission.parse(String permString)"
-  summary: "Creates an <code>ShareFileSasPermission</code> from the specified permissions string. This method will throw an\n <code>IllegalArgumentException</code> if it encounters a character that does not correspond to a valid permission."
+  summary: "Creates an `ShareFileSasPermission` from the specified permissions string. This method will throw an `IllegalArgumentException` if it encounters a character that does not correspond to a valid permission."
   parameters:
   - description: "A <code>String</code> which represents the <code>ShareFileSasPermission</code>."
     name: "permString"

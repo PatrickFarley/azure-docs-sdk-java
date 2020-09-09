@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap<K,V>.containsValue(Object value)"
   name: "containsValue(Object value)"
   nameWithType: "ImmutableMultimap<K,V>.containsValue(Object value)"
-  summary: "Returns <code>true</code> if this multimap contains at least one key-value pair with the value\n <code>value</code>."
+  summary: "Returns `true` if this multimap contains at least one key-value pair with the value `value`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractMultimap.containsValue(java.lang.Object)"
   parameters:
   - name: "value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.readAllDatabases()"
   name: "readAllDatabases()"
   nameWithType: "CosmosAsyncClient.readAllDatabases()"
-  summary: "Reads all databases.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read databases.\n In case of failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Reads all databases.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read databases. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   syntax: "public CosmosPagedFlux<CosmosDatabaseProperties> readAllDatabases()"
   returns:
     description: "a <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> containing one or several feed response pages of read databases or an error."

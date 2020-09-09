@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedInstanceInner.withSourceManagedInstanceId(String sourceManagedInstanceId)"
   name: "withSourceManagedInstanceId(String sourceManagedInstanceId)"
   nameWithType: "ManagedInstanceInner.withSourceManagedInstanceId(String sourceManagedInstanceId)"
-  summary: "Set the sourceManagedInstanceId property: The resource identifier of the source managed instance associated with\n create operation of this instance."
+  summary: "Set the sourceManagedInstanceId property: The resource identifier of the source managed instance associated with create operation of this instance."
   parameters:
   - description: "the sourceManagedInstanceId value to set."
     name: "sourceManagedInstanceId"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.<T>indexOf(Iterable<T> iterable, Predicate<? super T> predicate)"
   name: "<T>indexOf(Iterable<T> iterable, Predicate<? super T> predicate)"
   nameWithType: "Iterables.<T>indexOf(Iterable<T> iterable, Predicate<? super T> predicate)"
-  summary: "Returns the index in <code>iterable</code> of the first element that satisfies the provided <code>\n predicate</code>, or <code>-1</code> if the Iterable has no such elements.\n\n <p>More formally, returns the lowest index <code>i</code> such that <code>\n predicate.apply(Iterables.get(iterable, i))</code> returns <code>true</code>, or <code>-1</code> if there is no\n such index."
+  summary: "Returns the index in `iterable` of the first element that satisfies the provided `predicate`, or `-1` if the Iterable has no such elements.\n\nMore formally, returns the lowest index `i` such that `predicate.apply(Iterables.get(iterable, i))` returns `true`, or `-1` if there is no such index."
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

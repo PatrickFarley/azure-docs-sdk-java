@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.AbstractSequentialIterator<T>.AbstractSequentialIterator(T firstOrNull)"
   name: "AbstractSequentialIterator(T firstOrNull)"
   nameWithType: "AbstractSequentialIterator<T>.AbstractSequentialIterator(T firstOrNull)"
-  summary: "Creates a new iterator with the given first element, or, if <code>firstOrNull</code> is null,\n creates a new empty iterator."
+  summary: "Creates a new iterator with the given first element, or, if `firstOrNull` is null, creates a new empty iterator."
   parameters:
   - name: "firstOrNull"
     type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"

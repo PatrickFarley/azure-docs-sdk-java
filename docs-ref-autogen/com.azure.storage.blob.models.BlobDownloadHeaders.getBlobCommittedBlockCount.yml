@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getBlobCommittedBlockCount()"
   name: "getBlobCommittedBlockCount()"
   nameWithType: "BlobDownloadHeaders.getBlobCommittedBlockCount()"
-  summary: "Get the blobCommittedBlockCount property: The number of committed blocks\n present in the blob. This header is returned only for append blobs."
+  summary: "Get the blobCommittedBlockCount property: The number of committed blocks present in the blob. This header is returned only for append blobs."
   syntax: "public Integer getBlobCommittedBlockCount()"
   returns:
     description: "the blobCommittedBlockCount value."

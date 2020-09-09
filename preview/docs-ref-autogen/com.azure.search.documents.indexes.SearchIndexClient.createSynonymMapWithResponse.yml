@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.createSynonymMapWithResponse(SynonymMap synonymMap, Context context)"
   name: "createSynonymMapWithResponse(SynonymMap synonymMap, Context context)"
   nameWithType: "SearchIndexClient.createSynonymMapWithResponse(SynonymMap synonymMap, Context context)"
-  summary: "Creates a new Azure Cognitive Search synonym map.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Create synonym map named \"synonymMap\". </p>"
+  summary: "Creates a new Azure Cognitive Search synonym map.\n\n**Code Sample**\n\nCreate synonym map named \"synonymMap\"."
   parameters:
   - description: "the definition of the synonym map to create"
     name: "synonymMap"

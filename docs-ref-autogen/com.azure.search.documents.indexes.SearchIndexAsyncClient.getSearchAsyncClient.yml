@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.getSearchAsyncClient(String indexName)"
   name: "getSearchAsyncClient(String indexName)"
   nameWithType: "SearchIndexAsyncClient.getSearchAsyncClient(String indexName)"
-  summary: "Initializes a new <xref uid=\"SearchAsyncClient\" data-throw-if-not-resolved=\"false\">SearchAsyncClient</xref> using the given Index name and the same configuration as the\n SearchServiceAsyncClient."
+  summary: "Initializes a new <xref uid=\"com.azure.search.documents.SearchAsyncClient\" data-throw-if-not-resolved=\"false\">SearchAsyncClient</xref> using the given Index name and the same configuration as the SearchServiceAsyncClient."
   parameters:
   - description: "the name of the Index for the client"
     name: "indexName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobAsyncClient.getAppendBlobAsyncClient()"
   name: "getAppendBlobAsyncClient()"
   nameWithType: "BlobAsyncClient.getAppendBlobAsyncClient()"
-  summary: "Creates a new <xref uid=\"AppendBlobAsyncClient\" data-throw-if-not-resolved=\"false\">AppendBlobAsyncClient</xref> associated with this blob."
+  summary: "Creates a new <xref uid=\"com.azure.storage.blob.specialized.AppendBlobAsyncClient\" data-throw-if-not-resolved=\"false\">AppendBlobAsyncClient</xref> associated with this blob."
   syntax: "public AppendBlobAsyncClient getAppendBlobAsyncClient()"
   returns:
     description: "A <xref uid=\"com.azure.storage.blob.specialized.AppendBlobAsyncClient\" data-throw-if-not-resolved=\"false\">AppendBlobAsyncClient</xref> associated with this blob."

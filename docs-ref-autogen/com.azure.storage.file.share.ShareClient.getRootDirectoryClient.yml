@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClient.getRootDirectoryClient()"
   name: "getRootDirectoryClient()"
   nameWithType: "ShareClient.getRootDirectoryClient()"
-  summary: "Constructs a <xref uid=\"ShareDirectoryClient\" data-throw-if-not-resolved=\"false\">ShareDirectoryClient</xref> that interacts with the root directory in the share.\n\n <p>If the directory doesn't exist in the share <xref uid=\"ShareDirectoryClient#create()\" data-throw-if-not-resolved=\"false\">create</xref> in the client will\n need to be called before interaction with the directory can happen.</p>"
+  summary: "Constructs a <xref uid=\"com.azure.storage.file.share.ShareDirectoryClient\" data-throw-if-not-resolved=\"false\">ShareDirectoryClient</xref> that interacts with the root directory in the share.\n\nIf the directory doesn't exist in the share <xref uid=\"com.azure.storage.file.share.ShareDirectoryClient.create()\" data-throw-if-not-resolved=\"false\">create</xref> in the client will need to be called before interaction with the directory can happen."
   syntax: "public ShareDirectoryClient getRootDirectoryClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.file.share.ShareDirectoryClient\" data-throw-if-not-resolved=\"false\">ShareDirectoryClient</xref> that interacts with the root directory in the share"

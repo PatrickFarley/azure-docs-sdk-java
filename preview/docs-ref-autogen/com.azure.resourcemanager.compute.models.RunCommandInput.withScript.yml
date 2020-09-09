@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.RunCommandInput.withScript(List<String> script)"
   name: "withScript(List<String> script)"
   nameWithType: "RunCommandInput.withScript(List<String> script)"
-  summary: "Set the script property: Optional. The script to be executed. When this value is given, the given script will\n override the default script of the command."
+  summary: "Set the script property: Optional. The script to be executed. When this value is given, the given script will override the default script of the command."
   parameters:
   - description: "the script value to set."
     name: "script"

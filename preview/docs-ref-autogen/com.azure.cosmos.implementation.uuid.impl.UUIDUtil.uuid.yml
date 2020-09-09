@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.UUIDUtil.uuid(byte[] bytes)"
   name: "uuid(byte[] bytes)"
   nameWithType: "UUIDUtil.uuid(byte[] bytes)"
-  summary: "Factory method for constructing <xref uid=\"UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> instance from given\n 16 bytes.\n NOTE: since absolutely no validation is done for contents, this method should\n only be used if contents are known to be valid."
+  summary: "Factory method for constructing <xref uid=\"java.util.UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> instance from given 16 bytes. NOTE: since absolutely no validation is done for contents, this method should only be used if contents are known to be valid."
   parameters:
   - name: "bytes"
     type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />[]"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.UUIDUtil.uuid(byte[] bytes, int offset)"
   name: "uuid(byte[] bytes, int offset)"
   nameWithType: "UUIDUtil.uuid(byte[] bytes, int offset)"
-  summary: "Factory method for constructing <xref uid=\"UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> instance from given\n 16 bytes.\n NOTE: since absolutely no validation is done for contents, this method should\n only be used if contents are known to be valid."
+  summary: "Factory method for constructing <xref uid=\"java.util.UUID\" data-throw-if-not-resolved=\"false\">UUID</xref> instance from given 16 bytes. NOTE: since absolutely no validation is done for contents, this method should only be used if contents are known to be valid."
   parameters:
   - description: "Array that contains sequence of 16 bytes that contain a valid UUID"
     name: "bytes"
@@ -34,7 +34,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.UUIDUtil.uuid(String id)"
   name: "uuid(String id)"
   nameWithType: "UUIDUtil.uuid(String id)"
-  summary: "Factory method for creating UUIDs from the canonical string\n representation."
+  summary: "Factory method for creating UUIDs from the canonical string representation."
   parameters:
   - description: "String that contains the canonical representation of\n   the UUID to build; 36-char string (see UUID specs for details).\n   Hex-chars may be in upper-case too; UUID class will always output\n   them in lowercase."
     name: "id"

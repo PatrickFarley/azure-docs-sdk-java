@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getVersion()"
   name: "getVersion()"
   nameWithType: "ShareFileDownloadHeaders.getVersion()"
-  summary: "Get the version property: Indicates the version of the File service used\n to execute the request."
+  summary: "Get the version property: Indicates the version of the File service used to execute the request."
   syntax: "public String getVersion()"
   returns:
     description: "the version value."

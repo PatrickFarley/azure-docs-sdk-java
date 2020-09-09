@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueAsyncClient.getQueueName()"
   name: "getQueueName()"
   nameWithType: "QueueAsyncClient.getQueueName()"
-  summary: "Get the queue name of the client.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n String queueName = client.getQueueName&#40;&#41;;\n System.out.println&#40;&quot;The name of the queue is &quot; + queueName&#41;;\n </pre>"
+  summary: "Get the queue name of the client.\n\n**Code Samples**\n\n```java\nString queueName = client.getQueueName();\n System.out.println(\"The name of the queue is \" + queueName);\n```"
   syntax: "public String getQueueName()"
   returns:
     description: "The name of the queue."

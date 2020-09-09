@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RuleEmailAction.sendToServiceOwners()"
   name: "sendToServiceOwners()"
   nameWithType: "RuleEmailAction.sendToServiceOwners()"
-  summary: "Get the sendToServiceOwners property: Whether the administrators (service and co-administrators) of the service\n should be notified when the alert is activated."
+  summary: "Get the sendToServiceOwners property: Whether the administrators (service and co-administrators) of the service should be notified when the alert is activated."
   syntax: "public Boolean sendToServiceOwners()"
   returns:
     description: "the sendToServiceOwners value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.ParserUtility.validateId(String id)"
   name: "validateId(String id)"
   nameWithType: "ParserUtility.validateId(String id)"
-  summary: "Validate if a provided ID is valid using the follow criteria.\n A case-sensitive string (up to 128 char long)\n of ASCII 7-bit alphanumeric chars\n + {'-', ':', '.', '+', '%', '_', '#', '*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''}."
+  summary: "Validate if a provided ID is valid using the follow criteria. A case-sensitive string (up to 128 char long) of ASCII 7-bit alphanumeric chars + \\{'-', ':', '.', '+', '%', '\\_', '\\#', '\\*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''\\}."
   parameters:
   - description: "is the ID to test"
     name: "id"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.UUIDGenerator.getType()"
   name: "getType()"
   nameWithType: "UUIDGenerator.getType()"
-  summary: "Accessor for determining type of UUIDs (variant) that this\n generator instance will produce."
+  summary: "Accessor for determining type of UUIDs (variant) that this generator instance will produce."
   syntax: "public abstract UUIDType getType()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.uuid.UUIDType?alt=com.azure.cosmos.implementation.uuid.UUIDType&text=UUIDType\" data-throw-if-not-resolved=\"False\" />"

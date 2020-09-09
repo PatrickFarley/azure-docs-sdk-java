@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.QueueMetrics.setEnabled(boolean enabled)"
   name: "setEnabled(boolean enabled)"
   nameWithType: "QueueMetrics.setEnabled(boolean enabled)"
-  summary: "Set the enabled property: Indicates whether metrics are enabled for the\n Queue service."
+  summary: "Set the enabled property: Indicates whether metrics are enabled for the Queue service."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventSubscriptions.listByDomainTopicAsync(String resourceGroupName, String domainName, String topicName)"
   name: "listByDomainTopicAsync(String resourceGroupName, String domainName, String topicName)"
   nameWithType: "EventSubscriptions.listByDomainTopicAsync(String resourceGroupName, String domainName, String topicName)"
-  summary: "List all event subscriptions for a specific domain topic.\n List all event subscriptions that have been created for a specific domain topic."
+  summary: "List all event subscriptions for a specific domain topic. List all event subscriptions that have been created for a specific domain topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

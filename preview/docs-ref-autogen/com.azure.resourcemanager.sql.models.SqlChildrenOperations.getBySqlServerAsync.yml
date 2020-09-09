@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlChildrenOperations<T>.getBySqlServerAsync(SqlServer sqlServer, String name)"
   name: "getBySqlServerAsync(SqlServer sqlServer, String name)"
   nameWithType: "SqlChildrenOperations<T>.getBySqlServerAsync(SqlServer sqlServer, String name)"
-  summary: "Asynchronously gets the information about a child resource from Azure SQL server, identifying it by its name and\n its resource group."
+  summary: "Asynchronously gets the information about a child resource from Azure SQL server, identifying it by its name and its resource group."
   parameters:
   - description: "the SQL server parent resource"
     name: "sqlServer"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlChildrenOperations<T>.getBySqlServerAsync(String resourceGroupName, String sqlServerName, String name)"
   name: "getBySqlServerAsync(String resourceGroupName, String sqlServerName, String name)"
   nameWithType: "SqlChildrenOperations<T>.getBySqlServerAsync(String resourceGroupName, String sqlServerName, String name)"
-  summary: "Asynchronously gets the information about a child resource from Azure SQL server, identifying it by its name and\n its resource group."
+  summary: "Asynchronously gets the information about a child resource from Azure SQL server, identifying it by its name and its resource group."
   parameters:
   - description: "the name of resource group"
     name: "resourceGroupName"

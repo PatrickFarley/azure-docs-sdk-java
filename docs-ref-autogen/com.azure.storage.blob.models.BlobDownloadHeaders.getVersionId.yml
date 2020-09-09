@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getVersionId()"
   name: "getVersionId()"
   nameWithType: "BlobDownloadHeaders.getVersionId()"
-  summary: "Get the versionId property: A DateTime value returned by the service\n that uniquely identifies the blob. The value of this header indicates\n the blob version, and may be used in subsequent requests to access this\n version of the blob."
+  summary: "Get the versionId property: A DateTime value returned by the service that uniquely identifies the blob. The value of this header indicates the blob version, and may be used in subsequent requests to access this version of the blob."
   syntax: "public String getVersionId()"
   returns:
     description: "the versionId value."

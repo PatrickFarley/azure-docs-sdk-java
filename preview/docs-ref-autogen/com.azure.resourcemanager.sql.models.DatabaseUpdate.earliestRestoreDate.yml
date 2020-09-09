@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.DatabaseUpdate.earliestRestoreDate()"
   name: "earliestRestoreDate()"
   nameWithType: "DatabaseUpdate.earliestRestoreDate()"
-  summary: "Get the earliestRestoreDate property: This records the earliest start date and time that restore is available for\n this database (ISO8601 format)."
+  summary: "Get the earliestRestoreDate property: This records the earliest start date and time that restore is available for this database (ISO8601 format)."
   syntax: "public OffsetDateTime earliestRestoreDate()"
   returns:
     description: "the earliestRestoreDate value."

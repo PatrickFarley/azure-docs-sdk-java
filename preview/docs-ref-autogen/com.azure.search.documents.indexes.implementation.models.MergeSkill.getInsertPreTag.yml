@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.MergeSkill.getInsertPreTag()"
   name: "getInsertPreTag()"
   nameWithType: "MergeSkill.getInsertPreTag()"
-  summary: "Get the insertPreTag property: The tag indicates the start of the merged text. By default, the tag is an empty\n space."
+  summary: "Get the insertPreTag property: The tag indicates the start of the merged text. By default, the tag is an empty space."
   syntax: "public String getInsertPreTag()"
   returns:
     description: "the insertPreTag value."

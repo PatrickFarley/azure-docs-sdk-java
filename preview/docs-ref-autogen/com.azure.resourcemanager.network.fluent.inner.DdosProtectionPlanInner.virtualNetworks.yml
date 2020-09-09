@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.DdosProtectionPlanInner.virtualNetworks()"
   name: "virtualNetworks()"
   nameWithType: "DdosProtectionPlanInner.virtualNetworks()"
-  summary: "Get the virtualNetworks property: The list of virtual networks associated with the DDoS protection plan resource.\n This list is read-only."
+  summary: "Get the virtualNetworks property: The list of virtual networks associated with the DDoS protection plan resource. This list is read-only."
   syntax: "public List<SubResource> virtualNetworks()"
   returns:
     description: "the virtualNetworks value."

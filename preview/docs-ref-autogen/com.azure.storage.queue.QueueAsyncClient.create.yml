@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueAsyncClient.create()"
   name: "create()"
   nameWithType: "QueueAsyncClient.create()"
-  summary: "Creates a new queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create a queue</p>\n\n <pre>\n client.create&#40;&#41;.subscribe&#40;\n     response -&gt; &#123;\n     &#125;,\n     error -&gt; System.err.print&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Complete creating the queue!&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-queue4\">Azure Docs</a>.</p>"
+  summary: "Creates a new queue.\n\n**Code Samples**\n\nCreate a queue\n\n```java\nclient.create().subscribe(\n     response -> {\n     },\n     error -> System.err.print(error.toString()),\n     () -> System.out.println(\"Complete creating the queue!\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-queue4"
   syntax: "public Mono<Void> create()"
   returns:
     description: "An empty response"

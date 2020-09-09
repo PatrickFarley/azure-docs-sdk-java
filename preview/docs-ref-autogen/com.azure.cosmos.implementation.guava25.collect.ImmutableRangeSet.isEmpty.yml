@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableRangeSet<C>.isEmpty()"
   name: "isEmpty()"
   nameWithType: "ImmutableRangeSet<C>.isEmpty()"
-  summary: "Returns <code>true</code> if this range set contains no ranges."
+  summary: "Returns `true` if this range set contains no ranges."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractRangeSet.isEmpty()"
   syntax: "public boolean isEmpty()"
   returns:

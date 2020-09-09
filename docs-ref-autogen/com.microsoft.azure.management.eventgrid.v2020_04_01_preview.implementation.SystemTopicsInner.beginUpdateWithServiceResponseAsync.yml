@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicsInner.beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName)"
   name: "beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName)"
   nameWithType: "SystemTopicsInner.beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName)"
-  summary: "Update a system topic.\n Asynchronously updates a system topic with the specified parameters."
+  summary: "Update a system topic. Asynchronously updates a system topic with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicsInner.beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName, Map<String,String> tags)"
   name: "beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName, Map<String,String> tags)"
   nameWithType: "SystemTopicsInner.beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName, Map<String,String> tags)"
-  summary: "Update a system topic.\n Asynchronously updates a system topic with the specified parameters."
+  summary: "Update a system topic. Asynchronously updates a system topic with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

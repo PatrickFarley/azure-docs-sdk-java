@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.ObjectsClient.getObjectsByObjectIds(GetObjectsParameters parameters)"
   name: "getObjectsByObjectIds(GetObjectsParameters parameters)"
   nameWithType: "ObjectsClient.getObjectsByObjectIds(GetObjectsParameters parameters)"
-  summary: "Gets the directory objects specified in a list of object IDs. You can also specify which resource collections\n (users, groups, etc.) should be searched by specifying the optional types parameter."
+  summary: "Gets the directory objects specified in a list of object IDs. You can also specify which resource collections (users, groups, etc.) should be searched by specifying the optional types parameter."
   parameters:
   - description: "Request parameters for the GetObjectsByObjectIds API."
     name: "parameters"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.ObjectsClient.getObjectsByObjectIds(GetObjectsParameters parameters, Context context)"
   name: "getObjectsByObjectIds(GetObjectsParameters parameters, Context context)"
   nameWithType: "ObjectsClient.getObjectsByObjectIds(GetObjectsParameters parameters, Context context)"
-  summary: "Gets the directory objects specified in a list of object IDs. You can also specify which resource collections\n (users, groups, etc.) should be searched by specifying the optional types parameter."
+  summary: "Gets the directory objects specified in a list of object IDs. You can also specify which resource collections (users, groups, etc.) should be searched by specifying the optional types parameter."
   parameters:
   - description: "Request parameters for the GetObjectsByObjectIds API."
     name: "parameters"

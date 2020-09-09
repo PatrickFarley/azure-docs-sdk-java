@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerLimits.getMaxRunTime()"
   name: "getMaxRunTime()"
   nameWithType: "SearchIndexerLimits.getMaxRunTime()"
-  summary: "Get the maxRunTime property: The maximum duration that the indexer is\n permitted to run for one execution."
+  summary: "Get the maxRunTime property: The maximum duration that the indexer is permitted to run for one execution."
   syntax: "public Duration getMaxRunTime()"
   returns:
     description: "the maxRunTime value."

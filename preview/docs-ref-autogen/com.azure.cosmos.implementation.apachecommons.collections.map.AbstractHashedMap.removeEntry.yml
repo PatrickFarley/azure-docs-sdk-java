@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.removeEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, AbstractHashedMap.HashEntry<K,V> previous)"
   name: "removeEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, AbstractHashedMap.HashEntry<K,V> previous)"
   nameWithType: "AbstractHashedMap<K,V>.removeEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, AbstractHashedMap.HashEntry<K,V> previous)"
-  summary: "Removes an entry from the chain stored in a particular index.\n <p>\n This implementation removes the entry from the data storage table.\n The size is not updated.\n Subclasses could override to handle changes to the map."
+  summary: "Removes an entry from the chain stored in a particular index.\n\nThis implementation removes the entry from the data storage table. The size is not updated. Subclasses could override to handle changes to the map."
   parameters:
   - description: "the entry to remove"
     name: "entry"

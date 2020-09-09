@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueAsyncClient.getProperties()"
   name: "getProperties()"
   nameWithType: "QueueAsyncClient.getProperties()"
-  summary: "Retrieves metadata and approximate message count of the queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Get the properties of the queue</p>\n\n <pre>\n client.getProperties&#40;&#41;\n     .subscribe&#40;properties -&gt; &#123;\n         System.out.printf&#40;&quot;Metadata: %s, Approximate message count: %d&quot;, properties.getMetadata&#40;&#41;,\n             properties.getApproximateMessagesCount&#40;&#41;&#41;;\n     &#125;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-metadata\">Azure Docs</a>.</p>"
+  summary: "Retrieves metadata and approximate message count of the queue.\n\n**Code Samples**\n\nGet the properties of the queue\n\n```java\nclient.getProperties()\n     .subscribe(properties -> {\n         System.out.printf(\"Metadata: %s, Approximate message count: %d\", properties.getMetadata(),\n             properties.getApproximateMessagesCount());\n     });\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-metadata"
   syntax: "public Mono<QueueProperties> getProperties()"
   returns:
     description: "A response containing a <xref uid=\"com.azure.storage.queue.models.QueueProperties\" data-throw-if-not-resolved=\"false\">QueueProperties</xref> value which contains the metadata and approximate\n messages count of the queue."

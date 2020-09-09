@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.checkedCast(long value)"
   name: "checkedCast(long value)"
   nameWithType: "Ints.checkedCast(long value)"
-  summary: "Returns the <code>int</code> value that is equal to <code>value</code>, if possible."
+  summary: "Returns the `int` value that is equal to `value`, if possible."
   parameters:
   - description: "any value in the range of the <code>int</code> type"
     name: "value"

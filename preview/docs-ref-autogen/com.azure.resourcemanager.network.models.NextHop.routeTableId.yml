@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NextHop.routeTableId()"
   name: "routeTableId()"
   nameWithType: "NextHop.routeTableId()"
-  summary: "Get the resource identifier for the route table associated with the route being returned. If the route being\n returned does not correspond to any user created routes then this field will be the string 'System Route'."
+  summary: "Get the resource identifier for the route table associated with the route being returned. If the route being returned does not correspond to any user created routes then this field will be the string 'System Route'."
   syntax: "public abstract String routeTableId()"
   returns:
     description: "the routeTableId value"

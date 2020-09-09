@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StackMajorVersion.applicationInsights()"
   name: "applicationInsights()"
   nameWithType: "StackMajorVersion.applicationInsights()"
-  summary: "Get the applicationInsights property: &lt;code&gt;true&lt;/code&gt; if this supports Application Insights;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the applicationInsights property: <code>true</code> if this supports Application Insights; otherwise, <code>false</code>."
   syntax: "public Boolean applicationInsights()"
   returns:
     description: "the applicationInsights value."

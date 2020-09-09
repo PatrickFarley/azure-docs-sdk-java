@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkElementIndex(int index, int size)"
   name: "checkElementIndex(int index, int size)"
   nameWithType: "Preconditions.checkElementIndex(int index, int size)"
-  summary: "Ensures that <code>index</code> specifies a valid <i>element</i> in an array, list or string of size\n <code>size</code>. An element index may range from zero, inclusive, to <code>size</code>, exclusive."
+  summary: "Ensures that `index` specifies a valid *element* in an array, list or string of size `size`. An element index may range from zero, inclusive, to `size`, exclusive."
   parameters:
   - description: "a user-supplied index identifying an element of an array, list or string"
     name: "index"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Preconditions.checkElementIndex(int index, int size, String desc)"
   name: "checkElementIndex(int index, int size, String desc)"
   nameWithType: "Preconditions.checkElementIndex(int index, int size, String desc)"
-  summary: "Ensures that <code>index</code> specifies a valid <i>element</i> in an array, list or string of size\n <code>size</code>. An element index may range from zero, inclusive, to <code>size</code>, exclusive."
+  summary: "Ensures that `index` specifies a valid *element* in an array, list or string of size `size`. An element index may range from zero, inclusive, to `size`, exclusive."
   parameters:
   - description: "a user-supplied index identifying an element of an array, list or string"
     name: "index"

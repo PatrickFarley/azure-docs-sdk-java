@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.routing.PartitionKeyRangeIdentity.PartitionKeyRangeIdentity(String partitionKeyRangeId)"
   name: "PartitionKeyRangeIdentity(String partitionKeyRangeId)"
   nameWithType: "PartitionKeyRangeIdentity.PartitionKeyRangeIdentity(String partitionKeyRangeId)"
-  summary: "This should only be used for user provided partitionKeyRangeId, because in this case\n he knows what he is doing. If collection was deleted/created with same name - it is his responsibility.\n <p>\n If our code infers partitionKeyRangeId automatically and uses collection information from collection cache,\n we need to ensure that request will reach correct collection. In this case constructor which takes collectionRid MUST\n be used."
+  summary: "This should only be used for user provided partitionKeyRangeId, because in this case he knows what he is doing. If collection was deleted/created with same name - it is his responsibility.\n\nIf our code infers partitionKeyRangeId automatically and uses collection information from collection cache, we need to ensure that request will reach correct collection. In this case constructor which takes collectionRid MUST be used."
   parameters:
   - description: "a string represents the partition key range Id"
     name: "partitionKeyRangeId"

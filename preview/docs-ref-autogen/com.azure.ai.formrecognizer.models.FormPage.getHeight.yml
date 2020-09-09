@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.models.FormPage.getHeight()"
   name: "getHeight()"
   nameWithType: "FormPage.getHeight()"
-  summary: "Get the height property: The height of the image/PDF in pixels/inches,\n respectively."
+  summary: "Get the height property: The height of the image/PDF in pixels/inches, respectively."
   syntax: "public float getHeight()"
   returns:
     description: "the height value."

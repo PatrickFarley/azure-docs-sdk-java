@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzurePath.compareTo(Path path)"
   name: "compareTo(Path path)"
   nameWithType: "AzurePath.compareTo(Path path)"
-  summary: "Compares two abstract paths lexicographically. This method does not access the file system and neither file is\n required to exist.\n <p>\n This method may not be used to compare paths that are associated with different file system providers.\n <p>\n This result of this method is identical to a string comparison on the underlying path strings."
+  summary: "Compares two abstract paths lexicographically. This method does not access the file system and neither file is required to exist.\n\nThis method may not be used to compare paths that are associated with different file system providers.\n\nThis result of this method is identical to a string comparison on the underlying path strings."
   parameters:
   - name: "path"
     type: "<xref href=\"java.nio.file.Path?alt=java.nio.file.Path&text=Path\" data-throw-if-not-resolved=\"False\" />"

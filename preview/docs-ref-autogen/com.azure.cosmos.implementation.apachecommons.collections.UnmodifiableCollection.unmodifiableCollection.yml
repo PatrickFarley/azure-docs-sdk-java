@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.UnmodifiableCollection<E>.<T>unmodifiableCollection(Collection<? extends T> coll)"
   name: "<T>unmodifiableCollection(Collection<? extends T> coll)"
   nameWithType: "UnmodifiableCollection<E>.<T>unmodifiableCollection(Collection<? extends T> coll)"
-  summary: "Factory method to create an unmodifiable collection.\n <p>\n If the collection passed in is already unmodifiable, it is returned."
+  summary: "Factory method to create an unmodifiable collection.\n\nIf the collection passed in is already unmodifiable, it is returned."
   parameters:
   - description: "the collection to decorate, must not be null"
     name: "coll"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.CheckpointStore.listOwnership(String fullyQualifiedNamespace, String eventHubName, String consumerGroup)"
   name: "listOwnership(String fullyQualifiedNamespace, String eventHubName, String consumerGroup)"
   nameWithType: "CheckpointStore.listOwnership(String fullyQualifiedNamespace, String eventHubName, String consumerGroup)"
-  summary: "Called to get the list of all existing partition ownership from the underlying data store. Could return empty\n results if there are is no existing ownership information."
+  summary: "Called to get the list of all existing partition ownership from the underlying data store. Could return empty results if there are is no existing ownership information."
   parameters:
   - description: "The fully qualified namespace of the Event Hub. This is likely to be similar to\n <strong>\"{your-namespace}.servicebus.windows.net\"</strong>."
     name: "fullyQualifiedNamespace"

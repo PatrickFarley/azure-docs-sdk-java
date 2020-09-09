@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexerSkill.setContext(String context)"
   name: "setContext(String context)"
   nameWithType: "SearchIndexerSkill.setContext(String context)"
-  summary: "Set the context property: Represents the level at which operations take place, such as the document root or\n document content (for example, /document or /document/content). The default is /document."
+  summary: "Set the context property: Represents the level at which operations take place, such as the document root or document content (for example, /document or /document/content). The default is /document."
   parameters:
   - description: "the context value to set."
     name: "context"

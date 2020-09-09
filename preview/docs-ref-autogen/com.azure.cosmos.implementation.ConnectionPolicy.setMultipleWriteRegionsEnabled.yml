@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ConnectionPolicy.setMultipleWriteRegionsEnabled(boolean multipleWriteRegionsEnabled)"
   name: "setMultipleWriteRegionsEnabled(boolean multipleWriteRegionsEnabled)"
   nameWithType: "ConnectionPolicy.setMultipleWriteRegionsEnabled(boolean multipleWriteRegionsEnabled)"
-  summary: "Sets the flag to enable writes on any regions for geo-replicated database accounts in the Azure\n Cosmos DB service.\n <p>\n When the value of this property is true, the SDK will direct write operations to\n available writable regions of geo-replicated database account. Writable regions\n are ordered by PreferredRegions property. Setting the property value\n to true has no effect until EnableMultipleWriteRegions in DatabaseAccount\n is also set to true.\n <p>\n DEFAULT value is false indicating that writes are only directed to\n first region in PreferredRegions property."
+  summary: "Sets the flag to enable writes on any regions for geo-replicated database accounts in the Azure Cosmos DB service.\n\nWhen the value of this property is true, the SDK will direct write operations to available writable regions of geo-replicated database account. Writable regions are ordered by PreferredRegions property. Setting the property value to true has no effect until EnableMultipleWriteRegions in DatabaseAccount is also set to true.\n\nDEFAULT value is false indicating that writes are only directed to first region in PreferredRegions property."
   parameters:
   - description: "flag to enable writes on any regions for geo-replicated\n database accounts."
     name: "multipleWriteRegionsEnabled"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PathHierarchyTokenizer.setDelimiter(Character delimiter)"
   name: "setDelimiter(Character delimiter)"
   nameWithType: "PathHierarchyTokenizer.setDelimiter(Character delimiter)"
-  summary: "Set the delimiter property: The delimiter character to use. Default is\n \"/\"."
+  summary: "Set the delimiter property: The delimiter character to use. Default is \"/\"."
   parameters:
   - description: "the delimiter value to set."
     name: "delimiter"

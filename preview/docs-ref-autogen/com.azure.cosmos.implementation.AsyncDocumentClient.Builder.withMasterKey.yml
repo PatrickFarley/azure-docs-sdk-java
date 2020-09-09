@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.Builder.withMasterKey(String masterKeyOrResourceToken)"
   name: "withMasterKey(String masterKeyOrResourceToken)"
   nameWithType: "AsyncDocumentClient.Builder.withMasterKey(String masterKeyOrResourceToken)"
-  summary: "New method withMasterKeyOrResourceToken will take either master key or resource token\n and perform authentication for accessing resource."
+  summary: "New method withMasterKeyOrResourceToken will take either master key or resource token and perform authentication for accessing resource."
   parameters:
   - description: "MasterKey or resourceToken for authentication."
     name: "masterKeyOrResourceToken"

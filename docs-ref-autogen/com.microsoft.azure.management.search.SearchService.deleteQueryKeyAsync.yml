@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.search.SearchService.deleteQueryKeyAsync(String key)"
   name: "deleteQueryKeyAsync(String key)"
   nameWithType: "SearchService.deleteQueryKeyAsync(String key)"
-  summary: "Deletes the specified query key.\n <p>\n Unlike admin keys, query keys are not regenerated. The process for\n   regenerating a query key is to delete and then recreate it."
+  summary: "Deletes the specified query key.\n\nUnlike admin keys, query keys are not regenerated. The process for regenerating a query key is to delete and then recreate it."
   parameters:
   - description: "The query key to be deleted. Query keys are identified by value, not by name."
     name: "key"

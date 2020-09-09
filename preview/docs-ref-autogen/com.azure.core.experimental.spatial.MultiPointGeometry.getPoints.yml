@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.experimental.spatial.MultiPointGeometry.getPoints()"
   name: "getPoints()"
   nameWithType: "MultiPointGeometry.getPoints()"
-  summary: "Unmodifiable representation of the <xref uid=\"PointGeometry\" data-throw-if-not-resolved=\"false\">geometric points</xref> representing this multi-point."
+  summary: "Unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.PointGeometry\" data-throw-if-not-resolved=\"false\">geometric points</xref> representing this multi-point."
   syntax: "public List<PointGeometry> getPoints()"
   returns:
     description: "An unmodifiable representation of the <xref uid=\"com.azure.core.experimental.spatial.PointGeometry\" data-throw-if-not-resolved=\"false\">geometric points</xref> representing this\n multi-point."

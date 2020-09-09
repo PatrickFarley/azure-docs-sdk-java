@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEventInput.withStreamingProtocol(LiveEventInputProtocol streamingProtocol)"
   name: "withStreamingProtocol(LiveEventInputProtocol streamingProtocol)"
   nameWithType: "LiveEventInput.withStreamingProtocol(LiveEventInputProtocol streamingProtocol)"
-  summary: "Set the streaming protocol for the Live Event.  This is specified at creation time and cannot be updated. Possible values include: 'FragmentedMP4', 'RTMP'."
+  summary: "Set the streaming protocol for the Live Event. This is specified at creation time and cannot be updated. Possible values include: 'FragmentedMP4', 'RTMP'."
   parameters:
   - description: "the streamingProtocol value to set"
     name: "streamingProtocol"

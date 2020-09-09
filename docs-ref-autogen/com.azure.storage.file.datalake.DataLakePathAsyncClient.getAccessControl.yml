@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakePathAsyncClient.getAccessControl()"
   name: "getAccessControl()"
   nameWithType: "DataLakePathAsyncClient.getAccessControl()"
-  summary: "Returns the access control for a resource.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.getAccessControl&#40;&#41;.subscribe&#40;\n     response -&gt; System.out.printf&#40;&quot;Access Control List: %s, Group: %s, Owner: %s, Permissions: %s&quot;,\n         PathAccessControlEntry.serializeList&#40;response.getAccessControlList&#40;&#41;&#41;, response.getGroup&#40;&#41;,\n         response.getOwner&#40;&#41;, response.getPermissions&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/getproperties\">Azure Docs</a></p>"
+  summary: "Returns the access control for a resource.\n\n**Code Samples**\n\n```java\nclient.getAccessControl().subscribe(\n     response -> System.out.printf(\"Access Control List: %s, Group: %s, Owner: %s, Permissions: %s\",\n         PathAccessControlEntry.serializeList(response.getAccessControlList()), response.getGroup(),\n         response.getOwner(), response.getPermissions()));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/getproperties"
   syntax: "public Mono<PathAccessControl> getAccessControl()"
   returns:
     description: "A reactive response containing the resource access control."

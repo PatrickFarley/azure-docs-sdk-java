@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdClientChannelPool.requestQueueLength()"
   name: "requestQueueLength()"
   nameWithType: "RntbdClientChannelPool.requestQueueLength()"
-  summary: "Gets the number of pending (asynchronous) channel acquisitions.\n <p>\n Pending acquisitions map to requests that have not yet been dispatched to a channel. Such requests are said to be\n queued. Hence the count of the the number of pending channel acquisitions is called the <code>\n requestQueueLength</code>."
+  summary: "Gets the number of pending (asynchronous) channel acquisitions.\n\nPending acquisitions map to requests that have not yet been dispatched to a channel. Such requests are said to be queued. Hence the count of the the number of pending channel acquisitions is called the `requestQueueLength`."
   syntax: "public int requestQueueLength()"
   returns:
     description: "the number of pending channel acquisitions."

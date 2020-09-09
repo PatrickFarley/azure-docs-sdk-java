@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiManagementServiceBaseProperties.createdAtUtc()"
   name: "createdAtUtc()"
   nameWithType: "ApiManagementServiceBaseProperties.createdAtUtc()"
-  summary: "Get creation UTC date of the API Management service.The date conforms to the following format: `yyyy-MM-ddTHH:mm:ssZ` as specified by the ISO 8601 standard."
+  summary: "Get creation UTC date of the API Management service.The date conforms to the following format: \\`yyyy-MM-ddTHH:mm:ssZ\\` as specified by the ISO 8601 standard."
   syntax: "public DateTime createdAtUtc()"
   returns:
     description: "the createdAtUtc value"

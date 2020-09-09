@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeNextAsync(String nextPageLink)"
   name: "listGlobalByResourceGroupForTopicTypeNextAsync(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeNextAsync(String nextPageLink)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listGlobalByResourceGroupForTopicTypeNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicTypeNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

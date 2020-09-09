@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskSkuTypes.ULTRA_SSD_LRS"
   name: "ULTRA_SSD_LRS"
   nameWithType: "DiskSkuTypes.ULTRA_SSD_LRS"
-  summary: "Static value ULTRA_SSD_LRS for DiskSkuTypes."
+  summary: "Static value ULTRA\\_SSD\\_LRS for DiskSkuTypes."
   syntax: "public static final DiskSkuTypes ULTRA_SSD_LRS"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.BlobChangefeedClientBuilder.BlobChangefeedClientBuilder(BlobServiceAsyncClient client)"
   name: "BlobChangefeedClientBuilder(BlobServiceAsyncClient client)"
   nameWithType: "BlobChangefeedClientBuilder.BlobChangefeedClientBuilder(BlobServiceAsyncClient client)"
-  summary: "Constructs the <xref uid=\"BlobChangefeedClientBuilder\" data-throw-if-not-resolved=\"false\">BlobChangefeedClientBuilder</xref> from from the URL and pipeline of the\n <xref uid=\"BlobServiceAsyncClient\" data-throw-if-not-resolved=\"false\">BlobServiceAsyncClient</xref>."
+  summary: "Constructs the <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedClientBuilder\" data-throw-if-not-resolved=\"false\">BlobChangefeedClientBuilder</xref> from from the URL and pipeline of the <xref uid=\"com.azure.storage.blob.BlobServiceAsyncClient\" data-throw-if-not-resolved=\"false\">BlobServiceAsyncClient</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref> whose properties are used to configure the builder."
     name: "client"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.BlobChangefeedClientBuilder.BlobChangefeedClientBuilder(BlobServiceClient client)"
   name: "BlobChangefeedClientBuilder(BlobServiceClient client)"
   nameWithType: "BlobChangefeedClientBuilder.BlobChangefeedClientBuilder(BlobServiceClient client)"
-  summary: "Constructs the <xref uid=\"BlobChangefeedClientBuilder\" data-throw-if-not-resolved=\"false\">BlobChangefeedClientBuilder</xref> from the URL and pipeline of the <xref uid=\"BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref>."
+  summary: "Constructs the <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedClientBuilder\" data-throw-if-not-resolved=\"false\">BlobChangefeedClientBuilder</xref> from the URL and pipeline of the <xref uid=\"com.azure.storage.blob.BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.BlobServiceClient\" data-throw-if-not-resolved=\"false\">BlobServiceClient</xref> whose properties are used to configure the builder."
     name: "client"

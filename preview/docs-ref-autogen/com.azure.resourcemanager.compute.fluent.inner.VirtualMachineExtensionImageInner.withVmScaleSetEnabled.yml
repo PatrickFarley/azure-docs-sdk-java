@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineExtensionImageInner.withVmScaleSetEnabled(Boolean vmScaleSetEnabled)"
   name: "withVmScaleSetEnabled(Boolean vmScaleSetEnabled)"
   nameWithType: "VirtualMachineExtensionImageInner.withVmScaleSetEnabled(Boolean vmScaleSetEnabled)"
-  summary: "Set the vmScaleSetEnabled property: Whether the extension can be used on xRP VMScaleSets. By default existing\n extensions are usable on scalesets, but there might be cases where a publisher wants to explicitly indicate the\n extension is only enabled for CRP VMs but not VMSS."
+  summary: "Set the vmScaleSetEnabled property: Whether the extension can be used on xRP VMScaleSets. By default existing extensions are usable on scalesets, but there might be cases where a publisher wants to explicitly indicate the extension is only enabled for CRP VMs but not VMSS."
   parameters:
   - description: "the vmScaleSetEnabled value to set."
     name: "vmScaleSetEnabled"

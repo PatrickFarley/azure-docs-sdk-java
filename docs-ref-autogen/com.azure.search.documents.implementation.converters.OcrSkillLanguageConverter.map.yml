@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.OcrSkillLanguageConverter.map(OcrSkillLanguage obj)"
   name: "map(OcrSkillLanguage obj)"
   nameWithType: "OcrSkillLanguageConverter.map(OcrSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage</xref> to enum\n <xref uid=\"OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">OcrSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">OcrSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage?alt=com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage&text=OcrSkillLanguage\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.OcrSkillLanguageConverter.map(OcrSkillLanguage obj)"
   name: "map(OcrSkillLanguage obj)"
   nameWithType: "OcrSkillLanguageConverter.map(OcrSkillLanguage obj)"
-  summary: "Maps from enum <xref uid=\"OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">OcrSkillLanguage</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">OcrSkillLanguage</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.OcrSkillLanguage</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.OcrSkillLanguage?alt=com.azure.search.documents.indexes.models.OcrSkillLanguage&text=OcrSkillLanguage\" data-throw-if-not-resolved=\"False\" />"

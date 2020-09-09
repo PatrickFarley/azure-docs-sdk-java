@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Longs.fromBytes(byte b1, byte b2, byte b3, byte b4, byte b5, byte b6, byte b7, byte b8)"
   name: "fromBytes(byte b1, byte b2, byte b3, byte b4, byte b5, byte b6, byte b7, byte b8)"
   nameWithType: "Longs.fromBytes(byte b1, byte b2, byte b3, byte b4, byte b5, byte b6, byte b7, byte b8)"
-  summary: "Returns the <code>long</code> value whose byte representation is the given 8 bytes, in big-endian\n order; equivalent to <code>Longs.fromByteArray(new byte[] {b1, b2, b3, b4, b5, b6, b7, b8})</code>."
+  summary: "Returns the `long` value whose byte representation is the given 8 bytes, in big-endian order; equivalent to `Longs.fromByteArray(new byte[] {b1, b2, b3, b4, b5, b6, b7, b8})`."
   parameters:
   - name: "b1"
     type: "<xref href=\"byte?alt=byte&text=byte\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.MessageProperty.RESERVED_PROPERTY_NAMES"
   name: "RESERVED_PROPERTY_NAMES"
   nameWithType: "MessageProperty.RESERVED_PROPERTY_NAMES"
-  summary: "A set of reserved property names. The reserved property names are\n interpreted in a meaningful way by the device and the IoT Hub."
+  summary: "A set of reserved property names. The reserved property names are interpreted in a meaningful way by the device and the IoT Hub."
   syntax: "public static final Set<String> RESERVED_PROPERTY_NAMES"
 type: "field"
 metadata: {}

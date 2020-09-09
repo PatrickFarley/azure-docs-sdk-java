@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.withAzureFilesIdentityBasedAuthentication(AzureFilesIdentityBasedAuthentication azureFilesIdentityBasedAuthentication)"
   name: "withAzureFilesIdentityBasedAuthentication(AzureFilesIdentityBasedAuthentication azureFilesIdentityBasedAuthentication)"
   nameWithType: "StorageAccountInner.withAzureFilesIdentityBasedAuthentication(AzureFilesIdentityBasedAuthentication azureFilesIdentityBasedAuthentication)"
-  summary: "Set the azureFilesIdentityBasedAuthentication property: Provides the identity based authentication settings for\n Azure Files."
+  summary: "Set the azureFilesIdentityBasedAuthentication property: Provides the identity based authentication settings for Azure Files."
   parameters:
   - description: "the azureFilesIdentityBasedAuthentication value to set."
     name: "azureFilesIdentityBasedAuthentication"

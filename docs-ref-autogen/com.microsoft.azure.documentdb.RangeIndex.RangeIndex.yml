@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.RangeIndex.RangeIndex(DataType dataType)"
   name: "RangeIndex(DataType dataType)"
   nameWithType: "RangeIndex.RangeIndex(DataType dataType)"
-  summary: "Initializes a new instance of the RangeIndex class with specified DataType.\n <p>\n Here is an example to instantiate RangeIndex class passing in the DataType:\n <pre>\n <code>\n\n RangeIndex rangeIndex = new RangeIndex(DataType.Number);\n\n </code>\n </pre>"
+  summary: "Initializes a new instance of the RangeIndex class with specified DataType.\n\nHere is an example to instantiate RangeIndex class passing in the DataType:\n\n```java\nRangeIndex rangeIndex = new RangeIndex(DataType.Number);\n```"
   parameters:
   - description: "the data type."
     name: "dataType"
@@ -18,7 +18,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.RangeIndex.RangeIndex(DataType dataType, int precision)"
   name: "RangeIndex(DataType dataType, int precision)"
   nameWithType: "RangeIndex.RangeIndex(DataType dataType, int precision)"
-  summary: "Initializes a new instance of the RangeIndex class with specified DataType and precision.\n <pre>\n <code>\n\n RangeIndex rangeIndex = new RangeIndex(DataType.Number, -1);\n\n </code>\n </pre>"
+  summary: "Initializes a new instance of the RangeIndex class with specified DataType and precision.\n\n```java\nRangeIndex rangeIndex = new RangeIndex(DataType.Number, -1);\n```"
   parameters:
   - description: "the data type of the RangeIndex"
     name: "dataType"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.resetTags(Map<String,Object> tagsMap)"
   name: "resetTags(Map<String,Object> tagsMap)"
   nameWithType: "TwinParser.resetTags(Map<String,Object> tagsMap)"
-  summary: "Reset the `tags` information in the collection, deleting all old tags and add all the new provided ones.\n Return a string with a json that contains a sub-collection of added tags."
+  summary: "Reset the \\`tags\\` information in the collection, deleting all old tags and add all the new provided ones. Return a string with a json that contains a sub-collection of added tags."
   parameters:
   - description: "- Map of `tags` to change the collection."
     name: "tagsMap"

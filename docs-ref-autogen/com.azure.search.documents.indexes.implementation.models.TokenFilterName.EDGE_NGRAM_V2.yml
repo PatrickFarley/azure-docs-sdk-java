@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.EDGE_NGRAM_V2"
   name: "EDGE_NGRAM_V2"
   nameWithType: "TokenFilterName.EDGE_NGRAM_V2"
-  summary: "Static value edgeNGram_v2 for TokenFilterName."
+  summary: "Static value edgeNGram\\_v2 for TokenFilterName."
   syntax: "public static final TokenFilterName EDGE_NGRAM_V2"
 type: "field"
 metadata: {}

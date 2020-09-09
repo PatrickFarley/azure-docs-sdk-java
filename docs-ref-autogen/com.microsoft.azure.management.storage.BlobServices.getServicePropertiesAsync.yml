@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.BlobServices.getServicePropertiesAsync(String resourceGroupName, String accountName)"
   name: "getServicePropertiesAsync(String resourceGroupName, String accountName)"
   nameWithType: "BlobServices.getServicePropertiesAsync(String resourceGroupName, String accountName)"
-  summary: "Gets the properties of a storage account\\u2019s Blob service, including properties for Storage Analytics and CORS (Cross-Origin Resource Sharing) rules."
+  summary: "Gets the properties of a storage account\\\\u2019s Blob service, including properties for Storage Analytics and CORS (Cross-Origin Resource Sharing) rules."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case insensitive."
     name: "resourceGroupName"

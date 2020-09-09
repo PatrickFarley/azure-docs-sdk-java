@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.sas.AccountSasResourceType.parse(String resourceTypesString)"
   name: "parse(String resourceTypesString)"
   nameWithType: "AccountSasResourceType.parse(String resourceTypesString)"
-  summary: "Creates an <code>AccountSasResourceType</code> from the specified resource types string. This method will throw an\n <code>IllegalArgumentException</code> if it encounters a character that does not correspond to a valid resource type."
+  summary: "Creates an `AccountSasResourceType` from the specified resource types string. This method will throw an `IllegalArgumentException` if it encounters a character that does not correspond to a valid resource type."
   parameters:
   - description: "A <code>String</code> which represents the <code>AccountSASResourceTypes</code>."
     name: "resourceTypesString"

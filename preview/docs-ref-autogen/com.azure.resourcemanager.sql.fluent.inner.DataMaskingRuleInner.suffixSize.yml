@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DataMaskingRuleInner.suffixSize()"
   name: "suffixSize()"
   nameWithType: "DataMaskingRuleInner.suffixSize()"
-  summary: "Get the suffixSize property: If maskingFunction is set to Text, the number of characters to show unmasked at the\n end of the string. Otherwise, this parameter will be ignored."
+  summary: "Get the suffixSize property: If maskingFunction is set to Text, the number of characters to show unmasked at the end of the string. Otherwise, this parameter will be ignored."
   syntax: "public String suffixSize()"
   returns:
     description: "the suffixSize value."

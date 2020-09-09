@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.dag.DAGraph<DataT,NodeT>.getNext()"
   name: "getNext()"
   nameWithType: "DAGraph<DataT,NodeT>.getNext()"
-  summary: "Gets next node in the DAG which has no dependency or all of it's dependencies are resolved and\n ready to be consumed."
+  summary: "Gets next node in the DAG which has no dependency or all of it's dependencies are resolved and ready to be consumed."
   syntax: "public NodeT getNext()"
   returns:
     description: "next node or null if all the nodes have been explored or no node is available at this moment."

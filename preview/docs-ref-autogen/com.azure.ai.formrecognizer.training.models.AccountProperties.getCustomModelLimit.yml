@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.training.models.AccountProperties.getCustomModelLimit()"
   name: "getCustomModelLimit()"
   nameWithType: "AccountProperties.getCustomModelLimit()"
-  summary: "Get the max number of models that can be trained for\n this account."
+  summary: "Get the max number of models that can be trained for this account."
   syntax: "public int getCustomModelLimit()"
   returns:
     description: "the limit value."

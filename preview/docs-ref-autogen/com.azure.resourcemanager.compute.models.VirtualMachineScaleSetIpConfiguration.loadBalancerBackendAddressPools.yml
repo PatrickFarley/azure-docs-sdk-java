@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetIpConfiguration.loadBalancerBackendAddressPools()"
   name: "loadBalancerBackendAddressPools()"
   nameWithType: "VirtualMachineScaleSetIpConfiguration.loadBalancerBackendAddressPools()"
-  summary: "Get the loadBalancerBackendAddressPools property: Specifies an array of references to backend address pools of\n load balancers. A scale set can reference backend address pools of one public and one internal load balancer.\n Multiple scale sets cannot use the same load balancer."
+  summary: "Get the loadBalancerBackendAddressPools property: Specifies an array of references to backend address pools of load balancers. A scale set can reference backend address pools of one public and one internal load balancer. Multiple scale sets cannot use the same load balancer."
   syntax: "public List<SubResource> loadBalancerBackendAddressPools()"
   returns:
     description: "the loadBalancerBackendAddressPools value."

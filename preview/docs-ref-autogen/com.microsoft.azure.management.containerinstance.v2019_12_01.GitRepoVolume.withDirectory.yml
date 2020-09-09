@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.v2019_12_01.GitRepoVolume.withDirectory(String directory)"
   name: "withDirectory(String directory)"
   nameWithType: "GitRepoVolume.withDirectory(String directory)"
-  summary: "Set target directory name. Must not contain or start with '..'.  If '.' is supplied, the volume directory will be the git repository.  Otherwise, if specified, the volume will contain the git repository in the subdirectory with the given name."
+  summary: "Set target directory name. Must not contain or start with '..'. If '.' is supplied, the volume directory will be the git repository. Otherwise, if specified, the volume will contain the git repository in the subdirectory with the given name."
   parameters:
   - description: "the directory value to set"
     name: "directory"

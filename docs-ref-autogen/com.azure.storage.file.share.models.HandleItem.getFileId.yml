@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.getFileId()"
   name: "getFileId()"
   nameWithType: "HandleItem.getFileId()"
-  summary: "Get the fileId property: FileId uniquely identifies the file or\n directory."
+  summary: "Get the fileId property: FileId uniquely identifies the file or directory."
   syntax: "public String getFileId()"
   returns:
     description: "the fileId value."

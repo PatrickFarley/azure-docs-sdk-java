@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.DetectedLanguage.DetectedLanguage(String name, String iso6391Name, double score)"
   name: "DetectedLanguage(String name, String iso6391Name, double score)"
   nameWithType: "DetectedLanguage.DetectedLanguage(String name, String iso6391Name, double score)"
-  summary: "Creates a <xref uid=\"DetectedLanguage\" data-throw-if-not-resolved=\"false\">DetectedLanguage</xref> model that describes detected language content."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.DetectedLanguage\" data-throw-if-not-resolved=\"false\">DetectedLanguage</xref> model that describes detected language content."
   parameters:
   - description: "The name of a detected language."
     name: "name"

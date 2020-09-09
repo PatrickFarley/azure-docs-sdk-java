@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventhub.Destination.withArchiveNameFormat(String archiveNameFormat)"
   name: "withArchiveNameFormat(String archiveNameFormat)"
   nameWithType: "Destination.withArchiveNameFormat(String archiveNameFormat)"
-  summary: "Set blob naming convention for archive, e.g. {Namespace}/{EventHub}/{PartitionId}/{Year}/{Month}/{Day}/{Hour}/{Minute}/{Second}. Here all the parameters (Namespace,EventHub .. etc) are mandatory irrespective of order."
+  summary: "Set blob naming convention for archive, e.g. \\{Namespace\\}/\\{EventHub\\}/\\{PartitionId\\}/\\{Year\\}/\\{Month\\}/\\{Day\\}/\\{Hour\\}/\\{Minute\\}/\\{Second\\}. Here all the parameters (Namespace,EventHub .. etc) are mandatory irrespective of order."
   parameters:
   - description: "the archiveNameFormat value to set"
     name: "archiveNameFormat"

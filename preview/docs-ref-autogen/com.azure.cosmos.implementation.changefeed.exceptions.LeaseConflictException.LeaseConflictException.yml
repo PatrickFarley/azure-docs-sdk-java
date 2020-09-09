@@ -8,13 +8,13 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseConflictException.LeaseConflictException()"
   name: "LeaseConflictException()"
   nameWithType: "LeaseConflictException.LeaseConflictException()"
-  summary: "Initializes a new instance of the @link LeaseConflictException} class."
+  summary: "Initializes a new instance of the @link LeaseConflictException\\} class."
   syntax: "public LeaseConflictException()"
 - uid: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseConflictException.LeaseConflictException(com.azure.cosmos.implementation.changefeed.Lease)"
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseConflictException.LeaseConflictException(Lease lease)"
   name: "LeaseConflictException(Lease lease)"
   nameWithType: "LeaseConflictException.LeaseConflictException(Lease lease)"
-  summary: "Initializes a new instance of the @link LeaseConflictException} class using the specified lease."
+  summary: "Initializes a new instance of the @link LeaseConflictException\\} class using the specified lease."
   parameters:
   - description: "an instance of a lost lease."
     name: "lease"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseConflictException.LeaseConflictException(Lease lease, String message)"
   name: "LeaseConflictException(Lease lease, String message)"
   nameWithType: "LeaseConflictException.LeaseConflictException(Lease lease, String message)"
-  summary: "Initializes a new instance of the @link LeaseConflictException} class using the specified lease."
+  summary: "Initializes a new instance of the @link LeaseConflictException\\} class using the specified lease."
   parameters:
   - description: "an instance of a lost lease."
     name: "lease"
@@ -37,7 +37,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseConflictException.LeaseConflictException(String message)"
   name: "LeaseConflictException(String message)"
   nameWithType: "LeaseConflictException.LeaseConflictException(String message)"
-  summary: "Initializes a new instance of the @link LeaseConflictException} class using error message."
+  summary: "Initializes a new instance of the @link LeaseConflictException\\} class using error message."
   parameters:
   - description: "the exception error message."
     name: "message"
@@ -47,7 +47,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.LeaseConflictException.LeaseConflictException(String message, Exception innerException)"
   name: "LeaseConflictException(String message, Exception innerException)"
   nameWithType: "LeaseConflictException.LeaseConflictException(String message, Exception innerException)"
-  summary: "Initializes a new instance of the @link LeaseConflictException} class using error message and inner exception."
+  summary: "Initializes a new instance of the @link LeaseConflictException\\} class using error message and inner exception."
   parameters:
   - description: "the exception error message."
     name: "message"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.complete(String lockToken)"
   name: "complete(String lockToken)"
   nameWithType: "ServiceBusReceiverClient.complete(String lockToken)"
-  summary: "Completes a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the\n service."
+  summary: "Completes a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.complete(String lockToken, ServiceBusTransactionContext transactionContext)"
   name: "complete(String lockToken, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverClient.complete(String lockToken, ServiceBusTransactionContext transactionContext)"
-  summary: "Completes a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the\n service."
+  summary: "Completes a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -31,7 +31,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.complete(String lockToken, String sessionId)"
   name: "complete(String lockToken, String sessionId)"
   nameWithType: "ServiceBusReceiverClient.complete(String lockToken, String sessionId)"
-  summary: "Completes a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the\n service."
+  summary: "Completes a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"
@@ -44,7 +44,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverClient.complete(String lockToken, String sessionId, ServiceBusTransactionContext transactionContext)"
   name: "complete(String lockToken, String sessionId, ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverClient.complete(String lockToken, String sessionId, ServiceBusTransactionContext transactionContext)"
-  summary: "Completes a <xref uid=\"ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the\n service."
+  summary: "Completes a <xref uid=\"com.azure.messaging.servicebus.ServiceBusReceivedMessage\" data-throw-if-not-resolved=\"false\">message</xref> using its lock token. This will delete the message from the service."
   parameters:
   - description: "Lock token of the message."
     name: "lockToken"

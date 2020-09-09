@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathPermissions.parseOctal(String octal)"
   name: "parseOctal(String octal)"
   nameWithType: "PathPermissions.parseOctal(String octal)"
-  summary: "Converts an octal string into a <code>PathPermissions</code> object.\n\n e.g. 1752\n 0/1 in the first digit indicates sticky bit. Each subsequent octal character can be expanded into three bits.\n In order of MSB to LSB, the bits represent read, write, execute."
+  summary: "Converts an octal string into a `PathPermissions` object. e.g. 1752 0/1 in the first digit indicates sticky bit. Each subsequent octal character can be expanded into three bits. In order of MSB to LSB, the bits represent read, write, execute."
   parameters:
   - description: "The octal representation of the permissions."
     name: "octal"

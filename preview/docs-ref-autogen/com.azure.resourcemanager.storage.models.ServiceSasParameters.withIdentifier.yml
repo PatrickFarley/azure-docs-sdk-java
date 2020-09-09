@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ServiceSasParameters.withIdentifier(String identifier)"
   name: "withIdentifier(String identifier)"
   nameWithType: "ServiceSasParameters.withIdentifier(String identifier)"
-  summary: "Set the identifier property: A unique value up to 64 characters in length that correlates to an access policy\n specified for the container, queue, or table."
+  summary: "Set the identifier property: A unique value up to 64 characters in length that correlates to an access policy specified for the container, queue, or table."
   parameters:
   - description: "the identifier value to set."
     name: "identifier"

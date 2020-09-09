@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.id()"
   name: "id()"
   nameWithType: "EventDataInner.id()"
-  summary: "Get the id property: the Id of this event as required by ARM for RBAC. It contains the EventDataID and a\n timestamp information."
+  summary: "Get the id property: the Id of this event as required by ARM for RBAC. It contains the EventDataID and a timestamp information."
   syntax: "public String id()"
   returns:
     description: "the id value."

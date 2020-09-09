@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listSharedAccessKeysAsync(String resourceGroupName, String domainName)"
   name: "listSharedAccessKeysAsync(String resourceGroupName, String domainName)"
   nameWithType: "DomainsInner.listSharedAccessKeysAsync(String resourceGroupName, String domainName)"
-  summary: "List keys for a domain.\n List the two keys used to publish to a domain."
+  summary: "List keys for a domain. List the two keys used to publish to a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listSharedAccessKeysAsync(String resourceGroupName, String domainName, ServiceCallback<DomainSharedAccessKeysInner> serviceCallback)"
   name: "listSharedAccessKeysAsync(String resourceGroupName, String domainName, ServiceCallback<DomainSharedAccessKeysInner> serviceCallback)"
   nameWithType: "DomainsInner.listSharedAccessKeysAsync(String resourceGroupName, String domainName, ServiceCallback<DomainSharedAccessKeysInner> serviceCallback)"
-  summary: "List keys for a domain.\n List the two keys used to publish to a domain."
+  summary: "List keys for a domain. List the two keys used to publish to a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

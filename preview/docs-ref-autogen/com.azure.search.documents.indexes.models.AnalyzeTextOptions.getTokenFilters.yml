@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.AnalyzeTextOptions.getTokenFilters()"
   name: "getTokenFilters()"
   nameWithType: "AnalyzeTextOptions.getTokenFilters()"
-  summary: "Get the tokenFilters property: An optional list of token filters to use\n when breaking the given text. This parameter can only be set when using\n the tokenizer parameter."
+  summary: "Get the tokenFilters property: An optional list of token filters to use when breaking the given text. This parameter can only be set when using the tokenizer parameter."
   syntax: "public List<TokenFilterName> getTokenFilters()"
   returns:
     description: "the tokenFilters value."

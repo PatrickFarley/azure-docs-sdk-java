@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.KeyPhraseExtractionSkill.setMaxKeyPhraseCount(Integer maxKeyPhraseCount)"
   name: "setMaxKeyPhraseCount(Integer maxKeyPhraseCount)"
   nameWithType: "KeyPhraseExtractionSkill.setMaxKeyPhraseCount(Integer maxKeyPhraseCount)"
-  summary: "Set the maxKeyPhraseCount property: A number indicating how many key\n phrases to return. If absent, all identified key phrases will be\n returned."
+  summary: "Set the maxKeyPhraseCount property: A number indicating how many key phrases to return. If absent, all identified key phrases will be returned."
   parameters:
   - description: "the maxKeyPhraseCount value to set."
     name: "maxKeyPhraseCount"

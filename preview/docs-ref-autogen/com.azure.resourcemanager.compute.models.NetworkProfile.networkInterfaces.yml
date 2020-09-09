@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.NetworkProfile.networkInterfaces()"
   name: "networkInterfaces()"
   nameWithType: "NetworkProfile.networkInterfaces()"
-  summary: "Get the networkInterfaces property: Specifies the list of resource Ids for the network interfaces associated with\n the virtual machine."
+  summary: "Get the networkInterfaces property: Specifies the list of resource Ids for the network interfaces associated with the virtual machine."
   syntax: "public List<NetworkInterfaceReference> networkInterfaces()"
   returns:
     description: "the networkInterfaces value."

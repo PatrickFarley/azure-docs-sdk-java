@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobAsyncClient.getPageBlobAsyncClient()"
   name: "getPageBlobAsyncClient()"
   nameWithType: "BlobAsyncClient.getPageBlobAsyncClient()"
-  summary: "Creates a new <xref uid=\"PageBlobAsyncClient\" data-throw-if-not-resolved=\"false\">PageBlobAsyncClient</xref> associated with this blob."
+  summary: "Creates a new <xref uid=\"com.azure.storage.blob.specialized.PageBlobAsyncClient\" data-throw-if-not-resolved=\"false\">PageBlobAsyncClient</xref> associated with this blob."
   syntax: "public PageBlobAsyncClient getPageBlobAsyncClient()"
   returns:
     description: "A <xref uid=\"com.azure.storage.blob.specialized.PageBlobAsyncClient\" data-throw-if-not-resolved=\"false\">PageBlobAsyncClient</xref> associated with this blob."

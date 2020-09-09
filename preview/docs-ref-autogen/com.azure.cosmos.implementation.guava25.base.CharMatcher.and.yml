@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.and(CharMatcher other)"
   name: "and(CharMatcher other)"
   nameWithType: "CharMatcher.and(CharMatcher other)"
-  summary: "Returns a matcher that matches any character matched by both this matcher and <code>other</code>."
+  summary: "Returns a matcher that matches any character matched by both this matcher and `other`."
   parameters:
   - name: "other"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.CharMatcher?alt=com.azure.cosmos.implementation.guava25.base.CharMatcher&text=CharMatcher\" data-throw-if-not-resolved=\"False\" />"

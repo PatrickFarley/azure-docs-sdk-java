@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedInstanceUpdate.managedInstanceCreateMode()"
   name: "managedInstanceCreateMode()"
   nameWithType: "ManagedInstanceUpdate.managedInstanceCreateMode()"
-  summary: "Get the managedInstanceCreateMode property: Specifies the mode of database creation.\n\n <p>Default: Regular instance creation.\n\n <p>Restore: Creates an instance by restoring a set of backups to specific point in time. RestorePointInTime and\n SourceManagedInstanceId must be specified."
+  summary: "Get the managedInstanceCreateMode property: Specifies the mode of database creation.\n\nDefault: Regular instance creation.\n\nRestore: Creates an instance by restoring a set of backups to specific point in time. RestorePointInTime and SourceManagedInstanceId must be specified."
   syntax: "public ManagedServerCreateMode managedInstanceCreateMode()"
   returns:
     description: "the managedInstanceCreateMode value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.PushSettingsInner.withTagWhitelistJson(String tagWhitelistJson)"
   name: "withTagWhitelistJson(String tagWhitelistJson)"
   nameWithType: "PushSettingsInner.withTagWhitelistJson(String tagWhitelistJson)"
-  summary: "Set the tagWhitelistJson property: Gets or sets a JSON string containing a list of tags that are whitelisted for\n use by the push registration endpoint."
+  summary: "Set the tagWhitelistJson property: Gets or sets a JSON string containing a list of tags that are whitelisted for use by the push registration endpoint."
   parameters:
   - description: "the tagWhitelistJson value to set."
     name: "tagWhitelistJson"

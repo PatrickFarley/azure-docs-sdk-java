@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.VnetRouteInner.withEndAddress(String endAddress)"
   name: "withEndAddress(String endAddress)"
   nameWithType: "VnetRouteInner.withEndAddress(String endAddress)"
-  summary: "Set the endAddress property: The ending address for this route. If the start address is specified in CIDR\n notation, this must be omitted."
+  summary: "Set the endAddress property: The ending address for this route. If the start address is specified in CIDR notation, this must be omitted."
   parameters:
   - description: "the endAddress value to set."
     name: "endAddress"

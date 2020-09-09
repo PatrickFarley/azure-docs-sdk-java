@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.removeMapping(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, AbstractHashedMap.HashEntry<K,V> previous)"
   name: "removeMapping(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, AbstractHashedMap.HashEntry<K,V> previous)"
   nameWithType: "AbstractHashedMap<K,V>.removeMapping(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, AbstractHashedMap.HashEntry<K,V> previous)"
-  summary: "Removes a mapping from the map.\n <p>\n This implementation calls <code>removeEntry()</code> and <code>destroyEntry()</code>.\n It also handles changes to <code>modCount</code> and <code>size</code>.\n Subclasses could override to fully control removals from the map."
+  summary: "Removes a mapping from the map.\n\nThis implementation calls `removeEntry()` and `destroyEntry()`. It also handles changes to `modCount` and `size`. Subclasses could override to fully control removals from the map."
   parameters:
   - description: "the entry to remove"
     name: "entry"

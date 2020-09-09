@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.specialized.ShareLeaseAsyncClient.breakLease()"
   name: "breakLease()"
   nameWithType: "ShareLeaseAsyncClient.breakLease()"
-  summary: "Breaks the previously acquired lease, if it exists. Leases will break immediately.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.breakLease&#40;&#41;.subscribe&#40;response -&gt;\n     System.out.println&#40;&quot;The lease has been successfully broken&quot;&#41;&#41;;\n </pre>"
+  summary: "Breaks the previously acquired lease, if it exists. Leases will break immediately.\n\n**Code Samples**\n\n```java\nclient.breakLease().subscribe(response ->\n     System.out.println(\"The lease has been successfully broken\"));\n```"
   syntax: "public Mono<Void> breakLease()"
   returns:
     description: "A reactive response signalling completion."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.compareTo(Pair<L,R> other)"
   name: "compareTo(Pair<L,R> other)"
   nameWithType: "Pair<L,R>.compareTo(Pair<L,R> other)"
-  summary: "<p>Compares the pair based on the left element followed by the right element.\n The types must be <code>Comparable</code>.</p>"
+  summary: "Compares the pair based on the left element followed by the right element. The types must be `Comparable`."
   parameters:
   - description: "the other pair, not null"
     name: "other"

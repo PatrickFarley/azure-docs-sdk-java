@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.fromInterface()"
   name: "fromInterface()"
   nameWithType: "EthernetAddress.fromInterface()"
-  summary: "Factory method that locates a network interface that has\n a suitable mac address (ethernet cards, and things that\n emulate one), and return that address. If there are multiple\n applicable interfaces, one of them is returned; which one\n is returned is not specified.\n Method is meant for accessing an address needed to construct\n generator for time+location based UUID generation method."
+  summary: "Factory method that locates a network interface that has a suitable mac address (ethernet cards, and things that emulate one), and return that address. If there are multiple applicable interfaces, one of them is returned; which one is returned is not specified. Method is meant for accessing an address needed to construct generator for time+location based UUID generation method."
   syntax: "public static EthernetAddress fromInterface()"
   returns:
     description: "Ethernet address of one of interfaces system has;\n    not including local or loopback addresses; if one exists,\n    null if no such interfaces are found."

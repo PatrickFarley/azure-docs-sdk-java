@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlockBlobClient.stageBlockFromUrl(String base64BlockId, String sourceUrl, BlobRange sourceRange)"
   name: "stageBlockFromUrl(String base64BlockId, String sourceUrl, BlobRange sourceRange)"
   nameWithType: "BlockBlobClient.stageBlockFromUrl(String base64BlockId, String sourceUrl, BlobRange sourceRange)"
-  summary: "Creates a new block to be committed as part of a blob where the contents are read from a URL. For more\n information, see the <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/put-block-from-url\">Azure\n Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.stageBlockFromUrl&#40;base64BlockId, sourceUrl, new BlobRange&#40;offset, count&#41;&#41;;\n </pre>"
+  summary: "Creates a new block to be committed as part of a blob where the contents are read from a URL. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nclient.stageBlockFromUrl(base64BlockId, sourceUrl, new BlobRange(offset, count));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/put-block-from-url"
   parameters:
   - description: "A Base64 encoded <code>String</code> that specifies the ID for this block. Note that all block\n ids for a given blob must be the same length."
     name: "base64BlockId"

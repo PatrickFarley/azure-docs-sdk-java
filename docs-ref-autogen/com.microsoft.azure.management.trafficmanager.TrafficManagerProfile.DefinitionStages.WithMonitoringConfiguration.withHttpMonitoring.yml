@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerProfile.DefinitionStages.WithMonitoringConfiguration.withHttpMonitoring()"
   name: "withHttpMonitoring()"
   nameWithType: "TrafficManagerProfile.DefinitionStages.WithMonitoringConfiguration.withHttpMonitoring()"
-  summary: "Specify to use HTTP monitoring for the endpoints that checks for HTTP 200 response from the path '/'\n at regular intervals, using port 80."
+  summary: "Specify to use HTTP monitoring for the endpoints that checks for HTTP 200 response from the path '/' at regular intervals, using port 80."
   syntax: "public abstract TrafficManagerProfile.DefinitionStages.WithCreate withHttpMonitoring()"
   returns:
     description: "the next stage of the definition"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerProfile.DefinitionStages.WithMonitoringConfiguration.withHttpMonitoring(int port, String path)"
   name: "withHttpMonitoring(int port, String path)"
   nameWithType: "TrafficManagerProfile.DefinitionStages.WithMonitoringConfiguration.withHttpMonitoring(int port, String path)"
-  summary: "Specify the HTTP monitoring for the endpoints that checks for HTTP 200 response from the specified\n path at regular intervals, using the specified port."
+  summary: "Specify the HTTP monitoring for the endpoints that checks for HTTP 200 response from the specified path at regular intervals, using the specified port."
   parameters:
   - description: "the monitoring port"
     name: "port"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedSet.Builder<E>.add(E element)"
   name: "add(E element)"
   nameWithType: "ImmutableSortedSet.Builder<E>.add(E element)"
-  summary: "Adds <code>element</code> to the <code>ImmutableSortedSet</code>. If the <code>ImmutableSortedSet</code>\n already contains <code>element</code>, then <code>add</code> has no effect. (only the previously added\n element is retained)."
+  summary: "Adds `element` to the `ImmutableSortedSet`. If the `ImmutableSortedSet` already contains `element`, then `add` has no effect. (only the previously added element is retained)."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableSet.Builder.add(E)"
   parameters:
   - description: "the element to add"
@@ -22,7 +22,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedSet.Builder<E>.add(E[] elements)"
   name: "add(E[] elements)"
   nameWithType: "ImmutableSortedSet.Builder<E>.add(E[] elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableSortedSet</code>, ignoring duplicate\n elements (only the first duplicate element is added)."
+  summary: "Adds each element of `elements` to the `ImmutableSortedSet`, ignoring duplicate elements (only the first duplicate element is added)."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableSet.Builder.add(E...)"
   parameters:
   - description: "the elements to add"

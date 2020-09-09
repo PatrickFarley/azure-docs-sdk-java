@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.ContainerServiceInner.servicePrincipalProfile()"
   name: "servicePrincipalProfile()"
   nameWithType: "ContainerServiceInner.servicePrincipalProfile()"
-  summary: "Get the servicePrincipalProfile property: Information about a service principal identity for the cluster to use\n for manipulating Azure APIs. Exact one of secret or keyVaultSecretRef need to be specified."
+  summary: "Get the servicePrincipalProfile property: Information about a service principal identity for the cluster to use for manipulating Azure APIs. Exact one of secret or keyVaultSecretRef need to be specified."
   syntax: "public ContainerServicePrincipalProfile servicePrincipalProfile()"
   returns:
     description: "the servicePrincipalProfile value."

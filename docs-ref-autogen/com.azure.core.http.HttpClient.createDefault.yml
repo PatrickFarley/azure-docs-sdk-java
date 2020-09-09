@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.HttpClient.createDefault()"
   name: "createDefault()"
   nameWithType: "HttpClient.createDefault()"
-  summary: "Create default <xref uid=\"HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> instance."
+  summary: "Create default <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> instance."
   syntax: "public static HttpClient createDefault()"
   returns:
     description: "A new instance of the <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref>."

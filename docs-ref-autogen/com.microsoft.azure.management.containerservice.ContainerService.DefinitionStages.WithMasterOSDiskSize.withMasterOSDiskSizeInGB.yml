@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerService.DefinitionStages.WithMasterOSDiskSize.withMasterOSDiskSizeInGB(int osDiskSizeInGB)"
   name: "withMasterOSDiskSizeInGB(int osDiskSizeInGB)"
   nameWithType: "ContainerService.DefinitionStages.WithMasterOSDiskSize.withMasterOSDiskSizeInGB(int osDiskSizeInGB)"
-  summary: "OS Disk Size in GB to be used for every machine in the master pool.\n\n If you specify 0, the default osDisk size will be used according to the vmSize specified."
+  summary: "OS Disk Size in GB to be used for every machine in the master pool. If you specify 0, the default osDisk size will be used according to the vmSize specified."
   parameters:
   - description: "OS Disk Size in GB to be used for every machine in the master pool"
     name: "osDiskSizeInGB"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.websearch.BingWebSearch.search()"
   name: "search()"
   nameWithType: "BingWebSearch.search()"
-  summary: "The Web Search API lets you send a search query to Bing and get back search results that include links to\n   webpages, images, and more."
+  summary: "The Web Search API lets you send a search query to Bing and get back search results that include links to webpages, images, and more."
   syntax: "public abstract BingWebSearch.BingWebsSearchDefinitionStages.WithQuery search()"
   returns:
     description: "the first stage of the search call"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.websearch.BingWebSearch.search(String query, SearchOptionalParameter searchOptionalParameter)"
   name: "search(String query, SearchOptionalParameter searchOptionalParameter)"
   nameWithType: "BingWebSearch.search(String query, SearchOptionalParameter searchOptionalParameter)"
-  summary: "The Web Search API lets you send a search query to Bing and get back search results that include links to\n   webpages, images, and more."
+  summary: "The Web Search API lets you send a search query to Bing and get back search results that include links to webpages, images, and more."
   parameters:
   - description: "The user's search query term. The term may not be empty. The term may contain Bing Advanced Operators. For\n   example, to limit results to a specific domain, use the site: operator."
     name: "query"

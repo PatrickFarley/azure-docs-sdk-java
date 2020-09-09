@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClient.deleteSubscriptionWithResponse(String topicName, String subscriptionName, Context context)"
   name: "deleteSubscriptionWithResponse(String topicName, String subscriptionName, Context context)"
   nameWithType: "ServiceBusManagementClient.deleteSubscriptionWithResponse(String topicName, String subscriptionName, Context context)"
-  summary: "Deletes a subscription the matching <code>subscriptionName</code> and returns the HTTP response."
+  summary: "Deletes a subscription the matching `subscriptionName` and returns the HTTP response."
   parameters:
   - description: "Name of topic associated with subscription to delete."
     name: "topicName"

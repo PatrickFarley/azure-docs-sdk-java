@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClientBuilder.addPolicy(HttpPipelinePolicy policy)"
   name: "addPolicy(HttpPipelinePolicy policy)"
   nameWithType: "SearchIndexClientBuilder.addPolicy(HttpPipelinePolicy policy)"
-  summary: "Adds a pipeline policy to apply to each request sent.\n <p>\n This method may be called multiple times, each time it is called the policy will be added to the end of added\n policy list. All policies will be added after the retry policy."
+  summary: "Adds a pipeline policy to apply to each request sent.\n\nThis method may be called multiple times, each time it is called the policy will be added to the end of added policy list. All policies will be added after the retry policy."
   parameters:
   - description: "The pipeline policies to added to the policy list."
     name: "policy"

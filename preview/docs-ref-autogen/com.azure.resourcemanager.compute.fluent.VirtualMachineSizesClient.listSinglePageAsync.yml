@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineSizesClient.listSinglePageAsync(String location)"
   name: "listSinglePageAsync(String location)"
   nameWithType: "VirtualMachineSizesClient.listSinglePageAsync(String location)"
-  summary: "This API is deprecated. Use [Resources\n Skus](https://docs.microsoft.com/en-us/rest/api/compute/resourceskus/list)."
+  summary: "This API is deprecated. Use \\[Resources Skus\\](https://docs.microsoft.com/en-us/rest/api/compute/resourceskus/list)."
   parameters:
   - description: "The location upon which virtual-machine-sizes is queried."
     name: "location"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineSizesClient.listSinglePageAsync(String location, Context context)"
   name: "listSinglePageAsync(String location, Context context)"
   nameWithType: "VirtualMachineSizesClient.listSinglePageAsync(String location, Context context)"
-  summary: "This API is deprecated. Use [Resources\n Skus](https://docs.microsoft.com/en-us/rest/api/compute/resourceskus/list)."
+  summary: "This API is deprecated. Use \\[Resources Skus\\](https://docs.microsoft.com/en-us/rest/api/compute/resourceskus/list)."
   parameters:
   - description: "The location upon which virtual-machine-sizes is queried."
     name: "location"

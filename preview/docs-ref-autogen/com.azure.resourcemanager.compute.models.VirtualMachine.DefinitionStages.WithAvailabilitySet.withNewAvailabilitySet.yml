@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithAvailabilitySet.withNewAvailabilitySet(Creatable<AvailabilitySet> creatable)"
   name: "withNewAvailabilitySet(Creatable<AvailabilitySet> creatable)"
   nameWithType: "VirtualMachine.DefinitionStages.WithAvailabilitySet.withNewAvailabilitySet(Creatable<AvailabilitySet> creatable)"
-  summary: "Specifies definition of a not-yet-created availability set definition to associate the virtual machine\n with."
+  summary: "Specifies definition of a not-yet-created availability set definition to associate the virtual machine with."
   parameters:
   - description: "a creatable availability set definition"
     name: "creatable"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.HasSslCertificate.DefinitionStages.WithSslCertificate<ReturnT>.withSslCertificate(String name)"
   name: "withSslCertificate(String name)"
   nameWithType: "HasSslCertificate.DefinitionStages.WithSslCertificate<ReturnT>.withSslCertificate(String name)"
-  summary: "Specifies an SSL certificate to associate with this resource.\n\n <p>If the certificate does not exist yet, it must be defined in the optional part of the parent resource\n definition."
+  summary: "Specifies an SSL certificate to associate with this resource.\n\nIf the certificate does not exist yet, it must be defined in the optional part of the parent resource definition."
   parameters:
   - description: "the name of an existing SSL certificate."
     name: "name"

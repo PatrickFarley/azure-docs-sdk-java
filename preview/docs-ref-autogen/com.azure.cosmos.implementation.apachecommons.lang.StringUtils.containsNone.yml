@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.containsNone(CharSequence cs, char[] searchChars)"
   name: "containsNone(CharSequence cs, char[] searchChars)"
   nameWithType: "StringUtils.containsNone(CharSequence cs, char[] searchChars)"
-  summary: "<p>Checks that the CharSequence does not contain certain characters.</p>\n\n <p>A <code>null</code> CharSequence will return <code>true</code>.\n A <code>null</code> invalid character array will return <code>true</code>.\n An empty CharSequence (length()=0) always returns true.</p>\n\n <pre>\n StringUtils.containsNone(null, *)       = true\n StringUtils.containsNone(*, null)       = true\n StringUtils.containsNone(\"\", *)         = true\n StringUtils.containsNone(\"ab\", '')      = true\n StringUtils.containsNone(\"abab\", 'xyz') = true\n StringUtils.containsNone(\"ab1\", 'xyz')  = true\n StringUtils.containsNone(\"abz\", 'xyz')  = false\n </pre>"
+  summary: "Checks that the CharSequence does not contain certain characters.\n\nA `null` CharSequence will return `true`. A `null` invalid character array will return `true`. An empty CharSequence (length()=0) always returns true.\n\n```java\nStringUtils.containsNone(null, *)       = true\n StringUtils.containsNone(*, null)       = true\n StringUtils.containsNone(\"\", *)         = true\n StringUtils.containsNone(\"ab\", '')      = true\n StringUtils.containsNone(\"abab\", 'xyz') = true\n StringUtils.containsNone(\"ab1\", 'xyz')  = true\n StringUtils.containsNone(\"abz\", 'xyz')  = false\n```"
   parameters:
   - description: "the CharSequence to check, may be null"
     name: "cs"

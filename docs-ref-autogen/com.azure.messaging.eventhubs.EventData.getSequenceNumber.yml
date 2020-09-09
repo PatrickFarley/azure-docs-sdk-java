@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventData.getSequenceNumber()"
   name: "getSequenceNumber()"
   nameWithType: "EventData.getSequenceNumber()"
-  summary: "Gets the sequence number assigned to the event when it was enqueued in the associated Event Hub partition. This\n is unique for every message received in the Event Hub partition. This is only present on a <b>received</b>\n <xref uid=\"EventData\" data-throw-if-not-resolved=\"false\">EventData</xref>."
+  summary: "Gets the sequence number assigned to the event when it was enqueued in the associated Event Hub partition. This is unique for every message received in the Event Hub partition. This is only present on a **received** <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">EventData</xref>."
   syntax: "public Long getSequenceNumber()"
   returns:
     description: "The sequence number for this event. <code>null</code> if the <xref uid=\"com.azure.messaging.eventhubs.EventData\" data-throw-if-not-resolved=\"false\">EventData</xref> was not received from Event\n     Hubs service."

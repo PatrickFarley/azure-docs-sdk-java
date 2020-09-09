@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.listSynonymMapNames()"
   name: "listSynonymMapNames()"
   nameWithType: "SearchIndexClient.listSynonymMapNames()"
-  summary: "Lists all synonym maps names for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all synonym map names. </p>\n\n <pre>\n PagedIterable&lt;String&gt; synonymMaps = searchIndexClient.listSynonymMapNames&#40;&#41;;\n for &#40;String synonymMap: synonymMaps&#41; &#123;\n     System.out.printf&#40;&quot;The synonymMap name is %s.%n&quot;, synonymMap&#41;;\n &#125;\n </pre>"
+  summary: "Lists all synonym maps names for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all synonym map names.\n\n```java\nPagedIterable<String> synonymMaps = searchIndexClient.listSynonymMapNames();\n for (String synonymMap: synonymMaps) {\n     System.out.printf(\"The synonymMap name is %s.%n\", synonymMap);\n }\n```"
   syntax: "public PagedIterable<String> listSynonymMapNames()"
   returns:
     description: "the list of synonym maps."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.listSynonymMapNames(Context context)"
   name: "listSynonymMapNames(Context context)"
   nameWithType: "SearchIndexClient.listSynonymMapNames(Context context)"
-  summary: "Lists all synonym maps names for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all synonym map names. </p>\n\n <pre>\n PagedIterable&lt;String&gt; synonymMaps = searchIndexClient.listIndexNames&#40;new Context&#40;key1, value1&#41;&#41;;\n System.out.println&#40;&quot;The status code of the response is&quot;\n     + synonymMaps.iterableByPage&#40;&#41;.iterator&#40;&#41;.next&#40;&#41;.getStatusCode&#40;&#41;&#41;;\n for &#40;String synonymMapNames: synonymMaps&#41; &#123;\n     System.out.printf&#40;&quot;The synonymMap name is %s.%n&quot;, synonymMapNames&#41;;\n &#125;\n </pre>"
+  summary: "Lists all synonym maps names for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all synonym map names.\n\n```java\nPagedIterable<String> synonymMaps = searchIndexClient.listIndexNames(new Context(key1, value1));\n System.out.println(\"The status code of the response is\"\n     + synonymMaps.iterableByPage().iterator().next().getStatusCode());\n for (String synonymMapNames: synonymMaps) {\n     System.out.printf(\"The synonymMap name is %s.%n\", synonymMapNames);\n }\n```"
   parameters:
   - description: "additional context that is passed through the HTTP pipeline during the service call"
     name: "context"

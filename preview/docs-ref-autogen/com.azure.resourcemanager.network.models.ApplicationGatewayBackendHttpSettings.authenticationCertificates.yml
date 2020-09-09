@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayBackendHttpSettings.authenticationCertificates()"
   name: "authenticationCertificates()"
   nameWithType: "ApplicationGatewayBackendHttpSettings.authenticationCertificates()"
-  summary: "Get the authenticationCertificates property: Array of references to application gateway authentication\n certificates."
+  summary: "Get the authenticationCertificates property: Array of references to application gateway authentication certificates."
   syntax: "public List<SubResource> authenticationCertificates()"
   returns:
     description: "the authenticationCertificates value."

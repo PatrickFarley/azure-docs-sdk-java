@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.SpatialIndex.SpatialIndex(DataType dataType)"
   name: "SpatialIndex(DataType dataType)"
   nameWithType: "SpatialIndex.SpatialIndex(DataType dataType)"
-  summary: "Initializes a new instance of the SpatialIndex class.\n <p>\n Here is an example to instantiate SpatialIndex class passing in the DataType\n <pre>\n <code>\n\n SpatialIndex spatialIndex = new SpatialIndex(DataType.Point);\n\n </code>\n </pre>"
+  summary: "Initializes a new instance of the SpatialIndex class.\n\nHere is an example to instantiate SpatialIndex class passing in the DataType\n\n```java\nSpatialIndex spatialIndex = new SpatialIndex(DataType.Point);\n```"
   parameters:
   - description: "specifies the target data type for the index path specification."
     name: "dataType"

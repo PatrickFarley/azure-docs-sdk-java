@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getCopySource()"
   name: "getCopySource()"
   nameWithType: "ShareFileDownloadHeaders.getCopySource()"
-  summary: "Get the copySource property: URL up to 2KB in length that specifies the\n source file used in the last attempted Copy File operation where this\n file was the destination file."
+  summary: "Get the copySource property: URL up to 2KB in length that specifies the source file used in the last attempted Copy File operation where this file was the destination file."
   syntax: "public String getCopySource()"
   returns:
     description: "the copySource value."

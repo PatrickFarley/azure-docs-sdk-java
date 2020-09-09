@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.SnapshotSkuType.STANDARD_LRS"
   name: "STANDARD_LRS"
   nameWithType: "SnapshotSkuType.STANDARD_LRS"
-  summary: "Static value STANDARD_LRS for SnapshotSkuType."
+  summary: "Static value STANDARD\\_LRS for SnapshotSkuType."
   syntax: "public static final SnapshotSkuType STANDARD_LRS"
 type: "field"
 metadata: {}

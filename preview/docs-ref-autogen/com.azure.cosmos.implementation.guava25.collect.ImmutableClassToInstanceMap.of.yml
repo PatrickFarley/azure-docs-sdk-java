@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableClassToInstanceMap<B>.<B,T>of(Class<T> type, T value)"
   name: "<B,T>of(Class<T> type, T value)"
   nameWithType: "ImmutableClassToInstanceMap<B>.<B,T>of(Class<T> type, T value)"
-  summary: "Returns an <code>ImmutableClassToInstanceMap</code> containing a single entry."
+  summary: "Returns an `ImmutableClassToInstanceMap` containing a single entry."
   parameters:
   - name: "type"
     type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableClassToInstanceMap<B>.<B>of()"
   name: "<B>of()"
   nameWithType: "ImmutableClassToInstanceMap<B>.<B>of()"
-  summary: "Returns an empty <code>ImmutableClassToInstanceMap</code>."
+  summary: "Returns an empty `ImmutableClassToInstanceMap`."
   syntax: "public static ImmutableClassToInstanceMap<B> <B>of()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.ImmutableClassToInstanceMap?alt=com.azure.cosmos.implementation.guava25.collect.ImmutableClassToInstanceMap&text=ImmutableClassToInstanceMap\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"B?alt=B&text=B\" data-throw-if-not-resolved=\"False\" />&gt;"

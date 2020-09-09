@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.setSessionId(String sessionId)"
   name: "setSessionId(String sessionId)"
   nameWithType: "HandleItem.setSessionId(String sessionId)"
-  summary: "Set the sessionId property: SMB session ID in context of which the file\n handle was opened."
+  summary: "Set the sessionId property: SMB session ID in context of which the file handle was opened."
   parameters:
   - description: "the sessionId value to set."
     name: "sessionId"

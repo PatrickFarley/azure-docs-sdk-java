@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.HostnameConfiguration.withKeyVaultId(String keyVaultId)"
   name: "withKeyVaultId(String keyVaultId)"
   nameWithType: "HostnameConfiguration.withKeyVaultId(String keyVaultId)"
-  summary: "Set url to the KeyVault Secret containing the Ssl Certificate. If absolute Url containing version is provided, auto-update of ssl certificate will not work. This requires Api Management service to be configured with MSI. The secret should be of type *application/x-pkcs12*."
+  summary: "Set url to the KeyVault Secret containing the Ssl Certificate. If absolute Url containing version is provided, auto-update of ssl certificate will not work. This requires Api Management service to be configured with MSI. The secret should be of type \\*application/x-pkcs12\\*."
   parameters:
   - description: "the keyVaultId value to set"
     name: "keyVaultId"

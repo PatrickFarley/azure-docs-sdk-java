@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureBlobFileAttributeView.setBlobHttpHeaders(BlobHttpHeaders headers)"
   name: "setBlobHttpHeaders(BlobHttpHeaders headers)"
   nameWithType: "AzureBlobFileAttributeView.setBlobHttpHeaders(BlobHttpHeaders headers)"
-  summary: "Sets the <xref uid=\"BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref> as an atomic operation.\n <p>\n See <xref uid=\"BlobClientBase#setHttpHeaders(BlobHttpHeaders)\" data-throw-if-not-resolved=\"false\">BlobClientBase#setHttpHeaders(BlobHttpHeaders)</xref> for more information."
+  summary: "Sets the <xref uid=\"com.azure.storage.blob.models.BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref> as an atomic operation.\n\nSee <xref uid=\"\" data-throw-if-not-resolved=\"false\">BlobClientBase#setHttpHeaders(BlobHttpHeaders)</xref> for more information."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.models.BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref>"
     name: "headers"

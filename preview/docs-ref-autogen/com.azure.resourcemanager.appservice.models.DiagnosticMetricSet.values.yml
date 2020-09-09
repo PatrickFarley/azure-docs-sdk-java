@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.DiagnosticMetricSet.values()"
   name: "values()"
   nameWithType: "DiagnosticMetricSet.values()"
-  summary: "Get the values property: Collection of metric values for the selected period based on the\n {Microsoft.Web.Hosting.Administration.DiagnosticMetricSet.TimeGrain}."
+  summary: "Get the values property: Collection of metric values for the selected period based on the \\{Microsoft.Web.Hosting.Administration.DiagnosticMetricSet.TimeGrain\\}."
   syntax: "public List<DiagnosticMetricSample> values()"
   returns:
     description: "the values value."

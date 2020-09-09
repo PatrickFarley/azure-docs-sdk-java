@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusReceiverAsyncClient.commitTransaction(ServiceBusTransactionContext transactionContext)"
   name: "commitTransaction(ServiceBusTransactionContext transactionContext)"
   nameWithType: "ServiceBusReceiverAsyncClient.commitTransaction(ServiceBusTransactionContext transactionContext)"
-  summary: "Commits the transaction given <xref uid=\"ServiceBusTransactionContext\" data-throw-if-not-resolved=\"false\">ServiceBusTransactionContext</xref>. This will make a call to Service Bus.\n <p><strong>Commit a transaction</strong></p>\n <pre>\n &#47;&#47; transactionContext: This is the transaction which you have created previously.\n \n &#47;&#47; Keep a reference to `subscription`. When the program is finished receiving messages, call\n &#47;&#47; subscription.dispose&#40;&#41;. This will dispose it cleanly.\n Disposable subscriber = receiver.commitTransaction&#40;transactionContext&#41;\n     .subscribe&#40;&#41;;\n </pre>"
+  summary: "Commits the transaction given <xref uid=\"com.azure.messaging.servicebus.ServiceBusTransactionContext\" data-throw-if-not-resolved=\"false\">ServiceBusTransactionContext</xref>. This will make a call to Service Bus.\n\n**Commit a transaction**\n\n```java\n// transactionContext: This is the transaction which you have created previously.\n \n // Keep a reference to `subscription`. When the program is finished receiving messages, call\n // subscription.dispose(). This will dispose it cleanly.\n Disposable subscriber = receiver.commitTransaction(transactionContext)\n     .subscribe();\n```"
   parameters:
   - description: "to be committed."
     name: "transactionContext"

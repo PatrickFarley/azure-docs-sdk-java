@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.labservices.v2018_10_15.SizeInfo.computeSize()"
   name: "computeSize()"
   nameWithType: "SizeInfo.computeSize()"
-  summary: "Get represents the actual compute size, e.g. Standard_A2_v2."
+  summary: "Get represents the actual compute size, e.g. Standard\\_A2\\_v2."
   syntax: "public String computeSize()"
   returns:
     description: "the computeSize value"

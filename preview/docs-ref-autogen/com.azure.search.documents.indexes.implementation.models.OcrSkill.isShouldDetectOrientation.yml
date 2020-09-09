@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.OcrSkill.isShouldDetectOrientation()"
   name: "isShouldDetectOrientation()"
   nameWithType: "OcrSkill.isShouldDetectOrientation()"
-  summary: "Get the shouldDetectOrientation property: A value indicating to turn orientation detection on or not. Default is\n false."
+  summary: "Get the shouldDetectOrientation property: A value indicating to turn orientation detection on or not. Default is false."
   syntax: "public Boolean isShouldDetectOrientation()"
   returns:
     description: "the shouldDetectOrientation value."

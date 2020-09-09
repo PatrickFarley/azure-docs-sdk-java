@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.implementation.serializer.HttpResponseDecoder.decode(Mono<HttpResponse> response, HttpResponseDecodeData decodeData)"
   name: "decode(Mono<HttpResponse> response, HttpResponseDecodeData decodeData)"
   nameWithType: "HttpResponseDecoder.decode(Mono<HttpResponse> response, HttpResponseDecodeData decodeData)"
-  summary: "Asynchronously decodes a <xref uid=\"HttpResponse\" data-throw-if-not-resolved=\"false\">HttpResponse</xref>."
+  summary: "Asynchronously decodes a <xref uid=\"com.azure.core.http.HttpResponse\" data-throw-if-not-resolved=\"false\">HttpResponse</xref>."
   parameters:
   - description: "the publisher that emits response to be decoded"
     name: "response"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.Encryption.keySource()"
   name: "keySource()"
   nameWithType: "Encryption.keySource()"
-  summary: "Get the keySource property: The encryption keySource (provider). Possible values (case-insensitive):\n Microsoft.Storage, Microsoft.Keyvault."
+  summary: "Get the keySource property: The encryption keySource (provider). Possible values (case-insensitive): Microsoft.Storage, Microsoft.Keyvault."
   syntax: "public KeySource keySource()"
   returns:
     description: "the keySource value."

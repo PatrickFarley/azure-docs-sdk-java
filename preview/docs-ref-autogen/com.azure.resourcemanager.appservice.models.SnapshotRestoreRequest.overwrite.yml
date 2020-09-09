@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.SnapshotRestoreRequest.overwrite()"
   name: "overwrite()"
   nameWithType: "SnapshotRestoreRequest.overwrite()"
-  summary: "Get the overwrite property: If &lt;code&gt;true&lt;/code&gt; the restore operation can overwrite source app;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the overwrite property: If <code>true</code> the restore operation can overwrite source app; otherwise, <code>false</code>."
   syntax: "public Boolean overwrite()"
   returns:
     description: "the overwrite value."

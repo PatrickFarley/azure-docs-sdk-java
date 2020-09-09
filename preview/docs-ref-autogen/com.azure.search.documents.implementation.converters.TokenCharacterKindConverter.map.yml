@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TokenCharacterKindConverter.map(TokenCharacterKind obj)"
   name: "map(TokenCharacterKind obj)"
   nameWithType: "TokenCharacterKindConverter.map(TokenCharacterKind obj)"
-  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenCharacterKind\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenCharacterKind</xref> to enum\n <xref uid=\"TokenCharacterKind\" data-throw-if-not-resolved=\"false\">TokenCharacterKind</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenCharacterKind\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenCharacterKind</xref> to enum <xref uid=\"com.azure.search.documents.indexes.models.TokenCharacterKind\" data-throw-if-not-resolved=\"false\">TokenCharacterKind</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.TokenCharacterKind?alt=com.azure.search.documents.indexes.implementation.models.TokenCharacterKind&text=TokenCharacterKind\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TokenCharacterKindConverter.map(TokenCharacterKind obj)"
   name: "map(TokenCharacterKind obj)"
   nameWithType: "TokenCharacterKindConverter.map(TokenCharacterKind obj)"
-  summary: "Maps from enum <xref uid=\"TokenCharacterKind\" data-throw-if-not-resolved=\"false\">TokenCharacterKind</xref> to enum\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenCharacterKind\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenCharacterKind</xref>."
+  summary: "Maps from enum <xref uid=\"com.azure.search.documents.indexes.models.TokenCharacterKind\" data-throw-if-not-resolved=\"false\">TokenCharacterKind</xref> to enum <xref uid=\"com.azure.search.documents.indexes.implementation.models.TokenCharacterKind\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TokenCharacterKind</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.TokenCharacterKind?alt=com.azure.search.documents.indexes.models.TokenCharacterKind&text=TokenCharacterKind\" data-throw-if-not-resolved=\"False\" />"

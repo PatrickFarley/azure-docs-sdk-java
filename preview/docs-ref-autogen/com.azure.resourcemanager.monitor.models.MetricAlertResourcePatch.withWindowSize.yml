@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlertResourcePatch.withWindowSize(Duration windowSize)"
   name: "withWindowSize(Duration windowSize)"
   nameWithType: "MetricAlertResourcePatch.withWindowSize(Duration windowSize)"
-  summary: "Set the windowSize property: the period of time (in ISO 8601 duration format) that is used to monitor alert\n activity based on the threshold."
+  summary: "Set the windowSize property: the period of time (in ISO 8601 duration format) that is used to monitor alert activity based on the threshold."
   parameters:
   - description: "the windowSize value to set."
     name: "windowSize"

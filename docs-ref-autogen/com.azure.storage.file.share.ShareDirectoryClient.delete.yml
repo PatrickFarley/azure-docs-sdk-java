@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryClient.delete()"
   name: "delete()"
   nameWithType: "ShareDirectoryClient.delete()"
-  summary: "Deletes the directory in the file share. The directory must be empty before it can be deleted.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the directory</p>\n\n <pre>\n shareDirectoryClient.delete&#40;&#41;;\n System.out.println&#40;&quot;Completed deleting the file.&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory\">Azure Docs</a>.</p>"
+  summary: "Deletes the directory in the file share. The directory must be empty before it can be deleted.\n\n**Code Samples**\n\nDelete the directory\n\n```java\nshareDirectoryClient.delete();\n System.out.println(\"Completed deleting the file.\");\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory"
   syntax: "public void delete()"
 type: "method"
 metadata: {}

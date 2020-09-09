@@ -14,7 +14,7 @@ members:
   fullName: "com.azure.core.amqp.AmqpRetryOptions.AmqpRetryOptions(AmqpRetryOptions retryOptions)"
   name: "AmqpRetryOptions(AmqpRetryOptions retryOptions)"
   nameWithType: "AmqpRetryOptions.AmqpRetryOptions(AmqpRetryOptions retryOptions)"
-  summary: "Creates an instance configured with <code>retryOptions</code>. This is not thread-safe."
+  summary: "Creates an instance configured with `retryOptions`. This is not thread-safe."
   parameters:
   - description: "Retry options to configure new instance with."
     name: "retryOptions"

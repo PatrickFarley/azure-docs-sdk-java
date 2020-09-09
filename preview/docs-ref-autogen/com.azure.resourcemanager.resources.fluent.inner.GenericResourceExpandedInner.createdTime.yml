@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.GenericResourceExpandedInner.createdTime()"
   name: "createdTime()"
   nameWithType: "GenericResourceExpandedInner.createdTime()"
-  summary: "Get the createdTime property: The created time of the resource. This is only present if requested via the $expand\n query parameter."
+  summary: "Get the createdTime property: The created time of the resource. This is only present if requested via the $expand query parameter."
   syntax: "public OffsetDateTime createdTime()"
   returns:
     description: "the createdTime value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchField.isKey()"
   name: "isKey()"
   nameWithType: "SearchField.isKey()"
-  summary: "Get the key property: A value indicating whether the field uniquely identifies documents in the index. Exactly\n one top-level field in each index must be chosen as the key field and it must be of type Edm.String. Key fields\n can be used to look up documents directly and update or delete specific documents. Default is false for simple\n fields and null for complex fields."
+  summary: "Get the key property: A value indicating whether the field uniquely identifies documents in the index. Exactly one top-level field in each index must be chosen as the key field and it must be of type Edm.String. Key fields can be used to look up documents directly and update or delete specific documents. Default is false for simple fields and null for complex fields."
   syntax: "public Boolean isKey()"
   returns:
     description: "the key value."

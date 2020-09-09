@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.GeoReplicationStats.status()"
   name: "status()"
   nameWithType: "GeoReplicationStats.status()"
-  summary: "Get the status property: The status of the secondary location. Possible values are: - Live: Indicates that the\n secondary location is active and operational. - Bootstrap: Indicates initial synchronization from the primary\n location to the secondary location is in progress.This typically occurs when replication is first enabled. -\n Unavailable: Indicates that the secondary location is temporarily unavailable."
+  summary: "Get the status property: The status of the secondary location. Possible values are: - Live: Indicates that the secondary location is active and operational. - Bootstrap: Indicates initial synchronization from the primary location to the secondary location is in progress.This typically occurs when replication is first enabled. - Unavailable: Indicates that the secondary location is temporarily unavailable."
   syntax: "public GeoReplicationStatus status()"
   returns:
     description: "the status value."

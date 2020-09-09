@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithPrivateIP.withPrimaryPrivateIPAddressDynamic()"
   name: "withPrimaryPrivateIPAddressDynamic()"
   nameWithType: "VirtualMachine.DefinitionStages.WithPrivateIP.withPrimaryPrivateIPAddressDynamic()"
-  summary: "Enables dynamic private IP address allocation within the specified existing virtual network subnet for\n the VM's primary network interface."
+  summary: "Enables dynamic private IP address allocation within the specified existing virtual network subnet for the VM's primary network interface."
   syntax: "public abstract VirtualMachine.DefinitionStages.WithPublicIPAddress withPrimaryPrivateIPAddressDynamic()"
   returns:
     description: "the next stage of the definition"

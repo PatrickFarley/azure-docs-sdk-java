@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DomainAvailabilityCheckResultInner.withDomainType(DomainType domainType)"
   name: "withDomainType(DomainType domainType)"
   nameWithType: "DomainAvailabilityCheckResultInner.withDomainType(DomainType domainType)"
-  summary: "Set the domainType property: Valid values are Regular domain: Azure will charge the full price of domain\n registration, SoftDeleted: Purchasing this domain will simply restore it and this operation will not cost\n anything."
+  summary: "Set the domainType property: Valid values are Regular domain: Azure will charge the full price of domain registration, SoftDeleted: Purchasing this domain will simply restore it and this operation will not cost anything."
   parameters:
   - description: "the domainType value to set."
     name: "domainType"

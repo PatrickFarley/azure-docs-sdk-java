@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessage.getSessionId()"
   name: "getSessionId()"
   nameWithType: "IMessage.getSessionId()"
-  summary: "Gets the session identifier for a session-aware entity.\n\n For session-aware entities, this application-defined value specifies the session \n affiliation of the message. Messages with the same session identifier are subject \n to summary locking and enable exact in-order processing and demultiplexing. \n For session-unaware entities, this value is ignored."
+  summary: "Gets the session identifier for a session-aware entity. For session-aware entities, this application-defined value specifies the session affiliation of the message. Messages with the same session identifier are subject to summary locking and enable exact in-order processing and demultiplexing. For session-unaware entities, this value is ignored."
   syntax: "public abstract String getSessionId()"
   returns:
     description: "session id of this message"

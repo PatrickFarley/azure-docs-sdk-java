@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.groupMembershipClaims()"
   name: "groupMembershipClaims()"
   nameWithType: "ApplicationInner.groupMembershipClaims()"
-  summary: "Get the groupMembershipClaims property: Configures the groups claim issued in a user or OAuth 2.0 access token\n that the app expects."
+  summary: "Get the groupMembershipClaims property: Configures the groups claim issued in a user or OAuth 2.0 access token that the app expects."
   syntax: "public GroupMembershipClaimTypes groupMembershipClaims()"
   returns:
     description: "the groupMembershipClaims value."

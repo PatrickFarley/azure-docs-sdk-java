@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineExtensionInner.protectedSettings()"
   name: "protectedSettings()"
   nameWithType: "VirtualMachineExtensionInner.protectedSettings()"
-  summary: "Get the protectedSettings property: The extension can contain either protectedSettings or\n protectedSettingsFromKeyVault or no protected settings at all."
+  summary: "Get the protectedSettings property: The extension can contain either protectedSettings or protectedSettingsFromKeyVault or no protected settings at all."
   syntax: "public Object protectedSettings()"
   returns:
     description: "the protectedSettings value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.implementation.FormRecognizerClientImplBuilder.endpoint(String endpoint)"
   name: "endpoint(String endpoint)"
   nameWithType: "FormRecognizerClientImplBuilder.endpoint(String endpoint)"
-  summary: "Sets Supported Cognitive Services endpoints (protocol and hostname, for example:\n https://westus2.api.cognitive.microsoft.com)."
+  summary: "Sets Supported Cognitive Services endpoints (protocol and hostname, for example: https://westus2.api.cognitive.microsoft.com)."
   parameters:
   - description: "the endpoint value."
     name: "endpoint"

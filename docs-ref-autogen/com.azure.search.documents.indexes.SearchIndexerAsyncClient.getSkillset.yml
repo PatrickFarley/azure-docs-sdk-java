@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.getSkillset(String skillsetName)"
   name: "getSkillset(String skillsetName)"
   nameWithType: "SearchIndexerAsyncClient.getSkillset(String skillsetName)"
-  summary: "Retrieves a skillset definition.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search indexer skillset \"searchIndexerSkillset\". </p>\n\n <pre>\n searchIndexerAsyncClient.getSkillset&#40;&quot;searchIndexerSkillset&quot;&#41;\n     .subscribe&#40;indexerSkillset -&gt;\n         System.out.printf&#40;&quot;The indexer skillset name is %s. The etag of indexer skillset is %s.%n&quot;,\n         indexerSkillset.getName&#40;&#41;, indexerSkillset.getETag&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Retrieves a skillset definition.\n\n**Code Sample**\n\nGet search indexer skillset \"searchIndexerSkillset\".\n\n```java\nsearchIndexerAsyncClient.getSkillset(\"searchIndexerSkillset\")\n     .subscribe(indexerSkillset ->\n         System.out.printf(\"The indexer skillset name is %s. The etag of indexer skillset is %s.%n\",\n         indexerSkillset.getName(), indexerSkillset.getETag()));\n```"
   parameters:
   - description: "the name of the skillset to retrieve"
     name: "skillsetName"

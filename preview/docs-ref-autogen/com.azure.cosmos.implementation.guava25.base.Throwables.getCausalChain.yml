@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Throwables.getCausalChain(Throwable throwable)"
   name: "getCausalChain(Throwable throwable)"
   nameWithType: "Throwables.getCausalChain(Throwable throwable)"
-  summary: "Gets a <code>Throwable</code> cause chain as a list. The first entry in the list will be <code>\n throwable</code> followed by its cause hierarchy. Note that this is a snapshot of the cause chain and\n will not reflect any subsequent changes to the cause chain.\n\n <p>Here's an example of how it can be used to find specific types of exceptions in the cause\n chain:\n\n <pre>\n Iterables.filter(Throwables.getCausalChain(e), IOException.class));\n </pre>"
+  summary: "Gets a `Throwable` cause chain as a list. The first entry in the list will be `throwable` followed by its cause hierarchy. Note that this is a snapshot of the cause chain and will not reflect any subsequent changes to the cause chain.\n\nHere's an example of how it can be used to find specific types of exceptions in the cause chain:\n\n```java\nIterables.filter(Throwables.getCausalChain(e), IOException.class));\n```"
   parameters:
   - description: "the non-null <code>Throwable</code> to extract causes from"
     name: "throwable"

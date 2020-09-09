@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.sas.FileSystemSasPermission.FileSystemSasPermission()"
   name: "FileSystemSasPermission()"
   nameWithType: "FileSystemSasPermission.FileSystemSasPermission()"
-  summary: "Initializes an <code>FileSystemSasPermission</code> object with all fields set to false."
+  summary: "Initializes an `FileSystemSasPermission` object with all fields set to false."
   syntax: "public FileSystemSasPermission()"
 type: "constructor"
 metadata: {}

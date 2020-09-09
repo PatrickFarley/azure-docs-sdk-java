@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.equals(Object object)"
   name: "equals(Object object)"
   nameWithType: "Range<C>.equals(Object object)"
-  summary: "Returns <code>true</code> if <code>object</code> is a range having the same endpoints and bound types as\n this range. Note that discrete ranges such as <code>(1..4)</code> and <code>[2..3]</code> are <b>not</b>\n equal to one another, despite the fact that they each contain precisely the same set of values.\n Similarly, empty ranges are not equal unless they have exactly the same representation, so\n <code>[3..3)</code>, <code>(3..3]</code>, <code>(4..4]</code> are all unequal."
+  summary: "Returns `true` if `object` is a range having the same endpoints and bound types as this range. Note that discrete ranges such as `(1..4)` and `[2..3]` are **not** equal to one another, despite the fact that they each contain precisely the same set of values. Similarly, empty ranges are not equal unless they have exactly the same representation, so `[3..3)`, `(3..3]`, `(4..4]` are all unequal."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - name: "object"

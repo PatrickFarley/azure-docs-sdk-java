@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ApplicationInner.oauth2AllowUrlPathMatching()"
   name: "oauth2AllowUrlPathMatching()"
   nameWithType: "ApplicationInner.oauth2AllowUrlPathMatching()"
-  summary: "Get the oauth2AllowUrlPathMatching property: Specifies whether during a token Request Azure AD will allow path\n matching of the redirect URI against the applications collection of replyURLs. The default is false."
+  summary: "Get the oauth2AllowUrlPathMatching property: Specifies whether during a token Request Azure AD will allow path matching of the redirect URI against the applications collection of replyURLs. The default is false."
   syntax: "public Boolean oauth2AllowUrlPathMatching()"
   returns:
     description: "the oauth2AllowUrlPathMatching value."

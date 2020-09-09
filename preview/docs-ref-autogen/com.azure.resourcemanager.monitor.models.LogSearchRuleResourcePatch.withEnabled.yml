@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.LogSearchRuleResourcePatch.withEnabled(Enabled enabled)"
   name: "withEnabled(Enabled enabled)"
   nameWithType: "LogSearchRuleResourcePatch.withEnabled(Enabled enabled)"
-  summary: "Set the enabled property: The flag which indicates whether the Log Search rule is enabled. Value should be true\n or false."
+  summary: "Set the enabled property: The flag which indicates whether the Log Search rule is enabled. Value should be true or false."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

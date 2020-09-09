@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_G3"
   name: "STANDARD_G3"
   nameWithType: "ComputeSkuName.STANDARD_G3"
-  summary: "Static value Standard_G3 for ComputeSkuName."
+  summary: "Static value Standard\\_G3 for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_G3"
 type: "field"
 metadata: {}

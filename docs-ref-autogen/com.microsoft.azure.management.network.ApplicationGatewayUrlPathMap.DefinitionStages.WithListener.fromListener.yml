@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayUrlPathMap.DefinitionStages.WithListener<ParentT>.fromListener(String name)"
   name: "fromListener(String name)"
   nameWithType: "ApplicationGatewayUrlPathMap.DefinitionStages.WithListener<ParentT>.fromListener(String name)"
-  summary: "Associates the application gateway URL path map with a frontend listener.\n <p>\n If the listener with the specified name does not yet exist, it must be defined separately in the optional stages\n of the application gateway definition. This only adds a reference to the listener by its name.\n <p>\n Also, note that a given listener can be used by no more than one request routing rule at a time."
+  summary: "Associates the application gateway URL path map with a frontend listener.\n\nIf the listener with the specified name does not yet exist, it must be defined separately in the optional stages of the application gateway definition. This only adds a reference to the listener by its name.\n\nAlso, note that a given listener can be used by no more than one request routing rule at a time."
   parameters:
   - description: "the name of a listener to reference"
     name: "name"

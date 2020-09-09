@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.VT"
   name: "VT"
   nameWithType: "Ascii.VT"
-  summary: "Vertical Tabulation ('\\v'): A format effector which controls the movement of the printing\n position to the next in a series of predetermined printing lines. (Applicable also to display\n devices.)"
+  summary: "Vertical Tabulation ('\\\\v'): A format effector which controls the movement of the printing position to the next in a series of predetermined printing lines. (Applicable also to display devices.)"
   syntax: "public static final byte VT"
 type: "field"
 metadata: {}

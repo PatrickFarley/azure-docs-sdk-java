@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseBlobAuditingPolicyInner.withQueueDelayMs(Integer queueDelayMs)"
   name: "withQueueDelayMs(Integer queueDelayMs)"
   nameWithType: "DatabaseBlobAuditingPolicyInner.withQueueDelayMs(Integer queueDelayMs)"
-  summary: "Set the queueDelayMs property: Specifies the amount of time in milliseconds that can elapse before audit actions\n are forced to be processed. The default minimum value is 1000 (1 second). The maximum is 2,147,483,647."
+  summary: "Set the queueDelayMs property: Specifies the amount of time in milliseconds that can elapse before audit actions are forced to be processed. The default minimum value is 1000 (1 second). The maximum is 2,147,483,647."
   parameters:
   - description: "the queueDelayMs value to set."
     name: "queueDelayMs"

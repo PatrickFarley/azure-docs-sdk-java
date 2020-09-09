@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.MessageCallback.execute(Message message, Object callbackContext)"
   name: "execute(Message message, Object callbackContext)"
   nameWithType: "MessageCallback.execute(Message message, Object callbackContext)"
-  summary: "Executes the callback. The callback should return a response that\n instructs an IoT Hub to complete, abandon, or reject the message."
+  summary: "Executes the callback. The callback should return a response that instructs an IoT Hub to complete, abandon, or reject the message."
   parameters:
   - description: "the message."
     name: "message"

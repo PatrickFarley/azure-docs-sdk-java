@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareServiceProperties.getHourMetrics()"
   name: "getHourMetrics()"
   nameWithType: "ShareServiceProperties.getHourMetrics()"
-  summary: "Get the hourMetrics property: A summary of request statistics grouped by\n API in hourly aggregates for files."
+  summary: "Get the hourMetrics property: A summary of request statistics grouped by API in hourly aggregates for files."
   syntax: "public ShareMetrics getHourMetrics()"
   returns:
     description: "the hourMetrics value."

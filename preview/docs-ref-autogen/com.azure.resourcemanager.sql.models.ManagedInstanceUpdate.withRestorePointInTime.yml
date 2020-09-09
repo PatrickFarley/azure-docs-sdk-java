@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedInstanceUpdate.withRestorePointInTime(OffsetDateTime restorePointInTime)"
   name: "withRestorePointInTime(OffsetDateTime restorePointInTime)"
   nameWithType: "ManagedInstanceUpdate.withRestorePointInTime(OffsetDateTime restorePointInTime)"
-  summary: "Set the restorePointInTime property: Specifies the point in time (ISO8601 format) of the source database that\n will be restored to create the new database."
+  summary: "Set the restorePointInTime property: Specifies the point in time (ISO8601 format) of the source database that will be restored to create the new database."
   parameters:
   - description: "the restorePointInTime value to set."
     name: "restorePointInTime"

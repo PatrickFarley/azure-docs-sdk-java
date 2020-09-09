@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table<R,C,V>.cellSet()"
   name: "cellSet()"
   nameWithType: "Table<R,C,V>.cellSet()"
-  summary: "Returns a set of all row key / column key / value triplets. Changes to the returned set will\n update the underlying table, and vice versa. The cell set does not support the <code>add</code> or\n <code>addAll</code> methods."
+  summary: "Returns a set of all row key / column key / value triplets. Changes to the returned set will update the underlying table, and vice versa. The cell set does not support the `add` or `addAll` methods."
   syntax: "public abstract Set<Table.Cell<R,C,V>> cellSet()"
   returns:
     description: "set of table cells consisting of row key / column key / value triplets"

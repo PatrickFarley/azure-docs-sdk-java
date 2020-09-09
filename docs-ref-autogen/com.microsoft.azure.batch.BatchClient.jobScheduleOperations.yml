@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchClient.jobScheduleOperations()"
   name: "jobScheduleOperations()"
   nameWithType: "BatchClient.jobScheduleOperations()"
-  summary: "Gets a <xref uid=\"JobScheduleOperations\" data-throw-if-not-resolved=\"false\">JobScheduleOperations</xref> object for performing job schedule-related operations on the associated account."
+  summary: "Gets a <xref uid=\"com.microsoft.azure.batch.JobScheduleOperations\" data-throw-if-not-resolved=\"false\">JobScheduleOperations</xref> object for performing job schedule-related operations on the associated account."
   syntax: "public JobScheduleOperations jobScheduleOperations()"
   returns:
     description: "An instance of the <xref uid=\"com.microsoft.azure.batch.JobScheduleOperations\" data-throw-if-not-resolved=\"false\">JobScheduleOperations</xref> class."

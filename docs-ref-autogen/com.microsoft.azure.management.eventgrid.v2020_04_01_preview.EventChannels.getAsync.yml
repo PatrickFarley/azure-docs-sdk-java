@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventChannels.getAsync(String resourceGroupName, String partnerNamespaceName, String eventChannelName)"
   name: "getAsync(String resourceGroupName, String partnerNamespaceName, String eventChannelName)"
   nameWithType: "EventChannels.getAsync(String resourceGroupName, String partnerNamespaceName, String eventChannelName)"
-  summary: "Get an event channel.\n Get properties of an event channel."
+  summary: "Get an event channel. Get properties of an event channel."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

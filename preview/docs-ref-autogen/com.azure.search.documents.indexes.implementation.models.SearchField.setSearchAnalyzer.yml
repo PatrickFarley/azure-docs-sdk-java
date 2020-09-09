@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchField.setSearchAnalyzer(LexicalAnalyzerName searchAnalyzer)"
   name: "setSearchAnalyzer(LexicalAnalyzerName searchAnalyzer)"
   nameWithType: "SearchField.setSearchAnalyzer(LexicalAnalyzerName searchAnalyzer)"
-  summary: "Set the searchAnalyzer property: The name of the analyzer used at search time for the field. This option can be\n used only with searchable fields. It must be set together with indexAnalyzer and it cannot be set together with\n the analyzer option. This property cannot be set to the name of a language analyzer; use the analyzer property\n instead if you need a language analyzer. This analyzer can be updated on an existing field. Must be null for\n complex fields."
+  summary: "Set the searchAnalyzer property: The name of the analyzer used at search time for the field. This option can be used only with searchable fields. It must be set together with indexAnalyzer and it cannot be set together with the analyzer option. This property cannot be set to the name of a language analyzer; use the analyzer property instead if you need a language analyzer. This analyzer can be updated on an existing field. Must be null for complex fields."
   parameters:
   - description: "the searchAnalyzer value to set."
     name: "searchAnalyzer"

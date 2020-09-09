@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.CachedSchemaRegistryClientBuilder.retryPolicy(RetryPolicy retryPolicy)"
   name: "retryPolicy(RetryPolicy retryPolicy)"
   nameWithType: "CachedSchemaRegistryClientBuilder.retryPolicy(RetryPolicy retryPolicy)"
-  summary: "Sets the <xref uid=\"RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> that is used when each request is sent.\n <p>\n The default retry policy will be used if not provided to build <xref uid=\"CachedSchemaRegistryClient\" data-throw-if-not-resolved=\"false\">CachedSchemaRegistryClient</xref> ."
+  summary: "Sets the <xref uid=\"com.azure.core.http.policy.RetryPolicy\" data-throw-if-not-resolved=\"false\">RetryPolicy</xref> that is used when each request is sent.\n\nThe default retry policy will be used if not provided to build <xref uid=\"com.azure.data.schemaregistry.client.CachedSchemaRegistryClient\" data-throw-if-not-resolved=\"false\">CachedSchemaRegistryClient</xref> ."
   parameters:
   - description: "user's retry policy applied to each request."
     name: "retryPolicy"

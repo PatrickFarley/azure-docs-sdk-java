@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DataDisk.withCaching(CachingTypes caching)"
   name: "withCaching(CachingTypes caching)"
   nameWithType: "DataDisk.withCaching(CachingTypes caching)"
-  summary: "Set the caching property: Specifies the caching requirements. &lt;br&gt;&lt;br&gt; Possible values are:\n &lt;br&gt;&lt;br&gt; **None** &lt;br&gt;&lt;br&gt; **ReadOnly** &lt;br&gt;&lt;br&gt; **ReadWrite**\n &lt;br&gt;&lt;br&gt; Default: **None for Standard storage. ReadOnly for Premium storage**."
+  summary: "Set the caching property: Specifies the caching requirements. <br><br> Possible values are: <br><br> \\*\\*None\\*\\* <br><br> \\*\\*ReadOnly\\*\\* <br><br> \\*\\*ReadWrite\\*\\* <br><br> Default: \\*\\*None for Standard storage. ReadOnly for Premium storage\\*\\*."
   parameters:
   - description: "the caching value to set."
     name: "caching"

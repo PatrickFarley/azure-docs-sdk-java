@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileReadHeaders.setLeaseStatus(LeaseStatusType leaseStatus)"
   name: "setLeaseStatus(LeaseStatusType leaseStatus)"
   nameWithType: "FileReadHeaders.setLeaseStatus(LeaseStatusType leaseStatus)"
-  summary: "Set the leaseStatus property: The current lease status of the file.\n Possible values include: 'locked', 'unlocked'."
+  summary: "Set the leaseStatus property: The current lease status of the file. Possible values include: 'locked', 'unlocked'."
   parameters:
   - description: "the leaseStatus value to set."
     name: "leaseStatus"

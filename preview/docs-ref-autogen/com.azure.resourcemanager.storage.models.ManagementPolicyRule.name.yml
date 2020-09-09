@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ManagementPolicyRule.name()"
   name: "name()"
   nameWithType: "ManagementPolicyRule.name()"
-  summary: "Get the name property: A rule name can contain any combination of alpha numeric characters. Rule name is\n case-sensitive. It must be unique within a policy."
+  summary: "Get the name property: A rule name can contain any combination of alpha numeric characters. Rule name is case-sensitive. It must be unique within a policy."
   syntax: "public String name()"
   returns:
     description: "the name value."

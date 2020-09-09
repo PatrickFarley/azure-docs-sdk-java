@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.NioBlobInputStream.mark(int readlimit)"
   name: "mark(int readlimit)"
   nameWithType: "NioBlobInputStream.mark(int readlimit)"
-  summary: "Marks the current position in this input stream. A subsequent call to the reset method repositions this stream at\n the last marked position so that subsequent reads re-read the same bytes."
+  summary: "Marks the current position in this input stream. A subsequent call to the reset method repositions this stream at the last marked position so that subsequent reads re-read the same bytes."
   overridden: "java.io.InputStream.mark(int)"
   parameters:
   - description: "An <code>int</code> which represents the maximum limit of bytes that can be read before the mark\n position becomes invalid."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.CsmCopySlotEntityInner.withSiteConfig(SiteConfigInner siteConfig)"
   name: "withSiteConfig(SiteConfigInner siteConfig)"
   nameWithType: "CsmCopySlotEntityInner.withSiteConfig(SiteConfigInner siteConfig)"
-  summary: "Set the siteConfig property: The site object which will be merged with the source slot site to produce new\n destination slot site object. &lt;code&gt;null&lt;/code&gt; to just copy source slot content. Otherwise a\n &lt;code&gt;Site&lt;/code&gt; object with properties to override source slot site."
+  summary: "Set the siteConfig property: The site object which will be merged with the source slot site to produce new destination slot site object. <code>null</code> to just copy source slot content. Otherwise a <code>Site</code> object with properties to override source slot site."
   parameters:
   - description: "the siteConfig value to set."
     name: "siteConfig"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.twin.TwinCollection.toJsonElementWithMetadata()"
   name: "toJsonElementWithMetadata()"
   nameWithType: "TwinCollection.toJsonElementWithMetadata()"
-  summary: "Serializer with metadata.\n\n <p> Return a JsonElement with the full content of this class,\n     including the metadata."
+  summary: "Serializer with metadata.\n\nReturn a JsonElement with the full content of this class, including the metadata."
   syntax: "protected JsonElement toJsonElementWithMetadata()"
   returns:
     description: "The <code>JsonElement</code> with the full content of this class."

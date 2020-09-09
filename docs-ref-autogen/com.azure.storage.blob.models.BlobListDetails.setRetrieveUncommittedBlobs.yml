@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobListDetails.setRetrieveUncommittedBlobs(boolean retrieveUncommittedBlobs)"
   name: "setRetrieveUncommittedBlobs(boolean retrieveUncommittedBlobs)"
   nameWithType: "BlobListDetails.setRetrieveUncommittedBlobs(boolean retrieveUncommittedBlobs)"
-  summary: "Whether blobs for which blocks have been uploaded, but which have not been committed using Put Block List, should\n be included in the response."
+  summary: "Whether blobs for which blocks have been uploaded, but which have not been committed using Put Block List, should be included in the response."
   parameters:
   - description: "Flag indicating whether uncommitted blobs should be returned"
     name: "retrieveUncommittedBlobs"

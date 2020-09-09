@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.sas.BlobContainerSasPermission.BlobContainerSasPermission()"
   name: "BlobContainerSasPermission()"
   nameWithType: "BlobContainerSasPermission.BlobContainerSasPermission()"
-  summary: "Initializes an <code>BlobContainerSasPermission</code> object with all fields set to false."
+  summary: "Initializes an `BlobContainerSasPermission` object with all fields set to false."
   syntax: "public BlobContainerSasPermission()"
 type: "constructor"
 metadata: {}

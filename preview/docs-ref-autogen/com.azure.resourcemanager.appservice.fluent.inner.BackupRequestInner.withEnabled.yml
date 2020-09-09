@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.BackupRequestInner.withEnabled(Boolean enabled)"
   name: "withEnabled(Boolean enabled)"
   nameWithType: "BackupRequestInner.withEnabled(Boolean enabled)"
-  summary: "Set the enabled property: True if the backup schedule is enabled (must be included in that case), false if the\n backup schedule should be disabled."
+  summary: "Set the enabled property: True if the backup schedule is enabled (must be included in that case), false if the backup schedule should be disabled."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.GenericResourceExpandedInner.changedTime()"
   name: "changedTime()"
   nameWithType: "GenericResourceExpandedInner.changedTime()"
-  summary: "Get the changedTime property: The changed time of the resource. This is only present if requested via the $expand\n query parameter."
+  summary: "Get the changedTime property: The changed time of the resource. This is only present if requested via the $expand query parameter."
   syntax: "public OffsetDateTime changedTime()"
   returns:
     description: "the changedTime value."

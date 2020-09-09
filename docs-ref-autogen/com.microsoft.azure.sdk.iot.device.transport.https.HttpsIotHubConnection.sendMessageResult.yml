@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsIotHubConnection.sendMessageResult(IotHubTransportMessage message, IotHubMessageResult result)"
   name: "sendMessageResult(IotHubTransportMessage message, IotHubMessageResult result)"
   nameWithType: "HttpsIotHubConnection.sendMessageResult(IotHubTransportMessage message, IotHubMessageResult result)"
-  summary: "Sends the message result for the previously received\n message."
+  summary: "Sends the message result for the previously received message."
   parameters:
   - description: "the message that was received from the service to send the result of"
     name: "message"

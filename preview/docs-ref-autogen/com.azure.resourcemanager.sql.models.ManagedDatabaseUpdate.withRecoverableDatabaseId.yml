@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ManagedDatabaseUpdate.withRecoverableDatabaseId(String recoverableDatabaseId)"
   name: "withRecoverableDatabaseId(String recoverableDatabaseId)"
   nameWithType: "ManagedDatabaseUpdate.withRecoverableDatabaseId(String recoverableDatabaseId)"
-  summary: "Set the recoverableDatabaseId property: The resource identifier of the recoverable database associated with\n create operation of this database."
+  summary: "Set the recoverableDatabaseId property: The resource identifier of the recoverable database associated with create operation of this database."
   parameters:
   - description: "the recoverableDatabaseId value to set."
     name: "recoverableDatabaseId"

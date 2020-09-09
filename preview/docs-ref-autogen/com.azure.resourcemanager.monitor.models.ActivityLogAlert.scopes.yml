@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ActivityLogAlert.scopes()"
   name: "scopes()"
   nameWithType: "ActivityLogAlert.scopes()"
-  summary: "Get a list of resourceIds that will be used as prefixes. The alert will only apply to activityLogs with\n resourceIds that fall under one of these prefixes. This list must include at least one item."
+  summary: "Get a list of resourceIds that will be used as prefixes. The alert will only apply to activityLogs with resourceIds that fall under one of these prefixes. This list must include at least one item."
   syntax: "public abstract Collection<String> scopes()"
   returns:
     description: "the scopes value"

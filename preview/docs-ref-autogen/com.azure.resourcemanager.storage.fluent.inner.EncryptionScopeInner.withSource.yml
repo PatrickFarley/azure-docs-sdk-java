@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.EncryptionScopeInner.withSource(EncryptionScopeSource source)"
   name: "withSource(EncryptionScopeSource source)"
   nameWithType: "EncryptionScopeInner.withSource(EncryptionScopeSource source)"
-  summary: "Set the source property: The provider for the encryption scope. Possible values (case-insensitive):\n Microsoft.Storage, Microsoft.KeyVault."
+  summary: "Set the source property: The provider for the encryption scope. Possible values (case-insensitive): Microsoft.Storage, Microsoft.KeyVault."
   parameters:
   - description: "the source value to set."
     name: "source"

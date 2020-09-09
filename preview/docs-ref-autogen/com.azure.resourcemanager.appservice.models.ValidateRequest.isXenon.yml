@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.ValidateRequest.isXenon()"
   name: "isXenon()"
   nameWithType: "ValidateRequest.isXenon()"
-  summary: "Get the isXenon property: &lt;code&gt;true&lt;/code&gt; if App Service plan is running as a windows container."
+  summary: "Get the isXenon property: <code>true</code> if App Service plan is running as a windows container."
   syntax: "public Boolean isXenon()"
   returns:
     description: "the isXenon value."

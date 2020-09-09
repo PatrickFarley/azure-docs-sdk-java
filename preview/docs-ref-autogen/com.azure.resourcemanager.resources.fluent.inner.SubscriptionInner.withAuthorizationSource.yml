@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.SubscriptionInner.withAuthorizationSource(String authorizationSource)"
   name: "withAuthorizationSource(String authorizationSource)"
   nameWithType: "SubscriptionInner.withAuthorizationSource(String authorizationSource)"
-  summary: "Set the authorizationSource property: The authorization source of the request. Valid values are one or more\n combinations of Legacy, RoleBased, Bypassed, Direct and Management. For example, 'Legacy, RoleBased'."
+  summary: "Set the authorizationSource property: The authorization source of the request. Valid values are one or more combinations of Legacy, RoleBased, Bypassed, Direct and Management. For example, 'Legacy, RoleBased'."
   parameters:
   - description: "the authorizationSource value to set."
     name: "authorizationSource"

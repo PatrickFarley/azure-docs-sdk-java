@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.ProvidersClient.listOperations()"
   name: "listOperations()"
   nameWithType: "ProvidersClient.listOperations()"
-  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource\n metric definitions."
+  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource metric definitions."
   syntax: "public PagedIterable<CsmOperationDescriptionInner> listOperations()"
   returns:
     description: "collection of Azure resource manager operation metadata."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.ProvidersClient.listOperations(Context context)"
   name: "listOperations(Context context)"
   nameWithType: "ProvidersClient.listOperations(Context context)"
-  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource\n metric definitions."
+  summary: "Description for Gets all available operations for the Microsoft.Web resource provider. Also exposes resource metric definitions."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

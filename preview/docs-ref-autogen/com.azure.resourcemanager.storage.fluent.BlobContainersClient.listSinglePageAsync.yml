@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.listSinglePageAsync(String resourceGroupName, String accountName, String maxpagesize, String filter, ListSharesExpand include)"
   name: "listSinglePageAsync(String resourceGroupName, String accountName, String maxpagesize, String filter, ListSharesExpand include)"
   nameWithType: "BlobContainersClient.listSinglePageAsync(String resourceGroupName, String accountName, String maxpagesize, String filter, ListSharesExpand include)"
-  summary: "Lists all containers and does not support a prefix like data plane. Also SRP today does not return continuation\n token."
+  summary: "Lists all containers and does not support a prefix like data plane. Also SRP today does not return continuation token."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -33,7 +33,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.listSinglePageAsync(String resourceGroupName, String accountName, String maxpagesize, String filter, ListSharesExpand include, Context context)"
   name: "listSinglePageAsync(String resourceGroupName, String accountName, String maxpagesize, String filter, ListSharesExpand include, Context context)"
   nameWithType: "BlobContainersClient.listSinglePageAsync(String resourceGroupName, String accountName, String maxpagesize, String filter, ListSharesExpand include, Context context)"
-  summary: "Lists all containers and does not support a prefix like data plane. Also SRP today does not return continuation\n token."
+  summary: "Lists all containers and does not support a prefix like data plane. Also SRP today does not return continuation token."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

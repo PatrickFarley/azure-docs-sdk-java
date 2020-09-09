@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.TopicDescription.isEnableExpress()"
   name: "isEnableExpress()"
   nameWithType: "TopicDescription.isEnableExpress()"
-  summary: "Get the enableExpress property: A value that indicates whether Express Entities are enabled. An express topic\n holds a message in memory temporarily before writing it to persistent storage."
+  summary: "Get the enableExpress property: A value that indicates whether Express Entities are enabled. An express topic holds a message in memory temporarily before writing it to persistent storage."
   syntax: "public Boolean isEnableExpress()"
   returns:
     description: "the enableExpress value."

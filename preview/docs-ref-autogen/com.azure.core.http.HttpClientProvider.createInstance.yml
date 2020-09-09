@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.HttpClientProvider.createInstance()"
   name: "createInstance()"
   nameWithType: "HttpClientProvider.createInstance()"
-  summary: "Creates a new instance of the <xref uid=\"HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> that this HttpClientProvider is configured to create."
+  summary: "Creates a new instance of the <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> that this HttpClientProvider is configured to create."
   syntax: "public abstract HttpClient createInstance()"
   returns:
     description: "A new <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClient</xref> instance, entirely unrelated to all other instances that were created\n previously."

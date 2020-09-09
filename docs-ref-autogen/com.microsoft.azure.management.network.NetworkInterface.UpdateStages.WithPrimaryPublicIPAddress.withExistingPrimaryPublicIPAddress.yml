@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withExistingPrimaryPublicIPAddress(PublicIPAddress publicIPAddress)"
   name: "withExistingPrimaryPublicIPAddress(PublicIPAddress publicIPAddress)"
   nameWithType: "NetworkInterface.UpdateStages.WithPrimaryPublicIPAddress.withExistingPrimaryPublicIPAddress(PublicIPAddress publicIPAddress)"
-  summary: "Associates an existing public IP address with the network interface's primary IP configuration.\n if there is an existing public IP association then that will be removed in favour of this"
+  summary: "Associates an existing public IP address with the network interface's primary IP configuration. if there is an existing public IP association then that will be removed in favour of this"
   parameters:
   - description: "an existing public IP address"
     name: "publicIPAddress"

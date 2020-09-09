@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.FileSharesClient.update(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare)"
   name: "update(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare)"
   nameWithType: "FileSharesClient.update(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare)"
-  summary: "Updates share properties as specified in request body. Properties not mentioned in the request will not be\n changed. Update fails if the specified share does not already exist."
+  summary: "Updates share properties as specified in request body. Properties not mentioned in the request will not be changed. Update fails if the specified share does not already exist."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.FileSharesClient.update(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare, Context context)"
   name: "update(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare, Context context)"
   nameWithType: "FileSharesClient.update(String resourceGroupName, String accountName, String shareName, FileShareInner fileShare, Context context)"
-  summary: "Updates share properties as specified in request body. Properties not mentioned in the request will not be\n changed. Update fails if the specified share does not already exist."
+  summary: "Updates share properties as specified in request body. Properties not mentioned in the request will not be changed. Update fails if the specified share does not already exist."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

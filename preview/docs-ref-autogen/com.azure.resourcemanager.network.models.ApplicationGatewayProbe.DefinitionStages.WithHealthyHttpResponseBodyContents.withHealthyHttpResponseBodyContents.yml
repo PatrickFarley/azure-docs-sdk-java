@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayProbe.DefinitionStages.WithHealthyHttpResponseBodyContents<ReturnT>.withHealthyHttpResponseBodyContents(String text)"
   name: "withHealthyHttpResponseBodyContents(String text)"
   nameWithType: "ApplicationGatewayProbe.DefinitionStages.WithHealthyHttpResponseBodyContents<ReturnT>.withHealthyHttpResponseBodyContents(String text)"
-  summary: "Specifies the content, if any, to look for in the body of an HTTP response to a probe to determine the\n health status of the backend."
+  summary: "Specifies the content, if any, to look for in the body of an HTTP response to a probe to determine the health status of the backend."
   parameters:
   - description: "contents to look for"
     name: "text"

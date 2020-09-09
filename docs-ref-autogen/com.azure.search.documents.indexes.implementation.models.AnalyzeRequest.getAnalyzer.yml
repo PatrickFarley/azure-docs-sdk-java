@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.AnalyzeRequest.getAnalyzer()"
   name: "getAnalyzer()"
   nameWithType: "AnalyzeRequest.getAnalyzer()"
-  summary: "Get the analyzer property: The name of the analyzer to use to break the given text. If this parameter is not\n specified, you must specify a tokenizer instead. The tokenizer and analyzer parameters are mutually exclusive."
+  summary: "Get the analyzer property: The name of the analyzer to use to break the given text. If this parameter is not specified, you must specify a tokenizer instead. The tokenizer and analyzer parameters are mutually exclusive."
   syntax: "public LexicalAnalyzerName getAnalyzer()"
   returns:
     description: "the analyzer value."

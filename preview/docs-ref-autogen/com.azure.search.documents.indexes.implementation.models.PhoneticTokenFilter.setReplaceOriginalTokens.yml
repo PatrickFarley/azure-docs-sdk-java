@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.PhoneticTokenFilter.setReplaceOriginalTokens(Boolean replaceOriginalTokens)"
   name: "setReplaceOriginalTokens(Boolean replaceOriginalTokens)"
   nameWithType: "PhoneticTokenFilter.setReplaceOriginalTokens(Boolean replaceOriginalTokens)"
-  summary: "Set the replaceOriginalTokens property: A value indicating whether encoded tokens should replace original tokens.\n If false, encoded tokens are added as synonyms. Default is true."
+  summary: "Set the replaceOriginalTokens property: A value indicating whether encoded tokens should replace original tokens. If false, encoded tokens are added as synonyms. Default is true."
   parameters:
   - description: "the replaceOriginalTokens value to set."
     name: "replaceOriginalTokens"

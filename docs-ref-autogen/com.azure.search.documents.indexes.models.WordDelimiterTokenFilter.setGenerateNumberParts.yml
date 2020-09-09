@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.WordDelimiterTokenFilter.setGenerateNumberParts(Boolean generateNumberParts)"
   name: "setGenerateNumberParts(Boolean generateNumberParts)"
   nameWithType: "WordDelimiterTokenFilter.setGenerateNumberParts(Boolean generateNumberParts)"
-  summary: "Set the generateNumberParts property: A value indicating whether to\n generate number subwords. Default is true."
+  summary: "Set the generateNumberParts property: A value indicating whether to generate number subwords. Default is true."
   parameters:
   - description: "the generateNumberParts value to set."
     name: "generateNumberParts"

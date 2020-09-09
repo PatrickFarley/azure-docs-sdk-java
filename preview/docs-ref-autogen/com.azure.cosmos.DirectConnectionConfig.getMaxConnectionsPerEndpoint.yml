@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.DirectConnectionConfig.getMaxConnectionsPerEndpoint()"
   name: "getMaxConnectionsPerEndpoint()"
   nameWithType: "DirectConnectionConfig.getMaxConnectionsPerEndpoint()"
-  summary: "Gets the max connections per endpoint\n This represents the size of connection pool for a specific endpoint\n\n Default value is 30"
+  summary: "Gets the max connections per endpoint This represents the size of connection pool for a specific endpoint Default value is 30"
   syntax: "public int getMaxConnectionsPerEndpoint()"
   returns:
     description: "the max connections per endpoint"

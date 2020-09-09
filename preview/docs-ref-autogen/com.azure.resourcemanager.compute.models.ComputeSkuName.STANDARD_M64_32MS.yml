@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_M64_32MS"
   name: "STANDARD_M64_32MS"
   nameWithType: "ComputeSkuName.STANDARD_M64_32MS"
-  summary: "Static value Standard_M64-32ms for ComputeSkuName."
+  summary: "Static value Standard\\_M64-32ms for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_M64_32MS"
 type: "field"
 metadata: {}

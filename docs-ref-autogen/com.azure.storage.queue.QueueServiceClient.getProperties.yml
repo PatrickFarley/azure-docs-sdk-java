@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueServiceClient.getProperties()"
   name: "getProperties()"
   nameWithType: "QueueServiceClient.getProperties()"
-  summary: "Retrieves the properties of the storage account's Queue service. The properties range from storage analytics and\n metric to CORS (Cross-Origin Resource Sharing).\n\n <p><strong>Code Samples</strong></p>\n\n <p>Retrieve Queue service properties</p>\n\n <pre>\n QueueServiceProperties properties = client.getProperties&#40;&#41;;\n System.out.printf&#40;&quot;Hour metrics enabled: %b, Minute metrics enabled: %b&quot;,\n     properties.getHourMetrics&#40;&#41;.isEnabled&#40;&#41;, properties.getMinuteMetrics&#40;&#41;.isEnabled&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-service-properties\">Azure\n Docs</a>.</p>"
+  summary: "Retrieves the properties of the storage account's Queue service. The properties range from storage analytics and metric to CORS (Cross-Origin Resource Sharing).\n\n**Code Samples**\n\nRetrieve Queue service properties\n\n```java\nQueueServiceProperties properties = client.getProperties();\n System.out.printf(\"Hour metrics enabled: %b, Minute metrics enabled: %b\",\n     properties.getHourMetrics().isEnabled(), properties.getMinuteMetrics().isEnabled());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-service-properties"
   syntax: "public QueueServiceProperties getProperties()"
   returns:
     description: "Storage account Queue service properties"

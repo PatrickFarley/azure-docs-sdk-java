@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayBackendAddressPool.withProvisioningState(String provisioningState)"
   name: "withProvisioningState(String provisioningState)"
   nameWithType: "ApplicationGatewayBackendAddressPool.withProvisioningState(String provisioningState)"
-  summary: "Set the provisioningState property: Provisioning state of the backend address pool resource. Possible values are:\n 'Updating', 'Deleting', and 'Failed'."
+  summary: "Set the provisioningState property: Provisioning state of the backend address pool resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   parameters:
   - description: "the provisioningState value to set."
     name: "provisioningState"

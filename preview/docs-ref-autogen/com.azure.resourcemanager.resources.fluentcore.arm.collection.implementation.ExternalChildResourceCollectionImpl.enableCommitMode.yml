@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.collection.implementation.ExternalChildResourceCollectionImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.enableCommitMode()"
   name: "enableCommitMode()"
   nameWithType: "ExternalChildResourceCollectionImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.enableCommitMode()"
-  summary: "Indicates that the pending operations on the resources are performed via explicit call to\n {@link this#commitAsync()}."
+  summary: "Indicates that the pending operations on the resources are performed via explicit call to \\{@link this\\#commitAsync()\\}."
   syntax: "public void enableCommitMode()"
 type: "method"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.MessageProperty.isValidAppProperty(String name, String value)"
   name: "isValidAppProperty(String name, String value)"
   nameWithType: "MessageProperty.isValidAppProperty(String name, String value)"
-  summary: "Returns whether the property is a valid application property. The\n property is valid if it is not one of the reserved properties, only uses US-ASCII"
+  summary: "Returns whether the property is a valid application property. The property is valid if it is not one of the reserved properties, only uses US-ASCII"
   parameters:
   - description: "the property name."
     name: "name"

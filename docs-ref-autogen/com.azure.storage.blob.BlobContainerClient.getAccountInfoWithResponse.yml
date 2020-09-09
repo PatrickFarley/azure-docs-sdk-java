@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.BlobContainerClient.getAccountInfoWithResponse(Duration timeout, Context context)"
   name: "getAccountInfoWithResponse(Duration timeout, Context context)"
   nameWithType: "BlobContainerClient.getAccountInfoWithResponse(Duration timeout, Context context)"
-  summary: "Returns the sku name and account kind for the account. For more information, please see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-account-information\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Context context = new Context&#40;&quot;Key&quot;, &quot;Value&quot;&#41;;\n StorageAccountInfo accountInfo = client.getAccountInfoWithResponse&#40;timeout, context&#41;.getValue&#40;&#41;;\n System.out.printf&#40;&quot;Account Kind: %s, SKU: %s%n&quot;, accountInfo.getAccountKind&#40;&#41;, accountInfo.getSkuName&#40;&#41;&#41;;\n </pre>"
+  summary: "Returns the sku name and account kind for the account. For more information, please see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nContext context = new Context(\"Key\", \"Value\");\n StorageAccountInfo accountInfo = client.getAccountInfoWithResponse(timeout, context).getValue();\n System.out.printf(\"Account Kind: %s, SKU: %s%n\", accountInfo.getAccountKind(), accountInfo.getSkuName());\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-account-information"
   parameters:
   - description: "An optional timeout value beyond which a <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> will be raised."
     name: "timeout"

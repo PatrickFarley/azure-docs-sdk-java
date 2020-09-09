@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.NetworkInterfaceIpConfigurationInner.withApplicationGatewayBackendAddressPools(List<ApplicationGatewayBackendAddressPool> applicationGatewayBackendAddressPools)"
   name: "withApplicationGatewayBackendAddressPools(List<ApplicationGatewayBackendAddressPool> applicationGatewayBackendAddressPools)"
   nameWithType: "NetworkInterfaceIpConfigurationInner.withApplicationGatewayBackendAddressPools(List<ApplicationGatewayBackendAddressPool> applicationGatewayBackendAddressPools)"
-  summary: "Set the applicationGatewayBackendAddressPools property: The reference of ApplicationGatewayBackendAddressPool\n resource."
+  summary: "Set the applicationGatewayBackendAddressPools property: The reference of ApplicationGatewayBackendAddressPool resource."
   parameters:
   - description: "the applicationGatewayBackendAddressPools value to set."
     name: "applicationGatewayBackendAddressPools"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentInput.TextDocumentInput(String id, String text)"
   name: "TextDocumentInput(String id, String text)"
   nameWithType: "TextDocumentInput.TextDocumentInput(String id, String text)"
-  summary: "Creates a <code>TextDocumentInput</code> model that describes the documents."
+  summary: "Creates a `TextDocumentInput` model that describes the documents."
   parameters:
   - description: "A unique, non-empty document identifier."
     name: "id"

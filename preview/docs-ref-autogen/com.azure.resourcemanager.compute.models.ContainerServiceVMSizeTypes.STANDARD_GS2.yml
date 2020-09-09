@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ContainerServiceVMSizeTypes.STANDARD_GS2"
   name: "STANDARD_GS2"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_GS2"
-  summary: "Static value Standard_GS2 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_GS2 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_GS2"
 type: "field"
 metadata: {}

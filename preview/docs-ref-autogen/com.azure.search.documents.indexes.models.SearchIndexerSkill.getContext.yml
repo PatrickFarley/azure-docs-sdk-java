@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexerSkill.getContext()"
   name: "getContext()"
   nameWithType: "SearchIndexerSkill.getContext()"
-  summary: "Get the context property: Represents the level at which operations take\n place, such as the document root or document content (for example,\n /document or /document/content). The default is /document."
+  summary: "Get the context property: Represents the level at which operations take place, such as the document root or document content (for example, /document or /document/content). The default is /document."
   syntax: "public String getContext()"
   returns:
     description: "the context value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DedicatedHostInstanceView.assetId()"
   name: "assetId()"
   nameWithType: "DedicatedHostInstanceView.assetId()"
-  summary: "Get the assetId property: Specifies the unique id of the dedicated physical machine on which the dedicated host\n resides."
+  summary: "Get the assetId property: Specifies the unique id of the dedicated physical machine on which the dedicated host resides."
   syntax: "public String assetId()"
   returns:
     description: "the assetId value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.Mediaservices.getBySubscriptionAsync(String accountName)"
   name: "getBySubscriptionAsync(String accountName)"
   nameWithType: "Mediaservices.getBySubscriptionAsync(String accountName)"
-  summary: "Get a Media Services account.\n Get the details of a Media Services account."
+  summary: "Get a Media Services account. Get the details of a Media Services account."
   parameters:
   - description: "The Media Services account name."
     name: "accountName"

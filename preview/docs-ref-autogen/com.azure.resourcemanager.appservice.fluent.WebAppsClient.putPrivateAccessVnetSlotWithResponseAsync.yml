@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.putPrivateAccessVnetSlotWithResponseAsync(String resourceGroupName, String name, String slot, PrivateAccessInner access)"
   name: "putPrivateAccessVnetSlotWithResponseAsync(String resourceGroupName, String name, String slot, PrivateAccessInner access)"
   nameWithType: "WebAppsClient.putPrivateAccessVnetSlotWithResponseAsync(String resourceGroupName, String name, String slot, PrivateAccessInner access)"
-  summary: "Description for Sets data around private site access enablement and authorized Virtual Networks that can access\n the site."
+  summary: "Description for Sets data around private site access enablement and authorized Virtual Networks that can access the site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.putPrivateAccessVnetSlotWithResponseAsync(String resourceGroupName, String name, String slot, PrivateAccessInner access, Context context)"
   name: "putPrivateAccessVnetSlotWithResponseAsync(String resourceGroupName, String name, String slot, PrivateAccessInner access, Context context)"
   nameWithType: "WebAppsClient.putPrivateAccessVnetSlotWithResponseAsync(String resourceGroupName, String name, String slot, PrivateAccessInner access, Context context)"
-  summary: "Description for Sets data around private site access enablement and authorized Virtual Networks that can access\n the site."
+  summary: "Description for Sets data around private site access enablement and authorized Virtual Networks that can access the site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

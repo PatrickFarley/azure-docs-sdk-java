@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRouteCircuitPeeringInner.withProvisioningState(String provisioningState)"
   name: "withProvisioningState(String provisioningState)"
   nameWithType: "ExpressRouteCircuitPeeringInner.withProvisioningState(String provisioningState)"
-  summary: "Set the provisioningState property: Gets the provisioning state of the public IP resource. Possible values are:\n 'Updating', 'Deleting', and 'Failed'."
+  summary: "Set the provisioningState property: Gets the provisioning state of the public IP resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   parameters:
   - description: "the provisioningState value to set."
     name: "provisioningState"

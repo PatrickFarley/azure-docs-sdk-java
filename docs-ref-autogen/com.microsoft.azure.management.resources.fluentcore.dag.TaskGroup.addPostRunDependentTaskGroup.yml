@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.resources.fluentcore.dag.TaskGroup.addPostRunDependentTaskGroup(TaskGroup dependentTaskGroup)"
   name: "addPostRunDependentTaskGroup(TaskGroup dependentTaskGroup)"
   nameWithType: "TaskGroup.addPostRunDependentTaskGroup(TaskGroup dependentTaskGroup)"
-  summary: "Mark root of the given task group depends on this task group's root.\n This ensure given task group's root get picked for invocation only after the completion\n of all tasks in this group. Calling invokeAsync(cxt) will run the tasks in the given\n dependent task group as well."
+  summary: "Mark root of the given task group depends on this task group's root. This ensure given task group's root get picked for invocation only after the completion of all tasks in this group. Calling invokeAsync(cxt) will run the tasks in the given dependent task group as well."
   parameters:
   - description: "the task group depends on this task group"
     name: "dependentTaskGroup"

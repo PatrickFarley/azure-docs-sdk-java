@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.AutocompleteRequest.setAutocompleteMode(AutocompleteMode autocompleteMode)"
   name: "setAutocompleteMode(AutocompleteMode autocompleteMode)"
   nameWithType: "AutocompleteRequest.setAutocompleteMode(AutocompleteMode autocompleteMode)"
-  summary: "Set the autocompleteMode property: Specifies the mode for Autocomplete. The default is 'oneTerm'. Use 'twoTerms'\n to get shingles and 'oneTermWithContext' to use the current context while producing auto-completed terms."
+  summary: "Set the autocompleteMode property: Specifies the mode for Autocomplete. The default is 'oneTerm'. Use 'twoTerms' to get shingles and 'oneTermWithContext' to use the current context while producing auto-completed terms."
   parameters:
   - description: "the autocompleteMode value to set."
     name: "autocompleteMode"

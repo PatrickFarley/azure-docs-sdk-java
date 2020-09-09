@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobMetrics.isEnabled()"
   name: "isEnabled()"
   nameWithType: "BlobMetrics.isEnabled()"
-  summary: "Get the enabled property: Indicates whether metrics are enabled for the\n Blob service."
+  summary: "Get the enabled property: Indicates whether metrics are enabled for the Blob service."
   syntax: "public boolean isEnabled()"
   returns:
     description: "the enabled value."

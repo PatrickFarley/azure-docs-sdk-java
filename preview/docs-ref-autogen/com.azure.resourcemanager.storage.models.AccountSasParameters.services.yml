@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.AccountSasParameters.services()"
   name: "services()"
   nameWithType: "AccountSasParameters.services()"
-  summary: "Get the services property: The signed services accessible with the account SAS. Possible values include: Blob\n (b), Queue (q), Table (t), File (f)."
+  summary: "Get the services property: The signed services accessible with the account SAS. Possible values include: Blob (b), Queue (q), Table (t), File (f)."
   syntax: "public Services services()"
   returns:
     description: "the services value."

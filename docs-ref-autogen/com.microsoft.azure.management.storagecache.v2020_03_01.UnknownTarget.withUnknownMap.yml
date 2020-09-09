@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storagecache.v2020_03_01.UnknownTarget.withUnknownMap(Map<String,String> unknownMap)"
   name: "withUnknownMap(Map<String,String> unknownMap)"
   nameWithType: "UnknownTarget.withUnknownMap(Map<String,String> unknownMap)"
-  summary: "Set dictionary of string-&gt;string pairs containing information about the Storage Target."
+  summary: "Set dictionary of string->string pairs containing information about the Storage Target."
   parameters:
   - description: "the unknownMap value to set"
     name: "unknownMap"

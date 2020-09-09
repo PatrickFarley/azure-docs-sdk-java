@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerDataSources.createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName)"
   name: "createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName)"
   nameWithType: "SearchIndexerDataSources.createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName)"
-  summary: "Creates a new <xref uid=\"SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to a Cosmos database with change detection\n set to true."
+  summary: "Creates a new <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to a Cosmos database with change detection set to true."
   parameters:
   - description: "The name of the data source."
     name: "dataSourceName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerDataSources.createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName, Boolean useChangeDetection)"
   name: "createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName, Boolean useChangeDetection)"
   nameWithType: "SearchIndexerDataSources.createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName, Boolean useChangeDetection)"
-  summary: "Creates a new <xref uid=\"SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to a Cosmos database."
+  summary: "Creates a new <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to a Cosmos database."
   parameters:
   - description: "The name of the data source."
     name: "dataSourceName"
@@ -49,7 +49,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerDataSources.createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName, String query, Boolean useChangeDetection, String description, DataDeletionDetectionPolicy deletionDetectionPolicy)"
   name: "createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName, String query, Boolean useChangeDetection, String description, DataDeletionDetectionPolicy deletionDetectionPolicy)"
   nameWithType: "SearchIndexerDataSources.createFromCosmos(String dataSourceName, String cosmosConnectionString, String collectionName, String query, Boolean useChangeDetection, String description, DataDeletionDetectionPolicy deletionDetectionPolicy)"
-  summary: "Creates a new <xref uid=\"SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to a Cosmos database."
+  summary: "Creates a new <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to connect to a Cosmos database."
   parameters:
   - description: "The name of the data source."
     name: "dataSourceName"

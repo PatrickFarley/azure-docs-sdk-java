@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.SkuInformationInner.restrictions()"
   name: "restrictions()"
   nameWithType: "SkuInformationInner.restrictions()"
-  summary: "Get the restrictions property: The restrictions because of which SKU cannot be used. This is empty if there are\n no restrictions."
+  summary: "Get the restrictions property: The restrictions because of which SKU cannot be used. This is empty if there are no restrictions."
   syntax: "public List<Restriction> restrictions()"
   returns:
     description: "the restrictions value."

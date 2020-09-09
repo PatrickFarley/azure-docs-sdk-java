@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClientBuilder.endpoint(String endpoint)"
   name: "endpoint(String endpoint)"
   nameWithType: "ShareFileClientBuilder.endpoint(String endpoint)"
-  summary: "Sets the endpoint for the Azure Storage File instance that the client will interact with.\n\n <p>The first path segment, if the endpoint contains path segments, will be assumed to be the name of the share\n that the client will interact with. Rest of the path segments should be the path of the file. It mush end up with\n the file name if more segments exist.</p>\n\n <p>Query parameters of the endpoint will be parsed in an attempt to generate a SAS token to authenticate\n requests sent to the service.</p>"
+  summary: "Sets the endpoint for the Azure Storage File instance that the client will interact with.\n\nThe first path segment, if the endpoint contains path segments, will be assumed to be the name of the share that the client will interact with. Rest of the path segments should be the path of the file. It mush end up with the file name if more segments exist.\n\nQuery parameters of the endpoint will be parsed in an attempt to generate a SAS token to authenticate requests sent to the service."
   parameters:
   - description: "The URL of the Azure Storage File instance to send service requests to and receive responses\n from."
     name: "endpoint"

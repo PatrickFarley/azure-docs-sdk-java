@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.SnapshotRestoreRequest.withSnapshotTime(String snapshotTime)"
   name: "withSnapshotTime(String snapshotTime)"
   nameWithType: "SnapshotRestoreRequest.withSnapshotTime(String snapshotTime)"
-  summary: "Set the snapshotTime property: Point in time in which the app restore should be done, formatted as a DateTime\n string."
+  summary: "Set the snapshotTime property: Point in time in which the app restore should be done, formatted as a DateTime string."
   parameters:
   - description: "the snapshotTime value to set."
     name: "snapshotTime"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.removeFrom(CharSequence sequence)"
   name: "removeFrom(CharSequence sequence)"
   nameWithType: "CharMatcher.removeFrom(CharSequence sequence)"
-  summary: "Returns a string containing all non-matching characters of a character sequence, in order. For\n example:\n\n <pre><code>\n CharMatcher.is('a').removeFrom(\"bazaar\")\n </code></pre>\n\n ... returns <code>\"bzr\"</code>."
+  summary: "Returns a string containing all non-matching characters of a character sequence, in order. For example:\n\n```java\nCharMatcher.is('a').removeFrom(\"bazaar\")\n```\n\n... returns `\"bzr\"`."
   parameters:
   - name: "sequence"
     type: "<xref href=\"java.lang.CharSequence?alt=java.lang.CharSequence&text=CharSequence\" data-throw-if-not-resolved=\"False\" />"

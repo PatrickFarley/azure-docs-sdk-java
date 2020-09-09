@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.Network.UpdateStages.WithSubnet.withSubnet(String name, String cidr)"
   name: "withSubnet(String name, String cidr)"
   nameWithType: "Network.UpdateStages.WithSubnet.withSubnet(String name, String cidr)"
-  summary: "Explicitly adds a subnet to the virtual network.\n\n <p>Note this method's effect is additive, i.e. each time it is used, a new subnet is added to the\n network."
+  summary: "Explicitly adds a subnet to the virtual network.\n\nNote this method's effect is additive, i.e. each time it is used, a new subnet is added to the network."
   parameters:
   - description: "the name to assign to the subnet"
     name: "name"

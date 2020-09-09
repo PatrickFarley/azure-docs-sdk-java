@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ConcurrentHashMultiset<E>.size()"
   name: "size()"
   nameWithType: "ConcurrentHashMultiset<E>.size()"
-  summary: "\n\n <p>If the data in the multiset is modified by any other threads during this method, it is\n undefined which (if any) of these modifications will be reflected in the result."
+  summary: "If the data in the multiset is modified by any other threads during this method, it is undefined which (if any) of these modifications will be reflected in the result."
   overridden: "java.util.AbstractCollection.size()"
   syntax: "public int size()"
   returns:

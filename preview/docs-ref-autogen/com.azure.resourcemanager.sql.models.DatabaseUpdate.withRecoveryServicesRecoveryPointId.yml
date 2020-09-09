@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.DatabaseUpdate.withRecoveryServicesRecoveryPointId(String recoveryServicesRecoveryPointId)"
   name: "withRecoveryServicesRecoveryPointId(String recoveryServicesRecoveryPointId)"
   nameWithType: "DatabaseUpdate.withRecoveryServicesRecoveryPointId(String recoveryServicesRecoveryPointId)"
-  summary: "Set the recoveryServicesRecoveryPointId property: The resource identifier of the recovery point associated with\n create operation of this database."
+  summary: "Set the recoveryServicesRecoveryPointId property: The resource identifier of the recovery point associated with create operation of this database."
   parameters:
   - description: "the recoveryServicesRecoveryPointId value to set."
     name: "recoveryServicesRecoveryPointId"

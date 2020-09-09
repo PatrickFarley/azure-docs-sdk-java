@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.CustomHostnameAnalysisResultInner.conflictingAppResourceId()"
   name: "conflictingAppResourceId()"
   nameWithType: "CustomHostnameAnalysisResultInner.conflictingAppResourceId()"
-  summary: "Get the conflictingAppResourceId property: Name of the conflicting app on scale unit if it's within the same\n subscription."
+  summary: "Get the conflictingAppResourceId property: Name of the conflicting app on scale unit if it's within the same subscription."
   syntax: "public String conflictingAppResourceId()"
   returns:
     description: "the conflictingAppResourceId value."

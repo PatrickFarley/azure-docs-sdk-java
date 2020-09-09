@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.CharMatcher.SINGLE_WIDTH"
   name: "SINGLE_WIDTH"
   nameWithType: "CharMatcher.SINGLE_WIDTH"
-  summary: "Determines whether a character is single-width (not double-width). When in doubt,\n this matcher errs on the side of returning <code>false</code> (that is, it tends to\n assume a character is double-width).\n\n <p><b>Note:</b> as the reference file evolves, we will modify this constant to\n keep it up to date."
+  summary: "Determines whether a character is single-width (not double-width). When in doubt, this matcher errs on the side of returning `false` (that is, it tends to assume a character is double-width).\n\n**Note:** as the reference file evolves, we will modify this constant to keep it up to date."
   syntax: "public static final CharMatcher SINGLE_WIDTH"
 type: "field"
 metadata: {}

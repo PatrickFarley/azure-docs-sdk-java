@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.EventDataInner.eventName()"
   name: "eventName()"
   nameWithType: "EventDataInner.eventName()"
-  summary: "Get the eventName property: the event name. This value should not be confused with OperationName. For practical\n purposes, OperationName might be more appealing to end users."
+  summary: "Get the eventName property: the event name. This value should not be confused with OperationName. For practical purposes, OperationName might be more appealing to end users."
   syntax: "public LocalizableStringInner eventName()"
   returns:
     description: "the eventName value."

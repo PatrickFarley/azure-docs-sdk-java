@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.RegexFlags.UNIX_LINES"
   name: "UNIX_LINES"
   nameWithType: "RegexFlags.UNIX_LINES"
-  summary: "Static value UNIX_LINES for RegexFlags."
+  summary: "Static value UNIX\\_LINES for RegexFlags."
   syntax: "public static final RegexFlags UNIX_LINES"
 type: "field"
 metadata: {}

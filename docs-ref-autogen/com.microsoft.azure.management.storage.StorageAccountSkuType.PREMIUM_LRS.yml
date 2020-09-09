@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccountSkuType.PREMIUM_LRS"
   name: "PREMIUM_LRS"
   nameWithType: "StorageAccountSkuType.PREMIUM_LRS"
-  summary: "Static value PREMIUM_LRS for StorageAccountSkuType."
+  summary: "Static value PREMIUM\\_LRS for StorageAccountSkuType."
   syntax: "public static final StorageAccountSkuType PREMIUM_LRS"
 type: "field"
 metadata: {}

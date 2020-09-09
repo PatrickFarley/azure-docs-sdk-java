@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.createSynonymMap(SynonymMap synonymMap)"
   name: "createSynonymMap(SynonymMap synonymMap)"
   nameWithType: "SearchIndexAsyncClient.createSynonymMap(SynonymMap synonymMap)"
-  summary: "Creates a new Azure Cognitive Search synonym map.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Create synonym map named \"synonymMap\". </p>\n\n <pre>\n SynonymMap synonymMap = new SynonymMap&#40;&quot;synonymMap&quot;,\n     &quot;United States, United States of America, USA&#92;nWashington, Wash. =&gt; WA&quot;&#41;;\n searchIndexAsyncClient.createSynonymMap&#40;synonymMap&#41;\n     .subscribe&#40;synonymMapFromService -&gt;\n         System.out.printf&#40;&quot;The synonym map name is %s. The etag of synonym map is %s.%n&quot;,\n         synonymMapFromService.getName&#40;&#41;, synonymMapFromService.getETag&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a new Azure Cognitive Search synonym map.\n\n**Code Sample**\n\nCreate synonym map named \"synonymMap\".\n\n```java\nSynonymMap synonymMap = new SynonymMap(\"synonymMap\",\n     \"United States, United States of America, USA\\nWashington, Wash. => WA\");\n searchIndexAsyncClient.createSynonymMap(synonymMap)\n     .subscribe(synonymMapFromService ->\n         System.out.printf(\"The synonym map name is %s. The etag of synonym map is %s.%n\",\n         synonymMapFromService.getName(), synonymMapFromService.getETag()));\n```"
   parameters:
   - description: "the definition of the synonym map to create"
     name: "synonymMap"

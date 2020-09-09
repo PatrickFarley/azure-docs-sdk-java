@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.CatalogCollationType.DATABASE_DEFAULT"
   name: "DATABASE_DEFAULT"
   nameWithType: "CatalogCollationType.DATABASE_DEFAULT"
-  summary: "Static value DATABASE_DEFAULT for CatalogCollationType."
+  summary: "Static value DATABASE\\_DEFAULT for CatalogCollationType."
   syntax: "public static final CatalogCollationType DATABASE_DEFAULT"
 type: "field"
 metadata: {}

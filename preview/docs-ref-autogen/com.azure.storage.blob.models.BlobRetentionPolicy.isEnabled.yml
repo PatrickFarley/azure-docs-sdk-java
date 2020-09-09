@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobRetentionPolicy.isEnabled()"
   name: "isEnabled()"
   nameWithType: "BlobRetentionPolicy.isEnabled()"
-  summary: "Get the enabled property: Indicates whether a retention policy is\n enabled for the storage service."
+  summary: "Get the enabled property: Indicates whether a retention policy is enabled for the storage service."
   syntax: "public boolean isEnabled()"
   returns:
     description: "the enabled value."

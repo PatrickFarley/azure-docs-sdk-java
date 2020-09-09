@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.AuthorizationServerUpdateContract.tokenBodyParameters()"
   name: "tokenBodyParameters()"
   nameWithType: "AuthorizationServerUpdateContract.tokenBodyParameters()"
-  summary: "Get additional parameters required by the token endpoint of this authorization server represented as an array of JSON objects with name and value string properties, i.e. {\"name\" : \"name value\", \"value\": \"a value\"}."
+  summary: "Get additional parameters required by the token endpoint of this authorization server represented as an array of JSON objects with name and value string properties, i.e. \\{\"name\" : \"name value\", \"value\": \"a value\"\\}."
   syntax: "public List<TokenBodyParameterContract> tokenBodyParameters()"
   returns:
     description: "the tokenBodyParameters value"

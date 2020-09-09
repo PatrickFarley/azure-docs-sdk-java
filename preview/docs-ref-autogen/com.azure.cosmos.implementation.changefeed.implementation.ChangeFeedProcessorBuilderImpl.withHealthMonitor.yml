@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedProcessorBuilderImpl.withHealthMonitor(HealthMonitor healthMonitor)"
   name: "withHealthMonitor(HealthMonitor healthMonitor)"
   nameWithType: "ChangeFeedProcessorBuilderImpl.withHealthMonitor(HealthMonitor healthMonitor)"
-  summary: "Sets the <xref uid=\"HealthMonitor\" data-throw-if-not-resolved=\"false\">HealthMonitor</xref> to be used to monitor unhealthiness situation."
+  summary: "Sets the <xref uid=\"com.azure.cosmos.implementation.changefeed.HealthMonitor\" data-throw-if-not-resolved=\"false\">HealthMonitor</xref> to be used to monitor unhealthiness situation."
   parameters:
   - description: "The instance of <xref uid=\"com.azure.cosmos.implementation.changefeed.HealthMonitor\" data-throw-if-not-resolved=\"false\">HealthMonitor</xref> to use."
     name: "healthMonitor"

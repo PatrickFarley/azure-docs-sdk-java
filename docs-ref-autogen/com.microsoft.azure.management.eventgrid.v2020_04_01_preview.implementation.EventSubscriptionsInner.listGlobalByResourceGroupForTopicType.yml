@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicType(String resourceGroupName, String topicTypeName)"
   name: "listGlobalByResourceGroupForTopicType(String resourceGroupName, String topicTypeName)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicType(String resourceGroupName, String topicTypeName)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listGlobalByResourceGroupForTopicType(String resourceGroupName, String topicTypeName, String filter, Integer top)"
   name: "listGlobalByResourceGroupForTopicType(String resourceGroupName, String topicTypeName, String filter, Integer top)"
   nameWithType: "EventSubscriptionsInner.listGlobalByResourceGroupForTopicType(String resourceGroupName, String topicTypeName, String filter, Integer top)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

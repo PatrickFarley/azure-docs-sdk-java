@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.AssetFilters.listAsync(String resourceGroupName, String accountName, String assetName)"
   name: "listAsync(String resourceGroupName, String accountName, String assetName)"
   nameWithType: "AssetFilters.listAsync(String resourceGroupName, String accountName, String assetName)"
-  summary: "List Asset Filters.\n List Asset Filters associated with the specified Asset."
+  summary: "List Asset Filters. List Asset Filters associated with the specified Asset."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

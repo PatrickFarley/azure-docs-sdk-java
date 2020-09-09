@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ScaleRule.scaleType()"
   name: "scaleType()"
   nameWithType: "ScaleRule.scaleType()"
-  summary: "Get the type of action that should occur when the scale rule fires. Possible values include: 'ChangeCount',\n 'PercentChangeCount', 'ExactCount'."
+  summary: "Get the type of action that should occur when the scale rule fires. Possible values include: 'ChangeCount', 'PercentChangeCount', 'ExactCount'."
   syntax: "public abstract ScaleType scaleType()"
   returns:
     description: "the type value"

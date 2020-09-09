@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.getComparator()"
   name: "getComparator()"
   nameWithType: "Range<T>.getComparator()"
-  summary: "<p>Gets the comparator being used to determine if objects are within the range.</p>\n\n <p>Natural ordering uses an internal comparator implementation, thus this\n method never returns null.</p>"
+  summary: "Gets the comparator being used to determine if objects are within the range.\n\nNatural ordering uses an internal comparator implementation, thus this method never returns null."
   syntax: "public Comparator<T> getComparator()"
   returns:
     description: "the comparator being used, not null"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusMessageBatch.getSizeInBytes()"
   name: "getSizeInBytes()"
   nameWithType: "ServiceBusMessageBatch.getSizeInBytes()"
-  summary: "Gets the size of the <xref uid=\"ServiceBusMessageBatch\" data-throw-if-not-resolved=\"false\">ServiceBusMessageBatch</xref> in bytes."
+  summary: "Gets the size of the <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessageBatch\" data-throw-if-not-resolved=\"false\">ServiceBusMessageBatch</xref> in bytes."
   syntax: "public int getSizeInBytes()"
   returns:
     description: "the size of the <xref uid=\"com.azure.messaging.servicebus.ServiceBusMessageBatch\" data-throw-if-not-resolved=\"false\">ServiceBusMessageBatch</xref> in bytes."

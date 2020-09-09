@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ActiveDirectoryUser.DefinitionStages.WithUserPrincipalName.withUserPrincipalName(String userPrincipalName)"
   name: "withUserPrincipalName(String userPrincipalName)"
   nameWithType: "ActiveDirectoryUser.DefinitionStages.WithUserPrincipalName.withUserPrincipalName(String userPrincipalName)"
-  summary: "Specifies the user principal name of the user. It must contain one of the verified domains for the\n tenant."
+  summary: "Specifies the user principal name of the user. It must contain one of the verified domains for the tenant."
   parameters:
   - description: "the user principal name"
     name: "userPrincipalName"

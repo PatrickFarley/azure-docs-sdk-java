@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.analyzeImageInStreamAsync(byte[] image, AnalyzeImageInStreamOptionalParameter analyzeImageInStreamOptionalParameter)"
   name: "analyzeImageInStreamAsync(byte[] image, AnalyzeImageInStreamOptionalParameter analyzeImageInStreamOptionalParameter)"
   nameWithType: "ComputerVision.analyzeImageInStreamAsync(byte[] image, AnalyzeImageInStreamOptionalParameter analyzeImageInStreamOptionalParameter)"
-  summary: "This operation extracts a rich set of visual features based on the image content.\n   Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL. Within your\n   request, there is an optional parameter to allow you to choose which features to return. By default, image\n   categories are returned in the response.\n   A successful response will be returned in JSON. If the request failed, the response will contain an error\n   code and a message to help understand what went wrong."
+  summary: "This operation extracts a rich set of visual features based on the image content. Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL. Within your request, there is an optional parameter to allow you to choose which features to return. By default, image categories are returned in the response. A successful response will be returned in JSON. If the request failed, the response will contain an error code and a message to help understand what went wrong."
   parameters:
   - description: "An image stream."
     name: "image"

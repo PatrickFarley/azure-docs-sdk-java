@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.of()"
   name: "of()"
   nameWithType: "RequestTimeline.of()"
-  summary: "Returns an empty <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref>.\n\n The empty startTimeUTC line returned is static and equivalent to calling <xref uid=\"RequestTimeline#empty\" data-throw-if-not-resolved=\"false\">RequestTimeline#empty</xref>."
+  summary: "Returns an empty <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref>. The empty startTimeUTC line returned is static and equivalent to calling <xref uid=\"com.azure.cosmos.implementation.RequestTimeline.empty*\" data-throw-if-not-resolved=\"false\">RequestTimeline#empty</xref>."
   syntax: "public static RequestTimeline of()"
   returns:
     description: "an empty request timeline."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.of(RequestTimeline.Event event)"
   name: "of(RequestTimeline.Event event)"
   nameWithType: "RequestTimeline.of(RequestTimeline.Event event)"
-  summary: "Returns a new <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with a single event."
+  summary: "Returns a new <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with a single event."
   parameters:
   - name: "event"
     type: "<xref href=\"com.azure.cosmos.implementation.RequestTimeline.Event?alt=com.azure.cosmos.implementation.RequestTimeline.Event&text=Event\" data-throw-if-not-resolved=\"False\" />"
@@ -29,7 +29,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2)"
   name: "of(RequestTimeline.Event e1, RequestTimeline.Event e2)"
   nameWithType: "RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2)"
-  summary: "Returns a new <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with a pair of events."
+  summary: "Returns a new <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with a pair of events."
   parameters:
   - name: "e1"
     type: "<xref href=\"com.azure.cosmos.implementation.RequestTimeline.Event?alt=com.azure.cosmos.implementation.RequestTimeline.Event&text=Event\" data-throw-if-not-resolved=\"False\" />"
@@ -43,7 +43,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3)"
   name: "of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3)"
   nameWithType: "RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3)"
-  summary: "Returns a new <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with three events."
+  summary: "Returns a new <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with three events."
   parameters:
   - name: "e1"
     type: "<xref href=\"com.azure.cosmos.implementation.RequestTimeline.Event?alt=com.azure.cosmos.implementation.RequestTimeline.Event&text=Event\" data-throw-if-not-resolved=\"False\" />"
@@ -59,7 +59,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3, RequestTimeline.Event e4)"
   name: "of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3, RequestTimeline.Event e4)"
   nameWithType: "RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3, RequestTimeline.Event e4)"
-  summary: "Returns a new <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with four events."
+  summary: "Returns a new <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with four events."
   parameters:
   - name: "e1"
     type: "<xref href=\"com.azure.cosmos.implementation.RequestTimeline.Event?alt=com.azure.cosmos.implementation.RequestTimeline.Event&text=Event\" data-throw-if-not-resolved=\"False\" />"
@@ -77,7 +77,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3, RequestTimeline.Event e4, RequestTimeline.Event e5)"
   name: "of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3, RequestTimeline.Event e4, RequestTimeline.Event e5)"
   nameWithType: "RequestTimeline.of(RequestTimeline.Event e1, RequestTimeline.Event e2, RequestTimeline.Event e3, RequestTimeline.Event e4, RequestTimeline.Event e5)"
-  summary: "Returns a new <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with five events."
+  summary: "Returns a new <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with five events."
   parameters:
   - name: "e1"
     type: "<xref href=\"com.azure.cosmos.implementation.RequestTimeline.Event?alt=com.azure.cosmos.implementation.RequestTimeline.Event&text=Event\" data-throw-if-not-resolved=\"False\" />"
@@ -97,7 +97,7 @@ members:
   fullName: "com.azure.cosmos.implementation.RequestTimeline.of(RequestTimeline.Event[] events)"
   name: "of(RequestTimeline.Event[] events)"
   nameWithType: "RequestTimeline.of(RequestTimeline.Event[] events)"
-  summary: "Returns a new <xref uid=\"RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with an arbitrary number of events."
+  summary: "Returns a new <xref uid=\"com.azure.cosmos.implementation.RequestTimeline\" data-throw-if-not-resolved=\"false\">RequestTimeline</xref> with an arbitrary number of events."
   parameters:
   - name: "events"
     type: "<xref href=\"com.azure.cosmos.implementation.RequestTimeline.Event?alt=com.azure.cosmos.implementation.RequestTimeline.Event&text=Event\" data-throw-if-not-resolved=\"False\" />[]"

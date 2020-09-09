@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestResult.getAdditionalProperties()"
   name: "getAdditionalProperties()"
   nameWithType: "SuggestResult.getAdditionalProperties()"
-  summary: "Get the additionalProperties property: A result containing a document found by a suggestion query, plus\n associated metadata."
+  summary: "Get the additionalProperties property: A result containing a document found by a suggestion query, plus associated metadata."
   syntax: "public Map<String,Object> getAdditionalProperties()"
   returns:
     description: "the additionalProperties value."

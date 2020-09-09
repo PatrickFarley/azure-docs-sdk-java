@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosItemResponse<T>.getETag()"
   name: "getETag()"
   nameWithType: "CosmosItemResponse<T>.getETag()"
-  summary: "Gets the ETag from the response headers.\n This is only relevant when getting response from the server.\n\n Null in case of delete operation."
+  summary: "Gets the ETag from the response headers. This is only relevant when getting response from the server. Null in case of delete operation."
   syntax: "public String getETag()"
   returns:
     description: "ETag"

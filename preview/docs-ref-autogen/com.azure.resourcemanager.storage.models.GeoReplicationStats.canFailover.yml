@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.GeoReplicationStats.canFailover()"
   name: "canFailover()"
   nameWithType: "GeoReplicationStats.canFailover()"
-  summary: "Get the canFailover property: A boolean flag which indicates whether or not account failover is supported for the\n account."
+  summary: "Get the canFailover property: A boolean flag which indicates whether or not account failover is supported for the account."
   syntax: "public Boolean canFailover()"
   returns:
     description: "the canFailover value."

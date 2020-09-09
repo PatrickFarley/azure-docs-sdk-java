@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.transport.http.HttpConnection.getResponseHeaders()"
   name: "getResponseHeaders()"
   nameWithType: "HttpConnection.getResponseHeaders()"
-  summary: "Returns the response headers as a Map, where the key is the header field\n name and the values are the values associated with the header field\n name."
+  summary: "Returns the response headers as a Map, where the key is the header field name and the values are the values associated with the header field name."
   syntax: "public Map<String,List<String>> getResponseHeaders()"
   exceptions:
   - description: "This exception thrown if no response was received."

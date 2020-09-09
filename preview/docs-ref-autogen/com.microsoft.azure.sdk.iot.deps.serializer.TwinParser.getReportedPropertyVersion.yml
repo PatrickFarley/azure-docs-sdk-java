@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.getReportedPropertyVersion()"
   name: "getReportedPropertyVersion()"
   nameWithType: "TwinParser.getReportedPropertyVersion()"
-  summary: "Return the `reported` property version."
+  summary: "Return the \\`reported\\` property version."
   syntax: "public Integer getReportedPropertyVersion()"
   returns:
     description: "Integer that contains the `reported` property version (it can be null)."

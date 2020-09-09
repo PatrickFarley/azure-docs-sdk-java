@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccount.DefinitionStages.WithNetworkAccess.withAccessFromSelectedNetworks()"
   name: "withAccessFromSelectedNetworks()"
   nameWithType: "StorageAccount.DefinitionStages.WithNetworkAccess.withAccessFromSelectedNetworks()"
-  summary: "Specifies that by default access to storage account should be denied from\n all networks except from those networks specified via\n <xref uid=\"WithNetworkAccess#withAccessFromNetworkSubnet(String)\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromNetworkSubnet(String)</xref>\n <xref uid=\"WithNetworkAccess#withAccessFromIpAddress(String)\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddress(String)</xref> and\n <xref uid=\"WithNetworkAccess#withAccessFromIpAddressRange(String)\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddressRange(String)</xref>."
+  summary: "Specifies that by default access to storage account should be denied from all networks except from those networks specified via <xref uid=\"\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromNetworkSubnet(String)</xref> <xref uid=\"\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddress(String)</xref> and <xref uid=\"\" data-throw-if-not-resolved=\"false\">WithNetworkAccess#withAccessFromIpAddressRange(String)</xref>."
   syntax: "public abstract StorageAccount.DefinitionStages.WithCreate withAccessFromSelectedNetworks()"
   returns:
     description: "the next stage of storage account definition"

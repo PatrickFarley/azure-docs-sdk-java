@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineImageResourceInner.withTags(Map<String,String> tags)"
   name: "withTags(Map<String,String> tags)"
   nameWithType: "VirtualMachineImageResourceInner.withTags(Map<String,String> tags)"
-  summary: "Set the tags property: Specifies the tags that are assigned to the virtual machine. For more information about\n using tags, see [Using tags to organize your Azure\n resources](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-using-tags.md)."
+  summary: "Set the tags property: Specifies the tags that are assigned to the virtual machine. For more information about using tags, see \\[Using tags to organize your Azure resources\\](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-using-tags.md)."
   parameters:
   - description: "the tags value to set."
     name: "tags"

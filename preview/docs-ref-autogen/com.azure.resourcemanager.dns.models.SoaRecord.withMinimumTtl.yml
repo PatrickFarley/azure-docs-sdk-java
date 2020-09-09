@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.dns.models.SoaRecord.withMinimumTtl(Long minimumTtl)"
   name: "withMinimumTtl(Long minimumTtl)"
   nameWithType: "SoaRecord.withMinimumTtl(Long minimumTtl)"
-  summary: "Set the minimumTtl property: The minimum value for this SOA record. By convention this is used to determine the\n negative caching duration."
+  summary: "Set the minimumTtl property: The minimum value for this SOA record. By convention this is used to determine the negative caching duration."
   parameters:
   - description: "the minimumTtl value to set."
     name: "minimumTtl"

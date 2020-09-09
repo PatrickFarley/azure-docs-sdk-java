@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.RequiredResourceAccess.withResourceAppId(String resourceAppId)"
   name: "withResourceAppId(String resourceAppId)"
   nameWithType: "RequiredResourceAccess.withResourceAppId(String resourceAppId)"
-  summary: "Set the resourceAppId property: The unique identifier for the resource that the application requires access to.\n This should be equal to the appId declared on the target resource application."
+  summary: "Set the resourceAppId property: The unique identifier for the resource that the application requires access to. This should be equal to the appId declared on the target resource application."
   parameters:
   - description: "the resourceAppId value to set."
     name: "resourceAppId"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromNetworkSubnet(String subnetId)"
   name: "withAccessFromNetworkSubnet(String subnetId)"
   nameWithType: "StorageAccount.UpdateStages.WithNetworkAccess.withAccessFromNetworkSubnet(String subnetId)"
-  summary: "Specifies that access to the storage account from a specific virtual network\n subnet should be allowed."
+  summary: "Specifies that access to the storage account from a specific virtual network subnet should be allowed."
   parameters:
   - description: "the virtual network subnet id"
     name: "subnetId"

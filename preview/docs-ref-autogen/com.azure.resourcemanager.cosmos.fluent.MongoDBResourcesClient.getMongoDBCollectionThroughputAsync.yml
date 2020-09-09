@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.MongoDBResourcesClient.getMongoDBCollectionThroughputAsync(String resourceGroupName, String accountName, String databaseName, String collectionName)"
   name: "getMongoDBCollectionThroughputAsync(String resourceGroupName, String accountName, String databaseName, String collectionName)"
   nameWithType: "MongoDBResourcesClient.getMongoDBCollectionThroughputAsync(String resourceGroupName, String accountName, String databaseName, String collectionName)"
-  summary: "Gets the RUs per second of the MongoDB collection under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the MongoDB collection under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.MongoDBResourcesClient.getMongoDBCollectionThroughputAsync(String resourceGroupName, String accountName, String databaseName, String collectionName, Context context)"
   name: "getMongoDBCollectionThroughputAsync(String resourceGroupName, String accountName, String databaseName, String collectionName, Context context)"
   nameWithType: "MongoDBResourcesClient.getMongoDBCollectionThroughputAsync(String resourceGroupName, String accountName, String databaseName, String collectionName, Context context)"
-  summary: "Gets the RUs per second of the MongoDB collection under an existing Azure Cosmos DB database account with the\n provided name."
+  summary: "Gets the RUs per second of the MongoDB collection under an existing Azure Cosmos DB database account with the provided name."
   parameters:
   - description: "Name of an Azure resource group."
     name: "resourceGroupName"

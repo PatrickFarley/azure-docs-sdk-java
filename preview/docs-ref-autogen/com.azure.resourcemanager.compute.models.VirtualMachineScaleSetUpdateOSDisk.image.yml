@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetUpdateOSDisk.image()"
   name: "image()"
   nameWithType: "VirtualMachineScaleSetUpdateOSDisk.image()"
-  summary: "Get the image property: The Source User Image VirtualHardDisk. This VirtualHardDisk will be copied before using\n it to attach to the Virtual Machine. If SourceImage is provided, the destination VirtualHardDisk should not\n exist."
+  summary: "Get the image property: The Source User Image VirtualHardDisk. This VirtualHardDisk will be copied before using it to attach to the Virtual Machine. If SourceImage is provided, the destination VirtualHardDisk should not exist."
   syntax: "public VirtualHardDisk image()"
   returns:
     description: "the image value."

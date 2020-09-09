@@ -14,7 +14,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsTransportManager.open(String[] topics)"
   name: "open(String[] topics)"
   nameWithType: "HttpsTransportManager.open(String[] topics)"
-  summary: "Opens the connection by creating a new instance of the HttpsIotHubConnection.\n The provided topics have no effect for HTTPS protocol, and it is ignored."
+  summary: "Opens the connection by creating a new instance of the HttpsIotHubConnection. The provided topics have no effect for HTTPS protocol, and it is ignored."
   parameters:
   - description: "is a list of topics to signed in."
     name: "topics"

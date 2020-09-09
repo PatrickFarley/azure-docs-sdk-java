@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.Hostname.withAzureResourceName(String azureResourceName)"
   name: "withAzureResourceName(String azureResourceName)"
   nameWithType: "Hostname.withAzureResourceName(String azureResourceName)"
-  summary: "Set the azureResourceName property: Name of the Azure resource the hostname is assigned to. If it is assigned to\n a Traffic Manager then it will be the Traffic Manager name otherwise it will be the app name."
+  summary: "Set the azureResourceName property: Name of the Azure resource the hostname is assigned to. If it is assigned to a Traffic Manager then it will be the Traffic Manager name otherwise it will be the app name."
   parameters:
   - description: "the azureResourceName value to set."
     name: "azureResourceName"

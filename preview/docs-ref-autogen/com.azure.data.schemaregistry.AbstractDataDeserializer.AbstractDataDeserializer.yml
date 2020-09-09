@@ -14,7 +14,7 @@ members:
   fullName: "com.azure.data.schemaregistry.AbstractDataDeserializer.AbstractDataDeserializer(SchemaRegistryClient schemaRegistryClient)"
   name: "AbstractDataDeserializer(SchemaRegistryClient schemaRegistryClient)"
   nameWithType: "AbstractDataDeserializer.AbstractDataDeserializer(SchemaRegistryClient schemaRegistryClient)"
-  summary: "Constructor called by all concrete implementation constructors.\n Should only call parent constructor."
+  summary: "Constructor called by all concrete implementation constructors. Should only call parent constructor."
   parameters:
   - description: "client to be used for fetching schemas by ID"
     name: "schemaRegistryClient"

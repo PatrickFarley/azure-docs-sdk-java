@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.security.TokenProvider.createSharedAccessSignatureTokenProvider(String sasKeyName, String sasKey)"
   name: "createSharedAccessSignatureTokenProvider(String sasKeyName, String sasKey)"
   nameWithType: "TokenProvider.createSharedAccessSignatureTokenProvider(String sasKeyName, String sasKey)"
-  summary: "Creates a Shared Access Signature token provider with the given key name and key value. Returned token provider creates tokens\n with validity of 20 minutes. This is a utility method."
+  summary: "Creates a Shared Access Signature token provider with the given key name and key value. Returned token provider creates tokens with validity of 20 minutes. This is a utility method."
   parameters:
   - description: "SAS key name"
     name: "sasKeyName"

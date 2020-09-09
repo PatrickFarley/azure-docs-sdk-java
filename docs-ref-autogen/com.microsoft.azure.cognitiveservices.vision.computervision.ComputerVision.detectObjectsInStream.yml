@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.detectObjectsInStream(byte[] image)"
   name: "detectObjectsInStream(byte[] image)"
   nameWithType: "ComputerVision.detectObjectsInStream(byte[] image)"
-  summary: "Performs object detection on the specified image.\n  Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL.\n  A successful response will be returned in JSON. If the request failed, the response will contain\n  an error code and a message to help understand what went wrong."
+  summary: "Performs object detection on the specified image. Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL. A successful response will be returned in JSON. If the request failed, the response will contain an error code and a message to help understand what went wrong."
   parameters:
   - description: "An image stream."
     name: "image"

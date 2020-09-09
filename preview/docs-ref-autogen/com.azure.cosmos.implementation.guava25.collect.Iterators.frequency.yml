@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.frequency(Iterator<?> iterator, Object element)"
   name: "frequency(Iterator<?> iterator, Object element)"
   nameWithType: "Iterators.frequency(Iterator<?> iterator, Object element)"
-  summary: "Returns the number of elements in the specified iterator that equal the specified object. The\n iterator will be left exhausted: its <code>hasNext()</code> method will return <code>false</code>."
+  summary: "Returns the number of elements in the specified iterator that equal the specified object. The iterator will be left exhausted: its `hasNext()` method will return `false`."
   parameters:
   - name: "iterator"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

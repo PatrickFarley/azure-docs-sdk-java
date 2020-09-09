@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.AppRole.withValue(String value)"
   name: "withValue(String value)"
   nameWithType: "AppRole.withValue(String value)"
-  summary: "Set the value property: Specifies the value of the roles claim that the application should expect in the\n authentication and access tokens."
+  summary: "Set the value property: Specifies the value of the roles claim that the application should expect in the authentication and access tokens."
   parameters:
   - description: "the value value to set."
     name: "value"

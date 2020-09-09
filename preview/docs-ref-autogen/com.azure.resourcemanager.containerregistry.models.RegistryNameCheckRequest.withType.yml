@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryNameCheckRequest.withType(String type)"
   name: "withType(String type)"
   nameWithType: "RegistryNameCheckRequest.withType(String type)"
-  summary: "Set the type property: The resource type of the container registry. This field must be set to\n 'Microsoft.ContainerRegistry/registries'."
+  summary: "Set the type property: The resource type of the container registry. This field must be set to 'Microsoft.ContainerRegistry/registries'."
   parameters:
   - description: "the type value to set."
     name: "type"

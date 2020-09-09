@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateSubscriptionOptions.setDeadLetteringOnMessageExpiration(boolean deadLetteringOnMessageExpiration)"
   name: "setDeadLetteringOnMessageExpiration(boolean deadLetteringOnMessageExpiration)"
   nameWithType: "CreateSubscriptionOptions.setDeadLetteringOnMessageExpiration(boolean deadLetteringOnMessageExpiration)"
-  summary: "Set the deadLetteringOnMessageExpiration property: A value that indicates whether this subscription has dead\n letter support when a message expires."
+  summary: "Set the deadLetteringOnMessageExpiration property: A value that indicates whether this subscription has dead letter support when a message expires."
   parameters:
   - description: "the deadLetteringOnMessageExpiration value to set."
     name: "deadLetteringOnMessageExpiration"

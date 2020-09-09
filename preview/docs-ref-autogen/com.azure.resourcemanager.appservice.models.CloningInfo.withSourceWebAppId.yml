@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.withSourceWebAppId(String sourceWebAppId)"
   name: "withSourceWebAppId(String sourceWebAppId)"
   nameWithType: "CloningInfo.withSourceWebAppId(String sourceWebAppId)"
-  summary: "Set the sourceWebAppId property: ARM resource ID of the source app. App resource ID is of the form\n /subscriptions/{subId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Web/sites/{siteName} for production\n slots and\n /subscriptions/{subId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Web/sites/{siteName}/slots/{slotName}\n for other slots."
+  summary: "Set the sourceWebAppId property: ARM resource ID of the source app. App resource ID is of the form /subscriptions/\\{subId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.Web/sites/\\{siteName\\} for production slots and /subscriptions/\\{subId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.Web/sites/\\{siteName\\}/slots/\\{slotName\\} for other slots."
   parameters:
   - description: "the sourceWebAppId value to set."
     name: "sourceWebAppId"

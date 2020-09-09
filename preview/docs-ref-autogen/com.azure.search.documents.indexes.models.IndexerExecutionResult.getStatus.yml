@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexerExecutionResult.getStatus()"
   name: "getStatus()"
   nameWithType: "IndexerExecutionResult.getStatus()"
-  summary: "Get the status property: The outcome of this indexer execution. Possible\n values include: 'TransientFailure', 'Success', 'InProgress', 'Reset'."
+  summary: "Get the status property: The outcome of this indexer execution. Possible values include: 'TransientFailure', 'Success', 'InProgress', 'Reset'."
   syntax: "public IndexerExecutionStatus getStatus()"
   returns:
     description: "the status value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.ManagedDatabaseUpdate.withCatalogCollation(CatalogCollationType catalogCollation)"
   name: "withCatalogCollation(CatalogCollationType catalogCollation)"
   nameWithType: "ManagedDatabaseUpdate.withCatalogCollation(CatalogCollationType catalogCollation)"
-  summary: "Set collation of the metadata catalog. Possible values include: 'DATABASE_DEFAULT', 'SQL_Latin1_General_CP1_CI_AS'."
+  summary: "Set collation of the metadata catalog. Possible values include: 'DATABASE\\_DEFAULT', 'SQL\\_Latin1\\_General\\_CP1\\_CI\\_AS'."
   parameters:
   - description: "the catalogCollation value to set"
     name: "catalogCollation"

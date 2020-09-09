@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.appconfiguration.ConfigurationClient.deleteConfigurationSetting(String key, String label)"
   name: "deleteConfigurationSetting(String key, String label)"
   nameWithType: "ConfigurationClient.deleteConfigurationSetting(String key, String label)"
-  summary: "Deletes the <xref uid=\"ConfigurationSetting\" data-throw-if-not-resolved=\"false\">ConfigurationSetting</xref> with a matching <code>key</code> and optional <code>label</code> combination.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the setting with the key \"prodDBConnection\".</p>\n\n <pre>\n ConfigurationSetting result = configurationClient\n     .deleteConfigurationSetting&#40;&quot;prodDBConnection&quot;, null&#41;;\n System.out.printf&#40;&quot;Key: %s, Value: %s&quot;, result.getKey&#40;&#41;, result.getValue&#40;&#41;&#41;;\n \n </pre>"
+  summary: "Deletes the <xref uid=\"com.azure.data.appconfiguration.models.ConfigurationSetting\" data-throw-if-not-resolved=\"false\">ConfigurationSetting</xref> with a matching `key` and optional `label` combination.\n\n**Code Samples**\n\nDelete the setting with the key \"prodDBConnection\".\n\n```java\nConfigurationSetting result = configurationClient\n     .deleteConfigurationSetting(\"prodDBConnection\", null);\n System.out.printf(\"Key: %s, Value: %s\", result.getKey(), result.getValue());\n```"
   parameters:
   - description: "The key of configuration setting to delete."
     name: "key"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.comparators.ComparableComparator<E>.equals(Object object)"
   name: "equals(Object object)"
   nameWithType: "ComparableComparator<E>.equals(Object object)"
-  summary: "Returns <code>true</code> iff <i>that</i> Object is is a <xref uid=\"Comparator\" data-throw-if-not-resolved=\"false\">Comparator</xref>\n whose ordering is known to be equivalent to mine.\n <p>\n This implementation returns <code>true</code> iff\n <code><i>object</i>.<xref uid=\"Object#getClass()\" data-throw-if-not-resolved=\"false\">getClass()</xref></code> equals\n <code>this.getClass()</code>. Subclasses may want to override this behavior to remain\n consistent with the <xref uid=\"Comparator#equals(Object)\" data-throw-if-not-resolved=\"false\">Comparator#equals(Object)</xref> contract."
+  summary: "Returns `true` iff *that* Object is is a <xref uid=\"java.util.Comparator\" data-throw-if-not-resolved=\"false\">Comparator</xref> whose ordering is known to be equivalent to mine.\n\nThis implementation returns `true` iff `object.getClass()` equals `this.getClass()`. Subclasses may want to override this behavior to remain consistent with the <xref uid=\"java.util.Comparator.equals*\" data-throw-if-not-resolved=\"false\">Comparator#equals(Object)</xref> contract."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - description: "the object to compare with"

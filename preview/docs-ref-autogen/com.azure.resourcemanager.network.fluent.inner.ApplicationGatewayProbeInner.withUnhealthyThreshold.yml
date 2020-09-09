@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayProbeInner.withUnhealthyThreshold(Integer unhealthyThreshold)"
   name: "withUnhealthyThreshold(Integer unhealthyThreshold)"
   nameWithType: "ApplicationGatewayProbeInner.withUnhealthyThreshold(Integer unhealthyThreshold)"
-  summary: "Set the unhealthyThreshold property: The probe retry count. Backend server is marked down after consecutive probe\n failure count reaches UnhealthyThreshold. Acceptable values are from 1 second to 20."
+  summary: "Set the unhealthyThreshold property: The probe retry count. Backend server is marked down after consecutive probe failure count reaches UnhealthyThreshold. Acceptable values are from 1 second to 20."
   parameters:
   - description: "the unhealthyThreshold value to set."
     name: "unhealthyThreshold"

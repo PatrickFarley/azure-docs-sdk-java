@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DatabaseSecurityAlertPolicyInner.storageEndpoint()"
   name: "storageEndpoint()"
   nameWithType: "DatabaseSecurityAlertPolicyInner.storageEndpoint()"
-  summary: "Get the storageEndpoint property: Specifies the blob storage endpoint (e.g.\n https://MyAccount.blob.core.windows.net). This blob storage will hold all Threat Detection audit logs. If state\n is Enabled, storageEndpoint is required."
+  summary: "Get the storageEndpoint property: Specifies the blob storage endpoint (e.g. https://MyAccount.blob.core.windows.net). This blob storage will hold all Threat Detection audit logs. If state is Enabled, storageEndpoint is required."
   syntax: "public String storageEndpoint()"
   returns:
     description: "the storageEndpoint value."

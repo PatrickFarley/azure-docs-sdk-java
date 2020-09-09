@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.WindowsConfiguration.withAdditionalUnattendContent(List<AdditionalUnattendContent> additionalUnattendContent)"
   name: "withAdditionalUnattendContent(List<AdditionalUnattendContent> additionalUnattendContent)"
   nameWithType: "WindowsConfiguration.withAdditionalUnattendContent(List<AdditionalUnattendContent> additionalUnattendContent)"
-  summary: "Set the additionalUnattendContent property: Specifies additional base-64 encoded XML formatted information that\n can be included in the Unattend.xml file, which is used by Windows Setup."
+  summary: "Set the additionalUnattendContent property: Specifies additional base-64 encoded XML formatted information that can be included in the Unattend.xml file, which is used by Windows Setup."
   parameters:
   - description: "the additionalUnattendContent value to set."
     name: "additionalUnattendContent"

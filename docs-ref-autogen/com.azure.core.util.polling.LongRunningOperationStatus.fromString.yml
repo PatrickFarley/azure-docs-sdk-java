@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.polling.LongRunningOperationStatus.fromString(String name, boolean isComplete)"
   name: "fromString(String name, boolean isComplete)"
   nameWithType: "LongRunningOperationStatus.fromString(String name, boolean isComplete)"
-  summary: "Creates or finds a <xref uid=\"LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref> from its string representation."
+  summary: "Creates or finds a <xref uid=\"com.azure.core.util.polling.LongRunningOperationStatus\" data-throw-if-not-resolved=\"false\">LongRunningOperationStatus</xref> from its string representation."
   parameters:
   - description: "a name to look for"
     name: "name"

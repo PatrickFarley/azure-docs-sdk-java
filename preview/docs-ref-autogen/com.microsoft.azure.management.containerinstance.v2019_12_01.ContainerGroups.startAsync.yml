@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.v2019_12_01.ContainerGroups.startAsync(String resourceGroupName, String containerGroupName)"
   name: "startAsync(String resourceGroupName, String containerGroupName)"
   nameWithType: "ContainerGroups.startAsync(String resourceGroupName, String containerGroupName)"
-  summary: "Starts all containers in a container group.\n Starts all containers in a container group. Compute resources will be allocated and billing will start."
+  summary: "Starts all containers in a container group. Starts all containers in a container group. Compute resources will be allocated and billing will start."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

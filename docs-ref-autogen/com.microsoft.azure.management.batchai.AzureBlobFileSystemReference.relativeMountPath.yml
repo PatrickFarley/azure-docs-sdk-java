@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.AzureBlobFileSystemReference.relativeMountPath()"
   name: "relativeMountPath()"
   nameWithType: "AzureBlobFileSystemReference.relativeMountPath()"
-  summary: "Get the relative path on the compute node where the Azure File container will be mounted. Note that all cluster level containers will be mounted under $AZ_BATCHAI_MOUNT_ROOT location and all job level containers will be mounted under $AZ_BATCHAI_JOB_MOUNT_ROOT."
+  summary: "Get the relative path on the compute node where the Azure File container will be mounted. Note that all cluster level containers will be mounted under $AZ\\_BATCHAI\\_MOUNT\\_ROOT location and all job level containers will be mounted under $AZ\\_BATCHAI\\_JOB\\_MOUNT\\_ROOT."
   syntax: "public String relativeMountPath()"
   returns:
     description: "the relativeMountPath value"

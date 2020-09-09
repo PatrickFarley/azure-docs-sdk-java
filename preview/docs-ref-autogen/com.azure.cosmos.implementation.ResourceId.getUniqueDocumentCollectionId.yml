@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ResourceId.getUniqueDocumentCollectionId()"
   name: "getUniqueDocumentCollectionId()"
   nameWithType: "ResourceId.getUniqueDocumentCollectionId()"
-  summary: "Unique (across all databases) Id for the DocumentCollection.\n First 4 bytes are DatabaseId and next 4 bytes are CollectionId."
+  summary: "Unique (across all databases) Id for the DocumentCollection. First 4 bytes are DatabaseId and next 4 bytes are CollectionId."
   syntax: "public long getUniqueDocumentCollectionId()"
   returns:
     description: "the unique collectionId"

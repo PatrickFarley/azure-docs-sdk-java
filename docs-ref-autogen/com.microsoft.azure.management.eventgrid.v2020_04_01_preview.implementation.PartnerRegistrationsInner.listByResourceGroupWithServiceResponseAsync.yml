@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
   name: "listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
   nameWithType: "PartnerRegistrationsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
-  summary: "List partner registrations under a resource group.\n List all the partner registrations under a resource group."
+  summary: "List partner registrations under a resource group. List all the partner registrations under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
   name: "listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
   nameWithType: "PartnerRegistrationsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
-  summary: "List partner registrations under a resource group.\n List all the partner registrations under a resource group."
+  summary: "List partner registrations under a resource group. List all the partner registrations under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

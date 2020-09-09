@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.deleteAsync(String resourceGroupName, String partnerRegistrationName)"
   name: "deleteAsync(String resourceGroupName, String partnerRegistrationName)"
   nameWithType: "PartnerRegistrationsInner.deleteAsync(String resourceGroupName, String partnerRegistrationName)"
-  summary: "Delete a partner registration.\n Deletes a partner registration with the specified parameters."
+  summary: "Delete a partner registration. Deletes a partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerRegistrationsInner.deleteAsync(String resourceGroupName, String partnerRegistrationName, ServiceCallback<Void> serviceCallback)"
   name: "deleteAsync(String resourceGroupName, String partnerRegistrationName, ServiceCallback<Void> serviceCallback)"
   nameWithType: "PartnerRegistrationsInner.deleteAsync(String resourceGroupName, String partnerRegistrationName, ServiceCallback<Void> serviceCallback)"
-  summary: "Delete a partner registration.\n Deletes a partner registration with the specified parameters."
+  summary: "Delete a partner registration. Deletes a partner registration with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

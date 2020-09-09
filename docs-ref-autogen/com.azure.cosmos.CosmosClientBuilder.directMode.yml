@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosClientBuilder.directMode()"
   name: "directMode()"
   nameWithType: "CosmosClientBuilder.directMode()"
-  summary: "Sets the default DIRECT connection configuration to be used.\n\n By default, the builder is initialized with directMode()"
+  summary: "Sets the default DIRECT connection configuration to be used. By default, the builder is initialized with directMode()"
   syntax: "public CosmosClientBuilder directMode()"
   returns:
     description: "current CosmosClientBuilder"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.CosmosClientBuilder.directMode(DirectConnectionConfig directConnectionConfig)"
   name: "directMode(DirectConnectionConfig directConnectionConfig)"
   nameWithType: "CosmosClientBuilder.directMode(DirectConnectionConfig directConnectionConfig)"
-  summary: "Sets the DIRECT connection configuration to be used.\n\n By default, the builder is initialized with directMode()"
+  summary: "Sets the DIRECT connection configuration to be used. By default, the builder is initialized with directMode()"
   parameters:
   - description: "direct connection configuration"
     name: "directConnectionConfig"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.cosmos.CosmosClientBuilder.directMode(DirectConnectionConfig directConnectionConfig, GatewayConnectionConfig gatewayConnectionConfig)"
   name: "directMode(DirectConnectionConfig directConnectionConfig, GatewayConnectionConfig gatewayConnectionConfig)"
   nameWithType: "CosmosClientBuilder.directMode(DirectConnectionConfig directConnectionConfig, GatewayConnectionConfig gatewayConnectionConfig)"
-  summary: "Sets the DIRECT connection configuration to be used.\n gatewayConnectionConfig - represents basic configuration to be used for gateway client.\n\n Even in direct connection mode, some of the meta data operations go through gateway client,\n\n Setting gateway connection config in this API doesn't affect the connection mode,\n which will be Direct in this case."
+  summary: "Sets the DIRECT connection configuration to be used. gatewayConnectionConfig - represents basic configuration to be used for gateway client. Even in direct connection mode, some of the meta data operations go through gateway client, Setting gateway connection config in this API doesn't affect the connection mode, which will be Direct in this case."
   parameters:
   - description: "direct connection configuration to be used"
     name: "directConnectionConfig"

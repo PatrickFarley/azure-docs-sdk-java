@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.Queue.DefinitionStages.WithDefaultMessageTTL.withDefaultMessageTTL(Period ttl)"
   name: "withDefaultMessageTTL(Period ttl)"
   nameWithType: "Queue.DefinitionStages.WithDefaultMessageTTL.withDefaultMessageTTL(Period ttl)"
-  summary: "Specifies the duration after which the message expires.\n Note: unless it is explicitly overridden the default ttl is infinite (TimeSpan.Max)."
+  summary: "Specifies the duration after which the message expires. Note: unless it is explicitly overridden the default ttl is infinite (TimeSpan.Max)."
   parameters:
   - description: "time to live duration"
     name: "ttl"

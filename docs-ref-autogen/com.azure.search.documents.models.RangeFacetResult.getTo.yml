@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.RangeFacetResult<T>.getTo()"
   name: "getTo()"
   nameWithType: "RangeFacetResult<T>.getTo()"
-  summary: "Gets a value indicating the exclusive upper bound of the facet's range, or null to indicate that there is\n no upper bound (i.e. -- for the last bucket)."
+  summary: "Gets a value indicating the exclusive upper bound of the facet's range, or null to indicate that there is no upper bound (i.e. -- for the last bucket)."
   syntax: "public T getTo()"
   returns:
     description: "to"

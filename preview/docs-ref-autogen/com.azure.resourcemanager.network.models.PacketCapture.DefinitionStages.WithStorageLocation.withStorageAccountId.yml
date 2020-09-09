@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PacketCapture.DefinitionStages.WithStorageLocation.withStorageAccountId(String storageId)"
   name: "withStorageAccountId(String storageId)"
   nameWithType: "PacketCapture.DefinitionStages.WithStorageLocation.withStorageAccountId(String storageId)"
-  summary: "The ID of the storage account to save the packet capture session. Required if no local file path is\n provided."
+  summary: "The ID of the storage account to save the packet capture session. Required if no local file path is provided."
   parameters:
   - description: "The ID of the storage account to save the packet capture session"
     name: "storageId"

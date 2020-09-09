@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.getTaskCounts(String jobId)"
   name: "getTaskCounts(String jobId)"
   nameWithType: "JobOperations.getTaskCounts(String jobId)"
-  summary: "Gets the task counts for the specified job.\n Task counts provide a count of the tasks by active, running or completed task state, and a count of tasks which succeeded or failed. Tasks in the preparing state are counted as running."
+  summary: "Gets the task counts for the specified job. Task counts provide a count of the tasks by active, running or completed task state, and a count of tasks which succeeded or failed. Tasks in the preparing state are counted as running."
   parameters:
   - description: "The ID of the job."
     name: "jobId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.JobOperations.getTaskCounts(String jobId, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "getTaskCounts(String jobId, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "JobOperations.getTaskCounts(String jobId, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Gets the task counts for the specified job.\n Task counts provide a count of the tasks by active, running or completed task state, and a count of tasks which succeeded or failed. Tasks in the preparing state are counted as running."
+  summary: "Gets the task counts for the specified job. Task counts provide a count of the tasks by active, running or completed task state, and a count of tasks which succeeded or failed. Tasks in the preparing state are counted as running."
   parameters:
   - description: "The ID of the job."
     name: "jobId"

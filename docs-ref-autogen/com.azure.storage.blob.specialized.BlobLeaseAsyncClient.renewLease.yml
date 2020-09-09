@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobLeaseAsyncClient.renewLease()"
   name: "renewLease()"
   nameWithType: "BlobLeaseAsyncClient.renewLease()"
-  summary: "Renews the previously acquired lease.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.renewLease&#40;&#41;.subscribe&#40;response -&gt; System.out.printf&#40;&quot;Renewed lease ID is %s%n&quot;, response&#41;&#41;;\n </pre>"
+  summary: "Renews the previously acquired lease.\n\n**Code Samples**\n\n```java\nclient.renewLease().subscribe(response -> System.out.printf(\"Renewed lease ID is %s%n\", response));\n```"
   syntax: "public Mono<String> renewLease()"
   returns:
     description: "A reactive response containing the renewed lease ID."

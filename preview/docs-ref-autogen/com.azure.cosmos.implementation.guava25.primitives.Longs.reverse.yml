@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Longs.reverse(long[] array)"
   name: "reverse(long[] array)"
   nameWithType: "Longs.reverse(long[] array)"
-  summary: "Reverses the elements of <code>array</code>. This is equivalent to <code>\n Collections.reverse(Longs.asList(array))</code>, but is likely to be more efficient."
+  summary: "Reverses the elements of `array`. This is equivalent to `Collections.reverse(Longs.asList(array))`, but is likely to be more efficient."
   parameters:
   - name: "array"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />[]"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Longs.reverse(long[] array, int fromIndex, int toIndex)"
   name: "reverse(long[] array, int fromIndex, int toIndex)"
   nameWithType: "Longs.reverse(long[] array, int fromIndex, int toIndex)"
-  summary: "Reverses the elements of <code>array</code> between <code>fromIndex</code> inclusive and <code>toIndex</code>\n exclusive. This is equivalent to <code>\n Collections.reverse(Longs.asList(array).subList(fromIndex, toIndex))</code>, but is likely to be more\n efficient."
+  summary: "Reverses the elements of `array` between `fromIndex` inclusive and `toIndex` exclusive. This is equivalent to `Collections.reverse(Longs.asList(array).subList(fromIndex, toIndex))`, but is likely to be more efficient."
   parameters:
   - name: "array"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />[]"

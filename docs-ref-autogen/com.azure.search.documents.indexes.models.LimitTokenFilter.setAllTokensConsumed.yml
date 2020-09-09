@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.LimitTokenFilter.setAllTokensConsumed(Boolean allTokensConsumed)"
   name: "setAllTokensConsumed(Boolean allTokensConsumed)"
   nameWithType: "LimitTokenFilter.setAllTokensConsumed(Boolean allTokensConsumed)"
-  summary: "Set the consumeAllTokens property: A value indicating whether all tokens\n from the input must be consumed even if maxTokenCount is reached.\n Default is false."
+  summary: "Set the consumeAllTokens property: A value indicating whether all tokens from the input must be consumed even if maxTokenCount is reached. Default is false."
   parameters:
   - description: "the consumeAllTokens value to set."
     name: "allTokensConsumed"

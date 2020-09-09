@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PrivateLinkServiceConnectionState.withStatus(String status)"
   name: "withStatus(String status)"
   nameWithType: "PrivateLinkServiceConnectionState.withStatus(String status)"
-  summary: "Set the status property: Indicates whether the connection has been Approved/Rejected/Removed by the owner of the\n service."
+  summary: "Set the status property: Indicates whether the connection has been Approved/Rejected/Removed by the owner of the service."
   parameters:
   - description: "the status value to set."
     name: "status"

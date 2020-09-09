@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset.Entry<E>.hashCode()"
   name: "hashCode()"
   nameWithType: "Multiset.Entry<E>.hashCode()"
-  summary: "\n\n <p>The hash code of a multiset entry for element <code>element</code> and count <code>count</code> is\n defined as:\n\n <pre><code>\n ((element == null) ? 0 : element.hashCode()) ^ count\n </code></pre>"
+  summary: "The hash code of a multiset entry for element `element` and count `count` is defined as:\n\n```java\n((element == null) ? 0 : element.hashCode()) ^ count\n```"
   overridden: "java.lang.Object.hashCode()"
   syntax: "public abstract int hashCode()"
   returns:

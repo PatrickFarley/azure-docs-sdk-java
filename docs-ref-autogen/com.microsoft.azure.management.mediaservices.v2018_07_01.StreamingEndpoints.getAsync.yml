@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.StreamingEndpoints.getAsync(String resourceGroupName, String accountName, String streamingEndpointName)"
   name: "getAsync(String resourceGroupName, String accountName, String streamingEndpointName)"
   nameWithType: "StreamingEndpoints.getAsync(String resourceGroupName, String accountName, String streamingEndpointName)"
-  summary: "Get StreamingEndpoint.\n Gets a StreamingEndpoint."
+  summary: "Get StreamingEndpoint. Gets a StreamingEndpoint."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

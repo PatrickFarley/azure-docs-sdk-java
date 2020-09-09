@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.UpdateStages.WithoutPrimaryLoadBalancerBackend.withoutPrimaryInternalLoadBalancerBackends(String[] backendNames)"
   name: "withoutPrimaryInternalLoadBalancerBackends(String[] backendNames)"
   nameWithType: "VirtualMachineScaleSet.UpdateStages.WithoutPrimaryLoadBalancerBackend.withoutPrimaryInternalLoadBalancerBackends(String[] backendNames)"
-  summary: "Removes the associations between the primary network interface configuration and the specified backends\n of the internal load balancer."
+  summary: "Removes the associations between the primary network interface configuration and the specified backends of the internal load balancer."
   parameters:
   - description: "existing backend names"
     name: "backendNames"

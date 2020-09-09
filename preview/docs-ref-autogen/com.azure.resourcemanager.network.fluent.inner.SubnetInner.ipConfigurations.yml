@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.SubnetInner.ipConfigurations()"
   name: "ipConfigurations()"
   nameWithType: "SubnetInner.ipConfigurations()"
-  summary: "Get the ipConfigurations property: Gets an array of references to the network interface IP configurations using\n subnet."
+  summary: "Get the ipConfigurations property: Gets an array of references to the network interface IP configurations using subnet."
   syntax: "public List<IpConfigurationInner> ipConfigurations()"
   returns:
     description: "the ipConfigurations value."

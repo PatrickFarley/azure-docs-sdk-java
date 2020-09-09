@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterfaceDnsSettings.internalDomainNameSuffix()"
   name: "internalDomainNameSuffix()"
   nameWithType: "NetworkInterfaceDnsSettings.internalDomainNameSuffix()"
-  summary: "Get the internalDomainNameSuffix property: Even if internalDnsNameLabel is not specified, a DNS entry is created\n for the primary NIC of the VM. This DNS name can be constructed by concatenating the VM name with the value of\n internalDomainNameSuffix."
+  summary: "Get the internalDomainNameSuffix property: Even if internalDnsNameLabel is not specified, a DNS entry is created for the primary NIC of the VM. This DNS name can be constructed by concatenating the VM name with the value of internalDomainNameSuffix."
   syntax: "public String internalDomainNameSuffix()"
   returns:
     description: "the internalDomainNameSuffix value."

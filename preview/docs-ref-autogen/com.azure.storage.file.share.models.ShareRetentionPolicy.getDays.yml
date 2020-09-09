@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareRetentionPolicy.getDays()"
   name: "getDays()"
   nameWithType: "ShareRetentionPolicy.getDays()"
-  summary: "Get the days property: Indicates the number of days that metrics data\n should be retained. All data older than this value will be deleted.\n Metrics data is deleted on a best-effort basis after the retention\n period expires."
+  summary: "Get the days property: Indicates the number of days that metrics data should be retained. All data older than this value will be deleted. Metrics data is deleted on a best-effort basis after the retention period expires."
   syntax: "public Integer getDays()"
   returns:
     description: "the days value."

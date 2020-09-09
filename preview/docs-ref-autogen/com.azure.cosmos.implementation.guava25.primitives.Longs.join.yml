@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Longs.join(String separator, long[] array)"
   name: "join(String separator, long[] array)"
   nameWithType: "Longs.join(String separator, long[] array)"
-  summary: "Returns a string containing the supplied <code>long</code> values separated by <code>separator</code>.\n For example, <code>join(\"-\", 1L, 2L, 3L)</code> returns the string <code>\"1-2-3\"</code>."
+  summary: "Returns a string containing the supplied `long` values separated by `separator`. For example, `join(\"-\", 1L, 2L, 3L)` returns the string `\"1-2-3\"`."
   parameters:
   - description: "the text that should appear between consecutive values in the resulting string\n     (but not at the start or end)"
     name: "separator"

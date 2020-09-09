@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.v2019_12_01.Containers.executeCommandAsync(String resourceGroupName, String containerGroupName, String containerName, ContainerExecRequest containerExecRequest)"
   name: "executeCommandAsync(String resourceGroupName, String containerGroupName, String containerName, ContainerExecRequest containerExecRequest)"
   nameWithType: "Containers.executeCommandAsync(String resourceGroupName, String containerGroupName, String containerName, ContainerExecRequest containerExecRequest)"
-  summary: "Executes a command in a specific container instance.\n Executes a command for a specific container instance in a specified resource group and container group."
+  summary: "Executes a command in a specific container instance. Executes a command for a specific container instance in a specified resource group and container group."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

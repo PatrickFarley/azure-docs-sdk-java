@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountUpdateParameters.azureFilesIdentityBasedAuthentication()"
   name: "azureFilesIdentityBasedAuthentication()"
   nameWithType: "StorageAccountUpdateParameters.azureFilesIdentityBasedAuthentication()"
-  summary: "Get the azureFilesIdentityBasedAuthentication property: Provides the identity based authentication settings for\n Azure Files."
+  summary: "Get the azureFilesIdentityBasedAuthentication property: Provides the identity based authentication settings for Azure Files."
   syntax: "public AzureFilesIdentityBasedAuthentication azureFilesIdentityBasedAuthentication()"
   returns:
     description: "the azureFilesIdentityBasedAuthentication value."

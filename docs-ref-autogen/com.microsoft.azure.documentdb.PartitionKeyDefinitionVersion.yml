@@ -35,7 +35,7 @@ fields:
   fullName: "com.microsoft.azure.documentdb.PartitionKeyDefinitionVersion.V2"
   name: "V2"
   nameWithType: "PartitionKeyDefinitionVersion.V2"
-  summary: "Enhanced version of hash partitioning - offers better distribution of long partition keys and uses less storage.\n\n This version should be used for any practical purpose, but it is available in newer SDKs only."
+  summary: "Enhanced version of hash partitioning - offers better distribution of long partition keys and uses less storage. This version should be used for any practical purpose, but it is available in newer SDKs only."
 methods:
 - uid: "com.microsoft.azure.documentdb.PartitionKeyDefinitionVersion.valueOf(java.lang.String)"
   fullName: "com.microsoft.azure.documentdb.PartitionKeyDefinitionVersion.valueOf(String name)"

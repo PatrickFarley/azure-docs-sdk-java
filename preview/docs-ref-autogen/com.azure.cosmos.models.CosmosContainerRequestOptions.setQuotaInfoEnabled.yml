@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.CosmosContainerRequestOptions.setQuotaInfoEnabled(boolean quotaInfoEnabled)"
   name: "setQuotaInfoEnabled(boolean quotaInfoEnabled)"
   nameWithType: "CosmosContainerRequestOptions.setQuotaInfoEnabled(boolean quotaInfoEnabled)"
-  summary: "Sets the quotaInfoEnabled setting for cosmos container read requests in the Azure Cosmos DB database service.\n quotaInfoEnabled is used to enable/disable getting cosmos container quota related stats for item\n container read requests."
+  summary: "Sets the quotaInfoEnabled setting for cosmos container read requests in the Azure Cosmos DB database service. quotaInfoEnabled is used to enable/disable getting cosmos container quota related stats for item container read requests."
   parameters:
   - description: "a boolean value indicating whether quotaInfoEnabled is enabled or not"
     name: "quotaInfoEnabled"

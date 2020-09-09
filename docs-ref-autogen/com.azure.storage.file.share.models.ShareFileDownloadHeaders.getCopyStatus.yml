@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getCopyStatus()"
   name: "getCopyStatus()"
   nameWithType: "ShareFileDownloadHeaders.getCopyStatus()"
-  summary: "Get the copyStatus property: State of the copy operation identified by\n 'x-ms-copy-id'. Possible values include: 'pending', 'success',\n 'aborted', 'failed'."
+  summary: "Get the copyStatus property: State of the copy operation identified by 'x-ms-copy-id'. Possible values include: 'pending', 'success', 'aborted', 'failed'."
   syntax: "public CopyStatusType getCopyStatus()"
   returns:
     description: "the copyStatus value."

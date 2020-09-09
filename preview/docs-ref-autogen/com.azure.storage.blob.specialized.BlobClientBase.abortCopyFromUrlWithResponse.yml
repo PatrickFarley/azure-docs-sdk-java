@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.abortCopyFromUrlWithResponse(String copyId, String leaseId, Duration timeout, Context context)"
   name: "abortCopyFromUrlWithResponse(String copyId, String leaseId, Duration timeout, Context context)"
   nameWithType: "BlobClientBase.abortCopyFromUrlWithResponse(String copyId, String leaseId, Duration timeout, Context context)"
-  summary: "Stops a pending copy that was previously started and leaves a destination blob with 0 length and metadata.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n System.out.printf&#40;&quot;Aborted copy completed with status %d%n&quot;,\n     client.abortCopyFromUrlWithResponse&#40;copyId, leaseId, timeout,\n         new Context&#40;key2, value2&#41;&#41;.getStatusCode&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/abort-copy-blob\">Azure Docs</a></p>"
+  summary: "Stops a pending copy that was previously started and leaves a destination blob with 0 length and metadata.\n\n**Code Samples**\n\n```java\nSystem.out.printf(\"Aborted copy completed with status %d%n\",\n     client.abortCopyFromUrlWithResponse(copyId, leaseId, timeout,\n         new Context(key2, value2)).getStatusCode());\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/abort-copy-blob"
   parameters:
   - description: "The id of the copy operation to abort."
     name: "copyId"

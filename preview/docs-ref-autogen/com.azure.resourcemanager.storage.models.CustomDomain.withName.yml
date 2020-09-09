@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.CustomDomain.withName(String name)"
   name: "withName(String name)"
   nameWithType: "CustomDomain.withName(String name)"
-  summary: "Set the name property: Gets or sets the custom domain name assigned to the storage account. Name is the CNAME\n source."
+  summary: "Set the name property: Gets or sets the custom domain name assigned to the storage account. Name is the CNAME source."
   parameters:
   - description: "the name value to set."
     name: "name"

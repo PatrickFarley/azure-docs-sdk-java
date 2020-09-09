@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobQueryHeaders.getClientRequestId()"
   name: "getClientRequestId()"
   nameWithType: "BlobQueryHeaders.getClientRequestId()"
-  summary: "Get the clientRequestId property: If a client request id header is sent\n in the request, this header will be present in the response with the\n same value."
+  summary: "Get the clientRequestId property: If a client request id header is sent in the request, this header will be present in the response with the same value."
   syntax: "public String getClientRequestId()"
   returns:
     description: "the clientRequestId value."

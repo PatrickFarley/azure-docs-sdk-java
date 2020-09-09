@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.TopicTypes.listEventTypesAsync(String topicTypeName)"
   name: "listEventTypesAsync(String topicTypeName)"
   nameWithType: "TopicTypes.listEventTypesAsync(String topicTypeName)"
-  summary: "List event types.\n List event types for a topic type."
+  summary: "List event types. List event types for a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"

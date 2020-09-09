@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.SecurityRuleInner.withDirection(SecurityRuleDirection direction)"
   name: "withDirection(SecurityRuleDirection direction)"
   nameWithType: "SecurityRuleInner.withDirection(SecurityRuleDirection direction)"
-  summary: "Set the direction property: The direction of the rule. The direction specifies if rule will be evaluated on\n incoming or outgoing traffic."
+  summary: "Set the direction property: The direction of the rule. The direction specifies if rule will be evaluated on incoming or outgoing traffic."
   parameters:
   - description: "the direction value to set."
     name: "direction"

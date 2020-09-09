@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.ObjectReplicationPolicyFilter.withMinCreationTime(String minCreationTime)"
   name: "withMinCreationTime(String minCreationTime)"
   nameWithType: "ObjectReplicationPolicyFilter.withMinCreationTime(String minCreationTime)"
-  summary: "Set the minCreationTime property: Blobs created after the time will be replicated to the destination. It must be\n in datetime format 'yyyy-MM-ddTHH:mm:ssZ'. Example: 2020-02-19T16:05:00Z."
+  summary: "Set the minCreationTime property: Blobs created after the time will be replicated to the destination. It must be in datetime format 'yyyy-MM-ddTHH:mm:ssZ'. Example: 2020-02-19T16:05:00Z."
   parameters:
   - description: "the minCreationTime value to set."
     name: "minCreationTime"

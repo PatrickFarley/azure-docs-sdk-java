@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.serializer.Iso8601DateSerializer.getModule()"
   name: "getModule()"
   nameWithType: "Iso8601DateSerializer.getModule()"
-  summary: "Gets a module wrapping this serializer as an adapter for the Jackson\n ObjectMapper."
+  summary: "Gets a module wrapping this serializer as an adapter for the Jackson ObjectMapper."
   syntax: "public static SimpleModule getModule()"
   returns:
     description: "a simple module to be plugged onto Jackson ObjectMapper."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem.fromString(String name)"
   name: "fromString(String name)"
   nameWithType: "AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem.fromString(String name)"
-  summary: "Creates or finds a AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem from its\n string representation."
+  summary: "Creates or finds a AppServiceCertificateOrderPropertiesAppServiceCertificateNotRenewableReasonsItem from its string representation."
   parameters:
   - description: "a name to look for."
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.Network.DefinitionStages.WithSubnet.withSubnet(String name, String cidr)"
   name: "withSubnet(String name, String cidr)"
   nameWithType: "Network.DefinitionStages.WithSubnet.withSubnet(String name, String cidr)"
-  summary: "Explicitly adds a subnet to the virtual network.\n\n <p>If no subnets are explicitly specified, a default subnet called \"subnet1\" covering the entire first\n address space will be created.\n\n <p>Note this method's effect is additive, i.e. each time it is used, a new subnet is added to the\n network."
+  summary: "Explicitly adds a subnet to the virtual network.\n\nIf no subnets are explicitly specified, a default subnet called \"subnet1\" covering the entire first address space will be created.\n\nNote this method's effect is additive, i.e. each time it is used, a new subnet is added to the network."
   parameters:
   - description: "the name to assign to the subnet"
     name: "name"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.FacetResult.getCount()"
   name: "getCount()"
   nameWithType: "FacetResult.getCount()"
-  summary: "Get the count property: The approximate count of documents falling\n within the bucket described by this facet."
+  summary: "Get the count property: The approximate count of documents falling within the bucket described by this facet."
   syntax: "public Long getCount()"
   returns:
     description: "the count value."

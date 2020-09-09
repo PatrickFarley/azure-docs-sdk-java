@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItem.getObjectReplicationRuleStatus()"
   name: "getObjectReplicationRuleStatus()"
   nameWithType: "BlobItem.getObjectReplicationRuleStatus()"
-  summary: "Get the objectReplicationRuleStatus property: The\n objectReplicationRuleStatus property."
+  summary: "Get the objectReplicationRuleStatus property: The objectReplicationRuleStatus property."
   syntax: "public Map<String,String> getObjectReplicationRuleStatus()"
   returns:
     description: "the objectReplicationRuleStatus value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.MapIterator<K,V>.next()"
   name: "next()"
   nameWithType: "MapIterator<K,V>.next()"
-  summary: "Gets the next <em>key</em> from the <code>Map</code>."
+  summary: "Gets the next *key* from the `Map`."
   syntax: "public abstract K next()"
   returns:
     description: "the next key in the iteration"

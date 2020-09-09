@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakePathClient.setHttpHeaders(PathHttpHeaders headers)"
   name: "setHttpHeaders(PathHttpHeaders headers)"
   nameWithType: "DataLakePathClient.setHttpHeaders(PathHttpHeaders headers)"
-  summary: "Changes a resources's HTTP header properties. If only one HTTP header is updated, the others will all be erased.\n In order to preserve existing values, they must be passed alongside the header being changed.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.setHttpHeaders&#40;new PathHttpHeaders&#40;&#41;\n     .setContentLanguage&#40;&quot;en-US&quot;&#41;\n     .setContentType&#40;&quot;binary&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-properties\">Azure Docs</a></p>"
+  summary: "Changes a resources's HTTP header properties. If only one HTTP header is updated, the others will all be erased. In order to preserve existing values, they must be passed alongside the header being changed.\n\n**Code Samples**\n\n```java\nclient.setHttpHeaders(new PathHttpHeaders()\n     .setContentLanguage(\"en-US\")\n     .setContentType(\"binary\"));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-properties"
   parameters:
   - description: "<xref uid=\"com.azure.storage.file.datalake.models.PathHttpHeaders\" data-throw-if-not-resolved=\"false\">PathHttpHeaders</xref>"
     name: "headers"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.escape.Escapers.Builder.setSafeRange(char safeMin, char safeMax)"
   name: "setSafeRange(char safeMin, char safeMax)"
   nameWithType: "Escapers.Builder.setSafeRange(char safeMin, char safeMax)"
-  summary: "Sets the safe range of characters for the escaper. Characters in this range that have no\n explicit replacement are considered 'safe' and remain unescaped in the output. If <code>\n safeMax < safeMin</code> then the safe range is empty."
+  summary: "Sets the safe range of characters for the escaper. Characters in this range that have no explicit replacement are considered 'safe' and remain unescaped in the output. If `safeMax < safeMin` then the safe range is empty."
   parameters:
   - description: "the lowest 'safe' character"
     name: "safeMin"

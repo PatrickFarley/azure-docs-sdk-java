@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.CorsRule.withAllowedOrigins(List<String> allowedOrigins)"
   name: "withAllowedOrigins(List<String> allowedOrigins)"
   nameWithType: "CorsRule.withAllowedOrigins(List<String> allowedOrigins)"
-  summary: "Set the allowedOrigins property: Required if CorsRule element is present. A list of origin domains that will be\n allowed via CORS, or \"*\" to allow all domains."
+  summary: "Set the allowedOrigins property: Required if CorsRule element is present. A list of origin domains that will be allowed via CORS, or \"\\*\" to allow all domains."
   parameters:
   - description: "the allowedOrigins value to set."
     name: "allowedOrigins"

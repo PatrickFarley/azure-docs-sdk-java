@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.CommonGramTokenFilter.setUseQueryMode(Boolean useQueryMode)"
   name: "setUseQueryMode(Boolean useQueryMode)"
   nameWithType: "CommonGramTokenFilter.setUseQueryMode(Boolean useQueryMode)"
-  summary: "Set the useQueryMode property: A value that indicates whether the token filter is in query mode. When in query\n mode, the token filter generates bigrams and then removes common words and single terms followed by a common\n word. Default is false."
+  summary: "Set the useQueryMode property: A value that indicates whether the token filter is in query mode. When in query mode, the token filter generates bigrams and then removes common words and single terms followed by a common word. Default is false."
   parameters:
   - description: "the useQueryMode value to set."
     name: "useQueryMode"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.specialized.ShareLeaseClient.releaseLease()"
   name: "releaseLease()"
   nameWithType: "ShareLeaseClient.releaseLease()"
-  summary: "Releases the previously acquired lease.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.releaseLease&#40;&#41;;\n System.out.println&#40;&quot;Release lease completed&quot;&#41;;\n </pre>"
+  summary: "Releases the previously acquired lease.\n\n**Code Samples**\n\n```java\nclient.releaseLease();\n System.out.println(\"Release lease completed\");\n```"
   syntax: "public void releaseLease()"
 type: "method"
 metadata: {}

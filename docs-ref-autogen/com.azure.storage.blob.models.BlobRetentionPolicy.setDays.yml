@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobRetentionPolicy.setDays(Integer days)"
   name: "setDays(Integer days)"
   nameWithType: "BlobRetentionPolicy.setDays(Integer days)"
-  summary: "Set the days property: Indicates the number of days that metrics or\n logging or soft-deleted data should be retained. All data older than\n this value will be deleted."
+  summary: "Set the days property: Indicates the number of days that metrics or logging or soft-deleted data should be retained. All data older than this value will be deleted."
   parameters:
   - description: "the days value to set."
     name: "days"

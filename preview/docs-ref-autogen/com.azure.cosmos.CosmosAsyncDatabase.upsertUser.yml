@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncDatabase.upsertUser(CosmosUserProperties userProperties)"
   name: "upsertUser(CosmosUserProperties userProperties)"
   nameWithType: "CosmosAsyncDatabase.upsertUser(CosmosUserProperties userProperties)"
-  summary: "Upsert a user. Upsert will create a new user if it doesn't exist, or replace\n the existing one if it does. After subscription the operation will be\n performed. The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single\n resource response with the created user. In case of failure the <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref>\n will error."
+  summary: "Upsert a user. Upsert will create a new user if it doesn't exist, or replace the existing one if it does. After subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single resource response with the created user. In case of failure the <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> will error."
   parameters:
   - description: "the cosmos user properties"
     name: "userProperties"

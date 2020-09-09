@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventChannelDestination.azureSubscriptionId()"
   name: "azureSubscriptionId()"
   nameWithType: "EventChannelDestination.azureSubscriptionId()"
-  summary: "Get azure subscription ID of the customer creating the event channel. The partner topic\n     associated with the event channel will be created under this Azure subscription."
+  summary: "Get azure subscription ID of the customer creating the event channel. The partner topic associated with the event channel will be created under this Azure subscription."
   syntax: "public String azureSubscriptionId()"
   returns:
     description: "the azureSubscriptionId value"

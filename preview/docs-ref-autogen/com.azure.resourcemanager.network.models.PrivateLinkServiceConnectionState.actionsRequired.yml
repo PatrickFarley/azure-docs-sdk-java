@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PrivateLinkServiceConnectionState.actionsRequired()"
   name: "actionsRequired()"
   nameWithType: "PrivateLinkServiceConnectionState.actionsRequired()"
-  summary: "Get the actionsRequired property: A message indicating if changes on the service provider require any updates on\n the consumer."
+  summary: "Get the actionsRequired property: A message indicating if changes on the service provider require any updates on the consumer."
   syntax: "public String actionsRequired()"
   returns:
     description: "the actionsRequired value."

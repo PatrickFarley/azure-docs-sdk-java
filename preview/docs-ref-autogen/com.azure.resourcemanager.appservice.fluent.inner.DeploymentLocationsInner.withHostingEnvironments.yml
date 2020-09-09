@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DeploymentLocationsInner.withHostingEnvironments(List<AppServiceEnvironment> hostingEnvironments)"
   name: "withHostingEnvironments(List<AppServiceEnvironment> hostingEnvironments)"
   nameWithType: "DeploymentLocationsInner.withHostingEnvironments(List<AppServiceEnvironment> hostingEnvironments)"
-  summary: "Set the hostingEnvironments property: Available App Service Environments with full descriptions of the\n environments."
+  summary: "Set the hostingEnvironments property: Available App Service Environments with full descriptions of the environments."
   parameters:
   - description: "the hostingEnvironments value to set."
     name: "hostingEnvironments"

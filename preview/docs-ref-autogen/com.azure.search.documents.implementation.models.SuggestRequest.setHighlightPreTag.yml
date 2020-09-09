@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestRequest.setHighlightPreTag(String highlightPreTag)"
   name: "setHighlightPreTag(String highlightPreTag)"
   nameWithType: "SuggestRequest.setHighlightPreTag(String highlightPreTag)"
-  summary: "Set the highlightPreTag property: A string tag that is prepended to hit highlights. Must be set with\n highlightPostTag. If omitted, hit highlighting of suggestions is disabled."
+  summary: "Set the highlightPreTag property: A string tag that is prepended to hit highlights. Must be set with highlightPostTag. If omitted, hit highlighting of suggestions is disabled."
   parameters:
   - description: "the highlightPreTag value to set."
     name: "highlightPreTag"

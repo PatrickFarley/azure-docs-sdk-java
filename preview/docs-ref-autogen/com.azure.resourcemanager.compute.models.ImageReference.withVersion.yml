@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ImageReference.withVersion(String version)"
   name: "withVersion(String version)"
   nameWithType: "ImageReference.withVersion(String version)"
-  summary: "Set the version property: Specifies the version of the platform image or marketplace image used to create the\n virtual machine. The allowed formats are Major.Minor.Build or 'latest'. Major, Minor, and Build are decimal\n numbers. Specify 'latest' to use the latest version of an image available at deploy time. Even if you use\n 'latest', the VM image will not automatically update after deploy time even if a new version becomes available."
+  summary: "Set the version property: Specifies the version of the platform image or marketplace image used to create the virtual machine. The allowed formats are Major.Minor.Build or 'latest'. Major, Minor, and Build are decimal numbers. Specify 'latest' to use the latest version of an image available at deploy time. Even if you use 'latest', the VM image will not automatically update after deploy time even if a new version becomes available."
   parameters:
   - description: "the version value to set."
     name: "version"

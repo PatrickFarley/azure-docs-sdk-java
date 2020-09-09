@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGateway.UpdateStages.WithFrontend.withoutPrivateFrontend()"
   name: "withoutPrivateFrontend()"
   nameWithType: "ApplicationGateway.UpdateStages.WithFrontend.withoutPrivateFrontend()"
-  summary: "Specifies that the application gateway should not be private, i.e. its endpoints should not be internally accessible\n from within the virtual network.\n <p>\n Note that if there are any other settings referencing the private front end, removing it may break the application gateway."
+  summary: "Specifies that the application gateway should not be private, i.e. its endpoints should not be internally accessible from within the virtual network.\n\nNote that if there are any other settings referencing the private front end, removing it may break the application gateway."
   syntax: "public abstract ApplicationGateway.Update withoutPrivateFrontend()"
   returns:
     description: "the next stage of the update"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobAnalyticsLogging.setDelete(boolean delete)"
   name: "setDelete(boolean delete)"
   nameWithType: "BlobAnalyticsLogging.setDelete(boolean delete)"
-  summary: "Set the delete property: Indicates whether all delete requests should be\n logged."
+  summary: "Set the delete property: Indicates whether all delete requests should be logged."
   parameters:
   - description: "the delete value to set."
     name: "delete"

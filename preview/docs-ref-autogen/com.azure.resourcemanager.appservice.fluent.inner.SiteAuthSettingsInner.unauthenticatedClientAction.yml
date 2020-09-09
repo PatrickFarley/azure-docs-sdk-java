@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.unauthenticatedClientAction()"
   name: "unauthenticatedClientAction()"
   nameWithType: "SiteAuthSettingsInner.unauthenticatedClientAction()"
-  summary: "Get the unauthenticatedClientAction property: The action to take when an unauthenticated client attempts to\n access the app."
+  summary: "Get the unauthenticatedClientAction property: The action to take when an unauthenticated client attempts to access the app."
   syntax: "public UnauthenticatedClientAction unauthenticatedClientAction()"
   returns:
     description: "the unauthenticatedClientAction value."

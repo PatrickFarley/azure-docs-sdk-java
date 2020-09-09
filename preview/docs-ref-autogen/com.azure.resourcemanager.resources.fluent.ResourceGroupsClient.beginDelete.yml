@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.ResourceGroupsClient.beginDelete(String resourceGroupName)"
   name: "beginDelete(String resourceGroupName)"
   nameWithType: "ResourceGroupsClient.beginDelete(String resourceGroupName)"
-  summary: "When you delete a resource group, all of its resources are also deleted. Deleting a resource group deletes all of\n its template deployments and currently stored operations."
+  summary: "When you delete a resource group, all of its resources are also deleted. Deleting a resource group deletes all of its template deployments and currently stored operations."
   parameters:
   - description: "The name of the resource group to delete. The name is case insensitive."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.ResourceGroupsClient.beginDelete(String resourceGroupName, Context context)"
   name: "beginDelete(String resourceGroupName, Context context)"
   nameWithType: "ResourceGroupsClient.beginDelete(String resourceGroupName, Context context)"
-  summary: "When you delete a resource group, all of its resources are also deleted. Deleting a resource group deletes all of\n its template deployments and currently stored operations."
+  summary: "When you delete a resource group, all of its resources are also deleted. Deleting a resource group deletes all of its template deployments and currently stored operations."
   parameters:
   - description: "The name of the resource group to delete. The name is case insensitive."
     name: "resourceGroupName"

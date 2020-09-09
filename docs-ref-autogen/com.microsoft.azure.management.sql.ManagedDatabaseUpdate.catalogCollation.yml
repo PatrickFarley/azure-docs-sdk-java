@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.ManagedDatabaseUpdate.catalogCollation()"
   name: "catalogCollation()"
   nameWithType: "ManagedDatabaseUpdate.catalogCollation()"
-  summary: "Get collation of the metadata catalog. Possible values include: 'DATABASE_DEFAULT', 'SQL_Latin1_General_CP1_CI_AS'."
+  summary: "Get collation of the metadata catalog. Possible values include: 'DATABASE\\_DEFAULT', 'SQL\\_Latin1\\_General\\_CP1\\_CI\\_AS'."
   syntax: "public CatalogCollationType catalogCollation()"
   returns:
     description: "the catalogCollation value"

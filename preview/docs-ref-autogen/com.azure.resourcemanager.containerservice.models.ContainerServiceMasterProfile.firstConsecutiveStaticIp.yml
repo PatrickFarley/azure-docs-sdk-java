@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceMasterProfile.firstConsecutiveStaticIp()"
   name: "firstConsecutiveStaticIp()"
   nameWithType: "ContainerServiceMasterProfile.firstConsecutiveStaticIp()"
-  summary: "Get the firstConsecutiveStaticIp property: FirstConsecutiveStaticIP used to specify the first static ip of\n masters."
+  summary: "Get the firstConsecutiveStaticIp property: FirstConsecutiveStaticIP used to specify the first static ip of masters."
   syntax: "public String firstConsecutiveStaticIp()"
   returns:
     description: "the firstConsecutiveStaticIp value."

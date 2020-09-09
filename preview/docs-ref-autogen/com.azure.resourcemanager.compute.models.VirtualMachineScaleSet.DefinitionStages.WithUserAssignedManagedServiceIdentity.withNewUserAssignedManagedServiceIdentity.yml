@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithUserAssignedManagedServiceIdentity.withNewUserAssignedManagedServiceIdentity(Creatable<Identity> creatableIdentity)"
   name: "withNewUserAssignedManagedServiceIdentity(Creatable<Identity> creatableIdentity)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithUserAssignedManagedServiceIdentity.withNewUserAssignedManagedServiceIdentity(Creatable<Identity> creatableIdentity)"
-  summary: "Specifies the definition of a not-yet-created user assigned identity to be associated with the virtual\n machine scale set."
+  summary: "Specifies the definition of a not-yet-created user assigned identity to be associated with the virtual machine scale set."
   parameters:
   - description: "a creatable identity definition"
     name: "creatableIdentity"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset.Entry<E>.toString()"
   name: "toString()"
   nameWithType: "Multiset.Entry<E>.toString()"
-  summary: "Returns the canonical string representation of this entry, defined as follows. If the count\n for this entry is one, this is simply the string representation of the corresponding element.\n Otherwise, it is the string representation of the element, followed by the three characters\n <code>\" x \"</code> (space, letter x, space), followed by the count."
+  summary: "Returns the canonical string representation of this entry, defined as follows. If the count for this entry is one, this is simply the string representation of the corresponding element. Otherwise, it is the string representation of the element, followed by the three characters `\" x \"` (space, letter x, space), followed by the count."
   overridden: "java.lang.Object.toString()"
   syntax: "public abstract String toString()"
   returns:

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DedicatedHostAllocatableVM.count()"
   name: "count()"
   nameWithType: "DedicatedHostAllocatableVM.count()"
-  summary: "Get the count property: Maximum number of VMs of size vmSize that can fit in the dedicated host's remaining\n capacity."
+  summary: "Get the count property: Maximum number of VMs of size vmSize that can fit in the dedicated host's remaining capacity."
   syntax: "public Double count()"
   returns:
     description: "the count value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.StackMajorVersion.isDeprecated()"
   name: "isDeprecated()"
   nameWithType: "StackMajorVersion.isDeprecated()"
-  summary: "Get the isDeprecated property: &lt;code&gt;true&lt;/code&gt; if this stack has been deprecated, otherwise\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the isDeprecated property: <code>true</code> if this stack has been deprecated, otherwise <code>false</code>."
   syntax: "public Boolean isDeprecated()"
   returns:
     description: "the isDeprecated value."

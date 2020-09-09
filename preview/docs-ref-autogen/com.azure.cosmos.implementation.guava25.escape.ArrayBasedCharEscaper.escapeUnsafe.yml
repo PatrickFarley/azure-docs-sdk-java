@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.escape.ArrayBasedCharEscaper.escapeUnsafe(char c)"
   name: "escapeUnsafe(char c)"
   nameWithType: "ArrayBasedCharEscaper.escapeUnsafe(char c)"
-  summary: "Escapes a <code>char</code> value that has no direct explicit value in the replacement array and\n lies outside the stated safe range. Subclasses should override this method to provide\n generalized escaping for characters.\n\n <p>Note that arrays returned by this method must not be modified once they have been returned.\n However it is acceptable to return the same array multiple times (even for different input\n characters)."
+  summary: "Escapes a `char` value that has no direct explicit value in the replacement array and lies outside the stated safe range. Subclasses should override this method to provide generalized escaping for characters.\n\nNote that arrays returned by this method must not be modified once they have been returned. However it is acceptable to return the same array multiple times (even for different input characters)."
   parameters:
   - description: "the character to escape"
     name: "c"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.SubnetInner.withPrivateEndpointNetworkPolicies(String privateEndpointNetworkPolicies)"
   name: "withPrivateEndpointNetworkPolicies(String privateEndpointNetworkPolicies)"
   nameWithType: "SubnetInner.withPrivateEndpointNetworkPolicies(String privateEndpointNetworkPolicies)"
-  summary: "Set the privateEndpointNetworkPolicies property: Enable or Disable apply network policies on private end point in\n the subnet."
+  summary: "Set the privateEndpointNetworkPolicies property: Enable or Disable apply network policies on private end point in the subnet."
   parameters:
   - description: "the privateEndpointNetworkPolicies value to set."
     name: "privateEndpointNetworkPolicies"

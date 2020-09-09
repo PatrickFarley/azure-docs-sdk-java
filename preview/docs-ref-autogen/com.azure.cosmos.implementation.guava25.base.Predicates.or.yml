@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicates.<T>or(Predicate<? super T> first, Predicate<? super T> second)"
   name: "<T>or(Predicate<? super T> first, Predicate<? super T> second)"
   nameWithType: "Predicates.<T>or(Predicate<? super T> first, Predicate<? super T> second)"
-  summary: "Returns a predicate that evaluates to <code>true</code> if either of its components evaluates to\n <code>true</code>. The components are evaluated in order, and evaluation will be \"short-circuited\"\n as soon as a true predicate is found."
+  summary: "Returns a predicate that evaluates to `true` if either of its components evaluates to `true`. The components are evaluated in order, and evaluation will be \"short-circuited\" as soon as a true predicate is found."
   parameters:
   - name: "first"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.Predicate?alt=com.azure.cosmos.implementation.guava25.base.Predicate&text=Predicate\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super T?alt=? super T&text=? super T\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicates.<T>or(Predicate<? super T>[] components)"
   name: "<T>or(Predicate<? super T>[] components)"
   nameWithType: "Predicates.<T>or(Predicate<? super T>[] components)"
-  summary: "Returns a predicate that evaluates to <code>true</code> if any one of its components evaluates to\n <code>true</code>. The components are evaluated in order, and evaluation will be \"short-circuited\"\n as soon as a true predicate is found. It defensively copies the array passed in, so future\n changes to it won't alter the behavior of this predicate. If <code>components</code> is empty, the\n returned predicate will always evaluate to <code>false</code>."
+  summary: "Returns a predicate that evaluates to `true` if any one of its components evaluates to `true`. The components are evaluated in order, and evaluation will be \"short-circuited\" as soon as a true predicate is found. It defensively copies the array passed in, so future changes to it won't alter the behavior of this predicate. If `components` is empty, the returned predicate will always evaluate to `false`."
   parameters:
   - name: "components"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.base.Predicate?alt=com.azure.cosmos.implementation.guava25.base.Predicate&text=Predicate\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super T?alt=? super T&text=? super T\" data-throw-if-not-resolved=\"False\" />&gt;[]"
@@ -32,7 +32,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicates.<T>or(Iterable<? extends Predicate<? super T>> components)"
   name: "<T>or(Iterable<? extends Predicate<? super T>> components)"
   nameWithType: "Predicates.<T>or(Iterable<? extends Predicate<? super T>> components)"
-  summary: "Returns a predicate that evaluates to <code>true</code> if any one of its components evaluates to\n <code>true</code>. The components are evaluated in order, and evaluation will be \"short-circuited\"\n as soon as a true predicate is found. It defensively copies the iterable passed in, so future\n changes to it won't alter the behavior of this predicate. If <code>components</code> is empty, the\n returned predicate will always evaluate to <code>false</code>."
+  summary: "Returns a predicate that evaluates to `true` if any one of its components evaluates to `true`. The components are evaluated in order, and evaluation will be \"short-circuited\" as soon as a true predicate is found. It defensively copies the iterable passed in, so future changes to it won't alter the behavior of this predicate. If `components` is empty, the returned predicate will always evaluate to `false`."
   parameters:
   - name: "components"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends com.azure.cosmos.implementation.guava25.base.Predicate?alt=? extends com.azure.cosmos.implementation.guava25.base.Predicate&text=Predicate\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super T?alt=? super T&text=? super T\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"

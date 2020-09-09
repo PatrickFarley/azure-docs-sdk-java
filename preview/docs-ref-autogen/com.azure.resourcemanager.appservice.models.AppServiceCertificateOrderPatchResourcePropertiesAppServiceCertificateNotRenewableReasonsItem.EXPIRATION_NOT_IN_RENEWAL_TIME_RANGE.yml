@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem.EXPIRATION_NOT_IN_RENEWAL_TIME_RANGE"
   name: "EXPIRATION_NOT_IN_RENEWAL_TIME_RANGE"
   nameWithType: "AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem.EXPIRATION_NOT_IN_RENEWAL_TIME_RANGE"
-  summary: "Static value ExpirationNotInRenewalTimeRange for\n AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem."
+  summary: "Static value ExpirationNotInRenewalTimeRange for AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem."
   syntax: "public static final AppServiceCertificateOrderPatchResourcePropertiesAppServiceCertificateNotRenewableReasonsItem EXPIRATION_NOT_IN_RENEWAL_TIME_RANGE"
 type: "field"
 metadata: {}

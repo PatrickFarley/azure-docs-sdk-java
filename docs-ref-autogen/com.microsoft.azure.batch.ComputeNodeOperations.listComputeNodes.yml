@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.listComputeNodes(String poolId)"
   name: "listComputeNodes(String poolId)"
   nameWithType: "ComputeNodeOperations.listComputeNodes(String poolId)"
-  summary: "Lists the <xref uid=\"ComputeNode\" data-throw-if-not-resolved=\"false\">compute nodes</xref> of the specified pool."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNode\" data-throw-if-not-resolved=\"false\">compute nodes</xref> of the specified pool."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.listComputeNodes(String poolId, DetailLevel detailLevel)"
   name: "listComputeNodes(String poolId, DetailLevel detailLevel)"
   nameWithType: "ComputeNodeOperations.listComputeNodes(String poolId, DetailLevel detailLevel)"
-  summary: "Lists the <xref uid=\"ComputeNode\" data-throw-if-not-resolved=\"false\">compute nodes</xref> of the specified pool."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNode\" data-throw-if-not-resolved=\"false\">compute nodes</xref> of the specified pool."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"
@@ -47,7 +47,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.listComputeNodes(String poolId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listComputeNodes(String poolId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "ComputeNodeOperations.listComputeNodes(String poolId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"ComputeNode\" data-throw-if-not-resolved=\"false\">compute nodes</xref> of the specified pool."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNode\" data-throw-if-not-resolved=\"false\">compute nodes</xref> of the specified pool."
   parameters:
   - description: "The ID of the pool."
     name: "poolId"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterface.DefinitionStages.WithNetworkSecurityGroup.withNewNetworkSecurityGroup(Creatable<NetworkSecurityGroup> creatable)"
   name: "withNewNetworkSecurityGroup(Creatable<NetworkSecurityGroup> creatable)"
   nameWithType: "NetworkInterface.DefinitionStages.WithNetworkSecurityGroup.withNewNetworkSecurityGroup(Creatable<NetworkSecurityGroup> creatable)"
-  summary: "Create a new network security group to associate with network interface, based on the provided\n definition."
+  summary: "Create a new network security group to associate with network interface, based on the provided definition."
   parameters:
   - description: "a creatable definition for a new network security group"
     name: "creatable"

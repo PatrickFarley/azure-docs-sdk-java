@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.sql.CatalogCollationType.SQL_LATIN1_GENERAL_CP1_CI_AS"
   name: "SQL_LATIN1_GENERAL_CP1_CI_AS"
   nameWithType: "CatalogCollationType.SQL_LATIN1_GENERAL_CP1_CI_AS"
-  summary: "Static value SQL_Latin1_General_CP1_CI_AS for CatalogCollationType."
+  summary: "Static value SQL\\_Latin1\\_General\\_CP1\\_CI\\_AS for CatalogCollationType."
   syntax: "public static final CatalogCollationType SQL_LATIN1_GENERAL_CP1_CI_AS"
 type: "field"
 metadata: {}

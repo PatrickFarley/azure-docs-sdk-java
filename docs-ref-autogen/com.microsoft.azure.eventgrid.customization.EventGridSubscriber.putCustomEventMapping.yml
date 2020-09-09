@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.eventgrid.customization.EventGridSubscriber.putCustomEventMapping(String eventType, Type eventDataType)"
   name: "putCustomEventMapping(String eventType, Type eventDataType)"
   nameWithType: "EventGridSubscriber.putCustomEventMapping(String eventType, Type eventDataType)"
-  summary: "Add a custom event mapping. If a mapping with same eventType exists then the old eventDataType is replaced by\n the specified eventDataType."
+  summary: "Add a custom event mapping. If a mapping with same eventType exists then the old eventDataType is replaced by the specified eventDataType."
   parameters:
   - description: "the event type name."
     name: "eventType"

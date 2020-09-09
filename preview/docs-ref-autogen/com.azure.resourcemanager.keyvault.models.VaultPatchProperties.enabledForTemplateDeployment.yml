@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.VaultPatchProperties.enabledForTemplateDeployment()"
   name: "enabledForTemplateDeployment()"
   nameWithType: "VaultPatchProperties.enabledForTemplateDeployment()"
-  summary: "Get the enabledForTemplateDeployment property: Property to specify whether Azure Resource Manager is permitted to\n retrieve secrets from the key vault."
+  summary: "Get the enabledForTemplateDeployment property: Property to specify whether Azure Resource Manager is permitted to retrieve secrets from the key vault."
   syntax: "public Boolean enabledForTemplateDeployment()"
   returns:
     description: "the enabledForTemplateDeployment value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.listIndexers()"
   name: "listIndexers()"
   nameWithType: "SearchIndexerAsyncClient.listIndexers()"
-  summary: "Lists all indexers available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexers. </p>\n\n <pre>\n searchIndexerAsyncClient.listIndexers&#40;&#41;\n     .subscribe&#40;indexer -&gt;\n         System.out.printf&#40;&quot;The indexer name is %s. The etag of indexer is %s.%n&quot;, indexer.getName&#40;&#41;,\n         indexer.getETag&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Lists all indexers available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexers.\n\n```java\nsearchIndexerAsyncClient.listIndexers()\n     .subscribe(indexer ->\n         System.out.printf(\"The indexer name is %s. The etag of indexer is %s.%n\", indexer.getName(),\n         indexer.getETag()));\n```"
   syntax: "public PagedFlux<SearchIndexer> listIndexers()"
   returns:
     description: "a response containing all Indexers from the Search service."

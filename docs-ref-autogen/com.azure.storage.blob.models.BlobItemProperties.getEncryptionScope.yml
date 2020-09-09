@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.getEncryptionScope()"
   name: "getEncryptionScope()"
   nameWithType: "BlobItemProperties.getEncryptionScope()"
-  summary: "Get the encryptionScope property: The name of the encryption scope under\n which the blob is encrypted."
+  summary: "Get the encryptionScope property: The name of the encryption scope under which the blob is encrypted."
   syntax: "public String getEncryptionScope()"
   returns:
     description: "the encryptionScope value."

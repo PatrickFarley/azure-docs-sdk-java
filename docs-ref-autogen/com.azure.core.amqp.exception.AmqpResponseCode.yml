@@ -219,7 +219,7 @@ methods:
   fullName: "com.azure.core.amqp.exception.AmqpResponseCode.fromValue(int value)"
   name: "fromValue(int value)"
   nameWithType: "AmqpResponseCode.fromValue(int value)"
-  summary: "Creates an AmqpResponseCode for the provided integer <code>value</code>."
+  summary: "Creates an AmqpResponseCode for the provided integer `value`."
   parameters:
   - description: "The integer value representing an error code."
     name: "value"

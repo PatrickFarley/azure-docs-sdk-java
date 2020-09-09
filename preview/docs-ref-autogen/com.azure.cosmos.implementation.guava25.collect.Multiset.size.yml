@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.size()"
   name: "size()"
   nameWithType: "Multiset<E>.size()"
-  summary: "Returns the total number of all occurrences of all elements in this multiset.\n\n <p><b>Note:</b> this method does not return the number of <i>distinct elements</i> in the\n multiset, which is given by <code>entrySet().size()</code>."
+  summary: "Returns the total number of all occurrences of all elements in this multiset.\n\n**Note:** this method does not return the number of *distinct elements* in the multiset, which is given by `entrySet().size()`."
   syntax: "public abstract int size()"
   returns:
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

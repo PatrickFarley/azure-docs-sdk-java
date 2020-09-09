@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CertificatePatchResource.hostingEnvironmentProfile()"
   name: "hostingEnvironmentProfile()"
   nameWithType: "CertificatePatchResource.hostingEnvironmentProfile()"
-  summary: "Get the hostingEnvironmentProfile property: Specification for the App Service Environment to use for the\n certificate."
+  summary: "Get the hostingEnvironmentProfile property: Specification for the App Service Environment to use for the certificate."
   syntax: "public HostingEnvironmentProfile hostingEnvironmentProfile()"
   returns:
     description: "the hostingEnvironmentProfile value."

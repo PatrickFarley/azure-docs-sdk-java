@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.QueueProperties.setMaxDeliveryCount(Integer maxDeliveryCount)"
   name: "setMaxDeliveryCount(Integer maxDeliveryCount)"
   nameWithType: "QueueProperties.setMaxDeliveryCount(Integer maxDeliveryCount)"
-  summary: "Sets the maximum delivery count. A message is automatically dead-lettered after\n this number of deliveries. Default value is 10."
+  summary: "Sets the maximum delivery count. A message is automatically dead-lettered after this number of deliveries. Default value is 10."
   parameters:
   - description: "the maxDeliveryCount value to set."
     name: "maxDeliveryCount"

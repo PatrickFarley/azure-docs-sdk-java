@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.DatabaseAccount.setWritableLocations(Iterable<DatabaseAccountLocation> locations)"
   name: "setWritableLocations(Iterable<DatabaseAccountLocation> locations)"
   nameWithType: "DatabaseAccount.setWritableLocations(Iterable<DatabaseAccountLocation> locations)"
-  summary: "Sets the list of writable locations for this database account.\n <p>\n The list of writable locations are returned by the service."
+  summary: "Sets the list of writable locations for this database account.\n\nThe list of writable locations are returned by the service."
   parameters:
   - description: "the list of writable locations."
     name: "locations"

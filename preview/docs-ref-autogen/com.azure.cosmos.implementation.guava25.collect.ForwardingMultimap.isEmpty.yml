@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ForwardingMultimap<K,V>.isEmpty()"
   name: "isEmpty()"
   nameWithType: "ForwardingMultimap<K,V>.isEmpty()"
-  summary: "Returns <code>true</code> if this multimap contains no key-value pairs. Equivalent to <code>size()\n == 0</code>, but can in some cases be more efficient."
+  summary: "Returns `true` if this multimap contains no key-value pairs. Equivalent to `size() == 0`, but can in some cases be more efficient."
   syntax: "public boolean isEmpty()"
   returns:
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

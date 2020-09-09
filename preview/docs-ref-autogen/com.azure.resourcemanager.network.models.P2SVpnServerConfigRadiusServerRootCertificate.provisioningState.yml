@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.P2SVpnServerConfigRadiusServerRootCertificate.provisioningState()"
   name: "provisioningState()"
   nameWithType: "P2SVpnServerConfigRadiusServerRootCertificate.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the P2SVpnServerConfiguration Radius Server root\n certificate resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: The provisioning state of the P2SVpnServerConfiguration Radius Server root certificate resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

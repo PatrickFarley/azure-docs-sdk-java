@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse.<T>getHeader(RntbdConstants.RntbdResponseHeader header)"
   name: "<T>getHeader(RntbdConstants.RntbdResponseHeader header)"
   nameWithType: "RntbdResponse.<T>getHeader(RntbdConstants.RntbdResponseHeader header)"
-  summary: "Returns the value of the given <xref uid=\"RntbdResponse\" data-throw-if-not-resolved=\"false\">response</xref> <xref uid=\"RntbdResponseHeader\" data-throw-if-not-resolved=\"false\">header</xref>."
+  summary: "Returns the value of the given <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse\" data-throw-if-not-resolved=\"false\">response</xref> <xref uid=\"\" data-throw-if-not-resolved=\"false\">header</xref>."
   parameters:
   - description: "the <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdResponse\" data-throw-if-not-resolved=\"false\">response</xref> <xref uid=\"\" data-throw-if-not-resolved=\"false\">header</xref>."
     name: "header"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StampCapacityInner.totalCapacity()"
   name: "totalCapacity()"
   nameWithType: "StampCapacityInner.totalCapacity()"
-  summary: "Get the totalCapacity property: Total capacity (# of machines, bytes of storage etc...)."
+  summary: "Get the totalCapacity property: Total capacity (\\# of machines, bytes of storage etc...)."
   syntax: "public Long totalCapacity()"
   returns:
     description: "the totalCapacity value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayRewriteRuleCondition.withNegate(Boolean negate)"
   name: "withNegate(Boolean negate)"
   nameWithType: "ApplicationGatewayRewriteRuleCondition.withNegate(Boolean negate)"
-  summary: "Set the negate property: Setting this value as truth will force to check the negation of the condition given by\n the user."
+  summary: "Set the negate property: Setting this value as truth will force to check the negation of the condition given by the user."
   parameters:
   - description: "the negate value to set."
     name: "negate"

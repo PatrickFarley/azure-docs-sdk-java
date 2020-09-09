@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetDataDisk.writeAcceleratorEnabled()"
   name: "writeAcceleratorEnabled()"
   nameWithType: "VirtualMachineScaleSetDataDisk.writeAcceleratorEnabled()"
-  summary: "Get the writeAcceleratorEnabled property: Specifies whether writeAccelerator should be enabled or disabled on the\n disk."
+  summary: "Get the writeAcceleratorEnabled property: Specifies whether writeAccelerator should be enabled or disabled on the disk."
   syntax: "public Boolean writeAcceleratorEnabled()"
   returns:
     description: "the writeAcceleratorEnabled value."

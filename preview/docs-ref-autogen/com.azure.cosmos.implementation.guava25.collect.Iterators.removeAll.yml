@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.removeAll(Iterator<?> removeFrom, Collection<?> elementsToRemove)"
   name: "removeAll(Iterator<?> removeFrom, Collection<?> elementsToRemove)"
   nameWithType: "Iterators.removeAll(Iterator<?> removeFrom, Collection<?> elementsToRemove)"
-  summary: "Traverses an iterator and removes every element that belongs to the provided collection. The\n iterator will be left exhausted: its <code>hasNext()</code> method will return <code>false</code>."
+  summary: "Traverses an iterator and removes every element that belongs to the provided collection. The iterator will be left exhausted: its `hasNext()` method will return `false`."
   parameters:
   - description: "the iterator to (potentially) remove elements from"
     name: "removeFrom"

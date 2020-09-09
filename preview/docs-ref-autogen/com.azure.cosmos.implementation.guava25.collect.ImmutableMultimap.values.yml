@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap<K,V>.values()"
   name: "values()"
   nameWithType: "ImmutableMultimap<K,V>.values()"
-  summary: "Returns an immutable collection of the values in this multimap. Its iterator traverses the\n values for the first key, the values for the second key, and so on."
+  summary: "Returns an immutable collection of the values in this multimap. Its iterator traverses the values for the first key, the values for the second key, and so on."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractMultimap.values()"
   syntax: "public ImmutableCollection<V> values()"
   returns:

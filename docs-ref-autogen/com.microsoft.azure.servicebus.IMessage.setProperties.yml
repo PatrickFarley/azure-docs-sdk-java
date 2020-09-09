@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessage.setProperties(Map<String,Object> properties)"
   name: "setProperties(Map<String,Object> properties)"
   nameWithType: "IMessage.setProperties(Map<String,Object> properties)"
-  summary: "Sets the map of user application properties of this message. Client applications \n can set user properties on the message using this map."
+  summary: "Sets the map of user application properties of this message. Client applications can set user properties on the message using this map."
   parameters:
   - description: "the map of user application properties of this message"
     name: "properties"

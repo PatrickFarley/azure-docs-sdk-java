@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.language.spellcheck.BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withClientMachineName(String clientMachineName)"
   name: "withClientMachineName(String clientMachineName)"
   nameWithType: "BingSpellCheckOperations.BingSpellCheckOperationsSpellCheckerDefinitionStages.WithAllOptions.withClientMachineName(String clientMachineName)"
-  summary: "A unique name of the device that the request is being made from. Generate a unique value for each device\n   (the value is unimportant). The service uses the ID to help debug issues and improve the quality of\n   corrections."
+  summary: "A unique name of the device that the request is being made from. Generate a unique value for each device (the value is unimportant). The service uses the ID to help debug issues and improve the quality of corrections."
   parameters:
   - name: "clientMachineName"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicsInner.listNext(String nextPageLink)"
   name: "listNext(String nextPageLink)"
   nameWithType: "SystemTopicsInner.listNext(String nextPageLink)"
-  summary: "List system topics under an Azure subscription.\n List all the system topics under an Azure subscription."
+  summary: "List system topics under an Azure subscription. List all the system topics under an Azure subscription."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ManagedClusterAadProfile.withTenantId(String tenantId)"
   name: "withTenantId(String tenantId)"
   nameWithType: "ManagedClusterAadProfile.withTenantId(String tenantId)"
-  summary: "Set the tenantId property: The AAD tenant ID to use for authentication. If not specified, will use the tenant of\n the deployment subscription."
+  summary: "Set the tenantId property: The AAD tenant ID to use for authentication. If not specified, will use the tenant of the deployment subscription."
   parameters:
   - description: "the tenantId value to set."
     name: "tenantId"

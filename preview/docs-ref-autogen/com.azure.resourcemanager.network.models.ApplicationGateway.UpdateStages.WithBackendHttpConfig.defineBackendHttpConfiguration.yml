@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGateway.UpdateStages.WithBackendHttpConfig.defineBackendHttpConfiguration(String name)"
   name: "defineBackendHttpConfiguration(String name)"
   nameWithType: "ApplicationGateway.UpdateStages.WithBackendHttpConfig.defineBackendHttpConfiguration(String name)"
-  summary: "Begins the definition of a new application gateway backend HTTP configuration to be attached to the\n gateway."
+  summary: "Begins the definition of a new application gateway backend HTTP configuration to be attached to the gateway."
   parameters:
   - description: "a unique name for the backend HTTP configuration"
     name: "name"

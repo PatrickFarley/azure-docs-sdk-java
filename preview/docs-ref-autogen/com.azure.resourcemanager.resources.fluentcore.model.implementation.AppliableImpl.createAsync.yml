@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.AppliableImpl<FluentModelT,InnerModelT,FluentModelImplT>.createAsync()"
   name: "createAsync()"
   nameWithType: "AppliableImpl<FluentModelT,InnerModelT,FluentModelImplT>.createAsync()"
-  summary: "Puts the request into the queue and allow the HTTP client to execute\n it when system resources are available."
+  summary: "Puts the request into the queue and allow the HTTP client to execute it when system resources are available."
   overridden: "com.azure.resourcemanager.resources.fluentcore.model.implementation.CreatableUpdatableImpl.createAsync()"
   syntax: "public final Flux<Indexable> createAsync()"
   returns:

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MergeSkill.setInsertPostTag(String insertPostTag)"
   name: "setInsertPostTag(String insertPostTag)"
   nameWithType: "MergeSkill.setInsertPostTag(String insertPostTag)"
-  summary: "Set the insertPostTag property: The tag indicates the end of the merged\n text. By default, the tag is an empty space."
+  summary: "Set the insertPostTag property: The tag indicates the end of the merged text. By default, the tag is an empty space."
   parameters:
   - description: "the insertPostTag value to set."
     name: "insertPostTag"

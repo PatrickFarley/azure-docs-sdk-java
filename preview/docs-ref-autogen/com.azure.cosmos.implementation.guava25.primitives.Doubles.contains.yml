@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Doubles.contains(double[] array, double target)"
   name: "contains(double[] array, double target)"
   nameWithType: "Doubles.contains(double[] array, double target)"
-  summary: "Returns <code>true</code> if <code>target</code> is present as an element anywhere in <code>array</code>. Note\n that this always returns <code>false</code> when <code>target</code> is <code>NaN</code>."
+  summary: "Returns `true` if `target` is present as an element anywhere in `array`. Note that this always returns `false` when `target` is `NaN`."
   parameters:
   - description: "an array of <code>double</code> values, possibly empty"
     name: "array"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.AbstractDataSerializer.serializeImpl(Object object)"
   name: "serializeImpl(Object object)"
   nameWithType: "AbstractDataSerializer.serializeImpl(Object object)"
-  summary: "Core implementation of registry-based serialization.\n ID for data schema is fetched from the registry and prefixed to the encoded byte array\n representation of the object param."
+  summary: "Core implementation of registry-based serialization. ID for data schema is fetched from the registry and prefixed to the encoded byte array representation of the object param."
   parameters:
   - description: "object to be serialized"
     name: "object"

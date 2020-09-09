@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.ActionGroup.UpdateStages.WithActionUpdateDefinition.withPushNotification(String emailAddress)"
   name: "withPushNotification(String emailAddress)"
   nameWithType: "ActionGroup.UpdateStages.WithActionUpdateDefinition.withPushNotification(String emailAddress)"
-  summary: "Sets the Azure Mobile App Push Notification  receiver."
+  summary: "Sets the Azure Mobile App Push Notification receiver."
   parameters:
   - description: "the emailAddress value to set"
     name: "emailAddress"

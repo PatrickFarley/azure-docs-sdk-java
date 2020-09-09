@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<F,T>transform(Iterator<F> fromIterator, Function<? super F,? extends T> function)"
   name: "<F,T>transform(Iterator<F> fromIterator, Function<? super F,? extends T> function)"
   nameWithType: "Iterators.<F,T>transform(Iterator<F> fromIterator, Function<? super F,? extends T> function)"
-  summary: "Returns a view containing the result of applying <code>function</code> to each element of <code>\n fromIterator</code>.\n\n <p>The returned iterator supports <code>remove()</code> if <code>fromIterator</code> does. After a\n successful <code>remove()</code> call, <code>fromIterator</code> no longer contains the corresponding\n element."
+  summary: "Returns a view containing the result of applying `function` to each element of `fromIterator`.\n\nThe returned iterator supports `remove()` if `fromIterator` does. After a successful `remove()` call, `fromIterator` no longer contains the corresponding element."
   parameters:
   - name: "fromIterator"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"F?alt=F&text=F\" data-throw-if-not-resolved=\"False\" />&gt;"

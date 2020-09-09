@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.EncodedTaskRunRequest.sourceLocation()"
   name: "sourceLocation()"
   nameWithType: "EncodedTaskRunRequest.sourceLocation()"
-  summary: "Get the sourceLocation property: The URL(absolute or relative) of the source context. It can be an URL to a tar\n or git repository. If it is relative URL, the relative path should be obtained from calling\n listBuildSourceUploadUrl API."
+  summary: "Get the sourceLocation property: The URL(absolute or relative) of the source context. It can be an URL to a tar or git repository. If it is relative URL, the relative path should be obtained from calling listBuildSourceUploadUrl API."
   syntax: "public String sourceLocation()"
   returns:
     description: "the sourceLocation value."

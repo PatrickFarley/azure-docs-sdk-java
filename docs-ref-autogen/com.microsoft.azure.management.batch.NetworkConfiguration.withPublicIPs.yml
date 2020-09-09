@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batch.NetworkConfiguration.withPublicIPs(List<String> publicIPs)"
   name: "withPublicIPs(List<String> publicIPs)"
   nameWithType: "NetworkConfiguration.withPublicIPs(List<String> publicIPs)"
-  summary: "Set the number of IPs specified here limits the maximum size of the Pool - 50 dedicated nodes or 20 low-priority nodes can be allocated for each public IP. For example, a pool needing 150 dedicated VMs would need at least 3 public IPs specified. Each element of this collection is of the form: /subscriptions/{subscription}/resourceGroups/{group}/providers/Microsoft.Network/publicIPAddresses/{ip}."
+  summary: "Set the number of IPs specified here limits the maximum size of the Pool - 50 dedicated nodes or 20 low-priority nodes can be allocated for each public IP. For example, a pool needing 150 dedicated VMs would need at least 3 public IPs specified. Each element of this collection is of the form: /subscriptions/\\{subscription\\}/resourceGroups/\\{group\\}/providers/Microsoft.Network/publicIPAddresses/\\{ip\\}."
   parameters:
   - description: "the publicIPs value to set"
     name: "publicIPs"

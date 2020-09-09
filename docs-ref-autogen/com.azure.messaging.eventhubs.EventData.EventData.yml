@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventData.EventData(byte[] body)"
   name: "EventData(byte[] body)"
   nameWithType: "EventData.EventData(byte[] body)"
-  summary: "Creates an event containing the <code>body</code>."
+  summary: "Creates an event containing the `body`."
   parameters:
   - description: "The data to set for this event."
     name: "body"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventData.EventData(String body)"
   name: "EventData(String body)"
   nameWithType: "EventData.EventData(String body)"
-  summary: "Creates an event by encoding the <code>body</code> using UTF-8 charset."
+  summary: "Creates an event by encoding the `body` using UTF-8 charset."
   parameters:
   - description: "The string that will be UTF-8 encoded to create an event."
     name: "body"
@@ -28,7 +28,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventData.EventData(ByteBuffer body)"
   name: "EventData(ByteBuffer body)"
   nameWithType: "EventData.EventData(ByteBuffer body)"
-  summary: "Creates an event containing the <code>body</code>."
+  summary: "Creates an event containing the `body`."
   parameters:
   - description: "The data to set for this event."
     name: "body"

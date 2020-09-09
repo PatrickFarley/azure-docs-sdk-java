@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetIdentity.userAssignedIdentities()"
   name: "userAssignedIdentities()"
   nameWithType: "VirtualMachineScaleSetIdentity.userAssignedIdentities()"
-  summary: "Get the userAssignedIdentities property: The list of user identities associated with the virtual machine scale\n set. The user identity dictionary key references will be ARM resource ids in the form:\n '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'."
+  summary: "Get the userAssignedIdentities property: The list of user identities associated with the virtual machine scale set. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'."
   syntax: "public Map<String,VirtualMachineScaleSetIdentityUserAssignedIdentities> userAssignedIdentities()"
   returns:
     description: "the userAssignedIdentities value."

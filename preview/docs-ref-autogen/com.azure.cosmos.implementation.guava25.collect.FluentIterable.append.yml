@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.append(E[] elements)"
   name: "append(E[] elements)"
   nameWithType: "FluentIterable<E>.append(E[] elements)"
-  summary: "Returns a fluent iterable whose iterators traverse first the elements of this fluent iterable,\n followed by <code>elements</code>.\n\n <p><b><code>Stream</code> equivalent:</b> <code>Stream.concat(thisStream, Stream.of(elements))</code>."
+  summary: "Returns a fluent iterable whose iterators traverse first the elements of this fluent iterable, followed by `elements`.\n\n**`Stream` equivalent:** `Stream.concat(thisStream, Stream.of(elements))`."
   parameters:
   - name: "elements"
     type: "<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />[]"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.append(Iterable<? extends E> other)"
   name: "append(Iterable<? extends E> other)"
   nameWithType: "FluentIterable<E>.append(Iterable<? extends E> other)"
-  summary: "Returns a fluent iterable whose iterators traverse first the elements of this fluent iterable,\n followed by those of <code>other</code>. The iterators are not polled until necessary.\n\n <p>The returned iterable's <code>Iterator</code> supports <code>remove()</code> when the corresponding\n <code>Iterator</code> supports it.\n\n <p><b><code>Stream</code> equivalent:</b> <xref uid=\"Stream#concat\" data-throw-if-not-resolved=\"false\">Stream#concat</xref>."
+  summary: "Returns a fluent iterable whose iterators traverse first the elements of this fluent iterable, followed by those of `other`. The iterators are not polled until necessary.\n\nThe returned iterable's `Iterator` supports `remove()` when the corresponding `Iterator` supports it.\n\n**`Stream` equivalent:** <xref uid=\"java.util.stream.Stream.concat\" data-throw-if-not-resolved=\"false\">Stream#concat</xref>."
   parameters:
   - name: "other"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends E?alt=? extends E&text=? extends E\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakePathAsyncClient.create()"
   name: "create()"
   nameWithType: "DataLakePathAsyncClient.create()"
-  summary: "Creates a resource. By default this method will not overwrite an existing path.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.create&#40;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Last Modified Time:%s&quot;, response.getLastModified&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create\">Azure\n Docs</a></p>"
+  summary: "Creates a resource. By default this method will not overwrite an existing path.\n\n**Code Samples**\n\n```java\nclient.create().subscribe(response ->\n     System.out.printf(\"Last Modified Time:%s\", response.getLastModified()));\n```\n\nFor more information see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create"
   syntax: "public Mono<PathInfo> create()"
   returns:
     description: "A reactive response containing information about the created resource."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakePathAsyncClient.create(boolean overwrite)"
   name: "create(boolean overwrite)"
   nameWithType: "DataLakePathAsyncClient.create(boolean overwrite)"
-  summary: "Creates a resource.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n boolean overwrite = true;\n client.create&#40;overwrite&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Last Modified Time:%s&quot;, response.getLastModified&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create\">Azure\n Docs</a></p>"
+  summary: "Creates a resource.\n\n**Code Samples**\n\n```java\nboolean overwrite = true;\n client.create(overwrite).subscribe(response ->\n     System.out.printf(\"Last Modified Time:%s\", response.getLastModified()));\n```\n\nFor more information see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create"
   parameters:
   - description: "Whether or not to overwrite, should data exist on the file."
     name: "overwrite"

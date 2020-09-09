@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileAsyncClient.flush(long position)"
   name: "flush(long position)"
   nameWithType: "DataLakeFileAsyncClient.flush(long position)"
-  summary: "Flushes (writes) data previously appended to the file through a call to append.\n The previously uploaded data must be contiguous.\n <p>By default this method will not overwrite existing data.</p>\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.flush&#40;position&#41;.subscribe&#40;response -&gt;\n     System.out.println&#40;&quot;Flush data completed&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/update\">Azure\n Docs</a></p>"
+  summary: "Flushes (writes) data previously appended to the file through a call to append. The previously uploaded data must be contiguous.\n\nBy default this method will not overwrite existing data.\n\n**Code Samples**\n\n```java\nclient.flush(position).subscribe(response ->\n     System.out.println(\"Flush data completed\"));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/update"
   parameters:
   - description: "The length of the file after all data has been written."
     name: "position"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileAsyncClient.flush(long position, boolean overwrite)"
   name: "flush(long position, boolean overwrite)"
   nameWithType: "DataLakeFileAsyncClient.flush(long position, boolean overwrite)"
-  summary: "Flushes (writes) data previously appended to the file through a call to append.\n The previously uploaded data must be contiguous.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n boolean overwrite = true;\n client.flush&#40;position, overwrite&#41;.subscribe&#40;response -&gt;\n     System.out.println&#40;&quot;Flush data completed&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/update\">Azure\n Docs</a></p>"
+  summary: "Flushes (writes) data previously appended to the file through a call to append. The previously uploaded data must be contiguous.\n\n**Code Samples**\n\n```java\nboolean overwrite = true;\n client.flush(position, overwrite).subscribe(response ->\n     System.out.println(\"Flush data completed\"));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/update"
   parameters:
   - description: "The length of the file after all data has been written."
     name: "position"

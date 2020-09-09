@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.DatabaseAccountLocation.DatabaseAccountLocation()"
   name: "DatabaseAccountLocation()"
   nameWithType: "DatabaseAccountLocation.DatabaseAccountLocation()"
-  summary: "DEFAULT Constructor. Creates a new instance of the\n DatabaseAccountLocation object."
+  summary: "DEFAULT Constructor. Creates a new instance of the DatabaseAccountLocation object."
   syntax: "public DatabaseAccountLocation()"
 - uid: "com.azure.cosmos.implementation.DatabaseAccountLocation.DatabaseAccountLocation(com.fasterxml.jackson.databind.node.ObjectNode)"
   fullName: "com.azure.cosmos.implementation.DatabaseAccountLocation.DatabaseAccountLocation(ObjectNode objectNode)"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.DatabaseAccountLocation.DatabaseAccountLocation(String jsonString)"
   name: "DatabaseAccountLocation(String jsonString)"
   nameWithType: "DatabaseAccountLocation.DatabaseAccountLocation(String jsonString)"
-  summary: "Creates a new instance of the DatabaseAccountLocation object from a JSON\n string."
+  summary: "Creates a new instance of the DatabaseAccountLocation object from a JSON string."
   parameters:
   - description: "the JSON string that represents the DatabaseAccountLocation object."
     name: "jsonString"

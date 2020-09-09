@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineUpdateInner.vmId()"
   name: "vmId()"
   nameWithType: "VirtualMachineUpdateInner.vmId()"
-  summary: "Get the vmId property: Specifies the VM unique ID which is a 128-bits identifier that is encoded and stored in\n all Azure IaaS VMs SMBIOS and can be read using platform BIOS commands."
+  summary: "Get the vmId property: Specifies the VM unique ID which is a 128-bits identifier that is encoded and stored in all Azure IaaS VMs SMBIOS and can be read using platform BIOS commands."
   syntax: "public String vmId()"
   returns:
     description: "the vmId value."

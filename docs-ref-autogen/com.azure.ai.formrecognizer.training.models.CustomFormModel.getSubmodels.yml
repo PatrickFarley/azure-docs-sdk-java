@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.training.models.CustomFormModel.getSubmodels()"
   name: "getSubmodels()"
   nameWithType: "CustomFormModel.getSubmodels()"
-  summary: "Get the list of sub model that are part of this model, each of which can recognize\n and extract fields from a different type of form."
+  summary: "Get the list of sub model that are part of this model, each of which can recognize and extract fields from a different type of form."
   syntax: "public List<CustomFormSubmodel> getSubmodels()"
   returns:
     description: "the unmodifiable list of submodels that are a part of this model."

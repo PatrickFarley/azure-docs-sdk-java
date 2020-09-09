@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.transport.https.HttpsTransportManager.send(IotHubTransportMessage message, Map<String,String> additionalHeaders)"
   name: "send(IotHubTransportMessage message, Map<String,String> additionalHeaders)"
   nameWithType: "HttpsTransportManager.send(IotHubTransportMessage message, Map<String,String> additionalHeaders)"
-  summary: "This is a blocking send message. It send the provide message, wait for the IotHub answer, and return is\n in the ResponseMessage, which contains the status and the payload."
+  summary: "This is a blocking send message. It send the provide message, wait for the IotHub answer, and return is in the ResponseMessage, which contains the status and the payload."
   parameters:
   - description: "is the message to send."
     name: "message"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicEventSubscriptionsInner.listBySystemTopicNextSinglePageAsync(String nextPageLink)"
   name: "listBySystemTopicNextSinglePageAsync(String nextPageLink)"
   nameWithType: "SystemTopicEventSubscriptionsInner.listBySystemTopicNextSinglePageAsync(String nextPageLink)"
-  summary: "List event subscriptions of a system topic.\n List event subscriptions that belong to a specific system topic.\n\n    ServiceResponse<PageImpl<EventSubscriptionInner>> * @param nextPageLink The NextLink from the previous successful call to List operation."
+  summary: "List event subscriptions of a system topic. List event subscriptions that belong to a specific system topic. ServiceResponse> \\* @param nextPageLink The NextLink from the previous successful call to List operation."
   parameters:
   - name: "nextPageLink"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

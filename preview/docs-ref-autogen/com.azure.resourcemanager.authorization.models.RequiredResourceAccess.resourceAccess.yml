@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.RequiredResourceAccess.resourceAccess()"
   name: "resourceAccess()"
   nameWithType: "RequiredResourceAccess.resourceAccess()"
-  summary: "Get the resourceAccess property: The list of OAuth2.0 permission scopes and app roles that the application\n requires from the specified resource."
+  summary: "Get the resourceAccess property: The list of OAuth2.0 permission scopes and app roles that the application requires from the specified resource."
   syntax: "public List<ResourceAccess> resourceAccess()"
   returns:
     description: "the resourceAccess value."

@@ -14,7 +14,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.AbstractHashedMap(int initialCapacity)"
   name: "AbstractHashedMap(int initialCapacity)"
   nameWithType: "AbstractHashedMap<K,V>.AbstractHashedMap(int initialCapacity)"
-  summary: "Constructs a new, empty map with the specified initial capacity and\n default load factor."
+  summary: "Constructs a new, empty map with the specified initial capacity and default load factor."
   parameters:
   - description: "the initial capacity"
     name: "initialCapacity"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.AbstractHashedMap(int initialCapacity, float loadFactor)"
   name: "AbstractHashedMap(int initialCapacity, float loadFactor)"
   nameWithType: "AbstractHashedMap<K,V>.AbstractHashedMap(int initialCapacity, float loadFactor)"
-  summary: "Constructs a new, empty map with the specified initial capacity and\n load factor."
+  summary: "Constructs a new, empty map with the specified initial capacity and load factor."
   parameters:
   - description: "the initial capacity"
     name: "initialCapacity"

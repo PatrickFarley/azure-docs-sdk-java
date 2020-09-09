@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.routing.MurmurHash3_32.hash(byte[] data, int len, int seed)"
   name: "hash(byte[] data, int len, int seed)"
   nameWithType: "MurmurHash3_32.hash(byte[] data, int len, int seed)"
-  summary: "Returns the MurmurHash3_x86_32 hash."
+  summary: "Returns the MurmurHash3\\_x86\\_32 hash."
   parameters:
   - description: "a byte array containing the data to be hashed"
     name: "data"

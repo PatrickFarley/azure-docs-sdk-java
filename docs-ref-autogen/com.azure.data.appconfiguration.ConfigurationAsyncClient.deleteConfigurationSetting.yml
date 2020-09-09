@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.appconfiguration.ConfigurationAsyncClient.deleteConfigurationSetting(String key, String label)"
   name: "deleteConfigurationSetting(String key, String label)"
   nameWithType: "ConfigurationAsyncClient.deleteConfigurationSetting(String key, String label)"
-  summary: "Deletes the ConfigurationSetting with a matching <code>key</code> and optional <code>label</code> combination.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the setting with the key \"prodDBConnection\".</p>\n\n <pre>\n client.deleteConfigurationSetting&#40;&quot;prodDBConnection&quot;, null&#41;\n     .subscriberContext&#40;Context.of&#40;key1, value1, key2, value2&#41;&#41;\n     .subscribe&#40;response -&gt; System.out.printf&#40;&quot;Key: %s, Label: %s, Value: %s&quot;,\n         response.getKey&#40;&#41;, response.getLabel&#40;&#41;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Deletes the ConfigurationSetting with a matching `key` and optional `label` combination.\n\n**Code Samples**\n\nDelete the setting with the key \"prodDBConnection\".\n\n```java\nclient.deleteConfigurationSetting(\"prodDBConnection\", null)\n     .subscriberContext(Context.of(key1, value1, key2, value2))\n     .subscribe(response -> System.out.printf(\"Key: %s, Label: %s, Value: %s\",\n         response.getKey(), response.getLabel(), response.getValue()));\n```"
   parameters:
   - description: "The key of configuration setting to delete."
     name: "key"

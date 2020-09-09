@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.EncryptionService.withKeyType(KeyType keyType)"
   name: "withKeyType(KeyType keyType)"
   nameWithType: "EncryptionService.withKeyType(KeyType keyType)"
-  summary: "Set the keyType property: Encryption key type to be used for the encryption service. 'Account' key type implies\n that an account-scoped encryption key will be used. 'Service' key type implies that a default service key is\n used."
+  summary: "Set the keyType property: Encryption key type to be used for the encryption service. 'Account' key type implies that an account-scoped encryption key will be used. 'Service' key type implies that a default service key is used."
   parameters:
   - description: "the keyType value to set."
     name: "keyType"

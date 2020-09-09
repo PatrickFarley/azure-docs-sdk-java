@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>replaceItem(T item, String itemId, PartitionKey partitionKey)"
   name: "<T>replaceItem(T item, String itemId, PartitionKey partitionKey)"
   nameWithType: "CosmosAsyncContainer.<T>replaceItem(T item, String itemId, PartitionKey partitionKey)"
-  summary: "Replaces an item with the passed in item.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response with the replaced item."
+  summary: "Replaces an item with the passed in item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response with the replaced item."
   parameters:
   - description: "the item to replace (containing the item id)."
     name: "item"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncContainer.<T>replaceItem(T item, String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   name: "<T>replaceItem(T item, String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options)"
   nameWithType: "CosmosAsyncContainer.<T>replaceItem(T item, String itemId, PartitionKey partitionKey, CosmosItemRequestOptions options)"
-  summary: "Replaces an item with the passed in item.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response with the replaced item."
+  summary: "Replaces an item with the passed in item.\n\nAfter subscription the operation will be performed. The <xref uid=\"reactor.core.publisher.Mono\" data-throw-if-not-resolved=\"false\">Mono</xref> upon successful completion will contain a single Cosmos item response with the replaced item."
   parameters:
   - description: "the item to replace (containing the item id)."
     name: "item"

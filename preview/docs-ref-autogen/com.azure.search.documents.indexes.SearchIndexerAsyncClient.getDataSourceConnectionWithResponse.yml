@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.getDataSourceConnectionWithResponse(String dataSourceName)"
   name: "getDataSourceConnectionWithResponse(String dataSourceName)"
   nameWithType: "SearchIndexerAsyncClient.getDataSourceConnectionWithResponse(String dataSourceName)"
-  summary: "Retrieves a DataSource from an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get search indexer data source connection named \"dataSource\". </p>\n\n <pre>\n searchIndexerAsyncClient.getDataSourceConnectionWithResponse&#40;&quot;dataSource&quot;&#41;\n     .subscribe&#40;dataSource -&gt;\n         System.out.printf&#40;&quot;The status code of the response is %s. The data source name is %s.%n&quot;,\n         dataSource.getStatusCode&#40;&#41;, dataSource.getValue&#40;&#41;.getName&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Retrieves a DataSource from an Azure Cognitive Search service.\n\n**Code Sample**\n\nGet search indexer data source connection named \"dataSource\".\n\n```java\nsearchIndexerAsyncClient.getDataSourceConnectionWithResponse(\"dataSource\")\n     .subscribe(dataSource ->\n         System.out.printf(\"The status code of the response is %s. The data source name is %s.%n\",\n         dataSource.getStatusCode(), dataSource.getValue().getName()));\n```"
   parameters:
   - description: "the name of the <xref uid=\"com.azure.search.documents.indexes.models.SearchIndexerDataSourceConnection\" data-throw-if-not-resolved=\"false\">SearchIndexerDataSourceConnection</xref> to retrieve."
     name: "dataSourceName"

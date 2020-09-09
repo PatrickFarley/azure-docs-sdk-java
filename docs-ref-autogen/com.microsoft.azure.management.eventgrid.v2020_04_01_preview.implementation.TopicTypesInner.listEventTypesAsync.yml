@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.listEventTypesAsync(String topicTypeName)"
   name: "listEventTypesAsync(String topicTypeName)"
   nameWithType: "TopicTypesInner.listEventTypesAsync(String topicTypeName)"
-  summary: "List event types.\n List event types for a topic type."
+  summary: "List event types. List event types for a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicTypesInner.listEventTypesAsync(String topicTypeName, ServiceCallback<List<EventTypeInner>> serviceCallback)"
   name: "listEventTypesAsync(String topicTypeName, ServiceCallback<List<EventTypeInner>> serviceCallback)"
   nameWithType: "TopicTypesInner.listEventTypesAsync(String topicTypeName, ServiceCallback<List<EventTypeInner>> serviceCallback)"
-  summary: "List event types.\n List event types for a topic type."
+  summary: "List event types. List event types for a topic type."
   parameters:
   - description: "Name of the topic type."
     name: "topicTypeName"

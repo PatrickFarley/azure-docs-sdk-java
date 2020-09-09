@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemAsyncClient.createWithResponse(Map<String,String> metadata, PublicAccessType accessType)"
   name: "createWithResponse(Map<String,String> metadata, PublicAccessType accessType)"
   nameWithType: "DataLakeFileSystemAsyncClient.createWithResponse(Map<String,String> metadata, PublicAccessType accessType)"
-  summary: "Creates a new file system within a storage account. If a file system with the same name already exists, the\n operation fails. For more information, see the\n <a href=\"https://docs.microsoft.com/rest/api/storageservices/create-container\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n Map&lt;String, String&gt; metadata = Collections.singletonMap&#40;&quot;metadata&quot;, &quot;value&quot;&#41;;\n client.createWithResponse&#40;metadata, PublicAccessType.CONTAINER&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Create completed with status %d%n&quot;, response.getStatusCode&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a new file system within a storage account. If a file system with the same name already exists, the operation fails. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nMap<String, String> metadata = Collections.singletonMap(\"metadata\", \"value\");\n client.createWithResponse(metadata, PublicAccessType.CONTAINER).subscribe(response ->\n     System.out.printf(\"Create completed with status %d%n\", response.getStatusCode()));\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/create-container"
   parameters:
   - description: "Metadata to associate with the file system."
     name: "metadata"

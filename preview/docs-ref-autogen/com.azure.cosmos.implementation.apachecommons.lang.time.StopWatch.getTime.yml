@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.time.StopWatch.getTime()"
   name: "getTime()"
   nameWithType: "StopWatch.getTime()"
-  summary: "<p>\n Get the time on the stopwatch.\n </p>\n\n <p>\n This is either the time between the start and the moment this method is called, or the amount of time between\n start and stop.\n </p>"
+  summary: "Get the time on the stopwatch.\n\nThis is either the time between the start and the moment this method is called, or the amount of time between start and stop."
   syntax: "public long getTime()"
   returns:
     description: "the time in milliseconds"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.time.StopWatch.getTime(TimeUnit timeUnit)"
   name: "getTime(TimeUnit timeUnit)"
   nameWithType: "StopWatch.getTime(TimeUnit timeUnit)"
-  summary: "<p>\n Get the time on the stopwatch in the specified TimeUnit.\n </p>\n\n <p>\n This is either the time between the start and the moment this method is called, or the amount of time between\n start and stop. The resulting time will be expressed in the desired TimeUnit with any remainder rounded down.\n For example, if the specified unit is <code>TimeUnit.HOURS</code> and the stopwatch time is 59 minutes, then the\n result returned will be <code>0</code>.\n </p>"
+  summary: "Get the time on the stopwatch in the specified TimeUnit.\n\nThis is either the time between the start and the moment this method is called, or the amount of time between start and stop. The resulting time will be expressed in the desired TimeUnit with any remainder rounded down. For example, if the specified unit is `TimeUnit.HOURS` and the stopwatch time is 59 minutes, then the result returned will be `0`."
   parameters:
   - description: "the unit of time, not null"
     name: "timeUnit"

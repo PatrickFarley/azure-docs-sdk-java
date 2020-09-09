@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.Request.withAddr(String addr)"
   name: "withAddr(String addr)"
   nameWithType: "Request.withAddr(String addr)"
-  summary: "Set the addr property: The IP or hostname and possibly port of the client connection that initiated the event.\n This is the RemoteAddr from the standard http request."
+  summary: "Set the addr property: The IP or hostname and possibly port of the client connection that initiated the event. This is the RemoteAddr from the standard http request."
   parameters:
   - description: "the addr value to set."
     name: "addr"

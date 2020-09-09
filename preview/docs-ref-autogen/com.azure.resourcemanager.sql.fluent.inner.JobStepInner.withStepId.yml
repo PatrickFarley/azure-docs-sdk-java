@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.JobStepInner.withStepId(Integer stepId)"
   name: "withStepId(Integer stepId)"
   nameWithType: "JobStepInner.withStepId(Integer stepId)"
-  summary: "Set the stepId property: The job step's index within the job. If not specified when creating the job step, it\n will be created as the last step. If not specified when updating the job step, the step id is not modified."
+  summary: "Set the stepId property: The job step's index within the job. If not specified when creating the job step, it will be created as the last step. If not specified when updating the job step, the step id is not modified."
   parameters:
   - description: "the stepId value to set."
     name: "stepId"

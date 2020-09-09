@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.FileReadHeaders.setCopyStatus(CopyStatusType copyStatus)"
   name: "setCopyStatus(CopyStatusType copyStatus)"
   nameWithType: "FileReadHeaders.setCopyStatus(CopyStatusType copyStatus)"
-  summary: "Set the copyStatus property: State of the copy operation identified by\n x-ms-copy-id. Possible values include: 'pending', 'success', 'aborted',\n 'failed'."
+  summary: "Set the copyStatus property: State of the copy operation identified by x-ms-copy-id. Possible values include: 'pending', 'success', 'aborted', 'failed'."
   parameters:
   - description: "the copyStatus value to set."
     name: "copyStatus"

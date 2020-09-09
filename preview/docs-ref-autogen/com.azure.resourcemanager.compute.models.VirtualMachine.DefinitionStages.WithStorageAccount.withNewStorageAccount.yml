@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithStorageAccount.withNewStorageAccount(Creatable<StorageAccount> creatable)"
   name: "withNewStorageAccount(Creatable<StorageAccount> creatable)"
   nameWithType: "VirtualMachine.DefinitionStages.WithStorageAccount.withNewStorageAccount(Creatable<StorageAccount> creatable)"
-  summary: "Specifies the definition of a not-yet-created storage account to put the VM's OS and data disk VHDs into.\n\n <p>Only the OS disk based on a marketplace image will be stored in the new storage account. An OS disk\n based on a user image will be stored in the same storage account as the user image."
+  summary: "Specifies the definition of a not-yet-created storage account to put the VM's OS and data disk VHDs into.\n\nOnly the OS disk based on a marketplace image will be stored in the new storage account. An OS disk based on a user image will be stored in the same storage account as the user image."
   parameters:
   - description: "a creatable storage account definition"
     name: "creatable"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithStorageAccount.withNewStorageAccount(String name)"
   name: "withNewStorageAccount(String name)"
   nameWithType: "VirtualMachine.DefinitionStages.WithStorageAccount.withNewStorageAccount(String name)"
-  summary: "Specifies the name of a new storage account to put the VM's OS and data disk VHD into.\n\n <p>Only an OS disk based on a marketplace image will be stored in the new storage account. An OS disk\n based on a user image will be stored in the same storage account as the user image."
+  summary: "Specifies the name of a new storage account to put the VM's OS and data disk VHD into.\n\nOnly an OS disk based on a marketplace image will be stored in the new storage account. An OS disk based on a user image will be stored in the same storage account as the user image."
   parameters:
   - description: "the name for a new storage account"
     name: "name"

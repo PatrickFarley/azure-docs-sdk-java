@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.models.JsonWebKey.toRsa(boolean includePrivateParameters)"
   name: "toRsa(boolean includePrivateParameters)"
   nameWithType: "JsonWebKey.toRsa(boolean includePrivateParameters)"
-  summary: "Converts JSON web key to RSA key pair and include the private key if set to\n true."
+  summary: "Converts JSON web key to RSA key pair and include the private key if set to true."
   parameters:
   - description: "true if the RSA key pair should include the private key. False otherwise."
     name: "includePrivateParameters"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.models.JsonWebKey.toRsa(boolean includePrivateParameters, Provider provider)"
   name: "toRsa(boolean includePrivateParameters, Provider provider)"
   nameWithType: "JsonWebKey.toRsa(boolean includePrivateParameters, Provider provider)"
-  summary: "Converts JSON web key to RSA key pair and include the private key if set to\n true."
+  summary: "Converts JSON web key to RSA key pair and include the private key if set to true."
   parameters:
   - description: "true if the RSA key pair should include the private key. False otherwise."
     name: "includePrivateParameters"

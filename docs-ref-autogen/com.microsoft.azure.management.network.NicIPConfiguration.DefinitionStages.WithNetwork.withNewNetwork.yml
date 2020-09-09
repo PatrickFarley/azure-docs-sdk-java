@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NicIPConfiguration.DefinitionStages.WithNetwork<ParentT>.withNewNetwork(Creatable<Network> creatable)"
   name: "withNewNetwork(Creatable<Network> creatable)"
   nameWithType: "NicIPConfiguration.DefinitionStages.WithNetwork<ParentT>.withNewNetwork(Creatable<Network> creatable)"
-  summary: "Create a new virtual network to associate with the  network interface IP configuration,\n based on the provided definition."
+  summary: "Create a new virtual network to associate with the network interface IP configuration, based on the provided definition."
   parameters:
   - description: "a creatable definition for a new virtual network"
     name: "creatable"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NicIPConfiguration.DefinitionStages.WithNetwork<ParentT>.withNewNetwork(String addressSpace)"
   name: "withNewNetwork(String addressSpace)"
   nameWithType: "NicIPConfiguration.DefinitionStages.WithNetwork<ParentT>.withNewNetwork(String addressSpace)"
-  summary: "Creates a new virtual network to associate with the network interface IP configuration.\n <p>\n the virtual network will be created in the same resource group and region as of parent network interface,\n it will be created with the specified address space and a default subnet covering the entirety of the\n network IP address space."
+  summary: "Creates a new virtual network to associate with the network interface IP configuration.\n\nthe virtual network will be created in the same resource group and region as of parent network interface, it will be created with the specified address space and a default subnet covering the entirety of the network IP address space."
   parameters:
   - description: "the address space for the virtual network"
     name: "addressSpace"
@@ -34,7 +34,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NicIPConfiguration.DefinitionStages.WithNetwork<ParentT>.withNewNetwork(String name, String addressSpace)"
   name: "withNewNetwork(String name, String addressSpace)"
   nameWithType: "NicIPConfiguration.DefinitionStages.WithNetwork<ParentT>.withNewNetwork(String name, String addressSpace)"
-  summary: "Creates a new virtual network to associate with the network interface IP configuration.\n <p>\n the virtual network will be created in the same resource group and region as of parent\n network interface, it will be created with the specified address space and a default subnet\n covering the entirety of the network IP address space."
+  summary: "Creates a new virtual network to associate with the network interface IP configuration.\n\nthe virtual network will be created in the same resource group and region as of parent network interface, it will be created with the specified address space and a default subnet covering the entirety of the network IP address space."
   parameters:
   - description: "the name of the new virtual network"
     name: "name"

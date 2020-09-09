@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MoreCollectors.<T>onlyElement()"
   name: "<T>onlyElement()"
   nameWithType: "MoreCollectors.<T>onlyElement()"
-  summary: "A collector that takes a stream containing exactly one element and returns that element. The\n returned collector throws an <code>IllegalArgumentException</code> if the stream consists of two or\n more elements, and a <code>NoSuchElementException</code> if the stream is empty."
+  summary: "A collector that takes a stream containing exactly one element and returns that element. The returned collector throws an `IllegalArgumentException` if the stream consists of two or more elements, and a `NoSuchElementException` if the stream is empty."
   syntax: "public static Collector<T,?,T> <T>onlyElement()"
   returns:
     type: "<xref href=\"java.util.stream.Collector?alt=java.util.stream.Collector&text=Collector\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />,?,<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

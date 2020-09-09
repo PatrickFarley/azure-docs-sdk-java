@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.Configuration.id"
   name: "id"
   nameWithType: "Configuration.id"
-  summary: "Configuration name\n A case-sensitive string (up to 128 char long)\n of ASCII 7-bit alphanumeric chars\n + {'-', ':', '.', '+', '%', '_', '#', '*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''}."
+  summary: "Configuration name A case-sensitive string (up to 128 char long) of ASCII 7-bit alphanumeric chars + \\{'-', ':', '.', '+', '%', '\\_', '\\#', '\\*', '?', '!', '(', ')', ',', '=', '@', ';', '$', '''\\}."
   syntax: "protected String id"
 type: "field"
 metadata: {}

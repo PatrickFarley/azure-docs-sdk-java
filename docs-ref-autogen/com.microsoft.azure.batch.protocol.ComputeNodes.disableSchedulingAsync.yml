@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.disableSchedulingAsync(String poolId, String nodeId)"
   name: "disableSchedulingAsync(String poolId, String nodeId)"
   nameWithType: "ComputeNodes.disableSchedulingAsync(String poolId, String nodeId)"
-  summary: "Disables Task scheduling on the specified Compute Node.\n You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
+  summary: "Disables Task scheduling on the specified Compute Node. You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.disableSchedulingAsync(String poolId, String nodeId, DisableComputeNodeSchedulingOption nodeDisableSchedulingOption, ComputeNodeDisableSchedulingOptions computeNodeDisableSchedulingOptions)"
   name: "disableSchedulingAsync(String poolId, String nodeId, DisableComputeNodeSchedulingOption nodeDisableSchedulingOption, ComputeNodeDisableSchedulingOptions computeNodeDisableSchedulingOptions)"
   nameWithType: "ComputeNodes.disableSchedulingAsync(String poolId, String nodeId, DisableComputeNodeSchedulingOption nodeDisableSchedulingOption, ComputeNodeDisableSchedulingOptions computeNodeDisableSchedulingOptions)"
-  summary: "Disables Task scheduling on the specified Compute Node.\n You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
+  summary: "Disables Task scheduling on the specified Compute Node. You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -46,7 +46,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.disableSchedulingAsync(String poolId, String nodeId, DisableComputeNodeSchedulingOption nodeDisableSchedulingOption, ComputeNodeDisableSchedulingOptions computeNodeDisableSchedulingOptions, ServiceCallback<Void> serviceCallback)"
   name: "disableSchedulingAsync(String poolId, String nodeId, DisableComputeNodeSchedulingOption nodeDisableSchedulingOption, ComputeNodeDisableSchedulingOptions computeNodeDisableSchedulingOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.disableSchedulingAsync(String poolId, String nodeId, DisableComputeNodeSchedulingOption nodeDisableSchedulingOption, ComputeNodeDisableSchedulingOptions computeNodeDisableSchedulingOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Disables Task scheduling on the specified Compute Node.\n You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
+  summary: "Disables Task scheduling on the specified Compute Node. You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"
@@ -71,7 +71,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.ComputeNodes.disableSchedulingAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   name: "disableSchedulingAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
   nameWithType: "ComputeNodes.disableSchedulingAsync(String poolId, String nodeId, ServiceCallback<Void> serviceCallback)"
-  summary: "Disables Task scheduling on the specified Compute Node.\n You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
+  summary: "Disables Task scheduling on the specified Compute Node. You can disable Task scheduling on a Compute Node only if its current scheduling state is enabled."
   parameters:
   - description: "The ID of the Pool that contains the Compute Node."
     name: "poolId"

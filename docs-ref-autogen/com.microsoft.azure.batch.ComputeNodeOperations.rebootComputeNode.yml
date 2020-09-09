@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.rebootComputeNode(String poolId, String nodeId)"
   name: "rebootComputeNode(String poolId, String nodeId)"
   nameWithType: "ComputeNodeOperations.rebootComputeNode(String poolId, String nodeId)"
-  summary: "Reboots the specified compute node.\n <p>You can reboot a compute node only when it is in the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState#IDLE\" data-throw-if-not-resolved=\"false\">Idle</xref> or <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState#RUNNING\" data-throw-if-not-resolved=\"false\">Running</xref> state.</p>"
+  summary: "Reboots the specified compute node.\n\nYou can reboot a compute node only when it is in the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState.IDLE\" data-throw-if-not-resolved=\"false\">Idle</xref> or <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState.RUNNING\" data-throw-if-not-resolved=\"false\">Running</xref> state."
   parameters:
   - description: "The ID of the pool that contains the compute node."
     name: "poolId"
@@ -26,7 +26,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.rebootComputeNode(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption)"
   name: "rebootComputeNode(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption)"
   nameWithType: "ComputeNodeOperations.rebootComputeNode(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption)"
-  summary: "Reboots the specified compute node.\n <p>You can reboot a compute node only when it is in the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState#IDLE\" data-throw-if-not-resolved=\"false\">Idle</xref> or <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState#RUNNING\" data-throw-if-not-resolved=\"false\">Running</xref> state.</p>"
+  summary: "Reboots the specified compute node.\n\nYou can reboot a compute node only when it is in the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState.IDLE\" data-throw-if-not-resolved=\"false\">Idle</xref> or <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState.RUNNING\" data-throw-if-not-resolved=\"false\">Running</xref> state."
   parameters:
   - description: "The ID of the pool that contains the compute node."
     name: "poolId"
@@ -47,7 +47,7 @@ members:
   fullName: "com.microsoft.azure.batch.ComputeNodeOperations.rebootComputeNode(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "rebootComputeNode(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "ComputeNodeOperations.rebootComputeNode(String poolId, String nodeId, ComputeNodeRebootOption nodeRebootOption, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Reboots the specified compute node.\n <p>You can reboot a compute node only when it is in the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState#IDLE\" data-throw-if-not-resolved=\"false\">Idle</xref> or <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState#RUNNING\" data-throw-if-not-resolved=\"false\">Running</xref> state.</p>"
+  summary: "Reboots the specified compute node.\n\nYou can reboot a compute node only when it is in the <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState.IDLE\" data-throw-if-not-resolved=\"false\">Idle</xref> or <xref uid=\"com.microsoft.azure.batch.protocol.models.ComputeNodeState.RUNNING\" data-throw-if-not-resolved=\"false\">Running</xref> state."
   parameters:
   - description: "The ID of the pool that contains the compute node."
     name: "poolId"

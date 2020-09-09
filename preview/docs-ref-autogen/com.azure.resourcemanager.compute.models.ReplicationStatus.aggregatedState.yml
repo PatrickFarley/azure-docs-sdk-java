@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ReplicationStatus.aggregatedState()"
   name: "aggregatedState()"
   nameWithType: "ReplicationStatus.aggregatedState()"
-  summary: "Get the aggregatedState property: This is the aggregated replication status based on all the regional replication\n status flags."
+  summary: "Get the aggregatedState property: This is the aggregated replication status based on all the regional replication status flags."
   syntax: "public AggregatedReplicationState aggregatedState()"
   returns:
     description: "the aggregatedState value."

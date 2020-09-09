@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.FacetResult.getAdditionalProperties()"
   name: "getAdditionalProperties()"
   nameWithType: "FacetResult.getAdditionalProperties()"
-  summary: "Get the additionalProperties property: A single bucket of a facet query result. Reports the number of documents\n with a field value falling within a particular range or having a particular value or interval."
+  summary: "Get the additionalProperties property: A single bucket of a facet query result. Reports the number of documents with a field value falling within a particular range or having a particular value or interval."
   syntax: "public Map<String,Object> getAdditionalProperties()"
   returns:
     description: "the additionalProperties value."

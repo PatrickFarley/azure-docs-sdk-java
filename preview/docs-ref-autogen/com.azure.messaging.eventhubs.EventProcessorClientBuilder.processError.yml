@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.EventProcessorClientBuilder.processError(Consumer<ErrorContext> processError)"
   name: "processError(Consumer<ErrorContext> processError)"
   nameWithType: "EventProcessorClientBuilder.processError(Consumer<ErrorContext> processError)"
-  summary: "The function that is called when an error occurs while processing events. The input contains the partition\n information where the error happened."
+  summary: "The function that is called when an error occurs while processing events. The input contains the partition information where the error happened."
   parameters:
   - description: "The callback that's called when an error occurs while processing events."
     name: "processError"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.models.EventBatchContext.EventBatchContext(PartitionContext partitionContext, List<EventData> events, CheckpointStore checkpointStore, LastEnqueuedEventProperties lastEnqueuedEventProperties)"
   name: "EventBatchContext(PartitionContext partitionContext, List<EventData> events, CheckpointStore checkpointStore, LastEnqueuedEventProperties lastEnqueuedEventProperties)"
   nameWithType: "EventBatchContext.EventBatchContext(PartitionContext partitionContext, List<EventData> events, CheckpointStore checkpointStore, LastEnqueuedEventProperties lastEnqueuedEventProperties)"
-  summary: "Creates an instance of <xref uid=\"EventContext\" data-throw-if-not-resolved=\"false\">EventContext</xref>."
+  summary: "Creates an instance of <xref uid=\"com.azure.messaging.eventhubs.models.EventContext\" data-throw-if-not-resolved=\"false\">EventContext</xref>."
   parameters:
   - description: "The partition information associated with the received event."
     name: "partitionContext"

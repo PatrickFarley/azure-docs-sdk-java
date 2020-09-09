@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextAnalyticsException.getCode()"
   name: "getCode()"
   nameWithType: "TextAnalyticsException.getCode()"
-  summary: "Gets the <xref uid=\"TextAnalyticsErrorCode\" data-throw-if-not-resolved=\"false\">TextAnalyticsErrorCode</xref> for this exception."
+  summary: "Gets the <xref uid=\"com.azure.ai.textanalytics.models.TextAnalyticsErrorCode\" data-throw-if-not-resolved=\"false\">TextAnalyticsErrorCode</xref> for this exception."
   syntax: "public TextAnalyticsErrorCode getCode()"
   returns:
     description: "The <xref uid=\"com.azure.ai.textanalytics.models.TextAnalyticsErrorCode\" data-throw-if-not-resolved=\"false\">TextAnalyticsErrorCode</xref> for this exception."

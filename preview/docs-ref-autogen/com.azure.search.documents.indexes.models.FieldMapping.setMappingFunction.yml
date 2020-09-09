@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.FieldMapping.setMappingFunction(FieldMappingFunction mappingFunction)"
   name: "setMappingFunction(FieldMappingFunction mappingFunction)"
   nameWithType: "FieldMapping.setMappingFunction(FieldMappingFunction mappingFunction)"
-  summary: "Set the mappingFunction property: A function to apply to each source\n field value before indexing."
+  summary: "Set the mappingFunction property: A function to apply to each source field value before indexing."
   parameters:
   - description: "the mappingFunction value to set."
     name: "mappingFunction"

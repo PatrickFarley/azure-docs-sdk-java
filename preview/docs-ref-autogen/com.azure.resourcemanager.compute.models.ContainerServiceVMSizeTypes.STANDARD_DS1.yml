@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ContainerServiceVMSizeTypes.STANDARD_DS1"
   name: "STANDARD_DS1"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_DS1"
-  summary: "Static value Standard_DS1 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_DS1 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_DS1"
 type: "field"
 metadata: {}

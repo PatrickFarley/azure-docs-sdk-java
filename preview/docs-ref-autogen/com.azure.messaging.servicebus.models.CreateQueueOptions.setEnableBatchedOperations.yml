@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateQueueOptions.setEnableBatchedOperations(boolean enableBatchedOperations)"
   name: "setEnableBatchedOperations(boolean enableBatchedOperations)"
   nameWithType: "CreateQueueOptions.setEnableBatchedOperations(boolean enableBatchedOperations)"
-  summary: "Set the enableBatchedOperations property: Value that indicates whether server-side batched operations are\n enabled."
+  summary: "Set the enableBatchedOperations property: Value that indicates whether server-side batched operations are enabled."
   parameters:
   - description: "the enableBatchedOperations value to set."
     name: "enableBatchedOperations"

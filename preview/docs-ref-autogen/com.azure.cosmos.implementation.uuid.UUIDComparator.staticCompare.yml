@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.UUIDComparator.staticCompare(UUID u1, UUID u2)"
   name: "staticCompare(UUID u1, UUID u2)"
   nameWithType: "UUIDComparator.staticCompare(UUID u1, UUID u2)"
-  summary: "Static helper method that can be used instead of instantiating comparator\n (used by unit tests, can be used by code too)"
+  summary: "Static helper method that can be used instead of instantiating comparator (used by unit tests, can be used by code too)"
   parameters:
   - name: "u1"
     type: "<xref href=\"java.util.UUID?alt=java.util.UUID&text=UUID\" data-throw-if-not-resolved=\"False\" />"

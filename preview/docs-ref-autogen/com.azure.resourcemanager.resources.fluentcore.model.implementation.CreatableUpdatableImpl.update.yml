@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.CreatableUpdatableImpl<FluentModelT,InnerModelT,FluentModelImplT>.update()"
   name: "update()"
   nameWithType: "CreatableUpdatableImpl<FluentModelT,InnerModelT,FluentModelImplT>.update()"
-  summary: "Default implementation of <xref uid=\"Updatable#update()\" data-throw-if-not-resolved=\"false\">Updatable#update()</xref>."
+  summary: "Default implementation of <xref uid=\"com.azure.resourcemanager.resources.fluentcore.model.Updatable.update()\" data-throw-if-not-resolved=\"false\">Updatable#update()</xref>."
   syntax: "public FluentModelImplT update()"
   returns:
     description: "the first stage of model update"

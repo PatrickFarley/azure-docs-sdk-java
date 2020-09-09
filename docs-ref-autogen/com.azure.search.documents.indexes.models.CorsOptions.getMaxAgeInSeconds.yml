@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.CorsOptions.getMaxAgeInSeconds()"
   name: "getMaxAgeInSeconds()"
   nameWithType: "CorsOptions.getMaxAgeInSeconds()"
-  summary: "Get the maxAgeInSeconds property: The duration for which browsers should\n cache CORS preflight responses. Defaults to 5 minutes."
+  summary: "Get the maxAgeInSeconds property: The duration for which browsers should cache CORS preflight responses. Defaults to 5 minutes."
   syntax: "public Long getMaxAgeInSeconds()"
   returns:
     description: "the maxAgeInSeconds value."

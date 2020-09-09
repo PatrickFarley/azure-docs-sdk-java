@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchServiceCounters.getDocumentCounter()"
   name: "getDocumentCounter()"
   nameWithType: "SearchServiceCounters.getDocumentCounter()"
-  summary: "Get the documentCounter property: Total number of documents across all\n indexes in the service."
+  summary: "Get the documentCounter property: Total number of documents across all indexes in the service."
   syntax: "public ResourceCounter getDocumentCounter()"
   returns:
     description: "the documentCounter value."

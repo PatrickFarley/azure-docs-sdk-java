@@ -22,7 +22,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.devicetwin.QueryCollection.next(QueryOptions options)"
   name: "next(QueryOptions options)"
   nameWithType: "QueryCollection.next(QueryOptions options)"
-  summary: "Returns the next QueryCollectionResponse object. If the provided query options have a continuation token, the\n query shall continue from that token. The query shall use the page size set in the query options."
+  summary: "Returns the next QueryCollectionResponse object. If the provided query options have a continuation token, the query shall continue from that token. The query shall use the page size set in the query options."
   parameters:
   - description: "The options for the query"
     name: "options"

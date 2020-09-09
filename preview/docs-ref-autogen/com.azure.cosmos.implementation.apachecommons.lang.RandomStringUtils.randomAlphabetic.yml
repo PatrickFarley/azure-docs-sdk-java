@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.RandomStringUtils.randomAlphabetic(int count)"
   name: "randomAlphabetic(int count)"
   nameWithType: "RandomStringUtils.randomAlphabetic(int count)"
-  summary: "<p>Creates a random string whose length is the number of characters\n specified.</p>\n\n <p>Characters will be chosen from the set of Latin alphabetic\n characters (a-z, A-Z).</p>"
+  summary: "Creates a random string whose length is the number of characters specified.\n\nCharacters will be chosen from the set of Latin alphabetic characters (a-z, A-Z)."
   parameters:
   - description: "the length of random string to create"
     name: "count"

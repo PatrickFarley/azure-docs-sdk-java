@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.AvailabilitySetInner.sku()"
   name: "sku()"
   nameWithType: "AvailabilitySetInner.sku()"
-  summary: "Get the sku property: Sku of the availability set, only name is required to be set. See AvailabilitySetSkuTypes\n for possible set of values. Use 'Aligned' for virtual machines with managed disks and 'Classic' for virtual\n machines with unmanaged disks. Default value is 'Classic'."
+  summary: "Get the sku property: Sku of the availability set, only name is required to be set. See AvailabilitySetSkuTypes for possible set of values. Use 'Aligned' for virtual machines with managed disks and 'Classic' for virtual machines with unmanaged disks. Default value is 'Classic'."
   syntax: "public Sku sku()"
   returns:
     description: "the sku value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.AutocompleteResult.getCoverage()"
   name: "getCoverage()"
   nameWithType: "AutocompleteResult.getCoverage()"
-  summary: "Get the coverage property: A value indicating the percentage of the\n index that was considered by the autocomplete request, or null if\n minimumCoverage was not specified in the request."
+  summary: "Get the coverage property: A value indicating the percentage of the index that was considered by the autocomplete request, or null if minimumCoverage was not specified in the request."
   syntax: "public Double getCoverage()"
   returns:
     description: "the coverage value."

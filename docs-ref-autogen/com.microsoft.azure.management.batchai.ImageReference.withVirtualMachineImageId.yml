@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.ImageReference.withVirtualMachineImageId(String virtualMachineImageId)"
   name: "withVirtualMachineImageId(String virtualMachineImageId)"
   nameWithType: "ImageReference.withVirtualMachineImageId(String virtualMachineImageId)"
-  summary: "Set the ARM resource identifier of the virtual machine image for the compute nodes. This is of the form /subscriptions/{subscriptionId}/resourceGroups/{resourceGroup}/providers/Microsoft.Compute/images/{imageName}. The virtual machine image must be in the same region and subscription as the cluster. For information about the firewall settings for the Batch node agent to communicate with the Batch service see https://docs.microsoft.com/en-us/azure/batch/batch-api-basics#virtual-network-vnet-and-firewall-configuration. Note, you need to provide publisher, offer and sku of the base OS image of which the custom image has been derived from."
+  summary: "Set the ARM resource identifier of the virtual machine image for the compute nodes. This is of the form /subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroup\\}/providers/Microsoft.Compute/images/\\{imageName\\}. The virtual machine image must be in the same region and subscription as the cluster. For information about the firewall settings for the Batch node agent to communicate with the Batch service see https://docs.microsoft.com/en-us/azure/batch/batch-api-basics\\#virtual-network-vnet-and-firewall-configuration. Note, you need to provide publisher, offer and sku of the base OS image of which the custom image has been derived from."
   parameters:
   - description: "the virtualMachineImageId value to set"
     name: "virtualMachineImageId"

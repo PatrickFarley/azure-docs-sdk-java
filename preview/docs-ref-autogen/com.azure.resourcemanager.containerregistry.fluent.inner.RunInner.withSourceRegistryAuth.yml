@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RunInner.withSourceRegistryAuth(String sourceRegistryAuth)"
   name: "withSourceRegistryAuth(String sourceRegistryAuth)"
   nameWithType: "RunInner.withSourceRegistryAuth(String sourceRegistryAuth)"
-  summary: "Set the sourceRegistryAuth property: The scope of the credentials that were used to login to the source registry\n during this run."
+  summary: "Set the sourceRegistryAuth property: The scope of the credentials that were used to login to the source registry during this run."
   parameters:
   - description: "the sourceRegistryAuth value to set."
     name: "sourceRegistryAuth"

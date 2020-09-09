@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DomainAvailabilityCheckResultInner.withAvailable(Boolean available)"
   name: "withAvailable(Boolean available)"
   nameWithType: "DomainAvailabilityCheckResultInner.withAvailable(Boolean available)"
-  summary: "Set the available property: &lt;code&gt;true&lt;/code&gt; if domain can be purchased using CreateDomain API;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the available property: <code>true</code> if domain can be purchased using CreateDomain API; otherwise, <code>false</code>."
   parameters:
   - description: "the available value to set."
     name: "available"

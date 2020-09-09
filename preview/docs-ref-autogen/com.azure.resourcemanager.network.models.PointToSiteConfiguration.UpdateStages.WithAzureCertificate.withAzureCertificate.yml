@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PointToSiteConfiguration.UpdateStages.WithAzureCertificate.withAzureCertificate(String name, String certificateData)"
   name: "withAzureCertificate(String name, String certificateData)"
   nameWithType: "PointToSiteConfiguration.UpdateStages.WithAzureCertificate.withAzureCertificate(String name, String certificateData)"
-  summary: "Specifies that Azure certificate authentication type will be used and certificate to use for Azure\n authentication."
+  summary: "Specifies that Azure certificate authentication type will be used and certificate to use for Azure authentication."
   parameters:
   - description: "name of certificate"
     name: "name"

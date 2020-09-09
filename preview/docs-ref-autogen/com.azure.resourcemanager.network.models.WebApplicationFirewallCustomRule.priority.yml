@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.WebApplicationFirewallCustomRule.priority()"
   name: "priority()"
   nameWithType: "WebApplicationFirewallCustomRule.priority()"
-  summary: "Get the priority property: Describes priority of the rule. Rules with a lower value will be evaluated before\n rules with a higher value."
+  summary: "Get the priority property: Describes priority of the rule. Rules with a lower value will be evaluated before rules with a higher value."
   syntax: "public int priority()"
   returns:
     description: "the priority value."

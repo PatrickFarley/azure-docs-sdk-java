@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServerInner.withPublicNetworkAccess(ServerPublicNetworkAccess publicNetworkAccess)"
   name: "withPublicNetworkAccess(ServerPublicNetworkAccess publicNetworkAccess)"
   nameWithType: "ServerInner.withPublicNetworkAccess(ServerPublicNetworkAccess publicNetworkAccess)"
-  summary: "Set the publicNetworkAccess property: Whether or not public endpoint access is allowed for this server. Value is\n optional but if passed in, must be 'Enabled' or 'Disabled'."
+  summary: "Set the publicNetworkAccess property: Whether or not public endpoint access is allowed for this server. Value is optional but if passed in, must be 'Enabled' or 'Disabled'."
   parameters:
   - description: "the publicNetworkAccess value to set."
     name: "publicNetworkAccess"

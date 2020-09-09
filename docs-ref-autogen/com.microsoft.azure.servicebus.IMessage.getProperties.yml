@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessage.getProperties()"
   name: "getProperties()"
   nameWithType: "IMessage.getProperties()"
-  summary: "Gets the map of user application properties of this message. Client \n applications can set user properties (headers) on the message using this map."
+  summary: "Gets the map of user application properties of this message. Client applications can set user properties (headers) on the message using this map."
   syntax: "public abstract Map<String,Object> getProperties()"
   returns:
     description: "the map of user application properties of this message"

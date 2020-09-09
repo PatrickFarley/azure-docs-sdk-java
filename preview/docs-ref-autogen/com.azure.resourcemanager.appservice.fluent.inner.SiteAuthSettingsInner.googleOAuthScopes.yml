@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.googleOAuthScopes()"
   name: "googleOAuthScopes()"
   nameWithType: "SiteAuthSettingsInner.googleOAuthScopes()"
-  summary: "Get the googleOAuthScopes property: The OAuth 2.0 scopes that will be requested as part of Google Sign-In\n authentication. This setting is optional. If not specified, \"openid\", \"profile\", and \"email\" are used as default\n scopes. Google Sign-In documentation: https://developers.google.com/identity/sign-in/web/."
+  summary: "Get the googleOAuthScopes property: The OAuth 2.0 scopes that will be requested as part of Google Sign-In authentication. This setting is optional. If not specified, \"openid\", \"profile\", and \"email\" are used as default scopes. Google Sign-In documentation: https://developers.google.com/identity/sign-in/web/."
   syntax: "public List<String> googleOAuthScopes()"
   returns:
     description: "the googleOAuthScopes value."

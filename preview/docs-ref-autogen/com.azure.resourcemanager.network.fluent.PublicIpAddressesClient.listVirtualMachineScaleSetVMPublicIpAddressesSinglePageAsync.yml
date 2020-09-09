@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.PublicIpAddressesClient.listVirtualMachineScaleSetVMPublicIpAddressesSinglePageAsync(String resourceGroupName, String virtualMachineScaleSetName, String virtualmachineIndex, String networkInterfaceName, String ipConfigurationName)"
   name: "listVirtualMachineScaleSetVMPublicIpAddressesSinglePageAsync(String resourceGroupName, String virtualMachineScaleSetName, String virtualmachineIndex, String networkInterfaceName, String ipConfigurationName)"
   nameWithType: "PublicIpAddressesClient.listVirtualMachineScaleSetVMPublicIpAddressesSinglePageAsync(String resourceGroupName, String virtualMachineScaleSetName, String virtualmachineIndex, String networkInterfaceName, String ipConfigurationName)"
-  summary: "Gets information about all public IP addresses in a virtual machine IP configuration in a virtual machine scale\n set."
+  summary: "Gets information about all public IP addresses in a virtual machine IP configuration in a virtual machine scale set."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -33,7 +33,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.PublicIpAddressesClient.listVirtualMachineScaleSetVMPublicIpAddressesSinglePageAsync(String resourceGroupName, String virtualMachineScaleSetName, String virtualmachineIndex, String networkInterfaceName, String ipConfigurationName, Context context)"
   name: "listVirtualMachineScaleSetVMPublicIpAddressesSinglePageAsync(String resourceGroupName, String virtualMachineScaleSetName, String virtualmachineIndex, String networkInterfaceName, String ipConfigurationName, Context context)"
   nameWithType: "PublicIpAddressesClient.listVirtualMachineScaleSetVMPublicIpAddressesSinglePageAsync(String resourceGroupName, String virtualMachineScaleSetName, String virtualmachineIndex, String networkInterfaceName, String ipConfigurationName, Context context)"
-  summary: "Gets information about all public IP addresses in a virtual machine IP configuration in a virtual machine scale\n set."
+  summary: "Gets information about all public IP addresses in a virtual machine IP configuration in a virtual machine scale set."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

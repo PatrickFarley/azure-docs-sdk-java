@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.DistanceScoringParametersConverter.map(DistanceScoringParameters obj)"
   name: "map(DistanceScoringParameters obj)"
   nameWithType: "DistanceScoringParametersConverter.map(DistanceScoringParameters obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters</xref> to\n <xref uid=\"DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">DistanceScoringParameters</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters</xref> to <xref uid=\"com.azure.search.documents.indexes.models.DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">DistanceScoringParameters</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters?alt=com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters&text=DistanceScoringParameters\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.DistanceScoringParametersConverter.map(DistanceScoringParameters obj)"
   name: "map(DistanceScoringParameters obj)"
   nameWithType: "DistanceScoringParametersConverter.map(DistanceScoringParameters obj)"
-  summary: "Maps from <xref uid=\"DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">DistanceScoringParameters</xref> to\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">DistanceScoringParameters</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.DistanceScoringParameters</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.DistanceScoringParameters?alt=com.azure.search.documents.indexes.models.DistanceScoringParameters&text=DistanceScoringParameters\" data-throw-if-not-resolved=\"False\" />"

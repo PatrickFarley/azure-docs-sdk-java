@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.resources.fluentcore.utils.PagedListConverter<U,V>.typeConvertAsync(U u)"
   name: "typeConvertAsync(U u)"
   nameWithType: "PagedListConverter<U,V>.typeConvertAsync(U u)"
-  summary: "Override this method to define how to convert each Resource item\n individually."
+  summary: "Override this method to define how to convert each Resource item individually."
   parameters:
   - description: "the resource to convert from"
     name: "u"

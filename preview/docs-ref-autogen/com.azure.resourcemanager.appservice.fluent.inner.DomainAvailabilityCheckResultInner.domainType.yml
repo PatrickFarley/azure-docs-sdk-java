@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DomainAvailabilityCheckResultInner.domainType()"
   name: "domainType()"
   nameWithType: "DomainAvailabilityCheckResultInner.domainType()"
-  summary: "Get the domainType property: Valid values are Regular domain: Azure will charge the full price of domain\n registration, SoftDeleted: Purchasing this domain will simply restore it and this operation will not cost\n anything."
+  summary: "Get the domainType property: Valid values are Regular domain: Azure will charge the full price of domain registration, SoftDeleted: Purchasing this domain will simply restore it and this operation will not cost anything."
   syntax: "public DomainType domainType()"
   returns:
     description: "the domainType value."

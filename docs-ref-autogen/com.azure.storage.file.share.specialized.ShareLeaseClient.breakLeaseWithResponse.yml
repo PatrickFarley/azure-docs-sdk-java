@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.specialized.ShareLeaseClient.breakLeaseWithResponse(Duration timeout, Context context)"
   name: "breakLeaseWithResponse(Duration timeout, Context context)"
   nameWithType: "ShareLeaseClient.breakLeaseWithResponse(Duration timeout, Context context)"
-  summary: "Breaks the previously acquired lease, if it exists. Leases will break immediately.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.breakLeaseWithResponse&#40;timeout, new Context&#40;key, value&#41;&#41;;\n System.out.println&#40;&quot;The lease has been successfully broken&quot;&#41;;\n </pre>"
+  summary: "Breaks the previously acquired lease, if it exists. Leases will break immediately.\n\n**Code Samples**\n\n```java\nclient.breakLeaseWithResponse(timeout, new Context(key, value));\n System.out.println(\"The lease has been successfully broken\");\n```"
   parameters:
   - description: "An optional timeout value beyond which a <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> will be raised."
     name: "timeout"

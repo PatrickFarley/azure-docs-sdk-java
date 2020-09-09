@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.STX"
   name: "STX"
   nameWithType: "Ascii.STX"
-  summary: "Start of Text: A communication control character which precedes a sequence of characters that\n is to be treated as an entity and entirely transmitted through to the ultimate destination.\n Such a sequence is referred to as \"text.\" STX may be used to terminate a sequence of characters\n started by SOH."
+  summary: "Start of Text: A communication control character which precedes a sequence of characters that is to be treated as an entity and entirely transmitted through to the ultimate destination. Such a sequence is referred to as \"text.\" STX may be used to terminate a sequence of characters started by SOH."
   syntax: "public static final byte STX"
 type: "field"
 metadata: {}

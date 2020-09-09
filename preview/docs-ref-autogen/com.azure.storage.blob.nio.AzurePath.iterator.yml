@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzurePath.iterator()"
   name: "iterator()"
   nameWithType: "AzurePath.iterator()"
-  summary: "Returns an iterator over the name elements of this path.\n <p>\n The first element returned by the iterator represents the name element that is closest to the root in the\n directory hierarchy, the second element is the next closest, and so on. The last element returned is the name of\n the file or directory denoted by this path. The root component, if present, is not returned by the iterator."
+  summary: "Returns an iterator over the name elements of this path.\n\nThe first element returned by the iterator represents the name element that is closest to the root in the directory hierarchy, the second element is the next closest, and so on. The last element returned is the name of the file or directory denoted by this path. The root component, if present, is not returned by the iterator."
   syntax: "public Iterator<Path> iterator()"
   returns:
     description: "an iterator over the name elements of this path."

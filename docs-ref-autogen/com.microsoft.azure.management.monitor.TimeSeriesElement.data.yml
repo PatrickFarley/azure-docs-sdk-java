@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.TimeSeriesElement.data()"
   name: "data()"
   nameWithType: "TimeSeriesElement.data()"
-  summary: "Get an array of data points representing the metric values.  This is only returned if a result type of data is specified."
+  summary: "Get an array of data points representing the metric values. This is only returned if a result type of data is specified."
   syntax: "public List<MetricValue> data()"
   returns:
     description: "the data value"

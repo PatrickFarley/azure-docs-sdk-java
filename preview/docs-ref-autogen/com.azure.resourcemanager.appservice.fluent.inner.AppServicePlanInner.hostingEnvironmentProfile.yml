@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServicePlanInner.hostingEnvironmentProfile()"
   name: "hostingEnvironmentProfile()"
   nameWithType: "AppServicePlanInner.hostingEnvironmentProfile()"
-  summary: "Get the hostingEnvironmentProfile property: Specification for the App Service Environment to use for the App\n Service plan."
+  summary: "Get the hostingEnvironmentProfile property: Specification for the App Service Environment to use for the App Service plan."
   syntax: "public HostingEnvironmentProfile hostingEnvironmentProfile()"
   returns:
     description: "the hostingEnvironmentProfile value."

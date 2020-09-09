@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.TensorFlowSettings.withWorkerCount(Integer workerCount)"
   name: "withWorkerCount(Integer workerCount)"
   nameWithType: "TensorFlowSettings.withWorkerCount(Integer workerCount)"
-  summary: "Set the number of worker tasks. If specified, the value must be less than or equal to (nodeCount * numberOfGPUs per VM). If not specified, the default value is equal to nodeCount. This property can be specified only for distributed TensorFlow training."
+  summary: "Set the number of worker tasks. If specified, the value must be less than or equal to (nodeCount \\* numberOfGPUs per VM). If not specified, the default value is equal to nodeCount. This property can be specified only for distributed TensorFlow training."
   parameters:
   - description: "the workerCount value to set"
     name: "workerCount"

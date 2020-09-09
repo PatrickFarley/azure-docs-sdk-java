@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.DiagnosticSettingsResourceInner.logAnalyticsDestinationType()"
   name: "logAnalyticsDestinationType()"
   nameWithType: "DiagnosticSettingsResourceInner.logAnalyticsDestinationType()"
-  summary: "Get the logAnalyticsDestinationType property: A string indicating whether the export to Log Analytics should use\n the default destination type, i.e. AzureDiagnostics, or use a destination type constructed as follows:\n &lt;normalized service identity&gt;_&lt;normalized category name&gt;. Possible values are: Dedicated and null\n (null is default.)."
+  summary: "Get the logAnalyticsDestinationType property: A string indicating whether the export to Log Analytics should use the default destination type, i.e. AzureDiagnostics, or use a destination type constructed as follows: <normalized service identity>\\_<normalized category name>. Possible values are: Dedicated and null (null is default.)."
   syntax: "public String logAnalyticsDestinationType()"
   returns:
     description: "the logAnalyticsDestinationType value."

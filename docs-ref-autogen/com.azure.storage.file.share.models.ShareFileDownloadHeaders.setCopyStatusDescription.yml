@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.setCopyStatusDescription(String copyStatusDescription)"
   name: "setCopyStatusDescription(String copyStatusDescription)"
   nameWithType: "ShareFileDownloadHeaders.setCopyStatusDescription(String copyStatusDescription)"
-  summary: "Set the copyStatusDescription property: Only appears when\n x-ms-copy-status is failed or pending. Describes cause of fatal or\n non-fatal copy operation failure."
+  summary: "Set the copyStatusDescription property: Only appears when x-ms-copy-status is failed or pending. Describes cause of fatal or non-fatal copy operation failure."
   parameters:
   - description: "the copyStatusDescription value to set."
     name: "copyStatusDescription"

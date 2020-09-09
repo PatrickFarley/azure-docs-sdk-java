@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.FeedResponse<T>.getRUPerMinuteUsed()"
   name: "getRUPerMinuteUsed()"
   nameWithType: "FeedResponse<T>.getRUPerMinuteUsed()"
-  summary: "Gets the flag associated with the response from the Azure Cosmos DB\n database service whether this feed request is served from Request\n Units(RUs)/minute capacity or not."
+  summary: "Gets the flag associated with the response from the Azure Cosmos DB database service whether this feed request is served from Request Units(RUs)/minute capacity or not."
   syntax: "public boolean getRUPerMinuteUsed()"
   returns:
     description: "True if this request is served from RUs/minute capacity.\n         Otherwise, false."

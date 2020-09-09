@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileStore.getTotalSpace()"
   name: "getTotalSpace()"
   nameWithType: "AzureFileStore.getTotalSpace()"
-  summary: "Returns the size, in bytes, of the file store.\n <p>\n Containers do not limit the amount of data stored. This method will always return max long."
+  summary: "Returns the size, in bytes, of the file store.\n\nContainers do not limit the amount of data stored. This method will always return max long."
   overridden: "java.nio.file.FileStore.getTotalSpace()"
   syntax: "public long getTotalSpace()"
   exceptions:

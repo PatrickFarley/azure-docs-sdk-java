@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicEventSubscriptionsInner.getFullUrlWithServiceResponseAsync(String resourceGroupName, String systemTopicName, String eventSubscriptionName)"
   name: "getFullUrlWithServiceResponseAsync(String resourceGroupName, String systemTopicName, String eventSubscriptionName)"
   nameWithType: "SystemTopicEventSubscriptionsInner.getFullUrlWithServiceResponseAsync(String resourceGroupName, String systemTopicName, String eventSubscriptionName)"
-  summary: "Get full URL of an event subscription of a system topic.\n Get the full endpoint URL for an event subscription of a system topic."
+  summary: "Get full URL of an event subscription of a system topic. Get the full endpoint URL for an event subscription of a system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

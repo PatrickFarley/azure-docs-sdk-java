@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ServicePrincipalBase.appRoleAssignmentRequired()"
   name: "appRoleAssignmentRequired()"
   nameWithType: "ServicePrincipalBase.appRoleAssignmentRequired()"
-  summary: "Get the appRoleAssignmentRequired property: Specifies whether an AppRoleAssignment to a user or group is required\n before Azure AD will issue a user or access token to the application."
+  summary: "Get the appRoleAssignmentRequired property: Specifies whether an AppRoleAssignment to a user or group is required before Azure AD will issue a user or access token to the application."
   syntax: "public Boolean appRoleAssignmentRequired()"
   returns:
     description: "the appRoleAssignmentRequired value."

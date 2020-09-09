@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.TopicProperties.getMaxSizeInMegabytes()"
   name: "getMaxSizeInMegabytes()"
   nameWithType: "TopicProperties.getMaxSizeInMegabytes()"
-  summary: "Get the maxSizeInMegabytes property: The maximum size of the topic in megabytes, which is the size of memory\n allocated for the topic."
+  summary: "Get the maxSizeInMegabytes property: The maximum size of the topic in megabytes, which is the size of memory allocated for the topic."
   syntax: "public long getMaxSizeInMegabytes()"
   returns:
     description: "the maxSizeInMegabytes value."

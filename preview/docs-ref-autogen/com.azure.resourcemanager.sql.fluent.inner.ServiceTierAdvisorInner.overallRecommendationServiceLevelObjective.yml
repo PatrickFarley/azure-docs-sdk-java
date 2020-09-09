@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.overallRecommendationServiceLevelObjective()"
   name: "overallRecommendationServiceLevelObjective()"
   nameWithType: "ServiceTierAdvisorInner.overallRecommendationServiceLevelObjective()"
-  summary: "Get the overallRecommendationServiceLevelObjective property: Gets or sets\n overallRecommendationServiceLevelObjective for service tier advisor."
+  summary: "Get the overallRecommendationServiceLevelObjective property: Gets or sets overallRecommendationServiceLevelObjective for service tier advisor."
   syntax: "public String overallRecommendationServiceLevelObjective()"
   returns:
     description: "the overallRecommendationServiceLevelObjective value."

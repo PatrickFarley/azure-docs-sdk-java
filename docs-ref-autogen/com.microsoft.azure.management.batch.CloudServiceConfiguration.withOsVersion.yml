@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batch.CloudServiceConfiguration.withOsVersion(String osVersion)"
   name: "withOsVersion(String osVersion)"
   nameWithType: "CloudServiceConfiguration.withOsVersion(String osVersion)"
-  summary: "Set the default value is * which specifies the latest operating system version for the specified OS family."
+  summary: "Set the default value is \\* which specifies the latest operating system version for the specified OS family."
   parameters:
   - description: "the osVersion value to set"
     name: "osVersion"

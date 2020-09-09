@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SuggestOptions.getFilter()"
   name: "getFilter()"
   nameWithType: "SuggestOptions.getFilter()"
-  summary: "Get the filter property: An OData expression that filters the documents\n considered for suggestions."
+  summary: "Get the filter property: An OData expression that filters the documents considered for suggestions."
   syntax: "public String getFilter()"
   returns:
     description: "the filter value."

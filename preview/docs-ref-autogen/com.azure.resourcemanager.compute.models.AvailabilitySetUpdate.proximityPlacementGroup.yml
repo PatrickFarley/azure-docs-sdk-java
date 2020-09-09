@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.AvailabilitySetUpdate.proximityPlacementGroup()"
   name: "proximityPlacementGroup()"
   nameWithType: "AvailabilitySetUpdate.proximityPlacementGroup()"
-  summary: "Get the proximityPlacementGroup property: Specifies information about the proximity placement group that the\n availability set should be assigned to. &lt;br&gt;&lt;br&gt;Minimum api-version: 2018-04-01."
+  summary: "Get the proximityPlacementGroup property: Specifies information about the proximity placement group that the availability set should be assigned to. <br><br>Minimum api-version: 2018-04-01."
   syntax: "public SubResource proximityPlacementGroup()"
   returns:
     description: "the proximityPlacementGroup value."

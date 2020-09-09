@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteConfigInner.withUse32BitWorkerProcess(Boolean use32BitWorkerProcess)"
   name: "withUse32BitWorkerProcess(Boolean use32BitWorkerProcess)"
   nameWithType: "SiteConfigInner.withUse32BitWorkerProcess(Boolean use32BitWorkerProcess)"
-  summary: "Set the use32BitWorkerProcess property: &lt;code&gt;true&lt;/code&gt; to use 32-bit worker process; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the use32BitWorkerProcess property: <code>true</code> to use 32-bit worker process; otherwise, <code>false</code>."
   parameters:
   - description: "the use32BitWorkerProcess value to set."
     name: "use32BitWorkerProcess"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClient.deleteDirectory(String directoryName)"
   name: "deleteDirectory(String directoryName)"
   nameWithType: "ShareClient.deleteDirectory(String directoryName)"
-  summary: "Deletes the specified directory in the share.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the directory \"mydirectory\"</p>\n\n <pre>\n shareClient.deleteDirectory&#40;&quot;mydirectory&quot;&#41;;\n System.out.println&#40;&quot;Completed deleting the directory.&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory\">Azure Docs</a>.</p>"
+  summary: "Deletes the specified directory in the share.\n\n**Code Samples**\n\nDelete the directory \"mydirectory\"\n\n```java\nshareClient.deleteDirectory(\"mydirectory\");\n System.out.println(\"Completed deleting the directory.\");\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory"
   parameters:
   - description: "Name of the directory"
     name: "directoryName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewaySslCertificate.UpdateDefinitionStages.WithData<ParentT>.withPfxFromBytes(byte[] pfxData)"
   name: "withPfxFromBytes(byte[] pfxData)"
   nameWithType: "ApplicationGatewaySslCertificate.UpdateDefinitionStages.WithData<ParentT>.withPfxFromBytes(byte[] pfxData)"
-  summary: "Specifies the contents of the private key in the PFX (PKCS#12) format, not base64-encoded."
+  summary: "Specifies the contents of the private key in the PFX (PKCS\\#12) format, not base64-encoded."
   parameters:
   - description: "the contents of the private key in the PFX format"
     name: "pfxData"

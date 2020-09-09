@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ForwardingSet<E>.standardRemoveAll(Collection<?> collection)"
   name: "standardRemoveAll(Collection<?> collection)"
   nameWithType: "ForwardingSet<E>.standardRemoveAll(Collection<?> collection)"
-  summary: "A sensible definition of <xref uid=\"#removeAll\" data-throw-if-not-resolved=\"false\">#removeAll</xref> in terms of <xref uid=\"#iterator\" data-throw-if-not-resolved=\"false\">#iterator</xref> and <xref uid=\"#remove\" data-throw-if-not-resolved=\"false\">#remove</xref>.\n If you override <code>iterator</code> or <code>remove</code>, you may wish to override <xref uid=\"#removeAll\" data-throw-if-not-resolved=\"false\">#removeAll</xref>\n to forward to this implementation."
+  summary: "A sensible definition of <xref uid=\"com.azure.cosmos.implementation.guava25.collect.ForwardingSet.removeAll\" data-throw-if-not-resolved=\"false\">#removeAll</xref> in terms of <xref uid=\"com.azure.cosmos.implementation.guava25.collect.ForwardingSet.iterator\" data-throw-if-not-resolved=\"false\">#iterator</xref> and <xref uid=\"com.azure.cosmos.implementation.guava25.collect.ForwardingSet.remove\" data-throw-if-not-resolved=\"false\">#remove</xref>. If you override `iterator` or `remove`, you may wish to override <xref uid=\"com.azure.cosmos.implementation.guava25.collect.ForwardingSet.removeAll\" data-throw-if-not-resolved=\"false\">#removeAll</xref> to forward to this implementation."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ForwardingCollection.standardRemoveAll(java.util.Collection<?>)"
   parameters:
   - name: "collection"

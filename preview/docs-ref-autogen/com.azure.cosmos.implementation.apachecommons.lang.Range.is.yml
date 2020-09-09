@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.<T>is(T element)"
   name: "<T>is(T element)"
   nameWithType: "Range<T>.<T>is(T element)"
-  summary: "<p>Obtains a range using the specified element as both the minimum\n and maximum in this range.</p>\n\n <p>The range uses the natural ordering of the elements to determine where\n values lie in the range.</p>"
+  summary: "Obtains a range using the specified element as both the minimum and maximum in this range.\n\nThe range uses the natural ordering of the elements to determine where values lie in the range."
   parameters:
   - description: "the value to use for this range, not null"
     name: "element"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.Range<T>.<T>is(T element, Comparator<T> comparator)"
   name: "<T>is(T element, Comparator<T> comparator)"
   nameWithType: "Range<T>.<T>is(T element, Comparator<T> comparator)"
-  summary: "<p>Obtains a range using the specified element as both the minimum\n and maximum in this range.</p>\n\n <p>The range uses the specified <code>Comparator</code> to determine where\n values lie in the range.</p>"
+  summary: "Obtains a range using the specified element as both the minimum and maximum in this range.\n\nThe range uses the specified `Comparator` to determine where values lie in the range."
   parameters:
   - description: "the value to use for this range, must not be <code>null</code>"
     name: "element"

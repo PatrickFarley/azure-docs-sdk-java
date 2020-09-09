@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.isEmpty(CharSequence cs)"
   name: "isEmpty(CharSequence cs)"
   nameWithType: "StringUtils.isEmpty(CharSequence cs)"
-  summary: "<p>Checks if a CharSequence is empty (\"\") or null.</p>"
+  summary: "Checks if a CharSequence is empty (\"\") or null."
   parameters:
   - description: "the CharSequence to check, may be null"
     name: "cs"

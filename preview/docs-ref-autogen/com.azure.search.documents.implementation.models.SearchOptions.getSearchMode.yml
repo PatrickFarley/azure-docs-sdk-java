@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchOptions.getSearchMode()"
   name: "getSearchMode()"
   nameWithType: "SearchOptions.getSearchMode()"
-  summary: "Get the searchMode property: A value that specifies whether any or all of the search terms must be matched in\n order to count the document as a match."
+  summary: "Get the searchMode property: A value that specifies whether any or all of the search terms must be matched in order to count the document as a match."
   syntax: "public SearchMode getSearchMode()"
   returns:
     description: "the searchMode value."

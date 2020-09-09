@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.SubscriptionsClient.listLocationsAsync(String subscriptionId)"
   name: "listLocationsAsync(String subscriptionId)"
   nameWithType: "SubscriptionsClient.listLocationsAsync(String subscriptionId)"
-  summary: "This operation provides all the locations that are available for resource providers; however, each resource\n provider may support a subset of this list."
+  summary: "This operation provides all the locations that are available for resource providers; however, each resource provider may support a subset of this list."
   parameters:
   - description: "The ID of the target subscription."
     name: "subscriptionId"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.SubscriptionsClient.listLocationsAsync(String subscriptionId, Context context)"
   name: "listLocationsAsync(String subscriptionId, Context context)"
   nameWithType: "SubscriptionsClient.listLocationsAsync(String subscriptionId, Context context)"
-  summary: "This operation provides all the locations that are available for resource providers; however, each resource\n provider may support a subset of this list."
+  summary: "This operation provides all the locations that are available for resource providers; however, each resource provider may support a subset of this list."
   parameters:
   - description: "The ID of the target subscription."
     name: "subscriptionId"

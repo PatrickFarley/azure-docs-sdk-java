@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batch.NFSMountConfiguration.relativeMountPath()"
   name: "relativeMountPath()"
   nameWithType: "NFSMountConfiguration.relativeMountPath()"
-  summary: "Get all file systems are mounted relative to the Batch mounts directory, accessible via the AZ_BATCH_NODE_MOUNTS_DIR environment variable."
+  summary: "Get all file systems are mounted relative to the Batch mounts directory, accessible via the AZ\\_BATCH\\_NODE\\_MOUNTS\\_DIR environment variable."
   syntax: "public String relativeMountPath()"
   returns:
     description: "the relativeMountPath value"

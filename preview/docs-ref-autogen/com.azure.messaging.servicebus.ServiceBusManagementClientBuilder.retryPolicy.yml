@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClientBuilder.retryPolicy(HttpPipelinePolicy retryPolicy)"
   name: "retryPolicy(HttpPipelinePolicy retryPolicy)"
   nameWithType: "ServiceBusManagementClientBuilder.retryPolicy(HttpPipelinePolicy retryPolicy)"
-  summary: "Sets the <xref uid=\"HttpPipelinePolicy\" data-throw-if-not-resolved=\"false\">HttpPipelinePolicy</xref> that is used when each request is sent.\n\n The default retry policy will be used if not provided <xref uid=\"#buildAsyncClient()\" data-throw-if-not-resolved=\"false\">#buildAsyncClient()</xref>\n to build <xref uid=\"ServiceBusManagementClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementClient</xref> or <xref uid=\"ServiceBusManagementAsyncClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementAsyncClient</xref>."
+  summary: "Sets the <xref uid=\"com.azure.core.http.policy.HttpPipelinePolicy\" data-throw-if-not-resolved=\"false\">HttpPipelinePolicy</xref> that is used when each request is sent. The default retry policy will be used if not provided <xref uid=\"com.azure.messaging.servicebus.ServiceBusManagementClientBuilder.buildAsyncClient()\" data-throw-if-not-resolved=\"false\">#buildAsyncClient()</xref> to build <xref uid=\"com.azure.messaging.servicebus.ServiceBusManagementClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementClient</xref> or <xref uid=\"com.azure.messaging.servicebus.ServiceBusManagementAsyncClient\" data-throw-if-not-resolved=\"false\">ServiceBusManagementAsyncClient</xref>."
   parameters:
   - description: "user's retry policy applied to each request."
     name: "retryPolicy"

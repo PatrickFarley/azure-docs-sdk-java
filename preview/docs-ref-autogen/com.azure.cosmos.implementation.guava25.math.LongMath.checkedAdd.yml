@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.LongMath.checkedAdd(long a, long b)"
   name: "checkedAdd(long a, long b)"
   nameWithType: "LongMath.checkedAdd(long a, long b)"
-  summary: "Returns the sum of <code>a</code> and <code>b</code>, provided it does not overflow."
+  summary: "Returns the sum of `a` and `b`, provided it does not overflow."
   parameters:
   - name: "a"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

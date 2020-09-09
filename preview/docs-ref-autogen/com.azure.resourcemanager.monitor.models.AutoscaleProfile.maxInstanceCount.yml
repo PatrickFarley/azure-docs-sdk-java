@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.AutoscaleProfile.maxInstanceCount()"
   name: "maxInstanceCount()"
   nameWithType: "AutoscaleProfile.maxInstanceCount()"
-  summary: "Get the maximum number of instances for the resource. The actual maximum number of instances is limited by the\n cores that are available in the subscription."
+  summary: "Get the maximum number of instances for the resource. The actual maximum number of instances is limited by the cores that are available in the subscription."
   syntax: "public abstract int maxInstanceCount()"
   returns:
     description: "the maximum value."

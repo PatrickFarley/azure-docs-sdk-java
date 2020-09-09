@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.HT"
   name: "HT"
   nameWithType: "Ascii.HT"
-  summary: "Horizontal Tabulation ('\\t'): A format effector which controls the movement of the printing\n position to the next in a series of predetermined positions along the printing line.\n (Applicable also to display devices and the skip function on punched cards.)"
+  summary: "Horizontal Tabulation ('\\\\t'): A format effector which controls the movement of the printing position to the next in a series of predetermined positions along the printing line. (Applicable also to display devices and the skip function on punched cards.)"
   syntax: "public static final byte HT"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceAgentPoolProfile.storageProfile()"
   name: "storageProfile()"
   nameWithType: "ContainerServiceAgentPoolProfile.storageProfile()"
-  summary: "Get the storageProfile property: Storage profile specifies what kind of storage used. Choose from StorageAccount\n and ManagedDisks. Leave it empty, we will choose for you based on the orchestrator choice."
+  summary: "Get the storageProfile property: Storage profile specifies what kind of storage used. Choose from StorageAccount and ManagedDisks. Leave it empty, we will choose for you based on the orchestrator choice."
   syntax: "public ContainerServiceStorageProfileTypes storageProfile()"
   returns:
     description: "the storageProfile value."

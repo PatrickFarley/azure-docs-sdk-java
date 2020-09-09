@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.addAsync(String jobId, TaskAddParameter task)"
   name: "addAsync(String jobId, TaskAddParameter task)"
   nameWithType: "Tasks.addAsync(String jobId, TaskAddParameter task)"
-  summary: "Adds a Task to the specified Job.\n The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
+  summary: "Adds a Task to the specified Job. The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
   parameters:
   - description: "The ID of the Job to which the Task is to be added."
     name: "jobId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.addAsync(String jobId, TaskAddParameter task, TaskAddOptions taskAddOptions)"
   name: "addAsync(String jobId, TaskAddParameter task, TaskAddOptions taskAddOptions)"
   nameWithType: "Tasks.addAsync(String jobId, TaskAddParameter task, TaskAddOptions taskAddOptions)"
-  summary: "Adds a Task to the specified Job.\n The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
+  summary: "Adds a Task to the specified Job. The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
   parameters:
   - description: "The ID of the Job to which the Task is to be added."
     name: "jobId"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.addAsync(String jobId, TaskAddParameter task, TaskAddOptions taskAddOptions, ServiceCallback<Void> serviceCallback)"
   name: "addAsync(String jobId, TaskAddParameter task, TaskAddOptions taskAddOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Tasks.addAsync(String jobId, TaskAddParameter task, TaskAddOptions taskAddOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Adds a Task to the specified Job.\n The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
+  summary: "Adds a Task to the specified Job. The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
   parameters:
   - description: "The ID of the Job to which the Task is to be added."
     name: "jobId"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.addAsync(String jobId, TaskAddParameter task, ServiceCallback<Void> serviceCallback)"
   name: "addAsync(String jobId, TaskAddParameter task, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Tasks.addAsync(String jobId, TaskAddParameter task, ServiceCallback<Void> serviceCallback)"
-  summary: "Adds a Task to the specified Job.\n The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
+  summary: "Adds a Task to the specified Job. The maximum lifetime of a Task from addition to completion is 180 days. If a Task has not completed within 180 days of being added it will be terminated by the Batch service and left in whatever state it was in at that time."
   parameters:
   - description: "The ID of the Job to which the Task is to be added."
     name: "jobId"

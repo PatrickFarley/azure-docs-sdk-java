@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.JobsListOutputFilesOptions.withOutputdirectoryid(String outputdirectoryid)"
   name: "withOutputdirectoryid(String outputdirectoryid)"
   nameWithType: "JobsListOutputFilesOptions.withOutputdirectoryid(String outputdirectoryid)"
-  summary: "Set id of the job output directory. This is the OutputDirectory--&gt;id parameter that is given by the user during Create Job."
+  summary: "Set id of the job output directory. This is the OutputDirectory-->id parameter that is given by the user during Create Job."
   parameters:
   - description: "the outputdirectoryid value to set"
     name: "outputdirectoryid"

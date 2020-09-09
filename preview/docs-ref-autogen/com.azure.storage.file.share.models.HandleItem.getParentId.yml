@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.getParentId()"
   name: "getParentId()"
   nameWithType: "HandleItem.getParentId()"
-  summary: "Get the parentId property: ParentId uniquely identifies the parent\n directory of the object."
+  summary: "Get the parentId property: ParentId uniquely identifies the parent directory of the object."
   syntax: "public String getParentId()"
   returns:
     description: "the parentId value."

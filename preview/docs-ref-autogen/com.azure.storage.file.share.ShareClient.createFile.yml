@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareClient.createFile(String fileName, long maxSize)"
   name: "createFile(String fileName, long maxSize)"
   nameWithType: "ShareClient.createFile(String fileName, long maxSize)"
-  summary: "Creates the file in the share with the given name and file max size.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the file \"myfile\" with size of 1024 bytes.</p>\n\n <pre>\n ShareFileClient response = shareClient.createFile&#40;&quot;myfile&quot;, 1024&#41;;\n System.out.println&#40;&quot;Complete creating the file with snapshot Id:&quot; + response.getShareSnapshotId&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-file\">Azure Docs</a>.</p>"
+  summary: "Creates the file in the share with the given name and file max size.\n\n**Code Samples**\n\nCreate the file \"myfile\" with size of 1024 bytes.\n\n```java\nShareFileClient response = shareClient.createFile(\"myfile\", 1024);\n System.out.println(\"Complete creating the file with snapshot Id:\" + response.getShareSnapshotId());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-file"
   parameters:
   - description: "Name of the file."
     name: "fileName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.CachedSchemaRegistryClientBuilder.addSchemaParser(Codec codec)"
   name: "addSchemaParser(Codec codec)"
   nameWithType: "CachedSchemaRegistryClientBuilder.addSchemaParser(Codec codec)"
-  summary: "Loads a parser method Function object used to convert schema strings returned from the Schema Registry\n service into useable schema objects.\n\n Any com.azure.data.schemaregistry.ByteEncoder or com.azure.data.schemaregistry.ByteDecoder class will implement\n - schemaType(), which specifies schema type, and\n - parseSchemaString(), which parses schemas of the specified schema type from String to Object.\n\n The parseMethod argument should be a stateless, idempotent function."
+  summary: "Loads a parser method Function object used to convert schema strings returned from the Schema Registry service into useable schema objects. Any com.azure.data.schemaregistry.ByteEncoder or com.azure.data.schemaregistry.ByteDecoder class will implement - schemaType(), which specifies schema type, and - parseSchemaString(), which parses schemas of the specified schema type from String to Object. The parseMethod argument should be a stateless, idempotent function."
   parameters:
   - description: "Codec class implementation"
     name: "codec"

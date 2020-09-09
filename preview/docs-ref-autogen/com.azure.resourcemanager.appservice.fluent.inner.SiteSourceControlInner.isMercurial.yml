@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteSourceControlInner.isMercurial()"
   name: "isMercurial()"
   nameWithType: "SiteSourceControlInner.isMercurial()"
-  summary: "Get the isMercurial property: &lt;code&gt;true&lt;/code&gt; for a Mercurial repository;\n &lt;code&gt;false&lt;/code&gt; for a Git repository."
+  summary: "Get the isMercurial property: <code>true</code> for a Mercurial repository; <code>false</code> for a Git repository."
   syntax: "public Boolean isMercurial()"
   returns:
     description: "the isMercurial value."

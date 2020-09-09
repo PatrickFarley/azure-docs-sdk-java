@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestEncoder.acceptOutboundMessage(Object message)"
   name: "acceptOutboundMessage(Object message)"
   nameWithType: "RntbdRequestEncoder.acceptOutboundMessage(Object message)"
-  summary: "Returns <code>true</code> if the given message is an <xref uid=\"RntbdRequestRecord\" data-throw-if-not-resolved=\"false\">RntbdRequestRecord</xref> instance.\n <p>\n If <code>false</code> this message should be passed to the next <xref uid=\"ChannelOutboundHandler\" data-throw-if-not-resolved=\"false\">ChannelOutboundHandler</xref> in the pipeline."
+  summary: "Returns `true` if the given message is an <xref uid=\"com.azure.cosmos.implementation.directconnectivity.rntbd.RntbdRequestRecord\" data-throw-if-not-resolved=\"false\">RntbdRequestRecord</xref> instance.\n\nIf `false` this message should be passed to the next <xref uid=\"io.netty.channel.ChannelOutboundHandler\" data-throw-if-not-resolved=\"false\">ChannelOutboundHandler</xref> in the pipeline."
   overridden: "io.netty.handler.codec.MessageToByteEncoder.acceptOutboundMessage(java.lang.Object)"
   parameters:
   - description: "the message to encode"

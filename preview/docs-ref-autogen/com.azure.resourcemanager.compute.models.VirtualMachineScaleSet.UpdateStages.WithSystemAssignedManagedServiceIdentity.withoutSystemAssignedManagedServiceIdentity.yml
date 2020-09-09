@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.UpdateStages.WithSystemAssignedManagedServiceIdentity.withoutSystemAssignedManagedServiceIdentity()"
   name: "withoutSystemAssignedManagedServiceIdentity()"
   nameWithType: "VirtualMachineScaleSet.UpdateStages.WithSystemAssignedManagedServiceIdentity.withoutSystemAssignedManagedServiceIdentity()"
-  summary: "Specifies that System assigned (Local) Managed Service Identity needs to be disabled in the virtual\n machine scale set."
+  summary: "Specifies that System assigned (Local) Managed Service Identity needs to be disabled in the virtual machine scale set."
   syntax: "public abstract VirtualMachineScaleSet.UpdateStages.WithSystemAssignedIdentityBasedAccessOrApply withoutSystemAssignedManagedServiceIdentity()"
   returns:
     description: "the next stage of the update"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.getRequestId()"
   name: "getRequestId()"
   nameWithType: "BlobDownloadHeaders.getRequestId()"
-  summary: "Get the requestId property: This header uniquely identifies the request\n that was made and can be used for troubleshooting the request."
+  summary: "Get the requestId property: This header uniquely identifies the request that was made and can be used for troubleshooting the request."
   syntax: "public String getRequestId()"
   returns:
     description: "the requestId value."

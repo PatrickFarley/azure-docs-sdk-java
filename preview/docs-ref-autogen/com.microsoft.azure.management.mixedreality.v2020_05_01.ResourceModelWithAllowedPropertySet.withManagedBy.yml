@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mixedreality.v2020_05_01.ResourceModelWithAllowedPropertySet.withManagedBy(String managedBy)"
   name: "withManagedBy(String managedBy)"
   nameWithType: "ResourceModelWithAllowedPropertySet.withManagedBy(String managedBy)"
-  summary: "Set the  fully qualified resource ID of the resource that manages this resource. Indicates if this resource is managed by another azure resource. If this is present, complete mode deployment will not delete the resource if it is removed from the template since it is managed by another resource."
+  summary: "Set the fully qualified resource ID of the resource that manages this resource. Indicates if this resource is managed by another azure resource. If this is present, complete mode deployment will not delete the resource if it is removed from the template since it is managed by another resource."
   parameters:
   - description: "the managedBy value to set"
     name: "managedBy"

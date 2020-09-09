@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextAnalyticsError.TextAnalyticsError(TextAnalyticsErrorCode code, String message, String target)"
   name: "TextAnalyticsError(TextAnalyticsErrorCode code, String message, String target)"
   nameWithType: "TextAnalyticsError.TextAnalyticsError(TextAnalyticsErrorCode code, String message, String target)"
-  summary: "Creates a <code>TextAnalyticsError</code> model that describes text analytics error."
+  summary: "Creates a `TextAnalyticsError` model that describes text analytics error."
   parameters:
   - description: "The error code."
     name: "code"

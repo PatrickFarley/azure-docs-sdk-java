@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.trimResults()"
   name: "trimResults()"
   nameWithType: "Splitter.trimResults()"
-  summary: "Returns a splitter that behaves equivalently to <code>this</code> splitter, but automatically\n removes leading and trailing <xref uid=\"CharMatcher#whitespace\" data-throw-if-not-resolved=\"false\">whitespace</xref> from each returned\n substring; equivalent to <code>trimResults(CharMatcher.whitespace())</code>. For example, <code>\n Splitter.on(',').trimResults().split(\" a, b ,c \")</code> returns an iterable containing <code>[\"a\",\n \"b\", \"c\"]</code>."
+  summary: "Returns a splitter that behaves equivalently to `this` splitter, but automatically removes leading and trailing <xref uid=\"com.azure.cosmos.implementation.guava25.base.CharMatcher.whitespace*\" data-throw-if-not-resolved=\"false\">whitespace</xref> from each returned substring; equivalent to `trimResults(CharMatcher.whitespace())`. For example, `Splitter.on(',').trimResults().split(\" a, b ,c \")` returns an iterable containing `[\"a\", \"b\", \"c\"]`."
   syntax: "public Splitter trimResults()"
   returns:
     description: "a splitter with the desired configuration"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.trimResults(CharMatcher trimmer)"
   name: "trimResults(CharMatcher trimmer)"
   nameWithType: "Splitter.trimResults(CharMatcher trimmer)"
-  summary: "Returns a splitter that behaves equivalently to <code>this</code> splitter, but removes all leading\n or trailing characters matching the given <code>CharMatcher</code> from each returned substring. For\n example, <code>Splitter.on(',').trimResults(CharMatcher.is('_')).split(\"_a ,_b_ ,c__\")</code>\n returns an iterable containing <code>[\"a \", \"b_ \", \"c\"]</code>."
+  summary: "Returns a splitter that behaves equivalently to `this` splitter, but removes all leading or trailing characters matching the given `CharMatcher` from each returned substring. For example, `Splitter.on(',').trimResults(CharMatcher.is('_')).split(\"_a ,_b_ ,c__\")` returns an iterable containing `[\"a \", \"b_ \", \"c\"]`."
   parameters:
   - description: "a <xref uid=\"com.azure.cosmos.implementation.guava25.base.CharMatcher\" data-throw-if-not-resolved=\"false\">CharMatcher</xref> that determines whether a character should be removed from\n     the beginning/end of a subsequence"
     name: "trimmer"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.<E>from(E[] elements)"
   name: "<E>from(E[] elements)"
   nameWithType: "FluentIterable<E>.<E>from(E[] elements)"
-  summary: "Returns a fluent iterable containing <code>elements</code> in the specified order.\n\n <p>The returned iterable is an unmodifiable view of the input array.\n\n <p><b><code>Stream</code> equivalent:</b> <xref uid=\"java.util.stream.Stream#of(Object[])\" data-throw-if-not-resolved=\"false\">Stream.of(T...)</xref>."
+  summary: "Returns a fluent iterable containing `elements` in the specified order.\n\nThe returned iterable is an unmodifiable view of the input array.\n\n**`Stream` equivalent:** <xref uid=\"java.util.stream.Stream.of*\" data-throw-if-not-resolved=\"false\">Stream.of(T...)</xref>."
   parameters:
   - name: "elements"
     type: "<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />[]"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.<E>from(FluentIterable<E> iterable)"
   name: "<E>from(FluentIterable<E> iterable)"
   nameWithType: "FluentIterable<E>.<E>from(FluentIterable<E> iterable)"
-  summary: "Construct a fluent iterable from another fluent iterable. This is obviously never necessary,\n but is intended to help call out cases where one migration from <code>Iterable</code> to <code>\n FluentIterable</code> has obviated the need to explicitly convert to a <code>FluentIterable</code>."
+  summary: "Construct a fluent iterable from another fluent iterable. This is obviously never necessary, but is intended to help call out cases where one migration from `Iterable` to `FluentIterable` has obviated the need to explicitly convert to a `FluentIterable`."
   parameters:
   - name: "iterable"
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.FluentIterable?alt=com.azure.cosmos.implementation.guava25.collect.FluentIterable&text=FluentIterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.<E>from(Iterable<E> iterable)"
   name: "<E>from(Iterable<E> iterable)"
   nameWithType: "FluentIterable<E>.<E>from(Iterable<E> iterable)"
-  summary: "Returns a fluent iterable that wraps <code>iterable</code>, or <code>iterable</code> itself if it is\n already a <code>FluentIterable</code>.\n\n <p><b><code>Stream</code> equivalent:</b> <xref uid=\"Collection#stream\" data-throw-if-not-resolved=\"false\">Collection#stream</xref> if <code>iterable</code> is a <xref uid=\"Collection\" data-throw-if-not-resolved=\"false\">Collection</xref>; <xref uid=\"Streams#stream(Iterable)\" data-throw-if-not-resolved=\"false\">Streams#stream(Iterable)</xref> otherwise."
+  summary: "Returns a fluent iterable that wraps `iterable`, or `iterable` itself if it is already a `FluentIterable`.\n\n**`Stream` equivalent:** <xref uid=\"java.util.Collection.stream\" data-throw-if-not-resolved=\"false\">Collection#stream</xref> if `iterable` is a <xref uid=\"java.util.Collection\" data-throw-if-not-resolved=\"false\">Collection</xref>; <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Streams.&lt;T&gt;stream(java.lang.Iterable&lt;T&gt;)\" data-throw-if-not-resolved=\"false\">Streams#stream(Iterable)</xref> otherwise."
   parameters:
   - name: "iterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;"

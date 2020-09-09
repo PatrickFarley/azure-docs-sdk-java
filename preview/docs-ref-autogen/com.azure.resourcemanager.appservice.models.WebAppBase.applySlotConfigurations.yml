@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.WebAppBase.applySlotConfigurations(String slotName)"
   name: "applySlotConfigurations(String slotName)"
   nameWithType: "WebAppBase.applySlotConfigurations(String slotName)"
-  summary: "Apply the slot (or sticky) configurations from the specified slot to the current one. This is useful for \"Swap\n with Preview\"."
+  summary: "Apply the slot (or sticky) configurations from the specified slot to the current one. This is useful for \"Swap with Preview\"."
   parameters:
   - description: "the target slot to apply configurations from"
     name: "slotName"

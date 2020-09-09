@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.storage.MinimumTlsVersion.TLS1_0"
   name: "TLS1_0"
   nameWithType: "MinimumTlsVersion.TLS1_0"
-  summary: "Static value TLS1_0 for MinimumTlsVersion."
+  summary: "Static value TLS1\\_0 for MinimumTlsVersion."
   syntax: "public static final MinimumTlsVersion TLS1_0"
 type: "field"
 metadata: {}

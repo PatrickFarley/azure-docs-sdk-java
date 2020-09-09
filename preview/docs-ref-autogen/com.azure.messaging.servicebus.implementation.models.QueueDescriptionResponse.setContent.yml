@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.QueueDescriptionResponse.setContent(QueueDescriptionResponseContent content)"
   name: "setContent(QueueDescriptionResponseContent content)"
   nameWithType: "QueueDescriptionResponse.setContent(QueueDescriptionResponseContent content)"
-  summary: "Set the content property: Contents of a Queue_Get response."
+  summary: "Set the content property: Contents of a Queue\\_Get response."
   parameters:
   - description: "the content value to set."
     name: "content"

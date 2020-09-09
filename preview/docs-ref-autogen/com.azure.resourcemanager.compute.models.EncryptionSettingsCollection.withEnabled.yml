@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.EncryptionSettingsCollection.withEnabled(boolean enabled)"
   name: "withEnabled(boolean enabled)"
   nameWithType: "EncryptionSettingsCollection.withEnabled(boolean enabled)"
-  summary: "Set the enabled property: Set this flag to true and provide DiskEncryptionKey and optional KeyEncryptionKey to\n enable encryption. Set this flag to false and remove DiskEncryptionKey and KeyEncryptionKey to disable\n encryption. If EncryptionSettings is null in the request object, the existing settings remain unchanged."
+  summary: "Set the enabled property: Set this flag to true and provide DiskEncryptionKey and optional KeyEncryptionKey to enable encryption. Set this flag to false and remove DiskEncryptionKey and KeyEncryptionKey to disable encryption. If EncryptionSettings is null in the request object, the existing settings remain unchanged."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

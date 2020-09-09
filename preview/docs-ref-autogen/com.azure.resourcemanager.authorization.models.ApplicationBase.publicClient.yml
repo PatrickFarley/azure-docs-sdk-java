@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ApplicationBase.publicClient()"
   name: "publicClient()"
   nameWithType: "ApplicationBase.publicClient()"
-  summary: "Get the publicClient property: Specifies whether this application is a public client (such as an installed\n application running on a mobile device). Default is false."
+  summary: "Get the publicClient property: Specifies whether this application is a public client (such as an installed application running on a mobile device). Default is false."
   syntax: "public Boolean publicClient()"
   returns:
     description: "the publicClient value."

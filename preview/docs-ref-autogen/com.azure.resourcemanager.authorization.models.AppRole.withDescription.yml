@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.AppRole.withDescription(String description)"
   name: "withDescription(String description)"
   nameWithType: "AppRole.withDescription(String description)"
-  summary: "Set the description property: Permission help text that appears in the admin app assignment and consent\n experiences."
+  summary: "Set the description property: Permission help text that appears in the admin app assignment and consent experiences."
   parameters:
   - description: "the description value to set."
     name: "description"

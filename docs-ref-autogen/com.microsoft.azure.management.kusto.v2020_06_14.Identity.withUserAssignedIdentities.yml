@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.kusto.v2020_06_14.Identity.withUserAssignedIdentities(Map<String,IdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
   name: "withUserAssignedIdentities(Map<String,IdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
   nameWithType: "Identity.withUserAssignedIdentities(Map<String,IdentityUserAssignedIdentitiesValue> userAssignedIdentities)"
-  summary: "Set the list of user identities associated with the Kusto cluster. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'."
+  summary: "Set the list of user identities associated with the Kusto cluster. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'."
   parameters:
   - description: "the userAssignedIdentities value to set"
     name: "userAssignedIdentities"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MapDifference.ValueDifference<V>.hashCode()"
   name: "hashCode()"
   nameWithType: "MapDifference.ValueDifference<V>.hashCode()"
-  summary: "The hash code equals the value <code>Arrays.asList(leftValue(), rightValue()).hashCode()</code>."
+  summary: "The hash code equals the value `Arrays.asList(leftValue(), rightValue()).hashCode()`."
   overridden: "java.lang.Object.hashCode()"
   syntax: "public abstract int hashCode()"
   returns:

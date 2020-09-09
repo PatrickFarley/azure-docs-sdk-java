@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Stopwatch.isRunning()"
   name: "isRunning()"
   nameWithType: "Stopwatch.isRunning()"
-  summary: "Returns <code>true</code> if <xref uid=\"#start()\" data-throw-if-not-resolved=\"false\">#start()</xref> has been called on this stopwatch, and <xref uid=\"#stop()\" data-throw-if-not-resolved=\"false\">#stop()</xref>\n has not been called since the last call to <code>start()</code>."
+  summary: "Returns `true` if <xref uid=\"com.azure.cosmos.implementation.guava25.base.Stopwatch.start()\" data-throw-if-not-resolved=\"false\">#start()</xref> has been called on this stopwatch, and <xref uid=\"com.azure.cosmos.implementation.guava25.base.Stopwatch.stop()\" data-throw-if-not-resolved=\"false\">#stop()</xref> has not been called since the last call to `start()`."
   syntax: "public boolean isRunning()"
   returns:
     type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"

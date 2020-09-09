@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayInner.frontendPorts()"
   name: "frontendPorts()"
   nameWithType: "ApplicationGatewayInner.frontendPorts()"
-  summary: "Get the frontendPorts property: Frontend ports of the application gateway resource. For default limits, see\n [Application Gateway\n limits](https://docs.microsoft.com/azure/azure-subscription-service-limits#application-gateway-limits)."
+  summary: "Get the frontendPorts property: Frontend ports of the application gateway resource. For default limits, see \\[Application Gateway limits\\](https://docs.microsoft.com/azure/azure-subscription-service-limits\\#application-gateway-limits)."
   syntax: "public List<ApplicationGatewayFrontendPort> frontendPorts()"
   returns:
     description: "the frontendPorts value."

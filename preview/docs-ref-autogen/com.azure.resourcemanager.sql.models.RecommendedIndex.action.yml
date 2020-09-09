@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.RecommendedIndex.action()"
   name: "action()"
   nameWithType: "RecommendedIndex.action()"
-  summary: "Get the action property: The proposed index action. You can create a missing index, drop an unused index, or\n rebuild an existing index to improve its performance."
+  summary: "Get the action property: The proposed index action. You can create a missing index, drop an unused index, or rebuild an existing index to improve its performance."
   syntax: "public RecommendedIndexAction action()"
   returns:
     description: "the action value."

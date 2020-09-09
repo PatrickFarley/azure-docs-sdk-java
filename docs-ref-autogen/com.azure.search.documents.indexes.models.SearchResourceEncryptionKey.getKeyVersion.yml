@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchResourceEncryptionKey.getKeyVersion()"
   name: "getKeyVersion()"
   nameWithType: "SearchResourceEncryptionKey.getKeyVersion()"
-  summary: "Get the keyVersion property: The version of your Azure Key Vault key to\n be used to encrypt your data at rest."
+  summary: "Get the keyVersion property: The version of your Azure Key Vault key to be used to encrypt your data at rest."
   syntax: "public String getKeyVersion()"
   returns:
     description: "the keyVersion value."

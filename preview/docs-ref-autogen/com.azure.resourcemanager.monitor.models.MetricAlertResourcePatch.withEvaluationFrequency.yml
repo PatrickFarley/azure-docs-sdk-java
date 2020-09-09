@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricAlertResourcePatch.withEvaluationFrequency(Duration evaluationFrequency)"
   name: "withEvaluationFrequency(Duration evaluationFrequency)"
   nameWithType: "MetricAlertResourcePatch.withEvaluationFrequency(Duration evaluationFrequency)"
-  summary: "Set the evaluationFrequency property: how often the metric alert is evaluated represented in ISO 8601 duration\n format."
+  summary: "Set the evaluationFrequency property: how often the metric alert is evaluated represented in ISO 8601 duration format."
   parameters:
   - description: "the evaluationFrequency value to set."
     name: "evaluationFrequency"

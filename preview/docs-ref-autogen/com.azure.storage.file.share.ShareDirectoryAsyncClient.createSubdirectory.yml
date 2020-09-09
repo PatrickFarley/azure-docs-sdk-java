@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryAsyncClient.createSubdirectory(String subdirectoryName)"
   name: "createSubdirectory(String subdirectoryName)"
   nameWithType: "ShareDirectoryAsyncClient.createSubdirectory(String subdirectoryName)"
-  summary: "Creates a subdirectory under current directory with specific name and returns a response of\n ShareDirectoryAsyncClient to interact with it.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Create the sub directory \"subdir\" </p>\n\n <pre>\n shareDirectoryAsyncClient.createSubdirectory&#40;&quot;subdir&quot;&#41;\n     .doOnSuccess&#40;response -&gt; System.out.println&#40;&quot;Completed creating the subdirectory.&quot;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory\">Azure Docs</a>.</p>"
+  summary: "Creates a subdirectory under current directory with specific name and returns a response of ShareDirectoryAsyncClient to interact with it.\n\n**Code Samples**\n\nCreate the sub directory \"subdir\"\n\n```java\nshareDirectoryAsyncClient.createSubdirectory(\"subdir\")\n     .doOnSuccess(response -> System.out.println(\"Completed creating the subdirectory.\"));\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory"
   parameters:
   - description: "Name of the subdirectory"
     name: "subdirectoryName"

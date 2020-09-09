@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.getProperties()"
   name: "getProperties()"
   nameWithType: "BlobClientBase.getProperties()"
-  summary: "Returns the blob's metadata and properties.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n BlobProperties properties = client.getProperties&#40;&#41;;\n System.out.printf&#40;&quot;Type: %s, Size: %d%n&quot;, properties.getBlobType&#40;&#41;, properties.getBlobSize&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties\">Azure Docs</a></p>"
+  summary: "Returns the blob's metadata and properties.\n\n**Code Samples**\n\n```java\nBlobProperties properties = client.getProperties();\n System.out.printf(\"Type: %s, Size: %d%n\", properties.getBlobType(), properties.getBlobSize());\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties"
   syntax: "public BlobProperties getProperties()"
   returns:
     description: "The blob properties and metadata."

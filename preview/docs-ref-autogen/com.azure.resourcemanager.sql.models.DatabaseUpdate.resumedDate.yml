@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.DatabaseUpdate.resumedDate()"
   name: "resumedDate()"
   nameWithType: "DatabaseUpdate.resumedDate()"
-  summary: "Get the resumedDate property: The date when database was resumed by user action or database login (ISO8601\n format). Null if the database is paused."
+  summary: "Get the resumedDate property: The date when database was resumed by user action or database login (ISO8601 format). Null if the database is paused."
   syntax: "public OffsetDateTime resumedDate()"
   returns:
     description: "the resumedDate value."

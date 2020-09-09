@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.PolicyAssignmentInner.metadata()"
   name: "metadata()"
   nameWithType: "PolicyAssignmentInner.metadata()"
-  summary: "Get the metadata property: The policy assignment metadata. Metadata is an open ended object and is typically a\n collection of key value pairs."
+  summary: "Get the metadata property: The policy assignment metadata. Metadata is an open ended object and is typically a collection of key value pairs."
   syntax: "public Object metadata()"
   returns:
     description: "the metadata value."

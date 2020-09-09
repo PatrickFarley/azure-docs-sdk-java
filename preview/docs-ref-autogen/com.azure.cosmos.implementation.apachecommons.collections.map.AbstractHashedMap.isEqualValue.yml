@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.isEqualValue(Object value1, Object value2)"
   name: "isEqualValue(Object value1, Object value2)"
   nameWithType: "AbstractHashedMap<K,V>.isEqualValue(Object value1, Object value2)"
-  summary: "Compares two values, in external form, to see if they are equal.\n This implementation uses the equals method and assumes neither value is null.\n Subclasses can override this to match differently."
+  summary: "Compares two values, in external form, to see if they are equal. This implementation uses the equals method and assumes neither value is null. Subclasses can override this to match differently."
   parameters:
   - description: "the first value to compare passed in from outside"
     name: "value1"

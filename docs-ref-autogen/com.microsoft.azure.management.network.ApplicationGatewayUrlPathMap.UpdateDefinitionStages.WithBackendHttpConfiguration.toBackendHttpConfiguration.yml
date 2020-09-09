@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayUrlPathMap.UpdateDefinitionStages.WithBackendHttpConfiguration<ParentT>.toBackendHttpConfiguration(String name)"
   name: "toBackendHttpConfiguration(String name)"
   nameWithType: "ApplicationGatewayUrlPathMap.UpdateDefinitionStages.WithBackendHttpConfiguration<ParentT>.toBackendHttpConfiguration(String name)"
-  summary: "Associates the specified backend HTTP settings configuration with this URL path map.\n <p>\n If the backend configuration does not exist yet, it must be defined in the optional part of the application gateway\n definition. The URL path map references it only by name."
+  summary: "Associates the specified backend HTTP settings configuration with this URL path map.\n\nIf the backend configuration does not exist yet, it must be defined in the optional part of the application gateway definition. The URL path map references it only by name."
   parameters:
   - description: "the name of a backend HTTP settings configuration"
     name: "name"

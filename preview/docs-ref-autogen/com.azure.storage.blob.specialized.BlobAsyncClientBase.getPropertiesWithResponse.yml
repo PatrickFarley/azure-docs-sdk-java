@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.getPropertiesWithResponse(BlobRequestConditions requestConditions)"
   name: "getPropertiesWithResponse(BlobRequestConditions requestConditions)"
   nameWithType: "BlobAsyncClientBase.getPropertiesWithResponse(BlobRequestConditions requestConditions)"
-  summary: "Returns the blob's metadata and properties.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n BlobRequestConditions requestConditions = new BlobRequestConditions&#40;&#41;.setLeaseId&#40;leaseId&#41;;\n \n client.getPropertiesWithResponse&#40;requestConditions&#41;.subscribe&#40;\n     response -&gt; System.out.printf&#40;&quot;Type: %s, Size: %d%n&quot;, response.getValue&#40;&#41;.getBlobType&#40;&#41;,\n         response.getValue&#40;&#41;.getBlobSize&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties\">Azure Docs</a></p>"
+  summary: "Returns the blob's metadata and properties.\n\n**Code Samples**\n\n```java\nBlobRequestConditions requestConditions = new BlobRequestConditions().setLeaseId(leaseId);\n \n client.getPropertiesWithResponse(requestConditions).subscribe(\n     response -> System.out.printf(\"Type: %s, Size: %d%n\", response.getValue().getBlobType(),\n         response.getValue().getBlobSize()));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-properties"
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.models.BlobRequestConditions\" data-throw-if-not-resolved=\"false\">BlobRequestConditions</xref>"
     name: "requestConditions"

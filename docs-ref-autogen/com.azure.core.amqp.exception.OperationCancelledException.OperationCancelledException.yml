@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.exception.OperationCancelledException.OperationCancelledException(String message, AmqpErrorContext context)"
   name: "OperationCancelledException(String message, AmqpErrorContext context)"
   nameWithType: "OperationCancelledException.OperationCancelledException(String message, AmqpErrorContext context)"
-  summary: "Creates an instance of this exception with provided <code>message</code>."
+  summary: "Creates an instance of this exception with provided `message`."
   parameters:
   - description: "Message associated with this exception."
     name: "message"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.core.amqp.exception.OperationCancelledException.OperationCancelledException(String message, Throwable cause, AmqpErrorContext context)"
   name: "OperationCancelledException(String message, Throwable cause, AmqpErrorContext context)"
   nameWithType: "OperationCancelledException.OperationCancelledException(String message, Throwable cause, AmqpErrorContext context)"
-  summary: "Creates an instance of this exception with provided <code>message</code> and underlying <code>cause</code>."
+  summary: "Creates an instance of this exception with provided `message` and underlying `cause`."
   parameters:
   - description: "Message associated with this exception."
     name: "message"

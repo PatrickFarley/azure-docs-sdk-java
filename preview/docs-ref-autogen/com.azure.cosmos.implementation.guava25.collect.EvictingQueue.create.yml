@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.EvictingQueue<E>.<E>create(int maxSize)"
   name: "<E>create(int maxSize)"
   nameWithType: "EvictingQueue<E>.<E>create(int maxSize)"
-  summary: "Creates and returns a new evicting queue that will hold up to <code>maxSize</code> elements.\n\n <p>When <code>maxSize</code> is zero, elements will be evicted immediately after being added to the\n queue."
+  summary: "Creates and returns a new evicting queue that will hold up to `maxSize` elements.\n\nWhen `maxSize` is zero, elements will be evicted immediately after being added to the queue."
   parameters:
   - name: "maxSize"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

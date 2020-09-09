@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.listInstanceProcessesSlot(String resourceGroupName, String name, String slot, String instanceId)"
   name: "listInstanceProcessesSlot(String resourceGroupName, String name, String slot, String instanceId)"
   nameWithType: "WebAppsClient.listInstanceProcessesSlot(String resourceGroupName, String name, String slot, String instanceId)"
-  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance\n in a web site."
+  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance in a web site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.listInstanceProcessesSlot(String resourceGroupName, String name, String slot, String instanceId, Context context)"
   name: "listInstanceProcessesSlot(String resourceGroupName, String name, String slot, String instanceId, Context context)"
   nameWithType: "WebAppsClient.listInstanceProcessesSlot(String resourceGroupName, String name, String slot, String instanceId, Context context)"
-  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance\n in a web site."
+  summary: "Description for Get list of processes for a web site, or a deployment slot, or for a specific scaled-out instance in a web site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

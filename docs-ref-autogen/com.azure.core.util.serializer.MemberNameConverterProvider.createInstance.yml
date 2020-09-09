@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.serializer.MemberNameConverterProvider.createInstance()"
   name: "createInstance()"
   nameWithType: "MemberNameConverterProvider.createInstance()"
-  summary: "Creates a new instance of the <xref uid=\"MemberNameConverter\" data-throw-if-not-resolved=\"false\">MemberNameConverter</xref> that this MemberNameConverterProvider is configured to\n create."
+  summary: "Creates a new instance of the <xref uid=\"com.azure.core.util.serializer.MemberNameConverter\" data-throw-if-not-resolved=\"false\">MemberNameConverter</xref> that this MemberNameConverterProvider is configured to create."
   syntax: "public abstract MemberNameConverter createInstance()"
   returns:
     description: "A new <xref uid=\"com.azure.core.util.serializer.MemberNameConverter\" data-throw-if-not-resolved=\"false\">MemberNameConverter</xref> instance."

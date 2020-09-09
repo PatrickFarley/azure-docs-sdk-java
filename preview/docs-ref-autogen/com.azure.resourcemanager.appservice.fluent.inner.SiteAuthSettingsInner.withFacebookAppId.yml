@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteAuthSettingsInner.withFacebookAppId(String facebookAppId)"
   name: "withFacebookAppId(String facebookAppId)"
   nameWithType: "SiteAuthSettingsInner.withFacebookAppId(String facebookAppId)"
-  summary: "Set the facebookAppId property: The App ID of the Facebook app used for login. This setting is required for\n enabling Facebook Login. Facebook Login documentation: https://developers.facebook.com/docs/facebook-login."
+  summary: "Set the facebookAppId property: The App ID of the Facebook app used for login. This setting is required for enabling Facebook Login. Facebook Login documentation: https://developers.facebook.com/docs/facebook-login."
   parameters:
   - description: "the facebookAppId value to set."
     name: "facebookAppId"

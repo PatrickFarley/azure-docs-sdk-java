@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.FluxUtil.<T>pagedFluxError(ClientLogger logger, RuntimeException ex)"
   name: "<T>pagedFluxError(ClientLogger logger, RuntimeException ex)"
   nameWithType: "FluxUtil.<T>pagedFluxError(ClientLogger logger, RuntimeException ex)"
-  summary: "Propagates a <xref uid=\"RuntimeException\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> through the error channel of <xref uid=\"PagedFlux\" data-throw-if-not-resolved=\"false\">PagedFlux</xref>."
+  summary: "Propagates a <xref uid=\"java.lang.RuntimeException\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> through the error channel of <xref uid=\"com.azure.core.http.rest.PagedFlux\" data-throw-if-not-resolved=\"false\">PagedFlux</xref>."
   parameters:
   - description: "The <xref uid=\"com.azure.core.util.logging.ClientLogger\" data-throw-if-not-resolved=\"false\">ClientLogger</xref> to log the exception."
     name: "logger"

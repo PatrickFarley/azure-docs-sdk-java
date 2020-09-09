@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItem.getObjectReplicationPolicyId()"
   name: "getObjectReplicationPolicyId()"
   nameWithType: "BlobItem.getObjectReplicationPolicyId()"
-  summary: "Get the objectReplicationPolicyId property: The\n objectReplicationPolicyId property."
+  summary: "Get the objectReplicationPolicyId property: The objectReplicationPolicyId property."
   syntax: "public String getObjectReplicationPolicyId()"
   returns:
     description: "the objectReplicationPolicyId value."

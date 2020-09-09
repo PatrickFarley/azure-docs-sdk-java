@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareDirectoryAsyncClient.deleteSubdirectory(String subdirectoryName)"
   name: "deleteSubdirectory(String subdirectoryName)"
   nameWithType: "ShareDirectoryAsyncClient.deleteSubdirectory(String subdirectoryName)"
-  summary: "Deletes the subdirectory with specific name in this directory.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Delete the subdirectory named \"subdir\"</p>\n\n <pre>\n shareDirectoryAsyncClient.deleteSubdirectory&#40;&quot;mysubdirectory&quot;&#41;.subscribe&#40;\n     response -&gt; &#123;\n     &#125;,\n     error -&gt; System.err.println&#40;error.toString&#40;&#41;&#41;,\n     &#40;&#41; -&gt; System.out.println&#40;&quot;Completed deleting the subdirectory.&quot;&#41;\n &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory\">Azure Docs</a>.</p>"
+  summary: "Deletes the subdirectory with specific name in this directory.\n\n**Code Samples**\n\nDelete the subdirectory named \"subdir\"\n\n```java\nshareDirectoryAsyncClient.deleteSubdirectory(\"mysubdirectory\").subscribe(\n     response -> {\n     },\n     error -> System.err.println(error.toString()),\n     () -> System.out.println(\"Completed deleting the subdirectory.\")\n );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory"
   parameters:
   - description: "Name of the subdirectory"
     name: "subdirectoryName"

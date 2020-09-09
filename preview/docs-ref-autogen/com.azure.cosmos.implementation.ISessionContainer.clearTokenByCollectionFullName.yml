@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ISessionContainer.clearTokenByCollectionFullName(String collectionFullName)"
   name: "clearTokenByCollectionFullName(String collectionFullName)"
   nameWithType: "ISessionContainer.clearTokenByCollectionFullName(String collectionFullName)"
-  summary: "Atomically: removes partitionKeyRangeId token map associated with collectionFullName, maps collectionFullName to resourceId and\n removes its map as well."
+  summary: "Atomically: removes partitionKeyRangeId token map associated with collectionFullName, maps collectionFullName to resourceId and removes its map as well."
   parameters:
   - description: "collectionFullName"
     name: "collectionFullName"

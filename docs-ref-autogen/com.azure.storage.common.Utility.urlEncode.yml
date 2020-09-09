@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.Utility.urlEncode(String stringToEncode)"
   name: "urlEncode(String stringToEncode)"
   nameWithType: "Utility.urlEncode(String stringToEncode)"
-  summary: "Performs a safe encoding of the specified string, taking care to insert %20 for each space character instead of\n inserting the <code>+</code> character."
+  summary: "Performs a safe encoding of the specified string, taking care to insert %20 for each space character instead of inserting the `+` character."
   parameters:
   - description: "String value to encode"
     name: "stringToEncode"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Suppliers.<T>ofInstance(T instance)"
   name: "<T>ofInstance(T instance)"
   nameWithType: "Suppliers.<T>ofInstance(T instance)"
-  summary: "Returns a supplier that always supplies <code>instance</code>."
+  summary: "Returns a supplier that always supplies `instance`."
   parameters:
   - name: "instance"
     type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"

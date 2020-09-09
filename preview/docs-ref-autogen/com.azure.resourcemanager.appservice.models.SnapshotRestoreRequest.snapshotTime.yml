@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.SnapshotRestoreRequest.snapshotTime()"
   name: "snapshotTime()"
   nameWithType: "SnapshotRestoreRequest.snapshotTime()"
-  summary: "Get the snapshotTime property: Point in time in which the app restore should be done, formatted as a DateTime\n string."
+  summary: "Get the snapshotTime property: Point in time in which the app restore should be done, formatted as a DateTime string."
   syntax: "public String snapshotTime()"
   returns:
     description: "the snapshotTime value."

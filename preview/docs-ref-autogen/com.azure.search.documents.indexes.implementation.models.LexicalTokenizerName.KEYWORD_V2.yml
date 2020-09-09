@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.LexicalTokenizerName.KEYWORD_V2"
   name: "KEYWORD_V2"
   nameWithType: "LexicalTokenizerName.KEYWORD_V2"
-  summary: "Static value keyword_v2 for LexicalTokenizerName."
+  summary: "Static value keyword\\_v2 for LexicalTokenizerName."
   syntax: "public static final LexicalTokenizerName KEYWORD_V2"
 type: "field"
 metadata: {}

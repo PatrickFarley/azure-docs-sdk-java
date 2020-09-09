@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.WebSiteInstanceStatusInner.containers()"
   name: "containers()"
   nameWithType: "WebSiteInstanceStatusInner.containers()"
-  summary: "Get the containers property: Dictionary of &lt;ContainerInfo&gt;."
+  summary: "Get the containers property: Dictionary of <ContainerInfo>."
   syntax: "public Map<String,ContainerInfo> containers()"
   returns:
     description: "the containers value."

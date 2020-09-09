@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.setAccessTierChangeTime(OffsetDateTime accessTierChangeTime)"
   name: "setAccessTierChangeTime(OffsetDateTime accessTierChangeTime)"
   nameWithType: "BlobItemProperties.setAccessTierChangeTime(OffsetDateTime accessTierChangeTime)"
-  summary: "Set the accessTierChangeTime property: The accessTierChangeTime\n property."
+  summary: "Set the accessTierChangeTime property: The accessTierChangeTime property."
   parameters:
   - description: "the accessTierChangeTime value to set."
     name: "accessTierChangeTime"

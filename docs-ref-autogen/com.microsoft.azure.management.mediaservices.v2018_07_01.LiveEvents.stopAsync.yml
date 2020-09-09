@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.LiveEvents.stopAsync(String resourceGroupName, String accountName, String liveEventName)"
   name: "stopAsync(String resourceGroupName, String accountName, String liveEventName)"
   nameWithType: "LiveEvents.stopAsync(String resourceGroupName, String accountName, String liveEventName)"
-  summary: "Stop Live Event.\n Stops an existing Live Event."
+  summary: "Stop Live Event. Stops an existing Live Event."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

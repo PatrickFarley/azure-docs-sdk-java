@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSet.Builder<E>.add(E element)"
   name: "add(E element)"
   nameWithType: "ImmutableSet.Builder<E>.add(E element)"
-  summary: "Adds <code>element</code> to the <code>ImmutableCollection</code> being built.\n\n <p>Note that each builder class covariantly returns its own type from this method."
+  summary: "Adds `element` to the `ImmutableCollection` being built.\n\nNote that each builder class covariantly returns its own type from this method."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.add(E)"
   parameters:
   - name: "element"
@@ -20,7 +20,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSet.Builder<E>.add(E[] elements)"
   name: "add(E[] elements)"
   nameWithType: "ImmutableSet.Builder<E>.add(E[] elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableCollection</code> being built.\n\n <p>Note that each builder class overrides this method in order to covariantly return its own\n type."
+  summary: "Adds each element of `elements` to the `ImmutableCollection` being built.\n\nNote that each builder class overrides this method in order to covariantly return its own type."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableCollection.Builder.add(E...)"
   parameters:
   - name: "elements"

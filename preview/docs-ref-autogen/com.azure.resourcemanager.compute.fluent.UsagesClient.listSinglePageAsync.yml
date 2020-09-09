@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.UsagesClient.listSinglePageAsync(String location)"
   name: "listSinglePageAsync(String location)"
   nameWithType: "UsagesClient.listSinglePageAsync(String location)"
-  summary: "Gets, for the specified location, the current compute resource usage information as well as the limits for\n compute resources under the subscription."
+  summary: "Gets, for the specified location, the current compute resource usage information as well as the limits for compute resources under the subscription."
   parameters:
   - description: "The location for which resource usage is queried."
     name: "location"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.UsagesClient.listSinglePageAsync(String location, Context context)"
   name: "listSinglePageAsync(String location, Context context)"
   nameWithType: "UsagesClient.listSinglePageAsync(String location, Context context)"
-  summary: "Gets, for the specified location, the current compute resource usage information as well as the limits for\n compute resources under the subscription."
+  summary: "Gets, for the specified location, the current compute resource usage information as well as the limits for compute resources under the subscription."
   parameters:
   - description: "The location for which resource usage is queried."
     name: "location"

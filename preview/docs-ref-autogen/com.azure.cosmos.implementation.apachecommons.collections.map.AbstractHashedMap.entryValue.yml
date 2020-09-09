@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.entryValue(AbstractHashedMap.HashEntry<K,V> entry)"
   name: "entryValue(AbstractHashedMap.HashEntry<K,V> entry)"
   nameWithType: "AbstractHashedMap<K,V>.entryValue(AbstractHashedMap.HashEntry<K,V> entry)"
-  summary: "Gets the <code>value</code> field from a <code>HashEntry</code>.\n Used in subclasses that have no visibility of the field."
+  summary: "Gets the `value` field from a `HashEntry`. Used in subclasses that have no visibility of the field."
   parameters:
   - description: "the entry to query, must not be null"
     name: "entry"

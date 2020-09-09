@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosScripts.readAllUserDefinedFunctions()"
   name: "readAllUserDefinedFunctions()"
   nameWithType: "CosmosScripts.readAllUserDefinedFunctions()"
-  summary: "Read all user defined functions <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Read all user defined functions <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   syntax: "public CosmosPagedIterable<CosmosUserDefinedFunctionProperties> readAllUserDefinedFunctions()"
   returns:
     description: "the <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.fluent.inner.CheckNameAvailabilityResultInner.reason()"
   name: "reason()"
   nameWithType: "CheckNameAvailabilityResultInner.reason()"
-  summary: "Get the reason property: The reason that a vault name could not be used. The Reason element is only returned if\n NameAvailable is false."
+  summary: "Get the reason property: The reason that a vault name could not be used. The Reason element is only returned if NameAvailable is false."
   syntax: "public Reason reason()"
   returns:
     description: "the reason value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeDirectoryClient.deleteWithResponse(boolean recursive, DataLakeRequestConditions requestConditions, Duration timeout, Context context)"
   name: "deleteWithResponse(boolean recursive, DataLakeRequestConditions requestConditions, Duration timeout, Context context)"
   nameWithType: "DataLakeDirectoryClient.deleteWithResponse(boolean recursive, DataLakeRequestConditions requestConditions, Duration timeout, Context context)"
-  summary: "Deletes a directory.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n DataLakeRequestConditions requestConditions = new DataLakeRequestConditions&#40;&#41;\n     .setLeaseId&#40;leaseId&#41;;\n boolean recursive = false; &#47;&#47; Default value\n \n client.deleteWithResponse&#40;recursive, requestConditions, timeout, new Context&#40;key1, value1&#41;&#41;;\n System.out.println&#40;&quot;Delete request completed&quot;&#41;;\n </pre>\n\n <p>For more information see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/delete\">Azure\n Docs</a></p>"
+  summary: "Deletes a directory.\n\n**Code Samples**\n\n```java\nDataLakeRequestConditions requestConditions = new DataLakeRequestConditions()\n     .setLeaseId(leaseId);\n boolean recursive = false; // Default value\n \n client.deleteWithResponse(recursive, requestConditions, timeout, new Context(key1, value1));\n System.out.println(\"Delete request completed\");\n```\n\nFor more information see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/delete"
   parameters:
   - description: "Whether or not to delete all paths beneath the directory."
     name: "recursive"

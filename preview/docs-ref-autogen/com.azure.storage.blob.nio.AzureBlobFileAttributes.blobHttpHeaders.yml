@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureBlobFileAttributes.blobHttpHeaders()"
   name: "blobHttpHeaders()"
   nameWithType: "AzureBlobFileAttributes.blobHttpHeaders()"
-  summary: "Returns the <xref uid=\"BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref> of the blob."
+  summary: "Returns the <xref uid=\"com.azure.storage.blob.models.BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref> of the blob."
   syntax: "public BlobHttpHeaders blobHttpHeaders()"
   returns:
     description: "<xref uid=\"com.azure.storage.blob.models.BlobHttpHeaders\" data-throw-if-not-resolved=\"false\">BlobHttpHeaders</xref>"

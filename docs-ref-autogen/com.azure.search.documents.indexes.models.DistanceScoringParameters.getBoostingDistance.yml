@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.DistanceScoringParameters.getBoostingDistance()"
   name: "getBoostingDistance()"
   nameWithType: "DistanceScoringParameters.getBoostingDistance()"
-  summary: "Get the boostingDistance property: The distance in kilometers from the\n reference location where the boosting range ends."
+  summary: "Get the boostingDistance property: The distance in kilometers from the reference location where the boosting range ends."
   syntax: "public double getBoostingDistance()"
   returns:
     description: "the boostingDistance value."

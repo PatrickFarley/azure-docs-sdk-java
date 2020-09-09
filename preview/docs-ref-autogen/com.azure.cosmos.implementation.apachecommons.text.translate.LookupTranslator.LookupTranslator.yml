@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.text.translate.LookupTranslator.LookupTranslator(Map<CharSequence,CharSequence> lookupMap)"
   name: "LookupTranslator(Map<CharSequence,CharSequence> lookupMap)"
   nameWithType: "LookupTranslator.LookupTranslator(Map<CharSequence,CharSequence> lookupMap)"
-  summary: "Define the lookup table to be used in translation\n\n Note that, as of Lang 3.1 (the origin of this code), the key to the lookup\n table is converted to a java.lang.String. This is because we need the key\n to support hashCode and equals(Object), allowing it to be the key for a\n HashMap. See LANG-882."
+  summary: "Define the lookup table to be used in translation Note that, as of Lang 3.1 (the origin of this code), the key to the lookup table is converted to a java.lang.String. This is because we need the key to support hashCode and equals(Object), allowing it to be the key for a HashMap. See LANG-882."
   parameters:
   - description: "Map&lt;CharSequence, CharSequence&gt; table of translator\n                  mappings"
     name: "lookupMap"

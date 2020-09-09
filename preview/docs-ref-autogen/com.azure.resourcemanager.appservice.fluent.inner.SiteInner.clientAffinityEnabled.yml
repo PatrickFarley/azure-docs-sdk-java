@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteInner.clientAffinityEnabled()"
   name: "clientAffinityEnabled()"
   nameWithType: "SiteInner.clientAffinityEnabled()"
-  summary: "Get the clientAffinityEnabled property: &lt;code&gt;true&lt;/code&gt; to enable client affinity;\n &lt;code&gt;false&lt;/code&gt; to stop sending session affinity cookies, which route client requests in the same\n session to the same instance. Default is &lt;code&gt;true&lt;/code&gt;."
+  summary: "Get the clientAffinityEnabled property: <code>true</code> to enable client affinity; <code>false</code> to stop sending session affinity cookies, which route client requests in the same session to the same instance. Default is <code>true</code>."
   syntax: "public Boolean clientAffinityEnabled()"
   returns:
     description: "the clientAffinityEnabled value."

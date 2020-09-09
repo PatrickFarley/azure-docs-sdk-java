@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchRequest.setHighlightFields(String highlightFields)"
   name: "setHighlightFields(String highlightFields)"
   nameWithType: "SearchRequest.setHighlightFields(String highlightFields)"
-  summary: "Set the highlightFields property: The comma-separated list of field names to use for hit highlights. Only\n searchable fields can be used for hit highlighting."
+  summary: "Set the highlightFields property: The comma-separated list of field names to use for hit highlights. Only searchable fields can be used for hit highlighting."
   parameters:
   - description: "the highlightFields value to set."
     name: "highlightFields"

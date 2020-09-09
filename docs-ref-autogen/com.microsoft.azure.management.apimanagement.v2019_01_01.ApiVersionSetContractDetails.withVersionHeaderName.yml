@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.apimanagement.v2019_01_01.ApiVersionSetContractDetails.withVersionHeaderName(String versionHeaderName)"
   name: "withVersionHeaderName(String versionHeaderName)"
   nameWithType: "ApiVersionSetContractDetails.withVersionHeaderName(String versionHeaderName)"
-  summary: "Set name of HTTP header parameter that indicates the API Version if versioningScheme is set to `header`."
+  summary: "Set name of HTTP header parameter that indicates the API Version if versioningScheme is set to \\`header\\`."
   parameters:
   - description: "the versionHeaderName value to set"
     name: "versionHeaderName"

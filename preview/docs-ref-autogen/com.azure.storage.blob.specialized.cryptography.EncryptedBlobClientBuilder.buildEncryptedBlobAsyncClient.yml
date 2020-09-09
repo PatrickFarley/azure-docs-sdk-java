@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.cryptography.EncryptedBlobClientBuilder.buildEncryptedBlobAsyncClient()"
   name: "buildEncryptedBlobAsyncClient()"
   nameWithType: "EncryptedBlobClientBuilder.buildEncryptedBlobAsyncClient()"
-  summary: "Creates a <xref uid=\"EncryptedBlobAsyncClient\" data-throw-if-not-resolved=\"false\">EncryptedBlobAsyncClient</xref> based on options set in the Builder.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n EncryptedBlobClient client = new EncryptedBlobClientBuilder&#40;&#41;\n     .key&#40;key, keyWrapAlgorithm&#41;\n     .keyResolver&#40;keyResolver&#41;\n     .connectionString&#40;connectionString&#41;\n     .buildEncryptedBlobClient&#40;&#41;;\n </pre>"
+  summary: "Creates a <xref uid=\"com.azure.storage.blob.specialized.cryptography.EncryptedBlobAsyncClient\" data-throw-if-not-resolved=\"false\">EncryptedBlobAsyncClient</xref> based on options set in the Builder.\n\n**Code Samples**\n\n```java\nEncryptedBlobClient client = new EncryptedBlobClientBuilder()\n     .key(key, keyWrapAlgorithm)\n     .keyResolver(keyResolver)\n     .connectionString(connectionString)\n     .buildEncryptedBlobClient();\n```"
   syntax: "public EncryptedBlobAsyncClient buildEncryptedBlobAsyncClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.blob.specialized.cryptography.EncryptedBlobAsyncClient\" data-throw-if-not-resolved=\"false\">EncryptedBlobAsyncClient</xref> created from the configurations in this builder."

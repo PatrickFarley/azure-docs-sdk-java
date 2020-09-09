@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.PremierAddOnOfferInner.withPromoCodeRequired(Boolean promoCodeRequired)"
   name: "withPromoCodeRequired(Boolean promoCodeRequired)"
   nameWithType: "PremierAddOnOfferInner.withPromoCodeRequired(Boolean promoCodeRequired)"
-  summary: "Set the promoCodeRequired property: &lt;code&gt;true&lt;/code&gt; if promotion code is required; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Set the promoCodeRequired property: <code>true</code> if promotion code is required; otherwise, <code>false</code>."
   parameters:
   - description: "the promoCodeRequired value to set."
     name: "promoCodeRequired"

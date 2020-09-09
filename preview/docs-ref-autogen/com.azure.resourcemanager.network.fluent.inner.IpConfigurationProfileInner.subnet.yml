@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.IpConfigurationProfileInner.subnet()"
   name: "subnet()"
   nameWithType: "IpConfigurationProfileInner.subnet()"
-  summary: "Get the subnet property: The reference of the subnet resource to create a container network interface ip\n configuration."
+  summary: "Get the subnet property: The reference of the subnet resource to create a container network interface ip configuration."
   syntax: "public SubnetInner subnet()"
   returns:
     description: "the subnet value."

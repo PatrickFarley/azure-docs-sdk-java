@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.DataMaskingRuleInner.numberTo()"
   name: "numberTo()"
   nameWithType: "DataMaskingRuleInner.numberTo()"
-  summary: "Get the numberTo property: The numberTo property of the data masking rule. Required if maskingFunction is set to\n Number, otherwise this parameter will be ignored."
+  summary: "Get the numberTo property: The numberTo property of the data masking rule. Required if maskingFunction is set to Number, otherwise this parameter will be ignored."
   syntax: "public String numberTo()"
   returns:
     description: "the numberTo value."

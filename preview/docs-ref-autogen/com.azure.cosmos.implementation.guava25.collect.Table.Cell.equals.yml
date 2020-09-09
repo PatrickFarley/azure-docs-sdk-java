@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Table.Cell<R,C,V>.equals(Object obj)"
   name: "equals(Object obj)"
   nameWithType: "Table.Cell<R,C,V>.equals(Object obj)"
-  summary: "Compares the specified object with this cell for equality. Two cells are equal when they have\n equal row keys, column keys, and values."
+  summary: "Compares the specified object with this cell for equality. Two cells are equal when they have equal row keys, column keys, and values."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - name: "obj"

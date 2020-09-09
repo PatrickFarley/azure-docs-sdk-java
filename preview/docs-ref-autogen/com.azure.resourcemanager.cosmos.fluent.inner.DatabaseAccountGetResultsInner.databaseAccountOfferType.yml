@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.fluent.inner.DatabaseAccountGetResultsInner.databaseAccountOfferType()"
   name: "databaseAccountOfferType()"
   nameWithType: "DatabaseAccountGetResultsInner.databaseAccountOfferType()"
-  summary: "Get the databaseAccountOfferType property: The offer type for the Cosmos DB database account. Default value:\n Standard."
+  summary: "Get the databaseAccountOfferType property: The offer type for the Cosmos DB database account. Default value: Standard."
   syntax: "public DatabaseAccountOfferType databaseAccountOfferType()"
   returns:
     description: "the databaseAccountOfferType value."

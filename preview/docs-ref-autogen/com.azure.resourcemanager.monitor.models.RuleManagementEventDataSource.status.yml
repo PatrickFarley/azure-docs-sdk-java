@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.RuleManagementEventDataSource.status()"
   name: "status()"
   nameWithType: "RuleManagementEventDataSource.status()"
-  summary: "Get the status property: The status of the operation that should be checked for. If no status is provided, any\n status will match."
+  summary: "Get the status property: The status of the operation that should be checked for. If no status is provided, any status will match."
   syntax: "public String status()"
   returns:
     description: "the status value."

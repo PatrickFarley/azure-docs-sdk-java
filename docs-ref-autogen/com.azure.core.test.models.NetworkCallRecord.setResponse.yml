@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.models.NetworkCallRecord.setResponse(Map<String,String> response)"
   name: "setResponse(Map<String,String> response)"
   nameWithType: "NetworkCallRecord.setResponse(Map<String,String> response)"
-  summary: "Sets the contents of the HTTP response as a map of its HTTP headers and response body. The HTTP response body is\n mapped under key \"body\"."
+  summary: "Sets the contents of the HTTP response as a map of its HTTP headers and response body. The HTTP response body is mapped under key \"body\"."
   parameters:
   - description: "Contents of the HTTP response."
     name: "response"

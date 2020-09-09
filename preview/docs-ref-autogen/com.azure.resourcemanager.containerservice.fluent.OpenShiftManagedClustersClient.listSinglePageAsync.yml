@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.OpenShiftManagedClustersClient.listSinglePageAsync()"
   name: "listSinglePageAsync()"
   nameWithType: "OpenShiftManagedClustersClient.listSinglePageAsync()"
-  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each\n OpenShift managed cluster."
+  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each OpenShift managed cluster."
   syntax: "public Mono<PagedResponse<OpenShiftManagedClusterInner>> listSinglePageAsync()"
   returns:
     description: "a list of OpenShift managed clusters in the specified subscription."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.OpenShiftManagedClustersClient.listSinglePageAsync(Context context)"
   name: "listSinglePageAsync(Context context)"
   nameWithType: "OpenShiftManagedClustersClient.listSinglePageAsync(Context context)"
-  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each\n OpenShift managed cluster."
+  summary: "Gets a list of OpenShift managed clusters in the specified subscription. The operation returns properties of each OpenShift managed cluster."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

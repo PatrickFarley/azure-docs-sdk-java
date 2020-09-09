@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.overallRecommendationServiceLevelObjectiveId()"
   name: "overallRecommendationServiceLevelObjectiveId()"
   nameWithType: "ServiceTierAdvisorInner.overallRecommendationServiceLevelObjectiveId()"
-  summary: "Get the overallRecommendationServiceLevelObjectiveId property: Gets or sets\n overallRecommendationServiceLevelObjectiveId for service tier advisor."
+  summary: "Get the overallRecommendationServiceLevelObjectiveId property: Gets or sets overallRecommendationServiceLevelObjectiveId for service tier advisor."
   syntax: "public UUID overallRecommendationServiceLevelObjectiveId()"
   returns:
     description: "the overallRecommendationServiceLevelObjectiveId value."

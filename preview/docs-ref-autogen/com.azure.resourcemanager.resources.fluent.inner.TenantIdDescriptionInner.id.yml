@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.TenantIdDescriptionInner.id()"
   name: "id()"
   nameWithType: "TenantIdDescriptionInner.id()"
-  summary: "Get the id property: The fully qualified ID of the tenant. For example,\n /tenants/00000000-0000-0000-0000-000000000000."
+  summary: "Get the id property: The fully qualified ID of the tenant. For example, /tenants/00000000-0000-0000-0000-000000000000."
   syntax: "public String id()"
   returns:
     description: "the id value."

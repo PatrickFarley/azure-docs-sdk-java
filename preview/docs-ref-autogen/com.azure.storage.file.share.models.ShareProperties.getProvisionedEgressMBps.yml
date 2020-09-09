@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareProperties.getProvisionedEgressMBps()"
   name: "getProvisionedEgressMBps()"
   nameWithType: "ShareProperties.getProvisionedEgressMBps()"
-  summary: "Get the provisionedEgressMBps property: The provisionedEgressMBps\n property."
+  summary: "Get the provisionedEgressMBps property: The provisionedEgressMBps property."
   syntax: "public Integer getProvisionedEgressMBps()"
   returns:
     description: "the provisionedEgressMBps value."

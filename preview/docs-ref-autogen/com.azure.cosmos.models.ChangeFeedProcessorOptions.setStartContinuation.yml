@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.models.ChangeFeedProcessorOptions.setStartContinuation(String startContinuation)"
   name: "setStartContinuation(String startContinuation)"
   nameWithType: "ChangeFeedProcessorOptions.setStartContinuation(String startContinuation)"
-  summary: "Sets the start request continuation token to start looking for changes after.\n <p>\n This option can be used when lease store is not initialized and it is ignored if a lease item exists and\n has continuation token that is not null. If this is specified, both StartTime and StartFromBeginning are ignored."
+  summary: "Sets the start request continuation token to start looking for changes after.\n\nThis option can be used when lease store is not initialized and it is ignored if a lease item exists and has continuation token that is not null. If this is specified, both StartTime and StartFromBeginning are ignored."
   parameters:
   - description: "the start request continuation token to start looking for changes after."
     name: "startContinuation"

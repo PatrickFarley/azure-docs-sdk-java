@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareAsyncClient.getAccessPolicy()"
   name: "getAccessPolicy()"
   nameWithType: "ShareAsyncClient.getAccessPolicy()"
-  summary: "Retrieves stored access policies specified for the share.\n\n <p><strong>Code Samples</strong></p>\n\n <p>List the stored access policies</p>\n\n <pre>\n shareAsyncClient.getAccessPolicy&#40;&#41;\n     .subscribe&#40;result -&gt; System.out.printf&#40;&quot;Access policy %s allows these permissions: %s&quot;, result.getId&#40;&#41;,\n         result.getAccessPolicy&#40;&#41;.getPermissions&#40;&#41;&#41;\n     &#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-acl\">Azure Docs</a>.</p>"
+  summary: "Retrieves stored access policies specified for the share.\n\n**Code Samples**\n\nList the stored access policies\n\n```java\nshareAsyncClient.getAccessPolicy()\n     .subscribe(result -> System.out.printf(\"Access policy %s allows these permissions: %s\", result.getId(),\n         result.getAccessPolicy().getPermissions())\n     );\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-acl"
   syntax: "public PagedFlux<ShareSignedIdentifier> getAccessPolicy()"
   returns:
     description: "The stored access policies specified on the queue."

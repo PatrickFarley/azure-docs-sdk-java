@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceAgentPoolProfile.name()"
   name: "name()"
   nameWithType: "ContainerServiceAgentPoolProfile.name()"
-  summary: "Get the name property: Unique name of the agent pool profile in the context of the subscription and resource\n group."
+  summary: "Get the name property: Unique name of the agent pool profile in the context of the subscription and resource group."
   syntax: "public String name()"
   returns:
     description: "the name value."

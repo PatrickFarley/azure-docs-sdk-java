@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.mediaservices.v2018_07_01.ContentKeyPolicies.listAsync(String resourceGroupName, String accountName)"
   name: "listAsync(String resourceGroupName, String accountName)"
   nameWithType: "ContentKeyPolicies.listAsync(String resourceGroupName, String accountName)"
-  summary: "List Content Key Policies.\n Lists the Content Key Policies in the account."
+  summary: "List Content Key Policies. Lists the Content Key Policies in the account."
   parameters:
   - description: "The name of the resource group within the Azure subscription."
     name: "resourceGroupName"

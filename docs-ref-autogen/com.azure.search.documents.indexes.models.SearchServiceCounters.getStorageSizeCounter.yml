@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchServiceCounters.getStorageSizeCounter()"
   name: "getStorageSizeCounter()"
   nameWithType: "SearchServiceCounters.getStorageSizeCounter()"
-  summary: "Get the storageSizeCounter property: Total size of used storage in\n bytes."
+  summary: "Get the storageSizeCounter property: Total size of used storage in bytes."
   syntax: "public ResourceCounter getStorageSizeCounter()"
   returns:
     description: "the storageSizeCounter value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.remove(Object element)"
   name: "remove(Object element)"
   nameWithType: "Multiset<E>.remove(Object element)"
-  summary: "Removes a <i>single</i> occurrence of the specified element from this multiset, if present.\n\n <p>This method refines <xref uid=\"Collection#remove\" data-throw-if-not-resolved=\"false\">Collection#remove</xref> to further specify that it <b>may not</b>\n throw an exception in response to <code>element</code> being null or of the wrong type.\n\n <p>To both remove the element and obtain the previous count of that element, use <xref uid=\"#remove(Object, int)\" data-throw-if-not-resolved=\"false\">remove</xref><code>(element, 1)</code> instead."
+  summary: "Removes a *single* occurrence of the specified element from this multiset, if present.\n\nThis method refines <xref uid=\"java.util.Collection.remove\" data-throw-if-not-resolved=\"false\">Collection#remove</xref> to further specify that it **may not** throw an exception in response to `element` being null or of the wrong type.\n\nTo both remove the element and obtain the previous count of that element, use <xref uid=\"com.azure.cosmos.implementation.guava25.collect.Multiset.remove(java.lang.Object,int)\" data-throw-if-not-resolved=\"false\">remove</xref>`(element, 1)` instead."
   parameters:
   - description: "the element to remove one occurrence of"
     name: "element"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.remove(Object element, int occurrences)"
   name: "remove(Object element, int occurrences)"
   nameWithType: "Multiset<E>.remove(Object element, int occurrences)"
-  summary: "Removes a number of occurrences of the specified element from this multiset. If the multiset\n contains fewer than this number of occurrences to begin with, all occurrences will be removed.\n Note that if <code>occurrences == 1</code>, this is functionally equivalent to the call <code>\n remove(element)</code>."
+  summary: "Removes a number of occurrences of the specified element from this multiset. If the multiset contains fewer than this number of occurrences to begin with, all occurrences will be removed. Note that if `occurrences == 1`, this is functionally equivalent to the call `remove(element)`."
   parameters:
   - description: "the element to conditionally remove occurrences of"
     name: "element"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileSystemProvider.delete(Path path)"
   name: "delete(Path path)"
   nameWithType: "AzureFileSystemProvider.delete(Path path)"
-  summary: "Deletes the specified resource.\n <p>\n This method is not atomic with respect to other file system operations. It is possible to delete a file in use by\n another process, and doing so will not immediately invalidate any channels open to that file--they will simply\n start to fail. Root directories cannot be deleted even when empty."
+  summary: "Deletes the specified resource.\n\nThis method is not atomic with respect to other file system operations. It is possible to delete a file in use by another process, and doing so will not immediately invalidate any channels open to that file--they will simply start to fail. Root directories cannot be deleted even when empty."
   overridden: "java.nio.file.spi.FileSystemProvider.delete(java.nio.file.Path)"
   parameters:
   - description: "the path to the file to delete"

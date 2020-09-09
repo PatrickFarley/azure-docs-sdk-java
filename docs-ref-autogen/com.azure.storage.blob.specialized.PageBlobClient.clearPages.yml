@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.PageBlobClient.clearPages(PageRange pageRange)"
   name: "clearPages(PageRange pageRange)"
   nameWithType: "PageBlobClient.clearPages(PageRange pageRange)"
-  summary: "Frees the specified pages from the page blob. The size of the range must be a multiple of 512. For more\n information, see the <a href=\"https://docs.microsoft.com/rest/api/storageservices/put-page\">Azure Docs</a>.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n PageRange pageRange = new PageRange&#40;&#41;\n     .setStart&#40;0&#41;\n     .setEnd&#40;511&#41;;\n \n PageBlobItem pageBlob = client.clearPages&#40;pageRange&#41;;\n \n System.out.printf&#40;&quot;Cleared page blob with sequence number %s%n&quot;, pageBlob.getBlobSequenceNumber&#40;&#41;&#41;;\n </pre>"
+  summary: "Frees the specified pages from the page blob. The size of the range must be a multiple of 512. For more information, see the [Azure Docs][].\n\n**Code Samples**\n\n```java\nPageRange pageRange = new PageRange()\n     .setStart(0)\n     .setEnd(511);\n \n PageBlobItem pageBlob = client.clearPages(pageRange);\n \n System.out.printf(\"Cleared page blob with sequence number %s%n\", pageBlob.getBlobSequenceNumber());\n```\n\n\n[Azure Docs]: https://docs.microsoft.com/rest/api/storageservices/put-page"
   parameters:
   - description: "A <xref uid=\"com.azure.storage.blob.models.PageRange\" data-throw-if-not-resolved=\"false\">PageRange</xref> object. Given that pages must be aligned with 512-byte boundaries, the start\n offset must be a modulus of 512 and the end offset must be a modulus of 512 - 1. Examples of valid byte ranges\n are 0-511, 512-1023, etc."
     name: "pageRange"

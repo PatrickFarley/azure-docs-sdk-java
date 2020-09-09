@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ConsistencyPolicy.getMaxStalenessInterval()"
   name: "getMaxStalenessInterval()"
   nameWithType: "ConsistencyPolicy.getMaxStalenessInterval()"
-  summary: "Gets the in bounded staleness consistency, the maximum allowed staleness in terms time interval.\n Resolution is in seconds."
+  summary: "Gets the in bounded staleness consistency, the maximum allowed staleness in terms time interval. Resolution is in seconds."
   syntax: "public Duration getMaxStalenessInterval()"
   returns:
     description: "the max staleness prefix."

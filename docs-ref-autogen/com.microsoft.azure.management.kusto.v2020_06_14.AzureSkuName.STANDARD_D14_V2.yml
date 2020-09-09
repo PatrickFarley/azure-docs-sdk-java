@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.kusto.v2020_06_14.AzureSkuName.STANDARD_D14_V2"
   name: "STANDARD_D14_V2"
   nameWithType: "AzureSkuName.STANDARD_D14_V2"
-  summary: "Static value Standard_D14_v2 for AzureSkuName."
+  summary: "Static value Standard\\_D14\\_v2 for AzureSkuName."
   syntax: "public static final AzureSkuName STANDARD_D14_V2"
 type: "field"
 metadata: {}

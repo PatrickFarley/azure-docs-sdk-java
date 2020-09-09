@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.size(Iterator<?> iterator)"
   name: "size(Iterator<?> iterator)"
   nameWithType: "Iterators.size(Iterator<?> iterator)"
-  summary: "Returns the number of elements remaining in <code>iterator</code>. The iterator will be left\n exhausted: its <code>hasNext()</code> method will return <code>false</code>."
+  summary: "Returns the number of elements remaining in `iterator`. The iterator will be left exhausted: its `hasNext()` method will return `false`."
   parameters:
   - name: "iterator"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

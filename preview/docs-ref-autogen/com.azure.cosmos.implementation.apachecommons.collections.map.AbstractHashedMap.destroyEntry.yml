@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.destroyEntry(AbstractHashedMap.HashEntry<K,V> entry)"
   name: "destroyEntry(AbstractHashedMap.HashEntry<K,V> entry)"
   nameWithType: "AbstractHashedMap<K,V>.destroyEntry(AbstractHashedMap.HashEntry<K,V> entry)"
-  summary: "Kills an entry ready for the garbage collector.\n <p>\n This implementation prepares the HashEntry for garbage collection.\n Subclasses can override this to implement caching (override clear as well)."
+  summary: "Kills an entry ready for the garbage collector.\n\nThis implementation prepares the HashEntry for garbage collection. Subclasses can override this to implement caching (override clear as well)."
   parameters:
   - description: "the entry to destroy"
     name: "entry"

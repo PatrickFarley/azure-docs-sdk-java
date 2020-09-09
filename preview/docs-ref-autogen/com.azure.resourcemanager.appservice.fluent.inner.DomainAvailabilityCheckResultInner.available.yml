@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.DomainAvailabilityCheckResultInner.available()"
   name: "available()"
   nameWithType: "DomainAvailabilityCheckResultInner.available()"
-  summary: "Get the available property: &lt;code&gt;true&lt;/code&gt; if domain can be purchased using CreateDomain API;\n otherwise, &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the available property: <code>true</code> if domain can be purchased using CreateDomain API; otherwise, <code>false</code>."
   syntax: "public Boolean available()"
   returns:
     description: "the available value."

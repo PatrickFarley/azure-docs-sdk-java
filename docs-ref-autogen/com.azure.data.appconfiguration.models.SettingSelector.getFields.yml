@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.appconfiguration.models.SettingSelector.getFields()"
   name: "getFields()"
   nameWithType: "SettingSelector.getFields()"
-  summary: "Gets the fields on <xref uid=\"ConfigurationSetting\" data-throw-if-not-resolved=\"false\">ConfigurationSetting</xref> to return from the GET request. If none are set, the service\n returns the ConfigurationSettings with all of their fields populated."
+  summary: "Gets the fields on <xref uid=\"com.azure.data.appconfiguration.models.ConfigurationSetting\" data-throw-if-not-resolved=\"false\">ConfigurationSetting</xref> to return from the GET request. If none are set, the service returns the ConfigurationSettings with all of their fields populated."
   syntax: "public SettingFields[] getFields()"
   returns:
     description: "The set of <xref uid=\"com.azure.data.appconfiguration.models.ConfigurationSetting\" data-throw-if-not-resolved=\"false\">ConfigurationSetting</xref> fields to return for a GET request."

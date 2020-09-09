@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ScoringFunction.setInterpolation(ScoringFunctionInterpolation interpolation)"
   name: "setInterpolation(ScoringFunctionInterpolation interpolation)"
   nameWithType: "ScoringFunction.setInterpolation(ScoringFunctionInterpolation interpolation)"
-  summary: "Set the interpolation property: A value indicating how boosting will be interpolated across document scores;\n defaults to \"Linear\"."
+  summary: "Set the interpolation property: A value indicating how boosting will be interpolated across document scores; defaults to \"Linear\"."
   parameters:
   - description: "the interpolation value to set."
     name: "interpolation"

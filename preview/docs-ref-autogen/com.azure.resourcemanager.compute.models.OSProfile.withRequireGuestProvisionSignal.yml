@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.OSProfile.withRequireGuestProvisionSignal(Boolean requireGuestProvisionSignal)"
   name: "withRequireGuestProvisionSignal(Boolean requireGuestProvisionSignal)"
   nameWithType: "OSProfile.withRequireGuestProvisionSignal(Boolean requireGuestProvisionSignal)"
-  summary: "Set the requireGuestProvisionSignal property: Specifies whether the guest provision signal is required from the\n virtual machine."
+  summary: "Set the requireGuestProvisionSignal property: Specifies whether the guest provision signal is required from the virtual machine."
   parameters:
   - description: "the requireGuestProvisionSignal value to set."
     name: "requireGuestProvisionSignal"

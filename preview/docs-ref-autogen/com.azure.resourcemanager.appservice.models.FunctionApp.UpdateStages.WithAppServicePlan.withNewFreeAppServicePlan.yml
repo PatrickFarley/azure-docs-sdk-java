@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.FunctionApp.UpdateStages.WithAppServicePlan.withNewFreeAppServicePlan()"
   name: "withNewFreeAppServicePlan()"
   nameWithType: "FunctionApp.UpdateStages.WithAppServicePlan.withNewFreeAppServicePlan()"
-  summary: "Creates a new Windows free app service plan. This will fail if there are 10 or more free plans in the\n current subscription."
+  summary: "Creates a new Windows free app service plan. This will fail if there are 10 or more free plans in the current subscription."
   syntax: "public abstract FunctionApp.Update withNewFreeAppServicePlan()"
   returns:
     description: "the next stage of the function app update"

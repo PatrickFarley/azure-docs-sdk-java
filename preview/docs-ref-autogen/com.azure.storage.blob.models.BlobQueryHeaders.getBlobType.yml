@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobQueryHeaders.getBlobType()"
   name: "getBlobType()"
   nameWithType: "BlobQueryHeaders.getBlobType()"
-  summary: "Get the blobType property: The blob's type. Possible values include:\n 'BlockBlob', 'PageBlob', 'AppendBlob'."
+  summary: "Get the blobType property: The blob's type. Possible values include: 'BlockBlob', 'PageBlob', 'AppendBlob'."
   syntax: "public BlobType getBlobType()"
   returns:
     description: "the blobType value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.operationsmanagement.v2015_11_01_preview.SolutionPlan.product()"
   name: "product()"
   nameWithType: "SolutionPlan.product()"
-  summary: "Get name of the solution to enabled/add. For Microsoft published gallery solution it should be in the format of OMSGallery/&lt;solutionType&gt;. This is case sensitive."
+  summary: "Get name of the solution to enabled/add. For Microsoft published gallery solution it should be in the format of OMSGallery/<solutionType>. This is case sensitive."
   syntax: "public String product()"
   returns:
     description: "the product value"

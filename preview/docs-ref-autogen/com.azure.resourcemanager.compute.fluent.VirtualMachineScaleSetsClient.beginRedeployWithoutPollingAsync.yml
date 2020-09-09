@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.beginRedeployWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
   name: "beginRedeployWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
   nameWithType: "VirtualMachineScaleSetsClient.beginRedeployWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds)"
-  summary: "Shuts down all the virtual machines in the virtual machine scale set, moves them to a new node, and powers them\n back on."
+  summary: "Shuts down all the virtual machines in the virtual machine scale set, moves them to a new node, and powers them back on."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.beginRedeployWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
   name: "beginRedeployWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
   nameWithType: "VirtualMachineScaleSetsClient.beginRedeployWithoutPollingAsync(String resourceGroupName, String vmScaleSetName, List<String> instanceIds, Context context)"
-  summary: "Shuts down all the virtual machines in the virtual machine scale set, moves them to a new node, and powers them\n back on."
+  summary: "Shuts down all the virtual machines in the virtual machine scale set, moves them to a new node, and powers them back on."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

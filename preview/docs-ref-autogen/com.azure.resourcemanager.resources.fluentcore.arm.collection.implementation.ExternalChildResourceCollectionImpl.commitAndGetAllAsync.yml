@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.collection.implementation.ExternalChildResourceCollectionImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.commitAndGetAllAsync()"
   name: "commitAndGetAllAsync()"
   nameWithType: "ExternalChildResourceCollectionImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.commitAndGetAllAsync()"
-  summary: "Commits the changes in the external child resource childCollection.\n <p/>\n This method returns a observable stream, either its observer's onError will be called with\n <xref uid=\"RuntimeException\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> if some resources failed to commit or onNext will be called if all resources\n committed successfully."
+  summary: "Commits the changes in the external child resource childCollection.\n\nThis method returns a observable stream, either its observer's onError will be called with <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> if some resources failed to commit or onNext will be called if all resources committed successfully."
   syntax: "public Mono<List<FluentModelTImpl>> commitAndGetAllAsync()"
   returns:
     description: "the Mono stream"

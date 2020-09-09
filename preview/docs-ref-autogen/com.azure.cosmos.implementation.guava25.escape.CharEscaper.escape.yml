@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.escape.CharEscaper.escape(char c)"
   name: "escape(char c)"
   nameWithType: "CharEscaper.escape(char c)"
-  summary: "Returns the escaped form of the given character, or <code>null</code> if this character does not\n need to be escaped. If an empty array is returned, this effectively strips the input character\n from the resulting text.\n\n <p>If the character does not need to be escaped, this method should return <code>null</code>, rather\n than a one-character array containing the character itself. This enables the escaping algorithm\n to perform more efficiently.\n\n <p>An escaper is expected to be able to deal with any <code>char</code> value, so this method should\n not throw any exceptions."
+  summary: "Returns the escaped form of the given character, or `null` if this character does not need to be escaped. If an empty array is returned, this effectively strips the input character from the resulting text.\n\nIf the character does not need to be escaped, this method should return `null`, rather than a one-character array containing the character itself. This enables the escaping algorithm to perform more efficiently.\n\nAn escaper is expected to be able to deal with any `char` value, so this method should not throw any exceptions."
   parameters:
   - description: "the character to escape if necessary"
     name: "c"

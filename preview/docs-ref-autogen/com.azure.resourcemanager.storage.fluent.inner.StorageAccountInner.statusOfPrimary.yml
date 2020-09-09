@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.StorageAccountInner.statusOfPrimary()"
   name: "statusOfPrimary()"
   nameWithType: "StorageAccountInner.statusOfPrimary()"
-  summary: "Get the statusOfPrimary property: Gets the status indicating whether the primary location of the storage account\n is available or unavailable."
+  summary: "Get the statusOfPrimary property: Gets the status indicating whether the primary location of the storage account is available or unavailable."
   syntax: "public AccountStatus statusOfPrimary()"
   returns:
     description: "the statusOfPrimary value."

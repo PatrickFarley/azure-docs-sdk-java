@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobContainerItemProperties.getPublicAccess()"
   name: "getPublicAccess()"
   nameWithType: "BlobContainerItemProperties.getPublicAccess()"
-  summary: "Get the publicAccess property: Possible values include: 'container',\n 'blob'."
+  summary: "Get the publicAccess property: Possible values include: 'container', 'blob'."
   syntax: "public PublicAccessType getPublicAccess()"
   returns:
     description: "the publicAccess value."

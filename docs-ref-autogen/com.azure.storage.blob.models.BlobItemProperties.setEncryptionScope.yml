@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.setEncryptionScope(String encryptionScope)"
   name: "setEncryptionScope(String encryptionScope)"
   nameWithType: "BlobItemProperties.setEncryptionScope(String encryptionScope)"
-  summary: "Set the encryptionScope property: The name of the encryption scope under\n which the blob is encrypted."
+  summary: "Set the encryptionScope property: The name of the encryption scope under which the blob is encrypted."
   parameters:
   - description: "the encryptionScope value to set."
     name: "encryptionScope"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.lockImmutabilityPolicy(String resourceGroupName, String accountName, String containerName, String ifMatch)"
   name: "lockImmutabilityPolicy(String resourceGroupName, String accountName, String containerName, String ifMatch)"
   nameWithType: "BlobContainersClient.lockImmutabilityPolicy(String resourceGroupName, String accountName, String containerName, String ifMatch)"
-  summary: "Sets the ImmutabilityPolicy to Locked state. The only action allowed on a Locked policy is\n ExtendImmutabilityPolicy action. ETag in If-Match is required for this operation."
+  summary: "Sets the ImmutabilityPolicy to Locked state. The only action allowed on a Locked policy is ExtendImmutabilityPolicy action. ETag in If-Match is required for this operation."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.BlobContainersClient.lockImmutabilityPolicy(String resourceGroupName, String accountName, String containerName, String ifMatch, Context context)"
   name: "lockImmutabilityPolicy(String resourceGroupName, String accountName, String containerName, String ifMatch, Context context)"
   nameWithType: "BlobContainersClient.lockImmutabilityPolicy(String resourceGroupName, String accountName, String containerName, String ifMatch, Context context)"
-  summary: "Sets the ImmutabilityPolicy to Locked state. The only action allowed on a Locked policy is\n ExtendImmutabilityPolicy action. ETag in If-Match is required for this operation."
+  summary: "Sets the ImmutabilityPolicy to Locked state. The only action allowed on a Locked policy is ExtendImmutabilityPolicy action. ETag in If-Match is required for this operation."
   parameters:
   - description: "The name of the resource group within the user's subscription. The name is case\n     insensitive."
     name: "resourceGroupName"

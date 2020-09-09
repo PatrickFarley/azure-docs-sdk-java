@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableListMultimap<K,V>.inverse()"
   name: "inverse()"
   nameWithType: "ImmutableListMultimap<K,V>.inverse()"
-  summary: "Returns an immutable multimap which is the inverse of this one. For every key-value mapping in\n the original, the result will have a mapping with key and value reversed.\n\n <p>Because an inverse of a list multimap can contain multiple pairs with the same key and\n value, this method returns an <code>ImmutableListMultimap</code> rather than the <code>\n ImmutableMultimap</code> specified in the <code>ImmutableMultimap</code> class."
+  summary: "Returns an immutable multimap which is the inverse of this one. For every key-value mapping in the original, the result will have a mapping with key and value reversed.\n\nBecause an inverse of a list multimap can contain multiple pairs with the same key and value, this method returns an `ImmutableListMultimap` rather than the `ImmutableMultimap` specified in the `ImmutableMultimap` class."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultimap.inverse()"
   syntax: "public ImmutableListMultimap<V,K> inverse()"
   returns:

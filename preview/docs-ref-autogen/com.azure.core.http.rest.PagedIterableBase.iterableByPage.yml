@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.rest.PagedIterableBase<T,P>.iterableByPage()"
   name: "iterableByPage()"
   nameWithType: "PagedIterableBase<T,P>.iterableByPage()"
-  summary: "Provides <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> API for{ @link PagedResponse}\n It will provide same collection of <code>T</code> values from starting if called multiple times."
+  summary: "Provides <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> API for\\{ @link PagedResponse\\} It will provide same collection of `T` values from starting if called multiple times."
   syntax: "public Iterable<P> iterableByPage()"
   returns:
     description: "<xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> interface"
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.core.http.rest.PagedIterableBase<T,P>.iterableByPage(String continuationToken)"
   name: "iterableByPage(String continuationToken)"
   nameWithType: "PagedIterableBase<T,P>.iterableByPage(String continuationToken)"
-  summary: "Provides <xref uid=\"Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> API for <xref uid=\"PagedResponse\" data-throw-if-not-resolved=\"false\">PagedResponse</xref>, starting from the next page associated with the given\n continuation token. To start from first page, use <xref uid=\"#streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead.\n It will provide same collection of T values from starting if called multiple times."
+  summary: "Provides <xref uid=\"java.lang.Iterable\" data-throw-if-not-resolved=\"false\">Iterable</xref> API for <xref uid=\"com.azure.core.http.rest.PagedResponse\" data-throw-if-not-resolved=\"false\">PagedResponse</xref>, starting from the next page associated with the given continuation token. To start from first page, use <xref uid=\"com.azure.core.http.rest.PagedIterableBase.streamByPage()\" data-throw-if-not-resolved=\"false\">#streamByPage()</xref> instead. It will provide same collection of T values from starting if called multiple times."
   parameters:
   - description: "The continuation token used to fetch the next page"
     name: "continuationToken"

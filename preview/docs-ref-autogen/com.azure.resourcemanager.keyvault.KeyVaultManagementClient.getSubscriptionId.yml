@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.KeyVaultManagementClient.getSubscriptionId()"
   name: "getSubscriptionId()"
   nameWithType: "KeyVaultManagementClient.getSubscriptionId()"
-  summary: "Gets Subscription credentials which uniquely identify Microsoft Azure subscription. The subscription ID forms\n part of the URI for every service call."
+  summary: "Gets Subscription credentials which uniquely identify Microsoft Azure subscription. The subscription ID forms part of the URI for every service call."
   syntax: "public String getSubscriptionId()"
   returns:
     description: "the subscriptionId value."

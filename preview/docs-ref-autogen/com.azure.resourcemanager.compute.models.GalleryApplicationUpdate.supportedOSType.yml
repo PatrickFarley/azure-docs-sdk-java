@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.GalleryApplicationUpdate.supportedOSType()"
   name: "supportedOSType()"
   nameWithType: "GalleryApplicationUpdate.supportedOSType()"
-  summary: "Get the supportedOSType property: This property allows you to specify the supported type of the OS that\n application is built for. &lt;br&gt;&lt;br&gt; Possible values are: &lt;br&gt;&lt;br&gt; **Windows**\n &lt;br&gt;&lt;br&gt; **Linux**."
+  summary: "Get the supportedOSType property: This property allows you to specify the supported type of the OS that application is built for. <br><br> Possible values are: <br><br> \\*\\*Windows\\*\\* <br><br> \\*\\*Linux\\*\\*."
   syntax: "public OperatingSystemTypes supportedOSType()"
   returns:
     description: "the supportedOSType value."

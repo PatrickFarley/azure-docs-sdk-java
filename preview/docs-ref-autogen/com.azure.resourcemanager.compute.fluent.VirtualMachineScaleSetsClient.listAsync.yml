@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.listAsync()"
   name: "listAsync()"
   nameWithType: "VirtualMachineScaleSetsClient.listAsync()"
-  summary: "Gets a list of all VM Scale Sets in the subscription, regardless of the associated resource group. Use nextLink\n property in the response to get the next page of VM Scale Sets. Do this till nextLink is null to fetch all the VM\n Scale Sets."
+  summary: "Gets a list of all VM Scale Sets in the subscription, regardless of the associated resource group. Use nextLink property in the response to get the next page of VM Scale Sets. Do this till nextLink is null to fetch all the VM Scale Sets."
   syntax: "public PagedFlux<VirtualMachineScaleSetInner> listAsync()"
   returns:
     description: "a list of all VM Scale Sets in the subscription, regardless of the associated resource group."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachineScaleSetsClient.listAsync(Context context)"
   name: "listAsync(Context context)"
   nameWithType: "VirtualMachineScaleSetsClient.listAsync(Context context)"
-  summary: "Gets a list of all VM Scale Sets in the subscription, regardless of the associated resource group. Use nextLink\n property in the response to get the next page of VM Scale Sets. Do this till nextLink is null to fetch all the VM\n Scale Sets."
+  summary: "Gets a list of all VM Scale Sets in the subscription, regardless of the associated resource group. Use nextLink property in the response to get the next page of VM Scale Sets. Do this till nextLink is null to fetch all the VM Scale Sets."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

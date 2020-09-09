@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkPeering.DefinitionStages.WithRemoteNetwork.withRemoteNetwork(Network network)"
   name: "withRemoteNetwork(Network network)"
   nameWithType: "NetworkPeering.DefinitionStages.WithRemoteNetwork.withRemoteNetwork(Network network)"
-  summary: "Specifies the remote network to peer with.\n\n <p>The remote network will have the matching peering associated with it automatically."
+  summary: "Specifies the remote network to peer with.\n\nThe remote network will have the matching peering associated with it automatically."
   parameters:
   - description: "an existing network"
     name: "network"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkPeering.DefinitionStages.WithRemoteNetwork.withRemoteNetwork(String resourceId)"
   name: "withRemoteNetwork(String resourceId)"
   nameWithType: "NetworkPeering.DefinitionStages.WithRemoteNetwork.withRemoteNetwork(String resourceId)"
-  summary: "Specifies the remote network to peer with.\n\n <p>The remote network will have the matching peering associated with it automatically."
+  summary: "Specifies the remote network to peer with.\n\nThe remote network will have the matching peering associated with it automatically."
   parameters:
   - description: "the resource ID of an existing network"
     name: "resourceId"

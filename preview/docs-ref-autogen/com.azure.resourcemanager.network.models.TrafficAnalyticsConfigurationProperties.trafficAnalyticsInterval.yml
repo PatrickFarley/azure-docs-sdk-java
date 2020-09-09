@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.TrafficAnalyticsConfigurationProperties.trafficAnalyticsInterval()"
   name: "trafficAnalyticsInterval()"
   nameWithType: "TrafficAnalyticsConfigurationProperties.trafficAnalyticsInterval()"
-  summary: "Get the trafficAnalyticsInterval property: The interval in minutes which would decide how frequently TA service\n should do flow analytics."
+  summary: "Get the trafficAnalyticsInterval property: The interval in minutes which would decide how frequently TA service should do flow analytics."
   syntax: "public Integer trafficAnalyticsInterval()"
   returns:
     description: "the trafficAnalyticsInterval value."

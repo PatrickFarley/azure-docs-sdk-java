@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.StaticWebsite.isEnabled()"
   name: "isEnabled()"
   nameWithType: "StaticWebsite.isEnabled()"
-  summary: "Get the enabled property: Indicates whether this account is hosting a\n static website."
+  summary: "Get the enabled property: Indicates whether this account is hosting a static website."
   syntax: "public boolean isEnabled()"
   returns:
     description: "the enabled value."

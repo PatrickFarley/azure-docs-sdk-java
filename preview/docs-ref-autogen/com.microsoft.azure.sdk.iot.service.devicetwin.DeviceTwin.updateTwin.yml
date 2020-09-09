@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.devicetwin.DeviceTwin.updateTwin(DeviceTwinDevice device)"
   name: "updateTwin(DeviceTwinDevice device)"
   nameWithType: "DeviceTwin.updateTwin(DeviceTwinDevice device)"
-  summary: "This method updates device twin for the specified device.\n\n This API uses the IoT Hub PATCH API when sending updates, but it sends the full twin with each patch update.\n As a result, devices subscribed to twin will receive notifications that each property is changed when this API is called, even\n if only some of the properties were changed.\n\n See <a href=\"https://docs.microsoft.com/en-us/rest/api/iothub/service/twin/updatedevicetwin\">PATCH</a> for more details"
+  summary: "This method updates device twin for the specified device. This API uses the IoT Hub PATCH API when sending updates, but it sends the full twin with each patch update. As a result, devices subscribed to twin will receive notifications that each property is changed when this API is called, even if only some of the properties were changed. See [PATCH][] for more details\n\n\n[PATCH]: https://docs.microsoft.com/en-us/rest/api/iothub/service/twin/updatedevicetwin"
   parameters:
   - description: "The device with a valid id for which device twin is to be updated."
     name: "device"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.setDesiredCallback(TwinChangedCallback onDesiredCallback)"
   name: "setDesiredCallback(TwinChangedCallback onDesiredCallback)"
   nameWithType: "TwinParser.setDesiredCallback(TwinChangedCallback onDesiredCallback)"
-  summary: "Set the callback function to report changes on the `Desired` collection when `TwinParser`\n receives a new json."
+  summary: "Set the callback function to report changes on the \\`Desired\\` collection when \\`TwinParser\\` receives a new json."
   parameters:
   - description: "- Callback function to report changes on the `Desired` collection."
     name: "onDesiredCallback"

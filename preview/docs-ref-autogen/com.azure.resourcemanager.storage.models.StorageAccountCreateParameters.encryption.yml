@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.StorageAccountCreateParameters.encryption()"
   name: "encryption()"
   nameWithType: "StorageAccountCreateParameters.encryption()"
-  summary: "Get the encryption property: Not applicable. Azure Storage encryption is enabled for all storage accounts and\n cannot be disabled."
+  summary: "Get the encryption property: Not applicable. Azure Storage encryption is enabled for all storage accounts and cannot be disabled."
   syntax: "public Encryption encryption()"
   returns:
     description: "the encryption value."

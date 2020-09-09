@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.PatternTokenizer.setGroup(Integer group)"
   name: "setGroup(Integer group)"
   nameWithType: "PatternTokenizer.setGroup(Integer group)"
-  summary: "Set the group property: The zero-based ordinal of the matching group in\n the regular expression pattern to extract into tokens. Use -1 if you\n want to use the entire pattern to split the input into tokens,\n irrespective of matching groups. Default is -1."
+  summary: "Set the group property: The zero-based ordinal of the matching group in the regular expression pattern to extract into tokens. Use -1 if you want to use the entire pattern to split the input into tokens, irrespective of matching groups. Default is -1."
   parameters:
   - description: "the group value to set."
     name: "group"

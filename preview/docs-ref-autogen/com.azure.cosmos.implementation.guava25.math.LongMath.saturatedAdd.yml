@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.LongMath.saturatedAdd(long a, long b)"
   name: "saturatedAdd(long a, long b)"
   nameWithType: "LongMath.saturatedAdd(long a, long b)"
-  summary: "Returns the sum of <code>a</code> and <code>b</code> unless it would overflow or underflow in which case\n <code>Long.MAX_VALUE</code> or <code>Long.MIN_VALUE</code> is returned, respectively."
+  summary: "Returns the sum of `a` and `b` unless it would overflow or underflow in which case `Long.MAX_VALUE` or `Long.MIN_VALUE` is returned, respectively."
   parameters:
   - name: "a"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

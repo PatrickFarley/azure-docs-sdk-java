@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_DS14"
   name: "STANDARD_DS14"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_DS14"
-  summary: "Static value Standard_DS14 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_DS14 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_DS14"
 type: "field"
 metadata: {}

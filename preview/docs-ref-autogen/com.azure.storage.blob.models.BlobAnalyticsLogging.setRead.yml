@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobAnalyticsLogging.setRead(boolean read)"
   name: "setRead(boolean read)"
   nameWithType: "BlobAnalyticsLogging.setRead(boolean read)"
-  summary: "Set the read property: Indicates whether all read requests should be\n logged."
+  summary: "Set the read property: Indicates whether all read requests should be logged."
   parameters:
   - description: "the read value to set."
     name: "read"

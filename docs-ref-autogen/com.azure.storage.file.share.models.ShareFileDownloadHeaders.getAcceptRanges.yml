@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getAcceptRanges()"
   name: "getAcceptRanges()"
   nameWithType: "ShareFileDownloadHeaders.getAcceptRanges()"
-  summary: "Get the acceptRanges property: Indicates that the service supports\n requests for partial file content."
+  summary: "Get the acceptRanges property: Indicates that the service supports requests for partial file content."
   syntax: "public String getAcceptRanges()"
   returns:
     description: "the acceptRanges value."

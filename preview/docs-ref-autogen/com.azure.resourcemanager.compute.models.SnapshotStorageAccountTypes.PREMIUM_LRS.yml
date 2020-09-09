@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.SnapshotStorageAccountTypes.PREMIUM_LRS"
   name: "PREMIUM_LRS"
   nameWithType: "SnapshotStorageAccountTypes.PREMIUM_LRS"
-  summary: "Static value Premium_LRS for SnapshotStorageAccountTypes."
+  summary: "Static value Premium\\_LRS for SnapshotStorageAccountTypes."
   syntax: "public static final SnapshotStorageAccountTypes PREMIUM_LRS"
 type: "field"
 metadata: {}

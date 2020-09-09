@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServicePlanInner.withPerSiteScaling(Boolean perSiteScaling)"
   name: "withPerSiteScaling(Boolean perSiteScaling)"
   nameWithType: "AppServicePlanInner.withPerSiteScaling(Boolean perSiteScaling)"
-  summary: "Set the perSiteScaling property: If &lt;code&gt;true&lt;/code&gt;, apps assigned to this App Service plan can be\n scaled independently. If &lt;code&gt;false&lt;/code&gt;, apps assigned to this App Service plan will scale to all\n instances of the plan."
+  summary: "Set the perSiteScaling property: If <code>true</code>, apps assigned to this App Service plan can be scaled independently. If <code>false</code>, apps assigned to this App Service plan will scale to all instances of the plan."
   parameters:
   - description: "the perSiteScaling value to set."
     name: "perSiteScaling"

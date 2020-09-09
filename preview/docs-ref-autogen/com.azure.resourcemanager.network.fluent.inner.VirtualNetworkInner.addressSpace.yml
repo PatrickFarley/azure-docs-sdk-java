@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkInner.addressSpace()"
   name: "addressSpace()"
   nameWithType: "VirtualNetworkInner.addressSpace()"
-  summary: "Get the addressSpace property: The AddressSpace that contains an array of IP address ranges that can be used by\n subnets."
+  summary: "Get the addressSpace property: The AddressSpace that contains an array of IP address ranges that can be used by subnets."
   syntax: "public AddressSpace addressSpace()"
   returns:
     description: "the addressSpace value."

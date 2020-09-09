@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchOptions.getScoringParameters()"
   name: "getScoringParameters()"
   nameWithType: "SearchOptions.getScoringParameters()"
-  summary: "Get the scoringParameters property: The list of parameter values to be used in scoring functions (for example,\n referencePointParameter) using the format name-values. For example, if the scoring profile defines a function\n with a parameter called 'mylocation' the parameter string would be \"mylocation--122.2,44.8\" (without the quotes)."
+  summary: "Get the scoringParameters property: The list of parameter values to be used in scoring functions (for example, referencePointParameter) using the format name-values. For example, if the scoring profile defines a function with a parameter called 'mylocation' the parameter string would be \"mylocation--122.2,44.8\" (without the quotes)."
   syntax: "public List<String> getScoringParameters()"
   returns:
     description: "the scoringParameters value."

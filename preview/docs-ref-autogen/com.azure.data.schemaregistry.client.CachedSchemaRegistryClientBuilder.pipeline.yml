@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.data.schemaregistry.client.CachedSchemaRegistryClientBuilder.pipeline(HttpPipeline httpPipeline)"
   name: "pipeline(HttpPipeline httpPipeline)"
   nameWithType: "CachedSchemaRegistryClientBuilder.pipeline(HttpPipeline httpPipeline)"
-  summary: "Sets the HTTP pipeline to use for the service client.\n <p>\n If <code>pipeline</code> is set, all other HTTP settings are ignored to build <xref uid=\"CachedSchemaRegistryClient\" data-throw-if-not-resolved=\"false\">CachedSchemaRegistryClient</xref>."
+  summary: "Sets the HTTP pipeline to use for the service client.\n\nIf `pipeline` is set, all other HTTP settings are ignored to build <xref uid=\"com.azure.data.schemaregistry.client.CachedSchemaRegistryClient\" data-throw-if-not-resolved=\"false\">CachedSchemaRegistryClient</xref>."
   parameters:
   - description: "The HTTP pipeline to use for sending service requests and receiving responses."
     name: "httpPipeline"

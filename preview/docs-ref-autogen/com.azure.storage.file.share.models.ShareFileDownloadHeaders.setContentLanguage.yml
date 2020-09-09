@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.setContentLanguage(String contentLanguage)"
   name: "setContentLanguage(String contentLanguage)"
   nameWithType: "ShareFileDownloadHeaders.setContentLanguage(String contentLanguage)"
-  summary: "Set the contentLanguage property: Returns the value that was specified\n for the Content-Language request header."
+  summary: "Set the contentLanguage property: Returns the value that was specified for the Content-Language request header."
   parameters:
   - description: "the contentLanguage value to set."
     name: "contentLanguage"

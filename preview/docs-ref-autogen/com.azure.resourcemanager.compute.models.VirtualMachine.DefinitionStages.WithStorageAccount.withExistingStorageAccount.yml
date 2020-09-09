@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachine.DefinitionStages.WithStorageAccount.withExistingStorageAccount(StorageAccount storageAccount)"
   name: "withExistingStorageAccount(StorageAccount storageAccount)"
   nameWithType: "VirtualMachine.DefinitionStages.WithStorageAccount.withExistingStorageAccount(StorageAccount storageAccount)"
-  summary: "Specifies an existing storage account to put the VM's OS and data disk VHD in.\n\n <p>An OS disk based on a marketplace or a user image (generalized image) will be stored in this storage\n account."
+  summary: "Specifies an existing storage account to put the VM's OS and data disk VHD in.\n\nAn OS disk based on a marketplace or a user image (generalized image) will be stored in this storage account."
   parameters:
   - description: "an existing storage account"
     name: "storageAccount"

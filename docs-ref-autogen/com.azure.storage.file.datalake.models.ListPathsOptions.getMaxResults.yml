@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.ListPathsOptions.getMaxResults()"
   name: "getMaxResults()"
   nameWithType: "ListPathsOptions.getMaxResults()"
-  summary: "Specifies the maximum number of blobs to return, including all BlobPrefix elements. If the request does not\n specify maxResults or specifies a value greater than 5,000, the server will return up to 5,000 items."
+  summary: "Specifies the maximum number of blobs to return, including all BlobPrefix elements. If the request does not specify maxResults or specifies a value greater than 5,000, the server will return up to 5,000 items."
   syntax: "public Integer getMaxResults()"
   returns:
     description: "the number of containers to be returned in a single response"

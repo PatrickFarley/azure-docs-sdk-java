@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ApplicationGatewayPathRuleInner.withProvisioningState(String provisioningState)"
   name: "withProvisioningState(String provisioningState)"
   nameWithType: "ApplicationGatewayPathRuleInner.withProvisioningState(String provisioningState)"
-  summary: "Set the provisioningState property: Path rule of URL path map resource. Possible values are: 'Updating',\n 'Deleting', and 'Failed'."
+  summary: "Set the provisioningState property: Path rule of URL path map resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   parameters:
   - description: "the provisioningState value to set."
     name: "provisioningState"

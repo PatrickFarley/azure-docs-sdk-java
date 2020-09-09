@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.read()"
   name: "read()"
   nameWithType: "ComputerVision.read()"
-  summary: "Use this interface to get the result of a Read operation, employing the state-of-the-art Optical Character\n   Recognition (OCR) algorithms optimized for text-heavy documents. When you use the Read interface, the\n   response contains a field called 'Operation-Location'. The 'Operation-Location' field contains the URL that\n   you must use for your 'GetReadResult' operation to access OCR results.\\u200b."
+  summary: "Use this interface to get the result of a Read operation, employing the state-of-the-art Optical Character Recognition (OCR) algorithms optimized for text-heavy documents. When you use the Read interface, the response contains a field called 'Operation-Location'. The 'Operation-Location' field contains the URL that you must use for your 'GetReadResult' operation to access OCR results.\\\\u200b."
   syntax: "public abstract ComputerVision.ComputerVisionReadDefinitionStages.WithUrl read()"
   returns:
     description: "the first stage of the read call"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.vision.computervision.ComputerVision.read(String url, ReadOptionalParameter readOptionalParameter)"
   name: "read(String url, ReadOptionalParameter readOptionalParameter)"
   nameWithType: "ComputerVision.read(String url, ReadOptionalParameter readOptionalParameter)"
-  summary: "Use this interface to get the result of a Read operation, employing the state-of-the-art Optical Character\n   Recognition (OCR) algorithms optimized for text-heavy documents. When you use the Read interface, the\n   response contains a field called 'Operation-Location'. The 'Operation-Location' field contains the URL that\n   you must use for your 'GetReadResult' operation to access OCR results.\\u200b."
+  summary: "Use this interface to get the result of a Read operation, employing the state-of-the-art Optical Character Recognition (OCR) algorithms optimized for text-heavy documents. When you use the Read interface, the response contains a field called 'Operation-Location'. The 'Operation-Location' field contains the URL that you must use for your 'GetReadResult' operation to access OCR results.\\\\u200b."
   parameters:
   - description: "Publicly reachable URL of an image."
     name: "url"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.AmqpRetryPolicy.calculateRetryDelay(int retryCount, Duration baseDelay, Duration baseJitter, ThreadLocalRandom random)"
   name: "calculateRetryDelay(int retryCount, Duration baseDelay, Duration baseJitter, ThreadLocalRandom random)"
   nameWithType: "AmqpRetryPolicy.calculateRetryDelay(int retryCount, Duration baseDelay, Duration baseJitter, ThreadLocalRandom random)"
-  summary: "Calculates the amount of time to delay before the next retry attempt based on the <code>retryCount</code>,\n <code>baseDelay</code>, and <code>baseJitter</code>."
+  summary: "Calculates the amount of time to delay before the next retry attempt based on the `retryCount`, `baseDelay`, and `baseJitter`."
   parameters:
   - description: "The number of attempts that have been made, including the initial attempt before any retries."
     name: "retryCount"

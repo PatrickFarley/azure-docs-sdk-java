@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Converter<A,B>.convertAll(Iterable<? extends A> fromIterable)"
   name: "convertAll(Iterable<? extends A> fromIterable)"
   nameWithType: "Converter<A,B>.convertAll(Iterable<? extends A> fromIterable)"
-  summary: "Returns an iterable that applies <code>convert</code> to each element of <code>fromIterable</code>. The\n conversion is done lazily.\n\n <p>The returned iterable's iterator supports <code>remove()</code> if the input iterator does. After\n a successful <code>remove()</code> call, <code>fromIterable</code> no longer contains the corresponding\n element."
+  summary: "Returns an iterable that applies `convert` to each element of `fromIterable`. The conversion is done lazily.\n\nThe returned iterable's iterator supports `remove()` if the input iterator does. After a successful `remove()` call, `fromIterable` no longer contains the corresponding element."
   parameters:
   - name: "fromIterable"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends A?alt=? extends A&text=? extends A\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.ISessionHandler.onMessageAsync(IMessageSession session, IMessage message)"
   name: "onMessageAsync(IMessageSession session, IMessage message)"
   nameWithType: "ISessionHandler.onMessageAsync(IMessageSession session, IMessage message)"
-  summary: "The callback for message pump to pass received <xref uid=\"Message\" data-throw-if-not-resolved=\"false\">Message</xref>s."
+  summary: "The callback for message pump to pass received <xref uid=\"com.microsoft.azure.servicebus.Message\" data-throw-if-not-resolved=\"false\">Message</xref>s."
   parameters:
   - description: "The <xref uid=\"com.microsoft.azure.servicebus.MessageSession\" data-throw-if-not-resolved=\"false\">MessageSession</xref> of the message."
     name: "session"

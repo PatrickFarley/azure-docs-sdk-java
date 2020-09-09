@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.SCANDINAVIAN_NORMALIZATION"
   name: "SCANDINAVIAN_NORMALIZATION"
   nameWithType: "TokenFilterName.SCANDINAVIAN_NORMALIZATION"
-  summary: "Static value scandinavian_normalization for TokenFilterName."
+  summary: "Static value scandinavian\\_normalization for TokenFilterName."
   syntax: "public static final TokenFilterName SCANDINAVIAN_NORMALIZATION"
 type: "field"
 metadata: {}

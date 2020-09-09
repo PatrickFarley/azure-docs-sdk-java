@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobClientBase.undelete()"
   name: "undelete()"
   nameWithType: "BlobClientBase.undelete()"
-  summary: "Undelete restores the content and metadata of a soft-deleted blob and/or any associated soft-deleted snapshots.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.undelete&#40;&#41;;\n System.out.println&#40;&quot;Undelete completed&quot;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/undelete-blob\">Azure Docs</a></p>"
+  summary: "Undelete restores the content and metadata of a soft-deleted blob and/or any associated soft-deleted snapshots.\n\n**Code Samples**\n\n```java\nclient.undelete();\n System.out.println(\"Undelete completed\");\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/undelete-blob"
   syntax: "public void undelete()"
 type: "method"
 metadata: {}

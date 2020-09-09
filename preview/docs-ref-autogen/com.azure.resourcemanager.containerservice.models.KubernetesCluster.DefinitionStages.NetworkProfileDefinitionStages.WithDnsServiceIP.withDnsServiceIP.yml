@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.KubernetesCluster.DefinitionStages.NetworkProfileDefinitionStages.WithDnsServiceIP<ParentT>.withDnsServiceIP(String dnsServiceIP)"
   name: "withDnsServiceIP(String dnsServiceIP)"
   nameWithType: "KubernetesCluster.DefinitionStages.NetworkProfileDefinitionStages.WithDnsServiceIP<ParentT>.withDnsServiceIP(String dnsServiceIP)"
-  summary: "Specifies an IP address assigned to the Kubernetes DNS service; it must be within the Kubernetes\n service address range specified in the service CIDR."
+  summary: "Specifies an IP address assigned to the Kubernetes DNS service; it must be within the Kubernetes service address range specified in the service CIDR."
   parameters:
   - description: "the IP address assigned to the Kubernetes DNS service; it must be within the\n     Kubernetes service address range specified in the service CIDR"
     name: "dnsServiceIP"

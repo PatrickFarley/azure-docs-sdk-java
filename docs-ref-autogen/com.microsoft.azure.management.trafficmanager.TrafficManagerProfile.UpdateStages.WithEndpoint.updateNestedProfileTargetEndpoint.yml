@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerProfile.UpdateStages.WithEndpoint.updateNestedProfileTargetEndpoint(String name)"
   name: "updateNestedProfileTargetEndpoint(String name)"
   nameWithType: "TrafficManagerProfile.UpdateStages.WithEndpoint.updateNestedProfileTargetEndpoint(String name)"
-  summary: "Begins the description of an update of an existing nested traffic manager profile endpoint\n in this profile."
+  summary: "Begins the description of an update of an existing nested traffic manager profile endpoint in this profile."
   parameters:
   - description: "the name of the nested profile endpoint"
     name: "name"

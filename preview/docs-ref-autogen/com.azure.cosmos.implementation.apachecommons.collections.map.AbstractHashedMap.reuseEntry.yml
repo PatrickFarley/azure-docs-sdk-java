@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.reuseEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, int hashCode, K key, V value)"
   name: "reuseEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, int hashCode, K key, V value)"
   nameWithType: "AbstractHashedMap<K,V>.reuseEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex, int hashCode, K key, V value)"
-  summary: "Reuses an existing key-value mapping, storing completely new data.\n <p>\n This implementation sets all the data fields on the entry.\n Subclasses could populate additional entry fields."
+  summary: "Reuses an existing key-value mapping, storing completely new data.\n\nThis implementation sets all the data fields on the entry. Subclasses could populate additional entry fields."
   parameters:
   - description: "the entry to update, not null"
     name: "entry"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TextTranslationSkill.setSuggestedFrom(TextTranslationSkillLanguage suggestedFrom)"
   name: "setSuggestedFrom(TextTranslationSkillLanguage suggestedFrom)"
   nameWithType: "TextTranslationSkill.setSuggestedFrom(TextTranslationSkillLanguage suggestedFrom)"
-  summary: "Set the suggestedFrom property: The language code to translate documents from when neither the fromLanguageCode\n input nor the defaultFromLanguageCode parameter are provided, and the automatic language detection is\n unsuccessful. Default is en."
+  summary: "Set the suggestedFrom property: The language code to translate documents from when neither the fromLanguageCode input nor the defaultFromLanguageCode parameter are provided, and the automatic language detection is unsuccessful. Default is en."
   parameters:
   - description: "the suggestedFrom value to set."
     name: "suggestedFrom"

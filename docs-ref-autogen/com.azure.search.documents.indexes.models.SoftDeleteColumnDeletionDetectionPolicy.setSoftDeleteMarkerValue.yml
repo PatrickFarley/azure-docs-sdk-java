@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SoftDeleteColumnDeletionDetectionPolicy.setSoftDeleteMarkerValue(String softDeleteMarkerValue)"
   name: "setSoftDeleteMarkerValue(String softDeleteMarkerValue)"
   nameWithType: "SoftDeleteColumnDeletionDetectionPolicy.setSoftDeleteMarkerValue(String softDeleteMarkerValue)"
-  summary: "Set the softDeleteMarkerValue property: The marker value that identifies\n an item as deleted."
+  summary: "Set the softDeleteMarkerValue property: The marker value that identifies an item as deleted."
   parameters:
   - description: "the softDeleteMarkerValue value to set."
     name: "softDeleteMarkerValue"

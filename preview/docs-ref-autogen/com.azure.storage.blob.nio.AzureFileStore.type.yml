@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileStore.type()"
   name: "type()"
   nameWithType: "AzureFileStore.type()"
-  summary: "Returns the <code>String \"AzureBlobContainer\"</code> to indicate that the file store is backed by a remote blob\n container in Azure Storage."
+  summary: "Returns the `String \"AzureBlobContainer\"` to indicate that the file store is backed by a remote blob container in Azure Storage."
   overridden: "java.nio.file.FileStore.type()"
   syntax: "public String type()"
   returns:

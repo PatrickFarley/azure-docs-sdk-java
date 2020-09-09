@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedSet<E>.<E>toImmutableSortedSet(Comparator<? super E> comparator)"
   name: "<E>toImmutableSortedSet(Comparator<? super E> comparator)"
   nameWithType: "ImmutableSortedSet<E>.<E>toImmutableSortedSet(Comparator<? super E> comparator)"
-  summary: "Returns a <code>Collector</code> that accumulates the input elements into a new <code>\n ImmutableSortedSet</code>, ordered by the specified comparator.\n\n <p>If the elements contain duplicates (according to the comparator), only the first duplicate\n in encounter order will appear in the result."
+  summary: "Returns a `Collector` that accumulates the input elements into a new `ImmutableSortedSet`, ordered by the specified comparator.\n\nIf the elements contain duplicates (according to the comparator), only the first duplicate in encounter order will appear in the result."
   parameters:
   - name: "comparator"
     type: "<xref href=\"java.util.Comparator?alt=java.util.Comparator&text=Comparator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super E?alt=? super E&text=? super E\" data-throw-if-not-resolved=\"False\" />&gt;"

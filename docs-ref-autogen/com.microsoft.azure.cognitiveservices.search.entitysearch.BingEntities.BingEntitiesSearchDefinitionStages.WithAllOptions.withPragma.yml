@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.entitysearch.BingEntities.BingEntitiesSearchDefinitionStages.WithAllOptions.withPragma(String pragma)"
   name: "withPragma(String pragma)"
   nameWithType: "BingEntities.BingEntitiesSearchDefinitionStages.WithAllOptions.withPragma(String pragma)"
-  summary: "By default, Bing returns cached content, if available. To prevent Bing from returning cached content, set\n   the Pragma header to no-cache (for example, Pragma: no-cache)."
+  summary: "By default, Bing returns cached content, if available. To prevent Bing from returning cached content, set the Pragma header to no-cache (for example, Pragma: no-cache)."
   parameters:
   - name: "pragma"
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"

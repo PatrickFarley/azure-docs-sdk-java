@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobItemProperties.setArchiveStatus(ArchiveStatus archiveStatus)"
   name: "setArchiveStatus(ArchiveStatus archiveStatus)"
   nameWithType: "BlobItemProperties.setArchiveStatus(ArchiveStatus archiveStatus)"
-  summary: "Set the archiveStatus property: Possible values include:\n 'rehydrate-pending-to-hot', 'rehydrate-pending-to-cool'."
+  summary: "Set the archiveStatus property: Possible values include: 'rehydrate-pending-to-hot', 'rehydrate-pending-to-cool'."
   parameters:
   - description: "the archiveStatus value to set."
     name: "archiveStatus"

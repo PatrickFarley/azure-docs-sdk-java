@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.IterableGet<K,V>.mapIterator()"
   name: "mapIterator()"
   nameWithType: "IterableGet<K,V>.mapIterator()"
-  summary: "Obtains a <code>MapIterator</code> over the map.\n <p>\n A map iterator is an efficient way of iterating over maps.\n There is no need to access the entry set or use Map Entry objects.\n <pre>\n IterableMap&lt;String,Integer&gt; map = new HashedMap&lt;String,Integer&gt;();\n MapIterator&lt;String,Integer&gt; it = map.mapIterator();\n while (it.hasNext()) {\n   String key = it.next();\n   Integer value = it.getValue();\n   it.setValue(value + 1);\n }\n </pre>"
+  summary: "Obtains a `MapIterator` over the map.\n\nA map iterator is an efficient way of iterating over maps. There is no need to access the entry set or use Map Entry objects.\n\n```java\nIterableMap<String,Integer> map = new HashedMap<String,Integer>();\n MapIterator<String,Integer> it = map.mapIterator();\n while (it.hasNext()) {\n   String key = it.next();\n   Integer value = it.getValue();\n   it.setValue(value + 1);\n }\n```"
   syntax: "public abstract MapIterator<K,V> mapIterator()"
   returns:
     description: "a map iterator"

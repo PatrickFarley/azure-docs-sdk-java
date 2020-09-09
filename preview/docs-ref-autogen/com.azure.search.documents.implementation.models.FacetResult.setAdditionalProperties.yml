@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.FacetResult.setAdditionalProperties(Map<String,Object> additionalProperties)"
   name: "setAdditionalProperties(Map<String,Object> additionalProperties)"
   nameWithType: "FacetResult.setAdditionalProperties(Map<String,Object> additionalProperties)"
-  summary: "Set the additionalProperties property: A single bucket of a facet query result. Reports the number of documents\n with a field value falling within a particular range or having a particular value or interval."
+  summary: "Set the additionalProperties property: A single bucket of a facet query result. Reports the number of documents with a field value falling within a particular range or having a particular value or interval."
   parameters:
   - description: "the additionalProperties value to set."
     name: "additionalProperties"

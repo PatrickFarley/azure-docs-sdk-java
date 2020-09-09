@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.LongMath.checkedSubtract(long a, long b)"
   name: "checkedSubtract(long a, long b)"
   nameWithType: "LongMath.checkedSubtract(long a, long b)"
-  summary: "Returns the difference of <code>a</code> and <code>b</code>, provided it does not overflow."
+  summary: "Returns the difference of `a` and `b`, provided it does not overflow."
   parameters:
   - name: "a"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

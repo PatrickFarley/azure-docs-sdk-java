@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.ListUsagesResultInner.nextLink()"
   name: "nextLink()"
   nameWithType: "ListUsagesResultInner.nextLink()"
-  summary: "Get the nextLink property: The URI to fetch the next page of compute resource usage information. Call ListNext()\n with this to fetch the next page of compute resource usage information."
+  summary: "Get the nextLink property: The URI to fetch the next page of compute resource usage information. Call ListNext() with this to fetch the next page of compute resource usage information."
   syntax: "public String nextLink()"
   returns:
     description: "the nextLink value."

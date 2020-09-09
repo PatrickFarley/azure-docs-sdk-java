@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.getVpnclientIpsecParametersAsync(String resourceGroupName, String virtualNetworkGatewayName)"
   name: "getVpnclientIpsecParametersAsync(String resourceGroupName, String virtualNetworkGatewayName)"
   nameWithType: "VirtualNetworkGatewaysClient.getVpnclientIpsecParametersAsync(String resourceGroupName, String virtualNetworkGatewayName)"
-  summary: "The Get VpnclientIpsecParameters operation retrieves information about the vpnclient ipsec policy for P2S client\n of virtual network gateway in the specified resource group through Network resource provider."
+  summary: "The Get VpnclientIpsecParameters operation retrieves information about the vpnclient ipsec policy for P2S client of virtual network gateway in the specified resource group through Network resource provider."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.getVpnclientIpsecParametersAsync(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   name: "getVpnclientIpsecParametersAsync(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   nameWithType: "VirtualNetworkGatewaysClient.getVpnclientIpsecParametersAsync(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
-  summary: "The Get VpnclientIpsecParameters operation retrieves information about the vpnclient ipsec policy for P2S client\n of virtual network gateway in the specified resource group through Network resource provider."
+  summary: "The Get VpnclientIpsecParameters operation retrieves information about the vpnclient ipsec policy for P2S client of virtual network gateway in the specified resource group through Network resource provider."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

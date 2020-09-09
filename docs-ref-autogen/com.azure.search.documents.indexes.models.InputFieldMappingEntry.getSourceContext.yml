@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.InputFieldMappingEntry.getSourceContext()"
   name: "getSourceContext()"
   nameWithType: "InputFieldMappingEntry.getSourceContext()"
-  summary: "Get the sourceContext property: The source context used for selecting\n recursive inputs."
+  summary: "Get the sourceContext property: The source context used for selecting recursive inputs."
   syntax: "public String getSourceContext()"
   returns:
     description: "the sourceContext value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Multiset<E>.retainAll(Collection<?> c)"
   name: "retainAll(Collection<?> c)"
   nameWithType: "Multiset<E>.retainAll(Collection<?> c)"
-  summary: "\n\n <p><b>Note:</b> This method ignores how often any element might appear in <code>c</code>, and only\n cares whether or not an element appears at all. If you wish to remove one occurrence in this\n multiset for every occurrence in <code>c</code>, see <xref uid=\"Multisets#retainOccurrences(Multiset,\n Multiset)\" data-throw-if-not-resolved=\"false\">Multisets#retainOccurrences(Multiset,\n Multiset)</xref>.\n\n <p>This method refines <xref uid=\"Collection#retainAll\" data-throw-if-not-resolved=\"false\">Collection#retainAll</xref> to further specify that it <b>may not</b>\n throw an exception in response to any of <code>elements</code> being null or of the wrong type."
+  summary: "**Note:** This method ignores how often any element might appear in `c`, and only cares whether or not an element appears at all. If you wish to remove one occurrence in this multiset for every occurrence in `c`, see <xref uid=\"Multisets#retainOccurrences(Multiset,\n Multiset)\" data-throw-if-not-resolved=\"false\">Multisets#retainOccurrences(Multiset,\n Multiset)</xref>.\n\nThis method refines <xref uid=\"java.util.Collection.retainAll\" data-throw-if-not-resolved=\"false\">Collection#retainAll</xref> to further specify that it **may not** throw an exception in response to any of `elements` being null or of the wrong type."
   parameters:
   - name: "c"
     type: "<xref href=\"java.util.Collection?alt=java.util.Collection&text=Collection\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

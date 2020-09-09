@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewayBackendHttpConfiguration.UpdateStages.WithProbe.withProbe(String name)"
   name: "withProbe(String name)"
   nameWithType: "ApplicationGatewayBackendHttpConfiguration.UpdateStages.WithProbe.withProbe(String name)"
-  summary: "Specifies an existing probe on this application gateway to associate with this backend.\n <p>\n If the probe with the specified name does not yet exist, it must be defined separately in the optional part\n of the application gateway definition. This only adds a reference to the probe by its name."
+  summary: "Specifies an existing probe on this application gateway to associate with this backend.\n\nIf the probe with the specified name does not yet exist, it must be defined separately in the optional part of the application gateway definition. This only adds a reference to the probe by its name."
   parameters:
   - description: "the name of an existing probe"
     name: "name"

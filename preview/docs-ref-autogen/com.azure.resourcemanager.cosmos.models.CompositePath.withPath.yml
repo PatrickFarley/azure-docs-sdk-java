@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.CompositePath.withPath(String path)"
   name: "withPath(String path)"
   nameWithType: "CompositePath.withPath(String path)"
-  summary: "Set the path property: The path for which the indexing behavior applies to. Index paths typically start with root\n and end with wildcard (/path/*)."
+  summary: "Set the path property: The path for which the indexing behavior applies to. Index paths typically start with root and end with wildcard (/path/\\*)."
   parameters:
   - description: "the path value to set."
     name: "path"

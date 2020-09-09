@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
   name: "listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
   nameWithType: "EventSubscriptionsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
-  summary: "List all global event subscriptions under an Azure subscription and resource group.\n List all global event subscriptions under a specific Azure subscription and resource group."
+  summary: "List all global event subscriptions under an Azure subscription and resource group. List all global event subscriptions under a specific Azure subscription and resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
   name: "listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
   nameWithType: "EventSubscriptionsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
-  summary: "List all global event subscriptions under an Azure subscription and resource group.\n List all global event subscriptions under a specific Azure subscription and resource group."
+  summary: "List all global event subscriptions under an Azure subscription and resource group. List all global event subscriptions under a specific Azure subscription and resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

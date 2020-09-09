@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.ContainerServiceManager.authenticate(TokenCredential credential, AzureProfile profile)"
   name: "authenticate(TokenCredential credential, AzureProfile profile)"
   nameWithType: "ContainerServiceManager.authenticate(TokenCredential credential, AzureProfile profile)"
-  summary: "Creates an instance of ContainerServiceManager that exposes Azure Container Service resource management API entry\n points."
+  summary: "Creates an instance of ContainerServiceManager that exposes Azure Container Service resource management API entry points."
   parameters:
   - description: "the credential to use"
     name: "credential"

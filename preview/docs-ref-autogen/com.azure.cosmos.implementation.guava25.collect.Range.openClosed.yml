@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Range<C>.<C>openClosed(C lower, C upper)"
   name: "<C>openClosed(C lower, C upper)"
   nameWithType: "Range<C>.<C>openClosed(C lower, C upper)"
-  summary: "Returns a range that contains all values strictly greater than <code>lower</code> and less than or\n equal to <code>upper</code>."
+  summary: "Returns a range that contains all values strictly greater than `lower` and less than or equal to `upper`."
   parameters:
   - name: "lower"
     type: "<xref href=\"C?alt=C&text=C\" data-throw-if-not-resolved=\"False\" />"

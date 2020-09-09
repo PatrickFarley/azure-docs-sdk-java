@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ContainerNetworkInterface.withContainerNetworkInterfaceConfiguration(ContainerNetworkInterfaceConfiguration containerNetworkInterfaceConfiguration)"
   name: "withContainerNetworkInterfaceConfiguration(ContainerNetworkInterfaceConfiguration containerNetworkInterfaceConfiguration)"
   nameWithType: "ContainerNetworkInterface.withContainerNetworkInterfaceConfiguration(ContainerNetworkInterfaceConfiguration containerNetworkInterfaceConfiguration)"
-  summary: "Set the containerNetworkInterfaceConfiguration property: Container network interface configuration from which\n this container network interface is created."
+  summary: "Set the containerNetworkInterfaceConfiguration property: Container network interface configuration from which this container network interface is created."
   parameters:
   - description: "the containerNetworkInterfaceConfiguration value to set."
     name: "containerNetworkInterfaceConfiguration"

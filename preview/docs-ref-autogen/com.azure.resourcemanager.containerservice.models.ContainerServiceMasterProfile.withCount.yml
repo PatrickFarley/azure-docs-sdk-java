@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceMasterProfile.withCount(Count count)"
   name: "withCount(Count count)"
   nameWithType: "ContainerServiceMasterProfile.withCount(Count count)"
-  summary: "Set the count property: Number of masters (VMs) in the container service cluster. Allowed values are 1, 3, and 5.\n The default value is 1."
+  summary: "Set the count property: Number of masters (VMs) in the container service cluster. Allowed values are 1, 3, and 5. The default value is 1."
   parameters:
   - description: "the count value to set."
     name: "count"

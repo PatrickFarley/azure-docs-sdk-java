@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.EventCategoriesClient.listSinglePageAsync()"
   name: "listSinglePageAsync()"
   nameWithType: "EventCategoriesClient.listSinglePageAsync()"
-  summary: "Get the list of available event categories supported in the Activity Logs Service.&lt;br&gt;The current list\n includes the following: Administrative, Security, ServiceHealth, Alert, Recommendation, Policy."
+  summary: "Get the list of available event categories supported in the Activity Logs Service.<br>The current list includes the following: Administrative, Security, ServiceHealth, Alert, Recommendation, Policy."
   syntax: "public Mono<PagedResponse<LocalizableStringInner>> listSinglePageAsync()"
   returns:
     description: "the list of available event categories supported in the Activity Logs Service."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.EventCategoriesClient.listSinglePageAsync(Context context)"
   name: "listSinglePageAsync(Context context)"
   nameWithType: "EventCategoriesClient.listSinglePageAsync(Context context)"
-  summary: "Get the list of available event categories supported in the Activity Logs Service.&lt;br&gt;The current list\n includes the following: Administrative, Security, ServiceHealth, Alert, Recommendation, Policy."
+  summary: "Get the list of available event categories supported in the Activity Logs Service.<br>The current list includes the following: Administrative, Security, ServiceHealth, Alert, Recommendation, Policy."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

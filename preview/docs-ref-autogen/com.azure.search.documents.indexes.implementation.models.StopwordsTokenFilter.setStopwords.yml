@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.StopwordsTokenFilter.setStopwords(List<String> stopwords)"
   name: "setStopwords(List<String> stopwords)"
   nameWithType: "StopwordsTokenFilter.setStopwords(List<String> stopwords)"
-  summary: "Set the stopwords property: The list of stopwords. This property and the stopwords list property cannot both be\n set."
+  summary: "Set the stopwords property: The list of stopwords. This property and the stopwords list property cannot both be set."
   parameters:
   - description: "the stopwords value to set."
     name: "stopwords"

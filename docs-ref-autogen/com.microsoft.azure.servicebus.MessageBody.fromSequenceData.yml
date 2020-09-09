@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.MessageBody.fromSequenceData(List<List<Object>> sequenceData)"
   name: "fromSequenceData(List<List<Object>> sequenceData)"
   nameWithType: "MessageBody.fromSequenceData(List<List<Object>> sequenceData)"
-  summary: "Creates a message body from a list of AMQPSequence sections.Each AMQPSequence section is in turn a list of objects.\n Please note that this version of the SDK supports only one AMQPSequence section in a message. It means only a list of exactly one sequence in it is accepted as message body."
+  summary: "Creates a message body from a list of AMQPSequence sections.Each AMQPSequence section is in turn a list of objects. Please note that this version of the SDK supports only one AMQPSequence section in a message. It means only a list of exactly one sequence in it is accepted as message body."
   parameters:
   - description: "a list of AMQPSequence sections. Each AMQPSequence section is in turn a list of objects. Every object in each list must of a type supported by AMQP."
     name: "sequenceData"

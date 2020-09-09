@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.MoreCollectors.<T>toOptional()"
   name: "<T>toOptional()"
   nameWithType: "MoreCollectors.<T>toOptional()"
-  summary: "A collector that converts a stream of zero or one elements to an <code>Optional</code>. The returned\n collector throws an <code>IllegalArgumentException</code> if the stream consists of two or more\n elements, and a <code>NullPointerException</code> if the stream consists of exactly one element,\n which is null."
+  summary: "A collector that converts a stream of zero or one elements to an `Optional`. The returned collector throws an `IllegalArgumentException` if the stream consists of two or more elements, and a `NullPointerException` if the stream consists of exactly one element, which is null."
   syntax: "public static Collector<T,?,Optional<T>> <T>toOptional()"
   returns:
     type: "<xref href=\"java.util.stream.Collector?alt=java.util.stream.Collector&text=Collector\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />,?,<xref href=\"java.util.Optional?alt=java.util.Optional&text=Optional\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;&gt;"

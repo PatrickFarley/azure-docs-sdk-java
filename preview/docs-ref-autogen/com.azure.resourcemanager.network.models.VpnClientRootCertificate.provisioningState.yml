@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VpnClientRootCertificate.provisioningState()"
   name: "provisioningState()"
   nameWithType: "VpnClientRootCertificate.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the VPN client root certificate resource. Possible\n values are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: The provisioning state of the VPN client root certificate resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

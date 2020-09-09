@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.IpRule.withValue(String value)"
   name: "withValue(String value)"
   nameWithType: "IpRule.withValue(String value)"
-  summary: "Set the value property: An IPv4 address range in CIDR notation, such as '124.56.78.91' (simple IP address) or\n '124.56.78.0/24' (all addresses that start with 124.56.78)."
+  summary: "Set the value property: An IPv4 address range in CIDR notation, such as '124.56.78.91' (simple IP address) or '124.56.78.0/24' (all addresses that start with 124.56.78)."
   parameters:
   - description: "the value value to set."
     name: "value"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClientBuilder.buildAsyncClient()"
   name: "buildAsyncClient()"
   nameWithType: "DataLakeFileSystemClientBuilder.buildAsyncClient()"
-  summary: "<p><strong>Code Samples</strong></p>\n\n <pre>\n DataLakeFileSystemAsyncClient client = new DataLakeFileSystemClientBuilder&#40;&#41;\n     .endpoint&#40;endpoint&#41;\n     .credential&#40;storageSharedKeyCredential&#41;\n     .buildAsyncClient&#40;&#41;;\n </pre>"
+  summary: "**Code Samples**\n\n```java\nDataLakeFileSystemAsyncClient client = new DataLakeFileSystemClientBuilder()\n     .endpoint(endpoint)\n     .credential(storageSharedKeyCredential)\n     .buildAsyncClient();\n```"
   syntax: "public DataLakeFileSystemAsyncClient buildAsyncClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.file.datalake.DataLakeFileSystemAsyncClient\" data-throw-if-not-resolved=\"false\">DataLakeFileSystemAsyncClient</xref> created from the configurations in this builder."

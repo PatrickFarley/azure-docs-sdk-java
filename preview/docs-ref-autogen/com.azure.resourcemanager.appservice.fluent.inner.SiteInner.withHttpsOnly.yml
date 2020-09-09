@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.SiteInner.withHttpsOnly(Boolean httpsOnly)"
   name: "withHttpsOnly(Boolean httpsOnly)"
   nameWithType: "SiteInner.withHttpsOnly(Boolean httpsOnly)"
-  summary: "Set the httpsOnly property: HttpsOnly: configures a web site to accept only https requests. Issues redirect for\n http requests."
+  summary: "Set the httpsOnly property: HttpsOnly: configures a web site to accept only https requests. Issues redirect for http requests."
   parameters:
   - description: "the httpsOnly value to set."
     name: "httpsOnly"

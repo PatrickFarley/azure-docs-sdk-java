@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.inner.ContainerServiceInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ContainerServiceInner.provisioningState()"
-  summary: "Get the provisioningState property: The current deployment or provisioning state, which only appears in the\n response."
+  summary: "Get the provisioningState property: The current deployment or provisioning state, which only appears in the response."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

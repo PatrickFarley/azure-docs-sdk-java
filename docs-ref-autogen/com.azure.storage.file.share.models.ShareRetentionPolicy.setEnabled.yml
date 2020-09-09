@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareRetentionPolicy.setEnabled(boolean enabled)"
   name: "setEnabled(boolean enabled)"
   nameWithType: "ShareRetentionPolicy.setEnabled(boolean enabled)"
-  summary: "Set the enabled property: Indicates whether a retention policy is\n enabled for the File service. If false, metrics data is retained, and\n the user is responsible for deleting it."
+  summary: "Set the enabled property: Indicates whether a retention policy is enabled for the File service. If false, metrics data is retained, and the user is responsible for deleting it."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

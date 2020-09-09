@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.time.DurationFormatUtils.formatDurationHMS(long durationMillis)"
   name: "formatDurationHMS(long durationMillis)"
   nameWithType: "DurationFormatUtils.formatDurationHMS(long durationMillis)"
-  summary: "<p>Formats the time gap as a string.</p>\n\n <p>The format used is ISO 8601-like: <code>HH:mm:ss.SSS</code>.</p>"
+  summary: "Formats the time gap as a string.\n\nThe format used is ISO 8601-like: `HH:mm:ss.SSS`."
   parameters:
   - description: "the duration to format"
     name: "durationMillis"

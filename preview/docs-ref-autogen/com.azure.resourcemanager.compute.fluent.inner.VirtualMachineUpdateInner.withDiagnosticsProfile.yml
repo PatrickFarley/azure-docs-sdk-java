@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineUpdateInner.withDiagnosticsProfile(DiagnosticsProfile diagnosticsProfile)"
   name: "withDiagnosticsProfile(DiagnosticsProfile diagnosticsProfile)"
   nameWithType: "VirtualMachineUpdateInner.withDiagnosticsProfile(DiagnosticsProfile diagnosticsProfile)"
-  summary: "Set the diagnosticsProfile property: Specifies the boot diagnostic settings state. &lt;br&gt;&lt;br&gt;Minimum\n api-version: 2015-06-15."
+  summary: "Set the diagnosticsProfile property: Specifies the boot diagnostic settings state. <br><br>Minimum api-version: 2015-06-15."
   parameters:
   - description: "the diagnosticsProfile value to set."
     name: "diagnosticsProfile"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.SignInName.type()"
   name: "type()"
   nameWithType: "SignInName.type()"
-  summary: "Get the type property: A string value that can be used to classify user sign-in types in your directory, such as\n 'emailAddress' or 'userName'."
+  summary: "Get the type property: A string value that can be used to classify user sign-in types in your directory, such as 'emailAddress' or 'userName'."
   syntax: "public String type()"
   returns:
     description: "the type value."

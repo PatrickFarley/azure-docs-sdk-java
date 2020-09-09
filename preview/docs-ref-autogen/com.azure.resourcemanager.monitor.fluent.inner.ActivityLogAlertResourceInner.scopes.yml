@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.ActivityLogAlertResourceInner.scopes()"
   name: "scopes()"
   nameWithType: "ActivityLogAlertResourceInner.scopes()"
-  summary: "Get the scopes property: A list of resourceIds that will be used as prefixes. The alert will only apply to\n activityLogs with resourceIds that fall under one of these prefixes. This list must include at least one item."
+  summary: "Get the scopes property: A list of resourceIds that will be used as prefixes. The alert will only apply to activityLogs with resourceIds that fall under one of these prefixes. This list must include at least one item."
   syntax: "public List<String> scopes()"
   returns:
     description: "the scopes value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ScoringFunction.getBoost()"
   name: "getBoost()"
   nameWithType: "ScoringFunction.getBoost()"
-  summary: "Get the boost property: A multiplier for the raw score. Must be a\n positive number not equal to 1.0."
+  summary: "Get the boost property: A multiplier for the raw score. Must be a positive number not equal to 1.0."
   syntax: "public double getBoost()"
   returns:
     description: "the boost value."

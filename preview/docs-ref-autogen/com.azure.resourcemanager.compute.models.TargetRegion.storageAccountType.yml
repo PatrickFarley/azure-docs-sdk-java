@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.TargetRegion.storageAccountType()"
   name: "storageAccountType()"
   nameWithType: "TargetRegion.storageAccountType()"
-  summary: "Get the storageAccountType property: Specifies the storage account type to be used to store the image. This\n property is not updatable."
+  summary: "Get the storageAccountType property: Specifies the storage account type to be used to store the image. This property is not updatable."
   syntax: "public StorageAccountType storageAccountType()"
   returns:
     description: "the storageAccountType value."

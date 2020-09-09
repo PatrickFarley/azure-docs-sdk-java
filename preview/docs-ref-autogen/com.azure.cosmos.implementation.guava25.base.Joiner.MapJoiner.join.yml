@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.join(Iterable<? extends Map.Entry<?,?>> entries)"
   name: "join(Iterable<? extends Map.Entry<?,?>> entries)"
   nameWithType: "Joiner.MapJoiner.join(Iterable<? extends Map.Entry<?,?>> entries)"
-  summary: "Returns a string containing the string representation of each entry in <code>entries</code>, using\n the previously configured separator and key-value separator."
+  summary: "Returns a string containing the string representation of each entry in `entries`, using the previously configured separator and key-value separator."
   parameters:
   - name: "entries"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends java.util.Map.Entry?alt=? extends java.util.Map.Entry&text=Entry\" data-throw-if-not-resolved=\"False\" />&lt;?,?&gt;&gt;"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.join(Iterator<? extends Map.Entry<?,?>> entries)"
   name: "join(Iterator<? extends Map.Entry<?,?>> entries)"
   nameWithType: "Joiner.MapJoiner.join(Iterator<? extends Map.Entry<?,?>> entries)"
-  summary: "Returns a string containing the string representation of each entry in <code>entries</code>, using\n the previously configured separator and key-value separator."
+  summary: "Returns a string containing the string representation of each entry in `entries`, using the previously configured separator and key-value separator."
   parameters:
   - name: "entries"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends java.util.Map.Entry?alt=? extends java.util.Map.Entry&text=Entry\" data-throw-if-not-resolved=\"False\" />&lt;?,?&gt;&gt;"
@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Joiner.MapJoiner.join(Map<?,?> map)"
   name: "join(Map<?,?> map)"
   nameWithType: "Joiner.MapJoiner.join(Map<?,?> map)"
-  summary: "Returns a string containing the string representation of each entry of <code>map</code>, using the\n previously configured separator and key-value separator."
+  summary: "Returns a string containing the string representation of each entry of `map`, using the previously configured separator and key-value separator."
   parameters:
   - name: "map"
     type: "<xref href=\"java.util.Map?alt=java.util.Map&text=Map\" data-throw-if-not-resolved=\"False\" />&lt;?,?&gt;"

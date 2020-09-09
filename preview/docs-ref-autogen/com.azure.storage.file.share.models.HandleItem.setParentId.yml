@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.HandleItem.setParentId(String parentId)"
   name: "setParentId(String parentId)"
   nameWithType: "HandleItem.setParentId(String parentId)"
-  summary: "Set the parentId property: ParentId uniquely identifies the parent\n directory of the object."
+  summary: "Set the parentId property: ParentId uniquely identifies the parent directory of the object."
   parameters:
   - description: "the parentId value to set."
     name: "parentId"

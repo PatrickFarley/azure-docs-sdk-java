@@ -13,7 +13,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.device.net.IotHubMessageUri.IotHubMessageUri(String iotHubHostname, String deviceId, String moduleId)"
   name: "IotHubMessageUri(String iotHubHostname, String deviceId, String moduleId)"
   nameWithType: "IotHubMessageUri.IotHubMessageUri(String iotHubHostname, String deviceId, String moduleId)"
-  summary: "Constructor. Returns a URI for a device to poll for messages from an\n IoT Hub. The URI does not include a protocol."
+  summary: "Constructor. Returns a URI for a device to poll for messages from an IoT Hub. The URI does not include a protocol."
   parameters:
   - description: "the IoT Hub name."
     name: "iotHubHostname"

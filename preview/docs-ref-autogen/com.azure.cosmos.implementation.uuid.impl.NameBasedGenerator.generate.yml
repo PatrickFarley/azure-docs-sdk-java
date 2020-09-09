@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.NameBasedGenerator.generate(byte[] nameBytes)"
   name: "generate(byte[] nameBytes)"
   nameWithType: "NameBasedGenerator.generate(byte[] nameBytes)"
-  summary: "Method for generating name-based UUIDs using specified byte-serialization\n of name."
+  summary: "Method for generating name-based UUIDs using specified byte-serialization of name."
   overridden: "com.azure.cosmos.implementation.uuid.StringArgGenerator.generate(byte[])"
   parameters:
   - name: "nameBytes"
@@ -20,7 +20,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.impl.NameBasedGenerator.generate(String name)"
   name: "generate(String name)"
   nameWithType: "NameBasedGenerator.generate(String name)"
-  summary: "Method for generating name-based UUIDs using specified name (serialized to\n bytes using UTF-8 encoding)"
+  summary: "Method for generating name-based UUIDs using specified name (serialized to bytes using UTF-8 encoding)"
   overridden: "com.azure.cosmos.implementation.uuid.StringArgGenerator.generate(java.lang.String)"
   parameters:
   - name: "name"

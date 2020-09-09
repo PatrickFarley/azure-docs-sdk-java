@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.P2SVpnServerConfigurationInner.withRadiusServerAddress(String radiusServerAddress)"
   name: "withRadiusServerAddress(String radiusServerAddress)"
   nameWithType: "P2SVpnServerConfigurationInner.withRadiusServerAddress(String radiusServerAddress)"
-  summary: "Set the radiusServerAddress property: The radius server address property of the P2SVpnServerConfiguration\n resource for point to site client connection."
+  summary: "Set the radiusServerAddress property: The radius server address property of the P2SVpnServerConfiguration resource for point to site client connection."
   parameters:
   - description: "the radiusServerAddress value to set."
     name: "radiusServerAddress"

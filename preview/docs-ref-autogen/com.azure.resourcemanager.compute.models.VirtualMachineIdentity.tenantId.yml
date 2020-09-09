@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineIdentity.tenantId()"
   name: "tenantId()"
   nameWithType: "VirtualMachineIdentity.tenantId()"
-  summary: "Get the tenantId property: The tenant id associated with the virtual machine. This property will only be provided\n for a system assigned identity."
+  summary: "Get the tenantId property: The tenant id associated with the virtual machine. This property will only be provided for a system assigned identity."
   syntax: "public String tenantId()"
   returns:
     description: "the tenantId value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.NetworkInterfaceIpConfigurationInner.withApplicationSecurityGroups(List<ApplicationSecurityGroupInner> applicationSecurityGroups)"
   name: "withApplicationSecurityGroups(List<ApplicationSecurityGroupInner> applicationSecurityGroups)"
   nameWithType: "NetworkInterfaceIpConfigurationInner.withApplicationSecurityGroups(List<ApplicationSecurityGroupInner> applicationSecurityGroups)"
-  summary: "Set the applicationSecurityGroups property: Application security groups in which the IP configuration is\n included."
+  summary: "Set the applicationSecurityGroups property: Application security groups in which the IP configuration is included."
   parameters:
   - description: "the applicationSecurityGroups value to set."
     name: "applicationSecurityGroups"

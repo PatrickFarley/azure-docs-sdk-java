@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.RollbackStatusInfo.successfullyRolledbackInstanceCount()"
   name: "successfullyRolledbackInstanceCount()"
   nameWithType: "RollbackStatusInfo.successfullyRolledbackInstanceCount()"
-  summary: "Get the successfullyRolledbackInstanceCount property: The number of instances which have been successfully rolled\n back."
+  summary: "Get the successfullyRolledbackInstanceCount property: The number of instances which have been successfully rolled back."
   syntax: "public Integer successfullyRolledbackInstanceCount()"
   returns:
     description: "the successfullyRolledbackInstanceCount value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementClient.createTopic(CreateTopicOptions topicOptions)"
   name: "createTopic(CreateTopicOptions topicOptions)"
   nameWithType: "ServiceBusManagementClient.createTopic(CreateTopicOptions topicOptions)"
-  summary: "Creates a topic with the <xref uid=\"TopicProperties\" data-throw-if-not-resolved=\"false\">TopicProperties</xref>."
+  summary: "Creates a topic with the <xref uid=\"com.azure.messaging.servicebus.models.TopicProperties\" data-throw-if-not-resolved=\"false\">TopicProperties</xref>."
   parameters:
   - description: "Information about the topic to create."
     name: "topicOptions"

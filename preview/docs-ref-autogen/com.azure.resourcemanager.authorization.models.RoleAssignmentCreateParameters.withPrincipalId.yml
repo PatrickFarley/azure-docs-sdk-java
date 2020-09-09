@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.RoleAssignmentCreateParameters.withPrincipalId(String principalId)"
   name: "withPrincipalId(String principalId)"
   nameWithType: "RoleAssignmentCreateParameters.withPrincipalId(String principalId)"
-  summary: "Set the principalId property: The principal ID assigned to the role. This maps to the ID inside the Active\n Directory. It can point to a user, service principal, or security group."
+  summary: "Set the principalId property: The principal ID assigned to the role. This maps to the ID inside the Active Directory. It can point to a user, service principal, or security group."
   parameters:
   - description: "the principalId value to set."
     name: "principalId"

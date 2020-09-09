@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemAsyncClient.getDirectoryAsyncClient(String directoryName)"
   name: "getDirectoryAsyncClient(String directoryName)"
   nameWithType: "DataLakeFileSystemAsyncClient.getDirectoryAsyncClient(String directoryName)"
-  summary: "Initializes a new DataLakeDirectoryAsyncClient object by concatenating directoryName to the end of\n DataLakeFileSystemAsyncClient's URL. The new DataLakeDirectoryAsyncClient uses the same request policy pipeline\n as the DataLakeFileSystemAsyncClient.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n DataLakeDirectoryAsyncClient dataLakeDirectoryAsyncClient = client.getDirectoryAsyncClient&#40;directoryName&#41;;\n </pre>"
+  summary: "Initializes a new DataLakeDirectoryAsyncClient object by concatenating directoryName to the end of DataLakeFileSystemAsyncClient's URL. The new DataLakeDirectoryAsyncClient uses the same request policy pipeline as the DataLakeFileSystemAsyncClient.\n\n**Code Samples**\n\n```java\nDataLakeDirectoryAsyncClient dataLakeDirectoryAsyncClient = client.getDirectoryAsyncClient(directoryName);\n```"
   parameters:
   - description: "A <code>String</code> representing the name of the directory."
     name: "directoryName"

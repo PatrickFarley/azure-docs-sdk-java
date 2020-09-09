@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchResourceEncryptionKey.getVaultUrl()"
   name: "getVaultUrl()"
   nameWithType: "SearchResourceEncryptionKey.getVaultUrl()"
-  summary: "Get the vaultUri property: The URI of your Azure Key Vault, also\n referred to as DNS name, that contains the key to be used to encrypt\n your data at rest. An example URI might be\n https://my-keyvault-name.vault.azure.net."
+  summary: "Get the vaultUri property: The URI of your Azure Key Vault, also referred to as DNS name, that contains the key to be used to encrypt your data at rest. An example URI might be https://my-keyvault-name.vault.azure.net."
   syntax: "public String getVaultUrl()"
   returns:
     description: "the vaultUri value."

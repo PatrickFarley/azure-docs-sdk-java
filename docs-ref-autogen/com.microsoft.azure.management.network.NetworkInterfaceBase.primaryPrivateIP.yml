@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.NetworkInterfaceBase.primaryPrivateIP()"
   name: "primaryPrivateIP()"
   nameWithType: "NetworkInterfaceBase.primaryPrivateIP()"
-  summary: "Gets the private IP address allocated to this network interface's primary IP configuration.\n <p>\n The private IP will be within the virtual network subnet of this network interface."
+  summary: "Gets the private IP address allocated to this network interface's primary IP configuration.\n\nThe private IP will be within the virtual network subnet of this network interface."
   syntax: "public abstract String primaryPrivateIP()"
   returns:
     description: "the private IP addresses"

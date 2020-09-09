@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.ServiceAuthenticationWithSharedAccessPolicyKey.populate(IotHubConnectionString iotHubConnectionString)"
   name: "populate(IotHubConnectionString iotHubConnectionString)"
   nameWithType: "ServiceAuthenticationWithSharedAccessPolicyKey.populate(IotHubConnectionString iotHubConnectionString)"
-  summary: "Populate given IotHubConnectionString with proper\n policy key authentication data"
+  summary: "Populate given IotHubConnectionString with proper policy key authentication data"
   overridden: "com.microsoft.azure.sdk.iot.service.AuthenticationMethod.populate(com.microsoft.azure.sdk.iot.service.IotHubConnectionString)"
   parameters:
   - description: "The iotHubConnectionString object to populate"

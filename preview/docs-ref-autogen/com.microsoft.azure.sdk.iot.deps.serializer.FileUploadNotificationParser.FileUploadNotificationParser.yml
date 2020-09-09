@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.FileUploadNotificationParser.FileUploadNotificationParser(String json)"
   name: "FileUploadNotificationParser(String json)"
   nameWithType: "FileUploadNotificationParser.FileUploadNotificationParser(String json)"
-  summary: "CONSTRUCTOR\n Create an instance of the FileUploadNotification using the information in the provided json."
+  summary: "CONSTRUCTOR Create an instance of the FileUploadNotification using the information in the provided json."
   parameters:
   - description: "is the string that contains a valid json with the FileUpload notification."
     name: "json"

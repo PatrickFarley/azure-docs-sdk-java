@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.TestBase.getHttpClients()"
   name: "getHttpClients()"
   nameWithType: "TestBase.getHttpClients()"
-  summary: "Returns a list of <xref uid=\"HttpClient\" data-throw-if-not-resolved=\"false\">HttpClients</xref> that should be tested."
+  summary: "Returns a list of <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClients</xref> that should be tested."
   syntax: "public static Stream<HttpClient> getHttpClients()"
   returns:
     description: "A list of <xref uid=\"com.azure.core.http.HttpClient\" data-throw-if-not-resolved=\"false\">HttpClients</xref> to be tested."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerregistry.RunFilter.withOutputImageManifests(String outputImageManifests)"
   name: "withOutputImageManifests(String outputImageManifests)"
   nameWithType: "RunFilter.withOutputImageManifests(String outputImageManifests)"
-  summary: "Set the list of comma-separated image manifests that were generated from the run. This is applicable if the run is of\n     build type."
+  summary: "Set the list of comma-separated image manifests that were generated from the run. This is applicable if the run is of build type."
   parameters:
   - description: "the outputImageManifests value to set"
     name: "outputImageManifests"

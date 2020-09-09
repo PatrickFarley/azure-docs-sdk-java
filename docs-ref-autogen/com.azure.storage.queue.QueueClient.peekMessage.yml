@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.QueueClient.peekMessage()"
   name: "peekMessage()"
   nameWithType: "QueueClient.peekMessage()"
-  summary: "Peeks the first message in the queue.\n\n Peeked messages don't contain the necessary information needed to interact with the message nor will it hide\n messages from other operations on the queue.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Peek the first message</p>\n\n <pre>\n PeekedMessageItem peekedMessageItem = client.peekMessage&#40;&#41;;\n System.out.println&#40;&quot;Complete peeking the message: &quot; + peekedMessageItem.getMessageText&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/peek-messages\">Azure Docs</a>.</p>"
+  summary: "Peeks the first message in the queue. Peeked messages don't contain the necessary information needed to interact with the message nor will it hide messages from other operations on the queue.\n\n**Code Samples**\n\nPeek the first message\n\n```java\nPeekedMessageItem peekedMessageItem = client.peekMessage();\n System.out.println(\"Complete peeking the message: \" + peekedMessageItem.getMessageText());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/peek-messages"
   syntax: "public PeekedMessageItem peekMessage()"
   returns:
     description: "A <xref uid=\"com.azure.storage.queue.models.PeekedMessageItem\" data-throw-if-not-resolved=\"false\">PeekedMessageItem</xref> that contains metadata about the message."

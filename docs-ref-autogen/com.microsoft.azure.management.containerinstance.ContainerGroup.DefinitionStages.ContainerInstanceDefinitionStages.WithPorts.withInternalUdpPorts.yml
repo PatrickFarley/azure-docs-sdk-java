@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerinstance.ContainerGroup.DefinitionStages.ContainerInstanceDefinitionStages.WithPorts<ParentT>.withInternalUdpPorts(int[] ports)"
   name: "withInternalUdpPorts(int[] ports)"
   nameWithType: "ContainerGroup.DefinitionStages.ContainerInstanceDefinitionStages.WithPorts<ParentT>.withInternalUdpPorts(int[] ports)"
-  summary: "Specifies the container's Udp ports are available to internal clients only (other container instances within the container group).\n <p>\n Containers within a group can reach each other via localhost on the ports that they have exposed,\n   even if those ports are not exposed externally on the group's IP address."
+  summary: "Specifies the container's Udp ports are available to internal clients only (other container instances within the container group).\n\nContainers within a group can reach each other via localhost on the ports that they have exposed, even if those ports are not exposed externally on the group's IP address."
   parameters:
   - description: "array of UDP ports to be exposed internally"
     name: "ports"

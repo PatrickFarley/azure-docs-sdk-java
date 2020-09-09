@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathHttpHeaders.getContentMd5()"
   name: "getContentMd5()"
   nameWithType: "PathHttpHeaders.getContentMd5()"
-  summary: "Get the contentMd5 property: Specify the transactional md5 for the body,\n to be validated by the service."
+  summary: "Get the contentMd5 property: Specify the transactional md5 for the body, to be validated by the service."
   syntax: "public byte[] getContentMd5()"
   returns:
     description: "the contentMd5 value."

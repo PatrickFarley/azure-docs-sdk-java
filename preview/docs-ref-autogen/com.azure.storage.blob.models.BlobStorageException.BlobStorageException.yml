@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobStorageException.BlobStorageException(String message, HttpResponse response, Object value)"
   name: "BlobStorageException(String message, HttpResponse response, Object value)"
   nameWithType: "BlobStorageException.BlobStorageException(String message, HttpResponse response, Object value)"
-  summary: "Constructs a <code>BlobStorageException</code>."
+  summary: "Constructs a `BlobStorageException`."
   parameters:
   - description: "the exception message or the response content if a message is not available."
     name: "message"

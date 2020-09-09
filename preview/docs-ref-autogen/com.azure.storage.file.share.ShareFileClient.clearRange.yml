@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.ShareFileClient.clearRange(long length)"
   name: "clearRange(long length)"
   nameWithType: "ShareFileClient.clearRange(long length)"
-  summary: "Clears a range of bytes to specific of a file in storage file service. Clear operations performs an in-place\n write on the specified file.\n\n <p><strong>Code Samples</strong></p>\n\n <p>Clears the first 1024 bytes. </p>\n\n <pre>\n ShareFileUploadInfo response = fileClient.clearRange&#40;1024&#41;;\n System.out.println&#40;&quot;Complete clearing the range with eTag: &quot; + response.getETag&#40;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/put-range\">Azure Docs</a>.</p>"
+  summary: "Clears a range of bytes to specific of a file in storage file service. Clear operations performs an in-place write on the specified file.\n\n**Code Samples**\n\nClears the first 1024 bytes.\n\n```java\nShareFileUploadInfo response = fileClient.clearRange(1024);\n System.out.println(\"Complete clearing the range with eTag: \" + response.getETag());\n```\n\nFor more information, see the [Azure Docs][].\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/put-range"
   parameters:
   - description: "Specifies the number of bytes being cleared."
     name: "length"

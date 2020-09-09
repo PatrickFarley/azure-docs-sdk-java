@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceVMSizeTypes.STANDARD_G1"
   name: "STANDARD_G1"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_G1"
-  summary: "Static value Standard_G1 for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_G1 for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_G1"
 type: "field"
 metadata: {}

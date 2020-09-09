@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.security.keyvault.keys.models.JsonWebKey.equals(JsonWebKey jwk)"
   name: "equals(JsonWebKey jwk)"
   nameWithType: "JsonWebKey.equals(JsonWebKey jwk)"
-  summary: "Indicates whether some other <xref uid=\"JsonWebKey\" data-throw-if-not-resolved=\"false\">JsonWebKey</xref> is \"equal to\" this one."
+  summary: "Indicates whether some other <xref uid=\"com.azure.security.keyvault.keys.models.JsonWebKey\" data-throw-if-not-resolved=\"false\">JsonWebKey</xref> is \"equal to\" this one."
   parameters:
   - description: "The other <xref uid=\"com.azure.security.keyvault.keys.models.JsonWebKey\" data-throw-if-not-resolved=\"false\">JsonWebKey</xref> to compare with."
     name: "jwk"

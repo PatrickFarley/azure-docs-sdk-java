@@ -30,7 +30,7 @@ fields:
   fullName: "com.microsoft.azure.servicebus.management.NamespaceType.Mixed"
   name: "Mixed"
   nameWithType: "NamespaceType.Mixed"
-  summary: "Supported only for backword compatibility.\n Namespace can contain mixture of service bus entities and notification hubs."
+  summary: "Supported only for backword compatibility. Namespace can contain mixture of service bus entities and notification hubs."
 - uid: "com.microsoft.azure.servicebus.management.NamespaceType.ServiceBus"
   fullName: "com.microsoft.azure.servicebus.management.NamespaceType.ServiceBus"
   name: "ServiceBus"

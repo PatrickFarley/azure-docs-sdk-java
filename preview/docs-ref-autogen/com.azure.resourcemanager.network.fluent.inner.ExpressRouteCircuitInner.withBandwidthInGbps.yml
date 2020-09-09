@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.ExpressRouteCircuitInner.withBandwidthInGbps(Float bandwidthInGbps)"
   name: "withBandwidthInGbps(Float bandwidthInGbps)"
   nameWithType: "ExpressRouteCircuitInner.withBandwidthInGbps(Float bandwidthInGbps)"
-  summary: "Set the bandwidthInGbps property: The bandwidth of the circuit when the circuit is provisioned on an\n ExpressRoutePort resource."
+  summary: "Set the bandwidthInGbps property: The bandwidth of the circuit when the circuit is provisioned on an ExpressRoutePort resource."
   parameters:
   - description: "the bandwidthInGbps value to set."
     name: "bandwidthInGbps"

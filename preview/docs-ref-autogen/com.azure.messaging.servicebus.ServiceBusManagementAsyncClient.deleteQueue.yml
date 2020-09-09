@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusManagementAsyncClient.deleteQueue(String queueName)"
   name: "deleteQueue(String queueName)"
   nameWithType: "ServiceBusManagementAsyncClient.deleteQueue(String queueName)"
-  summary: "Deletes a queue the matching <code>queueName</code>."
+  summary: "Deletes a queue the matching `queueName`."
   parameters:
   - description: "Name of queue to delete."
     name: "queueName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMultiset<E>.<E>reverseOrder()"
   name: "<E>reverseOrder()"
   nameWithType: "ImmutableSortedMultiset<E>.<E>reverseOrder()"
-  summary: "Returns a builder that creates immutable sorted multisets whose elements are ordered by the\n reverse of their natural ordering.\n\n <p>Note: the type parameter <code>E</code> extends <code>Comparable<?></code> rather than <code>\n Comparable<? super E></code> as a workaround for javac <a href=\"http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6468354\">bug 6468354</a>."
+  summary: "Returns a builder that creates immutable sorted multisets whose elements are ordered by the reverse of their natural ordering.\n\nNote: the type parameter `E` extends `Comparable` rather than `Comparable` as a workaround for javac [bug 6468354][].\n\n\n[bug 6468354]: http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6468354"
   syntax: "public static ImmutableSortedMultiset.Builder<E> <E>reverseOrder()"
   returns:
     type: "<xref href=\"com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMultiset.Builder?alt=com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMultiset.Builder&text=Builder\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"E?alt=E&text=E\" data-throw-if-not-resolved=\"False\" />&gt;"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayBackend.DefinitionStages.WithAddress<ParentT>.withFqdn(String fqdn)"
   name: "withFqdn(String fqdn)"
   nameWithType: "ApplicationGatewayBackend.DefinitionStages.WithAddress<ParentT>.withFqdn(String fqdn)"
-  summary: "Adds the specified existing fully qualified domain name (FQDN) to the backend.\n\n <p>This call can be made in a sequence to add multiple FQDNs."
+  summary: "Adds the specified existing fully qualified domain name (FQDN) to the backend.\n\nThis call can be made in a sequence to add multiple FQDNs."
   parameters:
   - description: "a fully qualified domain name (FQDN)"
     name: "fqdn"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.SkuCapability.name()"
   name: "name()"
   nameWithType: "SkuCapability.name()"
-  summary: "Get the name property: The name of capability, The capability information in the specified SKU, including file\n encryption, network ACLs, change notification, etc."
+  summary: "Get the name property: The name of capability, The capability information in the specified SKU, including file encryption, network ACLs, change notification, etc."
   syntax: "public String name()"
   returns:
     description: "the name value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Throwables.<X>propagateIfInstanceOf(Throwable throwable, Class<X> declaredType)"
   name: "<X>propagateIfInstanceOf(Throwable throwable, Class<X> declaredType)"
   nameWithType: "Throwables.<X>propagateIfInstanceOf(Throwable throwable, Class<X> declaredType)"
-  summary: "Propagates <code>throwable</code> exactly as-is, if and only if it is an instance of <code>\n declaredType</code>. Example usage:\n\n <pre>\n try {\n   someMethodThatCouldThrowAnything();\n } catch (IKnowWhatToDoWithThisException e) {\n   handle(e);\n } catch (Throwable t) {\n   Throwables.propagateIfInstanceOf(t, IOException.class);\n   Throwables.propagateIfInstanceOf(t, SQLException.class);\n   throw Throwables.propagate(t);\n }\n </pre>"
+  summary: "Propagates `throwable` exactly as-is, if and only if it is an instance of `declaredType`. Example usage:\n\n```java\ntry {\n   someMethodThatCouldThrowAnything();\n } catch (IKnowWhatToDoWithThisException e) {\n   handle(e);\n } catch (Throwable t) {\n   Throwables.propagateIfInstanceOf(t, IOException.class);\n   Throwables.propagateIfInstanceOf(t, SQLException.class);\n   throw Throwables.propagate(t);\n }\n```"
   parameters:
   - name: "throwable"
     type: "<xref href=\"java.lang.Throwable?alt=java.lang.Throwable&text=Throwable\" data-throw-if-not-resolved=\"False\" />"

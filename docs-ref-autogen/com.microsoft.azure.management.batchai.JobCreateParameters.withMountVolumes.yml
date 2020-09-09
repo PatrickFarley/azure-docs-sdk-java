@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.batchai.JobCreateParameters.withMountVolumes(MountVolumes mountVolumes)"
   name: "withMountVolumes(MountVolumes mountVolumes)"
   nameWithType: "JobCreateParameters.withMountVolumes(MountVolumes mountVolumes)"
-  summary: "Set information on mount volumes to be used by the job. These volumes will be mounted before the job execution and will be unmouted after the job completion. The volumes will be mounted at location specified by $AZ_BATCHAI_JOB_MOUNT_ROOT environment variable."
+  summary: "Set information on mount volumes to be used by the job. These volumes will be mounted before the job execution and will be unmouted after the job completion. The volumes will be mounted at location specified by $AZ\\_BATCHAI\\_JOB\\_MOUNT\\_ROOT environment variable."
   parameters:
   - description: "the mountVolumes value to set"
     name: "mountVolumes"

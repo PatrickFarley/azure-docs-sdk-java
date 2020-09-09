@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>getLast(Iterator<? extends T> iterator, T defaultValue)"
   name: "<T>getLast(Iterator<? extends T> iterator, T defaultValue)"
   nameWithType: "Iterators.<T>getLast(Iterator<? extends T> iterator, T defaultValue)"
-  summary: "Advances <code>iterator</code> to the end, returning the last element or <code>defaultValue</code> if the\n iterator is empty."
+  summary: "Advances `iterator` to the end, returning the last element or `defaultValue` if the iterator is empty."
   parameters:
   - name: "iterator"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends T?alt=? extends T&text=? extends T\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -23,7 +23,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterators.<T>getLast(Iterator<T> iterator)"
   name: "<T>getLast(Iterator<T> iterator)"
   nameWithType: "Iterators.<T>getLast(Iterator<T> iterator)"
-  summary: "Advances <code>iterator</code> to the end, returning the last element."
+  summary: "Advances `iterator` to the end, returning the last element."
   parameters:
   - name: "iterator"
     type: "<xref href=\"java.util.Iterator?alt=java.util.Iterator&text=Iterator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

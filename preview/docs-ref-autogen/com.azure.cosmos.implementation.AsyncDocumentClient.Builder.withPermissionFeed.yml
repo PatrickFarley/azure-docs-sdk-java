@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.AsyncDocumentClient.Builder.withPermissionFeed(List<Permission> permissionFeed)"
   name: "withPermissionFeed(List<Permission> permissionFeed)"
   nameWithType: "AsyncDocumentClient.Builder.withPermissionFeed(List<Permission> permissionFeed)"
-  summary: "This method will accept the permission list , which contains the\n resource tokens needed to access resources."
+  summary: "This method will accept the permission list , which contains the resource tokens needed to access resources."
   parameters:
   - description: "Permission list for authentication."
     name: "permissionFeed"

@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.ManagementClientAsync.getQueuesAsync(int count, int skip)"
   name: "getQueuesAsync(int count, int skip)"
   nameWithType: "ManagementClientAsync.getQueuesAsync(int count, int skip)"
-  summary: "Retrieves the list of queues present in the namespace.\n You can simulate pages of list of entities by manipulating count and skip parameters.\n skip(0)+count(100) gives first 100 entities. skip(100)+count(100) gives the next 100 entities."
+  summary: "Retrieves the list of queues present in the namespace. You can simulate pages of list of entities by manipulating count and skip parameters. skip(0)+count(100) gives first 100 entities. skip(100)+count(100) gives the next 100 entities."
   parameters:
   - description: "- The number of queues to fetch. Defaults to 100. Maximum value allowed is 100."
     name: "count"

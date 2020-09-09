@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.inner.ActivityLogAlertResourceInner.withEnabled(Boolean enabled)"
   name: "withEnabled(Boolean enabled)"
   nameWithType: "ActivityLogAlertResourceInner.withEnabled(Boolean enabled)"
-  summary: "Set the enabled property: Indicates whether this activity log alert is enabled. If an activity log alert is not\n enabled, then none of its actions will be activated."
+  summary: "Set the enabled property: Indicates whether this activity log alert is enabled. If an activity log alert is not enabled, then none of its actions will be activated."
   parameters:
   - description: "the enabled value to set."
     name: "enabled"

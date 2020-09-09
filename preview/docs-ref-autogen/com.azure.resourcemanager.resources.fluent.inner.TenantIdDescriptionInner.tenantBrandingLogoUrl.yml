@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluent.inner.TenantIdDescriptionInner.tenantBrandingLogoUrl()"
   name: "tenantBrandingLogoUrl()"
   nameWithType: "TenantIdDescriptionInner.tenantBrandingLogoUrl()"
-  summary: "Get the tenantBrandingLogoUrl property: The tenant's branding logo URL. Only available for 'Home' tenant\n category."
+  summary: "Get the tenantBrandingLogoUrl property: The tenant's branding logo URL. Only available for 'Home' tenant category."
   syntax: "public String tenantBrandingLogoUrl()"
   returns:
     description: "the tenantBrandingLogoUrl value."

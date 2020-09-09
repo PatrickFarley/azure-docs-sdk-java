@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.HostnameSslState.withToUpdate(Boolean toUpdate)"
   name: "withToUpdate(Boolean toUpdate)"
   nameWithType: "HostnameSslState.withToUpdate(Boolean toUpdate)"
-  summary: "Set the toUpdate property: Set to &lt;code&gt;true&lt;/code&gt; to update existing hostname."
+  summary: "Set the toUpdate property: Set to <code>true</code> to update existing hostname."
   parameters:
   - description: "the toUpdate value to set."
     name: "toUpdate"

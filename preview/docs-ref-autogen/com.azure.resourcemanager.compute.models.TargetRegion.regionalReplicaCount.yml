@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.TargetRegion.regionalReplicaCount()"
   name: "regionalReplicaCount()"
   nameWithType: "TargetRegion.regionalReplicaCount()"
-  summary: "Get the regionalReplicaCount property: The number of replicas of the Image Version to be created per region. This\n property is updatable."
+  summary: "Get the regionalReplicaCount property: The number of replicas of the Image Version to be created per region. This property is updatable."
   syntax: "public Integer regionalReplicaCount()"
   returns:
     description: "the regionalReplicaCount value."

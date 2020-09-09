@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.getTagsWithResponse(BlobGetTagsOptions options)"
   name: "getTagsWithResponse(BlobGetTagsOptions options)"
   nameWithType: "BlobAsyncClientBase.getTagsWithResponse(BlobGetTagsOptions options)"
-  summary: "Returns the blob's tags.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.getTagsWithResponse&#40;new BlobGetTagsOptions&#40;&#41;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Status code: %d. Num tags: %d%n&quot;, response.getStatusCode&#40;&#41;, response.getValue&#40;&#41;.size&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-tags\">Azure Docs</a></p>"
+  summary: "Returns the blob's tags.\n\n**Code Samples**\n\n```java\nclient.getTagsWithResponse(new BlobGetTagsOptions()).subscribe(response ->\n     System.out.printf(\"Status code: %d. Num tags: %d%n\", response.getStatusCode(), response.getValue().size()));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-tags"
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.options.BlobGetTagsOptions\" data-throw-if-not-resolved=\"false\">BlobGetTagsOptions</xref>"
     name: "options"

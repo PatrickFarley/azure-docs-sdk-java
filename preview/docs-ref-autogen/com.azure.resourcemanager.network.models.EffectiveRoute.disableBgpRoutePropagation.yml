@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.EffectiveRoute.disableBgpRoutePropagation()"
   name: "disableBgpRoutePropagation()"
   nameWithType: "EffectiveRoute.disableBgpRoutePropagation()"
-  summary: "Get the disableBgpRoutePropagation property: If true, on-premises routes are not propagated to the network\n interfaces in the subnet."
+  summary: "Get the disableBgpRoutePropagation property: If true, on-premises routes are not propagated to the network interfaces in the subnet."
   syntax: "public Boolean disableBgpRoutePropagation()"
   returns:
     description: "the disableBgpRoutePropagation value."

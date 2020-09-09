@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.TextDocumentInput.getLanguage()"
   name: "getLanguage()"
   nameWithType: "TextDocumentInput.getLanguage()"
-  summary: "Get the language property: (Optional) This is the 2 letter ISO 639-1\n representation of a language. For example, use \"en\" for English; \"es\"\n for Spanish etc. If not set, use \"en\" for English as default."
+  summary: "Get the language property: (Optional) This is the 2 letter ISO 639-1 representation of a language. For example, use \"en\" for English; \"es\" for Spanish etc. If not set, use \"en\" for English as default."
   syntax: "public String getLanguage()"
   returns:
     description: "The language value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.EncryptionScopeKeyVaultProperties.withKeyUri(String keyUri)"
   name: "withKeyUri(String keyUri)"
   nameWithType: "EncryptionScopeKeyVaultProperties.withKeyUri(String keyUri)"
-  summary: "Set the keyUri property: The object identifier for a key vault key object. When applied, the encryption scope\n will use the key referenced by the identifier to enable customer-managed key support on this encryption scope."
+  summary: "Set the keyUri property: The object identifier for a key vault key object. When applied, the encryption scope will use the key referenced by the identifier to enable customer-managed key support on this encryption scope."
   parameters:
   - description: "the keyUri value to set."
     name: "keyUri"

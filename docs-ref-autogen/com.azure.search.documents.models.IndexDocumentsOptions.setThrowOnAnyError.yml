@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.IndexDocumentsOptions.setThrowOnAnyError(boolean throwOnAnyError)"
   name: "setThrowOnAnyError(boolean throwOnAnyError)"
   nameWithType: "IndexDocumentsOptions.setThrowOnAnyError(boolean throwOnAnyError)"
-  summary: "Sets whether an exception is thrown if any operation in a batch fails.\n <p>\n Default value is <code>true</code>."
+  summary: "Sets whether an exception is thrown if any operation in a batch fails.\n\nDefault value is `true`."
   parameters:
   - description: "Flag indicating whether to throw on batch operation failure."
     name: "throwOnAnyError"

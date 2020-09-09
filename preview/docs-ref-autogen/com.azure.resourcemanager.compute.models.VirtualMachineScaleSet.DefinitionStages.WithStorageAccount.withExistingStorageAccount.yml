@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.DefinitionStages.WithStorageAccount.withExistingStorageAccount(StorageAccount storageAccount)"
   name: "withExistingStorageAccount(StorageAccount storageAccount)"
   nameWithType: "VirtualMachineScaleSet.DefinitionStages.WithStorageAccount.withExistingStorageAccount(StorageAccount storageAccount)"
-  summary: "Specifies an existing storage account for the OS and data disk VHDs of the virtual machines in the scale\n set."
+  summary: "Specifies an existing storage account for the OS and data disk VHDs of the virtual machines in the scale set."
   parameters:
   - description: "an existing storage account"
     name: "storageAccount"

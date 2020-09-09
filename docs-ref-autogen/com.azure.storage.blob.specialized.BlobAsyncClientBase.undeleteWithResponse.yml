@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.BlobAsyncClientBase.undeleteWithResponse()"
   name: "undeleteWithResponse()"
   nameWithType: "BlobAsyncClientBase.undeleteWithResponse()"
-  summary: "Undelete restores the content and metadata of a soft-deleted blob and/or any associated soft-deleted snapshots.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.undeleteWithResponse&#40;&#41;\n     .subscribe&#40;response -&gt; System.out.printf&#40;&quot;Undelete completed with status %d%n&quot;, response.getStatusCode&#40;&#41;&#41;&#41;;\n </pre>\n\n <p>For more information, see the\n <a href=\"https://docs.microsoft.com/en-us/rest/api/storageservices/undelete-blob\">Azure Docs</a></p>"
+  summary: "Undelete restores the content and metadata of a soft-deleted blob and/or any associated soft-deleted snapshots.\n\n**Code Samples**\n\n```java\nclient.undeleteWithResponse()\n     .subscribe(response -> System.out.printf(\"Undelete completed with status %d%n\", response.getStatusCode()));\n```\n\nFor more information, see the [Azure Docs][]\n\n\n[Azure Docs]: https://docs.microsoft.com/en-us/rest/api/storageservices/undelete-blob"
   syntax: "public Mono<Response<Void>> undeleteWithResponse()"
   returns:
     description: "A reactive response signalling completion."

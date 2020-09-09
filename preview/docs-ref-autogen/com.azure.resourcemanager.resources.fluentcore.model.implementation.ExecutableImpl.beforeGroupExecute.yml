@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.model.implementation.ExecutableImpl<FluentModelT>.beforeGroupExecute()"
   name: "beforeGroupExecute()"
   nameWithType: "ExecutableImpl<FluentModelT>.beforeGroupExecute()"
-  summary: "The method that gets called before invoking all the tasks in the <xref uid=\"TaskGroup\" data-throw-if-not-resolved=\"false\">TaskGroup</xref>\n that the parent <xref uid=\"ExecuteTask\" data-throw-if-not-resolved=\"false\">ExecuteTask</xref> belongs to."
+  summary: "The method that gets called before invoking all the tasks in the <xref uid=\"com.azure.resourcemanager.resources.fluentcore.dag.TaskGroup\" data-throw-if-not-resolved=\"false\">TaskGroup</xref> that the parent <xref uid=\"com.azure.resourcemanager.resources.fluentcore.model.implementation.ExecuteTask\" data-throw-if-not-resolved=\"false\">ExecuteTask</xref> belongs to."
   syntax: "public void beforeGroupExecute()"
 type: "method"
 metadata: {}

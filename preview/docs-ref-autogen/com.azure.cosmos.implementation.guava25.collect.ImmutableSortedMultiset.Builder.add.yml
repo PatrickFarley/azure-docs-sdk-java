@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMultiset.Builder<E>.add(E element)"
   name: "add(E element)"
   nameWithType: "ImmutableSortedMultiset.Builder<E>.add(E element)"
-  summary: "Adds <code>element</code> to the <code>ImmutableSortedMultiset</code>."
+  summary: "Adds `element` to the `ImmutableSortedMultiset`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset.Builder.add(E)"
   parameters:
   - description: "the element to add"
@@ -22,7 +22,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMultiset.Builder<E>.add(E[] elements)"
   name: "add(E[] elements)"
   nameWithType: "ImmutableSortedMultiset.Builder<E>.add(E[] elements)"
-  summary: "Adds each element of <code>elements</code> to the <code>ImmutableSortedMultiset</code>."
+  summary: "Adds each element of `elements` to the `ImmutableSortedMultiset`."
   overridden: "com.azure.cosmos.implementation.guava25.collect.ImmutableMultiset.Builder.add(E...)"
   parameters:
   - description: "the elements to add"

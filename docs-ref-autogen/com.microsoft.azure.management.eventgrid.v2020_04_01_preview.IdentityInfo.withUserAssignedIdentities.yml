@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.IdentityInfo.withUserAssignedIdentities(Map<String,UserIdentityProperties> userAssignedIdentities)"
   name: "withUserAssignedIdentities(Map<String,UserIdentityProperties> userAssignedIdentities)"
   nameWithType: "IdentityInfo.withUserAssignedIdentities(Map<String,UserIdentityProperties> userAssignedIdentities)"
-  summary: "Set the list of user identities associated with the resource. The user identity dictionary key references will be ARM resource ids in the form:\n     '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'.\n     This property is currently not used and reserved for future usage."
+  summary: "Set the list of user identities associated with the resource. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/\\{subscriptionId\\}/resourceGroups/\\{resourceGroupName\\}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/\\{identityName\\}'. This property is currently not used and reserved for future usage."
   parameters:
   - description: "the userAssignedIdentities value to set"
     name: "userAssignedIdentities"

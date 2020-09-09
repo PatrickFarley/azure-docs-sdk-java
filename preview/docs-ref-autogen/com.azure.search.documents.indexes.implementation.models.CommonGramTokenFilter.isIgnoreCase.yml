@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.CommonGramTokenFilter.isIgnoreCase()"
   name: "isIgnoreCase()"
   nameWithType: "CommonGramTokenFilter.isIgnoreCase()"
-  summary: "Get the ignoreCase property: A value indicating whether common words matching will be case insensitive. Default\n is false."
+  summary: "Get the ignoreCase property: A value indicating whether common words matching will be case insensitive. Default is false."
   syntax: "public Boolean isIgnoreCase()"
   returns:
     description: "the ignoreCase value."

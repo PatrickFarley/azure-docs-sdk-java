@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchClient.certificateOperations()"
   name: "certificateOperations()"
   nameWithType: "BatchClient.certificateOperations()"
-  summary: "Gets a <xref uid=\"CertificateOperations\" data-throw-if-not-resolved=\"false\">CertificateOperations</xref> object for performing certificate-related operations on the associated account."
+  summary: "Gets a <xref uid=\"com.microsoft.azure.batch.CertificateOperations\" data-throw-if-not-resolved=\"false\">CertificateOperations</xref> object for performing certificate-related operations on the associated account."
   syntax: "public CertificateOperations certificateOperations()"
   returns:
     description: "An instance of the <xref uid=\"com.microsoft.azure.batch.CertificateOperations\" data-throw-if-not-resolved=\"false\">CertificateOperations</xref> class."

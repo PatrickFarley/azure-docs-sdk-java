@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.primitives.Ints.concat(int[][] arrays)"
   name: "concat(int[][] arrays)"
   nameWithType: "Ints.concat(int[][] arrays)"
-  summary: "Returns the values from each provided array combined into a single array. For example, <code>\n concat(new int[] {a, b}, new int[] {}, new int[] {c}</code> returns the array <code>{a, b, c}</code>."
+  summary: "Returns the values from each provided array combined into a single array. For example, `concat(new int[] {a, b}, new int[] {}, new int[] {c}` returns the array `{a, b, c}`."
   parameters:
   - description: "zero or more <code>int</code> arrays"
     name: "arrays"

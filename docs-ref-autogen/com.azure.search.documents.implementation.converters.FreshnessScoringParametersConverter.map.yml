@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.FreshnessScoringParametersConverter.map(FreshnessScoringParameters obj)"
   name: "map(FreshnessScoringParameters obj)"
   nameWithType: "FreshnessScoringParametersConverter.map(FreshnessScoringParameters obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters</xref> to\n <xref uid=\"FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">FreshnessScoringParameters</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters</xref> to <xref uid=\"com.azure.search.documents.indexes.models.FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">FreshnessScoringParameters</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters?alt=com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters&text=FreshnessScoringParameters\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.FreshnessScoringParametersConverter.map(FreshnessScoringParameters obj)"
   name: "map(FreshnessScoringParameters obj)"
   nameWithType: "FreshnessScoringParametersConverter.map(FreshnessScoringParameters obj)"
-  summary: "Maps from <xref uid=\"FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">FreshnessScoringParameters</xref> to\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">FreshnessScoringParameters</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.FreshnessScoringParameters</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.FreshnessScoringParameters?alt=com.azure.search.documents.indexes.models.FreshnessScoringParameters&text=FreshnessScoringParameters\" data-throw-if-not-resolved=\"False\" />"

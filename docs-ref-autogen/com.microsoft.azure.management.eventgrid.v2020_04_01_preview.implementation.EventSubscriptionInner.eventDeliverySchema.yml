@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionInner.eventDeliverySchema()"
   name: "eventDeliverySchema()"
   nameWithType: "EventSubscriptionInner.eventDeliverySchema()"
-  summary: "Get the event delivery schema for the event subscription. Possible values include: 'EventGridSchema', 'CustomInputSchema', 'CloudEventSchemaV1_0'."
+  summary: "Get the event delivery schema for the event subscription. Possible values include: 'EventGridSchema', 'CustomInputSchema', 'CloudEventSchemaV1\\_0'."
   syntax: "public EventDeliverySchema eventDeliverySchema()"
   returns:
     description: "the eventDeliverySchema value"

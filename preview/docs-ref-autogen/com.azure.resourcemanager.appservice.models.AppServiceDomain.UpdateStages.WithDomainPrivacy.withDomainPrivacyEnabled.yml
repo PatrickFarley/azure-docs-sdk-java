@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceDomain.UpdateStages.WithDomainPrivacy.withDomainPrivacyEnabled(boolean domainPrivacy)"
   name: "withDomainPrivacyEnabled(boolean domainPrivacy)"
   nameWithType: "AppServiceDomain.UpdateStages.WithDomainPrivacy.withDomainPrivacyEnabled(boolean domainPrivacy)"
-  summary: "Specifies if the registrant contact information is exposed publicly. If domain privacy is turned on, the\n contact information will NOT be available publicly."
+  summary: "Specifies if the registrant contact information is exposed publicly. If domain privacy is turned on, the contact information will NOT be available publicly."
   parameters:
   - description: "true if domain privacy is turned on"
     name: "domainPrivacy"

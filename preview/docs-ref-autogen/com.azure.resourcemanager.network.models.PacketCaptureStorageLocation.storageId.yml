@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.PacketCaptureStorageLocation.storageId()"
   name: "storageId()"
   nameWithType: "PacketCaptureStorageLocation.storageId()"
-  summary: "Get the storageId property: The ID of the storage account to save the packet capture session. Required if no\n local file path is provided."
+  summary: "Get the storageId property: The ID of the storage account to save the packet capture session. Required if no local file path is provided."
   syntax: "public String storageId()"
   returns:
     description: "the storageId value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.formrecognizer.training.models.CopyAuthorization.getResourceId()"
   name: "getResourceId()"
   nameWithType: "CopyAuthorization.getResourceId()"
-  summary: "Get the Azure Resource Id of the target Form Recognizer resource\n where the model will be copied to."
+  summary: "Get the Azure Resource Id of the target Form Recognizer resource where the model will be copied to."
   syntax: "public String getResourceId()"
   returns:
     description: "the <code>resourceId</code> value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.uuid.EthernetAddress.compareTo(EthernetAddress other)"
   name: "compareTo(EthernetAddress other)"
   nameWithType: "EthernetAddress.compareTo(EthernetAddress other)"
-  summary: "Method that compares this EthernetAddress to one passed in as\n argument. Comparison is done simply by comparing individual\n address bytes in the order."
+  summary: "Method that compares this EthernetAddress to one passed in as argument. Comparison is done simply by comparing individual address bytes in the order."
   parameters:
   - name: "other"
     type: "<xref href=\"com.azure.cosmos.implementation.uuid.EthernetAddress?alt=com.azure.cosmos.implementation.uuid.EthernetAddress&text=EthernetAddress\" data-throw-if-not-resolved=\"False\" />"

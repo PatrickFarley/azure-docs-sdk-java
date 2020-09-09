@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.NetworkRuleSet.withDefaultAction(NetworkRuleAction defaultAction)"
   name: "withDefaultAction(NetworkRuleAction defaultAction)"
   nameWithType: "NetworkRuleSet.withDefaultAction(NetworkRuleAction defaultAction)"
-  summary: "Set the defaultAction property: The default action when no rule from ipRules and from virtualNetworkRules match.\n This is only used after the bypass property has been evaluated."
+  summary: "Set the defaultAction property: The default action when no rule from ipRules and from virtualNetworkRules match. This is only used after the bypass property has been evaluated."
   parameters:
   - description: "the defaultAction value to set."
     name: "defaultAction"

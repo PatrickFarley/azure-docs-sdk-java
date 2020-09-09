@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosDatabase.getContainer(String id)"
   name: "getContainer(String id)"
   nameWithType: "CosmosDatabase.getContainer(String id)"
-  summary: "Gets a Cosmos container instance without making a service call.\n <p>\n To get the actual object a read operation must be performed first."
+  summary: "Gets a Cosmos container instance without making a service call.\n\nTo get the actual object a read operation must be performed first."
   parameters:
   - description: "id of the container."
     name: "id"

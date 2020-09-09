@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineInner.priority()"
   name: "priority()"
   nameWithType: "VirtualMachineInner.priority()"
-  summary: "Get the priority property: Specifies the priority for the virtual machine. &lt;br&gt;&lt;br&gt;Minimum\n api-version: 2019-03-01."
+  summary: "Get the priority property: Specifies the priority for the virtual machine. <br><br>Minimum api-version: 2019-03-01."
   syntax: "public VirtualMachinePriorityTypes priority()"
   returns:
     description: "the priority value."

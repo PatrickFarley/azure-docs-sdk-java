@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.visualsearch.BingImages.visualSearch()"
   name: "visualSearch()"
   nameWithType: "BingImages.visualSearch()"
-  summary: "Visual Search API lets you discover insights about an image such as visually similar images, shopping\n   sources, and related searches. The API can also perform text recognition, identify entities (people, places,\n   things), return other topical content for the user to explore, and more. For more information, see [Visual\n   Search Overview](https://docs.microsoft.com/azure/cognitive-services/bing-visual-search/overview)."
+  summary: "Visual Search API lets you discover insights about an image such as visually similar images, shopping sources, and related searches. The API can also perform text recognition, identify entities (people, places, things), return other topical content for the user to explore, and more. For more information, see \\[Visual Search Overview\\](https://docs.microsoft.com/azure/cognitive-services/bing-visual-search/overview)."
   syntax: "public abstract BingImages.BingImagesVisualSearchDefinitionStages.WithExecute visualSearch()"
   returns:
     description: "the first stage of the visualSearch call"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.visualsearch.BingImages.visualSearch(VisualSearchOptionalParameter visualSearchOptionalParameter)"
   name: "visualSearch(VisualSearchOptionalParameter visualSearchOptionalParameter)"
   nameWithType: "BingImages.visualSearch(VisualSearchOptionalParameter visualSearchOptionalParameter)"
-  summary: "Visual Search API lets you discover insights about an image such as visually similar images, shopping\n   sources, and related searches. The API can also perform text recognition, identify entities (people, places,\n   things), return other topical content for the user to explore, and more. For more information, see [Visual\n   Search Overview](https://docs.microsoft.com/azure/cognitive-services/bing-visual-search/overview)."
+  summary: "Visual Search API lets you discover insights about an image such as visually similar images, shopping sources, and related searches. The API can also perform text recognition, identify entities (people, places, things), return other topical content for the user to explore, and more. For more information, see \\[Visual Search Overview\\](https://docs.microsoft.com/azure/cognitive-services/bing-visual-search/overview)."
   parameters:
   - description: "the object representing the optional parameters to be set before calling this API"
     name: "visualSearchOptionalParameter"

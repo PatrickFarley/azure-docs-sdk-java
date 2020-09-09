@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ConnectionPolicy.setMaxConnectionPoolSize(int maxConnectionPoolSize)"
   name: "setMaxConnectionPoolSize(int maxConnectionPoolSize)"
   nameWithType: "ConnectionPolicy.setMaxConnectionPoolSize(int maxConnectionPoolSize)"
-  summary: "Sets the value of the connection pool size, the default\n is 1000."
+  summary: "Sets the value of the connection pool size, the default is 1000."
   parameters:
   - description: "The value of the connection pool size."
     name: "maxConnectionPoolSize"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareFileDownloadHeaders.getContentRange()"
   name: "getContentRange()"
   nameWithType: "ShareFileDownloadHeaders.getContentRange()"
-  summary: "Get the contentRange property: Indicates the range of bytes returned if\n the client requested a subset of the file by setting the Range request\n header."
+  summary: "Get the contentRange property: Indicates the range of bytes returned if the client requested a subset of the file by setting the Range request header."
   syntax: "public String getContentRange()"
   returns:
     description: "the contentRange value."

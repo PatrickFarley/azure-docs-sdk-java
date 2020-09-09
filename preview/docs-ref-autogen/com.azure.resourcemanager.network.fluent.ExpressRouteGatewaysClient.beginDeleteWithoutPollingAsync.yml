@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRouteGatewaysClient.beginDeleteWithoutPollingAsync(String resourceGroupName, String expressRouteGatewayName)"
   name: "beginDeleteWithoutPollingAsync(String resourceGroupName, String expressRouteGatewayName)"
   nameWithType: "ExpressRouteGatewaysClient.beginDeleteWithoutPollingAsync(String resourceGroupName, String expressRouteGatewayName)"
-  summary: "Deletes the specified ExpressRoute gateway in a resource group. An ExpressRoute gateway resource can only be\n deleted when there are no connection subresources."
+  summary: "Deletes the specified ExpressRoute gateway in a resource group. An ExpressRoute gateway resource can only be deleted when there are no connection subresources."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.ExpressRouteGatewaysClient.beginDeleteWithoutPollingAsync(String resourceGroupName, String expressRouteGatewayName, Context context)"
   name: "beginDeleteWithoutPollingAsync(String resourceGroupName, String expressRouteGatewayName, Context context)"
   nameWithType: "ExpressRouteGatewaysClient.beginDeleteWithoutPollingAsync(String resourceGroupName, String expressRouteGatewayName, Context context)"
-  summary: "Deletes the specified ExpressRoute gateway in a resource group. An ExpressRoute gateway resource can only be\n deleted when there are no connection subresources."
+  summary: "Deletes the specified ExpressRoute gateway in a resource group. An ExpressRoute gateway resource can only be deleted when there are no connection subresources."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

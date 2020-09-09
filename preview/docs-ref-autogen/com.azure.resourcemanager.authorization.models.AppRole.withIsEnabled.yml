@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.AppRole.withIsEnabled(Boolean isEnabled)"
   name: "withIsEnabled(Boolean isEnabled)"
   nameWithType: "AppRole.withIsEnabled(Boolean isEnabled)"
-  summary: "Set the isEnabled property: When creating or updating a role definition, this must be set to true (which is the\n default). To delete a role, this must first be set to false. At that point, in a subsequent call, this role may\n be removed."
+  summary: "Set the isEnabled property: When creating or updating a role definition, this must be set to true (which is the default). To delete a role, this must first be set to false. At that point, in a subsequent call, this role may be removed."
   parameters:
   - description: "the isEnabled value to set."
     name: "isEnabled"

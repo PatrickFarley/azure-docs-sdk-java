@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ClassToInstanceMap<B>.<T>getInstance(Class<T> type)"
   name: "<T>getInstance(Class<T> type)"
   nameWithType: "ClassToInstanceMap<B>.<T>getInstance(Class<T> type)"
-  summary: "Returns the value the specified class is mapped to, or <code>null</code> if no entry for this class\n is present. This will only return a value that was bound to this specific class, not a value\n that may have been bound to a subtype."
+  summary: "Returns the value the specified class is mapped to, or `null` if no entry for this class is present. This will only return a value that was bound to this specific class, not a value that may have been bound to a subtype."
   parameters:
   - name: "type"
     type: "<xref href=\"java.lang.Class?alt=java.lang.Class&text=Class\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />&gt;"

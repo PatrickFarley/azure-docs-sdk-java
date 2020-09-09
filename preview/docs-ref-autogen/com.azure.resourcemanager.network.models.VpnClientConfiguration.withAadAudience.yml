@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.VpnClientConfiguration.withAadAudience(String aadAudience)"
   name: "withAadAudience(String aadAudience)"
   nameWithType: "VpnClientConfiguration.withAadAudience(String aadAudience)"
-  summary: "Set the aadAudience property: The AADAudience property of the VirtualNetworkGateway resource for vpn client\n connection used for AAD authentication."
+  summary: "Set the aadAudience property: The AADAudience property of the VirtualNetworkGateway resource for vpn client connection used for AAD authentication."
   parameters:
   - description: "the aadAudience value to set."
     name: "aadAudience"

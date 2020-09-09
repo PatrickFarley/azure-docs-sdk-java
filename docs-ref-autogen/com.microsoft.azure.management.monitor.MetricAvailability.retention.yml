@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.monitor.MetricAvailability.retention()"
   name: "retention()"
   nameWithType: "MetricAvailability.retention()"
-  summary: "Get the retention period for the metric at the specified timegrain.  Expressed as a duration 'PT1M', 'P1D', etc."
+  summary: "Get the retention period for the metric at the specified timegrain. Expressed as a duration 'PT1M', 'P1D', etc."
   syntax: "public Period retention()"
   returns:
     description: "the retention value"

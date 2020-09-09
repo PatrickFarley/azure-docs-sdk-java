@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedInstanceInner.maintenanceConfigurationId()"
   name: "maintenanceConfigurationId()"
   nameWithType: "ManagedInstanceInner.maintenanceConfigurationId()"
-  summary: "Get the maintenanceConfigurationId property: Specifies maintenance configuration id to apply to this managed\n instance."
+  summary: "Get the maintenanceConfigurationId property: Specifies maintenance configuration id to apply to this managed instance."
   syntax: "public String maintenanceConfigurationId()"
   returns:
     description: "the maintenanceConfigurationId value."

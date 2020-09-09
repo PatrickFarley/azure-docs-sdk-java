@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ImageAnalysisSkill.setDetails(ImageDetail[] details)"
   name: "setDetails(ImageDetail[] details)"
   nameWithType: "ImageAnalysisSkill.setDetails(ImageDetail[] details)"
-  summary: "Set the details property: A string indicating which domain-specific\n details to return."
+  summary: "Set the details property: A string indicating which domain-specific details to return."
   parameters:
   - description: "the details value to set."
     name: "details"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.ImageAnalysisSkill.setDetails(List<ImageDetail> details)"
   name: "setDetails(List<ImageDetail> details)"
   nameWithType: "ImageAnalysisSkill.setDetails(List<ImageDetail> details)"
-  summary: "Set the details property: A string indicating which domain-specific\n details to return."
+  summary: "Set the details property: A string indicating which domain-specific details to return."
   parameters:
   - description: "the details value to set."
     name: "details"

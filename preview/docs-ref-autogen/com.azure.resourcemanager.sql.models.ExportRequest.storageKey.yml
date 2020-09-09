@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ExportRequest.storageKey()"
   name: "storageKey()"
   nameWithType: "ExportRequest.storageKey()"
-  summary: "Get the storageKey property: The storage key to use. If storage key type is SharedAccessKey, it must be preceded\n with a \"?.\"."
+  summary: "Get the storageKey property: The storage key to use. If storage key type is SharedAccessKey, it must be preceded with a \"?.\"."
   syntax: "public String storageKey()"
   returns:
     description: "the storageKey value."

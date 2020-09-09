@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SearchDocumentsResult.getFacets()"
   name: "getFacets()"
   nameWithType: "SearchDocumentsResult.getFacets()"
-  summary: "Get the facets property: The facet query results for the search operation, organized as a collection of buckets\n for each faceted field; null if the query did not include any facet expressions."
+  summary: "Get the facets property: The facet query results for the search operation, organized as a collection of buckets for each faceted field; null if the query did not include any facet expressions."
   syntax: "public Map<String,List<FacetResult>> getFacets()"
   returns:
     description: "the facets value."

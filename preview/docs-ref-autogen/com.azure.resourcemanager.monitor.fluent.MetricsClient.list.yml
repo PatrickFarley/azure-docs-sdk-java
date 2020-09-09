@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.MetricsClient.list(String resourceUri)"
   name: "list(String resourceUri)"
   nameWithType: "MetricsClient.list(String resourceUri)"
-  summary: "**Lists the metric values for a resource**."
+  summary: "\\*\\*Lists the metric values for a resource\\*\\*."
   parameters:
   - description: "The identifier of the resource."
     name: "resourceUri"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.MetricsClient.list(String resourceUri, String timespan, Duration interval, String metricnames, String aggregation, Integer top, String orderby, String filter, ResultType resultType, String metricnamespace)"
   name: "list(String resourceUri, String timespan, Duration interval, String metricnames, String aggregation, Integer top, String orderby, String filter, ResultType resultType, String metricnamespace)"
   nameWithType: "MetricsClient.list(String resourceUri, String timespan, Duration interval, String metricnames, String aggregation, Integer top, String orderby, String filter, ResultType resultType, String metricnamespace)"
-  summary: "**Lists the metric values for a resource**."
+  summary: "\\*\\*Lists the metric values for a resource\\*\\*."
   parameters:
   - description: "The identifier of the resource."
     name: "resourceUri"
@@ -61,7 +61,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.fluent.MetricsClient.list(String resourceUri, String timespan, Duration interval, String metricnames, String aggregation, Integer top, String orderby, String filter, ResultType resultType, String metricnamespace, Context context)"
   name: "list(String resourceUri, String timespan, Duration interval, String metricnames, String aggregation, Integer top, String orderby, String filter, ResultType resultType, String metricnamespace, Context context)"
   nameWithType: "MetricsClient.list(String resourceUri, String timespan, Duration interval, String metricnames, String aggregation, Integer top, String orderby, String filter, ResultType resultType, String metricnamespace, Context context)"
-  summary: "**Lists the metric values for a resource**."
+  summary: "\\*\\*Lists the metric values for a resource\\*\\*."
   parameters:
   - description: "The identifier of the resource."
     name: "resourceUri"

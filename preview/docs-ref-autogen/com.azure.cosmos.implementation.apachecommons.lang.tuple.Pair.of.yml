@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.<L,R>of(L left, R right)"
   name: "<L,R>of(L left, R right)"
   nameWithType: "Pair<L,R>.<L,R>of(L left, R right)"
-  summary: "<p>Obtains an immutable pair of two objects inferring the generic types.</p>\n\n <p>This factory allows the pair to be created using inference to\n obtain the generic types.</p>"
+  summary: "Obtains an immutable pair of two objects inferring the generic types.\n\nThis factory allows the pair to be created using inference to obtain the generic types."
   parameters:
   - description: "the left element, may be null"
     name: "left"

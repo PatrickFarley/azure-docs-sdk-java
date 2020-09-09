@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ManagedClusterAgentPoolProfileProperties.withAvailabilityZones(List<String> availabilityZones)"
   name: "withAvailabilityZones(List<String> availabilityZones)"
   nameWithType: "ManagedClusterAgentPoolProfileProperties.withAvailabilityZones(List<String> availabilityZones)"
-  summary: "Set the availabilityZones property: (PREVIEW) Availability zones for nodes. Must use VirtualMachineScaleSets\n AgentPoolType."
+  summary: "Set the availabilityZones property: (PREVIEW) Availability zones for nodes. Must use VirtualMachineScaleSets AgentPoolType."
   parameters:
   - description: "the availabilityZones value to set."
     name: "availabilityZones"

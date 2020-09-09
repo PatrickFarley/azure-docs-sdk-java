@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.listSharedAccessKeys(String resourceGroupName, String domainName)"
   name: "listSharedAccessKeys(String resourceGroupName, String domainName)"
   nameWithType: "DomainsInner.listSharedAccessKeys(String resourceGroupName, String domainName)"
-  summary: "List keys for a domain.\n List the two keys used to publish to a domain."
+  summary: "List keys for a domain. List the two keys used to publish to a domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

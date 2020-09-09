@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.IndexingSchedule.getStartTime()"
   name: "getStartTime()"
   nameWithType: "IndexingSchedule.getStartTime()"
-  summary: "Get the startTime property: The time when an indexer should start\n running."
+  summary: "Get the startTime property: The time when an indexer should start running."
   syntax: "public OffsetDateTime getStartTime()"
   returns:
     description: "the startTime value."

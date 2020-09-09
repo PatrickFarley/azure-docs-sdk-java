@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.keyvault.models.Vault.UpdateStages.WithNetworkRuleSet.withAccessFromSelectedNetworks()"
   name: "withAccessFromSelectedNetworks()"
   nameWithType: "Vault.UpdateStages.WithNetworkRuleSet.withAccessFromSelectedNetworks()"
-  summary: "Specifies that by default access to key vault should be denied from all networks. except from those\n networks specified via withVirtualNetworkRules, withAccessFromIpAddressRange withAccesFromIpAddress"
+  summary: "Specifies that by default access to key vault should be denied from all networks. except from those networks specified via withVirtualNetworkRules, withAccessFromIpAddressRange withAccesFromIpAddress"
   syntax: "public abstract Vault.Update withAccessFromSelectedNetworks()"
   returns:
     description: "the update stage of key vault definition"

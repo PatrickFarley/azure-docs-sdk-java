@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Sets.<E>symmetricDifference(Set<? extends E> set1, Set<? extends E> set2)"
   name: "<E>symmetricDifference(Set<? extends E> set1, Set<? extends E> set2)"
   nameWithType: "Sets.<E>symmetricDifference(Set<? extends E> set1, Set<? extends E> set2)"
-  summary: "Returns an unmodifiable <b>view</b> of the symmetric difference of two sets. The returned set\n contains all elements that are contained in either <code>set1</code> or <code>set2</code> but not in\n both. The iteration order of the returned set is undefined.\n\n <p>Results are undefined if <code>set1</code> and <code>set2</code> are sets based on different\n equivalence relations (as <code>HashSet</code>, <code>TreeSet</code>, and the keySet of an <code>\n IdentityHashMap</code> all are)."
+  summary: "Returns an unmodifiable **view** of the symmetric difference of two sets. The returned set contains all elements that are contained in either `set1` or `set2` but not in both. The iteration order of the returned set is undefined.\n\nResults are undefined if `set1` and `set2` are sets based on different equivalence relations (as `HashSet`, `TreeSet`, and the keySet of an `IdentityHashMap` all are)."
   parameters:
   - name: "set1"
     type: "<xref href=\"java.util.Set?alt=java.util.Set&text=Set\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? extends E?alt=? extends E&text=? extends E\" data-throw-if-not-resolved=\"False\" />&gt;"

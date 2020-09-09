@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.NetworkWatchersClient.checkConnectivityAsync(String resourceGroupName, String networkWatcherName, ConnectivityParameters parameters)"
   name: "checkConnectivityAsync(String resourceGroupName, String networkWatcherName, ConnectivityParameters parameters)"
   nameWithType: "NetworkWatchersClient.checkConnectivityAsync(String resourceGroupName, String networkWatcherName, ConnectivityParameters parameters)"
-  summary: "Verifies the possibility of establishing a direct TCP connection from a virtual machine to a given endpoint\n including another VM or an arbitrary remote server."
+  summary: "Verifies the possibility of establishing a direct TCP connection from a virtual machine to a given endpoint including another VM or an arbitrary remote server."
   parameters:
   - description: "The name of the network watcher resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.NetworkWatchersClient.checkConnectivityAsync(String resourceGroupName, String networkWatcherName, ConnectivityParameters parameters, Context context)"
   name: "checkConnectivityAsync(String resourceGroupName, String networkWatcherName, ConnectivityParameters parameters, Context context)"
   nameWithType: "NetworkWatchersClient.checkConnectivityAsync(String resourceGroupName, String networkWatcherName, ConnectivityParameters parameters, Context context)"
-  summary: "Verifies the possibility of establishing a direct TCP connection from a virtual machine to a given endpoint\n including another VM or an arbitrary remote server."
+  summary: "Verifies the possibility of establishing a direct TCP connection from a virtual machine to a given endpoint including another VM or an arbitrary remote server."
   parameters:
   - description: "The name of the network watcher resource group."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachinesClient.listAsync()"
   name: "listAsync()"
   nameWithType: "VirtualMachinesClient.listAsync()"
-  summary: "Lists all of the virtual machines in the specified subscription. Use the nextLink property in the response to get\n the next page of virtual machines."
+  summary: "Lists all of the virtual machines in the specified subscription. Use the nextLink property in the response to get the next page of virtual machines."
   syntax: "public PagedFlux<VirtualMachineInner> listAsync()"
   returns:
     description: "the List Virtual Machine operation response."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachinesClient.listAsync(Context context)"
   name: "listAsync(Context context)"
   nameWithType: "VirtualMachinesClient.listAsync(Context context)"
-  summary: "Lists all of the virtual machines in the specified subscription. Use the nextLink property in the response to get\n the next page of virtual machines."
+  summary: "Lists all of the virtual machines in the specified subscription. Use the nextLink property in the response to get the next page of virtual machines."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

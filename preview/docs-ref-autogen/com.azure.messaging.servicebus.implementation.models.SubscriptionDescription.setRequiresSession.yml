@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.SubscriptionDescription.setRequiresSession(Boolean requiresSession)"
   name: "setRequiresSession(Boolean requiresSession)"
   nameWithType: "SubscriptionDescription.setRequiresSession(Boolean requiresSession)"
-  summary: "Set the requiresSession property: A value that indicates whether the subscription supports the concept of\n sessions."
+  summary: "Set the requiresSession property: A value that indicates whether the subscription supports the concept of sessions."
   parameters:
   - description: "the requiresSession value to set."
     name: "requiresSession"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.SystemTopicEventSubscriptionsInner.beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName, String eventSubscriptionName, EventSubscriptionUpdateParameters eventSubscriptionUpdateParameters)"
   name: "beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName, String eventSubscriptionName, EventSubscriptionUpdateParameters eventSubscriptionUpdateParameters)"
   nameWithType: "SystemTopicEventSubscriptionsInner.beginUpdateWithServiceResponseAsync(String resourceGroupName, String systemTopicName, String eventSubscriptionName, EventSubscriptionUpdateParameters eventSubscriptionUpdateParameters)"
-  summary: "Update event subscription of a system topic.\n Update event subscription of a system topic."
+  summary: "Update event subscription of a system topic. Update event subscription of a system topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

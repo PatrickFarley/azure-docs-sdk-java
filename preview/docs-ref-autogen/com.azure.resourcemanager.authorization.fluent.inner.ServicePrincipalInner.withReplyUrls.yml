@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ServicePrincipalInner.withReplyUrls(List<String> replyUrls)"
   name: "withReplyUrls(List<String> replyUrls)"
   nameWithType: "ServicePrincipalInner.withReplyUrls(List<String> replyUrls)"
-  summary: "Set the replyUrls property: The URLs that user tokens are sent to for sign in with the associated application.\n The redirect URIs that the oAuth 2.0 authorization code and access tokens are sent to for the associated\n application."
+  summary: "Set the replyUrls property: The URLs that user tokens are sent to for sign in with the associated application. The redirect URIs that the oAuth 2.0 authorization code and access tokens are sent to for the associated application."
   parameters:
   - description: "the replyUrls value to set."
     name: "replyUrls"

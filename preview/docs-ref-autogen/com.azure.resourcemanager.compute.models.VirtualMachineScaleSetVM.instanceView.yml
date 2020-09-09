@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetVM.instanceView()"
   name: "instanceView()"
   nameWithType: "VirtualMachineScaleSetVM.instanceView()"
-  summary: "Gets the instance view of the virtual machine instance.\n\n <p>To get the latest instance view use <code>refreshInstanceView()</code>."
+  summary: "Gets the instance view of the virtual machine instance.\n\nTo get the latest instance view use `refreshInstanceView()`."
   syntax: "public abstract VirtualMachineInstanceView instanceView()"
   returns:
     description: "the instance view"

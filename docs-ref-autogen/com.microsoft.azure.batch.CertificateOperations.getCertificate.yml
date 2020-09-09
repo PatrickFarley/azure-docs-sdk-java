@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.CertificateOperations.getCertificate(String thumbprintAlgorithm, String thumbprint)"
   name: "getCertificate(String thumbprintAlgorithm, String thumbprint)"
   nameWithType: "CertificateOperations.getCertificate(String thumbprintAlgorithm, String thumbprint)"
-  summary: "Gets the specified <xref uid=\"Certificate\" data-throw-if-not-resolved=\"false\">Certificate</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.Certificate\" data-throw-if-not-resolved=\"false\">Certificate</xref>."
   parameters:
   - description: "The algorithm used to derive the thumbprint parameter. This must be sha1."
     name: "thumbprintAlgorithm"
@@ -29,7 +29,7 @@ members:
   fullName: "com.microsoft.azure.batch.CertificateOperations.getCertificate(String thumbprintAlgorithm, String thumbprint, DetailLevel detailLevel)"
   name: "getCertificate(String thumbprintAlgorithm, String thumbprint, DetailLevel detailLevel)"
   nameWithType: "CertificateOperations.getCertificate(String thumbprintAlgorithm, String thumbprint, DetailLevel detailLevel)"
-  summary: "Gets the specified <xref uid=\"Certificate\" data-throw-if-not-resolved=\"false\">Certificate</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.Certificate\" data-throw-if-not-resolved=\"false\">Certificate</xref>."
   parameters:
   - description: "The algorithm used to derive the thumbprint parameter. This must be sha1."
     name: "thumbprintAlgorithm"
@@ -53,7 +53,7 @@ members:
   fullName: "com.microsoft.azure.batch.CertificateOperations.getCertificate(String thumbprintAlgorithm, String thumbprint, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "getCertificate(String thumbprintAlgorithm, String thumbprint, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "CertificateOperations.getCertificate(String thumbprintAlgorithm, String thumbprint, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Gets the specified <xref uid=\"Certificate\" data-throw-if-not-resolved=\"false\">Certificate</xref>."
+  summary: "Gets the specified <xref uid=\"com.microsoft.azure.batch.protocol.models.Certificate\" data-throw-if-not-resolved=\"false\">Certificate</xref>."
   parameters:
   - description: "the algorithm used to derive the thumbprint parameter. This must be sha1."
     name: "thumbprintAlgorithm"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.SearchClientBuilder.pipeline(HttpPipeline httpPipeline)"
   name: "pipeline(HttpPipeline httpPipeline)"
   nameWithType: "SearchClientBuilder.pipeline(HttpPipeline httpPipeline)"
-  summary: "Sets the HTTP pipeline to use for the service client.\n <p>\n If <code>pipeline</code> is set, all other settings are ignored, aside from <xref uid=\"#endpoint(String)\" data-throw-if-not-resolved=\"false\">endpoint</xref> and\n <xref uid=\"#indexName(String)\" data-throw-if-not-resolved=\"false\">index</xref> when building a <xref uid=\"SearchClient\" data-throw-if-not-resolved=\"false\">SearchClient</xref> or <xref uid=\"SearchAsyncClient\" data-throw-if-not-resolved=\"false\">SearchAsyncClient</xref>."
+  summary: "Sets the HTTP pipeline to use for the service client.\n\nIf `pipeline` is set, all other settings are ignored, aside from <xref uid=\"com.azure.search.documents.SearchClientBuilder.endpoint(java.lang.String)\" data-throw-if-not-resolved=\"false\">endpoint</xref> and <xref uid=\"com.azure.search.documents.SearchClientBuilder.indexName(java.lang.String)\" data-throw-if-not-resolved=\"false\">index</xref> when building a <xref uid=\"com.azure.search.documents.SearchClient\" data-throw-if-not-resolved=\"false\">SearchClient</xref> or <xref uid=\"com.azure.search.documents.SearchAsyncClient\" data-throw-if-not-resolved=\"false\">SearchAsyncClient</xref>."
   parameters:
   - description: "The HTTP pipeline to use for sending service requests and receiving responses."
     name: "httpPipeline"

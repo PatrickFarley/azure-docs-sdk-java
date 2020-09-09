@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ApiEntityReference.id()"
   name: "id()"
   nameWithType: "ApiEntityReference.id()"
-  summary: "Get the id property: The ARM resource id in the form of\n /subscriptions/{SubscriptionId}/resourceGroups/{ResourceGroupName}/..."
+  summary: "Get the id property: The ARM resource id in the form of /subscriptions/\\{SubscriptionId\\}/resourceGroups/\\{ResourceGroupName\\}/..."
   syntax: "public String id()"
   returns:
     description: "the id value."

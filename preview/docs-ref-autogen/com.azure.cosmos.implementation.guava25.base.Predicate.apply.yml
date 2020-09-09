@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicate<T>.apply(T input)"
   name: "apply(T input)"
   nameWithType: "Predicate<T>.apply(T input)"
-  summary: "Returns the result of applying this predicate to <code>input</code> (Java 8 users, see notes in the\n class documentation above). This method is <i>generally expected</i>, but not absolutely\n required, to have the following properties:\n\n <ul>\n   <li>Its execution does not cause any observable side effects.\n   <li>The computation is <i>consistent with equals</i>; that is, <xref uid=\"Objects#equal\" data-throw-if-not-resolved=\"false\">Objects.equal</xref><code>(a, b)</code> implies that <code>predicate.apply(a) ==\n       predicate.apply(b))</code>.\n </ul>"
+  summary: "Returns the result of applying this predicate to `input` (Java 8 users, see notes in the class documentation above). This method is *generally expected*, but not absolutely required, to have the following properties:\n\n *  Its execution does not cause any observable side effects.\n *  The computation is *consistent with equals*; that is, <xref uid=\"com.azure.cosmos.implementation.guava25.base.Objects.equal*\" data-throw-if-not-resolved=\"false\">Objects.equal</xref>`(a, b)` implies that `predicate.apply(a) == predicate.apply(b))`."
   parameters:
   - name: "input"
     type: "<xref href=\"T?alt=T&text=T\" data-throw-if-not-resolved=\"False\" />"

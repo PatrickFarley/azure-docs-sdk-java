@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileSystem.getFileStores()"
   name: "getFileStores()"
   nameWithType: "AzureFileSystem.getFileStores()"
-  summary: "Returns an object to iterate over the underlying file stores\n <p>\n This list will respect the parameters provided during initialization.\n <p>\n If a finite list of containers was provided on start up, this list will not change during the lifetime of this\n object. If containers are added to the account after initialization, they will be ignored. If a container is\n deleted or otherwise becomes unavailable, its root directory will still be returned but operations to it will\n fail."
+  summary: "Returns an object to iterate over the underlying file stores\n\nThis list will respect the parameters provided during initialization.\n\nIf a finite list of containers was provided on start up, this list will not change during the lifetime of this object. If containers are added to the account after initialization, they will be ignored. If a container is deleted or otherwise becomes unavailable, its root directory will still be returned but operations to it will fail."
   overridden: "java.nio.file.FileSystem.getFileStores()"
   syntax: "public Iterable<FileStore> getFileStores()"
   returns:

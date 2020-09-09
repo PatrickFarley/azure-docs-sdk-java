@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.InstanceFailoverGroupReadWriteEndpoint.withFailoverPolicy(ReadWriteEndpointFailoverPolicy failoverPolicy)"
   name: "withFailoverPolicy(ReadWriteEndpointFailoverPolicy failoverPolicy)"
   nameWithType: "InstanceFailoverGroupReadWriteEndpoint.withFailoverPolicy(ReadWriteEndpointFailoverPolicy failoverPolicy)"
-  summary: "Set the failoverPolicy property: Failover policy of the read-write endpoint for the failover group. If\n failoverPolicy is Automatic then failoverWithDataLossGracePeriodMinutes is required."
+  summary: "Set the failoverPolicy property: Failover policy of the read-write endpoint for the failover group. If failoverPolicy is Automatic then failoverWithDataLossGracePeriodMinutes is required."
   parameters:
   - description: "the failoverPolicy value to set."
     name: "failoverPolicy"

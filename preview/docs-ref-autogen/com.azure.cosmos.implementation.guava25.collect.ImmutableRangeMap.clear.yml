@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableRangeMap<K,V>.clear()"
   name: "clear()"
   nameWithType: "ImmutableRangeMap<K,V>.clear()"
-  summary: "Guaranteed to throw an exception and leave the <code>RangeMap</code> unmodified."
+  summary: "Guaranteed to throw an exception and leave the `RangeMap` unmodified."
   syntax: "public void clear()"
 type: "method"
 metadata: {}

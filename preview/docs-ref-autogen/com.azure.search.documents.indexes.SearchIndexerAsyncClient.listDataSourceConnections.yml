@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.listDataSourceConnections()"
   name: "listDataSourceConnections()"
   nameWithType: "SearchIndexerAsyncClient.listDataSourceConnections()"
-  summary: "List all DataSources from an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexer data source connections. </p>\n\n <pre>\n searchIndexerAsyncClient.listDataSourceConnections&#40;&#41;\n     .subscribe&#40;dataSource -&gt;\n         System.out.printf&#40;&quot;The dataSource name is %s. The etag of dataSource is %s.%n&quot;,\n             dataSource.getName&#40;&#41;, dataSource.getETag&#40;&#41;&#41;\n     &#41;;\n </pre>"
+  summary: "List all DataSources from an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexer data source connections.\n\n```java\nsearchIndexerAsyncClient.listDataSourceConnections()\n     .subscribe(dataSource ->\n         System.out.printf(\"The dataSource name is %s. The etag of dataSource is %s.%n\",\n             dataSource.getName(), dataSource.getETag())\n     );\n```"
   syntax: "public PagedFlux<SearchIndexerDataSourceConnection> listDataSourceConnections()"
   returns:
     description: "a list of DataSources"

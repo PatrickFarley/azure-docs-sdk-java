@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ServiceStatisticsConverter.map(ServiceStatistics obj)"
   name: "map(ServiceStatistics obj)"
   nameWithType: "ServiceStatisticsConverter.map(ServiceStatistics obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceStatistics\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceStatistics</xref> to\n <xref uid=\"SearchServiceStatistics\" data-throw-if-not-resolved=\"false\">SearchServiceStatistics</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceStatistics\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceStatistics</xref> to <xref uid=\"com.azure.search.documents.indexes.models.SearchServiceStatistics\" data-throw-if-not-resolved=\"false\">SearchServiceStatistics</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.ServiceStatistics?alt=com.azure.search.documents.indexes.implementation.models.ServiceStatistics&text=ServiceStatistics\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.ServiceStatisticsConverter.map(SearchServiceStatistics obj)"
   name: "map(SearchServiceStatistics obj)"
   nameWithType: "ServiceStatisticsConverter.map(SearchServiceStatistics obj)"
-  summary: "Maps from <xref uid=\"SearchServiceStatistics\" data-throw-if-not-resolved=\"false\">SearchServiceStatistics</xref> to\n <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceStatistics\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceStatistics</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.SearchServiceStatistics\" data-throw-if-not-resolved=\"false\">SearchServiceStatistics</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.ServiceStatistics\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.ServiceStatistics</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.SearchServiceStatistics?alt=com.azure.search.documents.indexes.models.SearchServiceStatistics&text=SearchServiceStatistics\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.ScoringProfile.setFunctionAggregation(ScoringFunctionAggregation functionAggregation)"
   name: "setFunctionAggregation(ScoringFunctionAggregation functionAggregation)"
   nameWithType: "ScoringProfile.setFunctionAggregation(ScoringFunctionAggregation functionAggregation)"
-  summary: "Set the functionAggregation property: A value indicating how the results of individual scoring functions should\n be combined. Defaults to \"Sum\". Ignored if there are no scoring functions."
+  summary: "Set the functionAggregation property: A value indicating how the results of individual scoring functions should be combined. Defaults to \"Sum\". Ignored if there are no scoring functions."
   parameters:
   - description: "the functionAggregation value to set."
     name: "functionAggregation"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexClient.getServiceStatisticsWithResponse(Context context)"
   name: "getServiceStatisticsWithResponse(Context context)"
   nameWithType: "SearchIndexClient.getServiceStatisticsWithResponse(Context context)"
-  summary: "Returns service level statistics for a search service, including service counters and limits.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Get service statistics. </p>\n\n <pre>\n Response&lt;SearchServiceStatistics&gt; serviceStatistics =\n     searchIndexClient.getServiceStatisticsWithResponse&#40;new Context&#40;key1, value1&#41;&#41;;\n System.out.printf&#40;&quot;The status code of the response is %s.%nThere are %s search indexes in your service.%n&quot;,\n     serviceStatistics.getStatusCode&#40;&#41;,\n     serviceStatistics.getValue&#40;&#41;.getCounters&#40;&#41;.getIndexCounter&#40;&#41;&#41;;\n </pre>"
+  summary: "Returns service level statistics for a search service, including service counters and limits.\n\n**Code Sample**\n\nGet service statistics.\n\n```java\nResponse<SearchServiceStatistics> serviceStatistics =\n     searchIndexClient.getServiceStatisticsWithResponse(new Context(key1, value1));\n System.out.printf(\"The status code of the response is %s.%nThere are %s search indexes in your service.%n\",\n     serviceStatistics.getStatusCode(),\n     serviceStatistics.getValue().getCounters().getIndexCounter());\n```"
   parameters:
   - description: "additional context that is passed through the HTTP pipeline during the service call"
     name: "context"

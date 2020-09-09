@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ManagedClustersClient.getAccessProfileWithResponseAsync(String resourceGroupName, String resourceName, String roleName)"
   name: "getAccessProfileWithResponseAsync(String resourceGroupName, String resourceName, String roleName)"
   nameWithType: "ManagedClustersClient.getAccessProfileWithResponseAsync(String resourceGroupName, String resourceName, String roleName)"
-  summary: "Gets the accessProfile for the specified role name of the managed cluster with a specified resource group and\n name."
+  summary: "Gets the accessProfile for the specified role name of the managed cluster with a specified resource group and name."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.fluent.ManagedClustersClient.getAccessProfileWithResponseAsync(String resourceGroupName, String resourceName, String roleName, Context context)"
   name: "getAccessProfileWithResponseAsync(String resourceGroupName, String resourceName, String roleName, Context context)"
   nameWithType: "ManagedClustersClient.getAccessProfileWithResponseAsync(String resourceGroupName, String resourceName, String roleName, Context context)"
-  summary: "Gets the accessProfile for the specified role name of the managed cluster with a specified resource group and\n name."
+  summary: "Gets the accessProfile for the specified role name of the managed cluster with a specified resource group and name."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

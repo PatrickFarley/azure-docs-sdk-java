@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.DLE"
   name: "DLE"
   nameWithType: "Ascii.DLE"
-  summary: "Data Link Escape: A communication control character which will change the meaning of a limited\n number of contiguously following characters. It is used exclusively to provide supplementary\n controls in data communication networks."
+  summary: "Data Link Escape: A communication control character which will change the meaning of a limited number of contiguously following characters. It is used exclusively to provide supplementary controls in data communication networks."
   syntax: "public static final byte DLE"
 type: "field"
 metadata: {}

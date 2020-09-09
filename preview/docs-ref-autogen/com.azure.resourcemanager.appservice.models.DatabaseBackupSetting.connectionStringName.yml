@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.DatabaseBackupSetting.connectionStringName()"
   name: "connectionStringName()"
   nameWithType: "DatabaseBackupSetting.connectionStringName()"
-  summary: "Get the connectionStringName property: Contains a connection string name that is linked to the\n SiteConfig.ConnectionStrings. This is used during restore with overwrite connection strings options."
+  summary: "Get the connectionStringName property: Contains a connection string name that is linked to the SiteConfig.ConnectionStrings. This is used during restore with overwrite connection strings options."
   syntax: "public String connectionStringName()"
   returns:
     description: "the connectionStringName value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.util.serializer.JacksonAdapter.serializeList(List<?> list, CollectionFormat format)"
   name: "serializeList(List<?> list, CollectionFormat format)"
   nameWithType: "JacksonAdapter.serializeList(List<?> list, CollectionFormat format)"
-  summary: "Serializes a list into a string with the delimiter specified with the\n Swagger collection format joining each individual serialized items in\n the list."
+  summary: "Serializes a list into a string with the delimiter specified with the Swagger collection format joining each individual serialized items in the list."
   parameters:
   - name: "list"
     type: "<xref href=\"java.util.List?alt=java.util.List&text=List\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

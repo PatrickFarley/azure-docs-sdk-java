@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.FluentIterable<E>.get(int position)"
   name: "get(int position)"
   nameWithType: "FluentIterable<E>.get(int position)"
-  summary: "Returns the element at the specified position in this fluent iterable.\n\n <p><b><code>Stream</code> equivalent:</b> <code>stream.skip(position).findFirst().get()</code> (but note\n that this throws different exception types, and throws an exception if <code>null</code> would be\n returned)."
+  summary: "Returns the element at the specified position in this fluent iterable.\n\n**`Stream` equivalent:** `stream.skip(position).findFirst().get()` (but note that this throws different exception types, and throws an exception if `null` would be returned)."
   parameters:
   - description: "position of the element to return"
     name: "position"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.ParserUtility.stringToDateTimeOffset(String dateTime)"
   name: "stringToDateTimeOffset(String dateTime)"
   nameWithType: "ParserUtility.stringToDateTimeOffset(String dateTime)"
-  summary: "Helper to convert the provided string in a offset Date.\n Expected format:\n      \"2016-06-01T21:22:41+00:00\""
+  summary: "Helper to convert the provided string in a offset Date. Expected format: \"2016-06-01T21:22:41+00:00\""
   parameters:
   - description: "is the string with the date and time"
     name: "dateTime"

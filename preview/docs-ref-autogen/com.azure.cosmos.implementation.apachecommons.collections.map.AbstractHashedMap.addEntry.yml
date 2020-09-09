@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.collections.map.AbstractHashedMap<K,V>.addEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex)"
   name: "addEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex)"
   nameWithType: "AbstractHashedMap<K,V>.addEntry(AbstractHashedMap.HashEntry<K,V> entry, int hashIndex)"
-  summary: "Adds an entry into this map.\n <p>\n This implementation adds the entry to the data storage table.\n Subclasses could override to handle changes to the map."
+  summary: "Adds an entry into this map.\n\nThis implementation adds the entry to the data storage table. Subclasses could override to handle changes to the map."
   parameters:
   - description: "the entry to add"
     name: "entry"

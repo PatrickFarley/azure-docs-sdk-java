@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventChannelsInner.beginDelete(String resourceGroupName, String partnerNamespaceName, String eventChannelName)"
   name: "beginDelete(String resourceGroupName, String partnerNamespaceName, String eventChannelName)"
   nameWithType: "EventChannelsInner.beginDelete(String resourceGroupName, String partnerNamespaceName, String eventChannelName)"
-  summary: "Delete an event channel.\n Delete existing event channel."
+  summary: "Delete an event channel. Delete existing event channel."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

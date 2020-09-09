@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.PathAccessControl.PathAccessControl(List<PathAccessControlEntry> accessControlList, PathPermissions permissions, String group, String owner)"
   name: "PathAccessControl(List<PathAccessControlEntry> accessControlList, PathPermissions permissions, String group, String owner)"
   nameWithType: "PathAccessControl.PathAccessControl(List<PathAccessControlEntry> accessControlList, PathPermissions permissions, String group, String owner)"
-  summary: "Constructs a new <xref uid=\"PathAccessControl\" data-throw-if-not-resolved=\"false\">PathAccessControl</xref>."
+  summary: "Constructs a new <xref uid=\"com.azure.storage.file.datalake.models.PathAccessControl\" data-throw-if-not-resolved=\"false\">PathAccessControl</xref>."
   parameters:
   - description: "A list of <xref uid=\"com.azure.storage.file.datalake.models.PathAccessControlEntry\" data-throw-if-not-resolved=\"false\">PathAccessControlEntry</xref>"
     name: "accessControlList"

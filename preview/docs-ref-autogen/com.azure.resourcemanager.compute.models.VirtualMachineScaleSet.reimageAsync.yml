@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSet.reimageAsync()"
   name: "reimageAsync()"
   nameWithType: "VirtualMachineScaleSet.reimageAsync()"
-  summary: "Re-images (updates the version of the installed operating system) the virtual machines in the scale set\n asynchronously."
+  summary: "Re-images (updates the version of the installed operating system) the virtual machines in the scale set asynchronously."
   syntax: "public abstract Mono<Void> reimageAsync()"
   returns:
     description: "a representation of the deferred computation of this call"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedBackupShortTermRetentionPolicyInner.withRetentionDays(Integer retentionDays)"
   name: "withRetentionDays(Integer retentionDays)"
   nameWithType: "ManagedBackupShortTermRetentionPolicyInner.withRetentionDays(Integer retentionDays)"
-  summary: "Set the retentionDays property: The backup retention period in days. This is how many days Point-in-Time Restore\n will be supported."
+  summary: "Set the retentionDays property: The backup retention period in days. This is how many days Point-in-Time Restore will be supported."
   parameters:
   - description: "the retentionDays value to set."
     name: "retentionDays"

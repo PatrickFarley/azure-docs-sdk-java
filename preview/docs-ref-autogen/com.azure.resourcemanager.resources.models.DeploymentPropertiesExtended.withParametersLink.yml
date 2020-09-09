@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.models.DeploymentPropertiesExtended.withParametersLink(ParametersLink parametersLink)"
   name: "withParametersLink(ParametersLink parametersLink)"
   nameWithType: "DeploymentPropertiesExtended.withParametersLink(ParametersLink parametersLink)"
-  summary: "Set the parametersLink property: The URI referencing the parameters. Use only one of Parameters or\n ParametersLink."
+  summary: "Set the parametersLink property: The URI referencing the parameters. Use only one of Parameters or ParametersLink."
   parameters:
   - description: "the parametersLink value to set."
     name: "parametersLink"

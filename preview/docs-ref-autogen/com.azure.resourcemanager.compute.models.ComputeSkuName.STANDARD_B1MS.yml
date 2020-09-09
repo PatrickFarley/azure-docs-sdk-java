@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ComputeSkuName.STANDARD_B1MS"
   name: "STANDARD_B1MS"
   nameWithType: "ComputeSkuName.STANDARD_B1MS"
-  summary: "Static value Standard_B1ms for ComputeSkuName."
+  summary: "Static value Standard\\_B1ms for ComputeSkuName."
   syntax: "public static final ComputeSkuName STANDARD_B1MS"
 type: "field"
 metadata: {}

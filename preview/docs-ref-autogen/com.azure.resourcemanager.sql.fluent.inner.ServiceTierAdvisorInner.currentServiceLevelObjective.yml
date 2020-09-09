@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ServiceTierAdvisorInner.currentServiceLevelObjective()"
   name: "currentServiceLevelObjective()"
   nameWithType: "ServiceTierAdvisorInner.currentServiceLevelObjective()"
-  summary: "Get the currentServiceLevelObjective property: Gets or sets currentServiceLevelObjective for service tier\n advisor."
+  summary: "Get the currentServiceLevelObjective property: Gets or sets currentServiceLevelObjective for service tier advisor."
   syntax: "public String currentServiceLevelObjective()"
   returns:
     description: "the currentServiceLevelObjective value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DedicatedHostGroupListResultInner.withNextLink(String nextLink)"
   name: "withNextLink(String nextLink)"
   nameWithType: "DedicatedHostGroupListResultInner.withNextLink(String nextLink)"
-  summary: "Set the nextLink property: The URI to fetch the next page of Dedicated Host Groups. Call ListNext() with this URI\n to fetch the next page of Dedicated Host Groups."
+  summary: "Set the nextLink property: The URI to fetch the next page of Dedicated Host Groups. Call ListNext() with this URI to fetch the next page of Dedicated Host Groups."
   parameters:
   - description: "the nextLink value to set."
     name: "nextLink"

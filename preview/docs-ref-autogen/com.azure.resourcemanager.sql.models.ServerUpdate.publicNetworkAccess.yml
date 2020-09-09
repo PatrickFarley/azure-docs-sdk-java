@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.ServerUpdate.publicNetworkAccess()"
   name: "publicNetworkAccess()"
   nameWithType: "ServerUpdate.publicNetworkAccess()"
-  summary: "Get the publicNetworkAccess property: Whether or not public endpoint access is allowed for this server. Value is\n optional but if passed in, must be 'Enabled' or 'Disabled'."
+  summary: "Get the publicNetworkAccess property: Whether or not public endpoint access is allowed for this server. Value is optional but if passed in, must be 'Enabled' or 'Disabled'."
   syntax: "public ServerPublicNetworkAccess publicNetworkAccess()"
   returns:
     description: "the publicNetworkAccess value."

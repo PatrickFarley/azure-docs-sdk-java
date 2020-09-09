@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexerSkill.getInputs()"
   name: "getInputs()"
   nameWithType: "SearchIndexerSkill.getInputs()"
-  summary: "Get the inputs property: Inputs of the skills could be a column in the source data set, or the output of an\n upstream skill."
+  summary: "Get the inputs property: Inputs of the skills could be a column in the source data set, or the output of an upstream skill."
   syntax: "public List<InputFieldMappingEntry> getInputs()"
   returns:
     description: "the inputs value."

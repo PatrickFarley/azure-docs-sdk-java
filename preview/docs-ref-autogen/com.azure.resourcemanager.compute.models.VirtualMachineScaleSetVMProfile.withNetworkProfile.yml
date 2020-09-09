@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetVMProfile.withNetworkProfile(VirtualMachineScaleSetNetworkProfile networkProfile)"
   name: "withNetworkProfile(VirtualMachineScaleSetNetworkProfile networkProfile)"
   nameWithType: "VirtualMachineScaleSetVMProfile.withNetworkProfile(VirtualMachineScaleSetNetworkProfile networkProfile)"
-  summary: "Set the networkProfile property: Specifies properties of the network interfaces of the virtual machines in the\n scale set."
+  summary: "Set the networkProfile property: Specifies properties of the network interfaces of the virtual machines in the scale set."
   parameters:
   - description: "the networkProfile value to set."
     name: "networkProfile"

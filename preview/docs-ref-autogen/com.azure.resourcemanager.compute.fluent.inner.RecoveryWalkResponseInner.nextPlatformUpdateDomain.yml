@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.RecoveryWalkResponseInner.nextPlatformUpdateDomain()"
   name: "nextPlatformUpdateDomain()"
   nameWithType: "RecoveryWalkResponseInner.nextPlatformUpdateDomain()"
-  summary: "Get the nextPlatformUpdateDomain property: The next update domain that needs to be walked. Null means walk\n spanning all update domains has been completed."
+  summary: "Get the nextPlatformUpdateDomain property: The next update domain that needs to be walked. Null means walk spanning all update domains has been completed."
   syntax: "public Integer nextPlatformUpdateDomain()"
   returns:
     description: "the nextPlatformUpdateDomain value."

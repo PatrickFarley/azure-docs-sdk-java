@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.SubscriptionDescription.setForwardDeadLetteredMessagesTo(String forwardDeadLetteredMessagesTo)"
   name: "setForwardDeadLetteredMessagesTo(String forwardDeadLetteredMessagesTo)"
   nameWithType: "SubscriptionDescription.setForwardDeadLetteredMessagesTo(String forwardDeadLetteredMessagesTo)"
-  summary: "Set the forwardDeadLetteredMessagesTo property: The name of the recipient entity to which all the messages sent\n to the subscription are forwarded to."
+  summary: "Set the forwardDeadLetteredMessagesTo property: The name of the recipient entity to which all the messages sent to the subscription are forwarded to."
   parameters:
   - description: "the forwardDeadLetteredMessagesTo value to set."
     name: "forwardDeadLetteredMessagesTo"

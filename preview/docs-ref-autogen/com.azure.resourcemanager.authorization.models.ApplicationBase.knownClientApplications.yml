@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.ApplicationBase.knownClientApplications()"
   name: "knownClientApplications()"
   nameWithType: "ApplicationBase.knownClientApplications()"
-  summary: "Get the knownClientApplications property: Client applications that are tied to this resource application. Consent\n to any of the known client applications will result in implicit consent to the resource application through a\n combined consent dialog (showing the OAuth permission scopes required by the client and the resource)."
+  summary: "Get the knownClientApplications property: Client applications that are tied to this resource application. Consent to any of the known client applications will result in implicit consent to the resource application through a combined consent dialog (showing the OAuth permission scopes required by the client and the resource)."
   syntax: "public List<String> knownClientApplications()"
   returns:
     description: "the knownClientApplications value."

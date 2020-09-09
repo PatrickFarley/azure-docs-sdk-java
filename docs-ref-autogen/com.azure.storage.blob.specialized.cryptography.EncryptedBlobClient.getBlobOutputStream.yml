@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.storage.blob.specialized.cryptography.EncryptedBlobClient.getBlobOutputStream(ParallelTransferOptions parallelTransferOptions, BlobHttpHeaders headers, Map<String,String> metadata, AccessTier tier, BlobRequestConditions requestConditions)"
   name: "getBlobOutputStream(ParallelTransferOptions parallelTransferOptions, BlobHttpHeaders headers, Map<String,String> metadata, AccessTier tier, BlobRequestConditions requestConditions)"
   nameWithType: "EncryptedBlobClient.getBlobOutputStream(ParallelTransferOptions parallelTransferOptions, BlobHttpHeaders headers, Map<String,String> metadata, AccessTier tier, BlobRequestConditions requestConditions)"
-  summary: "Creates and opens an output stream to write data to the block blob. If the blob already exists on the service, it\n will be overwritten.\n <p>\n To avoid overwriting, pass \"*\" to <xref uid=\"BlobRequestConditions#setIfNoneMatch(String)\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
+  summary: "Creates and opens an output stream to write data to the block blob. If the blob already exists on the service, it will be overwritten.\n\nTo avoid overwriting, pass \"\\*\" to <xref uid=\"com.azure.storage.blob.models.BlobRequestConditions.setIfNoneMatch*\" data-throw-if-not-resolved=\"false\">BlobRequestConditions#setIfNoneMatch(String)</xref>."
   parameters:
   - description: "<xref uid=\"com.azure.storage.blob.models.ParallelTransferOptions\" data-throw-if-not-resolved=\"false\">ParallelTransferOptions</xref> used to configure buffered uploading."
     name: "parallelTransferOptions"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.SearchOptions.setIncludeTotalCount(Boolean includeTotalCount)"
   name: "setIncludeTotalCount(Boolean includeTotalCount)"
   nameWithType: "SearchOptions.setIncludeTotalCount(Boolean includeTotalCount)"
-  summary: "Set the includeTotalResultCount property: A value that specifies whether\n to fetch the total count of results. Default is false. Setting this\n value to true may have a performance impact. Note that the count\n returned is an approximation."
+  summary: "Set the includeTotalResultCount property: A value that specifies whether to fetch the total count of results. Default is false. Setting this value to true may have a performance impact. Note that the count returned is an approximation."
   parameters:
   - description: "the includeTotalResultCount value to set."
     name: "includeTotalCount"

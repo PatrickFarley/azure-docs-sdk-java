@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.amqp.exception.SessionErrorContext.SessionErrorContext(String namespace, String entityPath)"
   name: "SessionErrorContext(String namespace, String entityPath)"
   nameWithType: "SessionErrorContext.SessionErrorContext(String namespace, String entityPath)"
-  summary: "Creates a new instance with the <code>namespace</code> and <code>entityPath</code>."
+  summary: "Creates a new instance with the `namespace` and `entityPath`."
   parameters:
   - description: "The service namespace of the error."
     name: "namespace"

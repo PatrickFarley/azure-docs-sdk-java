@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.TokenFilterName.SORANI_NORMALIZATION"
   name: "SORANI_NORMALIZATION"
   nameWithType: "TokenFilterName.SORANI_NORMALIZATION"
-  summary: "Static value sorani_normalization for TokenFilterName."
+  summary: "Static value sorani\\_normalization for TokenFilterName."
   syntax: "public static final TokenFilterName SORANI_NORMALIZATION"
 type: "field"
 metadata: {}

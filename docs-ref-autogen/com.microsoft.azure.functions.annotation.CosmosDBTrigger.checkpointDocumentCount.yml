@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.functions.annotation.CosmosDBTrigger.checkpointDocumentCount()"
   name: "checkpointDocumentCount()"
   nameWithType: "CosmosDBTrigger.checkpointDocumentCount()"
-  summary: "Customizes the amount of documents between lease checkpoints. Default is always after a\n Function call."
+  summary: "Customizes the amount of documents between lease checkpoints. Default is always after a Function call."
   syntax: "public abstract int checkpointDocumentCount()"
   returns:
     description: "CheckpointDocumentCount"

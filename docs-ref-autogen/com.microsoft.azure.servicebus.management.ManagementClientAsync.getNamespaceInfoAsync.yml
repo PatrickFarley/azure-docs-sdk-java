@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.ManagementClientAsync.getNamespaceInfoAsync()"
   name: "getNamespaceInfoAsync()"
   nameWithType: "ManagementClientAsync.getNamespaceInfoAsync()"
-  summary: "Retrieves information related to the namespace.\n Works with any claim (Send/Listen/Manage)."
+  summary: "Retrieves information related to the namespace. Works with any claim (Send/Listen/Manage)."
   syntax: "public CompletableFuture<NamespaceInfo> getNamespaceInfoAsync()"
   returns:
     description: "- <xref uid=\"com.microsoft.azure.servicebus.management.NamespaceInfo\" data-throw-if-not-resolved=\"false\">NamespaceInfo</xref> containing namespace information."

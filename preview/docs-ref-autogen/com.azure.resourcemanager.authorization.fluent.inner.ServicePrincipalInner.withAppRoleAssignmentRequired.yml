@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.fluent.inner.ServicePrincipalInner.withAppRoleAssignmentRequired(Boolean appRoleAssignmentRequired)"
   name: "withAppRoleAssignmentRequired(Boolean appRoleAssignmentRequired)"
   nameWithType: "ServicePrincipalInner.withAppRoleAssignmentRequired(Boolean appRoleAssignmentRequired)"
-  summary: "Set the appRoleAssignmentRequired property: Specifies whether an AppRoleAssignment to a user or group is required\n before Azure AD will issue a user or access token to the application."
+  summary: "Set the appRoleAssignmentRequired property: Specifies whether an AppRoleAssignment to a user or group is required before Azure AD will issue a user or access token to the application."
   parameters:
   - description: "the appRoleAssignmentRequired value to set."
     name: "appRoleAssignmentRequired"

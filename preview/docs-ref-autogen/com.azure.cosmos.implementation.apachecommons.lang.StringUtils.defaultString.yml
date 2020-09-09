@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.defaultString(String str, String defaultStr)"
   name: "defaultString(String str, String defaultStr)"
   nameWithType: "StringUtils.defaultString(String str, String defaultStr)"
-  summary: "<p>Returns either the passed in String, or if the String is\n <code>null</code>, the value of <code>defaultStr</code>.</p>\n\n <pre>\n StringUtils.defaultString(null, \"NULL\")  = \"NULL\"\n StringUtils.defaultString(\"\", \"NULL\")    = \"\"\n StringUtils.defaultString(\"bat\", \"NULL\") = \"bat\"\n </pre>"
+  summary: "Returns either the passed in String, or if the String is `null`, the value of `defaultStr`.\n\n```java\nStringUtils.defaultString(null, \"NULL\")  = \"NULL\"\n StringUtils.defaultString(\"\", \"NULL\")    = \"\"\n StringUtils.defaultString(\"bat\", \"NULL\") = \"bat\"\n```"
   parameters:
   - description: "the String to check, may be null"
     name: "str"

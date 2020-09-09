@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.LoadBalancerInner.loadBalancingRules()"
   name: "loadBalancingRules()"
   nameWithType: "LoadBalancerInner.loadBalancingRules()"
-  summary: "Get the loadBalancingRules property: Object collection representing the load balancing rules Gets the\n provisioning."
+  summary: "Get the loadBalancingRules property: Object collection representing the load balancing rules Gets the provisioning."
   syntax: "public List<LoadBalancingRuleInner> loadBalancingRules()"
   returns:
     description: "the loadBalancingRules value."

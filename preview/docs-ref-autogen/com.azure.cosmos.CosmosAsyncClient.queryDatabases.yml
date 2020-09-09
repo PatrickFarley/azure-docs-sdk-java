@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.queryDatabases(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   name: "queryDatabases(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncClient.queryDatabases(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
-  summary: "Query for databases.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read databases.\n In case of failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for databases.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read databases. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the SQL query specification."
     name: "querySpec"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.CosmosAsyncClient.queryDatabases(String query, CosmosQueryRequestOptions options)"
   name: "queryDatabases(String query, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosAsyncClient.queryDatabases(String query, CosmosQueryRequestOptions options)"
-  summary: "Query for databases.\n <p>\n After subscription the operation will be performed.\n The <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read databases.\n In case of failure the <xref uid=\"CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
+  summary: "Query for databases.\n\nAfter subscription the operation will be performed. The <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will contain one or several feed response of the read databases. In case of failure the <xref uid=\"com.azure.cosmos.util.CosmosPagedFlux\" data-throw-if-not-resolved=\"false\">CosmosPagedFlux</xref> will error."
   parameters:
   - description: "the query."
     name: "query"

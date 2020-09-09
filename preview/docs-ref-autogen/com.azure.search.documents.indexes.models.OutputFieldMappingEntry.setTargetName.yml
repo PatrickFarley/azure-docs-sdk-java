@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.OutputFieldMappingEntry.setTargetName(String targetName)"
   name: "setTargetName(String targetName)"
   nameWithType: "OutputFieldMappingEntry.setTargetName(String targetName)"
-  summary: "Set the targetName property: The target name of the output. It is\n optional and default to name."
+  summary: "Set the targetName property: The target name of the output. It is optional and default to name."
   parameters:
   - description: "the targetName value to set."
     name: "targetName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.query.metrics.SchedulingStopwatch.ready()"
   name: "ready()"
   nameWithType: "SchedulingStopwatch.ready()"
-  summary: "Tells the SchedulingStopwatch know that the process is in a state where it is ready to be worked on,\n which in turn starts the stopwatch for for response time and turnaround time."
+  summary: "Tells the SchedulingStopwatch know that the process is in a state where it is ready to be worked on, which in turn starts the stopwatch for for response time and turnaround time."
   syntax: "public void ready()"
 type: "method"
 metadata: {}

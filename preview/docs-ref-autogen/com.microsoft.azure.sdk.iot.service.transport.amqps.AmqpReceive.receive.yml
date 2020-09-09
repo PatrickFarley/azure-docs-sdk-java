@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.transport.amqps.AmqpReceive.receive(long timeoutMs)"
   name: "receive(long timeoutMs)"
   nameWithType: "AmqpReceive.receive(long timeoutMs)"
-  summary: "Synchronized call to receive feedback batch\n Hide the event based receiving mechanism from the user API"
+  summary: "Synchronized call to receive feedback batch Hide the event based receiving mechanism from the user API"
   parameters:
   - description: "The timeout in milliseconds to wait for the feedback"
     name: "timeoutMs"

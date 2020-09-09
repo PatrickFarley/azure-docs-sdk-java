@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Sets.<E>newLinkedHashSetWithExpectedSize(int expectedSize)"
   name: "<E>newLinkedHashSetWithExpectedSize(int expectedSize)"
   nameWithType: "Sets.<E>newLinkedHashSetWithExpectedSize(int expectedSize)"
-  summary: "Creates a <code>LinkedHashSet</code> instance, with a high enough \"initial capacity\" that it\n <i>should</i> hold <code>expectedSize</code> elements without growth. This behavior cannot be\n broadly guaranteed, but it is observed to be true for OpenJDK 1.7. It also can't be guaranteed\n that the method isn't inadvertently <i>oversizing</i> the returned set."
+  summary: "Creates a `LinkedHashSet` instance, with a high enough \"initial capacity\" that it *should* hold `expectedSize` elements without growth. This behavior cannot be broadly guaranteed, but it is observed to be true for OpenJDK 1.7. It also can't be guaranteed that the method isn't inadvertently *oversizing* the returned set."
   parameters:
   - description: "the number of elements you expect to add to the returned set"
     name: "expectedSize"

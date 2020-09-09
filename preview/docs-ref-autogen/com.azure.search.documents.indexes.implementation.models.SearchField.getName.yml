@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchField.getName()"
   name: "getName()"
   nameWithType: "SearchField.getName()"
-  summary: "Get the name property: The name of the field, which must be unique within the fields collection of the index or\n parent field."
+  summary: "Get the name property: The name of the field, which must be unique within the fields collection of the index or parent field."
   syntax: "public String getName()"
   returns:
     description: "the name value."

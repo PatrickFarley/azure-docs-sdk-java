@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.VirtualNetworkRule.ignoreMissingVNetServiceEndpoint()"
   name: "ignoreMissingVNetServiceEndpoint()"
   nameWithType: "VirtualNetworkRule.ignoreMissingVNetServiceEndpoint()"
-  summary: "Get the ignoreMissingVNetServiceEndpoint property: Create firewall rule before the virtual network has vnet\n service endpoint enabled."
+  summary: "Get the ignoreMissingVNetServiceEndpoint property: Create firewall rule before the virtual network has vnet service endpoint enabled."
   syntax: "public Boolean ignoreMissingVNetServiceEndpoint()"
   returns:
     description: "the ignoreMissingVNetServiceEndpoint value."

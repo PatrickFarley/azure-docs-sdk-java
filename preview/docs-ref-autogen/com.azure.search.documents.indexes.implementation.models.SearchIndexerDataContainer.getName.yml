@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.SearchIndexerDataContainer.getName()"
   name: "getName()"
   nameWithType: "SearchIndexerDataContainer.getName()"
-  summary: "Get the name property: The name of the table or view (for Azure SQL data source) or collection (for CosmosDB data\n source) that will be indexed."
+  summary: "Get the name property: The name of the table or view (for Azure SQL data source) or collection (for CosmosDB data source) that will be indexed."
   syntax: "public String getName()"
   returns:
     description: "the name value."

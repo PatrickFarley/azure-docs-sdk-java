@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.PartitionProcessorFactory.create(Lease lease, ChangeFeedObserver changeFeedObserver)"
   name: "create(Lease lease, ChangeFeedObserver changeFeedObserver)"
   nameWithType: "PartitionProcessorFactory.create(Lease lease, ChangeFeedObserver changeFeedObserver)"
-  summary: "Creates an instance of a <xref uid=\"PartitionProcessor\" data-throw-if-not-resolved=\"false\">PartitionProcessor</xref>."
+  summary: "Creates an instance of a <xref uid=\"com.azure.cosmos.implementation.changefeed.PartitionProcessor\" data-throw-if-not-resolved=\"false\">PartitionProcessor</xref>."
   parameters:
   - description: "the lease to be used for partition processing."
     name: "lease"

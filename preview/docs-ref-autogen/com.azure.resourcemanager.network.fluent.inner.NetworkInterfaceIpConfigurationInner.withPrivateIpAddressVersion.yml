@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.NetworkInterfaceIpConfigurationInner.withPrivateIpAddressVersion(IpVersion privateIpAddressVersion)"
   name: "withPrivateIpAddressVersion(IpVersion privateIpAddressVersion)"
   nameWithType: "NetworkInterfaceIpConfigurationInner.withPrivateIpAddressVersion(IpVersion privateIpAddressVersion)"
-  summary: "Set the privateIpAddressVersion property: Available from Api-Version 2016-03-30 onwards, it represents whether\n the specific ipconfiguration is IPv4 or IPv6. Default is taken as IPv4."
+  summary: "Set the privateIpAddressVersion property: Available from Api-Version 2016-03-30 onwards, it represents whether the specific ipconfiguration is IPv4 or IPv6. Default is taken as IPv4."
   parameters:
   - description: "the privateIpAddressVersion value to set."
     name: "privateIpAddressVersion"

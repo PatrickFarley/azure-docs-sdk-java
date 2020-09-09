@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerservice.models.ContainerServiceVMSizeTypes.STANDARD_H16M"
   name: "STANDARD_H16M"
   nameWithType: "ContainerServiceVMSizeTypes.STANDARD_H16M"
-  summary: "Static value Standard_H16m for ContainerServiceVMSizeTypes."
+  summary: "Static value Standard\\_H16m for ContainerServiceVMSizeTypes."
   syntax: "public static final ContainerServiceVMSizeTypes STANDARD_H16M"
 type: "field"
 metadata: {}

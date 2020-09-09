@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.LongMath.floorPowerOfTwo(long x)"
   name: "floorPowerOfTwo(long x)"
   nameWithType: "LongMath.floorPowerOfTwo(long x)"
-  summary: "Returns the largest power of two less than or equal to <code>x</code>. This is equivalent to <code>\n checkedPow(2, log2(x, FLOOR))</code>."
+  summary: "Returns the largest power of two less than or equal to `x`. This is equivalent to `checkedPow(2, log2(x, FLOOR))`."
   parameters:
   - name: "x"
     type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"

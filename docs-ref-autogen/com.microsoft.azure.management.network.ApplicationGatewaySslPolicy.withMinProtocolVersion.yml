@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.network.ApplicationGatewaySslPolicy.withMinProtocolVersion(ApplicationGatewaySslProtocol minProtocolVersion)"
   name: "withMinProtocolVersion(ApplicationGatewaySslProtocol minProtocolVersion)"
   nameWithType: "ApplicationGatewaySslPolicy.withMinProtocolVersion(ApplicationGatewaySslProtocol minProtocolVersion)"
-  summary: "Set minimum version of Ssl protocol to be supported on application gateway. Possible values include: 'TLSv1_0', 'TLSv1_1', 'TLSv1_2'."
+  summary: "Set minimum version of Ssl protocol to be supported on application gateway. Possible values include: 'TLSv1\\_0', 'TLSv1\\_1', 'TLSv1\\_2'."
   parameters:
   - description: "the minProtocolVersion value to set"
     name: "minProtocolVersion"

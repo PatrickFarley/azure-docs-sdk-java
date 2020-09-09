@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexAsyncClient.listIndexes()"
   name: "listIndexes()"
   nameWithType: "SearchIndexAsyncClient.listIndexes()"
-  summary: "Lists all indexes available for an Azure Cognitive Search service.\n\n <p><strong>Code Sample</strong></p>\n\n <p> List all search indexes. </p>\n\n <pre>\n searchIndexAsyncClient.listIndexes&#40;&#41;\n     .subscribe&#40;index -&gt;\n         System.out.printf&#40;&quot;The index name is %s. The etag of index is %s.%n&quot;, index.getName&#40;&#41;,\n             index.getETag&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Lists all indexes available for an Azure Cognitive Search service.\n\n**Code Sample**\n\nList all search indexes.\n\n```java\nsearchIndexAsyncClient.listIndexes()\n     .subscribe(index ->\n         System.out.printf(\"The index name is %s. The etag of index is %s.%n\", index.getName(),\n             index.getETag()));\n```"
   syntax: "public PagedFlux<SearchIndex> listIndexes()"
   returns:
     description: "a reactive response emitting the list of indexes."

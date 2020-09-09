@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.MicrosoftLanguageTokenizer.setIsSearchTokenizer(Boolean isSearchTokenizer)"
   name: "setIsSearchTokenizer(Boolean isSearchTokenizer)"
   nameWithType: "MicrosoftLanguageTokenizer.setIsSearchTokenizer(Boolean isSearchTokenizer)"
-  summary: "Set the isSearchTokenizer property: A value indicating how the tokenizer\n is used. Set to true if used as the search tokenizer, set to false if\n used as the indexing tokenizer. Default is false."
+  summary: "Set the isSearchTokenizer property: A value indicating how the tokenizer is used. Set to true if used as the search tokenizer, set to false if used as the indexing tokenizer. Default is false."
   parameters:
   - description: "the isSearchTokenizer value to set."
     name: "isSearchTokenizer"

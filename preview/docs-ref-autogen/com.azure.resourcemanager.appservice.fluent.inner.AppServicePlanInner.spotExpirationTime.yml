@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServicePlanInner.spotExpirationTime()"
   name: "spotExpirationTime()"
   nameWithType: "AppServicePlanInner.spotExpirationTime()"
-  summary: "Get the spotExpirationTime property: The time when the server farm expires. Valid only if it is a spot server\n farm."
+  summary: "Get the spotExpirationTime property: The time when the server farm expires. Valid only if it is a spot server farm."
   syntax: "public OffsetDateTime spotExpirationTime()"
   returns:
     description: "the spotExpirationTime value."

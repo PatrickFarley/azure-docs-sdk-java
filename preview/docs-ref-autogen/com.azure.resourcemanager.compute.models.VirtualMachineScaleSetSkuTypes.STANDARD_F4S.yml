@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetSkuTypes.STANDARD_F4S"
   name: "STANDARD_F4S"
   nameWithType: "VirtualMachineScaleSetSkuTypes.STANDARD_F4S"
-  summary: "Static value STANDARD_F4S for VirtualMachineScaleSetSkuTypes."
+  summary: "Static value STANDARD\\_F4S for VirtualMachineScaleSetSkuTypes."
   syntax: "public static final VirtualMachineScaleSetSkuTypes STANDARD_F4S"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.DocumentSentiment.DocumentSentiment(TextSentiment sentiment, SentimentConfidenceScores confidenceScores, IterableStream<SentenceSentiment> sentences, IterableStream<TextAnalyticsWarning> warnings)"
   name: "DocumentSentiment(TextSentiment sentiment, SentimentConfidenceScores confidenceScores, IterableStream<SentenceSentiment> sentences, IterableStream<TextAnalyticsWarning> warnings)"
   nameWithType: "DocumentSentiment.DocumentSentiment(TextSentiment sentiment, SentimentConfidenceScores confidenceScores, IterableStream<SentenceSentiment> sentences, IterableStream<TextAnalyticsWarning> warnings)"
-  summary: "Creates a <xref uid=\"DocumentSentiment\" data-throw-if-not-resolved=\"false\">DocumentSentiment</xref> model that describes the sentiment of the document."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.DocumentSentiment\" data-throw-if-not-resolved=\"false\">DocumentSentiment</xref> model that describes the sentiment of the document."
   parameters:
   - description: "The sentiment label of the document."
     name: "sentiment"

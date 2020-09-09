@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakePathClientBuilder.setAnonymousAccess()"
   name: "setAnonymousAccess()"
   nameWithType: "DataLakePathClientBuilder.setAnonymousAccess()"
-  summary: "Clears the credential used to authorize the request.\n\n <p>This is for paths that are publicly accessible.</p>"
+  summary: "Clears the credential used to authorize the request.\n\nThis is for paths that are publicly accessible."
   syntax: "public DataLakePathClientBuilder setAnonymousAccess()"
   returns:
     description: "the updated DataLakePathClientBuilder"

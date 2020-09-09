@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.ScoringParameter.ScoringParameter(String nameValuePair)"
   name: "ScoringParameter(String nameValuePair)"
   nameWithType: "ScoringParameter.ScoringParameter(String nameValuePair)"
-  summary: "Constructor to take name value pair string of ScoringParameter. Name and values are separated by dash, and\n values are separared by comma."
+  summary: "Constructor to take name value pair string of ScoringParameter. Name and values are separated by dash, and values are separared by comma."
   parameters:
   - description: "The dash separated name value pairs."
     name: "nameValuePair"

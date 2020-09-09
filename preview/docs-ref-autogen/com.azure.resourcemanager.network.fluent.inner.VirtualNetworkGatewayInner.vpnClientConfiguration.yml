@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.VirtualNetworkGatewayInner.vpnClientConfiguration()"
   name: "vpnClientConfiguration()"
   nameWithType: "VirtualNetworkGatewayInner.vpnClientConfiguration()"
-  summary: "Get the vpnClientConfiguration property: The reference of the VpnClientConfiguration resource which represents\n the P2S VpnClient configurations."
+  summary: "Get the vpnClientConfiguration property: The reference of the VpnClientConfiguration resource which represents the P2S VpnClient configurations."
   syntax: "public VpnClientConfiguration vpnClientConfiguration()"
   returns:
     description: "the vpnClientConfiguration value."

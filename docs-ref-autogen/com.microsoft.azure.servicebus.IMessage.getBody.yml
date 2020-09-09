@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.IMessage.getBody()"
   name: "getBody()"
   nameWithType: "IMessage.getBody()"
-  summary: "Gets the body of this message as a byte array. It is up to client applications \n to decode the bytes."
+  summary: "Gets the body of this message as a byte array. It is up to client applications to decode the bytes."
   syntax: "public abstract byte[] getBody()"
   returns:
     description: "body of this message"

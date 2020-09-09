@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachinesClient.capture(String resourceGroupName, String vmName, VirtualMachineCaptureParameters parameters)"
   name: "capture(String resourceGroupName, String vmName, VirtualMachineCaptureParameters parameters)"
   nameWithType: "VirtualMachinesClient.capture(String resourceGroupName, String vmName, VirtualMachineCaptureParameters parameters)"
-  summary: "Captures the VM by copying virtual hard disks of the VM and outputs a template that can be used to create similar\n VMs."
+  summary: "Captures the VM by copying virtual hard disks of the VM and outputs a template that can be used to create similar VMs."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.VirtualMachinesClient.capture(String resourceGroupName, String vmName, VirtualMachineCaptureParameters parameters, Context context)"
   name: "capture(String resourceGroupName, String vmName, VirtualMachineCaptureParameters parameters, Context context)"
   nameWithType: "VirtualMachinesClient.capture(String resourceGroupName, String vmName, VirtualMachineCaptureParameters parameters, Context context)"
-  summary: "Captures the VM by copying virtual hard disks of the VM and outputs a template that can be used to create similar\n VMs."
+  summary: "Captures the VM by copying virtual hard disks of the VM and outputs a template that can be used to create similar VMs."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

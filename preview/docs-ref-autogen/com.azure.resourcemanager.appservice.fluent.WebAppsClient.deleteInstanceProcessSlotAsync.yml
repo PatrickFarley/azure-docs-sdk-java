@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.deleteInstanceProcessSlotAsync(String resourceGroupName, String name, String processId, String slot, String instanceId)"
   name: "deleteInstanceProcessSlotAsync(String resourceGroupName, String name, String processId, String slot, String instanceId)"
   nameWithType: "WebAppsClient.deleteInstanceProcessSlotAsync(String resourceGroupName, String name, String processId, String slot, String instanceId)"
-  summary: "Description for Terminate a process by its ID for a web site, or a deployment slot, or specific scaled-out\n instance in a web site."
+  summary: "Description for Terminate a process by its ID for a web site, or a deployment slot, or specific scaled-out instance in a web site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"
@@ -33,7 +33,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.WebAppsClient.deleteInstanceProcessSlotAsync(String resourceGroupName, String name, String processId, String slot, String instanceId, Context context)"
   name: "deleteInstanceProcessSlotAsync(String resourceGroupName, String name, String processId, String slot, String instanceId, Context context)"
   nameWithType: "WebAppsClient.deleteInstanceProcessSlotAsync(String resourceGroupName, String name, String processId, String slot, String instanceId, Context context)"
-  summary: "Description for Terminate a process by its ID for a web site, or a deployment slot, or specific scaled-out\n instance in a web site."
+  summary: "Description for Terminate a process by its ID for a web site, or a deployment slot, or specific scaled-out instance in a web site."
   parameters:
   - description: "Name of the resource group to which the resource belongs."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.AutocompleteOptions.getTop()"
   name: "getTop()"
   nameWithType: "AutocompleteOptions.getTop()"
-  summary: "Get the top property: The number of auto-completed terms to retrieve.\n This must be a value between 1 and 100. The default is 5."
+  summary: "Get the top property: The number of auto-completed terms to retrieve. This must be a value between 1 and 100. The default is 5."
   syntax: "public Integer getTop()"
   returns:
     description: "the top value."

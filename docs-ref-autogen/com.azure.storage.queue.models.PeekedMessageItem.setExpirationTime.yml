@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.queue.models.PeekedMessageItem.setExpirationTime(OffsetDateTime expirationTime)"
   name: "setExpirationTime(OffsetDateTime expirationTime)"
   nameWithType: "PeekedMessageItem.setExpirationTime(OffsetDateTime expirationTime)"
-  summary: "Set the expirationTime property: The time that the Message will expire\n and be automatically deleted."
+  summary: "Set the expirationTime property: The time that the Message will expire and be automatically deleted."
   parameters:
   - description: "the expirationTime value to set."
     name: "expirationTime"

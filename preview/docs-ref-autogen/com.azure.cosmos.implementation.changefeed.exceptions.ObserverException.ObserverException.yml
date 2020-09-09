@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.exceptions.ObserverException.ObserverException(Throwable originalException)"
   name: "ObserverException(Throwable originalException)"
   nameWithType: "ObserverException.ObserverException(Throwable originalException)"
-  summary: "Initializes a new instance of the <xref uid=\"ObserverException\" data-throw-if-not-resolved=\"false\">ObserverException</xref> class using the specified internal exception."
+  summary: "Initializes a new instance of the <xref uid=\"com.azure.cosmos.implementation.changefeed.exceptions.ObserverException\" data-throw-if-not-resolved=\"false\">ObserverException</xref> class using the specified internal exception."
   parameters:
   - description: "<xref uid=\"java.lang.Throwable\" data-throw-if-not-resolved=\"false\">Throwable</xref> thrown by the user code."
     name: "originalException"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.ImagesClient.listSinglePageAsync()"
   name: "listSinglePageAsync()"
   nameWithType: "ImagesClient.listSinglePageAsync()"
-  summary: "Gets the list of Images in the subscription. Use nextLink property in the response to get the next page of\n Images. Do this till nextLink is null to fetch all the Images."
+  summary: "Gets the list of Images in the subscription. Use nextLink property in the response to get the next page of Images. Do this till nextLink is null to fetch all the Images."
   syntax: "public Mono<PagedResponse<ImageInner>> listSinglePageAsync()"
   returns:
     description: "the list of Images in the subscription."
@@ -17,7 +17,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.ImagesClient.listSinglePageAsync(Context context)"
   name: "listSinglePageAsync(Context context)"
   nameWithType: "ImagesClient.listSinglePageAsync(Context context)"
-  summary: "Gets the list of Images in the subscription. Use nextLink property in the response to get the next page of\n Images. Do this till nextLink is null to fetch all the Images."
+  summary: "Gets the list of Images in the subscription. Use nextLink property in the response to get the next page of Images. Do this till nextLink is null to fetch all the Images."
   parameters:
   - description: "The context to associate with this operation."
     name: "context"

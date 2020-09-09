@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.KeepTokenFilter.setLowerCaseKeepWords(Boolean lowerCaseKeepWords)"
   name: "setLowerCaseKeepWords(Boolean lowerCaseKeepWords)"
   nameWithType: "KeepTokenFilter.setLowerCaseKeepWords(Boolean lowerCaseKeepWords)"
-  summary: "Set the lowerCaseKeepWords property: A value indicating whether to lower\n case all words first. Default is false."
+  summary: "Set the lowerCaseKeepWords property: A value indicating whether to lower case all words first. Default is false."
   parameters:
   - description: "the lowerCaseKeepWords value to set."
     name: "lowerCaseKeepWords"

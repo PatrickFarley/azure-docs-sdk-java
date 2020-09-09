@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.implementation.models.KeywordMarkerTokenFilter.setIgnoreCase(Boolean ignoreCase)"
   name: "setIgnoreCase(Boolean ignoreCase)"
   nameWithType: "KeywordMarkerTokenFilter.setIgnoreCase(Boolean ignoreCase)"
-  summary: "Set the ignoreCase property: A value indicating whether to ignore case. If true, all words are converted to lower\n case first. Default is false."
+  summary: "Set the ignoreCase property: A value indicating whether to ignore case. If true, all words are converted to lower case first. Default is false."
   parameters:
   - description: "the ignoreCase value to set."
     name: "ignoreCase"

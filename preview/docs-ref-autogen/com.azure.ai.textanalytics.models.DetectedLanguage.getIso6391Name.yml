@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.DetectedLanguage.getIso6391Name()"
   name: "getIso6391Name()"
   nameWithType: "DetectedLanguage.getIso6391Name()"
-  summary: "Get the iso6391Name property: A two letter representation of the\n detected language according to the ISO 639-1 standard (e.g. en, fr)."
+  summary: "Get the iso6391Name property: A two letter representation of the detected language according to the ISO 639-1 standard (e.g. en, fr)."
   syntax: "public String getIso6391Name()"
   returns:
     description: "The iso6391Name value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestRequest.setUseFuzzyMatching(Boolean useFuzzyMatching)"
   name: "setUseFuzzyMatching(Boolean useFuzzyMatching)"
   nameWithType: "SuggestRequest.setUseFuzzyMatching(Boolean useFuzzyMatching)"
-  summary: "Set the useFuzzyMatching property: A value indicating whether to use fuzzy matching for the suggestion query.\n Default is false. When set to true, the query will find suggestions even if there's a substituted or missing\n character in the search text. While this provides a better experience in some scenarios, it comes at a\n performance cost as fuzzy suggestion searches are slower and consume more resources."
+  summary: "Set the useFuzzyMatching property: A value indicating whether to use fuzzy matching for the suggestion query. Default is false. When set to true, the query will find suggestions even if there's a substituted or missing character in the search text. While this provides a better experience in some scenarios, it comes at a performance cost as fuzzy suggestion searches are slower and consume more resources."
   parameters:
   - description: "the useFuzzyMatching value to set."
     name: "useFuzzyMatching"

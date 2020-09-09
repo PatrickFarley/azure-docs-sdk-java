@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.beginGetVpnProfilePackageUrlWithoutPollingAsync(String resourceGroupName, String virtualNetworkGatewayName)"
   name: "beginGetVpnProfilePackageUrlWithoutPollingAsync(String resourceGroupName, String virtualNetworkGatewayName)"
   nameWithType: "VirtualNetworkGatewaysClient.beginGetVpnProfilePackageUrlWithoutPollingAsync(String resourceGroupName, String virtualNetworkGatewayName)"
-  summary: "Gets pre-generated VPN profile for P2S client of the virtual network gateway in the specified resource group. The\n profile needs to be generated first using generateVpnProfile."
+  summary: "Gets pre-generated VPN profile for P2S client of the virtual network gateway in the specified resource group. The profile needs to be generated first using generateVpnProfile."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.VirtualNetworkGatewaysClient.beginGetVpnProfilePackageUrlWithoutPollingAsync(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   name: "beginGetVpnProfilePackageUrlWithoutPollingAsync(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
   nameWithType: "VirtualNetworkGatewaysClient.beginGetVpnProfilePackageUrlWithoutPollingAsync(String resourceGroupName, String virtualNetworkGatewayName, Context context)"
-  summary: "Gets pre-generated VPN profile for P2S client of the virtual network gateway in the specified resource group. The\n profile needs to be generated first using generateVpnProfile."
+  summary: "Gets pre-generated VPN profile for P2S client of the virtual network gateway in the specified resource group. The profile needs to be generated first using generateVpnProfile."
   parameters:
   - description: "The name of the resource group."
     name: "resourceGroupName"

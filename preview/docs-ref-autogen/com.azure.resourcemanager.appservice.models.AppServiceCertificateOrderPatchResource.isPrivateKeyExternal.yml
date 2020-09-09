@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.AppServiceCertificateOrderPatchResource.isPrivateKeyExternal()"
   name: "isPrivateKeyExternal()"
   nameWithType: "AppServiceCertificateOrderPatchResource.isPrivateKeyExternal()"
-  summary: "Get the isPrivateKeyExternal property: &lt;code&gt;true&lt;/code&gt; if private key is external; otherwise,\n &lt;code&gt;false&lt;/code&gt;."
+  summary: "Get the isPrivateKeyExternal property: <code>true</code> if private key is external; otherwise, <code>false</code>."
   syntax: "public Boolean isPrivateKeyExternal()"
   returns:
     description: "the isPrivateKeyExternal value."

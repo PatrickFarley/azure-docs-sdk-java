@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.TestContextManager.doNotRecordTest()"
   name: "doNotRecordTest()"
   nameWithType: "TestContextManager.doNotRecordTest()"
-  summary: "Returns whether the test should have its network calls recorded during a <xref uid=\"TestMode#RECORD\" data-throw-if-not-resolved=\"false\">record</xref> test\n run."
+  summary: "Returns whether the test should have its network calls recorded during a <xref uid=\"com.azure.core.test.TestMode.RECORD\" data-throw-if-not-resolved=\"false\">record</xref> test run."
   syntax: "public boolean doNotRecordTest()"
   returns:
     description: "Flag indicating whether to record test network calls."

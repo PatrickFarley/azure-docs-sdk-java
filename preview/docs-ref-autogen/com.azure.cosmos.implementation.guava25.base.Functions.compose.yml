@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Functions.<A,B,C>compose(Function<B,C> g, Function<A,? extends B> f)"
   name: "<A,B,C>compose(Function<B,C> g, Function<A,? extends B> f)"
   nameWithType: "Functions.<A,B,C>compose(Function<B,C> g, Function<A,? extends B> f)"
-  summary: "Returns the composition of two functions. For <code>f: A->B</code> and <code>g: B->C</code>, composition\n is defined as the function h such that <code>h(a) == g(f(a))</code> for each <code>a</code>.\n\n <p><b>Java 8 users:</b> use <code>g.compose(f)</code> or (probably clearer) <code>f.andThen(g)</code>\n instead."
+  summary: "Returns the composition of two functions. For `f: A->B` and `g: B->C`, composition is defined as the function h such that `h(a) == g(f(a))` for each `a`.\n\n**Java 8 users:** use `g.compose(f)` or (probably clearer) `f.andThen(g)` instead."
   parameters:
   - description: "the second function to apply"
     name: "g"

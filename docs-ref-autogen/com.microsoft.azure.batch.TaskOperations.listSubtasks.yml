@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.listSubtasks(String jobId, String taskId)"
   name: "listSubtasks(String jobId, String taskId)"
   nameWithType: "TaskOperations.listSubtasks(String jobId, String taskId)"
-  summary: "Lists the <xref uid=\"SubtaskInformation\" data-throw-if-not-resolved=\"false\">subtasks</xref> of the specified task."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.SubtaskInformation\" data-throw-if-not-resolved=\"false\">subtasks</xref> of the specified task."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"
@@ -29,7 +29,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.listSubtasks(String jobId, String taskId, DetailLevel detailLevel)"
   name: "listSubtasks(String jobId, String taskId, DetailLevel detailLevel)"
   nameWithType: "TaskOperations.listSubtasks(String jobId, String taskId, DetailLevel detailLevel)"
-  summary: "Lists the <xref uid=\"SubtaskInformation\" data-throw-if-not-resolved=\"false\">subtasks</xref> of the specified task."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.SubtaskInformation\" data-throw-if-not-resolved=\"false\">subtasks</xref> of the specified task."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"
@@ -53,7 +53,7 @@ members:
   fullName: "com.microsoft.azure.batch.TaskOperations.listSubtasks(String jobId, String taskId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   name: "listSubtasks(String jobId, String taskId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
   nameWithType: "TaskOperations.listSubtasks(String jobId, String taskId, DetailLevel detailLevel, Iterable<BatchClientBehavior> additionalBehaviors)"
-  summary: "Lists the <xref uid=\"SubtaskInformation\" data-throw-if-not-resolved=\"false\">subtasks</xref> of the specified task."
+  summary: "Lists the <xref uid=\"com.microsoft.azure.batch.protocol.models.SubtaskInformation\" data-throw-if-not-resolved=\"false\">subtasks</xref> of the specified task."
   parameters:
   - description: "The ID of the job containing the task."
     name: "jobId"

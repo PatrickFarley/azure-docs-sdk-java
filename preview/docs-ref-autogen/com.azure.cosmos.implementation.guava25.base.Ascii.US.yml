@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Ascii.US"
   name: "US"
   nameWithType: "Ascii.US"
-  summary: "Unit Separator: These four information separators may be used within data in optional fashion,\n except that their hierarchical relationship shall be: FS is the most inclusive, then GS, then\n RS, and US is least inclusive. (The content and length of a File, Group, Record, or Unit are\n not specified.)"
+  summary: "Unit Separator: These four information separators may be used within data in optional fashion, except that their hierarchical relationship shall be: FS is the most inclusive, then GS, then RS, and US is least inclusive. (The content and length of a File, Group, Record, or Unit are not specified.)"
   syntax: "public static final byte US"
 type: "field"
 metadata: {}

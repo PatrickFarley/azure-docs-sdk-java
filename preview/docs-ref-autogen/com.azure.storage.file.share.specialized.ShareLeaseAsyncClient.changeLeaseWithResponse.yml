@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.specialized.ShareLeaseAsyncClient.changeLeaseWithResponse(String proposedId)"
   name: "changeLeaseWithResponse(String proposedId)"
   nameWithType: "ShareLeaseAsyncClient.changeLeaseWithResponse(String proposedId)"
-  summary: "Changes the lease ID.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n client.changeLeaseWithResponse&#40;&quot;proposedId&quot;&#41;.subscribe&#40;response -&gt;\n     System.out.printf&#40;&quot;Changed lease ID is %s%n&quot;, response.getValue&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Changes the lease ID.\n\n**Code Samples**\n\n```java\nclient.changeLeaseWithResponse(\"proposedId\").subscribe(response ->\n     System.out.printf(\"Changed lease ID is %s%n\", response.getValue()));\n```"
   parameters:
   - description: "A new lease ID in a valid GUID format."
     name: "proposedId"

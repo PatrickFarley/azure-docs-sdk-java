@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.models.SearchIndexer.setIsDisabled(Boolean isDisabled)"
   name: "setIsDisabled(Boolean isDisabled)"
   nameWithType: "SearchIndexer.setIsDisabled(Boolean isDisabled)"
-  summary: "Set the isDisabled property: A value indicating whether the indexer is\n disabled. Default is false."
+  summary: "Set the isDisabled property: A value indicating whether the indexer is disabled. Default is false."
   parameters:
   - description: "the isDisabled value to set."
     name: "isDisabled"

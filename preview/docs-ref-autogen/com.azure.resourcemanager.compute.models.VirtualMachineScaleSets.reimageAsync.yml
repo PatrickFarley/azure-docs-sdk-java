@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSets.reimageAsync(String groupName, String name)"
   name: "reimageAsync(String groupName, String name)"
   nameWithType: "VirtualMachineScaleSets.reimageAsync(String groupName, String name)"
-  summary: "Re-images (updates the version of the installed operating system) the virtual machines in the scale set\n asynchronously."
+  summary: "Re-images (updates the version of the installed operating system) the virtual machines in the scale set asynchronously."
   parameters:
   - description: "the name of the resource group the virtual machine scale set is in"
     name: "groupName"

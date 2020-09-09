@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.trafficmanager.TrafficManagerProfile.UpdateStages.WithTrafficRoutingMethod.withPerformanceBasedRouting()"
   name: "withPerformanceBasedRouting()"
   nameWithType: "TrafficManagerProfile.UpdateStages.WithTrafficRoutingMethod.withPerformanceBasedRouting()"
-  summary: "Specifies that end user traffic should be routed based on the closest available endpoint in terms\n of the lowest network latency."
+  summary: "Specifies that end user traffic should be routed based on the closest available endpoint in terms of the lowest network latency."
   syntax: "public abstract TrafficManagerProfile.Update withPerformanceBasedRouting()"
   returns:
     description: "the next stage of the update"

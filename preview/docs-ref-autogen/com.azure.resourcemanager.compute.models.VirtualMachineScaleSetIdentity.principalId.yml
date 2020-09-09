@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineScaleSetIdentity.principalId()"
   name: "principalId()"
   nameWithType: "VirtualMachineScaleSetIdentity.principalId()"
-  summary: "Get the principalId property: The principal id of virtual machine scale set identity. This property will only be\n provided for a system assigned identity."
+  summary: "Get the principalId property: The principal id of virtual machine scale set identity. This property will only be provided for a system assigned identity."
   syntax: "public String principalId()"
   returns:
     description: "the principalId value."

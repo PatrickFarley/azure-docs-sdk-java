@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetListOSUpgradeHistoryInner.withNextLink(String nextLink)"
   name: "withNextLink(String nextLink)"
   nameWithType: "VirtualMachineScaleSetListOSUpgradeHistoryInner.withNextLink(String nextLink)"
-  summary: "Set the nextLink property: The uri to fetch the next page of OS Upgrade History. Call ListNext() with this to\n fetch the next page of history of upgrades."
+  summary: "Set the nextLink property: The uri to fetch the next page of OS Upgrade History. Call ListNext() with this to fetch the next page of history of upgrades."
   parameters:
   - description: "the nextLink value to set."
     name: "nextLink"

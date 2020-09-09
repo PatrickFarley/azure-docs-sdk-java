@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.DataLakeFileSystemClient.getDirectoryClient(String directoryName)"
   name: "getDirectoryClient(String directoryName)"
   nameWithType: "DataLakeFileSystemClient.getDirectoryClient(String directoryName)"
-  summary: "Initializes a new DataLakeDirectoryClient object by concatenating directoryName to the end of\n DataLakeFileSystemClient's URL. The new DataLakeDirectoryClient uses the same request policy pipeline as the\n DataLakeFileSystemClient."
+  summary: "Initializes a new DataLakeDirectoryClient object by concatenating directoryName to the end of DataLakeFileSystemClient's URL. The new DataLakeDirectoryClient uses the same request policy pipeline as the DataLakeFileSystemClient."
   parameters:
   - description: "A <code>String</code> representing the name of the directory.\n\n <p><strong>Code Samples</strong></p>\n\n <pre>\n DataLakeDirectoryClient dataLakeDirectoryClient = client.getDirectoryClient&#40;directoryName&#41;;\n </pre>"
     name: "directoryName"

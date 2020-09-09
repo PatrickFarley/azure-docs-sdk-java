@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.listNext(String nextPageLink)"
   name: "listNext(String nextPageLink)"
   nameWithType: "Tasks.listNext(String nextPageLink)"
-  summary: "Lists all of the Tasks that are associated with the specified Job.\n For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
+  summary: "Lists all of the Tasks that are associated with the specified Job. For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.listNext(String nextPageLink, TaskListNextOptions taskListNextOptions)"
   name: "listNext(String nextPageLink, TaskListNextOptions taskListNextOptions)"
   nameWithType: "Tasks.listNext(String nextPageLink, TaskListNextOptions taskListNextOptions)"
-  summary: "Lists all of the Tasks that are associated with the specified Job.\n For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
+  summary: "Lists all of the Tasks that are associated with the specified Job. For multi-instance Tasks, information such as affinityId, executionInfo and nodeInfo refer to the primary Task. Use the list subtasks API to retrieve information about subtasks."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

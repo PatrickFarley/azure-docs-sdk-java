@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.models.CloningInfo.trafficManagerProfileName()"
   name: "trafficManagerProfileName()"
   nameWithType: "CloningInfo.trafficManagerProfileName()"
-  summary: "Get the trafficManagerProfileName property: Name of Traffic Manager profile to create. This is only needed if\n Traffic Manager profile does not already exist."
+  summary: "Get the trafficManagerProfileName property: Name of Traffic Manager profile to create. This is only needed if Traffic Manager profile does not already exist."
   syntax: "public String trafficManagerProfileName()"
   returns:
     description: "the trafficManagerProfileName value."

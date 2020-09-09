@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareCorsRule.getAllowedMethods()"
   name: "getAllowedMethods()"
   nameWithType: "ShareCorsRule.getAllowedMethods()"
-  summary: "Get the allowedMethods property: The methods (HTTP request verbs) that\n the origin domain may use for a CORS request. (comma separated)."
+  summary: "Get the allowedMethods property: The methods (HTTP request verbs) that the origin domain may use for a CORS request. (comma separated)."
   syntax: "public String getAllowedMethods()"
   returns:
     description: "the allowedMethods value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.EventSubscriptions.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName)"
   name: "listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName)"
   nameWithType: "EventSubscriptions.listGlobalByResourceGroupForTopicTypeAsync(String resourceGroupName, String topicTypeName)"
-  summary: "List all global event subscriptions under a resource group for a topic type.\n List all global event subscriptions under a resource group for a specific topic type."
+  summary: "List all global event subscriptions under a resource group for a topic type. List all global event subscriptions under a resource group for a specific topic type."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

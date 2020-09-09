@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.options.BlobParallelUploadOptions.BlobParallelUploadOptions(InputStream dataStream, long length)"
   name: "BlobParallelUploadOptions(InputStream dataStream, long length)"
   nameWithType: "BlobParallelUploadOptions.BlobParallelUploadOptions(InputStream dataStream, long length)"
-  summary: "Constructs a new <code>BlobParalleUploadOptions</code>."
+  summary: "Constructs a new `BlobParalleUploadOptions`."
   parameters:
   - description: "The data to write to the blob. Unlike other upload methods, this method does not require that\n the <code>InputStream</code> be markable."
     name: "dataStream"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.storage.blob.options.BlobParallelUploadOptions.BlobParallelUploadOptions(Flux<ByteBuffer> dataFlux)"
   name: "BlobParallelUploadOptions(Flux<ByteBuffer> dataFlux)"
   nameWithType: "BlobParallelUploadOptions.BlobParallelUploadOptions(Flux<ByteBuffer> dataFlux)"
-  summary: "Constructs a new <code>BlobParallelUploadOptions</code>."
+  summary: "Constructs a new `BlobParallelUploadOptions`."
   parameters:
   - description: "The data to write to the blob. Unlike other upload methods, this method does not require that\n the <code>Flux</code> be replayable. In other words, it does not have to support multiple subscribers and is not\n expected to produce the same values across subscriptions."
     name: "dataFlux"

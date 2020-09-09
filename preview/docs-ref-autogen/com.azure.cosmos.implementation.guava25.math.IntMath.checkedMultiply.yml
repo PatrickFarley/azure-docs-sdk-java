@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.IntMath.checkedMultiply(int a, int b)"
   name: "checkedMultiply(int a, int b)"
   nameWithType: "IntMath.checkedMultiply(int a, int b)"
-  summary: "Returns the product of <code>a</code> and <code>b</code>, provided it does not overflow."
+  summary: "Returns the product of `a` and `b`, provided it does not overflow."
   parameters:
   - name: "a"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

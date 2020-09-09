@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateLinkResourcesInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateLinkResourceName)"
   name: "getAsync(String resourceGroupName, String parentType, String parentName, String privateLinkResourceName)"
   nameWithType: "PrivateLinkResourcesInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateLinkResourceName)"
-  summary: "Get a private link resource.\n Get properties of a private link resource."
+  summary: "Get a private link resource. Get properties of a private link resource."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -30,7 +30,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateLinkResourcesInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateLinkResourceName, ServiceCallback<PrivateLinkResourceInner> serviceCallback)"
   name: "getAsync(String resourceGroupName, String parentType, String parentName, String privateLinkResourceName, ServiceCallback<PrivateLinkResourceInner> serviceCallback)"
   nameWithType: "PrivateLinkResourcesInner.getAsync(String resourceGroupName, String parentType, String parentName, String privateLinkResourceName, ServiceCallback<PrivateLinkResourceInner> serviceCallback)"
-  summary: "Get a private link resource.\n Get properties of a private link resource."
+  summary: "Get a private link resource. Get properties of a private link resource."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableRangeSet<C>.add(Range<C> range)"
   name: "add(Range<C> range)"
   nameWithType: "ImmutableRangeSet<C>.add(Range<C> range)"
-  summary: "Guaranteed to throw an exception and leave the <code>RangeSet</code> unmodified."
+  summary: "Guaranteed to throw an exception and leave the `RangeSet` unmodified."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractRangeSet.add(com.azure.cosmos.implementation.guava25.collect.Range<C>)"
   parameters:
   - name: "range"

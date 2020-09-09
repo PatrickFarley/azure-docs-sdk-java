@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.CosmosScripts.queryTriggers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   name: "queryTriggers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosScripts.queryTriggers(SqlQuerySpec querySpec, CosmosQueryRequestOptions options)"
-  summary: "Query triggers <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Query triggers <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   parameters:
   - description: "the query spec"
     name: "querySpec"
@@ -24,7 +24,7 @@ members:
   fullName: "com.azure.cosmos.CosmosScripts.queryTriggers(String query, CosmosQueryRequestOptions options)"
   name: "queryTriggers(String query, CosmosQueryRequestOptions options)"
   nameWithType: "CosmosScripts.queryTriggers(String query, CosmosQueryRequestOptions options)"
-  summary: "Query triggers <xref uid=\"CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
+  summary: "Query triggers <xref uid=\"com.azure.cosmos.util.CosmosPagedIterable\" data-throw-if-not-resolved=\"false\">CosmosPagedIterable</xref>."
   parameters:
   - description: "the query"
     name: "query"

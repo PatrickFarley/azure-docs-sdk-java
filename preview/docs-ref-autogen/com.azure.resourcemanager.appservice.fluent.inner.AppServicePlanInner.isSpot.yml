@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.AppServicePlanInner.isSpot()"
   name: "isSpot()"
   nameWithType: "AppServicePlanInner.isSpot()"
-  summary: "Get the isSpot property: If &lt;code&gt;true&lt;/code&gt;, this App Service Plan owns spot instances."
+  summary: "Get the isSpot property: If <code>true</code>, this App Service Plan owns spot instances."
   syntax: "public Boolean isSpot()"
   returns:
     description: "the isSpot value."

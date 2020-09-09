@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.inner.RegistryNameStatusInner.withMessage(String message)"
   name: "withMessage(String message)"
   nameWithType: "RegistryNameStatusInner.withMessage(String message)"
-  summary: "Set the message property: If any, the error message that provides more detail for the reason that the name is not\n available."
+  summary: "Set the message property: If any, the error message that provides more detail for the reason that the name is not available."
   parameters:
   - description: "the message value to set."
     name: "message"

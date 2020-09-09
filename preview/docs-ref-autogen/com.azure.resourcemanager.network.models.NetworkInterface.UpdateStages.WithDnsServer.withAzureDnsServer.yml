@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.NetworkInterface.UpdateStages.WithDnsServer.withAzureDnsServer()"
   name: "withAzureDnsServer()"
   nameWithType: "NetworkInterface.UpdateStages.WithDnsServer.withAzureDnsServer()"
-  summary: "Specifies to use the default Azure DNS server for the network interface.\n\n <p>Using azure DNS server will remove any custom DNS server associated with this network interface."
+  summary: "Specifies to use the default Azure DNS server for the network interface.\n\nUsing azure DNS server will remove any custom DNS server associated with this network interface."
   syntax: "public abstract NetworkInterface.Update withAzureDnsServer()"
   returns:
     description: "the next stage of the network interface update"

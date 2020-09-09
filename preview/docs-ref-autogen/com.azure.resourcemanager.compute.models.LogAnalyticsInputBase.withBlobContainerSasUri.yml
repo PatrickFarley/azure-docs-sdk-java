@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.LogAnalyticsInputBase.withBlobContainerSasUri(String blobContainerSasUri)"
   name: "withBlobContainerSasUri(String blobContainerSasUri)"
   nameWithType: "LogAnalyticsInputBase.withBlobContainerSasUri(String blobContainerSasUri)"
-  summary: "Set the blobContainerSasUri property: SAS Uri of the logging blob container to which LogAnalytics Api writes\n output logs to."
+  summary: "Set the blobContainerSasUri property: SAS Uri of the logging blob container to which LogAnalytics Api writes output logs to."
   parameters:
   - description: "the blobContainerSasUri value to set."
     name: "blobContainerSasUri"

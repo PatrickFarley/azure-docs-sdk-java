@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMultiset<E>.<E>toImmutableSortedMultiset(Comparator<? super E> comparator)"
   name: "<E>toImmutableSortedMultiset(Comparator<? super E> comparator)"
   nameWithType: "ImmutableSortedMultiset<E>.<E>toImmutableSortedMultiset(Comparator<? super E> comparator)"
-  summary: "Returns a <code>Collector</code> that accumulates the input elements into a new <code>\n ImmutableMultiset</code>. Elements are sorted by the specified comparator.\n\n <p><b>Warning:</b> <code>comparator</code> should be <i>consistent with <code>equals</code></i> as\n explained in the <xref uid=\"Comparator\" data-throw-if-not-resolved=\"false\">Comparator</xref> documentation."
+  summary: "Returns a `Collector` that accumulates the input elements into a new `ImmutableMultiset`. Elements are sorted by the specified comparator.\n\n**Warning:** `comparator` should be *consistent with `equals`* as explained in the <xref uid=\"java.util.Comparator\" data-throw-if-not-resolved=\"false\">Comparator</xref> documentation."
   parameters:
   - name: "comparator"
     type: "<xref href=\"java.util.Comparator?alt=java.util.Comparator&text=Comparator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super E?alt=? super E&text=? super E\" data-throw-if-not-resolved=\"False\" />&gt;"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableSortedMultiset<E>.<T,E>toImmutableSortedMultiset(Comparator<? super E> comparator, Function<? super T,? extends E> elementFunction, ToIntFunction<? super T> countFunction)"
   name: "<T,E>toImmutableSortedMultiset(Comparator<? super E> comparator, Function<? super T,? extends E> elementFunction, ToIntFunction<? super T> countFunction)"
   nameWithType: "ImmutableSortedMultiset<E>.<T,E>toImmutableSortedMultiset(Comparator<? super E> comparator, Function<? super T,? extends E> elementFunction, ToIntFunction<? super T> countFunction)"
-  summary: "Returns a <code>Collector</code> that accumulates elements into an <code>ImmutableSortedMultiset</code>\n whose elements are the result of applying <code>elementFunction</code> to the inputs, with counts\n equal to the result of applying <code>countFunction</code> to the inputs.\n\n <p>If the mapped elements contain duplicates (according to <code>comparator</code>), the first\n occurrence in encounter order appears in the resulting multiset, with count equal to the sum of\n the outputs of <code>countFunction.applyAsInt(t)</code> for each <code>t</code> mapped to that element."
+  summary: "Returns a `Collector` that accumulates elements into an `ImmutableSortedMultiset` whose elements are the result of applying `elementFunction` to the inputs, with counts equal to the result of applying `countFunction` to the inputs.\n\nIf the mapped elements contain duplicates (according to `comparator`), the first occurrence in encounter order appears in the resulting multiset, with count equal to the sum of the outputs of `countFunction.applyAsInt(t)` for each `t` mapped to that element."
   parameters:
   - name: "comparator"
     type: "<xref href=\"java.util.Comparator?alt=java.util.Comparator&text=Comparator\" data-throw-if-not-resolved=\"False\" />&lt;<xref href=\"? super E?alt=? super E&text=? super E\" data-throw-if-not-resolved=\"False\" />&gt;"

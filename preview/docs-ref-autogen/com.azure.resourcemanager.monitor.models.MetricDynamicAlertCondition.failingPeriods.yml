@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricDynamicAlertCondition.failingPeriods()"
   name: "failingPeriods()"
   nameWithType: "MetricDynamicAlertCondition.failingPeriods()"
-  summary: "Get the minimum number of violations required within the selected lookback time window required to raise an\n alert."
+  summary: "Get the minimum number of violations required within the selected lookback time window required to raise an alert."
   syntax: "public abstract DynamicThresholdFailingPeriods failingPeriods()"
   returns:
     description: "the failingPeriods value"

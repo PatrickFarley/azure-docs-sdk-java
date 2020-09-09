@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.models.FacetResult.getAdditionalProperties()"
   name: "getAdditionalProperties()"
   nameWithType: "FacetResult.getAdditionalProperties()"
-  summary: "Get the additionalProperties property: Unmatched properties from the\n message are deserialized this collection."
+  summary: "Get the additionalProperties property: Unmatched properties from the message are deserialized this collection."
   syntax: "public Map<String,Object> getAdditionalProperties()"
   returns:
     description: "the additionalProperties value."

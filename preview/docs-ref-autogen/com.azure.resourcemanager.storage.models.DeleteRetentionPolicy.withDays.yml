@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.DeleteRetentionPolicy.withDays(Integer days)"
   name: "withDays(Integer days)"
   nameWithType: "DeleteRetentionPolicy.withDays(Integer days)"
-  summary: "Set the days property: Indicates the number of days that the deleted item should be retained. The minimum\n specified value can be 1 and the maximum value can be 365."
+  summary: "Set the days property: Indicates the number of days that the deleted item should be retained. The minimum specified value can be 1 and the maximum value can be 365."
   parameters:
   - description: "the days value to set."
     name: "days"

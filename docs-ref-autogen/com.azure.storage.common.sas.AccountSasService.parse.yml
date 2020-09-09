@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.common.sas.AccountSasService.parse(String servicesString)"
   name: "parse(String servicesString)"
   nameWithType: "AccountSasService.parse(String servicesString)"
-  summary: "Creates an <code>AccountSasService</code> from the specified services string. This method will throw an\n <code>IllegalArgumentException</code> if it encounters a character that does not correspond to a valid service."
+  summary: "Creates an `AccountSasService` from the specified services string. This method will throw an `IllegalArgumentException` if it encounters a character that does not correspond to a valid service."
   parameters:
   - description: "A <code>String</code> which represents the <code>SharedAccessAccountServices</code>."
     name: "servicesString"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.RecommendedElasticPoolMetricInner.withDtu(Double dtu)"
   name: "withDtu(Double dtu)"
   nameWithType: "RecommendedElasticPoolMetricInner.withDtu(Double dtu)"
-  summary: "Set the dtu property: Gets or sets the DTUs (Database Transaction Units). See\n https://azure.microsoft.com/documentation/articles/sql-database-what-is-a-dtu/."
+  summary: "Set the dtu property: Gets or sets the DTUs (Database Transaction Units). See https://azure.microsoft.com/documentation/articles/sql-database-what-is-a-dtu/."
   parameters:
   - description: "the dtu value to set."
     name: "dtu"

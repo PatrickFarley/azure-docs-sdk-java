@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.deps.serializer.TwinParser.resetDesiredProperty(Map<String,Object> propertyMap)"
   name: "resetDesiredProperty(Map<String,Object> propertyMap)"
   nameWithType: "TwinParser.resetDesiredProperty(Map<String,Object> propertyMap)"
-  summary: "Reset the `desired` properties information in the collection, deleting all old properties and add all the new provided ones.\n Return a string with a json that contains a sub-collection of added properties."
+  summary: "Reset the \\`desired\\` properties information in the collection, deleting all old properties and add all the new provided ones. Return a string with a json that contains a sub-collection of added properties."
   parameters:
   - description: "- Map of `desired` property to change the collection."
     name: "propertyMap"

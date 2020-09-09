@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestRequest.getSuggesterName()"
   name: "getSuggesterName()"
   nameWithType: "SuggestRequest.getSuggesterName()"
-  summary: "Get the suggesterName property: The name of the suggester as specified in the suggesters collection that's part\n of the index definition."
+  summary: "Get the suggesterName property: The name of the suggester as specified in the suggesters collection that's part of the index definition."
   syntax: "public String getSuggesterName()"
   returns:
     description: "the suggesterName value."

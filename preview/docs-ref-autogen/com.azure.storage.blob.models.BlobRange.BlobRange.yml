@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobRange.BlobRange(long offset)"
   name: "BlobRange(long offset)"
   nameWithType: "BlobRange.BlobRange(long offset)"
-  summary: "Specifies the download operation to start from the offset position (zero-based) and download the rest of the\n entire blob to the end."
+  summary: "Specifies the download operation to start from the offset position (zero-based) and download the rest of the entire blob to the end."
   parameters:
   - description: "the zero-based position to start downloading"
     name: "offset"
@@ -18,7 +18,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobRange.BlobRange(long offset, Long count)"
   name: "BlobRange(long offset, Long count)"
   nameWithType: "BlobRange.BlobRange(long offset, Long count)"
-  summary: "Specifies the download operation to start from the offset position (zero-based) and download the count number of\n bytes."
+  summary: "Specifies the download operation to start from the offset position (zero-based) and download the count number of bytes."
   parameters:
   - description: "the zero-based position to start downloading"
     name: "offset"

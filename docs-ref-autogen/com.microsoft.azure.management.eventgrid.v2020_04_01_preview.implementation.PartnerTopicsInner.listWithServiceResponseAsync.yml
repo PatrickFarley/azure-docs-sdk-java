@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.listWithServiceResponseAsync()"
   name: "listWithServiceResponseAsync()"
   nameWithType: "PartnerTopicsInner.listWithServiceResponseAsync()"
-  summary: "List partner topics under an Azure subscription.\n List all the partner topics under an Azure subscription."
+  summary: "List partner topics under an Azure subscription. List all the partner topics under an Azure subscription."
   syntax: "public Observable<ServiceResponse<Page<PartnerTopicInner>>> listWithServiceResponseAsync()"
   returns:
     description: "the observable to the PagedList&lt;PartnerTopicInner&gt; object"
@@ -17,7 +17,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerTopicsInner.listWithServiceResponseAsync(String filter, Integer top)"
   name: "listWithServiceResponseAsync(String filter, Integer top)"
   nameWithType: "PartnerTopicsInner.listWithServiceResponseAsync(String filter, Integer top)"
-  summary: "List partner topics under an Azure subscription.\n List all the partner topics under an Azure subscription."
+  summary: "List partner topics under an Azure subscription. List all the partner topics under an Azure subscription."
   parameters:
   - description: "The query used to filter the search results using OData syntax. Filtering is permitted on the 'name' property only and with limited number of OData operations. These operations are: the 'contains' function as well as the following logical operations: not, and, or, eq (for equal), and ne (for not equal). No arithmetic operations are supported. The following is a valid filter example: $filter=contains(namE, 'PATTERN') and name ne 'PATTERN-1'. The following is not a valid filter example: $filter=location eq 'westus'."
     name: "filter"

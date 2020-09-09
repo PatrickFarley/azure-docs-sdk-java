@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.http.HttpHeaders.getValue(String name)"
   name: "getValue(String name)"
   nameWithType: "HttpHeaders.getValue(String name)"
-  summary: "Get the value for the provided header name. <code>Null</code> is returned if the header name isn't found."
+  summary: "Get the value for the provided header name. `Null` is returned if the header name isn't found."
   parameters:
   - description: "the name of the header whose value is being retrieved."
     name: "name"

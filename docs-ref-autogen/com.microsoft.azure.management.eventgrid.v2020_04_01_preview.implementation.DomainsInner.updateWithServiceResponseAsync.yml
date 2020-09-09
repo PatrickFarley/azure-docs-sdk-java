@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainsInner.updateWithServiceResponseAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters)"
   name: "updateWithServiceResponseAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters)"
   nameWithType: "DomainsInner.updateWithServiceResponseAsync(String resourceGroupName, String domainName, DomainUpdateParameters domainUpdateParameters)"
-  summary: "Update a domain.\n Asynchronously updates a domain with the specified parameters."
+  summary: "Update a domain. Asynchronously updates a domain with the specified parameters."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

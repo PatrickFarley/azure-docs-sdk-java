@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.BatchClient.computeNodeOperations()"
   name: "computeNodeOperations()"
   nameWithType: "BatchClient.computeNodeOperations()"
-  summary: "Gets a <xref uid=\"ComputeNodeOperations\" data-throw-if-not-resolved=\"false\">ComputeNodeOperations</xref> object for performing compute node-related operations on the associated account."
+  summary: "Gets a <xref uid=\"com.microsoft.azure.batch.ComputeNodeOperations\" data-throw-if-not-resolved=\"false\">ComputeNodeOperations</xref> object for performing compute node-related operations on the associated account."
   syntax: "public ComputeNodeOperations computeNodeOperations()"
   returns:
     description: "An instance of the <xref uid=\"com.microsoft.azure.batch.ComputeNodeOperations\" data-throw-if-not-resolved=\"false\">ComputeNodeOperations</xref> class."

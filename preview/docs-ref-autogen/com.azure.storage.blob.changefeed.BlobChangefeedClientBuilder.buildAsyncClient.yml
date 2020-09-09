@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.changefeed.BlobChangefeedClientBuilder.buildAsyncClient()"
   name: "buildAsyncClient()"
   nameWithType: "BlobChangefeedClientBuilder.buildAsyncClient()"
-  summary: "Creates a <xref uid=\"BlobChangefeedAsyncClient\" data-throw-if-not-resolved=\"false\">BlobChangefeedAsyncClient</xref>.\n\n <p><strong>Code sample</strong></p>\n\n <pre>\n BlobChangefeedAsyncClient changefeedClient = new BlobChangefeedClientBuilder&#40;blobServiceAsyncClient&#41;.buildAsyncClient&#40;&#41;;\n </pre>"
+  summary: "Creates a <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedAsyncClient\" data-throw-if-not-resolved=\"false\">BlobChangefeedAsyncClient</xref>.\n\n**Code sample**\n\n```java\nBlobChangefeedAsyncClient changefeedClient = new BlobChangefeedClientBuilder(blobServiceAsyncClient).buildAsyncClient();\n```"
   syntax: "public BlobChangefeedAsyncClient buildAsyncClient()"
   returns:
     description: "a <xref uid=\"com.azure.storage.blob.changefeed.BlobChangefeedAsyncClient\" data-throw-if-not-resolved=\"false\">BlobChangefeedAsyncClient</xref> created from the configurations in this builder."

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Pools.addWithServiceResponseAsync(PoolAddParameter pool)"
   name: "addWithServiceResponseAsync(PoolAddParameter pool)"
   nameWithType: "Pools.addWithServiceResponseAsync(PoolAddParameter pool)"
-  summary: "Adds a Pool to the specified Account.\n When naming Pools, avoid including sensitive information such as user names or secret project names. This information may appear in telemetry logs accessible to Microsoft Support engineers."
+  summary: "Adds a Pool to the specified Account. When naming Pools, avoid including sensitive information such as user names or secret project names. This information may appear in telemetry logs accessible to Microsoft Support engineers."
   parameters:
   - description: "The Pool to be added."
     name: "pool"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Pools.addWithServiceResponseAsync(PoolAddParameter pool, PoolAddOptions poolAddOptions)"
   name: "addWithServiceResponseAsync(PoolAddParameter pool, PoolAddOptions poolAddOptions)"
   nameWithType: "Pools.addWithServiceResponseAsync(PoolAddParameter pool, PoolAddOptions poolAddOptions)"
-  summary: "Adds a Pool to the specified Account.\n When naming Pools, avoid including sensitive information such as user names or secret project names. This information may appear in telemetry logs accessible to Microsoft Support engineers."
+  summary: "Adds a Pool to the specified Account. When naming Pools, avoid including sensitive information such as user names or secret project names. This information may appear in telemetry logs accessible to Microsoft Support engineers."
   parameters:
   - description: "The Pool to be added."
     name: "pool"

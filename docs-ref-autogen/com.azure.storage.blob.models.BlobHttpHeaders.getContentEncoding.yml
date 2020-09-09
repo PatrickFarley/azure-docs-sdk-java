@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobHttpHeaders.getContentEncoding()"
   name: "getContentEncoding()"
   nameWithType: "BlobHttpHeaders.getContentEncoding()"
-  summary: "Get the contentEncoding property: Optional. Sets the blob's content\n encoding. If specified, this property is stored with the blob and\n returned with a read request."
+  summary: "Get the contentEncoding property: Optional. Sets the blob's content encoding. If specified, this property is stored with the blob and returned with a read request."
   syntax: "public String getContentEncoding()"
   returns:
     description: "the contentEncoding value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.authorization.models.RequiredResourceAccess.withAdditionalProperties(Map<String,Object> additionalProperties)"
   name: "withAdditionalProperties(Map<String,Object> additionalProperties)"
   nameWithType: "RequiredResourceAccess.withAdditionalProperties(Map<String,Object> additionalProperties)"
-  summary: "Set the additionalProperties property: Specifies the set of OAuth 2.0 permission scopes and app roles under the\n specified resource that an application requires access to. The specified OAuth 2.0 permission scopes may be\n requested by client applications (through the requiredResourceAccess collection) when calling a resource\n application. The requiredResourceAccess property of the Application entity is a collection of\n RequiredResourceAccess."
+  summary: "Set the additionalProperties property: Specifies the set of OAuth 2.0 permission scopes and app roles under the specified resource that an application requires access to. The specified OAuth 2.0 permission scopes may be requested by client applications (through the requiredResourceAccess collection) when calling a resource application. The requiredResourceAccess property of the Application entity is a collection of RequiredResourceAccess."
   parameters:
   - description: "the additionalProperties value to set."
     name: "additionalProperties"

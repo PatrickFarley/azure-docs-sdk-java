@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobHttpHeaders.setCacheControl(String cacheControl)"
   name: "setCacheControl(String cacheControl)"
   nameWithType: "BlobHttpHeaders.setCacheControl(String cacheControl)"
-  summary: "Set the cacheControl property: Optional. Sets the blob's cache control.\n If specified, this property is stored with the blob and returned with a\n read request."
+  summary: "Set the cacheControl property: Optional. Sets the blob's cache control. If specified, this property is stored with the blob and returned with a read request."
   parameters:
   - description: "the cacheControl value to set."
     name: "cacheControl"

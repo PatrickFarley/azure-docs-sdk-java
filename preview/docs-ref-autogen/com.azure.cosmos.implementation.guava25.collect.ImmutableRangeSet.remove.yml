@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.ImmutableRangeSet<C>.remove(Range<C> range)"
   name: "remove(Range<C> range)"
   nameWithType: "ImmutableRangeSet<C>.remove(Range<C> range)"
-  summary: "Guaranteed to throw an exception and leave the <code>RangeSet</code> unmodified."
+  summary: "Guaranteed to throw an exception and leave the `RangeSet` unmodified."
   overridden: "com.azure.cosmos.implementation.guava25.collect.AbstractRangeSet.remove(com.azure.cosmos.implementation.guava25.collect.Range<C>)"
   parameters:
   - name: "range"

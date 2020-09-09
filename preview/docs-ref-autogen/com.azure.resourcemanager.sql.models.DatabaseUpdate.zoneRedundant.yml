@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.DatabaseUpdate.zoneRedundant()"
   name: "zoneRedundant()"
   nameWithType: "DatabaseUpdate.zoneRedundant()"
-  summary: "Get the zoneRedundant property: Whether or not this database is zone redundant, which means the replicas of this\n database will be spread across multiple availability zones."
+  summary: "Get the zoneRedundant property: Whether or not this database is zone redundant, which means the replicas of this database will be spread across multiple availability zones."
   syntax: "public Boolean zoneRedundant()"
   returns:
     description: "the zoneRedundant value."

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.VirtualMachineSizeTypes.STANDARD_M128_32MS"
   name: "STANDARD_M128_32MS"
   nameWithType: "VirtualMachineSizeTypes.STANDARD_M128_32MS"
-  summary: "Static value Standard_M128-32ms for VirtualMachineSizeTypes."
+  summary: "Static value Standard\\_M128-32ms for VirtualMachineSizeTypes."
   syntax: "public static final VirtualMachineSizeTypes STANDARD_M128_32MS"
 type: "field"
 metadata: {}

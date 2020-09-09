@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.DiskEncryptionSetInner.previousKeys()"
   name: "previousKeys()"
   nameWithType: "DiskEncryptionSetInner.previousKeys()"
-  summary: "Get the previousKeys property: A readonly collection of key vault keys previously used by this disk encryption\n set while a key rotation is in progress. It will be empty if there is no ongoing key rotation."
+  summary: "Get the previousKeys property: A readonly collection of key vault keys previously used by this disk encryption set while a key rotation is in progress. It will be empty if there is no ongoing key rotation."
   syntax: "public List<KeyVaultAndKeyReference> previousKeys()"
   returns:
     description: "the previousKeys value."

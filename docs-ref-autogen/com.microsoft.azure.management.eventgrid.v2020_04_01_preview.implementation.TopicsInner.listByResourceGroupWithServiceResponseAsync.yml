@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
   name: "listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
   nameWithType: "TopicsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName)"
-  summary: "List topics under a resource group.\n List all the topics under a resource group."
+  summary: "List topics under a resource group. List all the topics under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.TopicsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
   name: "listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
   nameWithType: "TopicsInner.listByResourceGroupWithServiceResponseAsync(String resourceGroupName, String filter, Integer top)"
-  summary: "List topics under a resource group.\n List all the topics under a resource group."
+  summary: "List topics under a resource group. List all the topics under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.fluent.inner.ManagedDatabaseInner.restorePointInTime()"
   name: "restorePointInTime()"
   nameWithType: "ManagedDatabaseInner.restorePointInTime()"
-  summary: "Get the restorePointInTime property: Conditional. If createMode is PointInTimeRestore, this value is required.\n Specifies the point in time (ISO8601 format) of the source database that will be restored to create the new\n database."
+  summary: "Get the restorePointInTime property: Conditional. If createMode is PointInTimeRestore, this value is required. Specifies the point in time (ISO8601 format) of the source database that will be restored to create the new database."
   syntax: "public OffsetDateTime restorePointInTime()"
   returns:
     description: "the restorePointInTime value."

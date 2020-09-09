@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.core.test.InterceptorManager.getRecordPolicy()"
   name: "getRecordPolicy()"
   nameWithType: "InterceptorManager.getRecordPolicy()"
-  summary: "Gets a new HTTP pipeline policy that records network calls and its data is managed by <xref uid=\"InterceptorManager\" data-throw-if-not-resolved=\"false\">InterceptorManager</xref>."
+  summary: "Gets a new HTTP pipeline policy that records network calls and its data is managed by <xref uid=\"com.azure.core.test.InterceptorManager\" data-throw-if-not-resolved=\"false\">InterceptorManager</xref>."
   syntax: "public HttpPipelinePolicy getRecordPolicy()"
   returns:
     description: "HttpPipelinePolicy to record network calls."

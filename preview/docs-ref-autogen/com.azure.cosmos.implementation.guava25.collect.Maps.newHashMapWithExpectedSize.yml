@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Maps.<K,V>newHashMapWithExpectedSize(int expectedSize)"
   name: "<K,V>newHashMapWithExpectedSize(int expectedSize)"
   nameWithType: "Maps.<K,V>newHashMapWithExpectedSize(int expectedSize)"
-  summary: "Creates a <code>HashMap</code> instance, with a high enough \"initial capacity\" that it <i>should</i>\n hold <code>expectedSize</code> elements without growth. This behavior cannot be broadly guaranteed,\n but it is observed to be true for OpenJDK 1.7. It also can't be guaranteed that the method\n isn't inadvertently <i>oversizing</i> the returned map."
+  summary: "Creates a `HashMap` instance, with a high enough \"initial capacity\" that it *should* hold `expectedSize` elements without growth. This behavior cannot be broadly guaranteed, but it is observed to be true for OpenJDK 1.7. It also can't be guaranteed that the method isn't inadvertently *oversizing* the returned map."
   parameters:
   - description: "the number of entries you expect to add to the returned map"
     name: "expectedSize"

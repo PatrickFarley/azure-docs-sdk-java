@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.deleteAsync(String resourceGroupName, String domainName, String domainTopicName)"
   name: "deleteAsync(String resourceGroupName, String domainName, String domainTopicName)"
   nameWithType: "DomainTopicsInner.deleteAsync(String resourceGroupName, String domainName, String domainTopicName)"
-  summary: "Delete a domain topic.\n Delete existing domain topic."
+  summary: "Delete a domain topic. Delete existing domain topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.DomainTopicsInner.deleteAsync(String resourceGroupName, String domainName, String domainTopicName, ServiceCallback<Void> serviceCallback)"
   name: "deleteAsync(String resourceGroupName, String domainName, String domainTopicName, ServiceCallback<Void> serviceCallback)"
   nameWithType: "DomainTopicsInner.deleteAsync(String resourceGroupName, String domainName, String domainTopicName, ServiceCallback<Void> serviceCallback)"
-  summary: "Delete a domain topic.\n Delete existing domain topic."
+  summary: "Delete a domain topic. Delete existing domain topic."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

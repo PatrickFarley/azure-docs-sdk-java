@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.ApiEntityReference.withId(String id)"
   name: "withId(String id)"
   nameWithType: "ApiEntityReference.withId(String id)"
-  summary: "Set the id property: The ARM resource id in the form of\n /subscriptions/{SubscriptionId}/resourceGroups/{ResourceGroupName}/..."
+  summary: "Set the id property: The ARM resource id in the form of /subscriptions/\\{SubscriptionId\\}/resourceGroups/\\{ResourceGroupName\\}/..."
   parameters:
   - description: "the id value to set."
     name: "id"

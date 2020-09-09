@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskStorageAccountTypes.STANDARD_LRS"
   name: "STANDARD_LRS"
   nameWithType: "DiskStorageAccountTypes.STANDARD_LRS"
-  summary: "Static value Standard_LRS for DiskStorageAccountTypes."
+  summary: "Static value Standard\\_LRS for DiskStorageAccountTypes."
   syntax: "public static final DiskStorageAccountTypes STANDARD_LRS"
 type: "field"
 metadata: {}

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.cosmos.models.ConsistencyPolicy.defaultConsistencyLevel()"
   name: "defaultConsistencyLevel()"
   nameWithType: "ConsistencyPolicy.defaultConsistencyLevel()"
-  summary: "Get the defaultConsistencyLevel property: The default consistency level and configuration settings of the Cosmos\n DB account."
+  summary: "Get the defaultConsistencyLevel property: The default consistency level and configuration settings of the Cosmos DB account."
   syntax: "public DefaultConsistencyLevel defaultConsistencyLevel()"
   returns:
     description: "the defaultConsistencyLevel value."

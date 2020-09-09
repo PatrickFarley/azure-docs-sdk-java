@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.changefeed.implementation.ChangeFeedProcessorBuilderImpl.observer(Class<? extends ChangeFeedObserver> type)"
   name: "observer(Class<? extends ChangeFeedObserver> type)"
   nameWithType: "ChangeFeedProcessorBuilderImpl.observer(Class<? extends ChangeFeedObserver> type)"
-  summary: "Sets an existing <xref uid=\"ChangeFeedObserver\" data-throw-if-not-resolved=\"false\">ChangeFeedObserver</xref> type to be used by a <xref uid=\"ChangeFeedObserverFactory\" data-throw-if-not-resolved=\"false\">ChangeFeedObserverFactory</xref> to process changes."
+  summary: "Sets an existing <xref uid=\"? extends com.azure.cosmos.implementation.changefeed.ChangeFeedObserver\" data-throw-if-not-resolved=\"false\">ChangeFeedObserver</xref> type to be used by a <xref uid=\"com.azure.cosmos.implementation.changefeed.ChangeFeedObserverFactory\" data-throw-if-not-resolved=\"false\">ChangeFeedObserverFactory</xref> to process changes."
   parameters:
   - description: "the type of <xref uid=\"? extends com.azure.cosmos.implementation.changefeed.ChangeFeedObserver\" data-throw-if-not-resolved=\"false\">ChangeFeedObserver</xref> to be used."
     name: "type"

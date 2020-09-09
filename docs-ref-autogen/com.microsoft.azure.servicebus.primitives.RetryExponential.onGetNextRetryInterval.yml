@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.primitives.RetryExponential.onGetNextRetryInterval(String clientId, Exception lastException, Duration remainingTime, int baseWaitTimeSecs)"
   name: "onGetNextRetryInterval(String clientId, Exception lastException, Duration remainingTime, int baseWaitTimeSecs)"
   nameWithType: "RetryExponential.onGetNextRetryInterval(String clientId, Exception lastException, Duration remainingTime, int baseWaitTimeSecs)"
-  summary: "Adjusts the interval after which nextRetry should be attempted, based on the last exception encountered, the remaining time before the operation times out and the minimum wait time before retry.\n Clients can override this method to specify a wait time based on the exception encountered."
+  summary: "Adjusts the interval after which nextRetry should be attempted, based on the last exception encountered, the remaining time before the operation times out and the minimum wait time before retry. Clients can override this method to specify a wait time based on the exception encountered."
   overridden: "com.microsoft.azure.servicebus.primitives.RetryPolicy.onGetNextRetryInterval(java.lang.String,java.lang.Exception,java.time.Duration,int)"
   parameters:
   - name: "clientId"

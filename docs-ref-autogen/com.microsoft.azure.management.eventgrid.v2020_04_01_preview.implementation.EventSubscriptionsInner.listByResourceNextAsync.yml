@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceNextAsync(String nextPageLink)"
   name: "listByResourceNextAsync(String nextPageLink)"
   nameWithType: "EventSubscriptionsInner.listByResourceNextAsync(String nextPageLink)"
-  summary: "List all event subscriptions for a specific topic.\n List all event subscriptions that have been created for a specific topic."
+  summary: "List all event subscriptions for a specific topic. List all event subscriptions that have been created for a specific topic."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.EventSubscriptionsInner.listByResourceNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   name: "listByResourceNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
   nameWithType: "EventSubscriptionsInner.listByResourceNextAsync(String nextPageLink, ServiceFuture<List<EventSubscriptionInner>> serviceFuture, ListOperationCallback<EventSubscriptionInner> serviceCallback)"
-  summary: "List all event subscriptions for a specific topic.\n List all event subscriptions that have been created for a specific topic."
+  summary: "List all event subscriptions for a specific topic. List all event subscriptions that have been created for a specific topic."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

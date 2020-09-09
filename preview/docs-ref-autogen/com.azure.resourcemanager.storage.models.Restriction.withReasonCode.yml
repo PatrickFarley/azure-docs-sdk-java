@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.models.Restriction.withReasonCode(ReasonCode reasonCode)"
   name: "withReasonCode(ReasonCode reasonCode)"
   nameWithType: "Restriction.withReasonCode(ReasonCode reasonCode)"
-  summary: "Set the reasonCode property: The reason for the restriction. As of now this can be \"QuotaId\" or\n \"NotAvailableForSubscription\". Quota Id is set when the SKU has requiredQuotas parameter as the subscription does\n not belong to that quota. The \"NotAvailableForSubscription\" is related to capacity at DC."
+  summary: "Set the reasonCode property: The reason for the restriction. As of now this can be \"QuotaId\" or \"NotAvailableForSubscription\". Quota Id is set when the SKU has requiredQuotas parameter as the subscription does not belong to that quota. The \"NotAvailableForSubscription\" is related to capacity at DC."
   parameters:
   - description: "the reasonCode value to set."
     name: "reasonCode"

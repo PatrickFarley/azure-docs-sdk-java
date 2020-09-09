@@ -30,7 +30,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.models.RegistryTaskRun.DefinitionStages.Platform.withWindows(Architecture architecture, Variant variant)"
   name: "withWindows(Architecture architecture, Variant variant)"
   nameWithType: "RegistryTaskRun.DefinitionStages.Platform.withWindows(Architecture architecture, Variant variant)"
-  summary: "The function that specifies the platform will have a Windows OS with Architecture architecture and\n Variant variant."
+  summary: "The function that specifies the platform will have a Windows OS with Architecture architecture and Variant variant."
   parameters:
   - description: "the architecture the platform will have."
     name: "architecture"

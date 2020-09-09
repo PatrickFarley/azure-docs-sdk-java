@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.CertificateInner.withServerFarmId(String serverFarmId)"
   name: "withServerFarmId(String serverFarmId)"
   nameWithType: "CertificateInner.withServerFarmId(String serverFarmId)"
-  summary: "Set the serverFarmId property: Resource ID of the associated App Service plan, formatted as:\n \"/subscriptions/{subscriptionID}/resourceGroups/{groupName}/providers/Microsoft.Web/serverfarms\"\n         + \"/{appServicePlanName}\"."
+  summary: "Set the serverFarmId property: Resource ID of the associated App Service plan, formatted as: \"/subscriptions/\\{subscriptionID\\}/resourceGroups/\\{groupName\\}/providers/Microsoft.Web/serverfarms\" + \"/\\{appServicePlanName\\}\"."
   parameters:
   - description: "the serverFarmId value to set."
     name: "serverFarmId"

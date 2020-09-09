@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Splitter.MapSplitter.split(CharSequence sequence)"
   name: "split(CharSequence sequence)"
   nameWithType: "Splitter.MapSplitter.split(CharSequence sequence)"
-  summary: "Splits <code>sequence</code> into substrings, splits each substring into an entry, and returns an\n unmodifiable map with each of the entries. For example, <code>\n Splitter.on(';').trimResults().withKeyValueSeparator(\"=>\").split(\"a=>b ; c=>b\")</code> will return\n a mapping from <code>\"a\"</code> to <code>\"b\"</code> and <code>\"c\"</code> to <code>\"b\"</code>.\n\n <p>The returned map preserves the order of the entries from <code>sequence</code>."
+  summary: "Splits `sequence` into substrings, splits each substring into an entry, and returns an unmodifiable map with each of the entries. For example, `Splitter.on(';').trimResults().withKeyValueSeparator(\"=>\").split(\"a=>b ; c=>b\")` will return a mapping from `\"a\"` to `\"b\"` and `\"c\"` to `\"b\"`.\n\nThe returned map preserves the order of the entries from `sequence`."
   parameters:
   - name: "sequence"
     type: "<xref href=\"java.lang.CharSequence?alt=java.lang.CharSequence&text=CharSequence\" data-throw-if-not-resolved=\"False\" />"

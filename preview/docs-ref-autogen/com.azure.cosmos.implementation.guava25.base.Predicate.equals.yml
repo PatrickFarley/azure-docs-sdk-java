@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.base.Predicate<T>.equals(Object object)"
   name: "equals(Object object)"
   nameWithType: "Predicate<T>.equals(Object object)"
-  summary: "Indicates whether another object is equal to this predicate.\n\n <p>Most implementations will have no reason to override the behavior of <xref uid=\"Object#equals\" data-throw-if-not-resolved=\"false\">Object#equals</xref>.\n However, an implementation may also choose to return <code>true</code> whenever <code>object</code> is a\n <xref uid=\"Predicate\" data-throw-if-not-resolved=\"false\">Predicate</xref> that it considers <i>interchangeable</i> with this one. \"Interchangeable\"\n <i>typically</i> means that <code>this.apply(t) == that.apply(t)</code> for all <code>t</code> of type\n <code>T</code>). Note that a <code>false</code> result from this method does not imply that the\n predicates are known <i>not</i> to be interchangeable."
+  summary: "Indicates whether another object is equal to this predicate.\n\nMost implementations will have no reason to override the behavior of <xref uid=\"java.lang.Object.equals\" data-throw-if-not-resolved=\"false\">Object#equals</xref>. However, an implementation may also choose to return `true` whenever `object` is a <xref uid=\"java.util.function.Predicate\" data-throw-if-not-resolved=\"false\">Predicate</xref> that it considers *interchangeable* with this one. \"Interchangeable\" *typically* means that `this.apply(t) == that.apply(t)` for all `t` of type `T`). Note that a `false` result from this method does not imply that the predicates are known *not* to be interchangeable."
   overridden: "java.lang.Object.equals(java.lang.Object)"
   parameters:
   - name: "object"

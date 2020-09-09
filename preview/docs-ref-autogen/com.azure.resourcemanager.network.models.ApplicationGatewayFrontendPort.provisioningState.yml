@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.ApplicationGatewayFrontendPort.provisioningState()"
   name: "provisioningState()"
   nameWithType: "ApplicationGatewayFrontendPort.provisioningState()"
-  summary: "Get the provisioningState property: Provisioning state of the frontend port resource. Possible values are:\n 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: Provisioning state of the frontend port resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

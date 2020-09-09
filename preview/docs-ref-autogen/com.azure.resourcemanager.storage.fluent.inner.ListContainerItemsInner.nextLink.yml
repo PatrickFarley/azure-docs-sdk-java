@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.storage.fluent.inner.ListContainerItemsInner.nextLink()"
   name: "nextLink()"
   nameWithType: "ListContainerItemsInner.nextLink()"
-  summary: "Get the nextLink property: Request URL that can be used to query next page of containers. Returned when total\n number of requested containers exceed maximum page size."
+  summary: "Get the nextLink property: Request URL that can be used to query next page of containers. Returned when total number of requested containers exceed maximum page size."
   syntax: "public String nextLink()"
   returns:
     description: "the nextLink value."

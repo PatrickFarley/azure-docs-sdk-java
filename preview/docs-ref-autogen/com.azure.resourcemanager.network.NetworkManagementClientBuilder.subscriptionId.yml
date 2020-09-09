@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.NetworkManagementClientBuilder.subscriptionId(String subscriptionId)"
   name: "subscriptionId(String subscriptionId)"
   nameWithType: "NetworkManagementClientBuilder.subscriptionId(String subscriptionId)"
-  summary: "Sets The subscription credentials which uniquely identify the Microsoft Azure subscription. The subscription ID\n forms part of the URI for every service call."
+  summary: "Sets The subscription credentials which uniquely identify the Microsoft Azure subscription. The subscription ID forms part of the URI for every service call."
   parameters:
   - description: "the subscriptionId value."
     name: "subscriptionId"

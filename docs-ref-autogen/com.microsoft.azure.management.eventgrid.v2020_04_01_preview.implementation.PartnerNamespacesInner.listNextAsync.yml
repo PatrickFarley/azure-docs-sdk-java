@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listNextAsync(String nextPageLink)"
   name: "listNextAsync(String nextPageLink)"
   nameWithType: "PartnerNamespacesInner.listNextAsync(String nextPageLink)"
-  summary: "List partner namespaces under an Azure subscription.\n List all the partner namespaces under an Azure subscription."
+  summary: "List partner namespaces under an Azure subscription. List all the partner namespaces under an Azure subscription."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listNextAsync(String nextPageLink, ServiceFuture<List<PartnerNamespaceInner>> serviceFuture, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
   name: "listNextAsync(String nextPageLink, ServiceFuture<List<PartnerNamespaceInner>> serviceFuture, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
   nameWithType: "PartnerNamespacesInner.listNextAsync(String nextPageLink, ServiceFuture<List<PartnerNamespaceInner>> serviceFuture, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
-  summary: "List partner namespaces under an Azure subscription.\n List all the partner namespaces under an Azure subscription."
+  summary: "List partner namespaces under an Azure subscription. List all the partner namespaces under an Azure subscription."
   parameters:
   - description: "The NextLink from the previous successful call to List operation."
     name: "nextPageLink"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.implementation.models.TopicDescription.setEnablePartitioning(Boolean enablePartitioning)"
   name: "setEnablePartitioning(Boolean enablePartitioning)"
   nameWithType: "TopicDescription.setEnablePartitioning(Boolean enablePartitioning)"
-  summary: "Set the enablePartitioning property: A value that indicates whether the topic is to be partitioned across\n multiple message brokers."
+  summary: "Set the enablePartitioning property: A value that indicates whether the topic is to be partitioned across multiple message brokers."
   parameters:
   - description: "the enablePartitioning value to set."
     name: "enablePartitioning"

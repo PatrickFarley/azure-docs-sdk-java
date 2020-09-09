@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.ResourceResponse<T>.getETag()"
   name: "getETag()"
   nameWithType: "ResourceResponse<T>.getETag()"
-  summary: "Gets the ETag from the response headers.\n\n Null in case of delete operation."
+  summary: "Gets the ETag from the response headers. Null in case of delete operation."
   syntax: "public String getETag()"
   returns:
     description: "ETag"

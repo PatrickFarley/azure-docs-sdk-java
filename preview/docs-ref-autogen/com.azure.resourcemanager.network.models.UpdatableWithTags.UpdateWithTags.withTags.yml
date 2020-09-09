@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.models.UpdatableWithTags.UpdateWithTags<T>.withTags(Map<String,String> tags)"
   name: "withTags(Map<String,String> tags)"
   nameWithType: "UpdatableWithTags.UpdateWithTags<T>.withTags(Map<String,String> tags)"
-  summary: "Specifies tags for the resource as a <xref uid=\"Map\" data-throw-if-not-resolved=\"false\">Map</xref>."
+  summary: "Specifies tags for the resource as a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref>."
   parameters:
   - description: "a <xref uid=\"java.util.Map\" data-throw-if-not-resolved=\"false\">Map</xref> of tags"
     name: "tags"

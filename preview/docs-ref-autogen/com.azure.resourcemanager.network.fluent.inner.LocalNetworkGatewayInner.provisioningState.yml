@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.LocalNetworkGatewayInner.provisioningState()"
   name: "provisioningState()"
   nameWithType: "LocalNetworkGatewayInner.provisioningState()"
-  summary: "Get the provisioningState property: The provisioning state of the LocalNetworkGateway resource. Possible values\n are: 'Updating', 'Deleting', and 'Failed'."
+  summary: "Get the provisioningState property: The provisioning state of the LocalNetworkGateway resource. Possible values are: 'Updating', 'Deleting', and 'Failed'."
   syntax: "public String provisioningState()"
   returns:
     description: "the provisioningState value."

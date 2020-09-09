@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.ItsmReceiver.withConnectionId(String connectionId)"
   name: "withConnectionId(String connectionId)"
   nameWithType: "ItsmReceiver.withConnectionId(String connectionId)"
-  summary: "Set the connectionId property: Unique identification of ITSM connection among multiple defined in above\n workspace."
+  summary: "Set the connectionId property: Unique identification of ITSM connection among multiple defined in above workspace."
   parameters:
   - description: "the connectionId value to set."
     name: "connectionId"

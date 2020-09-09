@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.StringUtils.equalsIgnoreCase(CharSequence str1, CharSequence str2)"
   name: "equalsIgnoreCase(CharSequence str1, CharSequence str2)"
   nameWithType: "StringUtils.equalsIgnoreCase(CharSequence str1, CharSequence str2)"
-  summary: "<p>Compares two CharSequences, returning <code>true</code> if they represent\n equal sequences of characters, ignoring case.</p>\n\n <p><code>null</code>s are handled without exceptions. Two <code>null</code>\n references are considered equal. Comparison is case insensitive.</p>\n\n <pre>\n StringUtils.equalsIgnoreCase(null, null)   = true\n StringUtils.equalsIgnoreCase(null, \"abc\")  = false\n StringUtils.equalsIgnoreCase(\"abc\", null)  = false\n StringUtils.equalsIgnoreCase(\"abc\", \"abc\") = true\n StringUtils.equalsIgnoreCase(\"abc\", \"ABC\") = true\n </pre>"
+  summary: "Compares two CharSequences, returning `true` if they represent equal sequences of characters, ignoring case.\n\n`null`s are handled without exceptions. Two `null` references are considered equal. Comparison is case insensitive.\n\n```java\nStringUtils.equalsIgnoreCase(null, null)   = true\n StringUtils.equalsIgnoreCase(null, \"abc\")  = false\n StringUtils.equalsIgnoreCase(\"abc\", null)  = false\n StringUtils.equalsIgnoreCase(\"abc\", \"abc\") = true\n StringUtils.equalsIgnoreCase(\"abc\", \"ABC\") = true\n```"
   parameters:
   - description: "the first CharSequence, may be null"
     name: "str1"

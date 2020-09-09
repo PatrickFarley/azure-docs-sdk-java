@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.indexes.SearchIndexerAsyncClient.createIndexer(SearchIndexer indexer)"
   name: "createIndexer(SearchIndexer indexer)"
   nameWithType: "SearchIndexerAsyncClient.createIndexer(SearchIndexer indexer)"
-  summary: "Creates a new Azure Cognitive Search indexer.\n\n <p><strong>Code Sample</strong></p>\n\n <p> Create search indexer named \"searchIndexer\". </p>\n\n <pre>\n SearchIndexer searchIndexer = new SearchIndexer&#40;&quot;searchIndexer&quot;, &quot;dataSource&quot;,\n     &quot;searchIndex&quot;&#41;;\n searchIndexerAsyncClient.createIndexer&#40;searchIndexer&#41;\n     .subscribe&#40;indexerFromService -&gt;\n         System.out.printf&#40;&quot;The indexer name is %s. The etag of indexer is %s.%n&quot;, indexerFromService.getName&#40;&#41;,\n         indexerFromService.getETag&#40;&#41;&#41;&#41;;\n </pre>"
+  summary: "Creates a new Azure Cognitive Search indexer.\n\n**Code Sample**\n\nCreate search indexer named \"searchIndexer\".\n\n```java\nSearchIndexer searchIndexer = new SearchIndexer(\"searchIndexer\", \"dataSource\",\n     \"searchIndex\");\n searchIndexerAsyncClient.createIndexer(searchIndexer)\n     .subscribe(indexerFromService ->\n         System.out.printf(\"The indexer name is %s. The etag of indexer is %s.%n\", indexerFromService.getName(),\n         indexerFromService.getETag()));\n```"
   parameters:
   - description: "definition of the indexer to create."
     name: "indexer"

@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.terminateAsync(String jobId, String taskId)"
   name: "terminateAsync(String jobId, String taskId)"
   nameWithType: "Tasks.terminateAsync(String jobId, String taskId)"
-  summary: "Terminates the specified Task.\n When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
+  summary: "Terminates the specified Task. When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
   parameters:
   - description: "The ID of the Job containing the Task."
     name: "jobId"
@@ -24,7 +24,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.terminateAsync(String jobId, String taskId, TaskTerminateOptions taskTerminateOptions)"
   name: "terminateAsync(String jobId, String taskId, TaskTerminateOptions taskTerminateOptions)"
   nameWithType: "Tasks.terminateAsync(String jobId, String taskId, TaskTerminateOptions taskTerminateOptions)"
-  summary: "Terminates the specified Task.\n When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
+  summary: "Terminates the specified Task. When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
   parameters:
   - description: "The ID of the Job containing the Task."
     name: "jobId"
@@ -43,7 +43,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.terminateAsync(String jobId, String taskId, TaskTerminateOptions taskTerminateOptions, ServiceCallback<Void> serviceCallback)"
   name: "terminateAsync(String jobId, String taskId, TaskTerminateOptions taskTerminateOptions, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Tasks.terminateAsync(String jobId, String taskId, TaskTerminateOptions taskTerminateOptions, ServiceCallback<Void> serviceCallback)"
-  summary: "Terminates the specified Task.\n When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
+  summary: "Terminates the specified Task. When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
   parameters:
   - description: "The ID of the Job containing the Task."
     name: "jobId"
@@ -65,7 +65,7 @@ members:
   fullName: "com.microsoft.azure.batch.protocol.Tasks.terminateAsync(String jobId, String taskId, ServiceCallback<Void> serviceCallback)"
   name: "terminateAsync(String jobId, String taskId, ServiceCallback<Void> serviceCallback)"
   nameWithType: "Tasks.terminateAsync(String jobId, String taskId, ServiceCallback<Void> serviceCallback)"
-  summary: "Terminates the specified Task.\n When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
+  summary: "Terminates the specified Task. When the Task has been terminated, it moves to the completed state. For multi-instance Tasks, the terminate Task operation applies synchronously to the primary task; subtasks are then terminated asynchronously in the background."
   parameters:
   - description: "The ID of the Job containing the Task."
     name: "jobId"

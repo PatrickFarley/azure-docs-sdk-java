@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.cognitiveservices.search.customsearch.BingCustomInstances.searchAsync(long customConfig, String query, SearchOptionalParameter searchOptionalParameter)"
   name: "searchAsync(long customConfig, String query, SearchOptionalParameter searchOptionalParameter)"
   nameWithType: "BingCustomInstances.searchAsync(long customConfig, String query, SearchOptionalParameter searchOptionalParameter)"
-  summary: "The Custom Search API lets you send a search query to Bing and get back web pages found in your custom view\n   of the web."
+  summary: "The Custom Search API lets you send a search query to Bing and get back web pages found in your custom view of the web."
   parameters:
   - description: "The identifier for the custom search configuration."
     name: "customConfig"

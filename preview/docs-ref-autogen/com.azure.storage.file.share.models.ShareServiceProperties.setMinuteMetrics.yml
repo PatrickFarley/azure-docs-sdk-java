@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.share.models.ShareServiceProperties.setMinuteMetrics(ShareMetrics minuteMetrics)"
   name: "setMinuteMetrics(ShareMetrics minuteMetrics)"
   nameWithType: "ShareServiceProperties.setMinuteMetrics(ShareMetrics minuteMetrics)"
-  summary: "Set the minuteMetrics property: A summary of request statistics grouped\n by API in minute aggregates for files."
+  summary: "Set the minuteMetrics property: A summary of request statistics grouped by API in minute aggregates for files."
   parameters:
   - description: "the minuteMetrics value to set."
     name: "minuteMetrics"

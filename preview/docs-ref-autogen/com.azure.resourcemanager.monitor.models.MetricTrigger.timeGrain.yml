@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.monitor.models.MetricTrigger.timeGrain()"
   name: "timeGrain()"
   nameWithType: "MetricTrigger.timeGrain()"
-  summary: "Get the timeGrain property: the granularity of metrics the rule monitors. Must be one of the predefined values\n returned from metric definitions for the metric. Must be between 12 hours and 1 minute."
+  summary: "Get the timeGrain property: the granularity of metrics the rule monitors. Must be one of the predefined values returned from metric definitions for the metric. Must be between 12 hours and 1 minute."
   syntax: "public Duration timeGrain()"
   returns:
     description: "the timeGrain value."

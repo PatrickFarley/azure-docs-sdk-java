@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.nio.AzureFileSystemProvider.getScheme()"
   name: "getScheme()"
   nameWithType: "AzureFileSystemProvider.getScheme()"
-  summary: "Returns the URI scheme that identifies this provider: <code>\"azb\".</code>"
+  summary: "Returns the URI scheme that identifies this provider: `\"azb\".`"
   overridden: "java.nio.file.spi.FileSystemProvider.getScheme()"
   syntax: "public String getScheme()"
   returns:

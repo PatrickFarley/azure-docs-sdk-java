@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.containerservice.ContainerServiceAgentPool.DefinitionStages.WithOSType<ParentT>.withOSType(OSType osType)"
   name: "withOSType(OSType osType)"
   nameWithType: "ContainerServiceAgentPool.DefinitionStages.WithOSType<ParentT>.withOSType(OSType osType)"
-  summary: "OS type to be used for every machine in the agent pool.\n\n Default is Linux."
+  summary: "OS type to be used for every machine in the agent pool. Default is Linux."
   parameters:
   - description: "OS type to be used for every machine in the agent pool"
     name: "osType"

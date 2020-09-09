@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName)"
   name: "listByResourceAsync(String resourceGroupName, String parentType, String parentName)"
   nameWithType: "PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName)"
-  summary: "Lists all private endpoint connections under a resource.\n Get all private endpoint connections under a topic or domain."
+  summary: "Lists all private endpoint connections under a resource. Get all private endpoint connections under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -27,7 +27,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName, ListOperationCallback<PrivateEndpointConnectionInner> serviceCallback)"
   name: "listByResourceAsync(String resourceGroupName, String parentType, String parentName, ListOperationCallback<PrivateEndpointConnectionInner> serviceCallback)"
   nameWithType: "PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName, ListOperationCallback<PrivateEndpointConnectionInner> serviceCallback)"
-  summary: "Lists all private endpoint connections under a resource.\n Get all private endpoint connections under a topic or domain."
+  summary: "Lists all private endpoint connections under a resource. Get all private endpoint connections under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -49,7 +49,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName, String filter, Integer top)"
   name: "listByResourceAsync(String resourceGroupName, String parentType, String parentName, String filter, Integer top)"
   nameWithType: "PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName, String filter, Integer top)"
-  summary: "Lists all private endpoint connections under a resource.\n Get all private endpoint connections under a topic or domain."
+  summary: "Lists all private endpoint connections under a resource. Get all private endpoint connections under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -74,7 +74,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName, String filter, Integer top, ListOperationCallback<PrivateEndpointConnectionInner> serviceCallback)"
   name: "listByResourceAsync(String resourceGroupName, String parentType, String parentName, String filter, Integer top, ListOperationCallback<PrivateEndpointConnectionInner> serviceCallback)"
   nameWithType: "PrivateEndpointConnectionsInner.listByResourceAsync(String resourceGroupName, String parentType, String parentName, String filter, Integer top, ListOperationCallback<PrivateEndpointConnectionInner> serviceCallback)"
-  summary: "Lists all private endpoint connections under a resource.\n Get all private endpoint connections under a topic or domain."
+  summary: "Lists all private endpoint connections under a resource. Get all private endpoint connections under a topic or domain."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

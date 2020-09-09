@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.LinkedListMultimap<K,V>.containsKey(Object key)"
   name: "containsKey(Object key)"
   nameWithType: "LinkedListMultimap<K,V>.containsKey(Object key)"
-  summary: "Returns <code>true</code> if this multimap contains at least one key-value pair with the key <code>\n key</code>."
+  summary: "Returns `true` if this multimap contains at least one key-value pair with the key `key`."
   parameters:
   - name: "key"
     type: "<xref href=\"java.lang.Object?alt=java.lang.Object&text=Object\" data-throw-if-not-resolved=\"False\" />"

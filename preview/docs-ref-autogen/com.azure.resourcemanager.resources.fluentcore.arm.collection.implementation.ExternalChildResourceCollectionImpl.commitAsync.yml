@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.resources.fluentcore.arm.collection.implementation.ExternalChildResourceCollectionImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.commitAsync()"
   name: "commitAsync()"
   nameWithType: "ExternalChildResourceCollectionImpl<FluentModelTImpl,FluentModelT,InnerModelT,ParentImplT,ParentT>.commitAsync()"
-  summary: "Commits the changes in the external child resource childCollection.\n <p/>\n This method returns a Flux stream, its Flux's onNext will be called for each successfully\n committed resource followed by one call to 'onCompleted' or one call to 'onError' with a\n <xref uid=\"RuntimeException\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> containing the list of exceptions where each exception describes the reason\n for failure of a resource commit."
+  summary: "Commits the changes in the external child resource childCollection.\n\nThis method returns a Flux stream, its Flux's onNext will be called for each successfully committed resource followed by one call to 'onCompleted' or one call to 'onError' with a <xref uid=\"\" data-throw-if-not-resolved=\"false\">RuntimeException</xref> containing the list of exceptions where each exception describes the reason for failure of a resource commit."
   syntax: "public Flux<FluentModelTImpl> commitAsync()"
   returns:
     description: "the Flux stream"

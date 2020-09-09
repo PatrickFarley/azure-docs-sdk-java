@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.models.SuggestRequest.getHighlightPostTag()"
   name: "getHighlightPostTag()"
   nameWithType: "SuggestRequest.getHighlightPostTag()"
-  summary: "Get the highlightPostTag property: A string tag that is appended to hit highlights. Must be set with\n highlightPreTag. If omitted, hit highlighting of suggestions is disabled."
+  summary: "Get the highlightPostTag property: A string tag that is appended to hit highlights. Must be set with highlightPreTag. If omitted, hit highlighting of suggestions is disabled."
   syntax: "public String getHighlightPostTag()"
   returns:
     description: "the highlightPostTag value."

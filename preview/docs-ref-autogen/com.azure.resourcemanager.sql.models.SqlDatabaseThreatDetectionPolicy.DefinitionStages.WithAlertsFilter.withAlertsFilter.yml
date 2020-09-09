@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.sql.models.SqlDatabaseThreatDetectionPolicy.DefinitionStages.WithAlertsFilter.withAlertsFilter(String alertsFilter)"
   name: "withAlertsFilter(String alertsFilter)"
   nameWithType: "SqlDatabaseThreatDetectionPolicy.DefinitionStages.WithAlertsFilter.withAlertsFilter(String alertsFilter)"
-  summary: "Sets the security alert policy alerts to be disabled.\n\n <p>"
+  summary: "Sets the security alert policy alerts to be disabled."
   parameters:
   - description: "the semicolon-separated list of alerts that are disabled, or empty string to disable\n     no alerts. Possible values: Sql_Injection; Sql_Injection_Vulnerability; Access_Anomaly;\n     Usage_Anomaly."
     name: "alertsFilter"

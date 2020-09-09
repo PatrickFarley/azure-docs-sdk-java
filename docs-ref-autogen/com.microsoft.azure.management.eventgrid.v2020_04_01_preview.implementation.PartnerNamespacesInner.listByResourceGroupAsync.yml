@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName)"
   name: "listByResourceGroupAsync(String resourceGroupName)"
   nameWithType: "PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName)"
-  summary: "List partner namespaces under a resource group.\n List all the partner namespaces under a resource group."
+  summary: "List partner namespaces under a resource group. List all the partner namespaces under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
   name: "listByResourceGroupAsync(String resourceGroupName, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
   nameWithType: "PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
-  summary: "List partner namespaces under a resource group.\n List all the partner namespaces under a resource group."
+  summary: "List partner namespaces under a resource group. List all the partner namespaces under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -37,7 +37,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top)"
   name: "listByResourceGroupAsync(String resourceGroupName, String filter, Integer top)"
   nameWithType: "PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top)"
-  summary: "List partner namespaces under a resource group.\n List all the partner namespaces under a resource group."
+  summary: "List partner namespaces under a resource group. List all the partner namespaces under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"
@@ -56,7 +56,7 @@ members:
   fullName: "com.microsoft.azure.management.eventgrid.v2020_04_01_preview.implementation.PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
   name: "listByResourceGroupAsync(String resourceGroupName, String filter, Integer top, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
   nameWithType: "PartnerNamespacesInner.listByResourceGroupAsync(String resourceGroupName, String filter, Integer top, ListOperationCallback<PartnerNamespaceInner> serviceCallback)"
-  summary: "List partner namespaces under a resource group.\n List all the partner namespaces under a resource group."
+  summary: "List partner namespaces under a resource group. List all the partner namespaces under a resource group."
   parameters:
   - description: "The name of the resource group within the user's subscription."
     name: "resourceGroupName"

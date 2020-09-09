@@ -18,7 +18,7 @@ members:
   fullName: "com.microsoft.azure.documentdb.MurmurHash.computeHash(byte[] data, int len, int seed)"
   name: "computeHash(byte[] data, int len, int seed)"
   nameWithType: "MurmurHash.computeHash(byte[] data, int len, int seed)"
-  summary: "Returns the MurmurHash3_x86_32 hash."
+  summary: "Returns the MurmurHash3\\_x86\\_32 hash."
   parameters:
   - description: "a byte array containing the data to be hashed"
     name: "data"

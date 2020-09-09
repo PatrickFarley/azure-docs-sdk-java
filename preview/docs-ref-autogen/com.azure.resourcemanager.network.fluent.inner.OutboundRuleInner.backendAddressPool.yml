@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.network.fluent.inner.OutboundRuleInner.backendAddressPool()"
   name: "backendAddressPool()"
   nameWithType: "OutboundRuleInner.backendAddressPool()"
-  summary: "Get the backendAddressPool property: A reference to a pool of DIPs. Outbound traffic is randomly load balanced\n across IPs in the backend IPs."
+  summary: "Get the backendAddressPool property: A reference to a pool of DIPs. Outbound traffic is randomly load balanced across IPs in the backend IPs."
   syntax: "public SubResource backendAddressPool()"
   returns:
     description: "the backendAddressPool value."

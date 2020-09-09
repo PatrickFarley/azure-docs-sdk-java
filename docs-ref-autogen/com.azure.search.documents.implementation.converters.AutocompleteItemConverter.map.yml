@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.AutocompleteItemConverter.map(AutocompleteItem obj)"
   name: "map(AutocompleteItem obj)"
   nameWithType: "AutocompleteItemConverter.map(AutocompleteItem obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.implementation.models.AutocompleteItem\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.AutocompleteItem</xref> to <xref uid=\"AutocompleteItem\" data-throw-if-not-resolved=\"false\">AutocompleteItem</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.implementation.models.AutocompleteItem\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.AutocompleteItem</xref> to <xref uid=\"com.azure.search.documents.models.AutocompleteItem\" data-throw-if-not-resolved=\"false\">AutocompleteItem</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.implementation.models.AutocompleteItem?alt=com.azure.search.documents.implementation.models.AutocompleteItem&text=AutocompleteItem\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.AutocompleteItemConverter.map(AutocompleteItem obj)"
   name: "map(AutocompleteItem obj)"
   nameWithType: "AutocompleteItemConverter.map(AutocompleteItem obj)"
-  summary: "Maps from <xref uid=\"AutocompleteItem\" data-throw-if-not-resolved=\"false\">AutocompleteItem</xref> to <xref uid=\"com.azure.search.documents.implementation.models.AutocompleteItem\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.AutocompleteItem</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.models.AutocompleteItem\" data-throw-if-not-resolved=\"false\">AutocompleteItem</xref> to <xref uid=\"com.azure.search.documents.implementation.models.AutocompleteItem\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.implementation.models.AutocompleteItem</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.models.AutocompleteItem?alt=com.azure.search.documents.models.AutocompleteItem&text=AutocompleteItem\" data-throw-if-not-resolved=\"False\" />"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.models.CreateQueueOptions.getDuplicateDetectionHistoryTimeWindow()"
   name: "getDuplicateDetectionHistoryTimeWindow()"
   nameWithType: "CreateQueueOptions.getDuplicateDetectionHistoryTimeWindow()"
-  summary: "Get the duplicateDetectionHistoryTimeWindow property: ISO 8601 timeSpan structure that defines the duration of\n the duplicate detection history. The default value is 10 minutes."
+  summary: "Get the duplicateDetectionHistoryTimeWindow property: ISO 8601 timeSpan structure that defines the duration of the duplicate detection history. The default value is 10 minutes."
   syntax: "public Duration getDuplicateDetectionHistoryTimeWindow()"
   returns:
     description: "the duplicateDetectionHistoryTimeWindow value."

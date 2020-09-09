@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.CreationData.withStorageAccountId(String storageAccountId)"
   name: "withStorageAccountId(String storageAccountId)"
   nameWithType: "CreationData.withStorageAccountId(String storageAccountId)"
-  summary: "Set the storageAccountId property: Required if createOption is Import. The Azure Resource Manager identifier of\n the storage account containing the blob to import as a disk."
+  summary: "Set the storageAccountId property: Required if createOption is Import. The Azure Resource Manager identifier of the storage account containing the blob to import as a disk."
   parameters:
   - description: "the storageAccountId value to set."
     name: "storageAccountId"

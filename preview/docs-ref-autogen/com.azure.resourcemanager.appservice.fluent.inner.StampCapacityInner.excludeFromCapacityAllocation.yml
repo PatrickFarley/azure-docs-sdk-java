@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.StampCapacityInner.excludeFromCapacityAllocation()"
   name: "excludeFromCapacityAllocation()"
   nameWithType: "StampCapacityInner.excludeFromCapacityAllocation()"
-  summary: "Get the excludeFromCapacityAllocation property: If &lt;code&gt;true&lt;/code&gt;, it includes basic apps. Basic\n apps are not used for capacity allocation."
+  summary: "Get the excludeFromCapacityAllocation property: If <code>true</code>, it includes basic apps. Basic apps are not used for capacity allocation."
   syntax: "public Boolean excludeFromCapacityAllocation()"
   returns:
     description: "the excludeFromCapacityAllocation value."

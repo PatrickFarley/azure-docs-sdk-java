@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.apachecommons.lang.tuple.Pair<L,R>.getLeft()"
   name: "getLeft()"
   nameWithType: "Pair<L,R>.getLeft()"
-  summary: "<p>Gets the left element from this pair.</p>\n\n <p>When treated as a key-value pair, this is the key.</p>"
+  summary: "Gets the left element from this pair.\n\nWhen treated as a key-value pair, this is the key."
   syntax: "public abstract L getLeft()"
   returns:
     description: "the left element, may be null"

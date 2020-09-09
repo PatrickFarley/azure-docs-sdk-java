@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.collect.Iterables.elementsEqual(Iterable<?> iterable1, Iterable<?> iterable2)"
   name: "elementsEqual(Iterable<?> iterable1, Iterable<?> iterable2)"
   nameWithType: "Iterables.elementsEqual(Iterable<?> iterable1, Iterable<?> iterable2)"
-  summary: "Determines whether two iterables contain equal elements in the same order. More specifically,\n this method returns <code>true</code> if <code>iterable1</code> and <code>iterable2</code> contain the same\n number of elements and every element of <code>iterable1</code> is equal to the corresponding element\n of <code>iterable2</code>."
+  summary: "Determines whether two iterables contain equal elements in the same order. More specifically, this method returns `true` if `iterable1` and `iterable2` contain the same number of elements and every element of `iterable1` is equal to the corresponding element of `iterable2`."
   parameters:
   - name: "iterable1"
     type: "<xref href=\"java.lang.Iterable?alt=java.lang.Iterable&text=Iterable\" data-throw-if-not-resolved=\"False\" />&lt;?&gt;"

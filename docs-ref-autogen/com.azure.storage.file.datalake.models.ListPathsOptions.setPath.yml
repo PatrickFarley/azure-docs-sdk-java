@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.file.datalake.models.ListPathsOptions.setPath(String path)"
   name: "setPath(String path)"
   nameWithType: "ListPathsOptions.setPath(String path)"
-  summary: "Specifies the path to filter the results to.\n An error occurs if the path does not exist."
+  summary: "Specifies the path to filter the results to. An error occurs if the path does not exist."
   parameters:
   - description: "The path value"
     name: "path"

@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.appservice.fluent.inner.WebSiteInstanceStatusInner.withContainers(Map<String,ContainerInfo> containers)"
   name: "withContainers(Map<String,ContainerInfo> containers)"
   nameWithType: "WebSiteInstanceStatusInner.withContainers(Map<String,ContainerInfo> containers)"
-  summary: "Set the containers property: Dictionary of &lt;ContainerInfo&gt;."
+  summary: "Set the containers property: Dictionary of <ContainerInfo>."
   parameters:
   - description: "the containers value to set."
     name: "containers"

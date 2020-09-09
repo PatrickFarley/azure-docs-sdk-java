@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.servicebus.ServiceBusClientBuilder.ServiceBusSessionReceiverClientBuilder.maxAutoLockRenewalDuration(Duration maxAutoLockRenewalDuration)"
   name: "maxAutoLockRenewalDuration(Duration maxAutoLockRenewalDuration)"
   nameWithType: "ServiceBusClientBuilder.ServiceBusSessionReceiverClientBuilder.maxAutoLockRenewalDuration(Duration maxAutoLockRenewalDuration)"
-  summary: "Enables auto-lock renewal by renewing each session lock until the <code>maxAutoLockRenewalDuration</code> has\n elapsed."
+  summary: "Enables auto-lock renewal by renewing each session lock until the `maxAutoLockRenewalDuration` has elapsed."
   parameters:
   - description: "Maximum amount of time to renew the session lock."
     name: "maxAutoLockRenewalDuration"

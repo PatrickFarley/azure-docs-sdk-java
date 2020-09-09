@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.VirtualMachineScaleSetExtensionInner.withProtectedSettings(Object protectedSettings)"
   name: "withProtectedSettings(Object protectedSettings)"
   nameWithType: "VirtualMachineScaleSetExtensionInner.withProtectedSettings(Object protectedSettings)"
-  summary: "Set the protectedSettings property: The extension can contain either protectedSettings or\n protectedSettingsFromKeyVault or no protected settings at all."
+  summary: "Set the protectedSettings property: The extension can contain either protectedSettings or protectedSettingsFromKeyVault or no protected settings at all."
   parameters:
   - description: "the protectedSettings value to set."
     name: "protectedSettings"

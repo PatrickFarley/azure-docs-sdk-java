@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.models.DiskSkuTypes.PREMIUM_LRS"
   name: "PREMIUM_LRS"
   nameWithType: "DiskSkuTypes.PREMIUM_LRS"
-  summary: "Static value PREMIUM_LRS for DiskSkuTypes."
+  summary: "Static value PREMIUM\\_LRS for DiskSkuTypes."
   syntax: "public static final DiskSkuTypes PREMIUM_LRS"
 type: "field"
 metadata: {}

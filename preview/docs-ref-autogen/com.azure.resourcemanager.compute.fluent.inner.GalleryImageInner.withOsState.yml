@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.compute.fluent.inner.GalleryImageInner.withOsState(OperatingSystemStateTypes osState)"
   name: "withOsState(OperatingSystemStateTypes osState)"
   nameWithType: "GalleryImageInner.withOsState(OperatingSystemStateTypes osState)"
-  summary: "Set the osState property: This property allows the user to specify whether the virtual machines created under\n this image are 'Generalized' or 'Specialized'."
+  summary: "Set the osState property: This property allows the user to specify whether the virtual machines created under this image are 'Generalized' or 'Specialized'."
   parameters:
   - description: "the osState value to set."
     name: "osState"

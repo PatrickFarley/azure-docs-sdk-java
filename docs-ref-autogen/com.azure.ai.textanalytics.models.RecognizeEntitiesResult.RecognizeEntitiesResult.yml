@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.ai.textanalytics.models.RecognizeEntitiesResult.RecognizeEntitiesResult(String id, TextDocumentStatistics textDocumentStatistics, TextAnalyticsError error, CategorizedEntityCollection entities)"
   name: "RecognizeEntitiesResult(String id, TextDocumentStatistics textDocumentStatistics, TextAnalyticsError error, CategorizedEntityCollection entities)"
   nameWithType: "RecognizeEntitiesResult.RecognizeEntitiesResult(String id, TextDocumentStatistics textDocumentStatistics, TextAnalyticsError error, CategorizedEntityCollection entities)"
-  summary: "Creates a <xref uid=\"RecognizeEntitiesResult\" data-throw-if-not-resolved=\"false\">RecognizeEntitiesResult</xref> model that describes recognized entities result."
+  summary: "Creates a <xref uid=\"com.azure.ai.textanalytics.models.RecognizeEntitiesResult\" data-throw-if-not-resolved=\"false\">RecognizeEntitiesResult</xref> model that describes recognized entities result."
   parameters:
   - description: "Unique, non-empty document identifier."
     name: "id"

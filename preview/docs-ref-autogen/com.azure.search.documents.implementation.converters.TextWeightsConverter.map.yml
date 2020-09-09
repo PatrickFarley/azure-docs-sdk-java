@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TextWeightsConverter.map(TextWeights obj)"
   name: "map(TextWeights obj)"
   nameWithType: "TextWeightsConverter.map(TextWeights obj)"
-  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextWeights\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextWeights</xref> to <xref uid=\"TextWeights\" data-throw-if-not-resolved=\"false\">TextWeights</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextWeights\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextWeights</xref> to <xref uid=\"com.azure.search.documents.indexes.models.TextWeights\" data-throw-if-not-resolved=\"false\">TextWeights</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.implementation.models.TextWeights?alt=com.azure.search.documents.indexes.implementation.models.TextWeights&text=TextWeights\" data-throw-if-not-resolved=\"False\" />"
@@ -19,7 +19,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.TextWeightsConverter.map(TextWeights obj)"
   name: "map(TextWeights obj)"
   nameWithType: "TextWeightsConverter.map(TextWeights obj)"
-  summary: "Maps from <xref uid=\"TextWeights\" data-throw-if-not-resolved=\"false\">TextWeights</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextWeights\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextWeights</xref>."
+  summary: "Maps from <xref uid=\"com.azure.search.documents.indexes.models.TextWeights\" data-throw-if-not-resolved=\"false\">TextWeights</xref> to <xref uid=\"com.azure.search.documents.indexes.implementation.models.TextWeights\" data-throw-if-not-resolved=\"false\">com.azure.search.documents.indexes.implementation.models.TextWeights</xref>."
   parameters:
   - name: "obj"
     type: "<xref href=\"com.azure.search.documents.indexes.models.TextWeights?alt=com.azure.search.documents.indexes.models.TextWeights&text=TextWeights\" data-throw-if-not-resolved=\"False\" />"

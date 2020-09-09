@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.sdk.iot.service.auth.SymmetricKey.setPrimaryKey(String primaryKey)"
   name: "setPrimaryKey(String primaryKey)"
   nameWithType: "SymmetricKey.setPrimaryKey(String primaryKey)"
-  summary: "Setter for primary key\n Validates the length of the key"
+  summary: "Setter for primary key Validates the length of the key"
   parameters:
   - description: "Primary key part of the symmetric key"
     name: "primaryKey"

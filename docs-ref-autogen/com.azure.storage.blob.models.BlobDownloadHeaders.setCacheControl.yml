@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.storage.blob.models.BlobDownloadHeaders.setCacheControl(String cacheControl)"
   name: "setCacheControl(String cacheControl)"
   nameWithType: "BlobDownloadHeaders.setCacheControl(String cacheControl)"
-  summary: "Set the cacheControl property: This header is returned if it was\n previously specified for the blob."
+  summary: "Set the cacheControl property: This header is returned if it was previously specified for the blob."
   parameters:
   - description: "the cacheControl value to set."
     name: "cacheControl"

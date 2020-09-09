@@ -8,7 +8,7 @@ members:
   fullName: "com.microsoft.azure.management.servicebus.Topic.DefinitionStages.WithDeleteOnIdle.withDeleteOnIdleDurationInMinutes(int durationInMinutes)"
   name: "withDeleteOnIdleDurationInMinutes(int durationInMinutes)"
   nameWithType: "Topic.DefinitionStages.WithDeleteOnIdle.withDeleteOnIdleDurationInMinutes(int durationInMinutes)"
-  summary: "The idle interval after which the topic is automatically deleted.\n Note: unless it is explicitly overridden the default delete on idle duration\n is infinite (TimeSpan.Max)."
+  summary: "The idle interval after which the topic is automatically deleted. Note: unless it is explicitly overridden the default delete on idle duration is infinite (TimeSpan.Max)."
   parameters:
   - description: "idle duration in minutes"
     name: "durationInMinutes"

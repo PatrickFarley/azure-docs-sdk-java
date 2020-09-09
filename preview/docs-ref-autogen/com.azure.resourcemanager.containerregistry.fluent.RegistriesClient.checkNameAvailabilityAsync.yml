@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.RegistriesClient.checkNameAvailabilityAsync(String name)"
   name: "checkNameAvailabilityAsync(String name)"
   nameWithType: "RegistriesClient.checkNameAvailabilityAsync(String name)"
-  summary: "Checks whether the container registry name is available for use. The name must contain only alphanumeric\n characters, be globally unique, and between 5 and 50 characters in length."
+  summary: "Checks whether the container registry name is available for use. The name must contain only alphanumeric characters, be globally unique, and between 5 and 50 characters in length."
   parameters:
   - description: "The name of the container registry."
     name: "name"
@@ -21,7 +21,7 @@ members:
   fullName: "com.azure.resourcemanager.containerregistry.fluent.RegistriesClient.checkNameAvailabilityAsync(String name, Context context)"
   name: "checkNameAvailabilityAsync(String name, Context context)"
   nameWithType: "RegistriesClient.checkNameAvailabilityAsync(String name, Context context)"
-  summary: "Checks whether the container registry name is available for use. The name must contain only alphanumeric\n characters, be globally unique, and between 5 and 50 characters in length."
+  summary: "Checks whether the container registry name is available for use. The name must contain only alphanumeric characters, be globally unique, and between 5 and 50 characters in length."
   parameters:
   - description: "The name of the container registry."
     name: "name"

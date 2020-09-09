@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.messaging.eventhubs.models.EventPosition.latest()"
   name: "latest()"
   nameWithType: "EventPosition.latest()"
-  summary: "Corresponds to the end of the partition, where no more events are currently enqueued. Use this position to begin\n receiving from the next event to be enqueued in the partition when\n <xref uid=\"EventHubConsumerAsyncClient#receiveFromPartition(String, EventPosition)\" data-throw-if-not-resolved=\"false\">receiveFromPartition()</xref> invoked."
+  summary: "Corresponds to the end of the partition, where no more events are currently enqueued. Use this position to begin receiving from the next event to be enqueued in the partition when <xref uid=\"com.azure.messaging.eventhubs.EventHubConsumerAsyncClient.receiveFromPartition(java.lang.String,com.azure.messaging.eventhubs.models.EventPosition)\" data-throw-if-not-resolved=\"false\">receiveFromPartition()</xref> invoked."
   syntax: "public static EventPosition latest()"
   returns:
     description: "An <xref uid=\"com.azure.messaging.eventhubs.models.EventPosition\" data-throw-if-not-resolved=\"false\">EventPosition</xref> set to the end of an Event Hubs stream and listens for new events."

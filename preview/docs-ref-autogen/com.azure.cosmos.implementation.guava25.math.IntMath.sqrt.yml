@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.cosmos.implementation.guava25.math.IntMath.sqrt(int x, RoundingMode mode)"
   name: "sqrt(int x, RoundingMode mode)"
   nameWithType: "IntMath.sqrt(int x, RoundingMode mode)"
-  summary: "Returns the square root of <code>x</code>, rounded with the specified rounding mode."
+  summary: "Returns the square root of `x`, rounded with the specified rounding mode."
   parameters:
   - name: "x"
     type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"

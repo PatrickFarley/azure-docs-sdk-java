@@ -21,7 +21,7 @@ members:
   fullName: "com.microsoft.azure.servicebus.management.ManagementClientAsync.getSubscriptionsAsync(String topicName, int count, int skip)"
   name: "getSubscriptionsAsync(String topicName, int count, int skip)"
   nameWithType: "ManagementClientAsync.getSubscriptionsAsync(String topicName, int count, int skip)"
-  summary: "Retrieves the list of subscriptions for a given topic in the namespace.\n You can simulate pages of list of entities by manipulating count and skip parameters.\n skip(0)+count(100) gives first 100 entities. skip(100)+count(100) gives the next 100 entities."
+  summary: "Retrieves the list of subscriptions for a given topic in the namespace. You can simulate pages of list of entities by manipulating count and skip parameters. skip(0)+count(100) gives first 100 entities. skip(100)+count(100) gives the next 100 entities."
   parameters:
   - description: "- The name of the topic."
     name: "topicName"
